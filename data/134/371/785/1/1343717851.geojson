@@ -1,0 +1,75 @@
+{
+  "id": 1343717851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.03333,64.73333,21.03333,64.73333",
+    "geom:latitude":64.73333,
+    "geom:longitude":21.03333,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"2482.0",
+    "gn:asciiname":"Tuvan",
+    "gn:cc2":"SE",
+    "gn:country_code":"SE",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":602185,
+    "gn:latitude":64.73333,
+    "gn:longitude":21.03333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tuvan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tufvan",
+        "Tuvan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688465,
+        102191581,
+        1125417515,
+        85633789,
+        1159303205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":602185
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"459ea3a509fa3c769f76cf1ea92ee046",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303205,
+            "localadmin_id":1125417515,
+            "locality_id":1343717851,
+            "region_id":85688465
+        }
+    ],
+    "wof:id":1343717851,
+    "wof:lastmodified":1537699698,
+    "wof:name":"Tuvan",
+    "wof:parent_id":1125417515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.03333,
+    64.73333000000001,
+    21.03333,
+    64.73333000000001
+],
+  "geometry": {"coordinates":[21.03333,64.73333000000001],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1209585491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.1,59.35,15.1,59.35",
+    "geom:latitude":59.35,
+    "geom:longitude":15.1,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1880.0",
+    "gn:asciiname":"Rocklinge",
+    "gn:country_code":"SE",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2682217,
+    "gn:latitude":59.35,
+    "gn:longitude":15.1,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"R\u00f6cklinge",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "R\u00f6cklinge"
+    ],
+    "name:nor_x_variant":[
+        "R\u00f8cklinge"
+    ],
+    "name:und_x_variant":[
+        "R\u00f6cklinge"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2682217
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"d0b129e4fb49e669b1861e1bb96c92eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633789,
+            "locality_id":1209585491
+        }
+    ],
+    "wof:id":1209585491,
+    "wof:lastmodified":1537699867,
+    "wof:name":"Rocklinge",
+    "wof:parent_id":85633789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.1,
+    59.35,
+    15.1,
+    59.35
+],
+  "geometry": {"coordinates":[15.1,59.35],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1209816197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.76667,61.55,16.76667,61.55",
+    "geom:latitude":61.55,
+    "geom:longitude":16.76667,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"2184.0",
+    "gn:asciiname":"Lovas",
+    "gn:country_code":"SE",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2694032,
+    "gn:latitude":61.55,
+    "gn:longitude":16.76667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"L\u00f6v\u00e5s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "L\u00f6v\u00e5s"
+    ],
+    "name:nor_x_variant":[
+        "L\u00f8v\u00e5s"
+    ],
+    "name:und_x_variant":[
+        "L\u00f6v\u00e5s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688453,
+        102191581,
+        1125340039,
+        85633789,
+        1159303395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2694032
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"db8f8937fad45d051b04ec07dfdd0818",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303395,
+            "localadmin_id":1125340039,
+            "locality_id":1209816197,
+            "region_id":85688453
+        }
+    ],
+    "wof:id":1209816197,
+    "wof:lastmodified":1537699971,
+    "wof:name":"Lovas",
+    "wof:parent_id":1125340039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.76667,
+    61.55,
+    16.76667,
+    61.55
+],
+  "geometry": {"coordinates":[16.76667,61.55],"type":"Point"}
+}

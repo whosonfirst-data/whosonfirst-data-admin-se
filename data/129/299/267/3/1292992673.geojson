@@ -1,0 +1,70 @@
+{
+  "id": 1292992673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.73333,56.8,12.73333,56.8",
+    "geom:latitude":56.8,
+    "geom:longitude":12.73333,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"1380.0",
+    "gn:asciiname":"Underlund",
+    "gn:country_code":"SE",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2666328,
+    "gn:latitude":56.8,
+    "gn:longitude":12.73333,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Underlund",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688391,
+        102191581,
+        1159305929,
+        85633789,
+        1159303343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2666328
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"b09730f3529a207e9a094db352e1b116",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303343,
+            "localadmin_id":1159305929,
+            "locality_id":1292992673,
+            "region_id":85688391
+        }
+    ],
+    "wof:id":1292992673,
+    "wof:lastmodified":1537002631,
+    "wof:name":"Underlund",
+    "wof:parent_id":1159305929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.73333,
+    56.8,
+    12.73333,
+    56.8
+],
+  "geometry": {"coordinates":[12.73333,56.8],"type":"Point"}
+}

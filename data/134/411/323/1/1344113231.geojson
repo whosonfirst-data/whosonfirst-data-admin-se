@@ -1,0 +1,79 @@
+{
+  "id": 1344113231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.68333,59.5,12.68333,59.5",
+    "geom:latitude":59.5,
+    "geom:longitude":12.68333,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1784.0",
+    "gn:asciiname":"Sottersbol",
+    "gn:country_code":"SE",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2674955,
+    "gn:latitude":59.5,
+    "gn:longitude":12.68333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"S\u00f6ttersbol",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "S\u00f6ttersbol"
+    ],
+    "name:nor_x_variant":[
+        "S\u00f8ttersbol"
+    ],
+    "name:und_x_variant":[
+        "S\u00f6ttersbol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688435,
+        102191581,
+        1125286859,
+        85633789,
+        1159303075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2674955
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"c10d0c93b2b6aa607e097fc7e1124822",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303075,
+            "localadmin_id":1125286859,
+            "locality_id":1344113231,
+            "region_id":85688435
+        }
+    ],
+    "wof:id":1344113231,
+    "wof:lastmodified":1537699802,
+    "wof:name":"Sottersbol",
+    "wof:parent_id":1125286859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.68333,
+    59.5,
+    12.68333,
+    59.5
+],
+  "geometry": {"coordinates":[12.68333,59.5],"type":"Point"}
+}

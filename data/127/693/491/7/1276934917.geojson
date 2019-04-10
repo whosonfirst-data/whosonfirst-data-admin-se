@@ -1,0 +1,83 @@
+{
+  "id": 1276934917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.92887,63.85174,19.92887,63.85174",
+    "geom:latitude":63.85174,
+    "geom:longitude":19.92887,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"2480.0",
+    "gn:asciiname":"OEverboda",
+    "gn:country_code":"SE",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2685053,
+    "gn:latitude":63.85174,
+    "gn:longitude":19.92887,
+    "gn:modification_date":"2017-03-19",
+    "gn:name":"\u00d6verboda",
+    "gn:population":241,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "\u00d6verboda"
+    ],
+    "name:nor_x_variant":[
+        "\u00d8verboda"
+    ],
+    "name:und_x_variant":[
+        "\u00d6verboda"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688465,
+        102191581,
+        1125325333,
+        85633789,
+        1159303017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2685053,
+        "wk:page":"%C3%96verboda"
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"c41aee04a36f1f71e9fea88247cbace2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303017,
+            "localadmin_id":1125325333,
+            "locality_id":1276934917,
+            "region_id":85688465
+        }
+    ],
+    "wof:id":1276934917,
+    "wof:lastmodified":1537699885,
+    "wof:name":"OEverboda",
+    "wof:parent_id":1125325333,
+    "wof:placetype":"locality",
+    "wof:population":241,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.92887,
+    63.85174,
+    19.92887,
+    63.85174
+],
+  "geometry": {"coordinates":[19.92887,63.85174],"type":"Point"}
+}

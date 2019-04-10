@@ -1,0 +1,114 @@
+{
+  "id": 1126012035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.01667,56.46667,13.01667,56.46667",
+    "geom:latitude":56.46667,
+    "geom:longitude":13.01667,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":647,
+    "gn:population":655,
+    "iso:country":"SE",
+    "lbl:latitude":56.46667,
+    "lbl:longitude":13.01667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Vallberga"
+    ],
+    "name:eng_x_preferred":[
+        "Vallberga"
+    ],
+    "name:fre_x_preferred":[
+        "Vallberga"
+    ],
+    "name:nan_x_preferred":[
+        "Vallberga"
+    ],
+    "name:nno_x_preferred":[
+        "Vallberga"
+    ],
+    "name:nob_x_preferred":[
+        "Vallberga"
+    ],
+    "name:swe_x_preferred":[
+        "Vallberga"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2665537,
+    "qs_pg:gn_pop":647,
+    "qs_pg:name":"Vallberga",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"Hallands L\u00e4n",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":108,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1013390,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":908840,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"Hallands L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688391,
+        102191581,
+        1125421393,
+        85633789,
+        1159303423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2665537,
+        "gp:id":908840,
+        "qs_pg:id":1013390,
+        "wd:id":"Q2337966"
+    },
+    "wof:country":"SE",
+    "wof:created":1497300330,
+    "wof:geomhash":"2434afe2f866e6946449a08a8c0a76ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303423,
+            "localadmin_id":1125421393,
+            "locality_id":1126012035,
+            "region_id":85688391
+        }
+    ],
+    "wof:id":1126012035,
+    "wof:lastmodified":1529702346,
+    "wof:name":"Vallberga",
+    "wof:parent_id":1125421393,
+    "wof:placetype":"locality",
+    "wof:population":655,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.01667,
+    56.46667,
+    13.01667,
+    56.46667
+],
+  "geometry": {"coordinates":[13.01667,56.46667],"type":"Point"}
+}

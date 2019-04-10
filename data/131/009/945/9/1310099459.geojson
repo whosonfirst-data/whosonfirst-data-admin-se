@@ -1,0 +1,79 @@
+{
+  "id": 1310099459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.49421,56.27701,16.49421,56.27701",
+    "geom:latitude":56.27701,
+    "geom:longitude":16.49421,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"840.0",
+    "gn:admin3_code":"84008.0",
+    "gn:admin4_code":"809.0",
+    "gn:asciiname":"Ossby",
+    "gn:country_code":"SE",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2686145,
+    "gn:latitude":56.27701,
+    "gn:longitude":16.49421,
+    "gn:modification_date":"2014-03-20",
+    "gn:name":"\u00d6ssby",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "\u00d6ssby"
+    ],
+    "name:nor_x_variant":[
+        "\u00d8ssby"
+    ],
+    "name:und_x_variant":[
+        "\u00d6ssby"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688401,
+        1159307211,
+        1159303101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2686145
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"45bcaf1150c055e87c94ee6cd0ec62fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "county_id":1159303101,
+            "localadmin_id":1159307211,
+            "locality_id":1310099459,
+            "region_id":85688401
+        }
+    ],
+    "wof:id":1310099459,
+    "wof:lastmodified":1537699912,
+    "wof:name":"Ossby",
+    "wof:parent_id":1159307211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.49421,
+    56.27701,
+    16.49421,
+    56.27701
+],
+  "geometry": {"coordinates":[16.49421,56.27701],"type":"Point"}
+}

@@ -1,0 +1,117 @@
+{
+  "id": 1125775739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.55,63.3,18.55,63.3",
+    "geom:latitude":63.3,
+    "geom:longitude":18.55,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":602,
+    "gn:population":602,
+    "iso:country":"SE",
+    "lbl:latitude":63.3,
+    "lbl:longitude":18.55,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "\u00d6verh\u00f6rn\u00e4s"
+    ],
+    "name:eng_x_preferred":[
+        "\u00d6verh\u00f6rn\u00e4s"
+    ],
+    "name:nan_x_preferred":[
+        "\u00d6verh\u00f6rn\u00e4s"
+    ],
+    "name:nno_x_preferred":[
+        "\u00d6verh\u00f6rn\u00e4s"
+    ],
+    "name:nob_x_preferred":[
+        "\u00d6verh\u00f6rn\u00e4s"
+    ],
+    "name:pol_x_preferred":[
+        "\u00d6verh\u00f6rn\u00e4s"
+    ],
+    "name:swe_x_preferred":[
+        "\u00d6verh\u00f6rn\u00e4s"
+    ],
+    "name:unk_x_variant":[
+        "H\u00f6rn\u00e4s"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2685013,
+    "qs_pg:gn_pop":602,
+    "qs_pg:name":"\u00d6verh\u00f6rn\u00e4s",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"V\u00e4sternorrlands L\u00e4n",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":61,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":191439,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":901504,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"V\u00e4sternorrlands L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688457,
+        102191581,
+        1125409985,
+        85633789,
+        1159303463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2685013,
+        "gp:id":901504,
+        "qs_pg:id":191439,
+        "wd:id":"Q2077385"
+    },
+    "wof:country":"SE",
+    "wof:created":1497290249,
+    "wof:geomhash":"a15f4fdc0443357bcd5f15fe7e6a0fed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303463,
+            "localadmin_id":1125409985,
+            "locality_id":1125775739,
+            "region_id":85688457
+        }
+    ],
+    "wof:id":1125775739,
+    "wof:lastmodified":1529703006,
+    "wof:name":"\u00d6verh\u00f6rn\u00e4s",
+    "wof:parent_id":1125409985,
+    "wof:placetype":"locality",
+    "wof:population":602,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.55,
+    63.3,
+    18.55,
+    63.3
+],
+  "geometry": {"coordinates":[18.55,63.3],"type":"Point"}
+}

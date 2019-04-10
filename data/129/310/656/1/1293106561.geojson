@@ -1,0 +1,67 @@
+{
+  "id": 1293106561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.38333,56.15,15.38333,56.15",
+    "geom:latitude":56.15,
+    "geom:longitude":15.38333,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Stenaby",
+    "gn:country_code":"SE",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2674308,
+    "gn:latitude":56.15,
+    "gn:longitude":15.38333,
+    "gn:modification_date":"1994-01-14",
+    "gn:name":"Stenaby",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688383,
+        1125373091,
+        1159303551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2674308
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"93e5b972351e53fc52a57c11882afa3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "county_id":1159303551,
+            "localadmin_id":1125373091,
+            "locality_id":1293106561,
+            "region_id":85688383
+        }
+    ],
+    "wof:id":1293106561,
+    "wof:lastmodified":1536838168,
+    "wof:name":"Stenaby",
+    "wof:parent_id":1125373091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.38333,
+    56.15,
+    15.38333,
+    56.15
+],
+  "geometry": {"coordinates":[15.38333,56.15],"type":"Point"}
+}

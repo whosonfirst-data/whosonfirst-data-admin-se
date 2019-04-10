@@ -1,0 +1,75 @@
+{
+  "id": 1326588215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.76667,59.23333,12.76667,59.23333",
+    "geom:latitude":59.23333,
+    "geom:longitude":12.76667,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1785.0",
+    "gn:asciiname":"Torstensbyn",
+    "gn:cc2":"SE",
+    "gn:country_code":"SE",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2667785,
+    "gn:latitude":59.23333,
+    "gn:longitude":12.76667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Torstensbyn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Torpstensby",
+        "Torstensbyn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688435,
+        102191581,
+        1159306917,
+        85633789,
+        1159303169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2667785
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"440b68d1b1603e0e65cb7ec65f843d45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303169,
+            "localadmin_id":1159306917,
+            "locality_id":1326588215,
+            "region_id":85688435
+        }
+    ],
+    "wof:id":1326588215,
+    "wof:lastmodified":1537699770,
+    "wof:name":"Torstensbyn",
+    "wof:parent_id":1159306917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.76667,
+    59.23333,
+    12.76667,
+    59.23333
+],
+  "geometry": {"coordinates":[12.76667,59.23333],"type":"Point"}
+}

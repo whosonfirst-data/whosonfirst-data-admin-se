@@ -1,0 +1,68 @@
+{
+  "id": 1292895145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.38333,57.65,16.38333,57.65",
+    "geom:latitude":57.65,
+    "geom:longitude":16.38333,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"883.0",
+    "gn:asciiname":"Falsterbo",
+    "gn:country_code":"SE",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2715476,
+    "gn:latitude":57.65,
+    "gn:longitude":16.38333,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Falsterbo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688401,
+        1125277765,
+        1159303209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2715476
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"72854ea082ec3da6cf083969947c3088",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "county_id":1159303209,
+            "localadmin_id":1125277765,
+            "locality_id":1292895145,
+            "region_id":85688401
+        }
+    ],
+    "wof:id":1292895145,
+    "wof:lastmodified":1536646497,
+    "wof:name":"Falsterbo",
+    "wof:parent_id":1125277765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.38332999999999,
+    57.65,
+    16.38332999999999,
+    57.65
+],
+  "geometry": {"coordinates":[16.38332999999999,57.65],"type":"Point"}
+}

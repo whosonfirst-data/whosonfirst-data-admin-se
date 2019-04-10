@@ -1,0 +1,70 @@
+{
+  "id": 1243322137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.61667,60.31667,17.61667,60.31667",
+    "geom:latitude":60.31667,
+    "geom:longitude":17.61667,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"360.0",
+    "gn:asciiname":"Mickelsbo",
+    "gn:country_code":"SE",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2691944,
+    "gn:latitude":60.31667,
+    "gn:longitude":17.61667,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Mickelsbo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688439,
+        102191581,
+        1159306675,
+        85633789,
+        1159302963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2691944
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"180deb6cddf43f72c307585cefa0d14d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302963,
+            "localadmin_id":1159306675,
+            "locality_id":1243322137,
+            "region_id":85688439
+        }
+    ],
+    "wof:id":1243322137,
+    "wof:lastmodified":1536984143,
+    "wof:name":"Mickelsbo",
+    "wof:parent_id":1159306675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.61667000000001,
+    60.31667,
+    17.61667000000001,
+    60.31667
+],
+  "geometry": {"coordinates":[17.61667000000001,60.31667],"type":"Point"}
+}

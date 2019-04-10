@@ -1,0 +1,68 @@
+{
+  "id": 1327410407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.56667,57.15,15.56667,57.15",
+    "geom:latitude":57.15,
+    "geom:longitude":15.56667,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"760.0",
+    "gn:asciiname":"Danstorp",
+    "gn:country_code":"SE",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2717952,
+    "gn:latitude":57.15,
+    "gn:longitude":15.56667,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Danstorp",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688401,
+        1125417511,
+        1159302955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2717952
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"a05a4d1cf9c6b74f4dd62822745e7622",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "county_id":1159302955,
+            "localadmin_id":1125417511,
+            "locality_id":1327410407,
+            "region_id":85688401
+        }
+    ],
+    "wof:id":1327410407,
+    "wof:lastmodified":1536712876,
+    "wof:name":"Danstorp",
+    "wof:parent_id":1125417511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.56667,
+    57.15,
+    15.56667,
+    57.15
+],
+  "geometry": {"coordinates":[15.56667,57.15],"type":"Point"}
+}

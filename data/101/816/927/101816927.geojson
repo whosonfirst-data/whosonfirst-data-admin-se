@@ -1,0 +1,135 @@
+{
+  "id": 101816927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00021,
+    "geom:area_square_m":1362934.989951,
+    "geom:bbox":"15.7123782897,58.3220407666,15.736011969,58.3425429235",
+    "geom:latitude":58.331894,
+    "geom:longitude":15.725118,
+    "gn:population":2228,
+    "iso:country":"SE",
+    "lbl:latitude":58.333423,
+    "lbl:longitude":15.727087,
+    "mps:latitude":58.333423,
+    "mps:longitude":15.727087,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0421\u0442\u044e\u0440\u0435\u0444\u043e\u0440\u0448"
+    ],
+    "name:dan_x_preferred":[
+        "Sturefors"
+    ],
+    "name:dut_x_preferred":[
+        "Sturefors"
+    ],
+    "name:eng_x_preferred":[
+        "Sturefors"
+    ],
+    "name:est_x_preferred":[
+        "Sturefors"
+    ],
+    "name:fra_x_preferred":[
+        "Sturefors"
+    ],
+    "name:fre_x_preferred":[
+        "Sturefors"
+    ],
+    "name:ita_x_preferred":[
+        "Sturefors"
+    ],
+    "name:nan_x_preferred":[
+        "Sturefors"
+    ],
+    "name:nld_x_preferred":[
+        "Sturefors"
+    ],
+    "name:nno_x_preferred":[
+        "Sturefors"
+    ],
+    "name:nob_x_preferred":[
+        "Sturefors"
+    ],
+    "name:nor_x_preferred":[
+        "Sturefors"
+    ],
+    "name:swe_x_preferred":[
+        "Sturefors"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Sturefors"
+    ],
+    "qs:a0":"Sverige",
+    "qs:a1":"*\u00d6sterg\u00f6tlands l\u00e4n",
+    "qs:a1r":"0",
+    "qs:adm0":"Sverige",
+    "qs:la":"Link\u00f6ping",
+    "qs:la_lc":"*SE0580",
+    "qs:level":"locality",
+    "qs:loc":"Sturefors",
+    "qs:loc_alt":"Sturefors",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":45,
+    "wof:belongsto":[
+        85688409,
+        102191581,
+        1125373699,
+        85633789,
+        1159303147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06d09b7c-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2671060,
+        "gp:id":906633,
+        "qs:id":238519,
+        "qs_pg:id":238519,
+        "wd:id":"Q3036463",
+        "wk:page":"Sturefors"
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"b642f676cb14ecf6fd7a1bc08033bc83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303147,
+            "localadmin_id":1125373699,
+            "locality_id":101816927,
+            "region_id":85688409
+        }
+    ],
+    "wof:id":101816927,
+    "wof:lang":[
+        "swe"
+    ],
+    "wof:lastmodified":1529703106,
+    "wof:name":"Sturefors",
+    "wof:parent_id":1125373699,
+    "wof:placetype":"locality",
+    "wof:population":2228,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.7123782897346,
+    58.32204076656041,
+    15.73601196901348,
+    58.34254292354478
+],
+  "geometry": {"coordinates":[[[15.7204481499831,58.33859933219037],[15.72724573086811,58.33831097661306],[15.72738851953682,58.3392068650121],[15.73078735549296,58.33906255506906],[15.73064448300613,58.33816667073899],[15.73234384949279,58.33809448578103],[15.73220094344845,58.33719860356712],[15.73390026163878,58.33712639929809],[15.73361439079713,58.33533463918303],[15.7319151564098,58.33540683938065],[15.73091516471999,58.32913566726074],[15.73601196901348,58.32891904538263],[15.73572608092974,58.3271272948532],[15.73232838530464,58.32727172263759],[15.73218553753816,58.32637584342177],[15.73048672202214,58.32644802326985],[15.7299155818697,58.32286449906945],[15.72821692745367,58.32293664944399],[15.72807420512868,58.32204076656041],[15.71788239592803,58.32247320853617],[15.71830983426696,58.32516089398973],[15.72000861067573,58.32508886758035],[15.72015114864297,58.32598476086309],[15.72354876609364,58.32584063996546],[15.72411933627779,58.32942419765448],[15.72242036321813,58.32949627689908],[15.72284825269486,58.33218395210844],[15.71945003611171,58.33232805875821],[15.71959259881504,58.33322395471902],[15.7178934390663,58.33329597805869],[15.718321051457,58.33598367252034],[15.71662175963399,58.33605568060568],[15.71704932126522,58.33874338189139],[15.71534989734437,58.33881537471962],[15.71563489624759,58.34060718004542],[15.71393538212385,58.34067915558438],[15.71407785214859,58.34157506039963],[15.7123782897346,58.34164701661803],[15.71252072616403,58.34254292354478],[15.71761952005193,58.34232698474943],[15.71747695785911,58.34143108391214],[15.71917650115097,58.34135906364332],[15.71889131792585,58.33956726627611],[15.72059077100886,58.3394952287203],[15.7204481499831,58.33859933219037]]],"type":"Polygon"}
+}

@@ -1,0 +1,120 @@
+{
+  "id": 1126006135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.21667,57.16667,12.21667,57.16667",
+    "geom:latitude":57.16667,
+    "geom:longitude":12.21667,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":445,
+    "gn:population":965,
+    "iso:country":"SE",
+    "lbl:latitude":57.16667,
+    "lbl:longitude":12.21667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "T\u00e5ngaberg"
+    ],
+    "name:eng_x_preferred":[
+        "T\u00e5ngaberg"
+    ],
+    "name:fre_x_preferred":[
+        "T\u00e5ngaberg"
+    ],
+    "name:nan_x_preferred":[
+        "T\u00e5ngaberg"
+    ],
+    "name:nno_x_preferred":[
+        "T\u00e5ngaberg"
+    ],
+    "name:nob_x_preferred":[
+        "T\u00e5ngaberg"
+    ],
+    "name:per_x_preferred":[
+        "\u062a\u0627\u0646\u06af\u0627\u0628\u0631\u06af"
+    ],
+    "name:swe_x_preferred":[
+        "T\u00e5ngaberg"
+    ],
+    "name:unk_x_variant":[
+        "T\u00e5ngeberg"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2669517,
+    "qs_pg:gn_pop":445,
+    "qs_pg:name":"T\u00e5ngaberg",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"Hallands L\u00e4n",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":11,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":922856,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":907242,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"Hallands L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688391,
+        102191581,
+        1125325517,
+        85633789,
+        1159302939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2669517,
+        "gp:id":907242,
+        "qs_pg:id":922856,
+        "wd:id":"Q3355260"
+    },
+    "wof:country":"SE",
+    "wof:created":1497299966,
+    "wof:geomhash":"ceba213aafccd201085d62fdd179eb92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302939,
+            "localadmin_id":1125325517,
+            "locality_id":1126006135,
+            "region_id":85688391
+        }
+    ],
+    "wof:id":1126006135,
+    "wof:lastmodified":1529702350,
+    "wof:name":"T\u00e5ngaberg",
+    "wof:parent_id":1125325517,
+    "wof:placetype":"locality",
+    "wof:population":965,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.21667,
+    57.16667,
+    12.21667,
+    57.16667
+],
+  "geometry": {"coordinates":[12.21667,57.16667],"type":"Point"}
+}

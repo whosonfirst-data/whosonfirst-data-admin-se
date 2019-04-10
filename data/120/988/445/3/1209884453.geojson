@@ -1,0 +1,74 @@
+{
+  "id": 1209884453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.86667,63.55,19.86667,63.55",
+    "geom:latitude":63.55,
+    "geom:longitude":19.86667,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Mo Angsag",
+    "gn:cc2":"SE",
+    "gn:country_code":"SE",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2691642,
+    "gn:latitude":63.55,
+    "gn:longitude":19.86667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Mo \u00c5ngs\u00e5g",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mo",
+        "Mo \u00c5ngs\u00e5g"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688465,
+        102191581,
+        1125382279,
+        85633789,
+        1159303017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2691642
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"6dd2e5f276a0f86b84fd47461f815fb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303017,
+            "localadmin_id":1125382279,
+            "locality_id":1209884453,
+            "region_id":85688465
+        }
+    ],
+    "wof:id":1209884453,
+    "wof:lastmodified":1537699957,
+    "wof:name":"Mo Angsag",
+    "wof:parent_id":1125382279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.86667000000001,
+    63.55,
+    19.86667000000001,
+    63.55
+],
+  "geometry": {"coordinates":[19.86667000000001,63.55],"type":"Point"}
+}

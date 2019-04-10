@@ -1,0 +1,96 @@
+{
+  "id": 1125984017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.76667,59.25833,18.76667,59.25833",
+    "geom:latitude":59.25833,
+    "geom:longitude":18.76667,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"SE",
+    "lbl:latitude":59.25833,
+    "lbl:longitude":18.76667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:nor_x_preferred":[
+        "S\u00f8derby"
+    ],
+    "name:nor_x_variant":[
+        "S\u00f6derby"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2676259,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"S\u00f6derby",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"Stockholms L\u00e4n",
+    "qs_pg:photos":33,
+    "qs_pg:photos_1k":7,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":33,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":994425,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":904967,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"Stockholms L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688429,
+        102191581,
+        1125287087,
+        85633789,
+        1159303241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2676259,
+        "gp:id":904967,
+        "qs_pg:id":994425
+    },
+    "wof:country":"SE",
+    "wof:created":1497298711,
+    "wof:geomhash":"75d660174c50edd9b8fde5b4ce7acbc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303241,
+            "localadmin_id":1125287087,
+            "locality_id":1125984017,
+            "region_id":85688429
+        }
+    ],
+    "wof:id":1125984017,
+    "wof:lastmodified":1529702759,
+    "wof:name":"S\u00f6derby",
+    "wof:parent_id":1125287087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.76667,
+    59.25833,
+    18.76667,
+    59.25833
+],
+  "geometry": {"coordinates":[18.76667,59.25833],"type":"Point"}
+}

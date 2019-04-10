@@ -1,0 +1,70 @@
+{
+  "id": 1276760227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.21579,57.25344,18.21579,57.25344",
+    "geom:latitude":57.25344,
+    "geom:longitude":18.21579,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"980.0",
+    "gn:asciiname":"Sproge",
+    "gn:country_code":"SE",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2674722,
+    "gn:latitude":57.25344,
+    "gn:longitude":18.21579,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Sproge",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688405,
+        102191581,
+        1125325473,
+        85633789,
+        1159303535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2674722
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"1785ab25863d940617370dd464cdc35e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303535,
+            "localadmin_id":1125325473,
+            "locality_id":1276760227,
+            "region_id":85688405
+        }
+    ],
+    "wof:id":1276760227,
+    "wof:lastmodified":1536704119,
+    "wof:name":"Sproge",
+    "wof:parent_id":1125325473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.21579,
+    57.25344000000001,
+    18.21579,
+    57.25344000000001
+],
+  "geometry": {"coordinates":[18.21579,57.25344000000001],"type":"Point"}
+}

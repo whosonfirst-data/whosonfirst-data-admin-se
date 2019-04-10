@@ -1,0 +1,69 @@
+{
+  "id": 1243353371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.51667,57.4,15.51667,57.4",
+    "geom:latitude":57.4,
+    "geom:longitude":15.51667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kvilletorp",
+    "gn:country_code":"SE",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2698269,
+    "gn:latitude":57.4,
+    "gn:longitude":15.51667,
+    "gn:modification_date":"1994-01-14",
+    "gn:name":"Kvilletorp",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688395,
+        102191581,
+        1125373585,
+        85633789,
+        1159303157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2698269
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"eb6bc4ed0669371375c6e9c13e163ebb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303157,
+            "localadmin_id":1125373585,
+            "locality_id":1243353371,
+            "region_id":85688395
+        }
+    ],
+    "wof:id":1243353371,
+    "wof:lastmodified":1536940423,
+    "wof:name":"Kvilletorp",
+    "wof:parent_id":1125373585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.51667,
+    57.4,
+    15.51667,
+    57.4
+],
+  "geometry": {"coordinates":[15.51667,57.4],"type":"Point"}
+}

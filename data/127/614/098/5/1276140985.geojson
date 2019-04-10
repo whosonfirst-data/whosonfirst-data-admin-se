@@ -1,0 +1,70 @@
+{
+  "id": 1276140985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.45,57.6,14.45,57.6",
+    "geom:latitude":57.6,
+    "geom:longitude":14.45,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"682.0",
+    "gn:asciiname":"Ormestorp",
+    "gn:country_code":"SE",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2686543,
+    "gn:latitude":57.6,
+    "gn:longitude":14.45,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Ormestorp",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688395,
+        102191581,
+        1125417583,
+        85633789,
+        1159303537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2686543
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"4d9ac2a138ee2e01a01a699a084f60ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303537,
+            "localadmin_id":1125417583,
+            "locality_id":1276140985,
+            "region_id":85688395
+        }
+    ],
+    "wof:id":1276140985,
+    "wof:lastmodified":1537034913,
+    "wof:name":"Ormestorp",
+    "wof:parent_id":1125417583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.45,
+    57.6,
+    14.45,
+    57.6
+],
+  "geometry": {"coordinates":[14.45,57.6],"type":"Point"}
+}

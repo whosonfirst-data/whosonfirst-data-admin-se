@@ -1,0 +1,79 @@
+{
+  "id": 1226503725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.75,57.65,12.75,57.65",
+    "geom:latitude":57.65,
+    "geom:longitude":12.75,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"1490.0",
+    "gn:asciiname":"Bjorkhult",
+    "gn:country_code":"SE",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2722095,
+    "gn:latitude":57.65,
+    "gn:longitude":12.75,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Bj\u00f6rkhult",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Bj\u00f6rkhult"
+    ],
+    "name:nor_x_variant":[
+        "Bj\u00f8rkhult"
+    ],
+    "name:und_x_variant":[
+        "Bj\u00f6rkhult"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688411,
+        102191581,
+        1125417553,
+        85633789,
+        1159303073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2722095
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"8f8c79e66aba057402c92dd8c967e3a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303073,
+            "localadmin_id":1125417553,
+            "locality_id":1226503725,
+            "region_id":85688411
+        }
+    ],
+    "wof:id":1226503725,
+    "wof:lastmodified":1537700123,
+    "wof:name":"Bjorkhult",
+    "wof:parent_id":1125417553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.75,
+    57.65,
+    12.75,
+    57.65
+],
+  "geometry": {"coordinates":[12.75,57.65],"type":"Point"}
+}

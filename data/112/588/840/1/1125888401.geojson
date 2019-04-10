@@ -1,0 +1,103 @@
+{
+  "id": 1125888401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.248567,55.538685,13.248567,55.538685",
+    "geom:latitude":55.538685,
+    "geom:longitude":13.248567,
+    "gn:gn_country":null,
+    "iso:country":"SE",
+    "lbl:latitude":55.538685,
+    "lbl:longitude":13.248567,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Sj\u00f6diken"
+    ],
+    "name:eng_x_preferred":[
+        "Sj\u00f6diken"
+    ],
+    "name:nan_x_preferred":[
+        "Sj\u00f6diken"
+    ],
+    "name:nno_x_preferred":[
+        "Sj\u00f6diken"
+    ],
+    "name:nob_x_preferred":[
+        "Sj\u00f6diken"
+    ],
+    "name:swe_x_preferred":[
+        "Sj\u00f6diken"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Sjodiken",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"Sk\u00e5ne L\u00e4n",
+    "qs_pg:photos":3,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":3,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":989060,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":15002539,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"Sk\u00e5ne L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688377,
+        102191581,
+        1159307245,
+        85633789,
+        1159303083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":15002539,
+        "qs_pg:id":989060,
+        "wd:id":"Q260451"
+    },
+    "wof:country":"SE",
+    "wof:created":1497295200,
+    "wof:geomhash":"03a09deaae8f4c5a1a192d39d07a817d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303083,
+            "localadmin_id":1159307245,
+            "locality_id":1125888401,
+            "region_id":85688377
+        }
+    ],
+    "wof:id":1125888401,
+    "wof:lastmodified":1529702685,
+    "wof:name":"Sjodiken",
+    "wof:parent_id":1159307245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.248567,
+    55.538685,
+    13.248567,
+    55.538685
+],
+  "geometry": {"coordinates":[13.248567,55.538685],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1327391951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.95,64.8,16.95,64.8",
+    "geom:latitude":64.8,
+    "geom:longitude":16.95,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"2462.0",
+    "gn:asciiname":"Sodra Grundsjo",
+    "gn:country_code":"SE",
+    "gn:dem":539,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2675960,
+    "gn:latitude":64.8,
+    "gn:longitude":16.95,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"S\u00f6dra Grundsj\u00f6",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "S\u00f6dra Grundsj\u00f6"
+    ],
+    "name:nor_x_variant":[
+        "S\u00f8dra Grundsj\u00f8"
+    ],
+    "name:und_x_variant":[
+        "S\u00f6dra Grundsj\u00f6"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688465,
+        102191581,
+        1125363705,
+        85633789,
+        1159303033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2675960
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"38f3d35f9c3184a3bd740e63af448796",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303033,
+            "localadmin_id":1125363705,
+            "locality_id":1327391951,
+            "region_id":85688465
+        }
+    ],
+    "wof:id":1327391951,
+    "wof:lastmodified":1537699822,
+    "wof:name":"Sodra Grundsjo",
+    "wof:parent_id":1125363705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.95,
+    64.8,
+    16.95,
+    64.8
+],
+  "geometry": {"coordinates":[16.95,64.8],"type":"Point"}
+}

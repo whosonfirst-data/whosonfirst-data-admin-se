@@ -1,0 +1,131 @@
+{
+  "id": 1125875109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.36087,61.52237,16.36087,61.52237",
+    "geom:latitude":61.52237,
+    "geom:longitude":16.36087,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":280,
+    "gn:population":288,
+    "iso:country":"SE",
+    "lbl:latitude":61.52237,
+    "lbl:longitude":16.36087,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0641\u0627\u0644\u0633\u062a\u0627"
+    ],
+    "name:bul_x_preferred":[
+        "\u0412\u0430\u043b\u0441\u0442\u0430"
+    ],
+    "name:dan_x_preferred":[
+        "Vallsta"
+    ],
+    "name:dut_x_preferred":[
+        "Vallsta"
+    ],
+    "name:eng_x_preferred":[
+        "Vallsta"
+    ],
+    "name:fre_x_preferred":[
+        "Vallsta"
+    ],
+    "name:ger_x_preferred":[
+        "Vallsta"
+    ],
+    "name:nan_x_preferred":[
+        "Vallsta"
+    ],
+    "name:nds_x_preferred":[
+        "Vallsta"
+    ],
+    "name:nno_x_preferred":[
+        "Vallsta"
+    ],
+    "name:nob_x_preferred":[
+        "Vallsta"
+    ],
+    "name:swe_x_preferred":[
+        "Vallsta"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2665349,
+    "qs_pg:gn_pop":280,
+    "qs_pg:name":"Vallsta",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"G\u00e4vleborgs L\u00e4n",
+    "qs_pg:photos":49,
+    "qs_pg:photos_1k":10,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":49,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":270664,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":908912,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"G\u00e4vleborgs L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688453,
+        102191581,
+        1125340557,
+        85633789,
+        1159303465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2665349,
+        "gp:id":908912,
+        "qs_pg:id":270664,
+        "wd:id":"Q928603"
+    },
+    "wof:country":"SE",
+    "wof:created":1497294498,
+    "wof:geomhash":"0cd933c7d88f2ba03835cc73e11ef3c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303465,
+            "localadmin_id":1125340557,
+            "locality_id":1125875109,
+            "region_id":85688453
+        }
+    ],
+    "wof:id":1125875109,
+    "wof:lastmodified":1529702069,
+    "wof:name":"Vallsta",
+    "wof:parent_id":1125340557,
+    "wof:placetype":"locality",
+    "wof:population":288,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.36087,
+    61.52237,
+    16.36087,
+    61.52237
+],
+  "geometry": {"coordinates":[16.36087,61.52237],"type":"Point"}
+}

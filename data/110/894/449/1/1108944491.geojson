@@ -1,0 +1,65 @@
+{
+  "id": 1108944491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.7369826134,57.735446279,11.7369826134,57.735446279",
+    "geom:latitude":57.735446,
+    "geom:longitude":11.736983,
+    "iso:country":"SE",
+    "lbl:latitude":57.735446,
+    "lbl:longitude":11.736983,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_metro":30,
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        1125410003,
+        85633789,
+        1159302989,
+        85688411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"SE",
+    "wof:created":1491364431,
+    "wof:geomhash":"f8eee05c6abd652bf417e390c2779489",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302989,
+            "localadmin_id":1125410003,
+            "locality_id":-1,
+            "neighbourhood_id":1108944491,
+            "region_id":85688411
+        }
+    ],
+    "wof:id":1108944491,
+    "wof:lastmodified":1529702294,
+    "wof:name":"Tumlehed",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.73698261337473,
+    57.7354462790347,
+    11.73698261337473,
+    57.7354462790347
+],
+  "geometry": {"coordinates":[11.73698261337473,57.7354462790347],"type":"Point"}
+}

@@ -1,0 +1,125 @@
+{
+  "id": 1125939547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.53333,56.95,12.53333,56.95",
+    "geom:latitude":56.95,
+    "geom:longitude":12.53333,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":598,
+    "gn:population":606,
+    "iso:country":"SE",
+    "lbl:latitude":56.95,
+    "lbl:longitude":12.53333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Vinberg"
+    ],
+    "name:eng_x_preferred":[
+        "Vinberg"
+    ],
+    "name:fre_x_preferred":[
+        "Vinberg"
+    ],
+    "name:ger_x_preferred":[
+        "Vinberg"
+    ],
+    "name:nan_x_preferred":[
+        "Vinberg"
+    ],
+    "name:nno_x_preferred":[
+        "Vinberg"
+    ],
+    "name:nob_x_preferred":[
+        "Vinberg"
+    ],
+    "name:per_x_preferred":[
+        "\u0648\u06cc\u0646\u0628\u0631\u06af"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u043d\u0431\u0435\u0440\u0433"
+    ],
+    "name:swe_x_preferred":[
+        "Vinberg"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2662866,
+    "qs_pg:gn_pop":598,
+    "qs_pg:name":"Vinberg",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"Hallands L\u00e4n",
+    "qs_pg:photos":49,
+    "qs_pg:photos_1k":10,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":49,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":229204,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":910033,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"Hallands L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688391,
+        102191581,
+        1125372509,
+        85633789,
+        1159303247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2662866,
+        "gp:id":910033,
+        "qs_pg:id":229204,
+        "wd:id":"Q588873"
+    },
+    "wof:country":"SE",
+    "wof:created":1497297072,
+    "wof:geomhash":"625faf9e4fb5e98e0e1a380bc9e03316",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303247,
+            "localadmin_id":1125372509,
+            "locality_id":1125939547,
+            "region_id":85688391
+        }
+    ],
+    "wof:id":1125939547,
+    "wof:lastmodified":1529702354,
+    "wof:name":"Vinberg",
+    "wof:parent_id":1125372509,
+    "wof:placetype":"locality",
+    "wof:population":606,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.53333,
+    56.95,
+    12.53333,
+    56.95
+],
+  "geometry": {"coordinates":[12.53333,56.95],"type":"Point"}
+}

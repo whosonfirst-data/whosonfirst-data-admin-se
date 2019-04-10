@@ -1,0 +1,105 @@
+{
+  "id": 1126026835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.16667,61.73333,15.16667,61.73333",
+    "geom:latitude":61.73333,
+    "geom:longitude":15.16667,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":403,
+    "gn:population":354,
+    "iso:country":"SE",
+    "lbl:latitude":61.73333,
+    "lbl:longitude":15.16667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Loos"
+    ],
+    "name:eng_x_preferred":[
+        "Los"
+    ],
+    "name:fre_x_preferred":[
+        "Los"
+    ],
+    "name:ger_x_preferred":[
+        "Los"
+    ],
+    "name:nan_x_preferred":[
+        "Los"
+    ],
+    "name:nno_x_preferred":[
+        "Los i H\u00e4lsingland"
+    ],
+    "name:nob_x_preferred":[
+        "Los"
+    ],
+    "name:swe_x_preferred":[
+        "Los"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2694116,
+    "qs_pg:gn_pop":403,
+    "qs_pg:name":"Los",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":575677,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688453,
+        102191581,
+        1125421379,
+        85633789,
+        1159303353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2694116,
+        "qs_pg:id":575677,
+        "wd:id":"Q1870454"
+    },
+    "wof:country":"SE",
+    "wof:created":1497301192,
+    "wof:geomhash":"e35ddf5d9ef15492886c908c87d7fd13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303353,
+            "localadmin_id":1125421379,
+            "locality_id":1126026835,
+            "region_id":85688453
+        }
+    ],
+    "wof:id":1126026835,
+    "wof:lastmodified":1553816709,
+    "wof:name":"Los",
+    "wof:parent_id":1125421379,
+    "wof:placetype":"locality",
+    "wof:population":354,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.16667,
+    61.73333,
+    15.16667,
+    61.73333
+],
+  "geometry": {"coordinates":[15.16667,61.73333],"type":"Point"}
+}

@@ -1,0 +1,112 @@
+{
+  "id": 85901959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":9920632.769667,
+    "geom:bbox":"14.490519,59.314712,14.490519,59.314712",
+    "geom:latitude":59.314712,
+    "geom:longitude":14.490519,
+    "gn:latitude":59.31667,
+    "gn:longitude":14.5,
+    "iso:country":"SE",
+    "lbl:latitude":59.314712,
+    "lbl:longitude":14.490519,
+    "mps:latitude":59.312775,
+    "mps:longitude":14.488484,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:swe_x_preferred":[
+        "Aggerud"
+    ],
+    "name:unk_x_variant":[
+        "Aggerud"
+    ],
+    "qs:gn_adm0_cc":"SE",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2701715,
+    "qs:gn_nam_loc":"Karlskoga, Karlskoga, \u00d6rebro L\u00e4n, SE",
+    "qs:gn_namadm1":"15",
+    "qs:gn_name":"Aggerud",
+    "qs:local_max":245,
+    "qs:local_sum":325,
+    "qs:localhoods":3,
+    "qs:name":"Aggerud",
+    "qs:name_adm0":"Sverige",
+    "qs:name_adm1":"\u00d6rebro L\u00e4n",
+    "qs:name_adm2":"Karlskoga",
+    "qs:name_local":"Karlskoga",
+    "qs:photo_max":10,
+    "qs:photo_sum":43,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":13,
+    "qs:woe_adm0":23424954,
+    "qs:woe_adm1":2347058,
+    "qs:woe_adm2":12587360,
+    "qs:woe_lau":0,
+    "qs:woe_local":894951,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85688421,
+        102191581,
+        1125394693,
+        85633789,
+        101815827,
+        1159303287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2727416,
+        "gp:id":884228,
+        "qs:id":979373,
+        "qs_pg:id":979373
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"33a2d14b3dedff21663982fdf022e98a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303287,
+            "localadmin_id":1125394693,
+            "locality_id":101815827,
+            "neighbourhood_id":85901959,
+            "region_id":85688421
+        }
+    ],
+    "wof:id":85901959,
+    "wof:lang":[
+        "swe"
+    ],
+    "wof:lastmodified":1531935839,
+    "wof:name":"Aggerud",
+    "wof:parent_id":101815827,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.490519,
+    59.314712,
+    14.490519,
+    59.314712
+],
+  "geometry": {"coordinates":[14.490519,59.314712],"type":"Point"}
+}

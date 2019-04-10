@@ -1,0 +1,70 @@
+{
+  "id": 1226632655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.5,56.7,13.5,56.7",
+    "geom:latitude":56.7,
+    "geom:longitude":13.5,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"781.0",
+    "gn:asciiname":"Skarseryd",
+    "gn:country_code":"SE",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2678027,
+    "gn:latitude":56.7,
+    "gn:longitude":13.5,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Sk\u00e4rseryd",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688387,
+        102191581,
+        1125287783,
+        85633789,
+        1159303441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2678027
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"1090d6832d4fea512fcb5f33ef757d1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303441,
+            "localadmin_id":1125287783,
+            "locality_id":1226632655,
+            "region_id":85688387
+        }
+    ],
+    "wof:id":1226632655,
+    "wof:lastmodified":1536877534,
+    "wof:name":"Skarseryd",
+    "wof:parent_id":1125287783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.5,
+    56.7,
+    13.5,
+    56.7
+],
+  "geometry": {"coordinates":[13.5,56.7],"type":"Point"}
+}

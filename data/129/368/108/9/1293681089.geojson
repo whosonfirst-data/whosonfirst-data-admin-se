@@ -1,0 +1,70 @@
+{
+  "id": 1293681089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.08333,57.55,12.08333,57.55",
+    "geom:latitude":57.55,
+    "geom:longitude":12.08333,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"1384.0",
+    "gn:asciiname":"Lyckan",
+    "gn:country_code":"SE",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2693380,
+    "gn:latitude":57.55,
+    "gn:longitude":12.08333,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Lyckan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688391,
+        102191581,
+        1125325565,
+        85633789,
+        1159303249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2693380
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"580a74a2eab03181b10745d2651deea9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303249,
+            "localadmin_id":1125325565,
+            "locality_id":1293681089,
+            "region_id":85688391
+        }
+    ],
+    "wof:id":1293681089,
+    "wof:lastmodified":1537004535,
+    "wof:name":"Lyckan",
+    "wof:parent_id":1125325565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.08333,
+    57.55,
+    12.08333,
+    57.55
+],
+  "geometry": {"coordinates":[12.08333,57.55],"type":"Point"}
+}

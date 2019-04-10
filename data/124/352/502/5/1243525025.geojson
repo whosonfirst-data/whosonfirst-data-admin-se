@@ -1,0 +1,72 @@
+{
+  "id": 1243525025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.9707,66.24103,16.9707,66.24103",
+    "geom:latitude":66.24103,
+    "geom:longitude":16.9707,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2506.0",
+    "gn:admin3_code":"250602.0",
+    "gn:admin4_code":"160.0",
+    "gn:asciiname":"Hallbacken",
+    "gn:country_code":"SE",
+    "gn:dem":425,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2708750,
+    "gn:latitude":66.24103,
+    "gn:longitude":16.9707,
+    "gn:modification_date":"2015-01-03",
+    "gn:name":"H\u00e4llbacken",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688471,
+        102191581,
+        1125300073,
+        85633789,
+        1159303049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2708750
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"bad1a3ffc10e712fb30e0efc3b3b873d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303049,
+            "localadmin_id":1125300073,
+            "locality_id":1243525025,
+            "region_id":85688471
+        }
+    ],
+    "wof:id":1243525025,
+    "wof:lastmodified":1536692549,
+    "wof:name":"Hallbacken",
+    "wof:parent_id":1125300073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.9707,
+    66.24103000000001,
+    16.9707,
+    66.24103000000001
+],
+  "geometry": {"coordinates":[16.9707,66.24103000000001],"type":"Point"}
+}

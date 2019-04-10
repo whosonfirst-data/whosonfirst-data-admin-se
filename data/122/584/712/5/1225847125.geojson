@@ -1,0 +1,70 @@
+{
+  "id": 1225847125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.9,56.25,15.9,56.25",
+    "geom:latitude":56.25,
+    "geom:longitude":15.9,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"1080.0",
+    "gn:asciiname":"Grettlinge",
+    "gn:country_code":"SE",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2710755,
+    "gn:latitude":56.25,
+    "gn:longitude":15.9,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Grettlinge",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688383,
+        102191581,
+        1125357187,
+        85633789,
+        1159303467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2710755
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"795591e8de99b8a89259677bb653ded5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303467,
+            "localadmin_id":1125357187,
+            "locality_id":1225847125,
+            "region_id":85688383
+        }
+    ],
+    "wof:id":1225847125,
+    "wof:lastmodified":1554166226,
+    "wof:name":"Grettlinge",
+    "wof:parent_id":1125357187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.9,
+    56.25,
+    15.9,
+    56.25
+],
+  "geometry": {"coordinates":[15.9,56.25],"type":"Point"}
+}

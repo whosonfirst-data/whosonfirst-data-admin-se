@@ -1,0 +1,70 @@
+{
+  "id": 1360032909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.11972,59.45031,18.11972,59.45031",
+    "geom:latitude":59.45031,
+    "geom:longitude":18.11972,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"160.0",
+    "gn:asciiname":"Haegernaes",
+    "gn:country_code":"SE",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2709238,
+    "gn:latitude":59.45031,
+    "gn:longitude":18.11972,
+    "gn:modification_date":"2017-01-23",
+    "gn:name":"H\u00e4gern\u00e4s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688429,
+        102191581,
+        1125398123,
+        85633789,
+        1159303403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2709238
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"bce031f0742530f3944b629a3b88307d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303403,
+            "localadmin_id":1125398123,
+            "locality_id":1360032909,
+            "region_id":85688429
+        }
+    ],
+    "wof:id":1360032909,
+    "wof:lastmodified":1537020090,
+    "wof:name":"Haegernaes",
+    "wof:parent_id":1125398123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.11972,
+    59.45031,
+    18.11972,
+    59.45031
+],
+  "geometry": {"coordinates":[18.11972,59.45031],"type":"Point"}
+}

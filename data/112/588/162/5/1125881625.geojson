@@ -1,0 +1,105 @@
+{
+  "id": 1125881625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.3,59.65,14.3,59.65",
+    "geom:latitude":59.65,
+    "geom:longitude":14.3,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":924,
+    "gn:population":788,
+    "iso:country":"SE",
+    "lbl:latitude":59.65,
+    "lbl:longitude":14.3,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u041d\u0439\u043a\u0440\u043e\u043f\u0430"
+    ],
+    "name:dut_x_preferred":[
+        "Nykroppa"
+    ],
+    "name:eng_x_preferred":[
+        "Nykroppa"
+    ],
+    "name:ger_x_preferred":[
+        "Nykroppa"
+    ],
+    "name:nan_x_preferred":[
+        "Nykroppa"
+    ],
+    "name:nno_x_preferred":[
+        "Nykroppa"
+    ],
+    "name:nob_x_preferred":[
+        "Nykroppa"
+    ],
+    "name:swe_x_preferred":[
+        "Nykroppa"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2687696,
+    "qs_pg:gn_pop":924,
+    "qs_pg:name":"Nykroppa",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1037537,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688435,
+        102191581,
+        1125286845,
+        85633789,
+        1159303211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2687696,
+        "qs_pg:id":1037537,
+        "wd:id":"Q3234094"
+    },
+    "wof:country":"SE",
+    "wof:created":1497294842,
+    "wof:geomhash":"9ee09a518e6f0cab3c3639626a5a9487",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303211,
+            "localadmin_id":1125286845,
+            "locality_id":1125881625,
+            "region_id":85688435
+        }
+    ],
+    "wof:id":1125881625,
+    "wof:lastmodified":1529702936,
+    "wof:name":"Nykroppa",
+    "wof:parent_id":1125286845,
+    "wof:placetype":"locality",
+    "wof:population":788,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.3,
+    59.65,
+    14.3,
+    59.65
+],
+  "geometry": {"coordinates":[14.3,59.65],"type":"Point"}
+}

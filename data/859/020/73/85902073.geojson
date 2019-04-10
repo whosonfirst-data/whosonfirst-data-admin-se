@@ -1,0 +1,116 @@
+{
+  "id": 85902073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":6525791.649037,
+    "geom:bbox":"17.908335,59.517788,17.908335,59.517788",
+    "geom:latitude":59.517788,
+    "geom:longitude":17.908335,
+    "gn:latitude":59.50855,
+    "gn:longitude":17.86583,
+    "gn:population":6192,
+    "iso:country":"SE",
+    "lbl:latitude":59.517788,
+    "lbl:longitude":17.908335,
+    "mps:latitude":59.512008,
+    "mps:longitude":17.913697,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":1,
+    "name:swe_x_preferred":[
+        "Ed"
+    ],
+    "name:unk_x_variant":[
+        "Ed"
+    ],
+    "qs:gn_adm0_cc":"SE",
+    "qs:gn_id":0,
+    "qs:gn_local":2666238,
+    "qs:gn_nam_loc":"Upplands V\u00e4sby, Upplands-V\u00e4sby, Stockholms L\u00e4n, SE",
+    "qs:gn_namadm1":"26",
+    "qs:id":0,
+    "qs:local_max":203,
+    "qs:local_sum":991,
+    "qs:localhoods":13,
+    "qs:name":"Ed",
+    "qs:name_adm0":"Sverige",
+    "qs:name_adm1":"Stockholms L\u00e4n",
+    "qs:name_adm2":"Upplands-V\u00e4sby",
+    "qs:name_local":"Upplands-V\u00e4sby",
+    "qs:photo_max":32,
+    "qs:photo_sum":203,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":41,
+    "qs:woe_adm0":23424954,
+    "qs:woe_adm1":2347067,
+    "qs:woe_adm2":12587483,
+    "qs:woe_lau":0,
+    "qs:woe_local":908560,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688429,
+        102191581,
+        1125409989,
+        85633789,
+        101815895,
+        1159303433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06e7cfb8-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":8132008,
+        "gp:id":888646,
+        "qs:id":109366,
+        "wd:id":"Q10479944"
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"563b42732d14dec9ff5190c1dbfd1727",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303433,
+            "localadmin_id":1125409989,
+            "locality_id":101815895,
+            "neighbourhood_id":85902073,
+            "region_id":85688429
+        }
+    ],
+    "wof:id":85902073,
+    "wof:lang":[
+        "swe"
+    ],
+    "wof:lastmodified":1531935852,
+    "wof:name":"Ed",
+    "wof:parent_id":101815895,
+    "wof:placetype":"neighbourhood",
+    "wof:population":6192,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.908335,
+    59.517788,
+    17.908335,
+    59.517788
+],
+  "geometry": {"coordinates":[17.908335,59.517788],"type":"Point"}
+}

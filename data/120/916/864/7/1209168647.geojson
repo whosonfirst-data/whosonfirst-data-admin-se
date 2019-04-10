@@ -1,0 +1,71 @@
+{
+  "id": 1209168647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.81667,59.76667,18.81667,59.76667",
+    "geom:latitude":59.76667,
+    "geom:longitude":18.81667,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"188.0",
+    "gn:asciiname":"Morjaren",
+    "gn:country_code":"SE",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2600423,
+    "gn:latitude":59.76667,
+    "gn:longitude":18.81667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"M\u00f6rjaren",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "M\u00f6rjaren"
+    ],
+    "name:nor_x_variant":[
+        "M\u00f8rjaren"
+    ],
+    "name:und_x_variant":[
+        "M\u00f6rjaren"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2600423
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"3fe3bd4006983869a02fd5203f911e1c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633789,
+            "locality_id":1209168647
+        }
+    ],
+    "wof:id":1209168647,
+    "wof:lastmodified":1537699738,
+    "wof:name":"Morjaren",
+    "wof:parent_id":85633789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.81667,
+    59.76667,
+    18.81667,
+    59.76667
+],
+  "geometry": {"coordinates":[18.81667,59.76667],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1343813591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.0,62.36667,17.0,62.36667",
+    "geom:latitude":62.36667,
+    "geom:longitude":17.0,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2281.0",
+    "gn:admin3_code":"228108.0",
+    "gn:admin4_code":"2505.0",
+    "gn:asciiname":"Vattjom",
+    "gn:country_code":"SE",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2663583,
+    "gn:latitude":62.36667,
+    "gn:longitude":17.0,
+    "gn:modification_date":"2018-04-21",
+    "gn:name":"Vattjom",
+    "gn:population":563,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688457,
+        102191581,
+        1125325993,
+        85633789,
+        1159303427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2663583,
+        "wk:page":"Vattjom"
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"1a29afb4401d4940d89c08e66123a72f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303427,
+            "localadmin_id":1125325993,
+            "locality_id":1343813591,
+            "region_id":85688457
+        }
+    ],
+    "wof:id":1343813591,
+    "wof:lastmodified":1537573319,
+    "wof:name":"Vattjom",
+    "wof:parent_id":1125325993,
+    "wof:placetype":"locality",
+    "wof:population":563,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.0,
+    62.36666999999999,
+    17.0,
+    62.36666999999999
+],
+  "geometry": {"coordinates":[17.0,62.36666999999999],"type":"Point"}
+}

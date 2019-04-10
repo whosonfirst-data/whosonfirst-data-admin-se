@@ -1,0 +1,70 @@
+{
+  "id": 1360160003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.08333,58.86667,17.08333,58.86667",
+    "geom:latitude":58.86667,
+    "geom:longitude":17.08333,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"480.0",
+    "gn:asciiname":"Gransta",
+    "gn:country_code":"SE",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2711035,
+    "gn:latitude":58.86667,
+    "gn:longitude":17.08333,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Gransta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688419,
+        102191581,
+        1159307585,
+        85633789,
+        1159303471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2711035
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"6307a6e963ad00ad9fd46b6d2b4c9d91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303471,
+            "localadmin_id":1159307585,
+            "locality_id":1360160003,
+            "region_id":85688419
+        }
+    ],
+    "wof:id":1360160003,
+    "wof:lastmodified":1536836619,
+    "wof:name":"Gransta",
+    "wof:parent_id":1159307585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.08333,
+    58.86666999999999,
+    17.08333,
+    58.86666999999999
+],
+  "geometry": {"coordinates":[17.08333,58.86666999999999],"type":"Point"}
+}

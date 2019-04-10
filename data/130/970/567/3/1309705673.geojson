@@ -1,0 +1,70 @@
+{
+  "id": 1309705673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.3,62.95,14.3,62.95",
+    "geom:latitude":62.95,
+    "geom:longitude":14.3,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"2326.0",
+    "gn:asciiname":"Lockasen",
+    "gn:country_code":"SE",
+    "gn:dem":334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2694406,
+    "gn:latitude":62.95,
+    "gn:longitude":14.3,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Lock\u00e5sen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688461,
+        102191581,
+        1125287509,
+        85633789,
+        1159303129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2694406
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"236fb8e53eec5b63af7c1e76218cb1c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303129,
+            "localadmin_id":1125287509,
+            "locality_id":1309705673,
+            "region_id":85688461
+        }
+    ],
+    "wof:id":1309705673,
+    "wof:lastmodified":1537072421,
+    "wof:name":"Lockasen",
+    "wof:parent_id":1125287509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.3,
+    62.95,
+    14.3,
+    62.95
+],
+  "geometry": {"coordinates":[14.3,62.95],"type":"Point"}
+}

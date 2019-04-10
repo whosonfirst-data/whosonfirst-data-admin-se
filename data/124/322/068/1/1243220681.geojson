@@ -1,0 +1,78 @@
+{
+  "id": 1243220681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.06667,59.73333,17.06667,59.73333",
+    "geom:latitude":59.73333,
+    "geom:longitude":17.06667,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Vansjo",
+    "gn:country_code":"SE",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2665057,
+    "gn:latitude":59.73333,
+    "gn:longitude":17.06667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"V\u00e5nsj\u00f6",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "V\u00e5nsj\u00f6"
+    ],
+    "name:nor_x_variant":[
+        "V\u00e5nsj\u00f8"
+    ],
+    "name:und_x_variant":[
+        "V\u00e5nsj\u00f6"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688439,
+        102191581,
+        1159306215,
+        85633789,
+        1159303337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2665057
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"51fc984d35a928fbee0662fa42d70a2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303337,
+            "localadmin_id":1159306215,
+            "locality_id":1243220681,
+            "region_id":85688439
+        }
+    ],
+    "wof:id":1243220681,
+    "wof:lastmodified":1537699758,
+    "wof:name":"Vansjo",
+    "wof:parent_id":1159306215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.06667,
+    59.73333,
+    17.06667,
+    59.73333
+],
+  "geometry": {"coordinates":[17.06667,59.73333],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1309956545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.8,58.51667,13.8,58.51667",
+    "geom:latitude":58.51667,
+    "geom:longitude":13.8,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"1496.0",
+    "gn:asciiname":"Overtorp",
+    "gn:country_code":"SE",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2684948,
+    "gn:latitude":58.51667,
+    "gn:longitude":13.8,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"\u00d6vertorp",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "\u00d6vertorp"
+    ],
+    "name:nor_x_variant":[
+        "\u00d8vertorp"
+    ],
+    "name:und_x_variant":[
+        "\u00d6vertorp"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688411,
+        102191581,
+        1125340869,
+        85633789,
+        1159302921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2684948
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"7fed88d10b6b0305ffd9d127128cf50c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302921,
+            "localadmin_id":1125340869,
+            "locality_id":1309956545,
+            "region_id":85688411
+        }
+    ],
+    "wof:id":1309956545,
+    "wof:lastmodified":1537699882,
+    "wof:name":"Overtorp",
+    "wof:parent_id":1125340869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.8,
+    58.51667,
+    13.8,
+    58.51667
+],
+  "geometry": {"coordinates":[13.8,58.51667],"type":"Point"}
+}

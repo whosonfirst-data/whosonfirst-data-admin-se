@@ -1,0 +1,79 @@
+{
+  "id": 1226054429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.55,56.4,15.55,56.4",
+    "geom:latitude":56.4,
+    "geom:longitude":15.55,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"1080.0",
+    "gn:asciiname":"Sillhovda",
+    "gn:country_code":"SE",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2679194,
+    "gn:latitude":56.4,
+    "gn:longitude":15.55,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Sillh\u00f6vda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Sillh\u00f6vda"
+    ],
+    "name:nor_x_variant":[
+        "Sillh\u00f8vda"
+    ],
+    "name:und_x_variant":[
+        "Sillh\u00f6vda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688383,
+        102191581,
+        1125417525,
+        85633789,
+        1159303467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2679194
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"c4352f5cb6fcd3743e68a4f189d4aebd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303467,
+            "localadmin_id":1125417525,
+            "locality_id":1226054429,
+            "region_id":85688383
+        }
+    ],
+    "wof:id":1226054429,
+    "wof:lastmodified":1554166240,
+    "wof:name":"Sillhovda",
+    "wof:parent_id":1125417525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.55,
+    56.4,
+    15.55,
+    56.4
+],
+  "geometry": {"coordinates":[15.55,56.4],"type":"Point"}
+}

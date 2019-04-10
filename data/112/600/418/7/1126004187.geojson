@@ -1,0 +1,120 @@
+{
+  "id": 1126004187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.37047,63.11017,16.37047,63.11017",
+    "geom:latitude":63.11017,
+    "geom:longitude":16.37047,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":2750,
+    "gn:population":2750,
+    "iso:country":"SE",
+    "lbl:latitude":63.11017,
+    "lbl:longitude":16.37047,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dan_x_preferred":[
+        "Gisselg\u00e5rd"
+    ],
+    "name:dut_x_preferred":[
+        "Gisselg\u00e5rd"
+    ],
+    "name:eng_x_preferred":[
+        "Ragunda"
+    ],
+    "name:fre_x_preferred":[
+        "Gisselg\u00e5rd"
+    ],
+    "name:ger_x_preferred":[
+        "Gisselg\u00e5rd"
+    ],
+    "name:nds_x_preferred":[
+        "Gisselg\u00e5rd"
+    ],
+    "name:nno_x_preferred":[
+        "Gisselg\u00e5rd"
+    ],
+    "name:nob_x_preferred":[
+        "Gisselg\u00e5rd"
+    ],
+    "name:swe_x_preferred":[
+        "Gisselg\u00e5rd"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8132578,
+    "qs_pg:gn_pop":2750,
+    "qs_pg:name":"Ragunda",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"J\u00e4mtlands L\u00e4n",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":6,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":916688,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":902052,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"J\u00e4mtlands L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688461,
+        102191581,
+        1159306271,
+        85633789,
+        1159303013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8132578,
+        "gp:id":902052,
+        "qs_pg:id":916688,
+        "wd:id":"Q10648574"
+    },
+    "wof:country":"SE",
+    "wof:created":1497299834,
+    "wof:geomhash":"07bfccf8ba7baa2a961ae0a972ae9f33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303013,
+            "localadmin_id":1159306271,
+            "locality_id":1126004187,
+            "region_id":85688461
+        }
+    ],
+    "wof:id":1126004187,
+    "wof:lastmodified":1529702377,
+    "wof:name":"Ragunda",
+    "wof:parent_id":1159306271,
+    "wof:placetype":"locality",
+    "wof:population":2750,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.37047,
+    63.11017,
+    16.37047,
+    63.11017
+],
+  "geometry": {"coordinates":[16.37047,63.11017],"type":"Point"}
+}

@@ -1,0 +1,132 @@
+{
+  "id": 101817109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00021,
+    "geom:area_square_m":1352924.485972,
+    "geom:bbox":"12.336648136,58.5534631631,12.3618883106,58.5705992544",
+    "geom:latitude":58.562413,
+    "geom:longitude":12.350839,
+    "gn:population":1472,
+    "iso:country":"SE",
+    "lbl:latitude":58.562889,
+    "lbl:longitude":12.350839,
+    "mps:latitude":58.562889,
+    "mps:longitude":12.350839,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Br\u00e5landa"
+    ],
+    "name:eng_x_preferred":[
+        "Br\u00e5landa"
+    ],
+    "name:fre_x_preferred":[
+        "Br\u00e5landa"
+    ],
+    "name:nan_x_preferred":[
+        "Br\u00e5landa"
+    ],
+    "name:nld_x_preferred":[
+        "Br\u00e5landa"
+    ],
+    "name:nno_x_preferred":[
+        "Br\u00e5landa"
+    ],
+    "name:nob_x_preferred":[
+        "Br\u00e5landa"
+    ],
+    "name:nor_x_preferred":[
+        "Br\u00e5landa"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0440\u043e\u043b\u0430\u043d\u0434\u0430"
+    ],
+    "name:swe_x_colloquial":[
+        "Braalanda",
+        "Braalandas",
+        "Bralanda",
+        "Bralandas"
+    ],
+    "name:swe_x_preferred":[
+        "Br\u00e5landa"
+    ],
+    "name:swe_x_variant":[
+        "Br\u00e5landas"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Br\u00e5landa"
+    ],
+    "qs:a0":"Sverige",
+    "qs:a1":"*V\u00e4stra G\u00f6talands l\u00e4n",
+    "qs:a1r":"0",
+    "qs:adm0":"Sverige",
+    "qs:la":"V\u00e4nersborg",
+    "qs:la_lc":"*SE1487",
+    "qs:level":"locality",
+    "qs:loc":"Br\u00e5landa",
+    "qs:loc_alt":"Bralanda",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":100,
+    "wof:belongsto":[
+        85688411,
+        102191581,
+        1125326137,
+        85633789,
+        1159303519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06d23dec-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2719961,
+        "gp:id":887430,
+        "qs:id":1075864,
+        "qs_pg:id":1075864,
+        "wd:id":"Q2283709",
+        "wk:page":"Br\u00e5landa"
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"21c5d7d42343a32c912ff114e6498362",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303519,
+            "localadmin_id":1125326137,
+            "locality_id":101817109,
+            "region_id":85688411
+        }
+    ],
+    "wof:id":101817109,
+    "wof:lang":[
+        "swe"
+    ],
+    "wof:lastmodified":1529702226,
+    "wof:name":"Br\u00e5landa",
+    "wof:parent_id":1125326137,
+    "wof:placetype":"locality",
+    "wof:population":1472,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.33664813596306,
+    58.5534631631204,
+    12.36188831056023,
+    58.57059925440058
+],
+  "geometry": {"coordinates":[[[12.35065893837043,58.56964121001295],[12.35059978258454,58.56874242742185],[12.35402886499827,58.56868308279235],[12.35396962656972,58.56778430215292],[12.35739861213881,58.56772487274628],[12.35722065946186,58.56502853746963],[12.36064937593778,58.56496902668346],[12.36017430072377,58.55777882426673],[12.36188831056023,58.55774904324159],[12.36182889889176,58.55685026995468],[12.34983107501796,58.55705827738444],[12.34959466823352,58.5534631631204],[12.34788085481858,58.55349278865123],[12.34793990825665,58.55439156767238],[12.34451218736979,58.55445075559771],[12.34498405172269,58.56164101060085],[12.34326984296837,58.56167057889087],[12.34344672038384,58.56436693133071],[12.34173237980536,58.56439648053413],[12.34179130284531,58.56529526604288],[12.33664813596306,58.56538378648509],[12.33670693329702,58.5662825747774],[12.34013580000243,58.56622358108336],[12.34019468693509,58.56712236795425],[12.34362362912077,58.56706328611051],[12.3437415856842,58.5688608572645],[12.34717068947464,58.56880168557933],[12.3472888322525,58.57059925440058],[12.34900346628672,58.57056963444199],[12.34894435008113,58.56967085074564],[12.35065893837043,58.56964121001295]]],"type":"Polygon"}
+}

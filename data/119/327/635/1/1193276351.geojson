@@ -1,0 +1,79 @@
+{
+  "id": 1193276351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.8,62.1,16.8,62.1",
+    "geom:latitude":62.1,
+    "geom:longitude":16.8,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"2132.0",
+    "gn:asciiname":"Olsjon",
+    "gn:country_code":"SE",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2687011,
+    "gn:latitude":62.1,
+    "gn:longitude":16.8,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"\u00d6lsj\u00f6n",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "\u00d6lsj\u00f6n"
+    ],
+    "name:nor_x_variant":[
+        "\u00d8lsj\u00f8n"
+    ],
+    "name:und_x_variant":[
+        "\u00d6lsj\u00f6n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688453,
+        102191581,
+        1125373129,
+        85633789,
+        1159303081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2687011
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"37a40d453ee8bfe0f2260f709046c89f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303081,
+            "localadmin_id":1125373129,
+            "locality_id":1193276351,
+            "region_id":85688453
+        }
+    ],
+    "wof:id":1193276351,
+    "wof:lastmodified":1537699923,
+    "wof:name":"Olsjon",
+    "wof:parent_id":1125373129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.8,
+    62.1,
+    16.8,
+    62.1
+],
+  "geometry": {"coordinates":[16.8,62.1],"type":"Point"}
+}

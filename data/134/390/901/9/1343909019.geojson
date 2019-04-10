@@ -1,0 +1,79 @@
+{
+  "id": 1343909019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.0,55.7,14.0,55.7",
+    "geom:latitude":55.7,
+    "geom:longitude":14.0,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"1270.0",
+    "gn:asciiname":"Ludarod",
+    "gn:country_code":"SE",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2693769,
+    "gn:latitude":55.7,
+    "gn:longitude":14.0,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ludar\u00f6d",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Ludar\u00f6d"
+    ],
+    "name:nor_x_variant":[
+        "Ludar\u00f8d"
+    ],
+    "name:und_x_variant":[
+        "Ludar\u00f6d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688377,
+        102191581,
+        1159306729,
+        85633789,
+        1159302959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2693769
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"2e7084a19654b6a739cbc284dfbb9fb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302959,
+            "localadmin_id":1159306729,
+            "locality_id":1343909019,
+            "region_id":85688377
+        }
+    ],
+    "wof:id":1343909019,
+    "wof:lastmodified":1537699966,
+    "wof:name":"Ludarod",
+    "wof:parent_id":1159306729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.0,
+    55.7,
+    14.0,
+    55.7
+],
+  "geometry": {"coordinates":[14.0,55.7],"type":"Point"}
+}

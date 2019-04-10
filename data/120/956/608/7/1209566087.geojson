@@ -1,0 +1,62 @@
+{
+  "id": 1209566087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.4,59.05,11.4,59.05",
+    "geom:latitude":59.05,
+    "geom:longitude":11.4,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"1486.0",
+    "gn:asciiname":"Hallesmork",
+    "gn:country_code":"SE",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3330170,
+    "gn:latitude":59.05,
+    "gn:longitude":11.4,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"H\u00e4llesm\u00f6rk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3330170
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"713e33472ed8944fc9f88e1d35681b42",
+    "wof:hierarchy":[
+        {
+            "country_id":85633789,
+            "locality_id":1209566087
+        }
+    ],
+    "wof:id":1209566087,
+    "wof:lastmodified":1536283237,
+    "wof:name":"Hallesmork",
+    "wof:parent_id":85633789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.4,
+    59.05,
+    11.4,
+    59.05
+],
+  "geometry": {"coordinates":[11.4,59.05],"type":"Point"}
+}

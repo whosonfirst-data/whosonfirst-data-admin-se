@@ -1,0 +1,75 @@
+{
+  "id": 1225900349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.98333,64.81667,19.98333,64.81667",
+    "geom:latitude":64.81667,
+    "geom:longitude":19.98333,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"2417.0",
+    "gn:asciiname":"Bastutrask",
+    "gn:cc2":"SE",
+    "gn:country_code":"SE",
+    "gn:dem":233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2723202,
+    "gn:latitude":64.81667,
+    "gn:longitude":19.98333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Bastutr\u00e4sk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bastutr\u00e4skby",
+        "Bastutr\u00e4sk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688465,
+        102191581,
+        1125363687,
+        85633789,
+        1159303021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2723202
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"2c14a987b06965795da35f00b641f26a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303021,
+            "localadmin_id":1125363687,
+            "locality_id":1225900349,
+            "region_id":85688465
+        }
+    ],
+    "wof:id":1225900349,
+    "wof:lastmodified":1537700131,
+    "wof:name":"Bastutrask",
+    "wof:parent_id":1125363687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.98333,
+    64.81667,
+    19.98333,
+    64.81667
+],
+  "geometry": {"coordinates":[19.98333,64.81667],"type":"Point"}
+}

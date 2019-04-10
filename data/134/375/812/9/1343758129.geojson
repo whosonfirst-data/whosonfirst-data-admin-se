@@ -1,0 +1,77 @@
+{
+  "id": 1343758129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.78333,56.95,16.78333,56.95",
+    "geom:latitude":56.95,
+    "geom:longitude":16.78333,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"885.0",
+    "gn:asciiname":"Alboke",
+    "gn:country_code":"SE",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2727061,
+    "gn:latitude":56.95,
+    "gn:longitude":16.78333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Alb\u00f6ke",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Alb\u00f6ke"
+    ],
+    "name:nor_x_variant":[
+        "Alb\u00f8ke"
+    ],
+    "name:und_x_variant":[
+        "Alb\u00f6ke"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688401,
+        1159306003,
+        1159303363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2727061
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"927bf7802f39857b1686126ddcf93aa2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "county_id":1159303363,
+            "localadmin_id":1159306003,
+            "locality_id":1343758129,
+            "region_id":85688401
+        }
+    ],
+    "wof:id":1343758129,
+    "wof:lastmodified":1537700146,
+    "wof:name":"Alboke",
+    "wof:parent_id":1159306003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.78333,
+    56.95,
+    16.78333,
+    56.95
+],
+  "geometry": {"coordinates":[16.78333,56.95],"type":"Point"}
+}

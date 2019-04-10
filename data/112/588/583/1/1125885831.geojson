@@ -1,0 +1,121 @@
+{
+  "id": 1125885831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.1,59.2,12.1,59.2",
+    "geom:latitude":59.2,
+    "geom:longitude":12.1,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"SE",
+    "lbl:latitude":59.2,
+    "lbl:longitude":12.1,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dan_x_preferred":[
+        "Gustavsfors"
+    ],
+    "name:dut_x_preferred":[
+        "Gustavsfors"
+    ],
+    "name:eng_x_preferred":[
+        "Gustavsfors"
+    ],
+    "name:fre_x_preferred":[
+        "Gustavsfors"
+    ],
+    "name:ger_x_preferred":[
+        "Gustavsfors"
+    ],
+    "name:nds_x_preferred":[
+        "Gustavsfors"
+    ],
+    "name:nno_x_preferred":[
+        "Gustavsfors"
+    ],
+    "name:nob_x_preferred":[
+        "Gustavsfors"
+    ],
+    "name:swe_x_preferred":[
+        "Gustavsfors"
+    ],
+    "name:unk_x_variant":[
+        "Gustafsfors"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2709618,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Gustavsfors",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"V\u00e4stra G\u00f6talands L\u00e4n",
+    "qs_pg:photos":243,
+    "qs_pg:photos_1k":49,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":243,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":980291,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":891662,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"V\u00e4stra G\u00f6talands L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688411,
+        102191581,
+        1159307337,
+        85633789,
+        1159303359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2709618,
+        "gp:id":891662,
+        "qs_pg:id":980291,
+        "wd:id":"Q1820683"
+    },
+    "wof:country":"SE",
+    "wof:created":1497295071,
+    "wof:geomhash":"62439230c54989b7de05e5e42eb8a672",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303359,
+            "localadmin_id":1159307337,
+            "locality_id":1125885831,
+            "region_id":85688411
+        }
+    ],
+    "wof:id":1125885831,
+    "wof:lastmodified":1529702261,
+    "wof:name":"Gustavsfors",
+    "wof:parent_id":1159307337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.1,
+    59.2,
+    12.1,
+    59.2
+],
+  "geometry": {"coordinates":[12.1,59.2],"type":"Point"}
+}

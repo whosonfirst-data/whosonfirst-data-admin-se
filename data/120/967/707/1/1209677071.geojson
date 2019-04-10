@@ -1,0 +1,62 @@
+{
+  "id": 1209677071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.98333,55.98333,12.98333,55.98333",
+    "geom:latitude":55.98333,
+    "geom:longitude":12.98333,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"1260.0",
+    "gn:asciiname":"Truedstorp",
+    "gn:country_code":"SE",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2667221,
+    "gn:latitude":55.98333,
+    "gn:longitude":12.98333,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Truedstorp",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2667221
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"e359307b0f84c2721a2c2f0112369b43",
+    "wof:hierarchy":[
+        {
+            "country_id":85633789,
+            "locality_id":1209677071
+        }
+    ],
+    "wof:id":1209677071,
+    "wof:lastmodified":1536279713,
+    "wof:name":"Truedstorp",
+    "wof:parent_id":85633789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.98333,
+    55.98333,
+    12.98333,
+    55.98333
+],
+  "geometry": {"coordinates":[12.98333,55.98333],"type":"Point"}
+}

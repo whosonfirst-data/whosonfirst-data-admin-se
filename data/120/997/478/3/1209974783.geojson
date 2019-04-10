@@ -1,0 +1,79 @@
+{
+  "id": 1209974783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.08333,64.81667,16.08333,64.81667",
+    "geom:latitude":64.81667,
+    "geom:longitude":16.08333,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"2462.0",
+    "gn:asciiname":"Rekansjo",
+    "gn:country_code":"SE",
+    "gn:dem":359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2682816,
+    "gn:latitude":64.81667,
+    "gn:longitude":16.08333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Rekansj\u00f6",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Rekansj\u00f6"
+    ],
+    "name:nor_x_variant":[
+        "Rekansj\u00f8"
+    ],
+    "name:und_x_variant":[
+        "Rekansj\u00f6"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688465,
+        102191581,
+        1125363705,
+        85633789,
+        1159303033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2682816
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"359e820c47a754e560abb3681834e4a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303033,
+            "localadmin_id":1125363705,
+            "locality_id":1209974783,
+            "region_id":85688465
+        }
+    ],
+    "wof:id":1209974783,
+    "wof:lastmodified":1537699869,
+    "wof:name":"Rekansjo",
+    "wof:parent_id":1125363705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.08333,
+    64.81667,
+    16.08333,
+    64.81667
+],
+  "geometry": {"coordinates":[16.08333,64.81667],"type":"Point"}
+}

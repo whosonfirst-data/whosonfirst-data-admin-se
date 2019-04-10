@@ -1,0 +1,120 @@
+{
+  "id": 1126018699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.25,65.8,23.25,65.8",
+    "geom:latitude":65.8,
+    "geom:longitude":23.25,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":782,
+    "gn:population":594,
+    "iso:country":"SE",
+    "lbl:latitude":65.8,
+    "lbl:longitude":23.25,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Ris\u00f6grund"
+    ],
+    "name:eng_x_preferred":[
+        "Ris\u00f6grund"
+    ],
+    "name:ger_x_preferred":[
+        "Ris\u00f6grund"
+    ],
+    "name:nan_x_preferred":[
+        "Ris\u00f6grund"
+    ],
+    "name:nno_x_preferred":[
+        "Ris\u00f6grund"
+    ],
+    "name:nob_x_preferred":[
+        "Ris\u00f6grund"
+    ],
+    "name:nor_x_preferred":[
+        "Ris\u00f8grund"
+    ],
+    "name:nor_x_variant":[
+        "Ris\u00f6grund"
+    ],
+    "name:swe_x_preferred":[
+        "Ris\u00f6grund"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":603323,
+    "qs_pg:gn_pop":782,
+    "qs_pg:name":"Ris\u00f6grund",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"Norrbottens L\u00e4n",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":6,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":941659,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":902539,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"Norrbottens L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688471,
+        102191581,
+        1125287809,
+        85633789,
+        1159303011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":603323,
+        "gp:id":902539,
+        "qs_pg:id":941659,
+        "wd:id":"Q2185765"
+    },
+    "wof:country":"SE",
+    "wof:created":1497300699,
+    "wof:geomhash":"a39f7b68ed51267f0d378cc116c7d4ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303011,
+            "localadmin_id":1125287809,
+            "locality_id":1126018699,
+            "region_id":85688471
+        }
+    ],
+    "wof:id":1126018699,
+    "wof:lastmodified":1529702578,
+    "wof:name":"Ris\u00f6grund",
+    "wof:parent_id":1125287809,
+    "wof:placetype":"locality",
+    "wof:population":594,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.25,
+    65.8,
+    23.25,
+    65.8
+],
+  "geometry": {"coordinates":[23.25,65.8],"type":"Point"}
+}

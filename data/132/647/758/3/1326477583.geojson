@@ -1,0 +1,79 @@
+{
+  "id": 1326477583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.26667,58.05,12.26667,58.05",
+    "geom:latitude":58.05,
+    "geom:longitude":12.26667,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"1440.0",
+    "gn:asciiname":"Ostentorp",
+    "gn:country_code":"SE",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2685985,
+    "gn:latitude":58.05,
+    "gn:longitude":12.26667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"\u00d6stentorp",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "\u00d6stentorp"
+    ],
+    "name:nor_x_variant":[
+        "\u00d8stentorp"
+    ],
+    "name:und_x_variant":[
+        "\u00d6stentorp"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688411,
+        102191581,
+        1159305799,
+        85633789,
+        1159303087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2685985
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"da069bf4cfece95957dd31d3bc7ceb89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303087,
+            "localadmin_id":1159305799,
+            "locality_id":1326477583,
+            "region_id":85688411
+        }
+    ],
+    "wof:id":1326477583,
+    "wof:lastmodified":1537699906,
+    "wof:name":"Ostentorp",
+    "wof:parent_id":1159305799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.26667,
+    58.05,
+    12.26667,
+    58.05
+],
+  "geometry": {"coordinates":[12.26667,58.05],"type":"Point"}
+}

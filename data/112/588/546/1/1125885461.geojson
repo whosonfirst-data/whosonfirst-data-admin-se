@@ -1,0 +1,116 @@
+{
+  "id": 1125885461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.03333,56.85,15.03333,56.85",
+    "geom:latitude":56.85,
+    "geom:longitude":15.03333,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":384,
+    "gn:population":368,
+    "iso:country":"SE",
+    "lbl:latitude":56.85,
+    "lbl:longitude":15.03333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Furuby"
+    ],
+    "name:eng_x_preferred":[
+        "Furuby"
+    ],
+    "name:nan_x_preferred":[
+        "Furuby"
+    ],
+    "name:nno_x_preferred":[
+        "Furuby"
+    ],
+    "name:nob_x_preferred":[
+        "Furuby"
+    ],
+    "name:sme_x_preferred":[
+        "Furuby"
+    ],
+    "name:swe_x_preferred":[
+        "Furuby"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2713393,
+    "qs_pg:gn_pop":384,
+    "qs_pg:name":"Furuby",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"Kronobergs L\u00e4n",
+    "qs_pg:photos":38,
+    "qs_pg:photos_1k":8,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":38,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":979389,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":890169,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"Kronobergs L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688387,
+        102191581,
+        1125325745,
+        85633789,
+        1159302917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2713393,
+        "gp:id":890169,
+        "qs_pg:id":979389,
+        "wd:id":"Q1821422"
+    },
+    "wof:country":"SE",
+    "wof:created":1497295056,
+    "wof:geomhash":"8d8c6b50356bcc774364ffc5fe4545d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302917,
+            "localadmin_id":1125325745,
+            "locality_id":1125885461,
+            "region_id":85688387
+        }
+    ],
+    "wof:id":1125885461,
+    "wof:lastmodified":1529702539,
+    "wof:name":"Furuby",
+    "wof:parent_id":1125325745,
+    "wof:placetype":"locality",
+    "wof:population":368,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.03333,
+    56.85,
+    15.03333,
+    56.85
+],
+  "geometry": {"coordinates":[15.03333,56.85],"type":"Point"}
+}

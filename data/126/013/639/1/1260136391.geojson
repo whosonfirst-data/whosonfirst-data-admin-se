@@ -1,0 +1,75 @@
+{
+  "id": 1260136391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.86667,59.7,12.86667,59.7",
+    "geom:latitude":59.7,
+    "geom:longitude":12.86667,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1784.0",
+    "gn:asciiname":"Amot",
+    "gn:cc2":"SE",
+    "gn:country_code":"SE",
+    "gn:dem":224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2726165,
+    "gn:latitude":59.7,
+    "gn:longitude":12.86667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"\u00c5mot",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u00c5m\u00e5tt",
+        "\u00c5mot"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688435,
+        102191581,
+        1159305739,
+        85633789,
+        1159303075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2726165
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"dc05e8d801a60422bf11d404c3187fbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303075,
+            "localadmin_id":1159305739,
+            "locality_id":1260136391,
+            "region_id":85688435
+        }
+    ],
+    "wof:id":1260136391,
+    "wof:lastmodified":1537700143,
+    "wof:name":"Amot",
+    "wof:parent_id":1159305739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.86667,
+    59.7,
+    12.86667,
+    59.7
+],
+  "geometry": {"coordinates":[12.86667,59.7],"type":"Point"}
+}

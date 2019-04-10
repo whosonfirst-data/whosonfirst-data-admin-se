@@ -1,0 +1,69 @@
+{
+  "id": 1310569655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.25,64.78333,21.25,64.78333",
+    "geom:latitude":64.78333,
+    "geom:longitude":21.25,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Finnhallan",
+    "gn:country_code":"SE",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":606192,
+    "gn:latitude":64.78333,
+    "gn:longitude":21.25,
+    "gn:modification_date":"1994-01-14",
+    "gn:name":"Finnh\u00e4llan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688465,
+        102191581,
+        1125325351,
+        85633789,
+        1159303205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":606192
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"55b91761de64aeed360d499f0279144b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303205,
+            "localadmin_id":1125325351,
+            "locality_id":1310569655,
+            "region_id":85688465
+        }
+    ],
+    "wof:id":1310569655,
+    "wof:lastmodified":1536823595,
+    "wof:name":"Finnhallan",
+    "wof:parent_id":1125325351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.25,
+    64.78333,
+    21.25,
+    64.78333
+],
+  "geometry": {"coordinates":[21.25,64.78333000000001],"type":"Point"}
+}

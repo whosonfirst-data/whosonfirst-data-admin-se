@@ -1,0 +1,77 @@
+{
+  "id": 1310490691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.58333,56.76667,16.58333,56.76667",
+    "geom:latitude":56.76667,
+    "geom:longitude":16.58333,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"885.0",
+    "gn:asciiname":"Hogsrum",
+    "gn:country_code":"SE",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2705682,
+    "gn:latitude":56.76667,
+    "gn:longitude":16.58333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"H\u00f6gsrum",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "H\u00f6gsrum"
+    ],
+    "name:nor_x_variant":[
+        "H\u00f8gsrum"
+    ],
+    "name:und_x_variant":[
+        "H\u00f6gsrum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688401,
+        1159306761,
+        1159303363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2705682
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"f28c58412f6e59132d143f06e75095f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "county_id":1159303363,
+            "localadmin_id":1159306761,
+            "locality_id":1310490691,
+            "region_id":85688401
+        }
+    ],
+    "wof:id":1310490691,
+    "wof:lastmodified":1537700026,
+    "wof:name":"Hogsrum",
+    "wof:parent_id":1159306761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.58333,
+    56.76667,
+    16.58333,
+    56.76667
+],
+  "geometry": {"coordinates":[16.58333,56.76667],"type":"Point"}
+}

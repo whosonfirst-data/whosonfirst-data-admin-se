@@ -1,0 +1,83 @@
+{
+  "id": 1125836227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.8,64.98333,20.8,64.98333",
+    "geom:latitude":64.98333,
+    "geom:longitude":20.8,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":637,
+    "gn:population":637,
+    "iso:country":"SE",
+    "lbl:latitude":64.98333,
+    "lbl:longitude":20.8,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "T\u00e4llberget"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":602409,
+    "qs_pg:gn_pop":637,
+    "qs_pg:name":"T\u00e4llberg",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":550225,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688465,
+        102191581,
+        1159306613,
+        85633789,
+        1159303205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":602409,
+        "qs_pg:id":550225
+    },
+    "wof:country":"SE",
+    "wof:created":1497292727,
+    "wof:geomhash":"65301b8aca2a0d190f76e51a9042aa82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303205,
+            "localadmin_id":1159306613,
+            "locality_id":1125836227,
+            "region_id":85688465
+        }
+    ],
+    "wof:id":1125836227,
+    "wof:lastmodified":1529702980,
+    "wof:name":"T\u00e4llberg",
+    "wof:parent_id":1159306613,
+    "wof:placetype":"locality",
+    "wof:population":637,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.8,
+    64.98333,
+    20.8,
+    64.98333
+],
+  "geometry": {"coordinates":[20.8,64.98333],"type":"Point"}
+}

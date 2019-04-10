@@ -1,0 +1,132 @@
+{
+  "id": 101816629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000179,
+    "geom:area_square_m":1234207.381261,
+    "geom:bbox":"14.2553849674,56.033592263,14.2888081958,56.0490000048",
+    "geom:latitude":56.042414,
+    "geom:longitude":14.27486,
+    "gn:population":1639,
+    "iso:country":"SE",
+    "lbl:latitude":56.042184,
+    "lbl:longitude":14.276,
+    "mps:latitude":56.042184,
+    "mps:longitude":14.276,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Fj\u00e4lkinge"
+    ],
+    "name:eng_x_preferred":[
+        "Fj\u00e4lkinge"
+    ],
+    "name:fre_x_preferred":[
+        "Fj\u00e4lkinge"
+    ],
+    "name:ita_x_preferred":[
+        "Fj\u00e4lkinge"
+    ],
+    "name:nan_x_preferred":[
+        "Fj\u00e4lkinge"
+    ],
+    "name:nld_x_preferred":[
+        "Fj\u00e4lkinge"
+    ],
+    "name:nno_x_preferred":[
+        "Fj\u00e4lkinge"
+    ],
+    "name:nob_x_preferred":[
+        "Fj\u00e4lkinge"
+    ],
+    "name:nor_x_preferred":[
+        "Fj\u00e4lkinge"
+    ],
+    "name:swe_x_colloquial":[
+        "Fjaelkinge",
+        "Fjaelkinges",
+        "Fjalkinge",
+        "Fjalkinges"
+    ],
+    "name:swe_x_preferred":[
+        "Fj\u00e4lkinge"
+    ],
+    "name:swe_x_variant":[
+        "Fj\u00e4lkinges"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Fj\u00e4lkinge"
+    ],
+    "qs:a0":"Sverige",
+    "qs:a1":"*Sk\u00e5ne l\u00e4n",
+    "qs:a1r":"0",
+    "qs:adm0":"Sverige",
+    "qs:la":"Kristianstad",
+    "qs:la_lc":"*SE1290",
+    "qs:level":"locality",
+    "qs:loc":"Fj\u00e4lkinge",
+    "qs:loc_alt":"Fjalkinge",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":45,
+    "wof:belongsto":[
+        85688377,
+        102191581,
+        1125287295,
+        85633789,
+        1159303497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06d2cc3a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2714765,
+        "gp:id":889568,
+        "qs:id":3475,
+        "qs_pg:id":3475,
+        "wd:id":"Q2519014",
+        "wk:page":"Fj\u00e4lkinge"
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"a64767a6cefee645c780431da5c9860e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303497,
+            "localadmin_id":1125287295,
+            "locality_id":101816629,
+            "region_id":85688377
+        }
+    ],
+    "wof:id":101816629,
+    "wof:lang":[
+        "swe"
+    ],
+    "wof:lastmodified":1529702658,
+    "wof:name":"Fj\u00e4lkinge",
+    "wof:parent_id":1125287295,
+    "wof:placetype":"locality",
+    "wof:population":1639,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.25538496735919,
+    56.03359226295419,
+    14.28880819577313,
+    56.04900000482229
+],
+  "geometry": {"coordinates":[[[14.28309261561179,56.04883954118901],[14.28299434231474,56.04794264221402],[14.281393267949,56.04799614867352],[14.28090216464523,56.04351164729883],[14.28410394417932,56.04340462836751],[14.28400566662435,56.0425077309813],[14.28880819577313,56.04234705696535],[14.28861143777851,56.04055327067283],[14.28060756712335,56.04082094685805],[14.28001851706199,56.03543954683488],[14.28161908039368,56.03538605991827],[14.2814227003451,56.03359226295419],[14.27982220998672,56.03364574708007],[14.27992036084072,56.0345426469417],[14.2751187558448,56.03470298368518],[14.27521680260128,56.03559988776118],[14.27361622296411,56.03565329479534],[14.27381225957828,56.03744710582964],[14.27221160288377,56.03750049567884],[14.27240758794767,56.03929430962705],[14.27080685418827,56.03934768228925],[14.27090481825979,56.04024459070416],[14.26930404392931,56.04029794478549],[14.26940197685667,56.04119485462468],[14.26780116195414,56.04124819012407],[14.26799697086813,56.04304201268354],[14.26159337853812,56.04325516606173],[14.26178891679325,56.04504899987671],[14.25538496735919,56.0452618447539],[14.25548259845141,56.04615876726564],[14.26188669394247,56.0459459168336],[14.26198447644026,56.04684283382352],[14.26518657283594,56.04673628596356],[14.26508871730783,56.04583937175431],[14.27309370451496,56.0455726594605],[14.27338783489955,56.04826338130368],[14.27819110696925,56.04810310165936],[14.2782892707134,56.04900000482229],[14.28309261561179,56.04883954118901]]],"type":"Polygon"}
+}

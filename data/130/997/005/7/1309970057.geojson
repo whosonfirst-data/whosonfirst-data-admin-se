@@ -1,0 +1,70 @@
+{
+  "id": 1309970057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.83333,59.78333,17.83333,59.78333",
+    "geom:latitude":59.78333,
+    "geom:longitude":17.83333,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"380.0",
+    "gn:asciiname":"Marma",
+    "gn:country_code":"SE",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2692556,
+    "gn:latitude":59.78333,
+    "gn:longitude":17.83333,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Marma",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688439,
+        102191581,
+        1159306535,
+        85633789,
+        1159303267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2692556
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"e57ad929cbb90156e8b57db7b3b27a15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303267,
+            "localadmin_id":1159306535,
+            "locality_id":1309970057,
+            "region_id":85688439
+        }
+    ],
+    "wof:id":1309970057,
+    "wof:lastmodified":1536694704,
+    "wof:name":"Marma",
+    "wof:parent_id":1159306535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.83333,
+    59.78333000000001,
+    17.83333,
+    59.78333000000001
+],
+  "geometry": {"coordinates":[17.83333,59.78333000000001],"type":"Point"}
+}

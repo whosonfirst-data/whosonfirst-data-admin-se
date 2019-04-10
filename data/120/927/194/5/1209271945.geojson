@@ -1,0 +1,73 @@
+{
+  "id": 1209271945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.29583,62.2146,17.29583,62.2146",
+    "geom:latitude":62.2146,
+    "geom:longitude":17.29583,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2281.0",
+    "gn:admin3_code":"228110.0",
+    "gn:admin4_code":"2481.0",
+    "gn:asciiname":"Torrsjo",
+    "gn:country_code":"SE",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2667934,
+    "gn:latitude":62.2146,
+    "gn:longitude":17.29583,
+    "gn:modification_date":"2014-10-09",
+    "gn:name":"Torrsj\u00f6",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Torrsj\u00f6"
+    ],
+    "name:nor_x_variant":[
+        "Torrsj\u00f8"
+    ],
+    "name:und_x_variant":[
+        "Torrsj\u00f6"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2667934
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"a44c83e606efaf628e4178543f8c3666",
+    "wof:hierarchy":[
+        {
+            "country_id":85633789,
+            "locality_id":1209271945
+        }
+    ],
+    "wof:id":1209271945,
+    "wof:lastmodified":1537699771,
+    "wof:name":"Torrsjo",
+    "wof:parent_id":85633789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.29583,
+    62.2146,
+    17.29583,
+    62.2146
+],
+  "geometry": {"coordinates":[17.29583,62.2146],"type":"Point"}
+}

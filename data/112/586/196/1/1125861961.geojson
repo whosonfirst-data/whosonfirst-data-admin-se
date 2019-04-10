@@ -1,0 +1,83 @@
+{
+  "id": 1125861961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.97114,59.36128,17.97114,59.36128",
+    "geom:latitude":59.36128,
+    "geom:longitude":17.97114,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":34529,
+    "gn:population":34529,
+    "iso:country":"SE",
+    "lbl:latitude":59.36128,
+    "lbl:longitude":17.97114,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Sundyberg"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":2670879,
+    "qs_pg:gn_pop":34529,
+    "qs_pg:name":"Sundbyberg",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":92360,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688429,
+        102191581,
+        1125283865,
+        85633789,
+        1159303289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2670879,
+        "qs_pg:id":92360
+    },
+    "wof:country":"SE",
+    "wof:created":1497293864,
+    "wof:geomhash":"59307b438c1f52bd48ded514cba0f81e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303289,
+            "localadmin_id":1125283865,
+            "locality_id":1125861961,
+            "region_id":85688429
+        }
+    ],
+    "wof:id":1125861961,
+    "wof:lastmodified":1529702753,
+    "wof:name":"Sundbyberg",
+    "wof:parent_id":1125283865,
+    "wof:placetype":"locality",
+    "wof:population":34529,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.97114,
+    59.36128,
+    17.97114,
+    59.36128
+],
+  "geometry": {"coordinates":[17.97114,59.36128],"type":"Point"}
+}

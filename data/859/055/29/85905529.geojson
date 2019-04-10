@@ -1,0 +1,112 @@
+{
+  "id": 85905529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000071,
+    "geom:area_square_m":469732.583514,
+    "geom:bbox":"11.9338989258,57.6924055267,11.9462585449,57.6997445432",
+    "geom:latitude":57.695958,
+    "geom:longitude":11.939339,
+    "gn:latitude":58.11111,
+    "gn:longitude":11.5,
+    "iso:country":"SE",
+    "lbl:latitude":57.697303,
+    "lbl:longitude":11.939111,
+    "mps:latitude":57.696075,
+    "mps:longitude":11.939337,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":4,
+    "mz:tier_metro":30,
+    "name:swe_x_preferred":[
+        "Stigberget"
+    ],
+    "name:unk_x_variant":[
+        "Stigberget"
+    ],
+    "qs:gn_adm0_cc":"SE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":2711537,
+    "qs:gn_nam_loc":"G\u00f6teborg, G\u00f6teborg, V\u00e4stra G\u00f6talands L\u00e4n, SE",
+    "qs:gn_namadm1":"28",
+    "qs:gn_name":"Stigberget",
+    "qs:local_max":7780,
+    "qs:local_sum":88702,
+    "qs:localhoods":78,
+    "qs:name":"Stigberget",
+    "qs:name_adm0":"Sverige",
+    "qs:name_adm1":"V\u00e4stra G\u00f6talands L\u00e4n",
+    "qs:name_adm2":"G\u00f6teborg",
+    "qs:name_local":"G\u00f6teborg",
+    "qs:photo_max":291,
+    "qs:photo_sum":894,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":19,
+    "qs:woe_adm0":23424954,
+    "qs:woe_adm1":20070562,
+    "qs:woe_adm2":12587233,
+    "qs:woe_lau":0,
+    "qs:woe_local":890869,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        85688411,
+        102191581,
+        1125287157,
+        85633789,
+        101752295,
+        1159302989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3332336,
+        "gp:id":20151714,
+        "qs:id":290582,
+        "qs_pg:id":290582
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"23f01fe66ac39e31e5a1d0a1d1247774",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302989,
+            "localadmin_id":1125287157,
+            "locality_id":101752295,
+            "neighbourhood_id":85905529,
+            "region_id":85688411
+        }
+    ],
+    "wof:id":85905529,
+    "wof:lang":[
+        "swe"
+    ],
+    "wof:lastmodified":1529702310,
+    "wof:name":"Stigberget",
+    "wof:parent_id":101752295,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.93389892578341,
+    57.69240552670583,
+    11.9462585449001,
+    57.6997445432
+],
+  "geometry": {"coordinates":[[[11.94351196290012,57.69830754238113],[11.94356115038505,57.69827686060002],[11.94488525390005,57.69827686060002],[11.94488525390005,57.69754297835011],[11.94495904377106,57.69758900594722],[11.94601642240843,57.69692945600544],[11.94603785884783,57.69680911839997],[11.9462585449001,57.69680911839997],[11.9462585449001,57.69607522510005],[11.94603785884533,57.69607522401363],[11.94488525390005,57.69607522244662],[11.94488525390005,57.69534131690007],[11.94488525390005,57.69451541526321],[11.94488525390005,57.69387345014304],[11.9421386718866,57.6938734471377],[11.9421386718812,57.69240552963355],[11.93939208981834,57.69240552736692],[11.93664550780005,57.69240552670583],[11.93389892578347,57.69240552868912],[11.93389892578341,57.69387344837521],[11.93389892578341,57.69534130945003],[11.93389892578347,57.69680911098759],[11.93389892578551,57.69703796324525],[11.93389892580001,57.69827686060002],[11.93456096423625,57.69827685685048],[11.93664550780005,57.69827685492392],[11.93664550780005,57.69974453462028],[11.93939208981834,57.69974453528037],[11.94169732123237,57.6997445381753],[11.94213867190001,57.6997445432],[11.94213867190001,57.6990107070382],[11.94351196290012,57.69901070698766],[11.94351196290012,57.69830754238113]]],"type":"Polygon"}
+}

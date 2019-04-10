@@ -1,0 +1,125 @@
+{
+  "id": 1125891141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.83333,56.1,15.83333,56.1",
+    "geom:latitude":56.1,
+    "geom:longitude":15.83333,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":473,
+    "gn:population":559,
+    "iso:country":"SE",
+    "lbl:latitude":56.1,
+    "lbl:longitude":15.83333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dan_x_preferred":[
+        "Torhamn"
+    ],
+    "name:dut_x_preferred":[
+        "Torhamn"
+    ],
+    "name:eng_x_preferred":[
+        "Torhamn"
+    ],
+    "name:fin_x_preferred":[
+        "Torhamn"
+    ],
+    "name:fre_x_preferred":[
+        "Torhamn"
+    ],
+    "name:ger_x_preferred":[
+        "Torhamn"
+    ],
+    "name:ita_x_preferred":[
+        "Torhamn"
+    ],
+    "name:nan_x_preferred":[
+        "Torhamn"
+    ],
+    "name:nob_x_preferred":[
+        "Torhamn"
+    ],
+    "name:swe_x_preferred":[
+        "Torhamn"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2668208,
+    "qs_pg:gn_pop":473,
+    "qs_pg:name":"Torhamn",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"Blekinge L\u00e4n",
+    "qs_pg:photos":216,
+    "qs_pg:photos_1k":44,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":216,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":210172,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":907726,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"Blekinge L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688383,
+        102191581,
+        1125270309,
+        85633789,
+        1159303467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2668208,
+        "gp:id":907726,
+        "qs_pg:id":210172,
+        "wd:id":"Q2790766"
+    },
+    "wof:country":"SE",
+    "wof:created":1497295321,
+    "wof:geomhash":"80860ecd25fe8211ef19838cc3274d97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303467,
+            "localadmin_id":1125270309,
+            "locality_id":1125891141,
+            "region_id":85688383
+        }
+    ],
+    "wof:id":1125891141,
+    "wof:lastmodified":1554166222,
+    "wof:name":"Torhamn",
+    "wof:parent_id":1125270309,
+    "wof:placetype":"locality",
+    "wof:population":559,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.83333,
+    56.1,
+    15.83333,
+    56.1
+],
+  "geometry": {"coordinates":[15.83333,56.1],"type":"Point"}
+}

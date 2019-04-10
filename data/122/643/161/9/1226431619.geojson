@@ -1,0 +1,75 @@
+{
+  "id": 1226431619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.38333,58.0,16.38333,58.0",
+    "geom:latitude":58.0,
+    "geom:longitude":16.38333,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"883.0",
+    "gn:asciiname":"Borsnas",
+    "gn:cc2":"SE",
+    "gn:country_code":"SE",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2720298,
+    "gn:latitude":58.0,
+    "gn:longitude":16.38333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Borsn\u00e4s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Borsna",
+        "Borsn\u00e4s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688401,
+        102191581,
+        1125327721,
+        85633789,
+        1159303209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2720298
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"53f083575074b5826e7ea6fa196e81dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303209,
+            "localadmin_id":1125327721,
+            "locality_id":1226431619,
+            "region_id":85688401
+        }
+    ],
+    "wof:id":1226431619,
+    "wof:lastmodified":1554166290,
+    "wof:name":"Borsnas",
+    "wof:parent_id":1125327721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.38332999999999,
+    58.0,
+    16.38332999999999,
+    58.0
+],
+  "geometry": {"coordinates":[16.38332999999999,58.0],"type":"Point"}
+}

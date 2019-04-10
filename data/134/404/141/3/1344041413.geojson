@@ -1,0 +1,77 @@
+{
+  "id": 1344041413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.7,57.18333,15.7,57.18333",
+    "geom:latitude":57.18333,
+    "geom:longitude":15.7,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"821.0",
+    "gn:asciiname":"Fogeberg",
+    "gn:country_code":"SE",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2714170,
+    "gn:latitude":57.18333,
+    "gn:longitude":15.7,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"F\u00f6geberg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "F\u00f6geberg"
+    ],
+    "name:nor_x_variant":[
+        "F\u00f8geberg"
+    ],
+    "name:und_x_variant":[
+        "F\u00f6geberg"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688401,
+        1125417511,
+        1159302955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2714170
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"958ff911fe2a0763a67b80f588e72a4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "county_id":1159302955,
+            "localadmin_id":1125417511,
+            "locality_id":1344041413,
+            "region_id":85688401
+        }
+    ],
+    "wof:id":1344041413,
+    "wof:lastmodified":1537700080,
+    "wof:name":"Fogeberg",
+    "wof:parent_id":1125417511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.7,
+    57.18333000000001,
+    15.7,
+    57.18333000000001
+],
+  "geometry": {"coordinates":[15.7,57.18333000000001],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259675607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.98333,57.5,11.98333,57.5",
+    "geom:latitude":57.5,
+    "geom:longitude":11.98333,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"1384.0",
+    "gn:asciiname":"Kyrkobyn",
+    "gn:country_code":"SE",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2698088,
+    "gn:latitude":57.5,
+    "gn:longitude":11.98333,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Kyrkobyn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688391,
+        102191581,
+        1159307161,
+        85633789,
+        1159303249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2698088
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"fac318f64f5e5aff6482aeee80eb207b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303249,
+            "localadmin_id":1159307161,
+            "locality_id":1259675607,
+            "region_id":85688391
+        }
+    ],
+    "wof:id":1259675607,
+    "wof:lastmodified":1537075312,
+    "wof:name":"Kyrkobyn",
+    "wof:parent_id":1159307161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.98333,
+    57.5,
+    11.98333,
+    57.5
+],
+  "geometry": {"coordinates":[11.98333,57.5],"type":"Point"}
+}

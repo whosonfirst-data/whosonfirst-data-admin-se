@@ -1,0 +1,113 @@
+{
+  "id": 85902113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":38567697.263921,
+    "geom:bbox":"12.707131,56.049886,12.707131,56.049886",
+    "geom:latitude":56.049886,
+    "geom:longitude":12.707131,
+    "gn:latitude":56.06667,
+    "gn:longitude":12.73333,
+    "iso:country":"SE",
+    "lbl:latitude":56.049886,
+    "lbl:longitude":12.707131,
+    "mps:latitude":56.069106,
+    "mps:longitude":12.731683,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":1,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "mz:tier_metro":1,
+    "name:swe_x_preferred":[
+        "Filborna"
+    ],
+    "name:unk_x_variant":[
+        "Filborna"
+    ],
+    "qs:gn_adm0_cc":"SE",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2706767,
+    "qs:gn_nam_loc":"Helsingborg, Helsingborg, Sk\u00e5ne L\u00e4n, SE",
+    "qs:gn_namadm1":"27",
+    "qs:gn_name":"Filborna",
+    "qs:local_max":5233,
+    "qs:local_sum":7734,
+    "qs:localhoods":2,
+    "qs:name":"Filborna",
+    "qs:name_adm0":"Sverige",
+    "qs:name_adm1":"Sk\u00e5ne L\u00e4n",
+    "qs:name_adm2":"Helsingborg",
+    "qs:name_local":"Helsingborg",
+    "qs:photo_max":250,
+    "qs:photo_sum":2501,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":159,
+    "qs:woe_adm0":23424954,
+    "qs:woe_adm1":20070561,
+    "qs:woe_adm2":12587325,
+    "qs:woe_lau":0,
+    "qs:woe_local":892828,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        85688377,
+        102191581,
+        1125358345,
+        85633789,
+        101752277,
+        1159302965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2715088,
+        "gp:id":889427,
+        "qs:id":1083433,
+        "qs_pg:id":1083433
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"7b85144990a056ccd3d4404b6b754c5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302965,
+            "localadmin_id":1125358345,
+            "locality_id":101752277,
+            "neighbourhood_id":85902113,
+            "region_id":85688377
+        }
+    ],
+    "wof:id":85902113,
+    "wof:lang":[
+        "swe"
+    ],
+    "wof:lastmodified":1531935856,
+    "wof:name":"Filborna",
+    "wof:parent_id":101752277,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.707131,
+    56.049886,
+    12.707131,
+    56.049886
+],
+  "geometry": {"coordinates":[12.707131,56.049886],"type":"Point"}
+}

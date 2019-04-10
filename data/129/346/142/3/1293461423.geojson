@@ -1,0 +1,79 @@
+{
+  "id": 1293461423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.41667,58.48333,15.41667,58.48333",
+    "geom:latitude":58.48333,
+    "geom:longitude":15.41667,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"580.0",
+    "gn:asciiname":"Maspelosa",
+    "gn:country_code":"SE",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2692384,
+    "gn:latitude":58.48333,
+    "gn:longitude":15.41667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Maspel\u00f6sa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Maspel\u00f6sa"
+    ],
+    "name:nor_x_variant":[
+        "Maspel\u00f8sa"
+    ],
+    "name:und_x_variant":[
+        "Maspel\u00f6sa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688409,
+        102191581,
+        1159306051,
+        85633789,
+        1159303147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2692384
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"27881efce997d71663f57f88d98a3352",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303147,
+            "localadmin_id":1159306051,
+            "locality_id":1293461423,
+            "region_id":85688409
+        }
+    ],
+    "wof:id":1293461423,
+    "wof:lastmodified":1537699961,
+    "wof:name":"Maspelosa",
+    "wof:parent_id":1159306051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.41667,
+    58.48333,
+    15.41667,
+    58.48333
+],
+  "geometry": {"coordinates":[15.41667,58.48333],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293440599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.1,57.6,12.1,57.6",
+    "geom:latitude":57.6,
+    "geom:longitude":12.1,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"1481.0",
+    "gn:asciiname":"Dvarred",
+    "gn:country_code":"SE",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2717095,
+    "gn:latitude":57.6,
+    "gn:longitude":12.1,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Dv\u00e4rred",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688411,
+        102191581,
+        1125407173,
+        85633789,
+        1159303503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2717095
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"8595e9f24e0acbb6dfe49c3f27a9fbdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303503,
+            "localadmin_id":1125407173,
+            "locality_id":1293440599,
+            "region_id":85688411
+        }
+    ],
+    "wof:id":1293440599,
+    "wof:lastmodified":1536853665,
+    "wof:name":"Dvarred",
+    "wof:parent_id":1125407173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.1,
+    57.6,
+    12.1,
+    57.6
+],
+  "geometry": {"coordinates":[12.1,57.6],"type":"Point"}
+}

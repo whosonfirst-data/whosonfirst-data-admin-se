@@ -1,0 +1,79 @@
+{
+  "id": 1310698655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.0,57.4,12.0,57.4",
+    "geom:latitude":57.4,
+    "geom:longitude":12.0,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"1384.0",
+    "gn:asciiname":"Sturod",
+    "gn:country_code":"SE",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2671054,
+    "gn:latitude":57.4,
+    "gn:longitude":12.0,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Stur\u00f6d",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Stur\u00f6d"
+    ],
+    "name:nor_x_variant":[
+        "Stur\u00f8d"
+    ],
+    "name:und_x_variant":[
+        "Stur\u00f6d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688391,
+        102191581,
+        1125407163,
+        85633789,
+        1159303249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2671054
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"ee177cdcac8a5f84e99d0ba79aa0e842",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303249,
+            "localadmin_id":1125407163,
+            "locality_id":1310698655,
+            "region_id":85688391
+        }
+    ],
+    "wof:id":1310698655,
+    "wof:lastmodified":1537699785,
+    "wof:name":"Sturod",
+    "wof:parent_id":1125407163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.0,
+    57.4,
+    12.0,
+    57.4
+],
+  "geometry": {"coordinates":[12.0,57.4],"type":"Point"}
+}

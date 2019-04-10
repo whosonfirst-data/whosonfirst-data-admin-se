@@ -1,0 +1,75 @@
+{
+  "id": 1293341041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.78333,59.15,11.78333,59.15",
+    "geom:latitude":59.15,
+    "geom:longitude":11.78333,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"1438.0",
+    "gn:asciiname":"Sam",
+    "gn:cc2":"SE",
+    "gn:country_code":"SE",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2680421,
+    "gn:latitude":59.15,
+    "gn:longitude":11.78333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"S\u00e4m",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u00e4mb",
+        "S\u00e4m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688411,
+        102191581,
+        1159307065,
+        85633789,
+        1159302967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2680421
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"efe89bfb3e7022a10cd4d96f01034349",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302967,
+            "localadmin_id":1159307065,
+            "locality_id":1293341041,
+            "region_id":85688411
+        }
+    ],
+    "wof:id":1293341041,
+    "wof:lastmodified":1537699852,
+    "wof:name":"Sam",
+    "wof:parent_id":1159307065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.78333,
+    59.15,
+    11.78333,
+    59.15
+],
+  "geometry": {"coordinates":[11.78333,59.15],"type":"Point"}
+}

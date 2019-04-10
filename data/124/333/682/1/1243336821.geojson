@@ -1,0 +1,73 @@
+{
+  "id": 1243336821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.97357,65.63126,17.97357,65.63126",
+    "geom:latitude":65.63126,
+    "geom:longitude":17.97357,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2506.0",
+    "gn:asciiname":"Nyliden",
+    "gn:country_code":"SE",
+    "gn:dem":448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2687658,
+    "gn:latitude":65.63126,
+    "gn:longitude":17.97357,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Nyliden",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:swe_x_preferred":[
+        "Nyliden"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688471,
+        102191581,
+        1125300073,
+        85633789,
+        1159303049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2687658
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"b112c326be3718aa6d3fa79b94eb3bdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303049,
+            "localadmin_id":1125300073,
+            "locality_id":1243336821,
+            "region_id":85688471
+        }
+    ],
+    "wof:id":1243336821,
+    "wof:lastmodified":1537699930,
+    "wof:name":"Nyliden",
+    "wof:parent_id":1125300073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.97357000000001,
+    65.63126,
+    17.97357000000001,
+    65.63126
+],
+  "geometry": {"coordinates":[17.97357000000001,65.63126],"type":"Point"}
+}

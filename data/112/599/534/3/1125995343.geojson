@@ -1,0 +1,122 @@
+{
+  "id": 1125995343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.0,56.6,13.0,56.6",
+    "geom:latitude":56.6,
+    "geom:longitude":13.0,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":717,
+    "gn:population":679,
+    "iso:country":"SE",
+    "lbl:latitude":56.6,
+    "lbl:longitude":13.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0415\u043b\u0434\u0441\u0431\u0435\u0440\u0433\u0430"
+    ],
+    "name:dut_x_preferred":[
+        "Eldsberga"
+    ],
+    "name:eng_x_preferred":[
+        "Eldsberga"
+    ],
+    "name:fre_x_preferred":[
+        "Eldsberga"
+    ],
+    "name:nan_x_preferred":[
+        "Eldsberga"
+    ],
+    "name:nno_x_preferred":[
+        "Eldsberga"
+    ],
+    "name:nob_x_preferred":[
+        "Eldsberga"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0644\u062f\u0633\u0628\u0631\u06af\u0627"
+    ],
+    "name:swe_x_preferred":[
+        "Eldsberga"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2716393,
+    "qs_pg:gn_pop":717,
+    "qs_pg:name":"Eldsberga",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"Hallands L\u00e4n",
+    "qs_pg:photos":31,
+    "qs_pg:photos_1k":6,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":31,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1000587,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":888885,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"Hallands L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688391,
+        102191581,
+        1125288395,
+        85633789,
+        1159303343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2716393,
+        "gp:id":888885,
+        "qs_pg:id":1000587,
+        "wd:id":"Q1869005"
+    },
+    "wof:country":"SE",
+    "wof:created":1497299293,
+    "wof:geomhash":"5438bdd0eb80e745529e2ff37cdee2ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303343,
+            "localadmin_id":1125288395,
+            "locality_id":1125995343,
+            "region_id":85688391
+        }
+    ],
+    "wof:id":1125995343,
+    "wof:lastmodified":1529702350,
+    "wof:name":"Eldsberga",
+    "wof:parent_id":1125288395,
+    "wof:placetype":"locality",
+    "wof:population":679,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.0,
+    56.6,
+    13.0,
+    56.6
+],
+  "geometry": {"coordinates":[13.0,56.6],"type":"Point"}
+}

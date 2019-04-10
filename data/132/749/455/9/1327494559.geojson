@@ -1,0 +1,77 @@
+{
+  "id": 1327494559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.78333,58.73333,11.78333,58.73333",
+    "geom:latitude":58.73333,
+    "geom:longitude":11.78333,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"1430.0",
+    "gn:asciiname":"Hafoss",
+    "gn:cc2":"SE",
+    "gn:country_code":"SE",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2709408,
+    "gn:latitude":58.73333,
+    "gn:longitude":11.78333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"H\u00e5foss",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hoff\u00e5s",
+        "H\u00e5ffoss",
+        "H\u00e5fors",
+        "H\u00e5foss"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688411,
+        102191581,
+        1159305919,
+        85633789,
+        1159302991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2709408
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"316817102b66c94f0557ff9df25732b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302991,
+            "localadmin_id":1159305919,
+            "locality_id":1327494559,
+            "region_id":85688411
+        }
+    ],
+    "wof:id":1327494559,
+    "wof:lastmodified":1537700048,
+    "wof:name":"Hafoss",
+    "wof:parent_id":1159305919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.78333,
+    58.73333,
+    11.78333,
+    58.73333
+],
+  "geometry": {"coordinates":[11.78333,58.73333],"type":"Point"}
+}

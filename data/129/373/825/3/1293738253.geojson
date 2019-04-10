@@ -1,0 +1,69 @@
+{
+  "id": 1293738253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.7,59.56667,18.7,59.56667",
+    "geom:latitude":59.56667,
+    "geom:longitude":18.7,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Vatterso",
+    "gn:country_code":"SE",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2663588,
+    "gn:latitude":59.56667,
+    "gn:longitude":18.7,
+    "gn:modification_date":"1996-06-21",
+    "gn:name":"V\u00e4tters\u00f6",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688429,
+        102191581,
+        1125423245,
+        85633789,
+        1159303039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2663588
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"31ded7602f6b3b24951a35c1f80a22d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303039,
+            "localadmin_id":1125423245,
+            "locality_id":1293738253,
+            "region_id":85688429
+        }
+    ],
+    "wof:id":1293738253,
+    "wof:lastmodified":1536923522,
+    "wof:name":"Vatterso",
+    "wof:parent_id":1125423245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.7,
+    59.56667,
+    18.7,
+    59.56667
+],
+  "geometry": {"coordinates":[18.7,59.56667],"type":"Point"}
+}

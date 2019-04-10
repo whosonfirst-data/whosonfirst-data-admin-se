@@ -1,0 +1,72 @@
+{
+  "id": 1293851739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.34567,62.26065,17.34567,62.26065",
+    "geom:latitude":62.26065,
+    "geom:longitude":17.34567,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2281.0",
+    "gn:admin3_code":"228110.0",
+    "gn:admin4_code":"2481.0",
+    "gn:asciiname":"Berge",
+    "gn:country_code":"SE",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8051095,
+    "gn:latitude":62.26065,
+    "gn:longitude":17.34567,
+    "gn:modification_date":"2017-01-10",
+    "gn:name":"Berge",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688457,
+        102191581,
+        1125409973,
+        85633789,
+        1159303427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8051095
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"3ee2ae1a7cd00f7c50f133094bac8c44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303427,
+            "localadmin_id":1125409973,
+            "locality_id":1293851739,
+            "region_id":85688457
+        }
+    ],
+    "wof:id":1293851739,
+    "wof:lastmodified":1536759362,
+    "wof:name":"Berge",
+    "wof:parent_id":1125409973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.34567,
+    62.26065,
+    17.34567,
+    62.26065
+],
+  "geometry": {"coordinates":[17.34567,62.26065],"type":"Point"}
+}

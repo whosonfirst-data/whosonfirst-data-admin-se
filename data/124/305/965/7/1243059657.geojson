@@ -1,0 +1,79 @@
+{
+  "id": 1243059657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.36667,56.95,12.36667,56.95",
+    "geom:latitude":56.95,
+    "geom:longitude":12.36667,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"1382.0",
+    "gn:asciiname":"Lonestig",
+    "gn:country_code":"SE",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2694204,
+    "gn:latitude":56.95,
+    "gn:longitude":12.36667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"L\u00f6nestig",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "L\u00f6nestig"
+    ],
+    "name:nor_x_variant":[
+        "L\u00f8nestig"
+    ],
+    "name:und_x_variant":[
+        "L\u00f6nestig"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688391,
+        102191581,
+        1125423233,
+        85633789,
+        1159303247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2694204
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"2c9e917512974c6d728a02f2c6a1fe66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303247,
+            "localadmin_id":1125423233,
+            "locality_id":1243059657,
+            "region_id":85688391
+        }
+    ],
+    "wof:id":1243059657,
+    "wof:lastmodified":1537699974,
+    "wof:name":"Lonestig",
+    "wof:parent_id":1125423233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.36667,
+    56.95,
+    12.36667,
+    56.95
+],
+  "geometry": {"coordinates":[12.36667,56.95],"type":"Point"}
+}

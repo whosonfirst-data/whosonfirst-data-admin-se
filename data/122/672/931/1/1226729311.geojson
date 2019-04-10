@@ -1,0 +1,70 @@
+{
+  "id": 1226729311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.41667,56.66667,13.41667,56.66667",
+    "geom:latitude":56.66667,
+    "geom:longitude":13.41667,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"781.0",
+    "gn:asciiname":"Ryd",
+    "gn:country_code":"SE",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2681004,
+    "gn:latitude":56.66667,
+    "gn:longitude":13.41667,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Ryd",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688387,
+        102191581,
+        1125287791,
+        85633789,
+        1159303441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2681004
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"07cc77e86fbcdfc9a09672aa5debef34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303441,
+            "localadmin_id":1125287791,
+            "locality_id":1226729311,
+            "region_id":85688387
+        }
+    ],
+    "wof:id":1226729311,
+    "wof:lastmodified":1536739117,
+    "wof:name":"Ryd",
+    "wof:parent_id":1125287791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.41667,
+    56.66667,
+    13.41667,
+    56.66667
+],
+  "geometry": {"coordinates":[13.41667,56.66667],"type":"Point"}
+}

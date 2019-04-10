@@ -1,0 +1,70 @@
+{
+  "id": 1310363983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.83333,59.83333,17.83333,59.83333",
+    "geom:latitude":59.83333,
+    "geom:longitude":17.83333,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"380.0",
+    "gn:asciiname":"Bodarna",
+    "gn:country_code":"SE",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2721012,
+    "gn:latitude":59.83333,
+    "gn:longitude":17.83333,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Bodarna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688439,
+        102191581,
+        1125325877,
+        85633789,
+        1159303253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2721012
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"d3c67a1ca567ac533db36897d20f0897",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303253,
+            "localadmin_id":1125325877,
+            "locality_id":1310363983,
+            "region_id":85688439
+        }
+    ],
+    "wof:id":1310363983,
+    "wof:lastmodified":1536621737,
+    "wof:name":"Bodarna",
+    "wof:parent_id":1125325877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.83333,
+    59.83333,
+    17.83333,
+    59.83333
+],
+  "geometry": {"coordinates":[17.83333,59.83333],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1193267401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.56667,57.65,15.56667,57.65",
+    "geom:latitude":57.65,
+    "geom:longitude":15.56667,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"884.0",
+    "gn:asciiname":"Holmsjokull",
+    "gn:country_code":"SE",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2705238,
+    "gn:latitude":57.65,
+    "gn:longitude":15.56667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Holmsj\u00f6kull",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Holmsj\u00f6kull"
+    ],
+    "name:nor_x_variant":[
+        "Holmsj\u00f8kull"
+    ],
+    "name:und_x_variant":[
+        "Holmsj\u00f6kull"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688401,
+        102191581,
+        1125287587,
+        85633789,
+        1159303159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2705238
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"83e3af3b36f7d235ead98ba4807eb970",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303159,
+            "localadmin_id":1125287587,
+            "locality_id":1193267401,
+            "region_id":85688401
+        }
+    ],
+    "wof:id":1193267401,
+    "wof:lastmodified":1554166254,
+    "wof:name":"Holmsjokull",
+    "wof:parent_id":1125287587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.56667,
+    57.65,
+    15.56667,
+    57.65
+],
+  "geometry": {"coordinates":[15.56667,57.65],"type":"Point"}
+}

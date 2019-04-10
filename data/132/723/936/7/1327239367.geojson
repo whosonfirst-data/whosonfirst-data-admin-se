@@ -1,0 +1,68 @@
+{
+  "id": 1327239367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.68333,56.11667,15.68333,56.11667",
+    "geom:latitude":56.11667,
+    "geom:longitude":15.68333,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"1080.0",
+    "gn:asciiname":"Bredavik",
+    "gn:country_code":"SE",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2719474,
+    "gn:latitude":56.11667,
+    "gn:longitude":15.68333,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Bredavik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688383,
+        1125417527,
+        1159303467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2719474
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"de2e2b719909db962cf16666e6c9a2e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "county_id":1159303467,
+            "localadmin_id":1125417527,
+            "locality_id":1327239367,
+            "region_id":85688383
+        }
+    ],
+    "wof:id":1327239367,
+    "wof:lastmodified":1536959417,
+    "wof:name":"Bredavik",
+    "wof:parent_id":1125417527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.68333,
+    56.11666999999999,
+    15.68333,
+    56.11666999999999
+],
+  "geometry": {"coordinates":[15.68333,56.11666999999999],"type":"Point"}
+}

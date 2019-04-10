@@ -1,0 +1,113 @@
+{
+  "id": 85905487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":3858245.911933,
+    "geom:bbox":"18.019613,59.44343,18.019613,59.44343",
+    "geom:latitude":59.44343,
+    "geom:longitude":18.019613,
+    "gn:latitude":59.44525,
+    "gn:longitude":18.02256,
+    "iso:country":"SE",
+    "lbl:latitude":59.44343,
+    "lbl:longitude":18.019613,
+    "mps:latitude":59.450074,
+    "mps:longitude":18.020307,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":1,
+    "mz:tier_metro":1,
+    "name:swe_x_preferred":[
+        "Skarpang"
+    ],
+    "name:unk_x_variant":[
+        "Skarpang"
+    ],
+    "qs:gn_adm0_cc":"SE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":2669772,
+    "qs:gn_nam_loc":"T\u00e4by, T\u00e4by, Stockholms L\u00e4n, SE",
+    "qs:gn_namadm1":"26",
+    "qs:gn_name":"Skarp\u00e4ng",
+    "qs:local_max":409,
+    "qs:local_sum":1647,
+    "qs:localhoods":10,
+    "qs:name":"Skarpang",
+    "qs:name_adm0":"Sverige",
+    "qs:name_adm1":"Stockholms L\u00e4n",
+    "qs:name_adm2":"T\u00e4by",
+    "qs:name_local":"T\u00e4by",
+    "qs:photo_max":150,
+    "qs:photo_sum":159,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":8,
+    "qs:woe_adm0":23424954,
+    "qs:woe_adm1":2347067,
+    "qs:woe_adm2":12587480,
+    "qs:woe_lau":0,
+    "qs:woe_local":907140,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        85688429,
+        102191581,
+        1125398123,
+        85633789,
+        101752309,
+        1159303403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2678079,
+        "gp:id":20151625,
+        "qs:id":1330139,
+        "qs_pg:id":1330139
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"cbc427e02147891b7ea7adc2b9cb551b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303403,
+            "localadmin_id":1125398123,
+            "locality_id":101752309,
+            "neighbourhood_id":85905487,
+            "region_id":85688429
+        }
+    ],
+    "wof:id":85905487,
+    "wof:lang":[
+        "swe"
+    ],
+    "wof:lastmodified":1531936349,
+    "wof:name":"Skarpang",
+    "wof:parent_id":101752309,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.019613,
+    59.44343,
+    18.019613,
+    59.44343
+],
+  "geometry": {"coordinates":[18.019613,59.44343],"type":"Point"}
+}

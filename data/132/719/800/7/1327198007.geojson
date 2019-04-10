@@ -1,0 +1,70 @@
+{
+  "id": 1327198007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.83333,59.95,17.83333,59.95",
+    "geom:latitude":59.95,
+    "geom:longitude":17.83333,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"380.0",
+    "gn:asciiname":"Vasterberga",
+    "gn:country_code":"SE",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2664431,
+    "gn:latitude":59.95,
+    "gn:longitude":17.83333,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"V\u00e4sterberga",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688439,
+        102191581,
+        1125373723,
+        85633789,
+        1159303253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2664431
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"b6ec4e95f2b5e58310a7828fc4eddbb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303253,
+            "localadmin_id":1125373723,
+            "locality_id":1327198007,
+            "region_id":85688439
+        }
+    ],
+    "wof:id":1327198007,
+    "wof:lastmodified":1537018584,
+    "wof:name":"Vasterberga",
+    "wof:parent_id":1125373723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.83333,
+    59.95,
+    17.83333,
+    59.95
+],
+  "geometry": {"coordinates":[17.83333,59.95],"type":"Point"}
+}

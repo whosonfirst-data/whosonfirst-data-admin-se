@@ -1,0 +1,70 @@
+{
+  "id": 1259637827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.5,59.4,18.5,59.4",
+    "geom:latitude":59.4,
+    "geom:longitude":18.5,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"120.0",
+    "gn:asciiname":"Loknas",
+    "gn:country_code":"SE",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2694282,
+    "gn:latitude":59.4,
+    "gn:longitude":18.5,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"L\u00f6kn\u00e4s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688429,
+        102191581,
+        1125398113,
+        85633789,
+        1159303241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2694282
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"36f3f2ff4aaeac2ed0ba87831850cbad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303241,
+            "localadmin_id":1125398113,
+            "locality_id":1259637827,
+            "region_id":85688429
+        }
+    ],
+    "wof:id":1259637827,
+    "wof:lastmodified":1536635250,
+    "wof:name":"Loknas",
+    "wof:parent_id":1125398113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.5,
+    59.4,
+    18.5,
+    59.4
+],
+  "geometry": {"coordinates":[18.5,59.4],"type":"Point"}
+}

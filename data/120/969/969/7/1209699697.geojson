@@ -1,0 +1,75 @@
+{
+  "id": 1209699697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.46667,57.25,16.46667,57.25",
+    "geom:latitude":57.25,
+    "geom:longitude":16.46667,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"882.0",
+    "gn:asciiname":"Arnemar",
+    "gn:cc2":"SE",
+    "gn:country_code":"SE",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2725284,
+    "gn:latitude":57.25,
+    "gn:longitude":16.46667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"\u00c4rnemar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ernemar",
+        "\u00c4rnemar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688401,
+        102191581,
+        1125286979,
+        85633789,
+        1159303119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2725284
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"194b74e4556241a956af79457b355e07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303119,
+            "localadmin_id":1125286979,
+            "locality_id":1209699697,
+            "region_id":85688401
+        }
+    ],
+    "wof:id":1209699697,
+    "wof:lastmodified":1554166277,
+    "wof:name":"Arnemar",
+    "wof:parent_id":1125286979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.46667,
+    57.25,
+    16.46667,
+    57.25
+],
+  "geometry": {"coordinates":[16.46667,57.25],"type":"Point"}
+}

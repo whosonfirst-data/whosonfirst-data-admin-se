@@ -1,0 +1,129 @@
+{
+  "id": 101815877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000234,
+    "geom:area_square_m":1462006.328748,
+    "geom:bbox":"16.6068458559,59.6761116507,16.6421237703,59.6897068278",
+    "geom:latitude":59.684414,
+    "geom:longitude":16.624578,
+    "gn:population":2096,
+    "iso:country":"SE",
+    "lbl:latitude":59.683693,
+    "lbl:longitude":16.627786,
+    "mps:latitude":59.683693,
+    "mps:longitude":16.627786,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0422\u0438\u043b\u0431\u0435\u0440\u044f"
+    ],
+    "name:dut_x_preferred":[
+        "Tillberga"
+    ],
+    "name:eng_x_preferred":[
+        "Tillberga"
+    ],
+    "name:fra_x_preferred":[
+        "Tillberga"
+    ],
+    "name:fre_x_preferred":[
+        "Tillberga"
+    ],
+    "name:nan_x_preferred":[
+        "Tillberga"
+    ],
+    "name:nld_x_preferred":[
+        "Tillberga"
+    ],
+    "name:nno_x_preferred":[
+        "Tillberga"
+    ],
+    "name:nob_x_preferred":[
+        "Tillberga"
+    ],
+    "name:nor_x_preferred":[
+        "Tillberga"
+    ],
+    "name:swe_x_preferred":[
+        "Tillberga"
+    ],
+    "name:swe_x_variant":[
+        "Tillbergas"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Tillberga"
+    ],
+    "qs:a0":"Sverige",
+    "qs:a1":"*V\u00e4stmanlands l\u00e4n",
+    "qs:a1r":"0",
+    "qs:adm0":"Sverige",
+    "qs:la":"V\u00e4ster\u00e5s",
+    "qs:la_lc":"*SE1980",
+    "qs:level":"locality",
+    "qs:loc":"Tillberga",
+    "qs:loc_alt":"Tillberga",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":45,
+    "wof:belongsto":[
+        85688425,
+        102191581,
+        1159306603,
+        85633789,
+        1159303331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06d07304-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2669086,
+        "gp:id":907419,
+        "qs:id":489972,
+        "qs_pg:id":489972,
+        "wd:id":"Q2754664",
+        "wk:page":"Tillberga"
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"d11bb5894284402a7ab2f1cacdf23556",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303331,
+            "localadmin_id":1159306603,
+            "locality_id":101815877,
+            "region_id":85688425
+        }
+    ],
+    "wof:id":101815877,
+    "wof:lang":[
+        "swe"
+    ],
+    "wof:lastmodified":1529703031,
+    "wof:name":"Tillberga",
+    "wof:parent_id":1159306603,
+    "wof:placetype":"locality",
+    "wof:population":2096,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.60684585585847,
+    59.67611165072054,
+    16.64212377031214,
+    59.68970682776228
+],
+  "geometry": {"coordinates":[[[16.63223677793462,59.6894551446369],[16.63206275194688,59.68855998582461],[16.63735471540525,59.68830810994746],[16.63683229059268,59.68562265635376],[16.64212377031214,59.68537060264288],[16.64194951312749,59.68447545906298],[16.63842195932074,59.68464351214357],[16.63824780393281,59.6837483636798],[16.63648406040295,59.68383235437682],[16.63630996121083,59.68293720351426],[16.63278254090756,59.68310511322562],[16.63226058045296,59.68041964625183],[16.63402415791251,59.68033570995874],[16.63350215605016,59.67765025118177],[16.62997526647297,59.67781808664978],[16.62980137818647,59.6769229289319],[16.62803796677417,59.67700681083312],[16.62786413464556,59.67611165072054],[16.62610076067784,59.6761955079084],[16.62644834436787,59.6779858331742],[16.62292138975147,59.67815349075374],[16.62361631944236,59.68173416211835],[16.61127044605223,59.68232033248091],[16.61144388576213,59.68321551785971],[16.6096801115018,59.68329916999573],[16.61037379355031,59.68687992226165],[16.60684585585847,59.68704717958627],[16.60701921155078,59.68794237281264],[16.60878323006477,59.68785875280025],[16.60895664193026,59.68875394364079],[16.61777684083734,59.68833549754436],[16.61795049134179,59.68923067610001],[16.62677071521966,59.68881166150931],[16.62694460437302,59.68970682776228],[16.63223677793462,59.6894551446369]]],"type":"Polygon"}
+}

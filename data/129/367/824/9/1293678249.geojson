@@ -1,0 +1,68 @@
+{
+  "id": 1293678249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.60333,57.61028,16.60333,57.61028",
+    "geom:latitude":57.61028,
+    "geom:longitude":16.60333,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"883.0",
+    "gn:asciiname":"Askestock",
+    "gn:country_code":"SE",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3328923,
+    "gn:latitude":57.61028,
+    "gn:longitude":16.60333,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"\u00c4skestock",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688401,
+        1159306131,
+        1159303209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3328923
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"1f2c0240a69c75923e7d04793e70e48e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "county_id":1159303209,
+            "localadmin_id":1159306131,
+            "locality_id":1293678249,
+            "region_id":85688401
+        }
+    ],
+    "wof:id":1293678249,
+    "wof:lastmodified":1537008625,
+    "wof:name":"Askestock",
+    "wof:parent_id":1159306131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.60333,
+    57.61028,
+    16.60333,
+    57.61028
+],
+  "geometry": {"coordinates":[16.60333,57.61028],"type":"Point"}
+}

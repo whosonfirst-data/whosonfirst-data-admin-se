@@ -1,0 +1,116 @@
+{
+  "id": 1125997465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.07067,65.59781,22.07067,65.59781",
+    "geom:latitude":65.59781,
+    "geom:longitude":22.07067,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":270,
+    "gn:population":255,
+    "iso:country":"SE",
+    "lbl:latitude":65.59781,
+    "lbl:longitude":22.07067,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u041a\u0430\u0440\u043b\u0441\u0432\u0438\u043a"
+    ],
+    "name:dut_x_preferred":[
+        "Karlsvik"
+    ],
+    "name:eng_x_preferred":[
+        "Karlsvik"
+    ],
+    "name:nan_x_preferred":[
+        "Karlsvik"
+    ],
+    "name:nno_x_preferred":[
+        "Karlsvik"
+    ],
+    "name:nob_x_preferred":[
+        "Karlsvik"
+    ],
+    "name:swe_x_preferred":[
+        "Karlsvik"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":605294,
+    "qs_pg:gn_pop":270,
+    "qs_pg:name":"Karlsvik",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"Norrbottens L\u00e4n",
+    "qs_pg:photos":77,
+    "qs_pg:photos_1k":16,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":77,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":287367,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":894971,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"Norrbottens L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688471,
+        102191581,
+        1125325167,
+        85633789,
+        1159303317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":605294,
+        "gp:id":894971,
+        "qs_pg:id":287367,
+        "wd:id":"Q597068"
+    },
+    "wof:country":"SE",
+    "wof:created":1497299440,
+    "wof:geomhash":"369c4eaa9fc860c5974fdfc326f45cff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303317,
+            "localadmin_id":1125325167,
+            "locality_id":1125997465,
+            "region_id":85688471
+        }
+    ],
+    "wof:id":1125997465,
+    "wof:lastmodified":1529702578,
+    "wof:name":"Karlsvik",
+    "wof:parent_id":1125325167,
+    "wof:placetype":"locality",
+    "wof:population":255,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.07067,
+    65.59781,
+    22.07067,
+    65.59781
+],
+  "geometry": {"coordinates":[22.07067,65.59781],"type":"Point"}
+}

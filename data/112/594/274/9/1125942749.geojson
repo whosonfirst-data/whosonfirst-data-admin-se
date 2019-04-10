@@ -1,0 +1,114 @@
+{
+  "id": 1125942749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.11667,56.5,15.11667,56.5",
+    "geom:latitude":56.5,
+    "geom:longitude":15.11667,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":508,
+    "gn:population":493,
+    "iso:country":"SE",
+    "lbl:latitude":56.5,
+    "lbl:longitude":15.11667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Konga"
+    ],
+    "name:eng_x_preferred":[
+        "Konga"
+    ],
+    "name:ita_x_preferred":[
+        "Konga"
+    ],
+    "name:nan_x_preferred":[
+        "Konga"
+    ],
+    "name:nno_x_preferred":[
+        "Konga"
+    ],
+    "name:nob_x_preferred":[
+        "Konga"
+    ],
+    "name:swe_x_preferred":[
+        "Konga"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2699838,
+    "qs_pg:gn_pop":508,
+    "qs_pg:name":"Konga",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"Kronobergs L\u00e4n",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":45,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1140885,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":895706,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"Kronobergs L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688387,
+        102191581,
+        1125356453,
+        85633789,
+        1159303325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2699838,
+        "gp:id":895706,
+        "qs_pg:id":1140885,
+        "wd:id":"Q2913597"
+    },
+    "wof:country":"SE",
+    "wof:created":1497297172,
+    "wof:geomhash":"ed879b72946441fa3d992d7ac29aed6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303325,
+            "localadmin_id":1125356453,
+            "locality_id":1125942749,
+            "region_id":85688387
+        }
+    ],
+    "wof:id":1125942749,
+    "wof:lastmodified":1529702537,
+    "wof:name":"Konga",
+    "wof:parent_id":1125356453,
+    "wof:placetype":"locality",
+    "wof:population":493,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.11667,
+    56.5,
+    15.11667,
+    56.5
+],
+  "geometry": {"coordinates":[15.11667,56.5],"type":"Point"}
+}

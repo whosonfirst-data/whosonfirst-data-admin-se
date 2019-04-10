@@ -1,0 +1,79 @@
+{
+  "id": 1209908127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.01667,56.51667,13.01667,56.51667",
+    "geom:latitude":56.51667,
+    "geom:longitude":13.01667,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"1381.0",
+    "gn:asciiname":"Kopinge",
+    "gn:country_code":"SE",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2699787,
+    "gn:latitude":56.51667,
+    "gn:longitude":13.01667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"K\u00f6pinge",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "K\u00f6pinge"
+    ],
+    "name:nor_x_variant":[
+        "K\u00f8pinge"
+    ],
+    "name:und_x_variant":[
+        "K\u00f6pinge"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688391,
+        102191581,
+        1125394645,
+        85633789,
+        1159303423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2699787
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"8df6a28ea92cf7f2582729ca0fa425b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303423,
+            "localadmin_id":1125394645,
+            "locality_id":1209908127,
+            "region_id":85688391
+        }
+    ],
+    "wof:id":1209908127,
+    "wof:lastmodified":1537699994,
+    "wof:name":"Kopinge",
+    "wof:parent_id":1125394645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.01667,
+    56.51667,
+    13.01667,
+    56.51667
+],
+  "geometry": {"coordinates":[13.01667,56.51667],"type":"Point"}
+}

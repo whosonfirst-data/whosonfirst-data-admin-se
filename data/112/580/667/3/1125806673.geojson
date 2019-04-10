@@ -1,0 +1,120 @@
+{
+  "id": 1125806673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.59261,60.49974,17.59261,60.49974",
+    "geom:latitude":60.49974,
+    "geom:longitude":17.59261,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1917,
+    "gn:population":1917,
+    "iso:country":"SE",
+    "lbl:latitude":60.49974,
+    "lbl:longitude":17.59261,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dan_x_preferred":[
+        "V\u00e4stland"
+    ],
+    "name:dut_x_preferred":[
+        "V\u00e4stland"
+    ],
+    "name:eng_x_preferred":[
+        "V\u00e4stland"
+    ],
+    "name:fre_x_preferred":[
+        "V\u00e4stland"
+    ],
+    "name:ger_x_preferred":[
+        "V\u00e4stland"
+    ],
+    "name:nds_x_preferred":[
+        "V\u00e4stland"
+    ],
+    "name:nno_x_preferred":[
+        "V\u00e4stland"
+    ],
+    "name:nob_x_preferred":[
+        "V\u00e4stland"
+    ],
+    "name:swe_x_preferred":[
+        "V\u00e4stland"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8133355,
+    "qs_pg:gn_pop":1917,
+    "qs_pg:name":"V\u00e4stland",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"Uppsala L\u00e4n",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":272858,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":20151852,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"Uppsala L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688439,
+        102191581,
+        1159306259,
+        85633789,
+        1159302963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8133355,
+        "gp:id":20151852,
+        "qs_pg:id":272858,
+        "wd:id":"Q2013704"
+    },
+    "wof:country":"SE",
+    "wof:created":1497291493,
+    "wof:geomhash":"86cbf6b776fc01825c7390ad6cf17cee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302963,
+            "localadmin_id":1159306259,
+            "locality_id":1125806673,
+            "region_id":85688439
+        }
+    ],
+    "wof:id":1125806673,
+    "wof:lastmodified":1529702890,
+    "wof:name":"V\u00e4stland",
+    "wof:parent_id":1159306259,
+    "wof:placetype":"locality",
+    "wof:population":1917,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.59261,
+    60.49974,
+    17.59261,
+    60.49974
+],
+  "geometry": {"coordinates":[17.59261,60.49974],"type":"Point"}
+}

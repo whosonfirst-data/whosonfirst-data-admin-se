@@ -1,0 +1,105 @@
+{
+  "id": 1125826771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.15,63.93333,20.15,63.93333",
+    "geom:latitude":63.93333,
+    "geom:longitude":20.15,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":447,
+    "gn:population":471,
+    "iso:country":"SE",
+    "lbl:latitude":63.93333,
+    "lbl:longitude":20.15,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Hissj\u00f6"
+    ],
+    "name:eng_x_preferred":[
+        "Hissj\u00f6n"
+    ],
+    "name:nan_x_preferred":[
+        "Hissj\u00f6n"
+    ],
+    "name:nno_x_preferred":[
+        "Hissj\u00f6n"
+    ],
+    "name:nob_x_preferred":[
+        "Hissj\u00f6n"
+    ],
+    "name:nor_x_preferred":[
+        "Hissj\u00f8n"
+    ],
+    "name:nor_x_variant":[
+        "Hissj\u00f6n"
+    ],
+    "name:swe_x_preferred":[
+        "Hissj\u00f6"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":605728,
+    "qs_pg:gn_pop":447,
+    "qs_pg:name":"Hissj\u00f6n",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":550243,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688465,
+        102191581,
+        1125325333,
+        85633789,
+        1159303017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":605728,
+        "qs_pg:id":550243,
+        "wd:id":"Q1837474"
+    },
+    "wof:country":"SE",
+    "wof:created":1497292311,
+    "wof:geomhash":"d89eb9b7ecd99eb11db16aa1fd0af3b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303017,
+            "localadmin_id":1125325333,
+            "locality_id":1125826771,
+            "region_id":85688465
+        }
+    ],
+    "wof:id":1125826771,
+    "wof:lastmodified":1529702981,
+    "wof:name":"Hissj\u00f6n",
+    "wof:parent_id":1125325333,
+    "wof:placetype":"locality",
+    "wof:population":471,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.15,
+    63.93333,
+    20.15,
+    63.93333
+],
+  "geometry": {"coordinates":[20.15,63.93333],"type":"Point"}
+}

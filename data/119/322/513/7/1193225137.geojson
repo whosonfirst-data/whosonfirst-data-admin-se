@@ -1,0 +1,79 @@
+{
+  "id": 1193225137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.50556,58.53955,14.50556,58.53955",
+    "geom:latitude":58.53955,
+    "geom:longitude":14.50556,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"1446.0",
+    "gn:asciiname":"Rodesund",
+    "gn:country_code":"SE",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2682151,
+    "gn:latitude":58.53955,
+    "gn:longitude":14.50556,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"R\u00f6desund",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "R\u00f6desund"
+    ],
+    "name:nor_x_variant":[
+        "R\u00f8desund"
+    ],
+    "name:und_x_variant":[
+        "R\u00f6desund"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688411,
+        102191581,
+        1125325397,
+        85633789,
+        1159302935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2682151
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"120ed26b76b9ae91d30e0a378d4efec9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302935,
+            "localadmin_id":1125325397,
+            "locality_id":1193225137,
+            "region_id":85688411
+        }
+    ],
+    "wof:id":1193225137,
+    "wof:lastmodified":1537699866,
+    "wof:name":"Rodesund",
+    "wof:parent_id":1125325397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.50556,
+    58.53955,
+    14.50556,
+    58.53955
+],
+  "geometry": {"coordinates":[14.50556,58.53955],"type":"Point"}
+}

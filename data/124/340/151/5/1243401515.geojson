@@ -1,0 +1,79 @@
+{
+  "id": 1243401515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.15,58.4,14.15,58.4",
+    "geom:latitude":58.4,
+    "geom:longitude":14.15,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"1472.0",
+    "gn:asciiname":"Honebo",
+    "gn:country_code":"SE",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2705087,
+    "gn:latitude":58.4,
+    "gn:longitude":14.15,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"H\u00f6nebo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "H\u00f6nebo"
+    ],
+    "name:nor_x_variant":[
+        "H\u00f8nebo"
+    ],
+    "name:und_x_variant":[
+        "H\u00f6nebo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688411,
+        102191581,
+        1125382045,
+        85633789,
+        1159302957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2705087
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"d1b13cdc8bea88cf010f146053a7d989",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302957,
+            "localadmin_id":1125382045,
+            "locality_id":1243401515,
+            "region_id":85688411
+        }
+    ],
+    "wof:id":1243401515,
+    "wof:lastmodified":1537700019,
+    "wof:name":"Honebo",
+    "wof:parent_id":1125382045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.15,
+    58.4,
+    14.15,
+    58.4
+],
+  "geometry": {"coordinates":[14.15,58.4],"type":"Point"}
+}

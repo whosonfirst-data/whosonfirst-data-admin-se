@@ -1,0 +1,119 @@
+{
+  "id": 1125768815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.98333,59.28333,14.98333,59.28333",
+    "geom:latitude":59.28333,
+    "geom:longitude":14.98333,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":600,
+    "gn:population":727,
+    "iso:country":"SE",
+    "lbl:latitude":59.28333,
+    "lbl:longitude":14.98333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u041b\u0430\u0442\u043e\u0440\u043f\u0441\u0431\u0440\u0443\u043a"
+    ],
+    "name:dut_x_preferred":[
+        "Latorpsbruk"
+    ],
+    "name:eng_x_preferred":[
+        "Latorpsbruk"
+    ],
+    "name:nan_x_preferred":[
+        "Latorpsbruk"
+    ],
+    "name:nno_x_preferred":[
+        "Latorpsbruk"
+    ],
+    "name:nob_x_preferred":[
+        "Latorpsbruk"
+    ],
+    "name:swe_x_preferred":[
+        "Latorpsbruk"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u062a\u0648\u0631\u067e\u0633\u0628\u0631\u0648\u06a9"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2696846,
+    "qs_pg:gn_pop":600,
+    "qs_pg:name":"Latorpsbruk",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"\u00d6rebro L\u00e4n",
+    "qs_pg:photos":52,
+    "qs_pg:photos_1k":11,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":52,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":979428,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":896822,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"\u00d6rebro L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688421,
+        102191581,
+        1125356509,
+        85633789,
+        1159303031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2696846,
+        "gp:id":896822,
+        "qs_pg:id":979428,
+        "wd:id":"Q3354188"
+    },
+    "wof:country":"SE",
+    "wof:created":1497289991,
+    "wof:geomhash":"5f20e7104d6211abd67abd070c551f4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303031,
+            "localadmin_id":1125356509,
+            "locality_id":1125768815,
+            "region_id":85688421
+        }
+    ],
+    "wof:id":1125768815,
+    "wof:lastmodified":1529703062,
+    "wof:name":"Latorpsbruk",
+    "wof:parent_id":1125356509,
+    "wof:placetype":"locality",
+    "wof:population":727,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.98333,
+    59.28333,
+    14.98333,
+    59.28333
+],
+  "geometry": {"coordinates":[14.98333,59.28333],"type":"Point"}
+}

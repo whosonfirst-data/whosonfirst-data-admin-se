@@ -1,0 +1,73 @@
+{
+  "id": 1293463105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.61418,66.39991,23.61418,66.39991",
+    "geom:latitude":66.39991,
+    "geom:longitude":23.61418,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2518.0",
+    "gn:asciiname":"Haapakyla",
+    "gn:country_code":"SE",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":605928,
+    "gn:latitude":66.39991,
+    "gn:longitude":23.61418,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Haapakyl\u00e4",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Haapakyl\u00e4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688471,
+        102191581,
+        1125300061,
+        85633789,
+        1159303405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":605928
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"825ef51df0ebddb6dfb751a0711872bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303405,
+            "localadmin_id":1125300061,
+            "locality_id":1293463105,
+            "region_id":85688471
+        }
+    ],
+    "wof:id":1293463105,
+    "wof:lastmodified":1537699729,
+    "wof:name":"Haapakyla",
+    "wof:parent_id":1125300061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.61418,
+    66.39990999999999,
+    23.61418,
+    66.39990999999999
+],
+  "geometry": {"coordinates":[23.61418,66.39990999999999],"type":"Point"}
+}

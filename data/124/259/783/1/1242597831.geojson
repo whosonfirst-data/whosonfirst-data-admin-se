@@ -1,0 +1,79 @@
+{
+  "id": 1242597831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.18333,62.95,15.18333,62.95",
+    "geom:latitude":62.95,
+    "geom:longitude":15.18333,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"2305.0",
+    "gn:asciiname":"Sorviken",
+    "gn:country_code":"SE",
+    "gn:dem":344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2674997,
+    "gn:latitude":62.95,
+    "gn:longitude":15.18333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"S\u00f6rviken",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "S\u00f6rviken"
+    ],
+    "name:nor_x_variant":[
+        "S\u00f8rviken"
+    ],
+    "name:und_x_variant":[
+        "S\u00f6rviken"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688461,
+        102191581,
+        1159306827,
+        85633789,
+        1159303529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2674997
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"2b6d5dd3d19d8e35374ea2542fd14b9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303529,
+            "localadmin_id":1159306827,
+            "locality_id":1242597831,
+            "region_id":85688461
+        }
+    ],
+    "wof:id":1242597831,
+    "wof:lastmodified":1537699802,
+    "wof:name":"Sorviken",
+    "wof:parent_id":1159306827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.18333,
+    62.95,
+    15.18333,
+    62.95
+],
+  "geometry": {"coordinates":[15.18333,62.95],"type":"Point"}
+}

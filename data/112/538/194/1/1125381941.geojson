@@ -1,0 +1,77 @@
+{
+  "id": 1125381941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-05-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.22751,59.34304,17.22751,59.34304",
+    "geom:latitude":59.34304,
+    "geom:longitude":17.22751,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":3430,
+    "gn:population":3430,
+    "iso:country":"SE",
+    "lbl:latitude":59.34304,
+    "lbl:longitude":17.22751,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8132124,
+    "qs_pg:gn_pop":3430,
+    "qs_pg:name":"Stallarholmen",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":381336,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633789,
+        85688419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8132124,
+        "qs_pg:id":381336
+    },
+    "wof:country":"SE",
+    "wof:created":1497048100,
+    "wof:geomhash":"6f6fa889f14619b159a70a2d5f8b134e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "localadmin_id":1125381941,
+            "region_id":85688419
+        }
+    ],
+    "wof:id":1125381941,
+    "wof:lastmodified":1525735523,
+    "wof:name":"Stallarholmen",
+    "wof:parent_id":85688419,
+    "wof:placetype":"localadmin",
+    "wof:population":3430,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.22751,
+    59.34304,
+    17.22751,
+    59.34304
+],
+  "geometry": {"coordinates":[17.22751,59.34304],"type":"Point"}
+}

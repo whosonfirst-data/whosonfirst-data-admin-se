@@ -1,0 +1,119 @@
+{
+  "id": 1125990199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.16667,55.76667,13.16667,55.76667",
+    "geom:latitude":55.76667,
+    "geom:longitude":13.16667,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":1943,
+    "iso:country":"SE",
+    "lbl:latitude":55.76667,
+    "lbl:longitude":13.16667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "St\u00e5ngby"
+    ],
+    "name:eng_x_preferred":[
+        "St\u00e5ngby"
+    ],
+    "name:fre_x_preferred":[
+        "St\u00e5ngby"
+    ],
+    "name:ger_x_preferred":[
+        "St\u00e5ngby"
+    ],
+    "name:nan_x_preferred":[
+        "St\u00e5ngby"
+    ],
+    "name:nno_x_preferred":[
+        "St\u00e5ngby"
+    ],
+    "name:nob_x_preferred":[
+        "St\u00e5ngby"
+    ],
+    "name:swe_x_preferred":[
+        "St\u00e5ngby"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2674512,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"St\u00e5ngby",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"Sk\u00e5ne L\u00e4n",
+    "qs_pg:photos":31,
+    "qs_pg:photos_1k":6,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":31,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1351567,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":905747,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"Sk\u00e5ne L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688377,
+        102191581,
+        1125358313,
+        85633789,
+        1159303449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2674512,
+        "gp:id":905747,
+        "qs_pg:id":1351567,
+        "wd:id":"Q1398087"
+    },
+    "wof:country":"SE",
+    "wof:created":1497299016,
+    "wof:geomhash":"6df914e008bbb599df8038b38b735063",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303449,
+            "localadmin_id":1125358313,
+            "locality_id":1125990199,
+            "region_id":85688377
+        }
+    ],
+    "wof:id":1125990199,
+    "wof:lastmodified":1529702665,
+    "wof:name":"St\u00e5ngby",
+    "wof:parent_id":1125358313,
+    "wof:placetype":"locality",
+    "wof:population":1943,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.16667,
+    55.76667,
+    13.16667,
+    55.76667
+],
+  "geometry": {"coordinates":[13.16667,55.76667],"type":"Point"}
+}

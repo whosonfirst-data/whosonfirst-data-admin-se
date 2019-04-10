@@ -1,0 +1,103 @@
+{
+  "id": 1125795909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.463369,60.292108,17.463369,60.292108",
+    "geom:latitude":60.292108,
+    "geom:longitude":17.463369,
+    "gn:gn_country":null,
+    "iso:country":"SE",
+    "lbl:latitude":60.292108,
+    "lbl:longitude":17.463369,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Tierps kyrkby"
+    ],
+    "name:eng_x_preferred":[
+        "Tierps kyrkby"
+    ],
+    "name:fin_x_preferred":[
+        "Tierps kyrkby"
+    ],
+    "name:fre_x_preferred":[
+        "Tierps kyrkby"
+    ],
+    "name:ger_x_preferred":[
+        "Tierps kyrkby"
+    ],
+    "name:swe_x_preferred":[
+        "Tierps kyrkby"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Tierps kyrkby",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"Uppsala L\u00e4n",
+    "qs_pg:photos":103,
+    "qs_pg:photos_1k":21,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":103,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":484928,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":20151767,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"Uppsala L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688439,
+        102191581,
+        1159306675,
+        85633789,
+        1159302963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20151767,
+        "qs_pg:id":484928,
+        "wd:id":"Q1950939"
+    },
+    "wof:country":"SE",
+    "wof:created":1497291047,
+    "wof:geomhash":"97080ded2567216f8d175164bf93453e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302963,
+            "localadmin_id":1159306675,
+            "locality_id":1125795909,
+            "region_id":85688439
+        }
+    ],
+    "wof:id":1125795909,
+    "wof:lastmodified":1529702890,
+    "wof:name":"Tierps kyrkby",
+    "wof:parent_id":1159306675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.463369,
+    60.292108,
+    17.463369,
+    60.292108
+],
+  "geometry": {"coordinates":[17.463369,60.292108],"type":"Point"}
+}

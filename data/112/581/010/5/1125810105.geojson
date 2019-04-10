@@ -1,0 +1,116 @@
+{
+  "id": 1125810105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.38333,56.85,15.38333,56.85",
+    "geom:latitude":56.85,
+    "geom:longitude":15.38333,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":941,
+    "gn:population":985,
+    "iso:country":"SE",
+    "lbl:latitude":56.85,
+    "lbl:longitude":15.38333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Kosta"
+    ],
+    "name:eng_x_preferred":[
+        "Kosta"
+    ],
+    "name:ita_x_preferred":[
+        "Kosta"
+    ],
+    "name:nan_x_preferred":[
+        "Kosta"
+    ],
+    "name:nno_x_preferred":[
+        "Kosta"
+    ],
+    "name:nob_x_preferred":[
+        "Kosta"
+    ],
+    "name:swe_x_preferred":[
+        "Kosta"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2699557,
+    "qs_pg:gn_pop":941,
+    "qs_pg:name":"Kosta",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"Kronobergs L\u00e4n",
+    "qs_pg:photos":389,
+    "qs_pg:photos_1k":79,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":389,
+    "qs_pg:photos_sr":6,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1083449,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":895831,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"Kronobergs L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688387,
+        102191581,
+        1125327777,
+        85633789,
+        1159303067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2699557,
+        "gp:id":895831,
+        "qs_pg:id":1083449,
+        "wd:id":"Q2194673"
+    },
+    "wof:country":"SE",
+    "wof:created":1497291620,
+    "wof:geomhash":"f6fecaa6ec18d010451be2b5dcf94215",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303067,
+            "localadmin_id":1125327777,
+            "locality_id":1125810105,
+            "region_id":85688387
+        }
+    ],
+    "wof:id":1125810105,
+    "wof:lastmodified":1529702536,
+    "wof:name":"Kosta",
+    "wof:parent_id":1125327777,
+    "wof:placetype":"locality",
+    "wof:population":985,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.38333,
+    56.85,
+    15.38333,
+    56.85
+],
+  "geometry": {"coordinates":[15.38333,56.85],"type":"Point"}
+}

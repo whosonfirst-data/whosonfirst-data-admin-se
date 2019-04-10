@@ -1,0 +1,113 @@
+{
+  "id": 85905417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":9411124.186158,
+    "geom:bbox":"18.274432,59.253575,18.274432,59.253575",
+    "geom:latitude":59.253575,
+    "geom:longitude":18.274432,
+    "gn:latitude":59.11317,
+    "gn:longitude":18.45595,
+    "iso:country":"SE",
+    "lbl:latitude":59.253575,
+    "lbl:longitude":18.274432,
+    "mps:latitude":59.253853,
+    "mps:longitude":18.261701,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":1,
+    "mz:tier_metro":1,
+    "name:swe_x_preferred":[
+        "Oringe"
+    ],
+    "name:unk_x_variant":[
+        "Oringe"
+    ],
+    "qs:gn_adm0_cc":"SE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":2666779,
+    "qs:gn_nam_loc":"Tyres\u00f6, Tyres\u00f6, Stockholms L\u00e4n, SE",
+    "qs:gn_namadm1":"26",
+    "qs:gn_name":"Orninge",
+    "qs:local_max":305,
+    "qs:local_sum":994,
+    "qs:localhoods":4,
+    "qs:name":"Oringe",
+    "qs:name_adm0":"Sverige",
+    "qs:name_adm1":"Stockholms L\u00e4n",
+    "qs:name_adm2":"Tyres\u00f6",
+    "qs:name_local":"Tyres\u00f6",
+    "qs:photo_max":21,
+    "qs:photo_sum":124,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":33,
+    "qs:woe_adm0":23424954,
+    "qs:woe_adm1":2347067,
+    "qs:woe_adm2":12587481,
+    "qs:woe_lau":0,
+    "qs:woe_local":908326,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        85688429,
+        102191581,
+        1125362217,
+        85633789,
+        101752307,
+        1159303035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3327558,
+        "gp:id":20151460,
+        "qs:id":233524,
+        "qs_pg:id":233524
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"9fb74080985492f319fcd77c4a43acf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303035,
+            "localadmin_id":1125362217,
+            "locality_id":101752307,
+            "neighbourhood_id":85905417,
+            "region_id":85688429
+        }
+    ],
+    "wof:id":85905417,
+    "wof:lang":[
+        "swe"
+    ],
+    "wof:lastmodified":1531936344,
+    "wof:name":"Oringe",
+    "wof:parent_id":101752307,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.274432,
+    59.253575,
+    18.274432,
+    59.253575
+],
+  "geometry": {"coordinates":[18.274432,59.253575],"type":"Point"}
+}

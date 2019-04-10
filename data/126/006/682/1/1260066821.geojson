@@ -1,0 +1,79 @@
+{
+  "id": 1260066821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.15,56.58333,14.15,56.58333",
+    "geom:latitude":56.58333,
+    "geom:longitude":14.15,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"765.0",
+    "gn:asciiname":"Mockeln",
+    "gn:country_code":"SE",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2691608,
+    "gn:latitude":56.58333,
+    "gn:longitude":14.15,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"M\u00f6ckeln",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "M\u00f6ckeln"
+    ],
+    "name:nor_x_variant":[
+        "M\u00f8ckeln"
+    ],
+    "name:und_x_variant":[
+        "M\u00f6ckeln"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688387,
+        102191581,
+        1125372709,
+        85633789,
+        1159303481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2691608
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"b5e0db6bc6e3aa9df0f0b05f45332b7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303481,
+            "localadmin_id":1125372709,
+            "locality_id":1260066821,
+            "region_id":85688387
+        }
+    ],
+    "wof:id":1260066821,
+    "wof:lastmodified":1537699957,
+    "wof:name":"Mockeln",
+    "wof:parent_id":1125372709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.15,
+    56.58333,
+    14.15,
+    56.58333
+],
+  "geometry": {"coordinates":[14.15,56.58333],"type":"Point"}
+}

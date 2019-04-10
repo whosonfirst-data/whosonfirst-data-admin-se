@@ -1,0 +1,72 @@
+{
+  "id": 1243321031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.46667,62.46667,17.46667,62.46667",
+    "geom:latitude":62.46667,
+    "geom:longitude":17.46667,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2281.0",
+    "gn:admin3_code":"228104.0",
+    "gn:admin4_code":"2448.0",
+    "gn:asciiname":"Naset",
+    "gn:country_code":"SE",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2690232,
+    "gn:latitude":62.46667,
+    "gn:longitude":17.46667,
+    "gn:modification_date":"2012-05-11",
+    "gn:name":"N\u00e4set",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688457,
+        102191581,
+        1125363709,
+        85633789,
+        1159303427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2690232
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"c0b0bf34bc9c6c440cccd050471cdb15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303427,
+            "localadmin_id":1125363709,
+            "locality_id":1243321031,
+            "region_id":85688457
+        }
+    ],
+    "wof:id":1243321031,
+    "wof:lastmodified":1536985715,
+    "wof:name":"Naset",
+    "wof:parent_id":1125363709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.46667,
+    62.46666999999999,
+    17.46667,
+    62.46666999999999
+],
+  "geometry": {"coordinates":[17.46667,62.46666999999999],"type":"Point"}
+}

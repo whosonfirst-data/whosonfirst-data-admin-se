@@ -1,0 +1,126 @@
+{
+  "id": 101816589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000166,
+    "geom:area_square_m":1144589.768246,
+    "geom:bbox":"14.4888445626,56.1665256463,14.5130385705,56.1806478966",
+    "geom:latitude":56.173999,
+    "geom:longitude":14.501434,
+    "gn:population":1119,
+    "iso:country":"SE",
+    "lbl:latitude":56.174091,
+    "lbl:longitude":14.503267,
+    "mps:latitude":56.174091,
+    "mps:longitude":14.503267,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "N\u00e4sum"
+    ],
+    "name:eng_x_preferred":[
+        "N\u00e4sum"
+    ],
+    "name:nan_x_preferred":[
+        "N\u00e4sum"
+    ],
+    "name:nld_x_preferred":[
+        "N\u00e4sum"
+    ],
+    "name:nno_x_preferred":[
+        "N\u00e4sum"
+    ],
+    "name:nob_x_preferred":[
+        "N\u00e4sum"
+    ],
+    "name:nor_x_preferred":[
+        "N\u00e4sum"
+    ],
+    "name:swe_x_colloquial":[
+        "Naesum",
+        "Naesums",
+        "Nasum",
+        "Nasums"
+    ],
+    "name:swe_x_preferred":[
+        "N\u00e4sum"
+    ],
+    "name:swe_x_variant":[
+        "N\u00e4sums"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "N\u00e4sum"
+    ],
+    "qs:a0":"Sverige",
+    "qs:a1":"*Sk\u00e5ne l\u00e4n",
+    "qs:a1r":"0",
+    "qs:adm0":"Sverige",
+    "qs:la":"Brom\u00f6lla",
+    "qs:la_lc":"*SE1272",
+    "qs:level":"locality",
+    "qs:loc":"N\u00e4sum",
+    "qs:loc_alt":"Nasum",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":45,
+    "wof:belongsto":[
+        85688377,
+        102191581,
+        1125356271,
+        85633789,
+        1159303217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06d1c9e8-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2690101,
+        "gp:id":899207,
+        "qs:id":315568,
+        "qs_pg:id":315568,
+        "wd:id":"Q3354523",
+        "wk:page":"N\u00e4sum"
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"1615eb8082cf5c61637b53aebf15405c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303217,
+            "localadmin_id":1125356271,
+            "locality_id":101816589,
+            "region_id":85688377
+        }
+    ],
+    "wof:id":101816589,
+    "wof:lang":[
+        "swe"
+    ],
+    "wof:lastmodified":1529702656,
+    "wof:name":"N\u00e4sum",
+    "wof:parent_id":1125356271,
+    "wof:placetype":"locality",
+    "wof:population":1119,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.48884456257912,
+    56.16652564626133,
+    14.51303857051539,
+    56.18064789656364
+],
+  "geometry": {"coordinates":[[[14.51045028626265,56.18059152429112],[14.51013839416936,56.17790138232203],[14.50853226880616,56.17795775016236],[14.50822053838459,56.17526760402131],[14.51303857051539,56.17509845366237],[14.51283055815139,56.17330503191079],[14.50961868813346,56.17341781295005],[14.50941084565051,56.17162438540191],[14.50780497766152,56.17168074290316],[14.50759723150844,56.16988731251587],[14.50599143270375,56.16994364702271],[14.50588760493355,56.16904693039584],[14.50107029280446,56.16921580924367],[14.50075917445469,56.16652564626133],[14.4991535053498,56.16658189470741],[14.49925716902408,56.16747861714646],[14.49765145884254,56.16753484702605],[14.49785872974786,56.16932829493715],[14.49304135273735,56.16949687316799],[14.49355907810479,56.17398051554073],[14.49195309331043,56.17403667555868],[14.49205661866455,56.17493340559326],[14.48884456257912,56.17504566843888],[14.48905148324422,56.1768391344807],[14.49868804091517,56.1765020877433],[14.49910283307759,56.18008898484925],[14.50231527858347,56.17997646377751],[14.50221149844464,56.17907974240603],[14.50703002387877,56.17891081487164],[14.5071339143542,56.17980753181553],[14.508740117608,56.1797511810675],[14.50884405056638,56.18064789656364],[14.51045028626265,56.18059152429112]]],"type":"Polygon"}
+}

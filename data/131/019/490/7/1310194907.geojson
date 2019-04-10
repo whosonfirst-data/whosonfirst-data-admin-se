@@ -1,0 +1,70 @@
+{
+  "id": 1310194907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.81667,57.41667,13.81667,57.41667",
+    "geom:latitude":57.41667,
+    "geom:longitude":13.81667,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"617.0",
+    "gn:asciiname":"Berg",
+    "gn:country_code":"SE",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2723003,
+    "gn:latitude":57.41667,
+    "gn:longitude":13.81667,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Berg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688395,
+        102191581,
+        1125325595,
+        85633789,
+        1159303377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2723003
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"db3581bb446a42b4ec740a10f4a8764b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303377,
+            "localadmin_id":1125325595,
+            "locality_id":1310194907,
+            "region_id":85688395
+        }
+    ],
+    "wof:id":1310194907,
+    "wof:lastmodified":1536866304,
+    "wof:name":"Berg",
+    "wof:parent_id":1125325595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.81667,
+    57.41667,
+    13.81667,
+    57.41667
+],
+  "geometry": {"coordinates":[13.81667,57.41667],"type":"Point"}
+}

@@ -1,0 +1,99 @@
+{
+  "id": 1125950105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.9,55.75,12.9,55.75",
+    "geom:latitude":55.75,
+    "geom:longitude":12.9,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":401,
+    "gn:population":477,
+    "iso:country":"SE",
+    "lbl:latitude":55.75,
+    "lbl:longitude":12.9,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Barseb\u00e4ckshamn"
+    ],
+    "name:eng_x_preferred":[
+        "Barseb\u00e4ckshamn"
+    ],
+    "name:nan_x_preferred":[
+        "Barseb\u00e4ckshamn"
+    ],
+    "name:nno_x_preferred":[
+        "Barseb\u00e4ckshamn"
+    ],
+    "name:nob_x_preferred":[
+        "Barseb\u00e4ckshamn"
+    ],
+    "name:swe_x_preferred":[
+        "Barseb\u00e4ckshamn"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2723364,
+    "qs_pg:gn_pop":401,
+    "qs_pg:name":"Barseb\u00e4ckshamn",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":575746,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688377,
+        102191581,
+        1159307155,
+        85633789,
+        1159303543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2723364,
+        "qs_pg:id":575746,
+        "wd:id":"Q768778"
+    },
+    "wof:country":"SE",
+    "wof:created":1497297424,
+    "wof:geomhash":"06c139ba6c0b7067a913aff73c5fa8cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303543,
+            "localadmin_id":1159307155,
+            "locality_id":1125950105,
+            "region_id":85688377
+        }
+    ],
+    "wof:id":1125950105,
+    "wof:lastmodified":1529702664,
+    "wof:name":"Barseb\u00e4ckshamn",
+    "wof:parent_id":1159307155,
+    "wof:placetype":"locality",
+    "wof:population":477,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.9,
+    55.75,
+    12.9,
+    55.75
+],
+  "geometry": {"coordinates":[12.9,55.75],"type":"Point"}
+}

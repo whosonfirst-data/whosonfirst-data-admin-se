@@ -1,0 +1,127 @@
+{
+  "id": 1126016183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.01378,57.6554,12.01378,57.6554",
+    "geom:latitude":57.6554,
+    "geom:longitude":12.01378,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":59430,
+    "gn:population":59430,
+    "iso:country":"SE",
+    "lbl:latitude":57.6554,
+    "lbl:longitude":12.01378,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:amh_x_preferred":[
+        "\u121c\u120d\u1295\u12f3\u120d"
+    ],
+    "name:bul_x_preferred":[
+        "\u041c\u044c\u043e\u043b\u043d\u0434\u0430\u043b"
+    ],
+    "name:iku_x_preferred":[
+        "\u14a7\u14ea\u14d0\u1455\u14ea/M\u00f6lndal"
+    ],
+    "name:lav_x_preferred":[
+        "M\u0113lndala"
+    ],
+    "name:lit_x_preferred":[
+        "Miolndalas"
+    ],
+    "name:nor_x_preferred":[
+        "M\u00f8lndal"
+    ],
+    "name:nor_x_variant":[
+        "M\u00f6lndal"
+    ],
+    "name:oss_x_preferred":[
+        "\u041c\u0451\u043b\u044c\u043d\u0434\u0430\u043b\u044c"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0451\u043b\u044c\u043d\u0434\u0430\u043b\u044c\u0441\u043a\u0430\u044f \u043a\u043e\u043c\u043c\u0443\u043d\u0430"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0435\u043b\u043d\u0434\u0430\u043b"
+    ],
+    "name:unk_x_variant":[
+        "Molndal"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":2691459,
+    "qs_pg:gn_pop":59430,
+    "qs_pg:name":"M\u00f6lndal",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"V\u00e4stra G\u00f6talands L\u00e4n",
+    "qs_pg:photos":399,
+    "qs_pg:photos_1k":81,
+    "qs_pg:photos_9k":17,
+    "qs_pg:photos_9r":12,
+    "qs_pg:photos_all":3864,
+    "qs_pg:photos_sr":6,
+    "qs_pg:pop_sr":8,
+    "qs_pg:qs_id":141218,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":898653,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"V\u00e4stra G\u00f6talands L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688411,
+        102191581,
+        1125362215,
+        85633789,
+        1159303503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2691459,
+        "gp:id":898653,
+        "qs_pg:id":141218
+    },
+    "wof:country":"SE",
+    "wof:created":1497300561,
+    "wof:geomhash":"39dc5ec576dd923b10d9c6108dd711a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303503,
+            "localadmin_id":1125362215,
+            "locality_id":1126016183,
+            "region_id":85688411
+        }
+    ],
+    "wof:id":1126016183,
+    "wof:lastmodified":1529702262,
+    "wof:name":"M\u00f6lndal",
+    "wof:parent_id":1125362215,
+    "wof:placetype":"locality",
+    "wof:population":59430,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.01378,
+    57.6554,
+    12.01378,
+    57.6554
+],
+  "geometry": {"coordinates":[12.01378,57.6554],"type":"Point"}
+}

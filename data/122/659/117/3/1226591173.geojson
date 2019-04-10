@@ -1,0 +1,79 @@
+{
+  "id": 1226591173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.55,58.56667,13.55,58.56667",
+    "geom:latitude":58.56667,
+    "geom:longitude":13.55,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"1471.0",
+    "gn:asciiname":"Hojentorp",
+    "gn:country_code":"SE",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2705589,
+    "gn:latitude":58.56667,
+    "gn:longitude":13.55,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"H\u00f6jentorp",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "H\u00f6jentorp"
+    ],
+    "name:nor_x_variant":[
+        "H\u00f8jentorp"
+    ],
+    "name:und_x_variant":[
+        "H\u00f6jentorp"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688411,
+        102191581,
+        1159306529,
+        85633789,
+        1159302923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2705589
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"e41bb284d6da2fa5bea17674615225e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302923,
+            "localadmin_id":1159306529,
+            "locality_id":1226591173,
+            "region_id":85688411
+        }
+    ],
+    "wof:id":1226591173,
+    "wof:lastmodified":1537700024,
+    "wof:name":"Hojentorp",
+    "wof:parent_id":1159306529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.55,
+    58.56667,
+    13.55,
+    58.56667
+],
+  "geometry": {"coordinates":[13.55,58.56667],"type":"Point"}
+}

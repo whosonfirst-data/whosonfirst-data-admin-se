@@ -1,0 +1,116 @@
+{
+  "id": 85902131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":9830101.743013,
+    "geom:bbox":"12.552795,57.92185,12.552795,57.92185",
+    "geom:latitude":57.92185,
+    "geom:longitude":12.552795,
+    "gn:latitude":57.91667,
+    "gn:longitude":12.55,
+    "iso:country":"SE",
+    "lbl:latitude":57.92185,
+    "lbl:longitude":12.552795,
+    "mps:latitude":57.918289,
+    "mps:longitude":12.558597,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":1,
+    "name:swe_x_colloquial":[
+        "Graabo",
+        "Grabo"
+    ],
+    "name:swe_x_preferred":[
+        "Gr\u00e5bo"
+    ],
+    "name:unk_x_variant":[
+        "Gr\u00e5bo"
+    ],
+    "qs:gn_adm0_cc":"SE",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2726756,
+    "qs:gn_nam_loc":"Alings\u00e5s, Alings\u00e5s, V\u00e4stra G\u00f6talands L\u00e4n, SE",
+    "qs:gn_namadm1":"28",
+    "qs:gn_name":"Gr\u00e5bo",
+    "qs:local_max":1671,
+    "qs:local_sum":1787,
+    "qs:localhoods":2,
+    "qs:name":"Gr\u00e5bo",
+    "qs:name_adm0":"Sverige",
+    "qs:name_adm1":"V\u00e4stra G\u00f6talands L\u00e4n",
+    "qs:name_adm2":"Alings\u00e5s",
+    "qs:name_local":"Alings\u00e5s",
+    "qs:photo_max":12,
+    "qs:photo_sum":116,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":35,
+    "qs:woe_adm0":23424954,
+    "qs:woe_adm1":20070562,
+    "qs:woe_adm2":12587200,
+    "qs:woe_lau":0,
+    "qs:woe_local":884482,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85688411,
+        102191581,
+        1125381931,
+        85633789,
+        101817061,
+        1159303193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2711450,
+        "gp:id":890902,
+        "qs:id":185714,
+        "qs_pg:id":185714
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"329dbace10952d3b4c534c297b9c0921",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303193,
+            "localadmin_id":1125381931,
+            "locality_id":101817061,
+            "neighbourhood_id":85902131,
+            "region_id":85688411
+        }
+    ],
+    "wof:id":85902131,
+    "wof:lang":[
+        "swe"
+    ],
+    "wof:lastmodified":1531935859,
+    "wof:name":"Gr\u00e5bo",
+    "wof:parent_id":101817061,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.552795,
+    57.92185,
+    12.552795,
+    57.92185
+],
+  "geometry": {"coordinates":[12.552795,57.92185],"type":"Point"}
+}

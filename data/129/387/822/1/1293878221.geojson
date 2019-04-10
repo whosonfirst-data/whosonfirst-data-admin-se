@@ -1,0 +1,75 @@
+{
+  "id": 1293878221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.36874,56.82287,14.36874,56.82287",
+    "geom:latitude":56.82287,
+    "geom:longitude":14.36874,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Morhult",
+    "gn:country_code":"SE",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2691322,
+    "gn:latitude":56.82287,
+    "gn:longitude":14.36874,
+    "gn:modification_date":"2008-08-15",
+    "gn:name":"M\u00f6rhult",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "M\u00f6rhult"
+    ],
+    "name:nor_x_variant":[
+        "M\u00f8rhult"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688387,
+        102191581,
+        1125363657,
+        85633789,
+        1159303407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2691322
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"aaee9de0d5499fb96214fbfb56a6d36e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303407,
+            "localadmin_id":1125363657,
+            "locality_id":1293878221,
+            "region_id":85688387
+        }
+    ],
+    "wof:id":1293878221,
+    "wof:lastmodified":1537699953,
+    "wof:name":"Morhult",
+    "wof:parent_id":1125363657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.36874,
+    56.82287,
+    14.36874,
+    56.82287
+],
+  "geometry": {"coordinates":[14.36874,56.82287],"type":"Point"}
+}

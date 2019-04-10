@@ -1,0 +1,82 @@
+{
+  "id": 1259503679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.4,63.33333,15.4,63.33333",
+    "geom:latitude":63.33333,
+    "geom:longitude":15.4,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"2380.0",
+    "gn:asciiname":"Sodra Greningen",
+    "gn:cc2":"SE",
+    "gn:country_code":"SE",
+    "gn:dem":355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2675965,
+    "gn:latitude":63.33333,
+    "gn:longitude":15.4,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"S\u00f6dra Greningen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "S\u00f6dra Greningen"
+    ],
+    "name:nor_x_variant":[
+        "S\u00f8dra Greningen"
+    ],
+    "name:und_x_variant":[
+        "Gr\u00e4ningen",
+        "S\u00f6dra Grenningen",
+        "S\u00f6dra Greningen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688461,
+        102191581,
+        1125382145,
+        85633789,
+        1159303231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2675965
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"c626632d631af0378f52761e9dcb17ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303231,
+            "localadmin_id":1125382145,
+            "locality_id":1259503679,
+            "region_id":85688461
+        }
+    ],
+    "wof:id":1259503679,
+    "wof:lastmodified":1537699823,
+    "wof:name":"Sodra Greningen",
+    "wof:parent_id":1125382145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.4,
+    63.33333,
+    15.4,
+    63.33333
+],
+  "geometry": {"coordinates":[15.4,63.33333],"type":"Point"}
+}

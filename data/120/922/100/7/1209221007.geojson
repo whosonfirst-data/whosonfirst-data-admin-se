@@ -1,0 +1,62 @@
+{
+  "id": 1209221007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.25,60.8,17.25,60.8",
+    "geom:latitude":60.8,
+    "geom:longitude":17.25,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"2180.0",
+    "gn:asciiname":"Hillevik",
+    "gn:country_code":"SE",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2706429,
+    "gn:latitude":60.8,
+    "gn:longitude":17.25,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Hillevik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2706429
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"d0e399257144210cb80957bc05b7d3cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633789,
+            "locality_id":1209221007
+        }
+    ],
+    "wof:id":1209221007,
+    "wof:lastmodified":1536293963,
+    "wof:name":"Hillevik",
+    "wof:parent_id":85633789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.25,
+    60.8,
+    17.25,
+    60.8
+],
+  "geometry": {"coordinates":[17.25,60.8],"type":"Point"}
+}

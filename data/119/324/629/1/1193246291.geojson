@@ -1,0 +1,72 @@
+{
+  "id": 1193246291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.40114,62.50547,17.40114,62.50547",
+    "geom:latitude":62.50547,
+    "geom:longitude":17.40114,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2262.0",
+    "gn:admin3_code":"226201.0",
+    "gn:admin4_code":"2501.0",
+    "gn:asciiname":"Fagervik",
+    "gn:country_code":"SE",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2715643,
+    "gn:latitude":62.50547,
+    "gn:longitude":17.40114,
+    "gn:modification_date":"2014-10-09",
+    "gn:name":"Fagervik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688457,
+        102191581,
+        1125394735,
+        85633789,
+        1159303091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2715643
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"f3369118da8f3ead59c39a32c682f868",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303091,
+            "localadmin_id":1125394735,
+            "locality_id":1193246291,
+            "region_id":85688457
+        }
+    ],
+    "wof:id":1193246291,
+    "wof:lastmodified":1536373009,
+    "wof:name":"Fagervik",
+    "wof:parent_id":1125394735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.40114,
+    62.50547,
+    17.40114,
+    62.50547
+],
+  "geometry": {"coordinates":[17.40114,62.50547],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1243604803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.83752,58.34752,12.83752,58.34752",
+    "geom:latitude":58.34752,
+    "geom:longitude":12.83752,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"1470.0",
+    "gn:asciiname":"Sparlosa",
+    "gn:country_code":"SE",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2674857,
+    "gn:latitude":58.34752,
+    "gn:longitude":12.83752,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Sparl\u00f6sa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Sparl\u00f6sa"
+    ],
+    "name:nor_x_variant":[
+        "Sparl\u00f8sa"
+    ],
+    "name:und_x_variant":[
+        "Sparl\u00f6sa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688411,
+        102191581,
+        1159305899,
+        85633789,
+        1159303487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2674857
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"f7f06908d74c87632c90b0a9f08b3a45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303487,
+            "localadmin_id":1159305899,
+            "locality_id":1243604803,
+            "region_id":85688411
+        }
+    ],
+    "wof:id":1243604803,
+    "wof:lastmodified":1537699801,
+    "wof:name":"Sparlosa",
+    "wof:parent_id":1159305899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.83752,
+    58.34752,
+    12.83752,
+    58.34752
+],
+  "geometry": {"coordinates":[12.83752,58.34752],"type":"Point"}
+}

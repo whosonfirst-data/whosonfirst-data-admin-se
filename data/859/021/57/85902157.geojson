@@ -1,0 +1,106 @@
+{
+  "id": 85902157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":11090941.500981,
+    "geom:bbox":"17.612895,59.629913,17.612895,59.629913",
+    "geom:latitude":59.629913,
+    "geom:longitude":17.612895,
+    "iso:country":"SE",
+    "lbl:latitude":59.629913,
+    "lbl:longitude":17.612895,
+    "mps:latitude":59.632859,
+    "mps:longitude":17.610926,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:nor_x_preferred":[
+        "H\u00e5tunaleken"
+    ],
+    "name:swe_x_preferred":[
+        "Hatuna",
+        "H\u00e5tunaleken"
+    ],
+    "name:unk_x_variant":[
+        "Hatuna"
+    ],
+    "qs:gn_id":0,
+    "qs:gn_local":0,
+    "qs:id":0,
+    "qs:local_max":84,
+    "qs:local_sum":226,
+    "qs:localhoods":5,
+    "qs:name":"Hatuna",
+    "qs:name_adm0":"Sverige",
+    "qs:name_adm1":"Stockholms L\u00e4n",
+    "qs:name_adm2":"Upplands-Bro",
+    "qs:name_local":"B\u00e5lsta",
+    "qs:photo_max":20,
+    "qs:photo_sum":47,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":14,
+    "qs:woe_adm0":23424954,
+    "qs:woe_adm1":2347067,
+    "qs:woe_adm2":12587482,
+    "qs:woe_lau":0,
+    "qs:woe_local":885843,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        1125423381,
+        85633789,
+        1159303115,
+        85688429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":892647
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"af021cd8349cbc580f0f00f20df60a20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303115,
+            "localadmin_id":1125423381,
+            "locality_id":-1,
+            "neighbourhood_id":85902157,
+            "region_id":85688429
+        }
+    ],
+    "wof:id":85902157,
+    "wof:lang":[
+        "swe"
+    ],
+    "wof:lastmodified":1531935863,
+    "wof:name":"Hatuna",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.612895,
+    59.629913,
+    17.612895,
+    59.629913
+],
+  "geometry": {"coordinates":[17.612895,59.629913],"type":"Point"}
+}

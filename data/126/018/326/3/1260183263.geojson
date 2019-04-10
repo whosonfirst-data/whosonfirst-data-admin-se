@@ -1,0 +1,70 @@
+{
+  "id": 1260183263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.96667,61.71667,16.96667,61.71667",
+    "geom:latitude":61.71667,
+    "geom:longitude":16.96667,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"2184.0",
+    "gn:asciiname":"Lund",
+    "gn:country_code":"SE",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2693660,
+    "gn:latitude":61.71667,
+    "gn:longitude":16.96667,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Lund",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688453,
+        102191581,
+        1125286941,
+        85633789,
+        1159303395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2693660
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"e64355a5a7a23e6ee890336959bb59ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303395,
+            "localadmin_id":1125286941,
+            "locality_id":1260183263,
+            "region_id":85688453
+        }
+    ],
+    "wof:id":1260183263,
+    "wof:lastmodified":1536847149,
+    "wof:name":"Lund",
+    "wof:parent_id":1125286941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.96667,
+    61.71666999999999,
+    16.96667,
+    61.71666999999999
+],
+  "geometry": {"coordinates":[16.96667,61.71666999999999],"type":"Point"}
+}

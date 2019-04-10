@@ -1,0 +1,70 @@
+{
+  "id": 1226308647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.78333,59.1,15.78333,59.1",
+    "geom:latitude":59.1,
+    "geom:longitude":15.78333,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"428.0",
+    "gn:asciiname":"Granholmen",
+    "gn:country_code":"SE",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2711233,
+    "gn:latitude":59.1,
+    "gn:longitude":15.78333,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Granholmen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688419,
+        102191581,
+        1125356555,
+        85633789,
+        1159303389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2711233
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"d11618be511e572f7efda6b3100c2492",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303389,
+            "localadmin_id":1125356555,
+            "locality_id":1226308647,
+            "region_id":85688419
+        }
+    ],
+    "wof:id":1226308647,
+    "wof:lastmodified":1536842074,
+    "wof:name":"Granholmen",
+    "wof:parent_id":1125356555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.78333,
+    59.1,
+    15.78333,
+    59.1
+],
+  "geometry": {"coordinates":[15.78333,59.1],"type":"Point"}
+}

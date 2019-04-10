@@ -1,0 +1,96 @@
+{
+  "id": 1125871645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.665,62.43167,17.665,62.43167",
+    "geom:latitude":62.43167,
+    "geom:longitude":17.665,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"SE",
+    "lbl:latitude":62.43167,
+    "lbl:longitude":17.665,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:nor_x_preferred":[
+        "\u00c5st\u00f8n"
+    ],
+    "name:nor_x_variant":[
+        "\u00c5st\u00f6n"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2724438,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"\u00c5st\u00f6n",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"V\u00e4sternorrlands L\u00e4n",
+    "qs_pg:photos":11,
+    "qs_pg:photos_1k":2,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":11,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":39412,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":885448,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"V\u00e4sternorrlands L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688457,
+        102191581,
+        1125398109,
+        85633789,
+        1159303091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2724438,
+        "gp:id":885448,
+        "qs_pg:id":39412
+    },
+    "wof:country":"SE",
+    "wof:created":1497294333,
+    "wof:geomhash":"69346c017e47f663a15c0dac66d42fcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303091,
+            "localadmin_id":1125398109,
+            "locality_id":1125871645,
+            "region_id":85688457
+        }
+    ],
+    "wof:id":1125871645,
+    "wof:lastmodified":1529703002,
+    "wof:name":"\u00c5st\u00f6n",
+    "wof:parent_id":1125398109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.665,
+    62.43167,
+    17.665,
+    62.43167
+],
+  "geometry": {"coordinates":[17.665,62.43167],"type":"Point"}
+}

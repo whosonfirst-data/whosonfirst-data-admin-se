@@ -1,0 +1,72 @@
+{
+  "id": 1192999643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.39459,58.34302,15.39459,58.34302",
+    "geom:latitude":58.34302,
+    "geom:longitude":15.39459,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"580.0",
+    "gn:admin3_code":"58018.0",
+    "gn:admin4_code":"488.0",
+    "gn:asciiname":"Galstad-Lundby",
+    "gn:country_code":"SE",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2713062,
+    "gn:latitude":58.34302,
+    "gn:longitude":15.39459,
+    "gn:modification_date":"2015-10-24",
+    "gn:name":"G\u00e4lstad-Lundby",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688409,
+        102191581,
+        1159307357,
+        85633789,
+        1159303147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2713062
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"636e763e39f82c68f5c0d510d3f767dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303147,
+            "localadmin_id":1159307357,
+            "locality_id":1192999643,
+            "region_id":85688409
+        }
+    ],
+    "wof:id":1192999643,
+    "wof:lastmodified":1536372038,
+    "wof:name":"Galstad-Lundby",
+    "wof:parent_id":1159307357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.39459,
+    58.34302,
+    15.39459,
+    58.34302
+],
+  "geometry": {"coordinates":[15.39459,58.34302],"type":"Point"}
+}

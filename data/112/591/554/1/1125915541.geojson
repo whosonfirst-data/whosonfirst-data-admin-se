@@ -1,0 +1,128 @@
+{
+  "id": 1125915541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.28333,57.35,13.28333,57.35",
+    "geom:latitude":57.35,
+    "geom:longitude":13.28333,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":208,
+    "gn:population":208,
+    "iso:country":"SE",
+    "lbl:latitude":57.35,
+    "lbl:longitude":13.28333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dan_x_preferred":[
+        "Sj\u00f6tofta"
+    ],
+    "name:dut_x_preferred":[
+        "Sj\u00f6tofta"
+    ],
+    "name:eng_x_preferred":[
+        "Sj\u00f6tofta"
+    ],
+    "name:fre_x_preferred":[
+        "Sj\u00f6tofta"
+    ],
+    "name:ger_x_preferred":[
+        "Sj\u00f6tofta"
+    ],
+    "name:nds_x_preferred":[
+        "Sj\u00f6tofta"
+    ],
+    "name:nno_x_preferred":[
+        "Sj\u00f6tofta"
+    ],
+    "name:nob_x_preferred":[
+        "Sj\u00f6tofta"
+    ],
+    "name:nor_x_preferred":[
+        "Sj\u00f8tofta"
+    ],
+    "name:nor_x_variant":[
+        "Sj\u00f6tofta"
+    ],
+    "name:swe_x_preferred":[
+        "Sj\u00f6tofta"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2678753,
+    "qs_pg:gn_pop":208,
+    "qs_pg:name":"Sj\u00f6tofta",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"V\u00e4stra G\u00f6talands L\u00e4n",
+    "qs_pg:photos":41,
+    "qs_pg:photos_1k":8,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":41,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":3775,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":903979,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"V\u00e4stra G\u00f6talands L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688411,
+        102191581,
+        1125358427,
+        85633789,
+        1159303181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2678753,
+        "gp:id":903979,
+        "qs_pg:id":3775,
+        "wd:id":"Q3353912"
+    },
+    "wof:country":"SE",
+    "wof:created":1497296304,
+    "wof:geomhash":"ecc46d743b094c77cbc4c99ba21ed8f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303181,
+            "localadmin_id":1125358427,
+            "locality_id":1125915541,
+            "region_id":85688411
+        }
+    ],
+    "wof:id":1125915541,
+    "wof:lastmodified":1529702261,
+    "wof:name":"Sj\u00f6tofta",
+    "wof:parent_id":1125358427,
+    "wof:placetype":"locality",
+    "wof:population":208,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.28333,
+    57.35,
+    13.28333,
+    57.35
+],
+  "geometry": {"coordinates":[13.28333,57.35],"type":"Point"}
+}

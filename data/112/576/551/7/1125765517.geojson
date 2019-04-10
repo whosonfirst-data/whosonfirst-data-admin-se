@@ -1,0 +1,100 @@
+{
+  "id": 1125765517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.11041,65.6093,22.11041,65.6093",
+    "geom:latitude":65.6093,
+    "geom:longitude":22.11041,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"SE",
+    "lbl:latitude":65.6093,
+    "lbl:longitude":22.11041,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u041d\u043e\u0442\u0432\u0438\u043a\u0435\u043d"
+    ],
+    "name:eng_x_preferred":[
+        "Notviken"
+    ],
+    "name:swe_x_preferred":[
+        "Notviken"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":603983,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Notviken",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"Norrbottens L\u00e4n",
+    "qs_pg:photos":187,
+    "qs_pg:photos_1k":38,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":187,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1332368,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":900098,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"Norrbottens L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688471,
+        102191581,
+        1125325167,
+        85633789,
+        1159303317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":603983,
+        "gp:id":900098,
+        "qs_pg:id":1332368,
+        "wd:id":"Q10603807"
+    },
+    "wof:country":"SE",
+    "wof:created":1497289878,
+    "wof:geomhash":"20c4ad545ef1bc506304c02bfcae5ccc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303317,
+            "localadmin_id":1125325167,
+            "locality_id":1125765517,
+            "region_id":85688471
+        }
+    ],
+    "wof:id":1125765517,
+    "wof:lastmodified":1529702570,
+    "wof:name":"Notviken",
+    "wof:parent_id":1125325167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.11041,
+    65.6093,
+    22.11041,
+    65.6093
+],
+  "geometry": {"coordinates":[22.11041,65.6093],"type":"Point"}
+}

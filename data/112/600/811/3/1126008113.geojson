@@ -1,0 +1,158 @@
+{
+  "id": 1126008113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.63188,59.89951,17.63188,59.89951",
+    "geom:latitude":59.89951,
+    "geom:longitude":17.63188,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":17973,
+    "gn:population":17973,
+    "iso:country":"SE",
+    "lbl:latitude":59.89951,
+    "lbl:longitude":17.63188,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:amh_x_preferred":[
+        "\u130b\u121d\u120b \u12a1\u1355\u1233\u120b"
+    ],
+    "name:ara_x_preferred":[
+        "\u062c\u0645\u0644\u0627 \u0623\u0648\u0628\u0633\u0627\u0644\u0627"
+    ],
+    "name:bel_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0430\u044f \u0423\u043f\u0441\u0430\u043b\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Gamla Uppsala"
+    ],
+    "name:chi_x_preferred":[
+        "\u8001\u70cf\u666e\u85a9\u62c9"
+    ],
+    "name:dut_x_preferred":[
+        "Gamla Uppsala"
+    ],
+    "name:eng_x_preferred":[
+        "Gamla Uppsala"
+    ],
+    "name:fin_x_preferred":[
+        "Vanha Uppsala"
+    ],
+    "name:fre_x_preferred":[
+        "Gamla Uppsala"
+    ],
+    "name:ger_x_preferred":[
+        "Alt-Uppsala"
+    ],
+    "name:hun_x_preferred":[
+        "Gamla Uppsala"
+    ],
+    "name:ita_x_preferred":[
+        "Gamla Uppsala"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ac\u30e0\u30e9\u30fb\u30a6\u30d7\u30b5\u30e9"
+    ],
+    "name:kor_x_preferred":[
+        "\uac10\ub77c\uc6c1\uc0b4\ub77c"
+    ],
+    "name:nno_x_preferred":[
+        "Gamle Uppsala"
+    ],
+    "name:nob_x_preferred":[
+        "Gamle Uppsala"
+    ],
+    "name:pol_x_preferred":[
+        "Gamla Uppsala"
+    ],
+    "name:por_x_preferred":[
+        "Gamla Uppsala"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0430\u044f \u0423\u043f\u043f\u0441\u0430\u043b\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Gamla Uppsala"
+    ],
+    "name:swe_x_preferred":[
+        "Gamla Uppsala"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8132903,
+    "qs_pg:gn_pop":17973,
+    "qs_pg:name":"Gamla Uppsala",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"Uppsala L\u00e4n",
+    "qs_pg:photos":216,
+    "qs_pg:photos_1k":44,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":216,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":245346,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":890316,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"Uppsala L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688439,
+        102191581,
+        1159306525,
+        85633789,
+        1159303253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8132903,
+        "gp:id":890316,
+        "qs_pg:id":245346,
+        "wd:id":"Q433032"
+    },
+    "wof:country":"SE",
+    "wof:created":1497300104,
+    "wof:geomhash":"714afb3573ced34c2a6a634ec07442f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303253,
+            "localadmin_id":1159306525,
+            "locality_id":1126008113,
+            "region_id":85688439
+        }
+    ],
+    "wof:id":1126008113,
+    "wof:lastmodified":1529702892,
+    "wof:name":"Gamla Uppsala",
+    "wof:parent_id":1159306525,
+    "wof:placetype":"locality",
+    "wof:population":17973,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.63188,
+    59.89951,
+    17.63188,
+    59.89951
+],
+  "geometry": {"coordinates":[17.63188,59.89951],"type":"Point"}
+}

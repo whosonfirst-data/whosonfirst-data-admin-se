@@ -1,0 +1,81 @@
+{
+  "id": 1126061131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.8,56.29167,12.8,56.29167",
+    "geom:latitude":56.29167,
+    "geom:longitude":12.8,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":705,
+    "gn:population":705,
+    "iso:country":"SE",
+    "lbl:latitude":56.29167,
+    "lbl:longitude":12.8,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":3213759,
+    "qs_pg:gn_pop":705,
+    "qs_pg:name":"Skepparkroken",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":581906,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1125423359,
+        85633789,
+        1159303025,
+        85688377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3213759,
+        "qs_pg:id":581906
+    },
+    "wof:country":"SE",
+    "wof:created":1497308149,
+    "wof:geomhash":"c41b97a08395d3c78434c83f77055928",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303025,
+            "localadmin_id":1125423359,
+            "locality_id":-1,
+            "neighbourhood_id":1126061131,
+            "region_id":85688377
+        }
+    ],
+    "wof:id":1126061131,
+    "wof:lastmodified":1529702699,
+    "wof:name":"Skepparkroken",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population":705,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.8,
+    56.29167,
+    12.8,
+    56.29167
+],
+  "geometry": {"coordinates":[12.8,56.29167],"type":"Point"}
+}

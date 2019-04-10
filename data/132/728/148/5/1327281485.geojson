@@ -1,0 +1,77 @@
+{
+  "id": 1327281485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.51667,56.21667,14.51667,56.21667",
+    "geom:latitude":56.21667,
+    "geom:longitude":14.51667,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"1272.0",
+    "gn:asciiname":"Ostafors",
+    "gn:country_code":"SE",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2686117,
+    "gn:latitude":56.21667,
+    "gn:longitude":14.51667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"\u00d6stafors",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "\u00d6stafors"
+    ],
+    "name:nor_x_variant":[
+        "\u00d8stafors"
+    ],
+    "name:und_x_variant":[
+        "\u00d6stafors"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688383,
+        1125329367,
+        1159303187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2686117
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"dcc8772d5a672e4243096212bf14856a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "county_id":1159303187,
+            "localadmin_id":1125329367,
+            "locality_id":1327281485,
+            "region_id":85688383
+        }
+    ],
+    "wof:id":1327281485,
+    "wof:lastmodified":1537699911,
+    "wof:name":"Ostafors",
+    "wof:parent_id":1125329367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.51667,
+    56.21666999999999,
+    14.51667,
+    56.21666999999999
+],
+  "geometry": {"coordinates":[14.51667,56.21666999999999],"type":"Point"}
+}

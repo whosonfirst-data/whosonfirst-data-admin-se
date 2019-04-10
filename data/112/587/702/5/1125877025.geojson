@@ -1,0 +1,114 @@
+{
+  "id": 1125877025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.85,60.78333,15.85,60.78333",
+    "geom:latitude":60.78333,
+    "geom:longitude":15.85,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":609,
+    "gn:population":529,
+    "iso:country":"SE",
+    "lbl:latitude":60.78333,
+    "lbl:longitude":15.85,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u041b\u0438\u043d\u0433\u0445\u0435\u0434"
+    ],
+    "name:dut_x_preferred":[
+        "Linghed"
+    ],
+    "name:eng_x_preferred":[
+        "Linghed"
+    ],
+    "name:nan_x_preferred":[
+        "Linghed"
+    ],
+    "name:nno_x_preferred":[
+        "Linghed"
+    ],
+    "name:nob_x_preferred":[
+        "Linghed"
+    ],
+    "name:swe_x_preferred":[
+        "Linghed"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2694780,
+    "qs_pg:gn_pop":609,
+    "qs_pg:name":"Linghed",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"Dalarnas L\u00e4n",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":7,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":271897,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":897371,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"Dalarnas L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688447,
+        102191581,
+        1125277897,
+        85633789,
+        1159302903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2694780,
+        "gp:id":897371,
+        "qs_pg:id":271897,
+        "wd:id":"Q3352400"
+    },
+    "wof:country":"SE",
+    "wof:created":1497294591,
+    "wof:geomhash":"5204967adda95320f5be4d2c8445e311",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302903,
+            "localadmin_id":1125277897,
+            "locality_id":1125877025,
+            "region_id":85688447
+        }
+    ],
+    "wof:id":1125877025,
+    "wof:lastmodified":1529702010,
+    "wof:name":"Linghed",
+    "wof:parent_id":1125277897,
+    "wof:placetype":"locality",
+    "wof:population":529,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.85,
+    60.78333,
+    15.85,
+    60.78333
+],
+  "geometry": {"coordinates":[15.85,60.78333],"type":"Point"}
+}

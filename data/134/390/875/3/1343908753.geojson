@@ -1,0 +1,75 @@
+{
+  "id": 1343908753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.73333,58.61667,13.73333,58.61667",
+    "geom:latitude":58.61667,
+    "geom:longitude":13.73333,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"1493.0",
+    "gn:asciiname":"Stora Myren",
+    "gn:cc2":"SE",
+    "gn:country_code":"SE",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2672768,
+    "gn:latitude":58.61667,
+    "gn:longitude":13.73333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Stora Myren",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Stora Myran",
+        "Stora Myren"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688411,
+        102191581,
+        1125326179,
+        85633789,
+        1159303321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2672768
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"b18f70f1b3c652158be79072abd7c694",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303321,
+            "localadmin_id":1125326179,
+            "locality_id":1343908753,
+            "region_id":85688411
+        }
+    ],
+    "wof:id":1343908753,
+    "wof:lastmodified":1537699792,
+    "wof:name":"Stora Myren",
+    "wof:parent_id":1125326179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.73333,
+    58.61666999999999,
+    13.73333,
+    58.61666999999999
+],
+  "geometry": {"coordinates":[13.73333,58.61666999999999],"type":"Point"}
+}

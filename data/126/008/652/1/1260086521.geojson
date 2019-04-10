@@ -1,0 +1,70 @@
+{
+  "id": 1260086521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.68333,60.31667,16.68333,60.31667",
+    "geom:latitude":60.31667,
+    "geom:longitude":16.68333,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"2181.0",
+    "gn:asciiname":"Ulvsbo",
+    "gn:country_code":"SE",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2666400,
+    "gn:latitude":60.31667,
+    "gn:longitude":16.68333,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Ulvsbo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688453,
+        102191581,
+        1125325421,
+        85633789,
+        1159303303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2666400
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"69d1654fea5cb8d3e8747d8294cc2599",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303303,
+            "localadmin_id":1125325421,
+            "locality_id":1260086521,
+            "region_id":85688453
+        }
+    ],
+    "wof:id":1260086521,
+    "wof:lastmodified":1536982850,
+    "wof:name":"Ulvsbo",
+    "wof:parent_id":1125325421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.68333,
+    60.31667,
+    16.68333,
+    60.31667
+],
+  "geometry": {"coordinates":[16.68333,60.31667],"type":"Point"}
+}

@@ -1,0 +1,114 @@
+{
+  "id": 101913105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000114,
+    "geom:area_square_m":736672.853299,
+    "geom:bbox":"11.3289801718,58.3422168724,11.3520492962,58.3551255337",
+    "geom:latitude":58.346567,
+    "geom:longitude":11.340841,
+    "iso:country":"SE",
+    "lbl:latitude":58.347664,
+    "lbl:longitude":11.339093,
+    "mps:latitude":58.347664,
+    "mps:longitude":11.339093,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dan_x_preferred":[
+        "Malm\u00f6n"
+    ],
+    "name:dut_x_preferred":[
+        "Malm\u00f6n"
+    ],
+    "name:eng_x_preferred":[
+        "Malm\u00f6n"
+    ],
+    "name:fre_x_preferred":[
+        "Malm\u00f6n"
+    ],
+    "name:ger_x_preferred":[
+        "Bohus-Malm\u00f6n"
+    ],
+    "name:nds_x_preferred":[
+        "Malm\u00f6n"
+    ],
+    "name:nld_x_preferred":[
+        "Malm\u00f6n"
+    ],
+    "name:nno_x_preferred":[
+        "Malm\u00f6n"
+    ],
+    "name:nob_x_preferred":[
+        "Malm\u00f6n"
+    ],
+    "name:por_x_preferred":[
+        "Malm\u00f6n"
+    ],
+    "name:swe_x_preferred":[
+        "Malm\u00f6n"
+    ],
+    "qs:a0":"Sverige",
+    "qs:a1":"*V\u00e4stra G\u00f6talands l\u00e4n",
+    "qs:a1r":"6",
+    "qs:adm0":"Sverige",
+    "qs:id":0,
+    "qs:la":"Soten\u00e4s",
+    "qs:la_lc":"*SE1427",
+    "qs:level":"locality",
+    "qs:loc":"Bohus-malm\u00f6n",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet many local_admin match geoplanet",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":41,
+    "wof:belongsto":[
+        85688411,
+        102191581,
+        1159305873,
+        85633789,
+        1159303393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8132410,
+        "gp:id":898092,
+        "qs:id":900522,
+        "qs_pg:id":489967,
+        "wd:id":"Q1904065"
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"fe4f784b213b3d078ddddcabbef0e5f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303393,
+            "localadmin_id":1159305873,
+            "locality_id":101913105,
+            "region_id":85688411
+        }
+    ],
+    "wof:id":101913105,
+    "wof:lastmodified":1529702233,
+    "wof:name":"Bohus-malm\u00f6n",
+    "wof:parent_id":1159305873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.32898017176706,
+    58.34221687236374,
+    11.35204929618277,
+    58.35512553372666
+],
+  "geometry": {"coordinates":[[[11.32898017176706,58.34330893851484],[11.33194348072402,58.34597804566823],[11.3332322747321,58.34596537162389],[11.333277207371,58.34717935791281],[11.33688219270192,58.35042643483746],[11.3385128388544,58.35041035760759],[11.33856993424359,58.35194661484155],[11.34209924882856,58.35512553372666],[11.34188877799897,58.34947747130002],[11.34359345101029,58.34946054601858],[11.3434928459086,58.34676325134473],[11.34860647320602,58.34671235091457],[11.34867379642981,58.34851054421443],[11.35037842088366,58.34849353347687],[11.35034471576301,58.34759443717405],[11.35204929618277,58.34757740543466],[11.35194806513152,58.34488011958291],[11.35024361226112,58.34489714987672],[11.35020991504683,58.3439980546475],[11.34850550317549,58.34401506297877],[11.34843819969018,58.34221687236374],[11.34502954145046,58.34225082266335],[11.34506310719297,58.34314991879705],[11.33994998101912,58.34320068458635],[11.34001686334443,58.34499888053193],[11.33490346859696,58.34504945586127],[11.33480353064039,58.34235215805302],[11.32969050502862,58.34240253577298],[11.32972368820356,58.34330163619927],[11.32898017176706,58.34330893851484]]],"type":"Polygon"}
+}

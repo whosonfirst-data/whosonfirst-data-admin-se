@@ -1,0 +1,131 @@
+{
+  "id": 101839517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000291,
+    "geom:area_square_m":1824510.849279,
+    "geom:bbox":"17.729213229,59.4977899506,17.7691659271,59.5140547358",
+    "geom:latitude":59.506628,
+    "geom:longitude":17.747722,
+    "iso:country":"SE",
+    "lbl:latitude":59.504634,
+    "lbl:longitude":17.748024,
+    "mps:latitude":59.504634,
+    "mps:longitude":17.748024,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dan_x_preferred":[
+        "Brunna"
+    ],
+    "name:dut_x_preferred":[
+        "Brunna"
+    ],
+    "name:eng_x_preferred":[
+        "Brunna"
+    ],
+    "name:fin_x_preferred":[
+        "Brunna"
+    ],
+    "name:fre_x_preferred":[
+        "Brunna"
+    ],
+    "name:ger_x_preferred":[
+        "Brunna"
+    ],
+    "name:nan_x_preferred":[
+        "Brunna"
+    ],
+    "name:nds_x_preferred":[
+        "Brunna"
+    ],
+    "name:nld_x_preferred":[
+        "Brunna"
+    ],
+    "name:nno_x_preferred":[
+        "Brunna"
+    ],
+    "name:nob_x_preferred":[
+        "Brunna"
+    ],
+    "name:nor_x_preferred":[
+        "Brunna"
+    ],
+    "name:swe_x_preferred":[
+        "Brunna"
+    ],
+    "name:swe_x_variant":[
+        "Brunnas"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Brunna"
+    ],
+    "qs:a0":"Sverige",
+    "qs:a1":"*Stockholms l\u00e4n",
+    "qs:a1r":"0",
+    "qs:adm0":"Sverige",
+    "qs:la":"Upplands-Bro",
+    "qs:la_lc":"*SE0139",
+    "qs:level":"locality",
+    "qs:loc":"Brunna",
+    "qs:loc_alt":"Brunna",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":52,
+    "wof:belongsto":[
+        85688429,
+        102191581,
+        1125287125,
+        85633789,
+        1159303115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06c721c8-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2718975,
+        "gp:id":887874,
+        "qs:id":941383,
+        "qs_pg:id":575734,
+        "wd:id":"Q1987306",
+        "wk:page":"Brunna"
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"b52645da927e109bd22f2e1065b6e595",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303115,
+            "localadmin_id":1125287125,
+            "locality_id":101839517,
+            "region_id":85688429
+        }
+    ],
+    "wof:id":101839517,
+    "wof:lang":[
+        "swe"
+    ],
+    "wof:lastmodified":1529702742,
+    "wof:name":"Brunna",
+    "wof:parent_id":1125287125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.72921322895962,
+    59.49778995063957,
+    17.76916592714906,
+    59.51405473584975
+],
+  "geometry": {"coordinates":[[[17.75048725593615,59.49779455512328],[17.72921322895962,59.50534763666803],[17.72940734219799,59.50620922695725],[17.73466369729869,59.5059160174535],[17.73506659469274,59.50770289186477],[17.73681878381842,59.50760510554687],[17.73762490366255,59.51117884259452],[17.73412015819537,59.51137441612536],[17.73472460754249,59.51405473584975],[17.74173459796117,59.51366346618795],[17.74112961171238,59.51098318088452],[17.75164351119639,59.51039566669647],[17.75204736000643,59.51218248913335],[17.75555209715668,59.51198646322672],[17.7557541293441,59.51287986865634],[17.75750652859114,59.5127818197617],[17.75730445166812,59.51188841720727],[17.76080913255481,59.51169225903664],[17.76060697838301,59.51079886220674],[17.76586379515277,59.5105044682573],[17.76606608351307,59.51139785645449],[17.76781838172519,59.51129967817445],[17.7674137277786,59.50951290750913],[17.76916592714906,59.50941471294465],[17.7689635737965,59.50852133044833],[17.7637070816881,59.5088158393811],[17.76350487472439,59.50792244822134],[17.76175273663961,59.50802057090624],[17.76134844880795,59.50623378274827],[17.75959639077934,59.50633187764009],[17.75939430990178,59.50543848064319],[17.75589025514631,59.50563459855783],[17.75508241141978,59.50206098729473],[17.75333054882492,59.5021590016986],[17.75252307913627,59.49858537850145],[17.75077138597777,59.49868335937941],[17.75056959374132,59.49778995063957],[17.75048725593615,59.49779455512328]]],"type":"Polygon"}
+}

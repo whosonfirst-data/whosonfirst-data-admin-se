@@ -1,0 +1,73 @@
+{
+  "id": 1360081245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.68772,56.87572,16.68772,56.87572",
+    "geom:latitude":56.87572,
+    "geom:longitude":16.68772,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"885.0",
+    "gn:admin3_code":"88507.0",
+    "gn:admin4_code":"834.0",
+    "gn:asciiname":"Furuhaell",
+    "gn:country_code":"SE",
+    "gn:dem":27,
+    "gn:elevation":"42.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11523702,
+    "gn:latitude":56.87572,
+    "gn:longitude":16.68772,
+    "gn:modification_date":"2017-04-18",
+    "gn:name":"Furuh\u00e4ll",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688401,
+        102191581,
+        1159307427,
+        85633789,
+        1159303363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11523702
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"3899a2e9f81ea3ff1f3c3f80e15535b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303363,
+            "localadmin_id":1159307427,
+            "locality_id":1360081245,
+            "region_id":85688401
+        }
+    ],
+    "wof:id":1360081245,
+    "wof:lastmodified":1554166216,
+    "wof:name":"Furuhaell",
+    "wof:parent_id":1159307427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.68772,
+    56.87572,
+    16.68772,
+    56.87572
+],
+  "geometry": {"coordinates":[16.68772,56.87572],"type":"Point"}
+}

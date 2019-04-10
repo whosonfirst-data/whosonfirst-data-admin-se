@@ -1,0 +1,72 @@
+{
+  "id": 1243610509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.05983,60.11038,13.05983,60.11038",
+    "geom:latitude":60.11038,
+    "geom:longitude":13.05983,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1737.0",
+    "gn:admin3_code":"173701.0",
+    "gn:admin4_code":"2136.0",
+    "gn:asciiname":"Svennebytorp",
+    "gn:country_code":"SE",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2670031,
+    "gn:latitude":60.11038,
+    "gn:longitude":13.05983,
+    "gn:modification_date":"2015-11-07",
+    "gn:name":"Svennebytorp",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688435,
+        102191581,
+        1125288139,
+        85633789,
+        1159303341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2670031
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"efb64e6a8a731ea695308b0351c080bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303341,
+            "localadmin_id":1125288139,
+            "locality_id":1243610509,
+            "region_id":85688435
+        }
+    ],
+    "wof:id":1243610509,
+    "wof:lastmodified":1537063390,
+    "wof:name":"Svennebytorp",
+    "wof:parent_id":1125288139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.05983,
+    60.11038000000001,
+    13.05983,
+    60.11038000000001
+],
+  "geometry": {"coordinates":[13.05983,60.11038000000001],"type":"Point"}
+}

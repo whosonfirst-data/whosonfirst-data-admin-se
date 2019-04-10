@@ -1,0 +1,70 @@
+{
+  "id": 1225913953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.25,59.45,15.25,59.45",
+    "geom:latitude":59.45,
+    "geom:longitude":15.25,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1880.0",
+    "gn:asciiname":"Basketorp",
+    "gn:country_code":"SE",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2723303,
+    "gn:latitude":59.45,
+    "gn:longitude":15.25,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Basketorp",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688421,
+        102191581,
+        1159307395,
+        85633789,
+        1159303031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2723303
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"12dea6d761e7399997be91d80863759d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303031,
+            "localadmin_id":1159307395,
+            "locality_id":1225913953,
+            "region_id":85688421
+        }
+    ],
+    "wof:id":1225913953,
+    "wof:lastmodified":1536915947,
+    "wof:name":"Basketorp",
+    "wof:parent_id":1159307395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.25,
+    59.45,
+    15.25,
+    59.45
+],
+  "geometry": {"coordinates":[15.25,59.45],"type":"Point"}
+}

@@ -1,0 +1,122 @@
+{
+  "id": 1125916221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.95,58.66667,16.95,58.66667",
+    "geom:latitude":58.66667,
+    "geom:longitude":16.95,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":213,
+    "gn:population":210,
+    "iso:country":"SE",
+    "lbl:latitude":58.66667,
+    "lbl:longitude":16.95,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0411\u0443\u0441\u043a\u0445\u0439\u0442\u0430\u043d"
+    ],
+    "name:dut_x_preferred":[
+        "Buskhyttan"
+    ],
+    "name:eng_x_preferred":[
+        "Buskhyttan"
+    ],
+    "name:ita_x_preferred":[
+        "Buskhyttan"
+    ],
+    "name:nan_x_preferred":[
+        "Buskhyttan"
+    ],
+    "name:nno_x_preferred":[
+        "Buskhyttan"
+    ],
+    "name:nob_x_preferred":[
+        "Buskhyttan"
+    ],
+    "name:pol_x_preferred":[
+        "Buskhyttan"
+    ],
+    "name:swe_x_preferred":[
+        "Buskhyttan"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2718633,
+    "qs_pg:gn_pop":213,
+    "qs_pg:name":"Buskhyttan",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"S\u00f6dermanlands L\u00e4n",
+    "qs_pg:photos":28,
+    "qs_pg:photos_1k":6,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":28,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1036477,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":888010,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"S\u00f6dermanlands L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688419,
+        102191581,
+        1125287941,
+        85633789,
+        1159303471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2718633,
+        "gp:id":888010,
+        "qs_pg:id":1036477,
+        "wd:id":"Q2788330"
+    },
+    "wof:country":"SE",
+    "wof:created":1497296323,
+    "wof:geomhash":"70a37afb9a8778174d2a2819b23bd54e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303471,
+            "localadmin_id":1125287941,
+            "locality_id":1125916221,
+            "region_id":85688419
+        }
+    ],
+    "wof:id":1125916221,
+    "wof:lastmodified":1529702854,
+    "wof:name":"Buskhyttan",
+    "wof:parent_id":1125287941,
+    "wof:placetype":"locality",
+    "wof:population":210,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.95,
+    58.66667,
+    16.95,
+    58.66667
+],
+  "geometry": {"coordinates":[16.95,58.66667],"type":"Point"}
+}

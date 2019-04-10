@@ -1,0 +1,75 @@
+{
+  "id": 1292899379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.83333,63.26667,13.83333,63.26667",
+    "geom:latitude":63.26667,
+    "geom:longitude":13.83333,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"2321.0",
+    "gn:asciiname":"Ytterocke",
+    "gn:cc2":"SE",
+    "gn:country_code":"SE",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2662070,
+    "gn:latitude":63.26667,
+    "gn:longitude":13.83333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ytterocke",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yttre Ocke",
+        "Ytterocke"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688461,
+        102191581,
+        1159307381,
+        85633789,
+        1159303387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2662070
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"1720d7c0dda9f0d764b331fb7e9ba6ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303387,
+            "localadmin_id":1159307381,
+            "locality_id":1292899379,
+            "region_id":85688461
+        }
+    ],
+    "wof:id":1292899379,
+    "wof:lastmodified":1537699742,
+    "wof:name":"Ytterocke",
+    "wof:parent_id":1159307381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.83333,
+    63.26667,
+    13.83333,
+    63.26667
+],
+  "geometry": {"coordinates":[13.83333,63.26667],"type":"Point"}
+}

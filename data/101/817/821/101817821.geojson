@@ -1,0 +1,126 @@
+{
+  "id": 101817821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000144,
+    "geom:area_square_m":995362.022141,
+    "geom:bbox":"12.9296213979,55.8806482231,12.9636714489,55.8902668518",
+    "geom:latitude":55.885595,
+    "geom:longitude":12.948106,
+    "gn:population":1551,
+    "iso:country":"SE",
+    "lbl:latitude":55.884203,
+    "lbl:longitude":12.944108,
+    "mps:latitude":55.884203,
+    "mps:longitude":12.944108,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0410\u0441\u043c\u0443\u043d\u0434\u0442\u043e\u0440\u043f"
+    ],
+    "name:dut_x_preferred":[
+        "Asmundtorp"
+    ],
+    "name:eng_x_preferred":[
+        "Assmundtorp"
+    ],
+    "name:nan_x_preferred":[
+        "Asmundtorp"
+    ],
+    "name:nld_x_preferred":[
+        "Asmundtorp"
+    ],
+    "name:nno_x_preferred":[
+        "Asmundtorp"
+    ],
+    "name:nob_x_preferred":[
+        "Asmundtorp"
+    ],
+    "name:nor_x_preferred":[
+        "Asmundtorp"
+    ],
+    "name:swe_x_preferred":[
+        "Asmundtorp"
+    ],
+    "name:swe_x_variant":[
+        "Asmundtorps"
+    ],
+    "name:unk_x_variant":[
+        "Assmundtorp"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Asmundtorp"
+    ],
+    "qs:a0":"Sverige",
+    "qs:a1":"*Sk\u00e5ne l\u00e4n",
+    "qs:a1r":"0",
+    "qs:adm0":"Sverige",
+    "qs:la":"Landskrona",
+    "qs:la_lc":"*SE1282",
+    "qs:level":"locality",
+    "qs:loc":"Asmundtorp",
+    "qs:loc_alt":"Asmundtorp",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":55,
+    "wof:belongsto":[
+        85688377,
+        102191581,
+        1125356331,
+        85633789,
+        1159303531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06d28cde-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2724693,
+        "gp:id":885345,
+        "qs:id":478445,
+        "qs_pg:id":478445,
+        "wd:id":"Q2599513",
+        "wk:page":"Asmundtorp"
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"b229c16ce109a3bfcd083afe8a4f5aa8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303531,
+            "localadmin_id":1125356331,
+            "locality_id":101817821,
+            "region_id":85688377
+        }
+    ],
+    "wof:id":101817821,
+    "wof:lang":[
+        "swe"
+    ],
+    "wof:lastmodified":1529702660,
+    "wof:name":"Asmundtorp",
+    "wof:parent_id":1125356331,
+    "wof:placetype":"locality",
+    "wof:population":1551,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.92962139792348,
+    55.88064822314578,
+    12.96367144889854,
+    55.89026685181602
+],
+  "geometry": {"coordinates":[[[12.96214311534197,55.89008209995279],[12.96207551523742,55.88918425248215],[12.96367144889854,55.88914724330488],[12.96340094007417,55.88555585801635],[12.96180515166554,55.88559286334726],[12.96166999198385,55.88379716922782],[12.96007427339282,55.8838341527175],[12.96020936045915,55.88562984875858],[12.95223036251144,55.88581447702205],[12.95216299868355,55.88491662416703],[12.95056722703146,55.88495348910283],[12.9504999031829,55.8840556353648],[12.94730842413497,55.88412930356418],[12.94710669243159,55.88143573705833],[12.94231977972822,55.88154608136449],[12.94225265205966,55.88064822314578],[12.93746582325235,55.88075838533217],[12.93753284201586,55.88165624641294],[12.93593719056133,55.88169292826035],[12.93600417667346,55.88259079036931],[12.92962139792348,55.88273732238764],[12.92968824246032,55.88363518837878],[12.93128397760933,55.88359858430078],[12.93135086209838,55.88449644941659],[12.93613815985162,55.88438651481295],[12.93627215763661,55.88618223955802],[12.93946382085085,55.88610884641167],[12.93953089784901,55.88700670699046],[12.9459143361953,55.88685967783539],[12.9459815621106,55.88775753466911],[12.94917333722009,55.88768389865481],[12.94924063943296,55.88858175365033],[12.95083655912481,55.88854490480423],[12.95090390132452,55.88944275891743],[12.9540958049779,55.88936899954439],[12.95416322348854,55.89026685181602],[12.96214311534197,55.89008209995279]]],"type":"Polygon"}
+}

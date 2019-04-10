@@ -1,0 +1,79 @@
+{
+  "id": 1260030867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.0,55.8,13.0,55.8",
+    "geom:latitude":55.8,
+    "geom:longitude":13.0,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"1261.0",
+    "gn:asciiname":"Bjornstorp",
+    "gn:country_code":"SE",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2721711,
+    "gn:latitude":55.8,
+    "gn:longitude":13.0,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Bj\u00f6rnstorp",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Bj\u00f6rnstorp"
+    ],
+    "name:nor_x_variant":[
+        "Bj\u00f8rnstorp"
+    ],
+    "name:und_x_variant":[
+        "Bj\u00f6rnstorp"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688377,
+        102191581,
+        1125326037,
+        85633789,
+        1159303543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2721711
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"1c1639f39ac041a62670daa6c8657ed3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303543,
+            "localadmin_id":1125326037,
+            "locality_id":1260030867,
+            "region_id":85688377
+        }
+    ],
+    "wof:id":1260030867,
+    "wof:lastmodified":1537700117,
+    "wof:name":"Bjornstorp",
+    "wof:parent_id":1125326037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.0,
+    55.8,
+    13.0,
+    55.8
+],
+  "geometry": {"coordinates":[13.0,55.8],"type":"Point"}
+}

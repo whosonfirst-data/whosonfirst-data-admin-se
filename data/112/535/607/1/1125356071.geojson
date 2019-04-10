@@ -1,0 +1,77 @@
+{
+  "id": 1125356071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-05-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.14687,59.0732,17.14687,59.0732",
+    "geom:latitude":59.0732,
+    "geom:longitude":17.14687,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":3504,
+    "gn:population":3504,
+    "iso:country":"SE",
+    "lbl:latitude":59.0732,
+    "lbl:longitude":17.14687,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8131859,
+    "qs_pg:gn_pop":3504,
+    "qs_pg:name":"Daga",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":757771,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633789,
+        85688419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8131859,
+        "qs_pg:id":757771
+    },
+    "wof:country":"SE",
+    "wof:created":1497046479,
+    "wof:geomhash":"f164d2243f3da3c3b383f80b9c479dcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "localadmin_id":1125356071,
+            "region_id":85688419
+        }
+    ],
+    "wof:id":1125356071,
+    "wof:lastmodified":1525735522,
+    "wof:name":"Daga",
+    "wof:parent_id":85688419,
+    "wof:placetype":"localadmin",
+    "wof:population":3504,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.14687,
+    59.0732,
+    17.14687,
+    59.0732
+],
+  "geometry": {"coordinates":[17.14687,59.0732],"type":"Point"}
+}

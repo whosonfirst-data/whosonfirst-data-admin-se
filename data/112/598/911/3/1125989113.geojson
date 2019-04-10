@@ -1,0 +1,118 @@
+{
+  "id": 1125989113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.25,55.96667,13.25,55.96667",
+    "geom:latitude":55.96667,
+    "geom:longitude":13.25,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"SE",
+    "lbl:latitude":55.96667,
+    "lbl:longitude":13.25,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dan_x_preferred":[
+        "Ask"
+    ],
+    "name:dut_x_preferred":[
+        "Ask"
+    ],
+    "name:eng_x_preferred":[
+        "Ask"
+    ],
+    "name:fre_x_preferred":[
+        "Ask"
+    ],
+    "name:ger_x_preferred":[
+        "Ask"
+    ],
+    "name:nds_x_preferred":[
+        "Ask"
+    ],
+    "name:nno_x_preferred":[
+        "Ask"
+    ],
+    "name:nob_x_preferred":[
+        "Ask"
+    ],
+    "name:swe_x_preferred":[
+        "Ask"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2724845,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Ask",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"Sk\u00e5ne L\u00e4n",
+    "qs_pg:photos":34,
+    "qs_pg:photos_1k":7,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":34,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1350853,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":885269,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"Sk\u00e5ne L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688377,
+        102191581,
+        1159305779,
+        85633789,
+        1159303189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2724845,
+        "gp:id":885269,
+        "qs_pg:id":1350853,
+        "wd:id":"Q1884467"
+    },
+    "wof:country":"SE",
+    "wof:created":1497298960,
+    "wof:geomhash":"0f5fa29d5839b505abe24ea948b940ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303189,
+            "localadmin_id":1159305779,
+            "locality_id":1125989113,
+            "region_id":85688377
+        }
+    ],
+    "wof:id":1125989113,
+    "wof:lastmodified":1529702689,
+    "wof:name":"Ask",
+    "wof:parent_id":1159305779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.25,
+    55.96667,
+    13.25,
+    55.96667
+],
+  "geometry": {"coordinates":[13.25,55.96667],"type":"Point"}
+}

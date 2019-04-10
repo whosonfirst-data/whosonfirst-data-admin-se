@@ -1,0 +1,69 @@
+{
+  "id": 1327290825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.08333,59.75,17.08333,59.75",
+    "geom:latitude":59.75,
+    "geom:longitude":17.08333,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Hyvlinge",
+    "gn:country_code":"SE",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2703942,
+    "gn:latitude":59.75,
+    "gn:longitude":17.08333,
+    "gn:modification_date":"1994-01-14",
+    "gn:name":"Hyvlinge",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688439,
+        102191581,
+        1159306343,
+        85633789,
+        1159303337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2703942
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"4d0e1992e6b4ec0043fa26f4299ab2f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303337,
+            "localadmin_id":1159306343,
+            "locality_id":1327290825,
+            "region_id":85688439
+        }
+    ],
+    "wof:id":1327290825,
+    "wof:lastmodified":1536884859,
+    "wof:name":"Hyvlinge",
+    "wof:parent_id":1159306343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.08333,
+    59.75,
+    17.08333,
+    59.75
+],
+  "geometry": {"coordinates":[17.08333,59.75],"type":"Point"}
+}

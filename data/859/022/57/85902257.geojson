@@ -1,0 +1,112 @@
+{
+  "id": 85902257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.359056,56.665348,16.359056,56.665348",
+    "geom:latitude":56.665348,
+    "geom:longitude":16.359056,
+    "gn:latitude":56.66667,
+    "gn:longitude":16.36667,
+    "iso:country":"SE",
+    "lbl:latitude":56.665348,
+    "lbl:longitude":16.359056,
+    "mps:latitude":56.660618,
+    "mps:longitude":16.368839,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "name:swe_x_preferred":[
+        "Kvarnholmen"
+    ],
+    "name:unk_x_variant":[
+        "Kvarnholmen"
+    ],
+    "qs:gn_adm0_cc":"SE",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2702261,
+    "qs:gn_namadm1":"09",
+    "qs:gn_name":"Kvarnholmen",
+    "qs:local_max":4331,
+    "qs:local_sum":4711,
+    "qs:localhoods":2,
+    "qs:name":"Kvarnholmen",
+    "qs:name_adm0":"Sverige",
+    "qs:name_adm1":"Kalmar L\u00e4n",
+    "qs:name_adm2":"Kalmar",
+    "qs:name_local":"Kalmar",
+    "qs:photo_max":943,
+    "qs:photo_sum":4331,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":122,
+    "qs:woe_adm0":23424954,
+    "qs:woe_adm1":2347052,
+    "qs:woe_adm2":12587278,
+    "qs:woe_lau":0,
+    "qs:woe_local":894732,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":39,
+    "wof:belongsto":[
+        85688401,
+        102191581,
+        1125421725,
+        85633789,
+        101816869,
+        1159303065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2698433,
+        "gp:id":896261,
+        "qs:id":1083452,
+        "qs_pg:id":1083452
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"d6da3dded83ac14e1381a24841e86290",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303065,
+            "localadmin_id":1125421725,
+            "locality_id":101816869,
+            "neighbourhood_id":85902257,
+            "region_id":85688401
+        }
+    ],
+    "wof:id":85902257,
+    "wof:lang":[
+        "swe"
+    ],
+    "wof:lastmodified":1554166302,
+    "wof:name":"Kvarnholmen",
+    "wof:parent_id":101816869,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.359056,
+    56.665348,
+    16.359056,
+    56.665348
+],
+  "geometry": {"coordinates":[16.359056,56.665348],"type":"Point"}
+}

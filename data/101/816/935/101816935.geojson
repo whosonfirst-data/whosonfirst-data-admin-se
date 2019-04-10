@@ -1,0 +1,129 @@
+{
+  "id": 101816935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000266,
+    "geom:area_square_m":1721035.856454,
+    "geom:bbox":"15.7747996673,58.4222101432,15.8016609709,58.4394499215",
+    "geom:latitude":58.431646,
+    "geom:longitude":15.787199,
+    "gn:population":2484,
+    "iso:country":"SE",
+    "lbl:latitude":58.429667,
+    "lbl:longitude":15.784757,
+    "mps:latitude":58.429667,
+    "mps:longitude":15.784757,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dan_x_preferred":[
+        "Linghem"
+    ],
+    "name:dut_x_preferred":[
+        "Linghem"
+    ],
+    "name:eng_x_preferred":[
+        "Linghem"
+    ],
+    "name:fra_x_preferred":[
+        "Linghem"
+    ],
+    "name:fre_x_preferred":[
+        "Linghem"
+    ],
+    "name:nan_x_preferred":[
+        "Linghem"
+    ],
+    "name:nld_x_preferred":[
+        "Linghem"
+    ],
+    "name:nno_x_preferred":[
+        "Linghem"
+    ],
+    "name:nob_x_preferred":[
+        "Linghem"
+    ],
+    "name:nor_x_preferred":[
+        "Linghem"
+    ],
+    "name:swe_x_preferred":[
+        "Linghem"
+    ],
+    "name:swe_x_variant":[
+        "Linghems"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Linghem"
+    ],
+    "qs:a0":"Sverige",
+    "qs:a1":"*\u00d6sterg\u00f6tlands l\u00e4n",
+    "qs:a1r":"0",
+    "qs:adm0":"Sverige",
+    "qs:la":"Link\u00f6ping",
+    "qs:la_lc":"*SE0580",
+    "qs:level":"locality",
+    "qs:loc":"Linghem",
+    "qs:loc_alt":"Linghem",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":45,
+    "wof:belongsto":[
+        85688409,
+        102191581,
+        1159307601,
+        85633789,
+        1159303147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06d01b84-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2694779,
+        "gp:id":897372,
+        "qs:id":182275,
+        "qs_pg:id":182275,
+        "wd:id":"Q2691512",
+        "wk:page":"Linghem, Sweden"
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"1ac9881e79dadd8fd056a0a2f7aab06e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303147,
+            "localadmin_id":1159307601,
+            "locality_id":101816935,
+            "region_id":85688409
+        }
+    ],
+    "wof:id":101816935,
+    "wof:lang":[
+        "swe"
+    ],
+    "wof:lastmodified":1529703107,
+    "wof:name":"Linghem",
+    "wof:parent_id":1159307601,
+    "wof:placetype":"locality",
+    "wof:population":2484,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.77479966729516,
+    58.42221014317653,
+    15.80166097085134,
+    58.43944992148636
+],
+  "geometry": {"coordinates":[[[15.80166097085134,58.43886585183702],[15.80093516321352,58.43438671306478],[15.79923137324113,58.43445978637448],[15.7989411940373,58.43266812729951],[15.79383003799859,58.43288720638094],[15.79368508760183,58.43199137076817],[15.79198139806715,58.43206435224874],[15.79038796763689,58.42221014317653],[15.78187174014926,58.42257461605561],[15.78201634439586,58.42347046314421],[15.78031303730864,58.42354329557588],[15.78045760789598,58.42443914480623],[15.77705089001057,58.42458474958084],[15.77806253133986,58.43085572532254],[15.77635886767837,58.43092851001478],[15.77650337959136,58.43182436608095],[15.77479966729516,58.43189713142419],[15.77508863221487,58.43368884792181],[15.77679242882408,58.43361607846151],[15.77722606620097,58.4363036476534],[15.78063389293658,58.43615803214726],[15.78077854000549,58.43705388459034],[15.78759428424985,58.43676238840493],[15.7880287823636,58.43944992148636],[15.80166097085134,58.43886585183702]]],"type":"Polygon"}
+}

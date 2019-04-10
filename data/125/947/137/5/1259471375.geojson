@@ -1,0 +1,73 @@
+{
+  "id": 1259471375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.10016,60.92286,15.10016,60.92286",
+    "geom:latitude":60.92286,
+    "geom:longitude":15.10016,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2031.0",
+    "gn:asciiname":"Backa",
+    "gn:country_code":"SE",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2724037,
+    "gn:latitude":60.92286,
+    "gn:longitude":15.10016,
+    "gn:modification_date":"2017-03-19",
+    "gn:name":"Backa",
+    "gn:population":575,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688447,
+        102191581,
+        1125382227,
+        85633789,
+        1159303397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2724037
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"9a4f98eee8778bca861812007f8c8df2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303397,
+            "localadmin_id":1125382227,
+            "locality_id":1259471375,
+            "region_id":85688447
+        }
+    ],
+    "wof:id":1259471375,
+    "wof:lastmodified":1536875292,
+    "wof:name":"Backa",
+    "wof:parent_id":1125382227,
+    "wof:placetype":"locality",
+    "wof:population":575,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.10016,
+    60.92286,
+    15.10016,
+    60.92286
+],
+  "geometry": {"coordinates":[15.10016,60.92286],"type":"Point"}
+}

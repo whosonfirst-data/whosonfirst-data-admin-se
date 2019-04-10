@@ -1,0 +1,135 @@
+{
+  "id": 101816801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000154,
+    "geom:area_square_m":1014837.142516,
+    "geom:bbox":"14.2884150394,57.8477914248,14.3202114029,57.8597262816",
+    "geom:latitude":57.854127,
+    "geom:longitude":14.307324,
+    "gn:population":1402,
+    "iso:country":"SE",
+    "lbl:latitude":57.855389,
+    "lbl:longitude":14.307566,
+    "mps:latitude":57.855389,
+    "mps:longitude":14.307566,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Kaxholmen"
+    ],
+    "name:dut_x_preferred":[
+        "Kaxholmen"
+    ],
+    "name:eng_x_preferred":[
+        "Kaxholmen"
+    ],
+    "name:fra_x_preferred":[
+        "Kaxholmen"
+    ],
+    "name:fre_x_preferred":[
+        "Kaxholmen"
+    ],
+    "name:ger_x_preferred":[
+        "Kaxholmen"
+    ],
+    "name:ita_x_preferred":[
+        "Kaxholmen"
+    ],
+    "name:nan_x_preferred":[
+        "Kaxholmen"
+    ],
+    "name:nld_x_preferred":[
+        "Kaxholmen"
+    ],
+    "name:nno_x_preferred":[
+        "Kaxholmen"
+    ],
+    "name:nob_x_preferred":[
+        "Kaxholmen"
+    ],
+    "name:nor_x_preferred":[
+        "Kaxholmen"
+    ],
+    "name:swe_x_preferred":[
+        "Kaxholmen"
+    ],
+    "name:swe_x_variant":[
+        "Kaxholmens"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Kaxholmen"
+    ],
+    "qs:a0":"Sverige",
+    "qs:a1":"*J\u00f6nk\u00f6pings l\u00e4n",
+    "qs:a1r":"0",
+    "qs:adm0":"Sverige",
+    "qs:la":"J\u00f6nk\u00f6ping",
+    "qs:la_lc":"*SE0680",
+    "qs:level":"locality",
+    "qs:loc":"Kaxholmen",
+    "qs:loc_alt":"Kaxholmen",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":70,
+    "wof:belongsto":[
+        85688395,
+        102191581,
+        1125277815,
+        85633789,
+        1159303375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06d2c92e-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2701078,
+        "gp:id":895199,
+        "qs:id":1145332,
+        "qs_pg:id":1145332,
+        "wd:id":"Q675213",
+        "wk:page":"Kaxholmen"
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"6cd8f9b006edb93955a315bc1590bcc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303375,
+            "localadmin_id":1125277815,
+            "locality_id":101816801,
+            "region_id":85688395
+        }
+    ],
+    "wof:id":101816801,
+    "wof:lang":[
+        "swe"
+    ],
+    "wof:lastmodified":1529702440,
+    "wof:name":"Kaxholmen",
+    "wof:parent_id":1125277815,
+    "wof:placetype":"locality",
+    "wof:population":1402,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.28841503941624,
+    57.84779142480232,
+    14.32021140290931,
+    57.85972628162835
+],
+  "geometry": {"coordinates":[[[14.3109821939471,57.85950957584259],[14.31087658050626,57.85861234874994],[14.31255586930439,57.85855812108389],[14.31223894287155,57.85586644515161],[14.31559726118815,57.85575793559025],[14.31549154946913,57.85486071356809],[14.31717066076038,57.85480642866332],[14.31706491426047,57.85390920828604],[14.31874398001463,57.85385490380213],[14.31853242356209,57.852060466475],[14.32021140290931,57.8520061439213],[14.32010559296327,57.85110892697185],[14.31674771134675,57.8512175479795],[14.31664198923568,57.85032032815235],[14.31496308230578,57.85037460552286],[14.31485740715624,57.84947738432669],[14.31317853643486,57.84953163910723],[14.31307290824174,57.84863441654272],[14.31139407372962,57.84868864873442],[14.3112884924879,57.84779142480232],[14.30960969418561,57.84784563440644],[14.3097152345656,57.84874285984347],[14.30803639075049,57.84879704986929],[14.30814189635157,57.84969427694824],[14.30478411304716,57.849802596757],[14.30499497902645,57.85159705734191],[14.30331599866633,57.85165118862557],[14.30342139990324,57.85254842062801],[14.30174237402525,57.85260253232855],[14.30195311298115,57.85439699975262],[14.29691576223041,57.85455921734558],[14.29681051235031,57.85366197906103],[14.28841503941624,57.85393191247499],[14.28862513643207,57.85572640417138],[14.29870018061962,57.85540240282438],[14.29880548352401,57.85629963988572],[14.30048468220576,57.85624556435215],[14.30059003206901,57.85714280005089],[14.30226926699311,57.85708870192718],[14.30248006672633,57.85888317073648],[14.30415937878161,57.85882904851849],[14.30426482865909,57.85972628162835],[14.3109821939471,57.85950957584259]]],"type":"Polygon"}
+}

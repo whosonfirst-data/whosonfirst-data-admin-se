@@ -1,0 +1,69 @@
+{
+  "id": 1276833585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.98333,60.05,16.98333,60.05",
+    "geom:latitude":60.05,
+    "geom:longitude":16.98333,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Lagbo",
+    "gn:country_code":"SE",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2697940,
+    "gn:latitude":60.05,
+    "gn:longitude":16.98333,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Lagbo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688439,
+        102191581,
+        1125356145,
+        85633789,
+        1159303349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2697940
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"5656230db81866b0e88750759d6c0bd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303349,
+            "localadmin_id":1125356145,
+            "locality_id":1276833585,
+            "region_id":85688439
+        }
+    ],
+    "wof:id":1276833585,
+    "wof:lastmodified":1536602593,
+    "wof:name":"Lagbo",
+    "wof:parent_id":1125356145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.98333,
+    60.05,
+    16.98333,
+    60.05
+],
+  "geometry": {"coordinates":[16.98333,60.05],"type":"Point"}
+}

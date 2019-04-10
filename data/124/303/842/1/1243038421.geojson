@@ -1,0 +1,75 @@
+{
+  "id": 1243038421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.26667,66.11667,23.26667,66.11667",
+    "geom:latitude":66.11667,
+    "geom:longitude":23.26667,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2518.0",
+    "gn:asciiname":"Kukasjarvi",
+    "gn:cc2":"SE",
+    "gn:country_code":"SE",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":604970,
+    "gn:latitude":66.11667,
+    "gn:longitude":23.26667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kukasj\u00e4rvi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kukkasj\u00e4rvi",
+        "Kukasj\u00e4rvi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688471,
+        102191581,
+        1159305909,
+        85633789,
+        1159303405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":604970
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"949480e242dfd14a95ad40ab19cb0b11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303405,
+            "localadmin_id":1159305909,
+            "locality_id":1243038421,
+            "region_id":85688471
+        }
+    ],
+    "wof:id":1243038421,
+    "wof:lastmodified":1537699722,
+    "wof:name":"Kukasjarvi",
+    "wof:parent_id":1159305909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.26667,
+    66.11667,
+    23.26667,
+    66.11667
+],
+  "geometry": {"coordinates":[23.26667,66.11667],"type":"Point"}
+}

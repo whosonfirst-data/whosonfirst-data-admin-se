@@ -1,0 +1,100 @@
+{
+  "id": 1125819659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.0,59.5,15.0,59.5",
+    "geom:latitude":59.5,
+    "geom:longitude":15.0,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"SE",
+    "lbl:latitude":59.5,
+    "lbl:longitude":15.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Pershyttan"
+    ],
+    "name:eng_x_preferred":[
+        "Pershyttan"
+    ],
+    "name:swe_x_preferred":[
+        "Pershyttan"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2684228,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Pershyttan",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"\u00d6rebro L\u00e4n",
+    "qs_pg:photos":135,
+    "qs_pg:photos_1k":27,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":135,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1167730,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":901804,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"\u00d6rebro L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688421,
+        102191581,
+        1125372581,
+        85633789,
+        1159303053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2684228,
+        "gp:id":901804,
+        "qs_pg:id":1167730,
+        "wd:id":"Q2213552"
+    },
+    "wof:country":"SE",
+    "wof:created":1497291992,
+    "wof:geomhash":"fb916dedbbaf9d53943e8ede7d5e8522",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303053,
+            "localadmin_id":1125372581,
+            "locality_id":1125819659,
+            "region_id":85688421
+        }
+    ],
+    "wof:id":1125819659,
+    "wof:lastmodified":1529703065,
+    "wof:name":"Pershyttan",
+    "wof:parent_id":1125372581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.0,
+    59.5,
+    15.0,
+    59.5
+],
+  "geometry": {"coordinates":[15.0,59.5],"type":"Point"}
+}

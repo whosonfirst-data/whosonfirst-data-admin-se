@@ -1,0 +1,70 @@
+{
+  "id": 1226503721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.2,58.55,14.2,58.55",
+    "geom:latitude":58.55,
+    "geom:longitude":14.2,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"1473.0",
+    "gn:asciiname":"Skogsbolet",
+    "gn:country_code":"SE",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2677424,
+    "gn:latitude":58.55,
+    "gn:longitude":14.2,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Skogsbolet",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688411,
+        102191581,
+        1159306287,
+        85633789,
+        1159303045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2677424
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"7839590721b5f7592fcc15260f9dd483",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303045,
+            "localadmin_id":1159306287,
+            "locality_id":1226503721,
+            "region_id":85688411
+        }
+    ],
+    "wof:id":1226503721,
+    "wof:lastmodified":1537056304,
+    "wof:name":"Skogsbolet",
+    "wof:parent_id":1159306287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.2,
+    58.55,
+    14.2,
+    58.55
+],
+  "geometry": {"coordinates":[14.2,58.55],"type":"Point"}
+}

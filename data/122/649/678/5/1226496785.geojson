@@ -1,0 +1,70 @@
+{
+  "id": 1226496785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.56667,59.35,18.56667,59.35",
+    "geom:latitude":59.35,
+    "geom:longitude":18.56667,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"120.0",
+    "gn:asciiname":"Valborgsudde",
+    "gn:country_code":"SE",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3221167,
+    "gn:latitude":59.35,
+    "gn:longitude":18.56667,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Valborgsudde",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688429,
+        102191581,
+        1125398113,
+        85633789,
+        1159303241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3221167
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"db28efb24c87bd32c345344b5d601410",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303241,
+            "localadmin_id":1125398113,
+            "locality_id":1226496785,
+            "region_id":85688429
+        }
+    ],
+    "wof:id":1226496785,
+    "wof:lastmodified":1537065839,
+    "wof:name":"Valborgsudde",
+    "wof:parent_id":1125398113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.56667,
+    59.35,
+    18.56667,
+    59.35
+],
+  "geometry": {"coordinates":[18.56667,59.35],"type":"Point"}
+}

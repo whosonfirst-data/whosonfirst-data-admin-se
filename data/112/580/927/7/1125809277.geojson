@@ -1,0 +1,122 @@
+{
+  "id": 1125809277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.82071,66.95927,19.82071,66.95927",
+    "geom:latitude":66.95927,
+    "geom:longitude":19.82071,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":317,
+    "gn:population":240,
+    "iso:country":"SE",
+    "lbl:latitude":66.95927,
+    "lbl:longitude":19.82071,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Porjus"
+    ],
+    "name:eng_x_preferred":[
+        "Porjus"
+    ],
+    "name:fre_x_preferred":[
+        "Porjus"
+    ],
+    "name:ger_x_preferred":[
+        "Porjus"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dd\u30ea\u30a6\u30b9"
+    ],
+    "name:nan_x_preferred":[
+        "Porjus"
+    ],
+    "name:nno_x_preferred":[
+        "Porjus"
+    ],
+    "name:nob_x_preferred":[
+        "Porjus"
+    ],
+    "name:swe_x_preferred":[
+        "Porjus"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2684034,
+    "qs_pg:gn_pop":317,
+    "qs_pg:name":"Porjus",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"Norrbottens L\u00e4n",
+    "qs_pg:photos":117,
+    "qs_pg:photos_1k":24,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":117,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":3736,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":901879,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"Norrbottens L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688471,
+        102191581,
+        1159305707,
+        85633789,
+        1159303505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2684034,
+        "gp:id":901879,
+        "qs_pg:id":3736,
+        "wd:id":"Q1018421"
+    },
+    "wof:country":"SE",
+    "wof:created":1497291589,
+    "wof:geomhash":"4541616b089b8c3401456d0e062ebee2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303505,
+            "localadmin_id":1159305707,
+            "locality_id":1125809277,
+            "region_id":85688471
+        }
+    ],
+    "wof:id":1125809277,
+    "wof:lastmodified":1553816549,
+    "wof:name":"Porjus",
+    "wof:parent_id":1159305707,
+    "wof:placetype":"locality",
+    "wof:population":240,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.82071,
+    66.95927,
+    19.82071,
+    66.95927
+],
+  "geometry": {"coordinates":[19.82071,66.95927],"type":"Point"}
+}

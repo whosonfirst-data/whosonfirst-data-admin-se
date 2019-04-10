@@ -1,0 +1,131 @@
+{
+  "id": 101817043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000214,
+    "geom:area_square_m":1402805.273412,
+    "geom:bbox":"11.740620106,58.0488333058,11.7593503165,58.068718874",
+    "geom:latitude":58.059882,
+    "geom:longitude":11.749474,
+    "gn:population":1270,
+    "iso:country":"SE",
+    "lbl:latitude":58.06054,
+    "lbl:longitude":11.748835,
+    "mps:latitude":58.06054,
+    "mps:longitude":11.748835,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Myggen\u00e4s"
+    ],
+    "name:eng_x_preferred":[
+        "Myggen\u00e4s"
+    ],
+    "name:fre_x_preferred":[
+        "Myggen\u00e4s"
+    ],
+    "name:nan_x_preferred":[
+        "Myggen\u00e4s"
+    ],
+    "name:nld_x_preferred":[
+        "Myggen\u00e4s"
+    ],
+    "name:nno_x_preferred":[
+        "Myggen\u00e4s"
+    ],
+    "name:nob_x_preferred":[
+        "Myggen\u00e4s"
+    ],
+    "name:nor_x_preferred":[
+        "Myggen\u00e4s"
+    ],
+    "name:sco_x_preferred":[
+        "Myggen\u00e4s"
+    ],
+    "name:swe_x_colloquial":[
+        "Myggenaes",
+        "Myggenas"
+    ],
+    "name:swe_x_preferred":[
+        "Myggen\u00e4s"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0627\u0626\u06cc \u06af\u06cc\u0646\u0627\u0633"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Myggen\u00e4s"
+    ],
+    "qs:a0":"Sverige",
+    "qs:a1":"*V\u00e4stra G\u00f6talands l\u00e4n",
+    "qs:a1r":"0",
+    "qs:adm0":"Sverige",
+    "qs:id":0,
+    "qs:la":"Tj\u00f6rn",
+    "qs:la_lc":"*SE1419",
+    "qs:level":"locality",
+    "qs:loc":"Myggen\u00e4s",
+    "qs:loc_alt":"Myggenas",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":46,
+    "wof:belongsto":[
+        85688411,
+        102191581,
+        1125270933,
+        85633789,
+        1159303425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06d2f818-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2690713,
+        "gp:id":898931,
+        "qs:id":1159250,
+        "qs_pg:id":1159250,
+        "wd:id":"Q2184908",
+        "wk:page":"Myggen\u00e4s"
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"429c96a6d4c4cde214ae8b7a6e824f50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303425,
+            "localadmin_id":1125270933,
+            "locality_id":101817043,
+            "region_id":85688411
+        }
+    ],
+    "wof:id":101817043,
+    "wof:lang":[
+        "swe"
+    ],
+    "wof:lastmodified":1529702221,
+    "wof:name":"Myggen\u00e4s",
+    "wof:parent_id":1125270933,
+    "wof:placetype":"locality",
+    "wof:population":1270,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.7406201059714,
+    58.04883330581072,
+    11.75935031645304,
+    58.06871887398682
+],
+  "geometry": {"coordinates":[[[11.74781531640815,58.06869687697815],[11.74777214617967,58.06779799149245],[11.75115469618669,58.06775393483599],[11.75111144500772,58.06685505082788],[11.756185130402,58.06678880802059],[11.75622850677013,58.06768769017293],[11.7579197731099,58.0676655660377],[11.7576593023831,58.0622722804876],[11.75935031645304,58.06225013878384],[11.75930687178334,58.06135125932923],[11.75423394893176,58.06141761872192],[11.75401738907334,58.05692321579721],[11.75232661947615,58.05694528993121],[11.75219683886303,58.05424864923344],[11.75388748336565,58.05422657695397],[11.75380089214275,58.05242881893724],[11.75718200860513,58.05238461300922],[11.75705189052491,58.0496879815139],[11.75367102417817,58.04973218372913],[11.75362773988735,58.04883330581072],[11.75024694921007,58.04887742167648],[11.75037655952474,58.05157405986375],[11.74699551106414,58.0516180943161],[11.74703863614616,58.05251697542928],[11.74534806735096,58.05253896135116],[11.74539115324745,58.05343784332234],[11.74370054084591,58.05345980857896],[11.74400192033704,58.05975199347762],[11.7406201059714,58.05979586874707],[11.74087802826119,58.06518918693786],[11.74256918670574,58.06516725626051],[11.74265526425171,58.06696502970846],[11.74434650423746,58.06694307651242],[11.74438958849487,58.06784196298645],[11.74608086829608,58.06781998788472],[11.74612399679188,58.06871887398682],[11.74781531640815,58.06869687697815]]],"type":"Polygon"}
+}

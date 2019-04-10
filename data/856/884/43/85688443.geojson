@@ -1,0 +1,72 @@
+{
+  "id": 85688443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-01-17",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000551,
+    "geom:area_square_m":3194531.031478,
+    "geom:bbox":"15.3641705,62.0085945,15.416655,62.031563",
+    "geom:latitude":62.019239,
+    "geom:longitude":15.387902,
+    "iso:country":"SE",
+    "lbl:latitude":62.019894,
+    "lbl:longitude":15.387902,
+    "mps:latitude":62.019894,
+    "mps:longitude":15.387902,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":6.7,
+    "qs:a0":"Sverige",
+    "qs:a0_lc":"SE0000",
+    "qs:a1":"J\u00e4mtlands l\u00e4n",
+    "qs:a1_alt":"Jamtlands lan",
+    "qs:a1_lc":"SE2300",
+    "qs:adm0":"Sweden",
+    "qs:adm0_a3":"SWE",
+    "qs:level":"adm1",
+    "qs:source":"EuroGlobalMap",
+    "qs:type":"L\u00e4n",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":9563,
+    "wof:belongsto":[
+        102191581,
+        85633789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q211661"
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"dd09abaf2b4e79be423e0fb79a14ae7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "region_id":85688443
+        }
+    ],
+    "wof:id":85688443,
+    "wof:lastmodified":1529540802,
+    "wof:name":"J\u00e4mtland",
+    "wof:parent_id":85633789,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[
+        85688461
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.36417049999977,
+    62.00859449999982,
+    15.41665499999979,
+    62.03156299999984
+],
+  "geometry": {"coordinates":[[[15.39762949999979,62.00859449999982],[15.36698049999978,62.01980599999981],[15.36417049999977,62.02525349999981],[15.38127349999979,62.03156299999984],[15.41665499999979,62.01060499999983],[15.39762949999979,62.00859449999982]]],"type":"Polygon"}
+}

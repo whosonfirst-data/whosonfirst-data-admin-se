@@ -1,0 +1,93 @@
+{
+  "id": 1125952935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.96667,57.23333,16.96667,57.23333",
+    "geom:latitude":57.23333,
+    "geom:longitude":16.96667,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"SE",
+    "lbl:latitude":57.23333,
+    "lbl:longitude":16.96667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Byerum"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2718476,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Byrum",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"Kalmar L\u00e4n",
+    "qs_pg:photos":220,
+    "qs_pg:photos_1k":45,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":220,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":185643,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":888097,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"Kalmar L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688401,
+        102191581,
+        1125371415,
+        85633789,
+        1159303363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2718476,
+        "gp:id":888097,
+        "qs_pg:id":185643
+    },
+    "wof:country":"SE",
+    "wof:created":1497297524,
+    "wof:geomhash":"5e1c382c9efab4e9ca19b9dbc1fd095e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303363,
+            "localadmin_id":1125371415,
+            "locality_id":1125952935,
+            "region_id":85688401
+        }
+    ],
+    "wof:id":1125952935,
+    "wof:lastmodified":1554166250,
+    "wof:name":"Byrum",
+    "wof:parent_id":1125371415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.96667,
+    57.23333,
+    16.96667,
+    57.23333
+],
+  "geometry": {"coordinates":[16.96667,57.23333],"type":"Point"}
+}

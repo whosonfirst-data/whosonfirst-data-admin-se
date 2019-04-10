@@ -1,0 +1,142 @@
+{
+  "id": 85902173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":34176328.036169,
+    "geom:bbox":"12.294214,58.286701,12.294214,58.286701",
+    "geom:latitude":58.286701,
+    "geom:longitude":12.294214,
+    "gn:latitude":58.3,
+    "gn:longitude":12.3,
+    "iso:country":"SE",
+    "lbl:latitude":58.286701,
+    "lbl:longitude":12.294214,
+    "mps:latitude":58.294728,
+    "mps:longitude":12.300045,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":1,
+    "name:bel_x_variant":[
+        "\u0422\u0440\u0430\u043b\u044c\u0433\u044d\u0442\u0430\u043d"
+    ],
+    "name:bul_x_preferred":[
+        "\u0422\u0440\u043e\u043b\u0445\u0435\u0442\u0430\u043d"
+    ],
+    "name:dan_x_preferred":[
+        "Trollh\u00e4ttans kommun"
+    ],
+    "name:deu_x_preferred":[
+        "Trollh\u00e4ttan"
+    ],
+    "name:eus_x_preferred":[
+        "Trollh\u00e4ttan udalerria"
+    ],
+    "name:fao_x_preferred":[
+        "Trollh\u00e4ttans kommuna"
+    ],
+    "name:fin_x_preferred":[
+        "Trollh\u00e4ttanin kunta"
+    ],
+    "name:fra_x_preferred":[
+        "Trollh\u00e4ttan"
+    ],
+    "name:hun_x_preferred":[
+        "Trollh\u00e4ttan k\u00f6zs\u00e9g"
+    ],
+    "name:ita_x_preferred":[
+        "Trollh\u00e4ttan"
+    ],
+    "name:swe_x_preferred":[
+        "Hjulkvarn"
+    ],
+    "name:unk_x_variant":[
+        "Hjulkvarn"
+    ],
+    "qs:gn_adm0_cc":"SE",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2667303,
+    "qs:gn_nam_loc":"Trollh\u00e4ttan, Trollh\u00e4ttan, V\u00e4stra G\u00f6talands L\u00e4n, SE",
+    "qs:gn_namadm1":"28",
+    "qs:gn_name":"Hjulkvarn",
+    "qs:local_max":1103,
+    "qs:local_sum":1103,
+    "qs:localhoods":1,
+    "qs:name":"Hjulkvarn",
+    "qs:name_adm0":"Sverige",
+    "qs:name_adm1":"V\u00e4stra G\u00f6talands L\u00e4n",
+    "qs:name_adm2":"Trollh\u00e4ttan",
+    "qs:name_local":"Trollh\u00e4ttan",
+    "qs:photo_max":79,
+    "qs:photo_sum":1103,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":117,
+    "qs:woe_adm0":23424954,
+    "qs:woe_adm1":20070562,
+    "qs:woe_adm2":12587214,
+    "qs:woe_lau":0,
+    "qs:woe_local":908107,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85688411,
+        102191581,
+        1125340355,
+        85633789,
+        101847325,
+        1159303541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2706115,
+        "gp:id":893102,
+        "qs:id":1080955,
+        "qs_pg:id":1080955
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"ae8972dc395a0cd3782c79db91809d5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303541,
+            "localadmin_id":1125340355,
+            "locality_id":101847325,
+            "neighbourhood_id":85902173,
+            "region_id":85688411
+        }
+    ],
+    "wof:id":85902173,
+    "wof:lang":[
+        "swe"
+    ],
+    "wof:lastmodified":1531935864,
+    "wof:name":"Hjulkvarn",
+    "wof:parent_id":101847325,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.294214,
+    58.286701,
+    12.294214,
+    58.286701
+],
+  "geometry": {"coordinates":[12.294214,58.286701],"type":"Point"}
+}

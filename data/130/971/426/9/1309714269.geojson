@@ -1,0 +1,75 @@
+{
+  "id": 1309714269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.68333,56.05,14.68333,56.05",
+    "geom:latitude":56.05,
+    "geom:longitude":14.68333,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"1083.0",
+    "gn:asciiname":"Mjaellby",
+    "gn:country_code":"SE",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2691793,
+    "gn:latitude":56.05,
+    "gn:longitude":14.68333,
+    "gn:modification_date":"2017-03-18",
+    "gn:name":"Mj\u00e4llby",
+    "gn:population":1319,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mj\u00e4llby"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688383,
+        1125373105,
+        1159303089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2691793,
+        "wk:page":"Mj%C3%A4llby"
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"bc45f239f4fbbc916d56eac4f29a6a7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "county_id":1159303089,
+            "localadmin_id":1125373105,
+            "locality_id":1309714269,
+            "region_id":85688383
+        }
+    ],
+    "wof:id":1309714269,
+    "wof:lastmodified":1537699959,
+    "wof:name":"Mjaellby",
+    "wof:parent_id":1125373105,
+    "wof:placetype":"locality",
+    "wof:population":1319,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.68333,
+    56.05,
+    14.68333,
+    56.05
+],
+  "geometry": {"coordinates":[14.68333,56.05],"type":"Point"}
+}

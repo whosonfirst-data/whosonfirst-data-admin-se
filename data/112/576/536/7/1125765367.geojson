@@ -1,0 +1,128 @@
+{
+  "id": 1125765367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.46667,60.85,16.46667,60.85",
+    "geom:latitude":60.85,
+    "geom:longitude":16.46667,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":243,
+    "gn:population":243,
+    "iso:country":"SE",
+    "lbl:latitude":60.85,
+    "lbl:longitude":16.46667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dan_x_preferred":[
+        "J\u00e4dra\u00e5s"
+    ],
+    "name:dut_x_preferred":[
+        "J\u00e4dra\u00e5s"
+    ],
+    "name:eng_x_preferred":[
+        "J\u00e4dra\u00e5s"
+    ],
+    "name:fre_x_preferred":[
+        "J\u00e4dra\u00e5s"
+    ],
+    "name:ger_x_preferred":[
+        "J\u00e4dra\u00e5s"
+    ],
+    "name:nan_x_preferred":[
+        "J\u00e4dra\u00e5s"
+    ],
+    "name:nds_x_preferred":[
+        "J\u00e4dra\u00e5s"
+    ],
+    "name:nno_x_preferred":[
+        "J\u00e4dra\u00e5s"
+    ],
+    "name:nob_x_preferred":[
+        "J\u00e4dra\u00e5s"
+    ],
+    "name:swe_x_preferred":[
+        "J\u00e4dra\u00e5s"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0627\u0688\u0631\u0627\u0648\u0633"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2703419,
+    "qs_pg:gn_pop":243,
+    "qs_pg:name":"J\u00e4dra\u00e5s",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"G\u00e4vleborgs L\u00e4n",
+    "qs_pg:photos":143,
+    "qs_pg:photos_1k":29,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":143,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1332338,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":894262,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"G\u00e4vleborgs L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688453,
+        102191581,
+        1125382057,
+        85633789,
+        1159303283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2703419,
+        "gp:id":894262,
+        "qs_pg:id":1332338,
+        "wd:id":"Q3352838"
+    },
+    "wof:country":"SE",
+    "wof:created":1497289871,
+    "wof:geomhash":"f231f4f496086aba37eb9b6cab22e763",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303283,
+            "localadmin_id":1125382057,
+            "locality_id":1125765367,
+            "region_id":85688453
+        }
+    ],
+    "wof:id":1125765367,
+    "wof:lastmodified":1529702065,
+    "wof:name":"J\u00e4dra\u00e5s",
+    "wof:parent_id":1125382057,
+    "wof:placetype":"locality",
+    "wof:population":243,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.46667,
+    60.85,
+    16.46667,
+    60.85
+],
+  "geometry": {"coordinates":[16.46667,60.85],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1343740591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.25,60.15,16.25,60.15",
+    "geom:latitude":60.15,
+    "geom:longitude":16.25,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2084.0",
+    "gn:asciiname":"Ovanaker",
+    "gn:cc2":"SE",
+    "gn:country_code":"SE",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2685095,
+    "gn:latitude":60.15,
+    "gn:longitude":16.25,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ovan\u00e5ker",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ofvan\u00e5ker",
+        "Ovan\u00e5ker"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688447,
+        102191581,
+        1159306347,
+        85633789,
+        1159303263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2685095
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"9c6752a37322ca1e472f0d41f81dfce9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303263,
+            "localadmin_id":1159306347,
+            "locality_id":1343740591,
+            "region_id":85688447
+        }
+    ],
+    "wof:id":1343740591,
+    "wof:lastmodified":1537699887,
+    "wof:name":"Ovanaker",
+    "wof:parent_id":1159306347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.25,
+    60.15,
+    16.25,
+    60.15
+],
+  "geometry": {"coordinates":[16.25,60.15],"type":"Point"}
+}

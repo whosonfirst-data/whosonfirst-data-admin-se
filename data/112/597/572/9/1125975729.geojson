@@ -1,0 +1,112 @@
+{
+  "id": 1125975729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.25,59.21667,15.25,59.21667",
+    "geom:latitude":59.21667,
+    "geom:longitude":15.25,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":531,
+    "gn:population":880,
+    "iso:country":"SE",
+    "lbl:latitude":59.21667,
+    "lbl:longitude":15.25,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Norra Bro"
+    ],
+    "name:eng_x_preferred":[
+        "Norra Bro"
+    ],
+    "name:nan_x_preferred":[
+        "Norra Bro"
+    ],
+    "name:nno_x_preferred":[
+        "Norra Bro"
+    ],
+    "name:nob_x_preferred":[
+        "Norra Bro"
+    ],
+    "name:swe_x_preferred":[
+        "Norra Bro"
+    ],
+    "name:unk_x_variant":[
+        "Nedre Bro"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2689135,
+    "qs_pg:gn_pop":531,
+    "qs_pg:name":"Norra Bro",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"\u00d6rebro L\u00e4n",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":418374,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":899630,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"\u00d6rebro L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688421,
+        102191581,
+        1125372571,
+        85633789,
+        1159303031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2689135,
+        "gp:id":899630,
+        "qs_pg:id":418374,
+        "wd:id":"Q3352783"
+    },
+    "wof:country":"SE",
+    "wof:created":1497298342,
+    "wof:geomhash":"cc4653e199115eb16061f3b134327760",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303031,
+            "localadmin_id":1125372571,
+            "locality_id":1125975729,
+            "region_id":85688421
+        }
+    ],
+    "wof:id":1125975729,
+    "wof:lastmodified":1529703063,
+    "wof:name":"Norra Bro",
+    "wof:parent_id":1125372571,
+    "wof:placetype":"locality",
+    "wof:population":880,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.25,
+    59.21667,
+    15.25,
+    59.21667
+],
+  "geometry": {"coordinates":[15.25,59.21667],"type":"Point"}
+}

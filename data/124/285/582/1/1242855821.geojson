@@ -1,0 +1,79 @@
+{
+  "id": 1242855821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.66667,58.2,14.66667,58.2",
+    "geom:latitude":58.2,
+    "geom:longitude":14.66667,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"509.0",
+    "gn:asciiname":"Visjo",
+    "gn:country_code":"SE",
+    "gn:dem":166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2662677,
+    "gn:latitude":58.2,
+    "gn:longitude":14.66667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Visj\u00f6",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Visj\u00f6"
+    ],
+    "name:nor_x_variant":[
+        "Visj\u00f8"
+    ],
+    "name:und_x_variant":[
+        "Visj\u00f6"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688409,
+        102191581,
+        1125345367,
+        85633789,
+        1159303179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2662677
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"4766cbae89bff40aa6dc213431462269",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303179,
+            "localadmin_id":1125345367,
+            "locality_id":1242855821,
+            "region_id":85688409
+        }
+    ],
+    "wof:id":1242855821,
+    "wof:lastmodified":1537699746,
+    "wof:name":"Visjo",
+    "wof:parent_id":1125345367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.66667,
+    58.2,
+    14.66667,
+    58.2
+],
+  "geometry": {"coordinates":[14.66667,58.2],"type":"Point"}
+}

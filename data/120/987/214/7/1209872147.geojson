@@ -1,0 +1,79 @@
+{
+  "id": 1209872147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.5,65.01667,19.5,65.01667",
+    "geom:latitude":65.01667,
+    "geom:longitude":19.5,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"2417.0",
+    "gn:asciiname":"Ostra Hogkulla",
+    "gn:country_code":"SE",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2685497,
+    "gn:latitude":65.01667,
+    "gn:longitude":19.5,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"\u00d6stra H\u00f6gkulla",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "\u00d6stra H\u00f6gkulla"
+    ],
+    "name:nor_x_variant":[
+        "\u00d8stra H\u00f8gkulla"
+    ],
+    "name:und_x_variant":[
+        "\u00d6stra H\u00f6gkulla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688465,
+        102191581,
+        1125363687,
+        85633789,
+        1159303021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2685497
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"e8226621acaedf481f8b2689f7d9245c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303021,
+            "localadmin_id":1125363687,
+            "locality_id":1209872147,
+            "region_id":85688465
+        }
+    ],
+    "wof:id":1209872147,
+    "wof:lastmodified":1537699894,
+    "wof:name":"Ostra Hogkulla",
+    "wof:parent_id":1125363687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.5,
+    65.01666999999999,
+    19.5,
+    65.01666999999999
+],
+  "geometry": {"coordinates":[19.5,65.01666999999999],"type":"Point"}
+}

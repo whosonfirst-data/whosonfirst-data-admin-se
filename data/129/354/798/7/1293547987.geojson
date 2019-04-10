@@ -1,0 +1,70 @@
+{
+  "id": 1293547987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.5,59.7,17.5,59.7",
+    "geom:latitude":59.7,
+    "geom:longitude":17.5,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"381.0",
+    "gn:asciiname":"Friberg",
+    "gn:country_code":"SE",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2713731,
+    "gn:latitude":59.7,
+    "gn:longitude":17.5,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Friberg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688439,
+        102191581,
+        1125325943,
+        85633789,
+        1159303337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2713731
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"a63019415fa293fa86c935d45acd9518",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303337,
+            "localadmin_id":1125325943,
+            "locality_id":1293547987,
+            "region_id":85688439
+        }
+    ],
+    "wof:id":1293547987,
+    "wof:lastmodified":1536700314,
+    "wof:name":"Friberg",
+    "wof:parent_id":1125325943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.5,
+    59.7,
+    17.5,
+    59.7
+],
+  "geometry": {"coordinates":[17.5,59.7],"type":"Point"}
+}

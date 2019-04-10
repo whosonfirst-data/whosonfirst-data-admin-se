@@ -1,0 +1,116 @@
+{
+  "id": 85905499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00007,
+    "geom:area_square_m":459795.758631,
+    "geom:bbox":"11.9393920898,57.6821284195,11.955871582,57.6894695158",
+    "geom:latitude":57.686262,
+    "geom:longitude":11.945452,
+    "gn:id":"",
+    "iso:country":"SE",
+    "lbl:latitude":57.6871,
+    "lbl:longitude":11.940127,
+    "mps:latitude":57.686533,
+    "mps:longitude":11.942831,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":1,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:note":"hill",
+    "mz:tier_locality":4,
+    "mz:tier_metro":30,
+    "name:fra_x_preferred":[
+        "Slottsskogen"
+    ],
+    "name:por_x_preferred":[
+        "Slottsskogen"
+    ],
+    "name:swe_x_preferred":[
+        "Slottsskogen"
+    ],
+    "name:unk_x_variant":[
+        "Slottsskogen"
+    ],
+    "qs:gn_adm0_cc":"SE",
+    "qs:gn_id":0,
+    "qs:gn_local":2711537,
+    "qs:gn_nam_loc":"G\u00f6teborg, G\u00f6teborg, V\u00e4stra G\u00f6talands L\u00e4n, SE",
+    "qs:gn_namadm1":"28",
+    "qs:local_max":7780,
+    "qs:local_sum":88702,
+    "qs:localhoods":78,
+    "qs:name":"Slottsskogen",
+    "qs:name_adm0":"Sverige",
+    "qs:name_adm1":"V\u00e4stra G\u00f6talands L\u00e4n",
+    "qs:name_adm2":"G\u00f6teborg",
+    "qs:name_local":"G\u00f6teborg",
+    "qs:photo_max":473,
+    "qs:photo_sum":2278,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":21,
+    "qs:woe_adm0":23424954,
+    "qs:woe_adm1":20070562,
+    "qs:woe_adm2":12587233,
+    "qs:woe_lau":0,
+    "qs:woe_local":890869,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        85688411,
+        102191581,
+        1125287157,
+        85633789,
+        101752295,
+        1159302989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20151653,
+        "qs:id":1091098,
+        "qs_pg:id":1091098
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"ff94dbf570a1c614fb73385efbc00bfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302989,
+            "localadmin_id":1125287157,
+            "locality_id":101752295,
+            "neighbourhood_id":85905499,
+            "region_id":85688411
+        }
+    ],
+    "wof:id":85905499,
+    "wof:lang":[
+        "swe"
+    ],
+    "wof:lastmodified":1529702310,
+    "wof:name":"Slottsskogen",
+    "wof:parent_id":101752295,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.93939208981391,
+    57.68212841950013,
+    11.95587158201664,
+    57.68946951580007
+],
+  "geometry": {"coordinates":[[[11.94488525390005,57.68946951580007],[11.94488525390005,57.68873547143822],[11.9462585449001,57.6887354713876],[11.9462585449001,57.68803198586131],[11.94630756557694,57.68800141680008],[11.94763183591476,57.68800141462724],[11.94900512698348,57.68800141431684],[11.95037841800001,57.68800141151054],[11.95081983449455,57.68800141060861],[11.953125,57.68800140888037],[11.95587158201391,57.68800140937527],[11.95587158201664,57.6865332517779],[11.953125,57.68653325012234],[11.953125,57.68506503474303],[11.95037841798182,57.68506503248021],[11.94763183591351,57.68506503173769],[11.94763183591903,57.6835967573336],[11.94488525390017,57.68359675506697],[11.9421386718866,57.68359675432329],[11.9421386718812,57.68212842044294],[11.93939208981675,57.68212841950013],[11.93939208981664,57.68359675556285],[11.93939208981664,57.6850650329752],[11.93939208981664,57.68653325095012],[11.93939208981664,57.68800140937527],[11.93939208981391,57.68946950836282],[11.94213867188182,57.68946950786695],[11.94444384714484,57.68946951202831],[11.94488525390005,57.68946951580007]]],"type":"Polygon"}
+}

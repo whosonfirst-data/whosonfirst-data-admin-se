@@ -1,0 +1,110 @@
+{
+  "id": 85902163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000082,
+    "geom:area_square_m":519520.201817,
+    "geom:bbox":"18.1320695546,59.3538989786,18.1439208984,59.3644190879",
+    "geom:latitude":59.359351,
+    "geom:longitude":18.137781,
+    "iso:country":"SE",
+    "lbl:latitude":59.359111,
+    "lbl:longitude":18.125904,
+    "mps:latitude":59.35934,
+    "mps:longitude":18.13826,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":1,
+    "name:swe_x_colloquial":[
+        "Haerserud",
+        "Harserud"
+    ],
+    "name:swe_x_preferred":[
+        "Herserud"
+    ],
+    "name:swe_x_variant":[
+        "H\u00e4rserud"
+    ],
+    "name:unk_x_variant":[
+        "Herserud"
+    ],
+    "qs:gn_adm0_cc":"SE",
+    "qs:gn_id":0,
+    "qs:gn_local":2673730,
+    "qs:id":0,
+    "qs:local_max":47943,
+    "qs:local_sum":372692,
+    "qs:localhoods":300,
+    "qs:name":"Herserud",
+    "qs:name_adm0":"Sverige",
+    "qs:name_adm1":"Stockholms L\u00e4n",
+    "qs:name_adm2":"Liding\u00f6",
+    "qs:name_local":"Stockholm",
+    "qs:photo_max":50,
+    "qs:photo_sum":110,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":9,
+    "qs:woe_adm0":23424954,
+    "qs:woe_adm1":2347067,
+    "qs:woe_adm2":12587468,
+    "qs:woe_lau":0,
+    "qs:woe_local":906057,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        85688429,
+        102191581,
+        1125394719,
+        85633789,
+        101839523,
+        1159303469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":892917
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"a43bd75394ecf37853adb6356c6fad97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303469,
+            "localadmin_id":1125394719,
+            "locality_id":101839523,
+            "neighbourhood_id":85902163,
+            "region_id":85688429
+        }
+    ],
+    "wof:id":85902163,
+    "wof:lang":[
+        "swe"
+    ],
+    "wof:lastmodified":1529702781,
+    "wof:name":"Herserud",
+    "wof:parent_id":101839523,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.13206955456712,
+    59.35389897862241,
+    18.14392089842505,
+    59.36441908785257
+],
+  "geometry": {"coordinates":[[[18.13884890950339,59.36316823689792],[18.14119498311265,59.36119518245017],[18.14249428984232,59.36119518245017],[18.14392089842505,59.35979557310016],[18.14392089841414,59.35839590600007],[18.14392089840834,59.35559611000006],[18.1439208984209,59.35559605225042],[18.13929276479183,59.35559605225042],[18.13842773437511,59.35389897862241],[18.13583255478505,59.35559611000006],[18.13568115230009,59.35559611000006],[18.13568115231459,59.35569512043706],[18.13568115231368,59.3569960284709],[18.13230738396197,59.35699602244993],[18.13206955456712,59.35839584827524],[18.13206957663544,59.35839589157543],[18.13230737415523,59.35979570297512],[18.13206958399132,59.36119541337514],[18.13206961340876,59.36119547110009],[18.13270703391572,59.36244626252476],[18.13293457030005,59.36259509490016],[18.13293457030005,59.36399480530009],[18.13552948504287,59.36399480530009],[18.13568115230009,59.36409401345351],[18.13617811893835,59.36441908785257],[18.1372591487044,59.36399480530018],[18.13842773440007,59.36399480530009],[18.13842773440018,59.36353615879726],[18.13871984550951,59.36342151103177],[18.13884890950339,59.36316823689792]]],"type":"Polygon"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1125326507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-05-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.50812,56.30956,16.50812,56.30956",
+    "geom:latitude":56.30956,
+    "geom:longitude":16.50812,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1050,
+    "gn:population":1050,
+    "iso:country":"SE",
+    "lbl:latitude":56.30956,
+    "lbl:longitude":16.50812,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8131707,
+    "qs_pg:gn_pop":1050,
+    "qs_pg:name":"Syd\u00f6land",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":757668,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633789,
+        85688401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8131707,
+        "qs_pg:id":757668
+    },
+    "wof:country":"SE",
+    "wof:created":1497044847,
+    "wof:geomhash":"d845672a1926c3ae64a7dccda328242f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "localadmin_id":1125326507,
+            "region_id":85688401
+        }
+    ],
+    "wof:id":1125326507,
+    "wof:lastmodified":1525735523,
+    "wof:name":"Syd\u00f6land",
+    "wof:parent_id":85688401,
+    "wof:placetype":"localadmin",
+    "wof:population":1050,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.50812,
+    56.30956,
+    16.50812,
+    56.30956
+],
+  "geometry": {"coordinates":[16.50812,56.30956],"type":"Point"}
+}

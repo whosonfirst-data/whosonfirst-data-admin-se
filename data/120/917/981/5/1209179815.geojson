@@ -1,0 +1,62 @@
+{
+  "id": 1209179815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.93333,59.38333,16.93333,59.38333",
+    "geom:latitude":59.38333,
+    "geom:longitude":16.93333,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"486.0",
+    "gn:asciiname":"Kinger",
+    "gn:country_code":"SE",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2700842,
+    "gn:latitude":59.38333,
+    "gn:longitude":16.93333,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Kinger",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2700842
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"58272260d6bcb01429e136d5f220d0ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633789,
+            "locality_id":1209179815
+        }
+    ],
+    "wof:id":1209179815,
+    "wof:lastmodified":1536295297,
+    "wof:name":"Kinger",
+    "wof:parent_id":85633789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.933329999999998,
+    59.38333000000001,
+    16.933329999999998,
+    59.38333000000001
+],
+  "geometry": {"coordinates":[16.93333,59.38333000000001],"type":"Point"}
+}

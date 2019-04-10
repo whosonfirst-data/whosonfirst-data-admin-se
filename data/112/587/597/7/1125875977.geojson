@@ -1,0 +1,119 @@
+{
+  "id": 1125875977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.23333,60.38333,15.23333,60.38333",
+    "geom:latitude":60.38333,
+    "geom:longitude":15.23333,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":321,
+    "gn:population":252,
+    "iso:country":"SE",
+    "lbl:latitude":60.38333,
+    "lbl:longitude":15.23333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0418\u0434\u043a\u0435\u0440\u0431\u0435\u0440\u0433\u0435\u0442"
+    ],
+    "name:dut_x_preferred":[
+        "Idkerberget"
+    ],
+    "name:eng_x_preferred":[
+        "Idkerberget"
+    ],
+    "name:fre_x_preferred":[
+        "Idkerberget"
+    ],
+    "name:nan_x_preferred":[
+        "Idkerberget"
+    ],
+    "name:nno_x_preferred":[
+        "Idkerberget"
+    ],
+    "name:nob_x_preferred":[
+        "Idkerberget"
+    ],
+    "name:swe_x_preferred":[
+        "Idkerberget"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2703891,
+    "qs_pg:gn_pop":321,
+    "qs_pg:name":"Idkerberget",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"Dalarnas L\u00e4n",
+    "qs_pg:photos":4,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":4,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":43523,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":894058,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"Dalarnas L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688447,
+        102191581,
+        1125277915,
+        85633789,
+        1159302993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2703891,
+        "gp:id":894058,
+        "qs_pg:id":43523,
+        "wd:id":"Q2055531"
+    },
+    "wof:country":"SE",
+    "wof:created":1497294541,
+    "wof:geomhash":"859479e49b925a487cc3d3ffb44b2b38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302993,
+            "localadmin_id":1125277915,
+            "locality_id":1125875977,
+            "region_id":85688447
+        }
+    ],
+    "wof:id":1125875977,
+    "wof:lastmodified":1529702008,
+    "wof:name":"Idkerberget",
+    "wof:parent_id":1125277915,
+    "wof:placetype":"locality",
+    "wof:population":252,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.23333,
+    60.38333,
+    15.23333,
+    60.38333
+],
+  "geometry": {"coordinates":[15.23333,60.38333],"type":"Point"}
+}

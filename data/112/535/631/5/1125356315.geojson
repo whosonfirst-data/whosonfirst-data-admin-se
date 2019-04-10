@@ -1,0 +1,77 @@
+{
+  "id": 1125356315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-05-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.47439,58.52837,16.47439,58.52837",
+    "geom:latitude":58.52837,
+    "geom:longitude":16.47439,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":3524,
+    "gn:population":3524,
+    "iso:country":"SE",
+    "lbl:latitude":58.52837,
+    "lbl:longitude":16.47439,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8132393,
+    "qs_pg:gn_pop":3524,
+    "qs_pg:name":"V\u00e4stra Vikbolandet",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":758114,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633789,
+        85688409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8132393,
+        "qs_pg:id":758114
+    },
+    "wof:country":"SE",
+    "wof:created":1497046490,
+    "wof:geomhash":"2cbe7000db9ad405d4e7497a117abd59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "localadmin_id":1125356315,
+            "region_id":85688409
+        }
+    ],
+    "wof:id":1125356315,
+    "wof:lastmodified":1525735522,
+    "wof:name":"V\u00e4stra Vikbolandet",
+    "wof:parent_id":85688409,
+    "wof:placetype":"localadmin",
+    "wof:population":3524,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.47439,
+    58.52837,
+    16.47439,
+    58.52837
+],
+  "geometry": {"coordinates":[16.47439,58.52837],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1242624877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.08333,55.6,14.08333,55.6",
+    "geom:latitude":55.6,
+    "geom:longitude":14.08333,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"1270.0",
+    "gn:asciiname":"Snogge",
+    "gn:country_code":"SE",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2676360,
+    "gn:latitude":55.6,
+    "gn:longitude":14.08333,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Snogge",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688377,
+        102191581,
+        1159306679,
+        85633789,
+        1159302959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2676360
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"38cbfe0f93138d3577c9923b14441630",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302959,
+            "localadmin_id":1159306679,
+            "locality_id":1242624877,
+            "region_id":85688377
+        }
+    ],
+    "wof:id":1242624877,
+    "wof:lastmodified":1536994935,
+    "wof:name":"Snogge",
+    "wof:parent_id":1159306679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.08333,
+    55.6,
+    14.08333,
+    55.6
+],
+  "geometry": {"coordinates":[14.08333,55.6],"type":"Point"}
+}

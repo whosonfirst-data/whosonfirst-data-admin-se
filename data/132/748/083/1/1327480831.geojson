@@ -1,0 +1,79 @@
+{
+  "id": 1327480831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.74893,58.0314,11.74893,58.0314",
+    "geom:latitude":58.0314,
+    "geom:longitude":11.74893,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"1419.0",
+    "gn:asciiname":"Tangerod",
+    "gn:country_code":"SE",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2669480,
+    "gn:latitude":58.0314,
+    "gn:longitude":11.74893,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"T\u00e5nger\u00f6d",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "T\u00e5nger\u00f6d"
+    ],
+    "name:nor_x_variant":[
+        "T\u00e5nger\u00f8d"
+    ],
+    "name:und_x_variant":[
+        "T\u00e5nger\u00f6d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688411,
+        102191581,
+        1125270933,
+        85633789,
+        1159303425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2669480
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"46ba723a819380f90d8035d49672336f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303425,
+            "localadmin_id":1125270933,
+            "locality_id":1327480831,
+            "region_id":85688411
+        }
+    ],
+    "wof:id":1327480831,
+    "wof:lastmodified":1537699779,
+    "wof:name":"Tangerod",
+    "wof:parent_id":1125270933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.74893,
+    58.0314,
+    11.74893,
+    58.0314
+],
+  "geometry": {"coordinates":[11.74893,58.0314],"type":"Point"}
+}

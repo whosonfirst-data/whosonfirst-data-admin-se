@@ -1,0 +1,72 @@
+{
+  "id": 1276962933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.53982,56.69569,15.53982,56.69569",
+    "geom:latitude":56.69569,
+    "geom:longitude":15.53982,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"862.0",
+    "gn:asciiname":"Johansfors",
+    "gn:country_code":"SE",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2703001,
+    "gn:latitude":56.69569,
+    "gn:longitude":15.53982,
+    "gn:modification_date":"2017-03-18",
+    "gn:name":"Johansfors",
+    "gn:population":412,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688401,
+        1125362499,
+        1159303533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2703001,
+        "wk:page":"Johansfors"
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"91768ad34a3c29c1325837ac6c09844b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "county_id":1159303533,
+            "localadmin_id":1125362499,
+            "locality_id":1276962933,
+            "region_id":85688401
+        }
+    ],
+    "wof:id":1276962933,
+    "wof:lastmodified":1537573357,
+    "wof:name":"Johansfors",
+    "wof:parent_id":1125362499,
+    "wof:placetype":"locality",
+    "wof:population":412,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.53982,
+    56.69569,
+    15.53982,
+    56.69569
+],
+  "geometry": {"coordinates":[15.53982,56.69569],"type":"Point"}
+}

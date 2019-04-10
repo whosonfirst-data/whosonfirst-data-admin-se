@@ -1,0 +1,109 @@
+{
+  "id": 1125773287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.0,56.98333,14.0,56.98333",
+    "geom:latitude":56.98333,
+    "geom:longitude":14.0,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"SE",
+    "lbl:latitude":56.98333,
+    "lbl:longitude":14.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "D\u00f6rarp"
+    ],
+    "name:eng_x_preferred":[
+        "D\u00f6rarp"
+    ],
+    "name:hun_x_preferred":[
+        "D\u00f6rarp"
+    ],
+    "name:nor_x_preferred":[
+        "D\u00f8rarp"
+    ],
+    "name:nor_x_variant":[
+        "D\u00f6rarp"
+    ],
+    "name:swe_x_preferred":[
+        "D\u00f6rarp"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2717410,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"D\u00f6rarp",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"Kronobergs L\u00e4n",
+    "qs_pg:photos":114,
+    "qs_pg:photos_1k":23,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":114,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1159204,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":888464,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"Kronobergs L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688387,
+        102191581,
+        1125368827,
+        85633789,
+        1159303441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2717410,
+        "gp:id":888464,
+        "qs_pg:id":1159204,
+        "wd:id":"Q2033795"
+    },
+    "wof:country":"SE",
+    "wof:created":1497290147,
+    "wof:geomhash":"ceb7542b6a1d08086162952530f696f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303441,
+            "localadmin_id":1125368827,
+            "locality_id":1125773287,
+            "region_id":85688387
+        }
+    ],
+    "wof:id":1125773287,
+    "wof:lastmodified":1529702538,
+    "wof:name":"D\u00f6rarp",
+    "wof:parent_id":1125368827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.0,
+    56.98333,
+    14.0,
+    56.98333
+],
+  "geometry": {"coordinates":[14.0,56.98333],"type":"Point"}
+}

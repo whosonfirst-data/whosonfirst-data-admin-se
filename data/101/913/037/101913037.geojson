@@ -1,0 +1,77 @@
+{
+  "id": 101913037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000043,
+    "geom:bbox":"12.7698912726,59.279957507,12.780512465,59.2854204492",
+    "geom:latitude":59.283066,
+    "geom:longitude":12.774486,
+    "iso:country":"SE",
+    "lbl:latitude":59.283086,
+    "lbl:longitude":12.774486,
+    "mps:latitude":59.283086,
+    "mps:longitude":12.774486,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Sverige",
+    "qs:a1":"*V\u00e4rmlands l\u00e4n",
+    "qs:a1r":"4",
+    "qs:adm0":"Sverige",
+    "qs:id":0,
+    "qs:la":"S\u00e4ffle",
+    "qs:la_lc":"*SE1785",
+    "qs:level":"locality",
+    "qs:loc":"V\u00e4rmlands Nys\u00e4ter",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet many local_admin match geoplanet",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85688435,
+        102191581,
+        1159306367,
+        85633789,
+        1159303169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29282204,
+        "qs:id":1003043,
+        "qs_pg:id":1003043
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"59d280184c23c30077974d477a4c61d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303169,
+            "localadmin_id":1159306367,
+            "locality_id":101913037,
+            "region_id":85688435
+        }
+    ],
+    "wof:id":101913037,
+    "wof:lastmodified":1529702932,
+    "wof:name":"V\u00e4rmlands Nys\u00e4ter",
+    "wof:parent_id":1159306367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.76989127261555,
+    59.27995750695067,
+    12.78051246495164,
+    59.28542044915025
+],
+  "geometry": {"coordinates":[[[12.78051246495164,59.28521588137653],[12.78006921553549,59.28252412445283],[12.77710315942397,59.28258371645938],[12.77695955466692,59.2807861133013],[12.77346122800566,59.2808563101454],[12.77338952234294,59.27995750695067],[12.76989127261555,59.28002761331174],[12.77032103013522,59.28542044915025],[12.78051246495164,59.28521588137653]]],"type":"Polygon"}
+}

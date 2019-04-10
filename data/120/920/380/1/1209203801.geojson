@@ -1,0 +1,70 @@
+{
+  "id": 1209203801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.63333,57.65,15.63333,57.65",
+    "geom:latitude":57.65,
+    "geom:longitude":15.63333,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"884.0",
+    "gn:asciiname":"Rangelstorp",
+    "gn:country_code":"SE",
+    "gn:dem":241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2683258,
+    "gn:latitude":57.65,
+    "gn:longitude":15.63333,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Rangelstorp",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688401,
+        102191581,
+        1125287587,
+        85633789,
+        1159303159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2683258
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"ca61da540be15fab2f43569df1ee529b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303159,
+            "localadmin_id":1125287587,
+            "locality_id":1209203801,
+            "region_id":85688401
+        }
+    ],
+    "wof:id":1209203801,
+    "wof:lastmodified":1554166257,
+    "wof:name":"Rangelstorp",
+    "wof:parent_id":1125287587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.63333,
+    57.65,
+    15.63333,
+    57.65
+],
+  "geometry": {"coordinates":[15.63333,57.65],"type":"Point"}
+}

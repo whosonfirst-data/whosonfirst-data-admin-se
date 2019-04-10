@@ -1,0 +1,75 @@
+{
+  "id": 1192965445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.56667,58.88333,12.56667,58.88333",
+    "geom:latitude":58.88333,
+    "geom:longitude":12.56667,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"1492.0",
+    "gn:asciiname":"Lilla Mossen",
+    "gn:cc2":"SE",
+    "gn:country_code":"SE",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2695679,
+    "gn:latitude":58.88333,
+    "gn:longitude":12.56667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Lilla Mossen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lilla M\u00e5sen",
+        "Lilla Mossen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688411,
+        102191581,
+        1125372677,
+        85633789,
+        1159303547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2695679
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"781921af3b6aab1ea7a329f5747f1c59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303547,
+            "localadmin_id":1125372677,
+            "locality_id":1192965445,
+            "region_id":85688411
+        }
+    ],
+    "wof:id":1192965445,
+    "wof:lastmodified":1537699980,
+    "wof:name":"Lilla Mossen",
+    "wof:parent_id":1125372677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.56667,
+    58.88333000000001,
+    12.56667,
+    58.88333000000001
+],
+  "geometry": {"coordinates":[12.56667,58.88333000000001],"type":"Point"}
+}

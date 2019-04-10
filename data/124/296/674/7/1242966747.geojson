@@ -1,0 +1,79 @@
+{
+  "id": 1242966747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.7,63.58333,15.7,63.58333",
+    "geom:latitude":63.58333,
+    "geom:longitude":15.7,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"2313.0",
+    "gn:asciiname":"Gorvik",
+    "gn:country_code":"SE",
+    "gn:dem":353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2711601,
+    "gn:latitude":63.58333,
+    "gn:longitude":15.7,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"G\u00f6rvik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "G\u00f6rvik"
+    ],
+    "name:nor_x_variant":[
+        "G\u00f8rvik"
+    ],
+    "name:und_x_variant":[
+        "G\u00f6rvik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688461,
+        102191581,
+        1125359575,
+        85633789,
+        1159303417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2711601
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"b3ec0015c4de34590f1983ee7ef415f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303417,
+            "localadmin_id":1125359575,
+            "locality_id":1242966747,
+            "region_id":85688461
+        }
+    ],
+    "wof:id":1242966747,
+    "wof:lastmodified":1537700063,
+    "wof:name":"Gorvik",
+    "wof:parent_id":1125359575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.7,
+    63.58333,
+    15.7,
+    63.58333
+],
+  "geometry": {"coordinates":[15.7,63.58333],"type":"Point"}
+}

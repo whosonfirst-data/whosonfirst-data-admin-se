@@ -1,0 +1,114 @@
+{
+  "id": 1125994213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.81667,58.38333,15.81667,58.38333",
+    "geom:latitude":58.38333,
+    "geom:longitude":15.81667,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":390,
+    "gn:population":437,
+    "iso:country":"SE",
+    "lbl:latitude":58.38333,
+    "lbl:longitude":15.81667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0411\u0430\u043d\u043a\u0435\u043a\u0438\u043d\u0434"
+    ],
+    "name:dut_x_preferred":[
+        "Bankekind"
+    ],
+    "name:eng_x_preferred":[
+        "Bankekind"
+    ],
+    "name:nan_x_preferred":[
+        "Bankekind"
+    ],
+    "name:nno_x_preferred":[
+        "Bankekind"
+    ],
+    "name:nob_x_preferred":[
+        "Bankekind"
+    ],
+    "name:swe_x_preferred":[
+        "Bankekind"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2723504,
+    "qs_pg:gn_pop":390,
+    "qs_pg:name":"Bankekind",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"\u00d6sterg\u00f6tlands L\u00e4n",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":2,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":999647,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":885869,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"\u00d6sterg\u00f6tlands L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688409,
+        102191581,
+        1159305879,
+        85633789,
+        1159303147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2723504,
+        "gp:id":885869,
+        "qs_pg:id":999647,
+        "wd:id":"Q3283658"
+    },
+    "wof:country":"SE",
+    "wof:created":1497299207,
+    "wof:geomhash":"2e16d1170c1cc5f6c4adc15577a53842",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303147,
+            "localadmin_id":1159305879,
+            "locality_id":1125994213,
+            "region_id":85688409
+        }
+    ],
+    "wof:id":1125994213,
+    "wof:lastmodified":1529703114,
+    "wof:name":"Bankekind",
+    "wof:parent_id":1159305879,
+    "wof:placetype":"locality",
+    "wof:population":437,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.81667,
+    58.38333,
+    15.81667,
+    58.38333
+],
+  "geometry": {"coordinates":[15.81667,58.38333],"type":"Point"}
+}

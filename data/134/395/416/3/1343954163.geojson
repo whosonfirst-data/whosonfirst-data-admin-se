@@ -1,0 +1,77 @@
+{
+  "id": 1343954163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.01667,57.63333,16.01667,57.63333",
+    "geom:latitude":57.63333,
+    "geom:longitude":16.01667,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"884.0",
+    "gn:asciiname":"Hoghult",
+    "gn:country_code":"SE",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2705802,
+    "gn:latitude":57.63333,
+    "gn:longitude":16.01667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"H\u00f6ghult",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "H\u00f6ghult"
+    ],
+    "name:nor_x_variant":[
+        "H\u00f8ghult"
+    ],
+    "name:und_x_variant":[
+        "H\u00f6ghult"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688401,
+        1125275379,
+        1159303159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2705802
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"f14dfbfbbf15036228b3e2bbddbd5582",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "county_id":1159303159,
+            "localadmin_id":1125275379,
+            "locality_id":1343954163,
+            "region_id":85688401
+        }
+    ],
+    "wof:id":1343954163,
+    "wof:lastmodified":1537700028,
+    "wof:name":"Hoghult",
+    "wof:parent_id":1125275379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.01667,
+    57.63333000000001,
+    16.01667,
+    57.63333000000001
+],
+  "geometry": {"coordinates":[16.01667,57.63333000000001],"type":"Point"}
+}

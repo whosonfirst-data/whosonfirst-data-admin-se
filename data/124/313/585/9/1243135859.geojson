@@ -1,0 +1,70 @@
+{
+  "id": 1243135859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.56667,58.58333,15.56667,58.58333",
+    "geom:latitude":58.58333,
+    "geom:longitude":15.56667,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"580.0",
+    "gn:asciiname":"Haggetorp",
+    "gn:country_code":"SE",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2709165,
+    "gn:latitude":58.58333,
+    "gn:longitude":15.56667,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"H\u00e4ggetorp",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688409,
+        102191581,
+        1125326273,
+        85633789,
+        1159303147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2709165
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"850c58222e91336e06d246bae8353704",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303147,
+            "localadmin_id":1125326273,
+            "locality_id":1243135859,
+            "region_id":85688409
+        }
+    ],
+    "wof:id":1243135859,
+    "wof:lastmodified":1536756579,
+    "wof:name":"Haggetorp",
+    "wof:parent_id":1125326273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.56667,
+    58.58333,
+    15.56667,
+    58.58333
+],
+  "geometry": {"coordinates":[15.56667,58.58333],"type":"Point"}
+}

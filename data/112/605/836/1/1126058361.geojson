@@ -1,0 +1,114 @@
+{
+  "id": 1126058361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.86667,55.93333,12.86667,55.93333",
+    "geom:latitude":55.93333,
+    "geom:longitude":12.86667,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":401,
+    "gn:population":395,
+    "iso:country":"SE",
+    "lbl:latitude":55.93333,
+    "lbl:longitude":12.86667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "H\u00e4rsl\u00f6v"
+    ],
+    "name:eng_x_preferred":[
+        "H\u00e4rsl\u00f6v"
+    ],
+    "name:nan_x_preferred":[
+        "H\u00e4rsl\u00f6v"
+    ],
+    "name:nno_x_preferred":[
+        "H\u00e4rsl\u00f6v"
+    ],
+    "name:nob_x_preferred":[
+        "H\u00e4rsl\u00f6v"
+    ],
+    "name:swe_x_preferred":[
+        "H\u00e4rsl\u00f6v"
+    ],
+    "name:unk_x_variant":[
+        "Hersl\u00f6v"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2707572,
+    "qs_pg:gn_pop":401,
+    "qs_pg:name":"H\u00e4rsl\u00f6v",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"Sk\u00e5ne L\u00e4n",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":922792,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":892510,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"Sk\u00e5ne L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688377,
+        102191581,
+        1159307195,
+        85633789,
+        1159303531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2707572,
+        "gp:id":892510,
+        "qs_pg:id":922792,
+        "wd:id":"Q2148364"
+    },
+    "wof:country":"SE",
+    "wof:created":1497303603,
+    "wof:geomhash":"e4d14c71f9dacd1b6052819d2a74cb61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303531,
+            "localadmin_id":1159307195,
+            "locality_id":1126058361,
+            "region_id":85688377
+        }
+    ],
+    "wof:id":1126058361,
+    "wof:lastmodified":1529702688,
+    "wof:name":"H\u00e4rsl\u00f6v",
+    "wof:parent_id":1159307195,
+    "wof:placetype":"locality",
+    "wof:population":395,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.86667,
+    55.93333,
+    12.86667,
+    55.93333
+],
+  "geometry": {"coordinates":[12.86667,55.93333],"type":"Point"}
+}

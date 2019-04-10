@@ -1,0 +1,82 @@
+{
+  "id": 1276385853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.66667,59.28333,18.66667,59.28333",
+    "geom:latitude":59.28333,
+    "geom:longitude":18.66667,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"120.0",
+    "gn:asciiname":"Holo",
+    "gn:country_code":"SE",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2705127,
+    "gn:latitude":59.28333,
+    "gn:longitude":18.66667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"H\u00f6l\u00f6",
+    "gn:population":1199,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "H\u00f6l\u00f6"
+    ],
+    "name:nor_x_variant":[
+        "H\u00f8l\u00f8"
+    ],
+    "name:und_x_variant":[
+        "H\u00f6l\u00f6"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688429,
+        102191581,
+        1125287087,
+        85633789,
+        1159303241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2705127
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"ffedef3d8ca7403a438965713fa552ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303241,
+            "localadmin_id":1125287087,
+            "locality_id":1276385853,
+            "region_id":85688429
+        }
+    ],
+    "wof:id":1276385853,
+    "wof:lastmodified":1537700020,
+    "wof:name":"Holo",
+    "wof:parent_id":1125287087,
+    "wof:placetype":"locality",
+    "wof:population":1199,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.66667,
+    59.28333000000001,
+    18.66667,
+    59.28333000000001
+],
+  "geometry": {"coordinates":[18.66667,59.28333000000001],"type":"Point"}
+}

@@ -1,0 +1,134 @@
+{
+  "id": 101816789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000225,
+    "geom:area_square_m":1512591.033304,
+    "geom:bbox":"14.2914092234,56.9741203729,14.3202184344,56.991542282",
+    "geom:latitude":56.984023,
+    "geom:longitude":14.30877,
+    "gn:population":1554,
+    "iso:country":"SE",
+    "lbl:latitude":56.984621,
+    "lbl:longitude":14.310953,
+    "mps:latitude":56.984621,
+    "mps:longitude":14.310953,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Rydaholm"
+    ],
+    "name:eng_x_preferred":[
+        "Rydaholm"
+    ],
+    "name:ita_x_preferred":[
+        "Rydaholm"
+    ],
+    "name:nan_x_preferred":[
+        "Rydaholm"
+    ],
+    "name:nld_x_preferred":[
+        "Rydaholm"
+    ],
+    "name:nno_x_preferred":[
+        "Rydaholm"
+    ],
+    "name:nob_x_preferred":[
+        "Rydaholm"
+    ],
+    "name:nor_x_preferred":[
+        "Rydaholm"
+    ],
+    "name:swe_x_colloquial":[
+        "Smaalands Rydaholm",
+        "Smaalands Rydaholms",
+        "Smalands Rydaholm",
+        "Smalands Rydaholms"
+    ],
+    "name:swe_x_preferred":[
+        "Rydaholm"
+    ],
+    "name:swe_x_variant":[
+        "Rydaholms",
+        "Sm\u00e5lands Rydaholm",
+        "Sm\u00e5lands Rydaholms"
+    ],
+    "name:unk_x_variant":[
+        "Sm\u00e5lands Rydaholm"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Rydaholm"
+    ],
+    "qs:a0":"Sverige",
+    "qs:a1":"*J\u00f6nk\u00f6pings l\u00e4n",
+    "qs:a1r":"0",
+    "qs:adm0":"Sverige",
+    "qs:la":"V\u00e4rnamo",
+    "qs:la_lc":"*SE0683",
+    "qs:level":"locality",
+    "qs:loc":"Rydaholm",
+    "qs:loc_alt":"Rydaholm",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":45,
+    "wof:belongsto":[
+        85688395,
+        102191581,
+        1125374993,
+        85633789,
+        1159303313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06d21268-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2680977,
+        "gp:id":903067,
+        "qs:id":186065,
+        "qs_pg:id":186065,
+        "wd:id":"Q2577791",
+        "wk:page":"Rydaholm"
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"b73a5512be6d27162036cc9f2e0772f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303313,
+            "localadmin_id":1125374993,
+            "locality_id":101816789,
+            "region_id":85688395
+        }
+    ],
+    "wof:id":101816789,
+    "wof:lang":[
+        "swe"
+    ],
+    "wof:lastmodified":1529702439,
+    "wof:name":"Rydaholm",
+    "wof:parent_id":1125374993,
+    "wof:placetype":"locality",
+    "wof:population":1554,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.29140922342947,
+    56.9741203728662,
+    14.3202184344143,
+    56.99154228201741
+],
+  "geometry": {"coordinates":[[[14.31016934603417,56.98964018338984],[14.31673184605756,56.98942387025852],[14.31693674043316,56.99121791807693],[14.31857743186907,56.99116378552924],[14.31796258566453,56.98578165186069],[14.31632212639335,56.98583577565807],[14.31601489708095,56.98314470561303],[14.31765524029919,56.98309058618958],[14.31724552706589,56.97950249983126],[14.31888571119077,56.97944836570582],[14.31857837068287,56.97675730621182],[14.3202184344143,56.97670315592916],[14.32001349219286,56.97490911961074],[14.31673351499671,56.97501739381295],[14.31663112984108,56.9741203728662],[14.31499117332646,56.97417447771494],[14.3151958720664,56.97596852260858],[14.31191579124328,56.97607667654239],[14.31201807190757,56.97697370203042],[14.31037798625999,56.97702774965654],[14.31048023400251,56.97792477668622],[14.30884010530798,56.97797880523586],[14.30904454068468,56.97977286246379],[14.30740433026853,56.97982687339055],[14.3075065178968,56.98072390358857],[14.30586626442886,56.9807778954364],[14.3059684191212,56.98167492717505],[14.3043281226,56.98172889994265],[14.30453237184275,56.98352296658737],[14.2963304368385,56.98379253692627],[14.29622850276667,56.98289549629885],[14.29458814134574,56.98294934730768],[14.29469003673302,56.9838463893858],[14.29140922342947,56.98395403269569],[14.2917147118111,56.98664516815313],[14.29335523671404,56.98659135241707],[14.29345711631481,56.98748839629451],[14.29837878091388,56.98732682150518],[14.29848078232777,56.98822386111669],[14.30012136715271,56.98816996032457],[14.30022341299667,56.98906699857093],[14.30678586335205,56.988851184201],[14.30709249970391,56.99154228201741],[14.3103739308155,56.99143424286541],[14.31016934603417,56.98964018338984]]],"type":"Polygon"}
+}

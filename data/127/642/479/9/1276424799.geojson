@@ -1,0 +1,75 @@
+{
+  "id": 1276424799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.51309,56.31498,16.51309,56.31498",
+    "geom:latitude":56.31498,
+    "geom:longitude":16.51309,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"840.0",
+    "gn:admin3_code":"84008.0",
+    "gn:admin4_code":"809.0",
+    "gn:asciiname":"Mellstaby",
+    "gn:cc2":"SE",
+    "gn:country_code":"SE",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2692023,
+    "gn:latitude":56.31498,
+    "gn:longitude":16.51309,
+    "gn:modification_date":"2014-03-20",
+    "gn:name":"Mellstaby",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Melstadby",
+        "Mellstaby"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688401,
+        1159307211,
+        1159303101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2692023
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"28cd399ed921c6657bba9709204799a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "county_id":1159303101,
+            "localadmin_id":1159307211,
+            "locality_id":1276424799,
+            "region_id":85688401
+        }
+    ],
+    "wof:id":1276424799,
+    "wof:lastmodified":1537699959,
+    "wof:name":"Mellstaby",
+    "wof:parent_id":1159307211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.51309,
+    56.31498000000001,
+    16.51309,
+    56.31498000000001
+],
+  "geometry": {"coordinates":[16.51309,56.31498000000001],"type":"Point"}
+}

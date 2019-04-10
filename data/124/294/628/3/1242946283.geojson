@@ -1,0 +1,73 @@
+{
+  "id": 1242946283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.96413,65.55626,19.96413,65.55626",
+    "geom:latitude":65.55626,
+    "geom:longitude":19.96413,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2505.0",
+    "gn:asciiname":"Lindas",
+    "gn:country_code":"SE",
+    "gn:dem":348,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2694947,
+    "gn:latitude":65.55626,
+    "gn:longitude":19.96413,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Lind\u00e5s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:swe_x_preferred":[
+        "Lind\u00e5s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688471,
+        102191581,
+        1125359285,
+        85633789,
+        1159303009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2694947
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"145f42d6ff499efa3aac17b0fc8ac8af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303009,
+            "localadmin_id":1125359285,
+            "locality_id":1242946283,
+            "region_id":85688471
+        }
+    ],
+    "wof:id":1242946283,
+    "wof:lastmodified":1537699977,
+    "wof:name":"Lindas",
+    "wof:parent_id":1125359285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.96413,
+    65.55626,
+    19.96413,
+    65.55626
+],
+  "geometry": {"coordinates":[19.96413,65.55625999999999],"type":"Point"}
+}

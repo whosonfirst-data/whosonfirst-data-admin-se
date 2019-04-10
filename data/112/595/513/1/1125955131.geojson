@@ -1,0 +1,105 @@
+{
+  "id": 1125955131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.93514,58.52737,16.93514,58.52737",
+    "geom:latitude":58.52737,
+    "geom:longitude":16.93514,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":658,
+    "gn:population":658,
+    "iso:country":"SE",
+    "lbl:latitude":58.52737,
+    "lbl:longitude":16.93514,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Jonsberg"
+    ],
+    "name:eng_x_preferred":[
+        "Jonsberg"
+    ],
+    "name:fre_x_preferred":[
+        "Jonsberg"
+    ],
+    "name:swe_x_preferred":[
+        "Jonsberg"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8131619,
+    "qs_pg:gn_pop":658,
+    "qs_pg:name":"Jonsberg",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"\u00d6sterg\u00f6tlands L\u00e4n",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1146117,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":894426,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"\u00d6sterg\u00f6tlands L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688409,
+        102191581,
+        1159305913,
+        85633789,
+        1159303229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8131619,
+        "gp:id":894426,
+        "qs_pg:id":1146117,
+        "wd:id":"Q10540778"
+    },
+    "wof:country":"SE",
+    "wof:created":1497297595,
+    "wof:geomhash":"3944353273894fc3de1e1ae3d5218fa3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303229,
+            "localadmin_id":1159305913,
+            "locality_id":1125955131,
+            "region_id":85688409
+        }
+    ],
+    "wof:id":1125955131,
+    "wof:lastmodified":1529703109,
+    "wof:name":"Jonsberg",
+    "wof:parent_id":1159305913,
+    "wof:placetype":"locality",
+    "wof:population":658,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.93514,
+    58.52737,
+    16.93514,
+    58.52737
+],
+  "geometry": {"coordinates":[16.93514,58.52737],"type":"Point"}
+}

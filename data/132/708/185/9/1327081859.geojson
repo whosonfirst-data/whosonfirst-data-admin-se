@@ -1,0 +1,79 @@
+{
+  "id": 1327081859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.37083,59.22083,18.37083,59.22083",
+    "geom:latitude":59.22083,
+    "geom:longitude":18.37083,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"138.0",
+    "gn:asciiname":"Sjoberga",
+    "gn:country_code":"SE",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3218035,
+    "gn:latitude":59.22083,
+    "gn:longitude":18.37083,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sj\u00f6berga",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Sj\u00f6berga"
+    ],
+    "name:nor_x_variant":[
+        "Sj\u00f8berga"
+    ],
+    "name:und_x_variant":[
+        "Sj\u00f6berga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688429,
+        102191581,
+        1125398119,
+        85633789,
+        1159303015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3218035
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"dea5461b934b37c4136b83cd52c13ba4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303015,
+            "localadmin_id":1125398119,
+            "locality_id":1327081859,
+            "region_id":85688429
+        }
+    ],
+    "wof:id":1327081859,
+    "wof:lastmodified":1537700149,
+    "wof:name":"Sjoberga",
+    "wof:parent_id":1125398119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.37083,
+    59.22083000000001,
+    18.37083,
+    59.22083000000001
+],
+  "geometry": {"coordinates":[18.37083,59.22083000000001],"type":"Point"}
+}

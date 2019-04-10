@@ -1,0 +1,107 @@
+{
+  "id": 101911341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000044,
+    "geom:area_square_m":298551.715105,
+    "geom:bbox":"16.4694125611,56.7700085397,16.4822838509,56.7801736596",
+    "geom:latitude":56.774852,
+    "geom:longitude":16.476511,
+    "gn:id":"",
+    "iso:country":"SE",
+    "lbl:latitude":56.774105,
+    "lbl:longitude":16.475877,
+    "mps:latitude":56.774105,
+    "mps:longitude":16.475877,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Revsudden"
+    ],
+    "name:eng_x_preferred":[
+        "Kalinteyevo"
+    ],
+    "name:eng_x_variant":[
+        "Kolenteyevo",
+        "Revsudden"
+    ],
+    "name:fin_x_preferred":[
+        "Revsudden"
+    ],
+    "name:ger_x_preferred":[
+        "Revsudden"
+    ],
+    "name:swe_x_preferred":[
+        "Revsudden"
+    ],
+    "name:und_x_preferred":[
+        "\u041a\u043e\u043b\u0435\u043d\u0442\u0435\u0435\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Kolenteevo"
+    ],
+    "qs:a0":"Sverige",
+    "qs:a1":"*Kalmar l\u00e4n",
+    "qs:a1r":"8",
+    "qs:adm0":"Sverige",
+    "qs:la":"Kalmar",
+    "qs:la_lc":"*SE0880",
+    "qs:level":"locality",
+    "qs:loc":"Revsudden",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet perfect local_admin match geoplanet",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85688401,
+        102191581,
+        1125277853,
+        85633789,
+        1159303065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20151528,
+        "qs:id":1123131,
+        "qs_pg:id":1179351,
+        "wd:id":"Q2647367"
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"6768890da44727f05064167c485b53c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303065,
+            "localadmin_id":1125277853,
+            "locality_id":101911341,
+            "region_id":85688401
+        }
+    ],
+    "wof:id":101911341,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1554166244,
+    "wof:name":"Revsudden",
+    "wof:parent_id":1125277853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.46941256105526,
+    56.77000853974698,
+    16.48228385093881,
+    56.780173659627
+],
+  "geometry": {"coordinates":[[[16.47877224386752,56.78009255266181],[16.47846725813201,56.77830334562964],[16.48009545422497,56.77822222267366],[16.47963792595925,56.77553841818622],[16.4780098432463,56.77561953464766],[16.47755250480469,56.77293572314488],[16.47918047415624,56.77285461317649],[16.4790280072105,56.77196001139043],[16.48228385093881,56.77179773483454],[16.48197879140969,56.77000853974698],[16.4803509483383,56.7700896838528],[16.48050343607702,56.77098428359074],[16.47724765496991,56.77114651518633],[16.47740007564175,56.77204111919463],[16.4741441931032,56.77220327385447],[16.47429654669838,56.77309788213137],[16.46941256105526,56.77334096823444],[16.46956480977644,56.77423558294032],[16.47119284924077,56.77415457239465],[16.47134514423408,56.77504918488131],[16.47297321502549,56.77496815185572],[16.47312555629469,56.77586276212247],[16.47475365841217,56.77578170661599],[16.47521084653351,56.77846553058168],[16.47683905556778,56.77838444826557],[16.47714396570507,56.780173659627],[16.47877224386752,56.78009255266181]]],"type":"Polygon"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1259971553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.21293,57.20627,12.21293,57.20627",
+    "geom:latitude":57.20627,
+    "geom:longitude":12.21293,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"1383.0",
+    "gn:asciiname":"Arnaes",
+    "gn:country_code":"SE",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2725307,
+    "gn:latitude":57.20627,
+    "gn:longitude":12.21293,
+    "gn:modification_date":"2017-03-18",
+    "gn:name":"\u00c5rn\u00e4s",
+    "gn:population":679,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u00c5rn\u00e4s"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688391,
+        102191581,
+        1159306739,
+        85633789,
+        1159302939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2725307,
+        "wk:page":"%C3%85rn%C3%A4s%2C_Halland"
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"3a698445a35b6ef6edb1ec9643243a4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302939,
+            "localadmin_id":1159306739,
+            "locality_id":1259971553,
+            "region_id":85688391
+        }
+    ],
+    "wof:id":1259971553,
+    "wof:lastmodified":1537700139,
+    "wof:name":"Arnaes",
+    "wof:parent_id":1159306739,
+    "wof:placetype":"locality",
+    "wof:population":679,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.21293,
+    57.20627,
+    12.21293,
+    57.20627
+],
+  "geometry": {"coordinates":[12.21293,57.20627],"type":"Point"}
+}

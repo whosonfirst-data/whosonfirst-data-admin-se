@@ -1,0 +1,68 @@
+{
+  "id": 1292924067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.11667,56.55,16.11667,56.55",
+    "geom:latitude":56.55,
+    "geom:longitude":16.11667,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"880.0",
+    "gn:asciiname":"Grasgarde",
+    "gn:country_code":"SE",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2710951,
+    "gn:latitude":56.55,
+    "gn:longitude":16.11667,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Gr\u00e4sg\u00e4rde",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688401,
+        1125362521,
+        1159303065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2710951
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"74ff69a1507ff749fade110bca989056",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "county_id":1159303065,
+            "localadmin_id":1125362521,
+            "locality_id":1292924067,
+            "region_id":85688401
+        }
+    ],
+    "wof:id":1292924067,
+    "wof:lastmodified":1536602081,
+    "wof:name":"Grasgarde",
+    "wof:parent_id":1125362521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.11667000000001,
+    56.55,
+    16.11667000000001,
+    56.55
+],
+  "geometry": {"coordinates":[16.11667000000001,56.55],"type":"Point"}
+}

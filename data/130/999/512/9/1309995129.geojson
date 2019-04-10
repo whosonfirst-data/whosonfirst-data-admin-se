@@ -1,0 +1,68 @@
+{
+  "id": 1309995129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.85,56.98333,16.85,56.98333",
+    "geom:latitude":56.98333,
+    "geom:longitude":16.85,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"885.0",
+    "gn:asciiname":"Djurstad",
+    "gn:country_code":"SE",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2717499,
+    "gn:latitude":56.98333,
+    "gn:longitude":16.85,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Djurstad",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688401,
+        1125336223,
+        1159303363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2717499
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"f3f0abe0e13ed58ea7ec624846ce3133",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "county_id":1159303363,
+            "localadmin_id":1125336223,
+            "locality_id":1309995129,
+            "region_id":85688401
+        }
+    ],
+    "wof:id":1309995129,
+    "wof:lastmodified":1536658380,
+    "wof:name":"Djurstad",
+    "wof:parent_id":1125336223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.85,
+    56.98333,
+    16.85,
+    56.98333
+],
+  "geometry": {"coordinates":[16.85,56.98333],"type":"Point"}
+}

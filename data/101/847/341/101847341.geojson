@@ -1,0 +1,112 @@
+{
+  "id": 101847341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000198,
+    "geom:area_square_m":1253289.7576,
+    "geom:bbox":"15.3276073084,59.1299349627,15.3614662136,59.1442803447",
+    "geom:latitude":59.137664,
+    "geom:longitude":15.342278,
+    "gn:population":3492,
+    "iso:country":"SE",
+    "lbl:latitude":59.138623,
+    "lbl:longitude":15.342278,
+    "mps:latitude":59.138623,
+    "mps:longitude":15.342278,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Sk\u00f6llersta"
+    ],
+    "name:eng_x_preferred":[
+        "Sk\u00f6llersta"
+    ],
+    "name:nan_x_preferred":[
+        "Sk\u00f6llersta"
+    ],
+    "name:nld_x_preferred":[
+        "Sk\u00f6llersta"
+    ],
+    "name:nno_x_preferred":[
+        "Sk\u00f6llersta"
+    ],
+    "name:nob_x_preferred":[
+        "Sk\u00f6llersta"
+    ],
+    "name:nor_x_preferred":[
+        "Sk\u00f6llersta"
+    ],
+    "name:swe_x_preferred":[
+        "Sk\u00f6llersta"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Sk\u00f6llersta"
+    ],
+    "qs:a0":"Sverige",
+    "qs:a1":"*\u00d6rebro l\u00e4n",
+    "qs:a1r":"0",
+    "qs:adm0":"Sverige",
+    "qs:la":"Hallsberg",
+    "qs:la_lc":"*SE1861",
+    "qs:level":"locality",
+    "qs:loc":"Sk\u00f6llersta",
+    "qs:loc_alt":"Skollersta",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":69,
+    "wof:belongsto":[
+        85688421,
+        102191581,
+        1159307347,
+        85633789,
+        1159303539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8132813,
+        "gp:id":904516,
+        "qs:id":389601,
+        "qs_pg:id":389601,
+        "wd:id":"Q649659"
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"1539db3f3ab9b99e05596a5537afd348",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303539,
+            "localadmin_id":1159307347,
+            "locality_id":101847341,
+            "region_id":85688421
+        }
+    ],
+    "wof:id":101847341,
+    "wof:lastmodified":1529703056,
+    "wof:name":"Sk\u00f6llersta",
+    "wof:parent_id":1159307347,
+    "wof:placetype":"locality",
+    "wof:population":3492,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.3276073084437,
+    59.12993496268859,
+    15.36146621356545,
+    59.14428034473332
+],
+  "geometry": {"coordinates":[[[15.33899919571792,59.14145572507817],[15.34943232101102,59.14105062639948],[15.34956981867475,59.14194719794108],[15.35304756509112,59.14181198578194],[15.35290997888859,59.14091541816538],[15.35464879833933,59.14084778117228],[15.35451117611814,59.13995121567046],[15.36146621356545,59.13968045638791],[15.36132842254631,59.13878389889635],[15.35958971694356,59.13885161962548],[15.35917652620537,59.13616194215894],[15.35396076972,59.13636495517545],[15.35382318873837,59.13546839042965],[15.34165317877131,59.13594130674716],[15.34137866105164,59.13414815025948],[15.33790163553545,59.13428306414966],[15.33762732771078,59.13248990043917],[15.33415045396987,59.1326247188511],[15.33373931933028,59.12993496268859],[15.33200100573873,59.13000233316097],[15.33213799816502,59.13089892035123],[15.33039963403576,59.13096627086753],[15.33094750885647,59.13455262897025],[15.32920896143844,59.13461996539132],[15.32934590641219,59.13551655725252],[15.3276073084437,59.13558387371336],[15.32788113449794,59.13737706180171],[15.32961982098573,59.13730974143323],[15.32989376839765,59.13910292622484],[15.33163253711672,59.13903558003113],[15.33176956740715,59.13993217070129],[15.33524717447699,59.13979740865159],[15.33593289191253,59.14428034473332],[15.33767190736239,59.14421292104657],[15.3375347031519,59.14331633548221],[15.33927366801345,59.14324889183331],[15.33899919571792,59.14145572507817]]],"type":"Polygon"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1310002985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.3,56.71667,13.3,56.71667",
+    "geom:latitude":56.71667,
+    "geom:longitude":13.3,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"1380.0",
+    "gn:asciiname":"Hilleshult",
+    "gn:country_code":"SE",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2706432,
+    "gn:latitude":56.71667,
+    "gn:longitude":13.3,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Hilleshult",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688391,
+        102191581,
+        1125325241,
+        85633789,
+        1159303343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2706432
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"025f9eb51c4d3b8be645c21a965939c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303343,
+            "localadmin_id":1125325241,
+            "locality_id":1310002985,
+            "region_id":85688391
+        }
+    ],
+    "wof:id":1310002985,
+    "wof:lastmodified":1536646530,
+    "wof:name":"Hilleshult",
+    "wof:parent_id":1125325241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.3,
+    56.71666999999999,
+    13.3,
+    56.71666999999999
+],
+  "geometry": {"coordinates":[13.3,56.71666999999999],"type":"Point"}
+}

@@ -1,0 +1,112 @@
+{
+  "id": 85905177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":5870564.932303,
+    "geom:bbox":"17.942884,59.221152,17.942884,59.221152",
+    "geom:latitude":59.221152,
+    "geom:longitude":17.942884,
+    "iso:country":"SE",
+    "lbl:latitude":59.221152,
+    "lbl:longitude":17.942884,
+    "mps:latitude":59.232347,
+    "mps:longitude":17.952841,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":1,
+    "mz:tier_metro":1,
+    "name:ara_x_preferred":[
+        "\u0641\u0644\u0645\u064a\u0646\u062c\u0633\u0628\u0631\u064a"
+    ],
+    "name:swe_x_preferred":[
+        "Flemingsberg"
+    ],
+    "name:unk_x_variant":[
+        "Flemingsberg"
+    ],
+    "qs:gn_adm0_cc":"SE",
+    "qs:gn_id":0,
+    "qs:gn_local":2667109,
+    "qs:gn_nam_loc":"Tullinge, Botkyrka, Stockholms L\u00e4n, SE",
+    "qs:gn_namadm1":"26",
+    "qs:id":0,
+    "qs:local_max":564,
+    "qs:local_sum":1557,
+    "qs:localhoods":7,
+    "qs:name":"Flemingsberg",
+    "qs:name_adm0":"Sverige",
+    "qs:name_adm1":"Stockholms L\u00e4n",
+    "qs:name_adm2":"Huddinge",
+    "qs:name_local":"Tullinge",
+    "qs:photo_max":166,
+    "qs:photo_sum":564,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":36,
+    "qs:woe_adm0":23424954,
+    "qs:woe_adm1":2347067,
+    "qs:woe_adm2":12587466,
+    "qs:woe_lau":0,
+    "qs:woe_local":908177,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":385,
+    "wof:belongsto":[
+        85688429,
+        102191581,
+        1125362217,
+        85633789,
+        101752307,
+        1159303035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20150979,
+        "wd:id":"Q4117115"
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"47b553fa2cbd987cc6471f0fc755d102",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303035,
+            "localadmin_id":1125362217,
+            "locality_id":101752307,
+            "neighbourhood_id":85905177,
+            "region_id":85688429
+        }
+    ],
+    "wof:id":85905177,
+    "wof:lang":[
+        "swe"
+    ],
+    "wof:lastmodified":1531936326,
+    "wof:name":"Flemingsberg",
+    "wof:parent_id":101752307,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.942884,
+    59.221152,
+    17.942884,
+    59.221152
+],
+  "geometry": {"coordinates":[17.942884,59.221152],"type":"Point"}
+}

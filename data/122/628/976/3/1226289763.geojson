@@ -1,0 +1,79 @@
+{
+  "id": 1226289763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.64083,57.69778,11.64083,57.69778",
+    "geom:latitude":57.69778,
+    "geom:longitude":11.64083,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"1407.0",
+    "gn:asciiname":"Rod",
+    "gn:country_code":"SE",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2682192,
+    "gn:latitude":57.69778,
+    "gn:longitude":11.64083,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"R\u00f6d",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "R\u00f6d"
+    ],
+    "name:nor_x_variant":[
+        "R\u00f8d"
+    ],
+    "name:und_x_variant":[
+        "R\u00f6d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688411,
+        102191581,
+        1125394757,
+        85633789,
+        1159303495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2682192
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"57bd248218285e60cff2d6c7322bdaff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303495,
+            "localadmin_id":1125394757,
+            "locality_id":1226289763,
+            "region_id":85688411
+        }
+    ],
+    "wof:id":1226289763,
+    "wof:lastmodified":1537699866,
+    "wof:name":"Rod",
+    "wof:parent_id":1125394757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.64083,
+    57.69778,
+    11.64083,
+    57.69778
+],
+  "geometry": {"coordinates":[11.64083,57.69778],"type":"Point"}
+}

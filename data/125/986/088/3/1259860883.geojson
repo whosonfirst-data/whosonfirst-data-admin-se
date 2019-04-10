@@ -1,0 +1,70 @@
+{
+  "id": 1259860883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.33333,58.48333,15.33333,58.48333",
+    "geom:latitude":58.48333,
+    "geom:longitude":15.33333,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"583.0",
+    "gn:asciiname":"Stora Berga",
+    "gn:country_code":"SE",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2673494,
+    "gn:latitude":58.48333,
+    "gn:longitude":15.33333,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Stora Berga",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688409,
+        102191581,
+        1125355967,
+        85633789,
+        1159303391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2673494
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"d0f42f764872aa935b0ec1a19c1f3141",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303391,
+            "localadmin_id":1125355967,
+            "locality_id":1259860883,
+            "region_id":85688409
+        }
+    ],
+    "wof:id":1259860883,
+    "wof:lastmodified":1536811260,
+    "wof:name":"Stora Berga",
+    "wof:parent_id":1125355967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.33333,
+    58.48333,
+    15.33333,
+    58.48333
+],
+  "geometry": {"coordinates":[15.33333,58.48333],"type":"Point"}
+}

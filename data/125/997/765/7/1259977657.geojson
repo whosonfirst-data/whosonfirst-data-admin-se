@@ -1,0 +1,75 @@
+{
+  "id": 1259977657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.35994,57.24442,18.35994,57.24442",
+    "geom:latitude":57.24442,
+    "geom:longitude":18.35994,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"980.0",
+    "gn:asciiname":"Ocksarve",
+    "gn:country_code":"SE",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2684670,
+    "gn:latitude":57.24442,
+    "gn:longitude":18.35994,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Ocksarve",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oxarfve",
+        "Oxarve",
+        "Ocksarve"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688405,
+        102191581,
+        1159306815,
+        85633789,
+        1159303535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2684670
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"6f86d404e69d8014bc3bb3b28b564491",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303535,
+            "localadmin_id":1159306815,
+            "locality_id":1259977657,
+            "region_id":85688405
+        }
+    ],
+    "wof:id":1259977657,
+    "wof:lastmodified":1537699877,
+    "wof:name":"Ocksarve",
+    "wof:parent_id":1159306815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.35994,
+    57.24442,
+    18.35994,
+    57.24442
+],
+  "geometry": {"coordinates":[18.35994,57.24442],"type":"Point"}
+}

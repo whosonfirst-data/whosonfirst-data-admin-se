@@ -1,0 +1,114 @@
+{
+  "id": 1125962147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.98333,55.76667,12.98333,55.76667",
+    "geom:latitude":55.76667,
+    "geom:longitude":12.98333,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":533,
+    "gn:population":689,
+    "iso:country":"SE",
+    "lbl:latitude":55.76667,
+    "lbl:longitude":12.98333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Sandskogen"
+    ],
+    "name:eng_x_preferred":[
+        "Sandskogen"
+    ],
+    "name:nan_x_preferred":[
+        "Sandskogen"
+    ],
+    "name:nno_x_preferred":[
+        "Sandskogen"
+    ],
+    "name:nob_x_preferred":[
+        "Sandskogen"
+    ],
+    "name:swe_x_preferred":[
+        "Sandskogen"
+    ],
+    "name:unk_x_variant":[
+        "Kumle"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3331425,
+    "qs_pg:gn_pop":533,
+    "qs_pg:name":"Sandskogen",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"Sk\u00e5ne L\u00e4n",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":2,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1149741,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":15002536,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"Sk\u00e5ne L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688377,
+        102191581,
+        1159307155,
+        85633789,
+        1159303543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3331425,
+        "gp:id":15002536,
+        "qs_pg:id":1149741,
+        "wd:id":"Q2306946"
+    },
+    "wof:country":"SE",
+    "wof:created":1497297839,
+    "wof:geomhash":"b87e0c20fe827e5cad61c29233f38573",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303543,
+            "localadmin_id":1159307155,
+            "locality_id":1125962147,
+            "region_id":85688377
+        }
+    ],
+    "wof:id":1125962147,
+    "wof:lastmodified":1529702671,
+    "wof:name":"Sandskogen",
+    "wof:parent_id":1159307155,
+    "wof:placetype":"locality",
+    "wof:population":689,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.98333,
+    55.76667,
+    12.98333,
+    55.76667
+],
+  "geometry": {"coordinates":[12.98333,55.76667],"type":"Point"}
+}

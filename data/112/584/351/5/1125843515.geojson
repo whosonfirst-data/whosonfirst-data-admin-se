@@ -1,0 +1,117 @@
+{
+  "id": 1125843515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.5,56.28333,12.5,56.28333",
+    "geom:latitude":56.28333,
+    "geom:longitude":12.5,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":750,
+    "gn:population":634,
+    "iso:country":"SE",
+    "lbl:latitude":56.28333,
+    "lbl:longitude":12.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dan_x_preferred":[
+        "M\u00f8lle"
+    ],
+    "name:dut_x_preferred":[
+        "M\u00f6lle"
+    ],
+    "name:eng_x_preferred":[
+        "M\u00f6lle"
+    ],
+    "name:fre_x_preferred":[
+        "M\u00f6lle"
+    ],
+    "name:ger_x_preferred":[
+        "M\u00f6lle"
+    ],
+    "name:gle_x_preferred":[
+        "M\u00f6lle"
+    ],
+    "name:nan_x_preferred":[
+        "M\u00f6lle"
+    ],
+    "name:nno_x_preferred":[
+        "M\u00f6lle"
+    ],
+    "name:nob_x_preferred":[
+        "M\u00f6lle"
+    ],
+    "name:oss_x_preferred":[
+        "\u041c\u0451\u043b\u043b\u0435"
+    ],
+    "name:por_x_preferred":[
+        "M\u00f6lle"
+    ],
+    "name:swe_x_preferred":[
+        "M\u00f6lle"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2691501,
+    "qs_pg:gn_pop":750,
+    "qs_pg:name":"M\u00f6lle",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":92381,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688377,
+        102191581,
+        1125326089,
+        85633789,
+        1159303057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2691501,
+        "qs_pg:id":92381,
+        "wd:id":"Q1599139"
+    },
+    "wof:country":"SE",
+    "wof:created":1497293040,
+    "wof:geomhash":"0d0ee4e8ad9d74371f2a377a22e16d11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303057,
+            "localadmin_id":1125326089,
+            "locality_id":1125843515,
+            "region_id":85688377
+        }
+    ],
+    "wof:id":1125843515,
+    "wof:lastmodified":1529702675,
+    "wof:name":"M\u00f6lle",
+    "wof:parent_id":1125326089,
+    "wof:placetype":"locality",
+    "wof:population":634,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5,
+    56.28333,
+    12.5,
+    56.28333
+],
+  "geometry": {"coordinates":[12.5,56.28333],"type":"Point"}
+}

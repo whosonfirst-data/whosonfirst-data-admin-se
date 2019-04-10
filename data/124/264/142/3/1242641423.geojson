@@ -1,0 +1,79 @@
+{
+  "id": 1242641423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.85,59.76667,16.85,59.76667",
+    "geom:latitude":59.76667,
+    "geom:longitude":16.85,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"381.0",
+    "gn:asciiname":"Ostra Vad",
+    "gn:country_code":"SE",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2685196,
+    "gn:latitude":59.76667,
+    "gn:longitude":16.85,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"\u00d6stra Vad",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "\u00d6stra Vad"
+    ],
+    "name:nor_x_variant":[
+        "\u00d8stra Vad"
+    ],
+    "name:und_x_variant":[
+        "\u00d6stra Vad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688439,
+        102191581,
+        1159306193,
+        85633789,
+        1159303337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2685196
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"da84555f16347b9a5b5d000104735c6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303337,
+            "localadmin_id":1159306193,
+            "locality_id":1242641423,
+            "region_id":85688439
+        }
+    ],
+    "wof:id":1242641423,
+    "wof:lastmodified":1537699888,
+    "wof:name":"Ostra Vad",
+    "wof:parent_id":1159306193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.85,
+    59.76667,
+    16.85,
+    59.76667
+],
+  "geometry": {"coordinates":[16.85,59.76667],"type":"Point"}
+}

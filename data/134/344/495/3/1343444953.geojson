@@ -1,0 +1,68 @@
+{
+  "id": 1343444953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.9,57.11667,16.9,57.11667",
+    "geom:latitude":57.11667,
+    "geom:longitude":16.9,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"885.0",
+    "gn:asciiname":"Grytehamn",
+    "gn:country_code":"SE",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3330364,
+    "gn:latitude":57.11667,
+    "gn:longitude":16.9,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Grytehamn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688401,
+        1159306265,
+        1159303363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3330364
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"841e5329f275a1914d3f2921f1873984",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "county_id":1159303363,
+            "localadmin_id":1159306265,
+            "locality_id":1343444953,
+            "region_id":85688401
+        }
+    ],
+    "wof:id":1343444953,
+    "wof:lastmodified":1536769143,
+    "wof:name":"Grytehamn",
+    "wof:parent_id":1159306265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.9,
+    57.11666999999999,
+    16.9,
+    57.11666999999999
+],
+  "geometry": {"coordinates":[16.9,57.11666999999999],"type":"Point"}
+}

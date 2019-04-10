@@ -1,0 +1,111 @@
+{
+  "id": 1126003367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.2,61.8,16.2,61.8",
+    "geom:latitude":61.8,
+    "geom:longitude":16.2,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":262,
+    "gn:population":206,
+    "iso:country":"SE",
+    "lbl:latitude":61.8,
+    "lbl:longitude":16.2,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Hybo"
+    ],
+    "name:eng_x_preferred":[
+        "Hybo"
+    ],
+    "name:nan_x_preferred":[
+        "Hybo"
+    ],
+    "name:nno_x_preferred":[
+        "Hybo"
+    ],
+    "name:nob_x_preferred":[
+        "Hybo"
+    ],
+    "name:swe_x_preferred":[
+        "Hybo"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2704079,
+    "qs_pg:gn_pop":262,
+    "qs_pg:name":"Hybo",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"G\u00e4vleborgs L\u00e4n",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":2,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":914775,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":893982,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"G\u00e4vleborgs L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688453,
+        102191581,
+        1125421381,
+        85633789,
+        1159303353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2704079,
+        "gp:id":893982,
+        "qs_pg:id":914775,
+        "wd:id":"Q2470881"
+    },
+    "wof:country":"SE",
+    "wof:created":1497299785,
+    "wof:geomhash":"67d3674fcf0eba28cd3761787a5b4ed6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303353,
+            "localadmin_id":1125421381,
+            "locality_id":1126003367,
+            "region_id":85688453
+        }
+    ],
+    "wof:id":1126003367,
+    "wof:lastmodified":1529702066,
+    "wof:name":"Hybo",
+    "wof:parent_id":1125421381,
+    "wof:placetype":"locality",
+    "wof:population":206,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.2,
+    61.8,
+    16.2,
+    61.8
+],
+  "geometry": {"coordinates":[16.2,61.8],"type":"Point"}
+}

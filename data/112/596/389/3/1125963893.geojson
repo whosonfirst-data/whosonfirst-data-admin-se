@@ -1,0 +1,125 @@
+{
+  "id": 1125963893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.53333,59.55,16.53333,59.55",
+    "geom:latitude":59.55,
+    "geom:longitude":16.53333,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":963,
+    "gn:population":1404,
+    "iso:country":"SE",
+    "lbl:latitude":59.55,
+    "lbl:longitude":16.53333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Barkar\u00f6"
+    ],
+    "name:eng_x_preferred":[
+        "Barkar\u00f6"
+    ],
+    "name:nan_x_preferred":[
+        "Barkar\u00f6"
+    ],
+    "name:nno_x_preferred":[
+        "Barkar\u00f6"
+    ],
+    "name:nob_x_preferred":[
+        "Barkar\u00f6"
+    ],
+    "name:nor_x_preferred":[
+        "Barkar\u00f8"
+    ],
+    "name:nor_x_variant":[
+        "Barkar\u00f6"
+    ],
+    "name:pol_x_preferred":[
+        "Barkar\u00f6"
+    ],
+    "name:swe_x_preferred":[
+        "Barkar\u00f6"
+    ],
+    "name:unk_x_variant":[
+        "Bakaroby"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2723434,
+    "qs_pg:gn_pop":963,
+    "qs_pg:name":"Barkar\u00f6",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"V\u00e4stmanlands L\u00e4n",
+    "qs_pg:photos":24,
+    "qs_pg:photos_1k":5,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":24,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":506784,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":885906,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"V\u00e4stmanlands L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688425,
+        102191581,
+        1125362549,
+        85633789,
+        1159303331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2723434,
+        "gp:id":885906,
+        "qs_pg:id":506784,
+        "wd:id":"Q1989647"
+    },
+    "wof:country":"SE",
+    "wof:created":1497297901,
+    "wof:geomhash":"177c1e56dd174fb760c70e56a6a63815",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303331,
+            "localadmin_id":1125362549,
+            "locality_id":1125963893,
+            "region_id":85688425
+        }
+    ],
+    "wof:id":1125963893,
+    "wof:lastmodified":1529703033,
+    "wof:name":"Barkar\u00f6",
+    "wof:parent_id":1125362549,
+    "wof:placetype":"locality",
+    "wof:population":1404,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.53333,
+    59.55,
+    16.53333,
+    59.55
+],
+  "geometry": {"coordinates":[16.53333,59.55],"type":"Point"}
+}

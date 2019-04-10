@@ -1,0 +1,70 @@
+{
+  "id": 1225799465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.36667,59.83333,18.36667,59.83333",
+    "geom:latitude":59.83333,
+    "geom:longitude":18.36667,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"188.0",
+    "gn:asciiname":"Osterangby",
+    "gn:country_code":"SE",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2685970,
+    "gn:latitude":59.83333,
+    "gn:longitude":18.36667,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"\u00d6ster\u00e4ngby",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688429,
+        102191581,
+        1125423339,
+        85633789,
+        1159302995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2685970
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"b394b8226532f391f3429f5b7645c9ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302995,
+            "localadmin_id":1125423339,
+            "locality_id":1225799465,
+            "region_id":85688429
+        }
+    ],
+    "wof:id":1225799465,
+    "wof:lastmodified":1537077482,
+    "wof:name":"Osterangby",
+    "wof:parent_id":1125423339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.36667000000001,
+    59.83333,
+    18.36667000000001,
+    59.83333
+],
+  "geometry": {"coordinates":[18.36667000000001,59.83333],"type":"Point"}
+}

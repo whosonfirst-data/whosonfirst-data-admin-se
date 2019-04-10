@@ -1,0 +1,70 @@
+{
+  "id": 1360167797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.3,66.36667,22.3,66.36667",
+    "geom:latitude":66.36667,
+    "geom:longitude":22.3,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2513.0",
+    "gn:asciiname":"Kolmjarv",
+    "gn:country_code":"SE",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":605076,
+    "gn:latitude":66.36667,
+    "gn:longitude":22.3,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"K\u00f6lmj\u00e4rv",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688471,
+        102191581,
+        1125287801,
+        85633789,
+        1159302979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":605076
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"8dfb3fa41e1b4b965995e19e53429283",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302979,
+            "localadmin_id":1125287801,
+            "locality_id":1360167797,
+            "region_id":85688471
+        }
+    ],
+    "wof:id":1360167797,
+    "wof:lastmodified":1536825423,
+    "wof:name":"Kolmjarv",
+    "wof:parent_id":1125287801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.3,
+    66.36667,
+    22.3,
+    66.36667
+],
+  "geometry": {"coordinates":[22.3,66.36667],"type":"Point"}
+}

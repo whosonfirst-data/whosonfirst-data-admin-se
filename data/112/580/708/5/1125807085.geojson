@@ -1,0 +1,122 @@
+{
+  "id": 1125807085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.78333,63.31667,18.78333,63.31667",
+    "geom:latitude":63.31667,
+    "geom:longitude":18.78333,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":345,
+    "gn:population":345,
+    "iso:country":"SE",
+    "lbl:latitude":63.31667,
+    "lbl:longitude":18.78333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Arn\u00e4svall"
+    ],
+    "name:eng_x_preferred":[
+        "Arn\u00e4svall"
+    ],
+    "name:est_x_preferred":[
+        "Arn\u00e4svall"
+    ],
+    "name:fin_x_preferred":[
+        "Arn\u00e4svall"
+    ],
+    "name:nan_x_preferred":[
+        "Arn\u00e4svall"
+    ],
+    "name:nno_x_preferred":[
+        "Arn\u00e4svall"
+    ],
+    "name:nob_x_preferred":[
+        "Arn\u00e4svall"
+    ],
+    "name:pol_x_preferred":[
+        "Arn\u00e4svall"
+    ],
+    "name:swe_x_preferred":[
+        "Arn\u00e4svall"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2725297,
+    "qs_pg:gn_pop":345,
+    "qs_pg:name":"Arn\u00e4svall",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"V\u00e4sternorrlands L\u00e4n",
+    "qs_pg:photos":60,
+    "qs_pg:photos_1k":12,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":60,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":3299,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":885057,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"V\u00e4sternorrlands L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688457,
+        102191581,
+        1125423329,
+        85633789,
+        1159303463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2725297,
+        "gp:id":885057,
+        "qs_pg:id":3299,
+        "wd:id":"Q2033534"
+    },
+    "wof:country":"SE",
+    "wof:created":1497291510,
+    "wof:geomhash":"9cf10805a3f801db0b9adfde4ae7d176",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303463,
+            "localadmin_id":1125423329,
+            "locality_id":1125807085,
+            "region_id":85688457
+        }
+    ],
+    "wof:id":1125807085,
+    "wof:lastmodified":1529703007,
+    "wof:name":"Arn\u00e4svall",
+    "wof:parent_id":1125423329,
+    "wof:placetype":"locality",
+    "wof:population":345,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.78333,
+    63.31667,
+    18.78333,
+    63.31667
+],
+  "geometry": {"coordinates":[18.78333,63.31667],"type":"Point"}
+}

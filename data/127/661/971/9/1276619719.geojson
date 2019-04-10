@@ -1,0 +1,70 @@
+{
+  "id": 1276619719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.23333,58.88333,17.23333,58.88333",
+    "geom:latitude":58.88333,
+    "geom:longitude":17.23333,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"480.0",
+    "gn:asciiname":"Berga",
+    "gn:country_code":"SE",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2722928,
+    "gn:latitude":58.88333,
+    "gn:longitude":17.23333,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Berga",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688419,
+        102191581,
+        1159306877,
+        85633789,
+        1159303471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2722928
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"af2e75edc0bc68372a8f14ecd05a3ccf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303471,
+            "localadmin_id":1159306877,
+            "locality_id":1276619719,
+            "region_id":85688419
+        }
+    ],
+    "wof:id":1276619719,
+    "wof:lastmodified":1536892045,
+    "wof:name":"Berga",
+    "wof:parent_id":1159306877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.23333,
+    58.88333000000001,
+    17.23333,
+    58.88333000000001
+],
+  "geometry": {"coordinates":[17.23333,58.88333000000001],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1327289279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.10364,62.49633,16.10364,62.49633",
+    "geom:latitude":62.49633,
+    "geom:longitude":16.10364,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2260.0",
+    "gn:admin3_code":"226004.0",
+    "gn:admin4_code":"2502.0",
+    "gn:asciiname":"Gullgard",
+    "gn:country_code":"SE",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2709953,
+    "gn:latitude":62.49633,
+    "gn:longitude":16.10364,
+    "gn:modification_date":"2014-10-09",
+    "gn:name":"Gullg\u00e5rd",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688457,
+        102191581,
+        1125398107,
+        85633789,
+        1159303553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2709953
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"7b2a7a286e2bd9ca95f3090d36b476f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303553,
+            "localadmin_id":1125398107,
+            "locality_id":1327289279,
+            "region_id":85688457
+        }
+    ],
+    "wof:id":1327289279,
+    "wof:lastmodified":1536887186,
+    "wof:name":"Gullgard",
+    "wof:parent_id":1125398107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.10364,
+    62.49633000000001,
+    16.10364,
+    62.49633000000001
+],
+  "geometry": {"coordinates":[16.10364,62.49633000000001],"type":"Point"}
+}

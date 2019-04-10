@@ -1,0 +1,70 @@
+{
+  "id": 1343712605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.48333,57.53333,12.48333,57.53333",
+    "geom:latitude":57.53333,
+    "geom:longitude":12.48333,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"1463.0",
+    "gn:asciiname":"Bolg",
+    "gn:country_code":"SE",
+    "gn:dem":108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2720705,
+    "gn:latitude":57.53333,
+    "gn:longitude":12.48333,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Bolg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688411,
+        102191581,
+        1125394773,
+        85633789,
+        1159302961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2720705
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"2b0f1420fb5272874f5c0d17d7b1ba5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302961,
+            "localadmin_id":1125394773,
+            "locality_id":1343712605,
+            "region_id":85688411
+        }
+    ],
+    "wof:id":1343712605,
+    "wof:lastmodified":1536879261,
+    "wof:name":"Bolg",
+    "wof:parent_id":1125394773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.48333,
+    57.53333000000001,
+    12.48333,
+    57.53333000000001
+],
+  "geometry": {"coordinates":[12.48333,57.53333000000001],"type":"Point"}
+}

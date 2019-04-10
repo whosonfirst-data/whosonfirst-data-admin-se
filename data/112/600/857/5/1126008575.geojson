@@ -1,0 +1,119 @@
+{
+  "id": 1126008575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.15,60.18333,15.15,60.18333",
+    "geom:latitude":60.18333,
+    "geom:longitude":15.15,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":699,
+    "iso:country":"SE",
+    "lbl:latitude":60.18333,
+    "lbl:longitude":15.15,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "S\u00f6rvik"
+    ],
+    "name:eng_x_preferred":[
+        "S\u00f6rvik"
+    ],
+    "name:nan_x_preferred":[
+        "S\u00f6rvik"
+    ],
+    "name:nno_x_preferred":[
+        "S\u00f6rvik"
+    ],
+    "name:nob_x_preferred":[
+        "S\u00f6rvik"
+    ],
+    "name:nor_x_preferred":[
+        "S\u00f8rvik"
+    ],
+    "name:nor_x_variant":[
+        "S\u00f6rvik"
+    ],
+    "name:swe_x_preferred":[
+        "S\u00f6rvik"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2675003,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"S\u00f6rvik",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"Dalarnas L\u00e4n",
+    "qs_pg:photos":155,
+    "qs_pg:photos_1k":31,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":155,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":245501,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":905551,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"Dalarnas L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688447,
+        102191581,
+        1125382049,
+        85633789,
+        1159303345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2675003,
+        "gp:id":905551,
+        "qs_pg:id":245501,
+        "wd:id":"Q2352444"
+    },
+    "wof:country":"SE",
+    "wof:created":1497300130,
+    "wof:geomhash":"ee5903d0cb38b73665cadaefab1c11be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303345,
+            "localadmin_id":1125382049,
+            "locality_id":1126008575,
+            "region_id":85688447
+        }
+    ],
+    "wof:id":1126008575,
+    "wof:lastmodified":1529702012,
+    "wof:name":"S\u00f6rvik",
+    "wof:parent_id":1125382049,
+    "wof:placetype":"locality",
+    "wof:population":699,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.15,
+    60.18333,
+    15.15,
+    60.18333
+],
+  "geometry": {"coordinates":[15.15,60.18333],"type":"Point"}
+}

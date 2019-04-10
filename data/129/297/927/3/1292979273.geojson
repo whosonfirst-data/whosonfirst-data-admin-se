@@ -1,0 +1,71 @@
+{
+  "id": 1292979273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.56432,60.10595,15.56432,60.10595",
+    "geom:latitude":60.10595,
+    "geom:longitude":15.56432,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2061.0",
+    "gn:asciiname":"Saxe",
+    "gn:country_code":"SE",
+    "gn:dem":102,
+    "gn:elevation":"110.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2679644,
+    "gn:latitude":60.10595,
+    "gn:longitude":15.56432,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Saxe",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688447,
+        102191581,
+        1125421437,
+        85633789,
+        1159303435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2679644
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"dd48de93589dbea3569276e65218d99e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303435,
+            "localadmin_id":1125421437,
+            "locality_id":1292979273,
+            "region_id":85688447
+        }
+    ],
+    "wof:id":1292979273,
+    "wof:lastmodified":1537021735,
+    "wof:name":"Saxe",
+    "wof:parent_id":1125421437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.56432,
+    60.10595,
+    15.56432,
+    60.10595
+],
+  "geometry": {"coordinates":[15.56432,60.10595],"type":"Point"}
+}

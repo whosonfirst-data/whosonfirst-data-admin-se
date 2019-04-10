@@ -1,0 +1,108 @@
+{
+  "id": 85905319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000122,
+    "geom:area_square_m":765873.868508,
+    "geom:bbox":"17.9571533203,59.3527960253,17.9708862305,59.3652678163",
+    "geom:latitude":59.35797,
+    "geom:longitude":17.963874,
+    "gn:id":"",
+    "iso:country":"SE",
+    "lbl:latitude":59.360009,
+    "lbl:longitude":17.9654,
+    "mps:latitude":59.357611,
+    "mps:longitude":17.964005,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:note":"dup",
+    "mz:tier_locality":5,
+    "mz:tier_metro":1,
+    "name:swe_x_preferred":[
+        "L. Alby"
+    ],
+    "name:unk_x_variant":[
+        "L. Alby"
+    ],
+    "qs:gn_adm0_cc":"SE",
+    "qs:gn_id":0,
+    "qs:gn_local":2673730,
+    "qs:local_max":47943,
+    "qs:local_sum":372692,
+    "qs:localhoods":300,
+    "qs:name":"L. Alby",
+    "qs:name_adm0":"Sverige",
+    "qs:name_adm1":"Stockholms L\u00e4n",
+    "qs:name_adm2":"Sundbyberg",
+    "qs:name_local":"Stockholm",
+    "qs:photo_max":86,
+    "qs:photo_sum":329,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":19,
+    "qs:woe_adm0":23424954,
+    "qs:woe_adm1":2347067,
+    "qs:woe_adm2":12587479,
+    "qs:woe_lau":0,
+    "qs:woe_local":906057,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        85688429,
+        102191581,
+        1125362217,
+        85633789,
+        101752307,
+        1159303035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20151274,
+        "qs:id":896146,
+        "qs_pg:id":896146
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"08b00f3b8f7d65ebac01ba1ef17ca6a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303035,
+            "localadmin_id":1125362217,
+            "locality_id":101752307,
+            "neighbourhood_id":85905319,
+            "region_id":85688429
+        }
+    ],
+    "wof:id":85905319,
+    "wof:lang":[
+        "swe"
+    ],
+    "wof:lastmodified":1529702803,
+    "wof:name":"L. Alby",
+    "wof:parent_id":101752307,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.95715332030011,
+    59.35279602527508,
+    17.97088623048654,
+    59.36526781634394
+],
+  "geometry": {"coordinates":[[[17.96264648437511,59.35279602527508],[17.95715332030011,59.35279602527508],[17.95715332030011,59.35279608300003],[17.95715332030011,59.35559605225042],[17.95715332030011,59.35559611000006],[17.95715332030011,59.35669869230161],[17.95715332030011,59.35839590600007],[17.95832161177424,59.35839590600007],[17.95940271505378,59.35882014742519],[17.95989990231675,59.35979571138974],[17.95989990231686,59.36119546388763],[17.95989990231686,59.3625951598752],[17.95989990231686,59.36389550641728],[17.95989990230009,59.36399480530009],[17.96005170202756,59.36399480530009],[17.96199777324381,59.36526781634394],[17.96264648296273,59.36399480104465],[17.96539306640011,59.36399479728631],[17.96539306640011,59.36259516159534],[17.96813964841368,59.362595158671],[17.96813964841925,59.36119546560492],[17.97088623048654,59.36119546268559],[17.9708862304862,59.35979571018758],[17.97088623048347,59.3583958987878],[17.97088623048347,59.35699602967507],[17.97088623048103,59.3555961045049],[17.9681396484001,59.35559609956628],[17.9681396484001,59.35279608300003],[17.96727459838445,59.35279608300003],[17.96727458857657,59.35279602527508],[17.96264648437511,59.35279602527508]]],"type":"Polygon"}
+}

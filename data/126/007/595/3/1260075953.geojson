@@ -1,0 +1,76 @@
+{
+  "id": 1260075953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.93333,64.61667,13.93333,64.61667",
+    "geom:latitude":64.61667,
+    "geom:longitude":13.93333,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"2313.0",
+    "gn:asciiname":"Kyrkbolandet",
+    "gn:cc2":"SE",
+    "gn:country_code":"SE",
+    "gn:dem":393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2698155,
+    "gn:latitude":64.61667,
+    "gn:longitude":13.93333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kyrkbolandet",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kyrkbolet",
+        "Kyrkbollandet",
+        "Kyrkbolandet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688461,
+        102191581,
+        1125287461,
+        85633789,
+        1159303417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2698155
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"e67f79a40d1952c5c899c6c754db7e13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303417,
+            "localadmin_id":1125287461,
+            "locality_id":1260075953,
+            "region_id":85688461
+        }
+    ],
+    "wof:id":1260075953,
+    "wof:lastmodified":1537699988,
+    "wof:name":"Kyrkbolandet",
+    "wof:parent_id":1125287461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.93333,
+    64.61667,
+    13.93333,
+    64.61667
+],
+  "geometry": {"coordinates":[13.93333,64.61667],"type":"Point"}
+}

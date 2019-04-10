@@ -1,0 +1,126 @@
+{
+  "id": 101817163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00023,
+    "geom:area_square_m":1532368.796664,
+    "geom:bbox":"12.4628122632,57.3466959678,12.4849079405,57.3681329696",
+    "geom:latitude":57.356615,
+    "geom:longitude":12.473158,
+    "gn:population":1245,
+    "iso:country":"SE",
+    "lbl:latitude":57.356565,
+    "lbl:longitude":12.473326,
+    "mps:latitude":57.356565,
+    "mps:longitude":12.473326,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Horred"
+    ],
+    "name:eng_x_preferred":[
+        "Horred"
+    ],
+    "name:fre_x_preferred":[
+        "Horred"
+    ],
+    "name:nan_x_preferred":[
+        "Horred"
+    ],
+    "name:nld_x_preferred":[
+        "Horred"
+    ],
+    "name:nno_x_preferred":[
+        "Horred"
+    ],
+    "name:nob_x_preferred":[
+        "Horred"
+    ],
+    "name:nor_x_preferred":[
+        "Horred"
+    ],
+    "name:sco_x_preferred":[
+        "Horred"
+    ],
+    "name:swe_x_preferred":[
+        "Horred"
+    ],
+    "name:swe_x_variant":[
+        "Horreds"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Horred"
+    ],
+    "qs:a0":"Sverige",
+    "qs:a1":"*V\u00e4stra G\u00f6talands l\u00e4n",
+    "qs:a1r":"0",
+    "qs:adm0":"Sverige",
+    "qs:la":"Mark",
+    "qs:la_lc":"*SE1463",
+    "qs:level":"locality",
+    "qs:loc":"Horred",
+    "qs:loc_alt":"Horred",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":47,
+    "wof:belongsto":[
+        85688411,
+        102191581,
+        1125357171,
+        85633789,
+        1159302961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06d1ce84-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2704885,
+        "gp:id":893636,
+        "qs:id":213918,
+        "qs_pg:id":213918,
+        "wd:id":"Q2680901",
+        "wk:page":"Horred"
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"47c4dd12f2081791965a07dfb0452d68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302961,
+            "localadmin_id":1125357171,
+            "locality_id":101817163,
+            "region_id":85688411
+        }
+    ],
+    "wof:id":101817163,
+    "wof:lang":[
+        "swe"
+    ],
+    "wof:lastmodified":1529702227,
+    "wof:name":"Horred",
+    "wof:parent_id":1125357171,
+    "wof:placetype":"locality",
+    "wof:population":1245,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.46281226323879,
+    57.34669596780549,
+    12.48490794054794,
+    57.36813296960014
+],
+  "geometry": {"coordinates":[[[12.47886985582807,57.36810184977094],[12.47875053874475,57.36630508154428],[12.47709157998861,57.36633619967228],[12.47679354588382,57.3618442780222],[12.48342856857403,57.36171969759249],[12.48324931084665,57.35902455698505],[12.48490794054794,57.3589933623835],[12.4847883727457,57.35719660458585],[12.48147127004563,57.35725896956234],[12.48129218276074,57.35456382910718],[12.47963374697844,57.35459497781585],[12.47951445206064,57.35279821671219],[12.47785609331538,57.35282934290416],[12.47773689158743,57.3510325808212],[12.47607860987284,57.35106368449868],[12.47601905389968,57.35016530287805],[12.47436080940599,57.35019638489268],[12.47430129662405,57.34929800260306],[12.47264308935127,57.34932906295592],[12.47258361975577,57.34843067999822],[12.47092544970366,57.34846171869037],[12.47086602329017,57.3475633350651],[12.46920789045828,57.34759435209776],[12.46914850722249,57.34669596780549],[12.4674904116111,57.34672696317978],[12.46760910186288,57.34852373363771],[12.46595092407773,57.34855470989265],[12.46612886535956,57.35124986947051],[12.46281226323879,57.35131176461442],[12.4630492470186,57.35490532000938],[12.46470770861811,57.35487437946398],[12.46494490562094,57.35846793437094],[12.46660352393405,57.35843696962513],[12.46672222233752,57.36023374647226],[12.468380917731,57.36020275921453],[12.4685591101678,57.36289792330325],[12.4735355393716,57.36280482897951],[12.47383319201549,57.36729676003029],[12.47715119698637,57.3672345845456],[12.47721081737711,57.36813296960014],[12.47886985582807,57.36810184977094]]],"type":"Polygon"}
+}

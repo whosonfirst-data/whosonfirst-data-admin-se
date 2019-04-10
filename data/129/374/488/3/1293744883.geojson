@@ -1,0 +1,70 @@
+{
+  "id": 1293744883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.78333,57.71667,11.78333,57.71667",
+    "geom:latitude":57.71667,
+    "geom:longitude":11.78333,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"1480.0",
+    "gn:asciiname":"Bur",
+    "gn:country_code":"SE",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3331634,
+    "gn:latitude":57.71667,
+    "gn:longitude":11.78333,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Bur",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688411,
+        102191581,
+        1125410003,
+        85633789,
+        1159302989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3331634
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"353a9deb5455021490d9f9997e0e2195",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302989,
+            "localadmin_id":1125410003,
+            "locality_id":1293744883,
+            "region_id":85688411
+        }
+    ],
+    "wof:id":1293744883,
+    "wof:lastmodified":1536913715,
+    "wof:name":"Bur",
+    "wof:parent_id":1125410003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.78333,
+    57.71666999999999,
+    11.78333,
+    57.71666999999999
+],
+  "geometry": {"coordinates":[11.78333,57.71666999999999],"type":"Point"}
+}

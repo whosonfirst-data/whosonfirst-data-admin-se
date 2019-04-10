@@ -1,0 +1,68 @@
+{
+  "id": 1309901209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.96667,56.85,15.96667,56.85",
+    "geom:latitude":56.85,
+    "geom:longitude":15.96667,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"881.0",
+    "gn:asciiname":"Stora Marken",
+    "gn:country_code":"SE",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2672814,
+    "gn:latitude":56.85,
+    "gn:longitude":15.96667,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Stora Marken",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688401,
+        1125277887,
+        1159302907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2672814
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"f501aeda316ff7ff8c99840af724ffc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "county_id":1159302907,
+            "localadmin_id":1125277887,
+            "locality_id":1309901209,
+            "region_id":85688401
+        }
+    ],
+    "wof:id":1309901209,
+    "wof:lastmodified":1536793850,
+    "wof:name":"Stora Marken",
+    "wof:parent_id":1125277887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.96667,
+    56.85,
+    15.96667,
+    56.85
+],
+  "geometry": {"coordinates":[15.96667,56.85],"type":"Point"}
+}

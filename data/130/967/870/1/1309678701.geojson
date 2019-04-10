@@ -1,0 +1,70 @@
+{
+  "id": 1309678701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.05,59.6,18.05,59.6",
+    "geom:latitude":59.6,
+    "geom:longitude":18.05,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"115.0",
+    "gn:asciiname":"Husby",
+    "gn:country_code":"SE",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2704174,
+    "gn:latitude":59.6,
+    "gn:longitude":18.05,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Husby",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688429,
+        102191581,
+        1159307305,
+        85633789,
+        1159303513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2704174
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"851ed503f71abb42ba22ca9cc00345c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303513,
+            "localadmin_id":1159307305,
+            "locality_id":1309678701,
+            "region_id":85688429
+        }
+    ],
+    "wof:id":1309678701,
+    "wof:lastmodified":1536615129,
+    "wof:name":"Husby",
+    "wof:parent_id":1159307305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.05,
+    59.6,
+    18.05,
+    59.6
+],
+  "geometry": {"coordinates":[18.05,59.6],"type":"Point"}
+}

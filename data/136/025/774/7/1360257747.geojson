@@ -1,0 +1,79 @@
+{
+  "id": 1360257747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.41667,59.13333,15.41667,59.13333",
+    "geom:latitude":59.13333,
+    "geom:longitude":15.41667,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1880.0",
+    "gn:asciiname":"Hore",
+    "gn:country_code":"SE",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2705038,
+    "gn:latitude":59.13333,
+    "gn:longitude":15.41667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"H\u00f6re",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "H\u00f6re"
+    ],
+    "name:nor_x_variant":[
+        "H\u00f8re"
+    ],
+    "name:und_x_variant":[
+        "H\u00f6re"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688421,
+        102191581,
+        1125355933,
+        85633789,
+        1159303031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2705038
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"793baa1b44cc5dc6007dba7cdd6f7edb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303031,
+            "localadmin_id":1125355933,
+            "locality_id":1360257747,
+            "region_id":85688421
+        }
+    ],
+    "wof:id":1360257747,
+    "wof:lastmodified":1537700018,
+    "wof:name":"Hore",
+    "wof:parent_id":1125355933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.41667,
+    59.13333000000001,
+    15.41667,
+    59.13333000000001
+],
+  "geometry": {"coordinates":[15.41667,59.13333000000001],"type":"Point"}
+}

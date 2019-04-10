@@ -1,0 +1,71 @@
+{
+  "id": 1243405369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.05,55.56667,13.05,55.56667",
+    "geom:latitude":55.56667,
+    "geom:longitude":13.05,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"1280.0",
+    "gn:asciiname":"Hindby",
+    "gn:country_code":"SE",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2706391,
+    "gn:latitude":55.56667,
+    "gn:longitude":13.05,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Hindby",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688377,
+        102191581,
+        1125421463,
+        85633789,
+        1159303367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2706391,
+        "wk:page":"Hindby"
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"38305b3851b46641b94ca81cd98b5a90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303367,
+            "localadmin_id":1125421463,
+            "locality_id":1243405369,
+            "region_id":85688377
+        }
+    ],
+    "wof:id":1243405369,
+    "wof:lastmodified":1537573361,
+    "wof:name":"Hindby",
+    "wof:parent_id":1125421463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.05,
+    55.56667,
+    13.05,
+    55.56667
+],
+  "geometry": {"coordinates":[13.05,55.56667],"type":"Point"}
+}

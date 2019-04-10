@@ -1,0 +1,70 @@
+{
+  "id": 1259545001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.15,55.71667,14.15,55.71667",
+    "geom:latitude":55.71667,
+    "geom:longitude":14.15,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"1291.0",
+    "gn:asciiname":"Skepparp",
+    "gn:country_code":"SE",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2677730,
+    "gn:latitude":55.71667,
+    "gn:longitude":14.15,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Skepparp",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688377,
+        102191581,
+        1159307023,
+        85633789,
+        1159302931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2677730
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"f308ab406ce5f175c6d14c9ac5a6fe12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302931,
+            "localadmin_id":1159307023,
+            "locality_id":1259545001,
+            "region_id":85688377
+        }
+    ],
+    "wof:id":1259545001,
+    "wof:lastmodified":1536770950,
+    "wof:name":"Skepparp",
+    "wof:parent_id":1159307023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.15,
+    55.71666999999999,
+    14.15,
+    55.71666999999999
+],
+  "geometry": {"coordinates":[14.15,55.71666999999999],"type":"Point"}
+}

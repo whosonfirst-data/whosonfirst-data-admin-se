@@ -1,0 +1,81 @@
+{
+  "id": 1277029777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.33522,62.61765,17.33522,62.61765",
+    "geom:latitude":62.61765,
+    "geom:longitude":17.33522,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2262.0",
+    "gn:admin3_code":"226202.0",
+    "gn:admin4_code":"2477.0",
+    "gn:asciiname":"Oppom",
+    "gn:country_code":"SE",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2686771,
+    "gn:latitude":62.61765,
+    "gn:longitude":17.33522,
+    "gn:modification_date":"2014-10-09",
+    "gn:name":"\u00d6ppom",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "\u00d6ppom"
+    ],
+    "name:nor_x_variant":[
+        "\u00d8ppom"
+    ],
+    "name:und_x_variant":[
+        "\u00d6ppom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688457,
+        102191581,
+        1125329251,
+        85633789,
+        1159303091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2686771
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"cda4debbe7d333a609397b8ff335a3b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303091,
+            "localadmin_id":1125329251,
+            "locality_id":1277029777,
+            "region_id":85688457
+        }
+    ],
+    "wof:id":1277029777,
+    "wof:lastmodified":1537699918,
+    "wof:name":"Oppom",
+    "wof:parent_id":1125329251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.33522,
+    62.61765,
+    17.33522,
+    62.61765
+],
+  "geometry": {"coordinates":[17.33522,62.61765],"type":"Point"}
+}

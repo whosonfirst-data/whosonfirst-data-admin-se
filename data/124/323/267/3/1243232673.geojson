@@ -1,0 +1,79 @@
+{
+  "id": 1243232673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.41667,60.01667,18.41667,60.01667",
+    "geom:latitude":60.01667,
+    "geom:longitude":18.41667,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"380.0",
+    "gn:asciiname":"Osterbyggeby",
+    "gn:country_code":"SE",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2685901,
+    "gn:latitude":60.01667,
+    "gn:longitude":18.41667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"\u00d6sterbyggeby",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "\u00d6sterbyggeby"
+    ],
+    "name:nor_x_variant":[
+        "\u00d8sterbyggeby"
+    ],
+    "name:und_x_variant":[
+        "\u00d6sterbyggeby"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688439,
+        102191581,
+        1125322121,
+        85633789,
+        1159303253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2685901
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"74df2be31227da8e36eae6cd8ef767f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303253,
+            "localadmin_id":1125322121,
+            "locality_id":1243232673,
+            "region_id":85688439
+        }
+    ],
+    "wof:id":1243232673,
+    "wof:lastmodified":1537699904,
+    "wof:name":"Osterbyggeby",
+    "wof:parent_id":1125322121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.41667,
+    60.01667,
+    18.41667,
+    60.01667
+],
+  "geometry": {"coordinates":[18.41667,60.01667],"type":"Point"}
+}

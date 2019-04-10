@@ -1,0 +1,70 @@
+{
+  "id": 1192972729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.88333,59.05,17.88333,59.05",
+    "geom:latitude":59.05,
+    "geom:longitude":17.88333,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"192.0",
+    "gn:asciiname":"Trollsta",
+    "gn:country_code":"SE",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2667285,
+    "gn:latitude":59.05,
+    "gn:longitude":17.88333,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Trollsta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688429,
+        102191581,
+        1159306759,
+        85633789,
+        1159303285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2667285
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"cde455428bef5ec6e6a3306ee1bf4e63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303285,
+            "localadmin_id":1159306759,
+            "locality_id":1192972729,
+            "region_id":85688429
+        }
+    ],
+    "wof:id":1192972729,
+    "wof:lastmodified":1536376591,
+    "wof:name":"Trollsta",
+    "wof:parent_id":1159306759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.88332999999999,
+    59.05,
+    17.88332999999999,
+    59.05
+],
+  "geometry": {"coordinates":[17.88332999999999,59.05],"type":"Point"}
+}

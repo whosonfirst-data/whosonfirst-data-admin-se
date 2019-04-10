@@ -1,0 +1,70 @@
+{
+  "id": 1259634211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.65,58.01667,12.65,58.01667",
+    "geom:latitude":58.01667,
+    "geom:longitude":12.65,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"1442.0",
+    "gn:asciiname":"Olofstorp",
+    "gn:country_code":"SE",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2687064,
+    "gn:latitude":58.01667,
+    "gn:longitude":12.65,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Olofstorp",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688411,
+        102191581,
+        1125278015,
+        85633789,
+        1159303255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2687064
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"508cf7a3f3fe8e103a5719462dc4ccf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303255,
+            "localadmin_id":1125278015,
+            "locality_id":1259634211,
+            "region_id":85688411
+        }
+    ],
+    "wof:id":1259634211,
+    "wof:lastmodified":1536640845,
+    "wof:name":"Olofstorp",
+    "wof:parent_id":1125278015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.65,
+    58.01667,
+    12.65,
+    58.01667
+],
+  "geometry": {"coordinates":[12.65,58.01667],"type":"Point"}
+}

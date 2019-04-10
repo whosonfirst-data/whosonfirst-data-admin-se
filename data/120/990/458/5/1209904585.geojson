@@ -1,0 +1,72 @@
+{
+  "id": 1209904585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.49536,60.45476,15.49536,60.45476",
+    "geom:latitude":60.45476,
+    "geom:longitude":15.49536,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2081.0",
+    "gn:admin3_code":"208102.0",
+    "gn:admin4_code":"2378.0",
+    "gn:asciiname":"Sveden",
+    "gn:country_code":"SE",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2670111,
+    "gn:latitude":60.45476,
+    "gn:longitude":15.49536,
+    "gn:modification_date":"2014-06-02",
+    "gn:name":"Sveden",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688447,
+        102191581,
+        1125277915,
+        85633789,
+        1159302993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2670111
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"c9dbd35a752bc213163ece83d285ef88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302993,
+            "localadmin_id":1125277915,
+            "locality_id":1209904585,
+            "region_id":85688447
+        }
+    ],
+    "wof:id":1209904585,
+    "wof:lastmodified":1536384891,
+    "wof:name":"Sveden",
+    "wof:parent_id":1125277915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.49536,
+    60.45476,
+    15.49536,
+    60.45476
+],
+  "geometry": {"coordinates":[15.49536,60.45476],"type":"Point"}
+}

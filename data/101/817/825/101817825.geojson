@@ -1,0 +1,128 @@
+{
+  "id": 101817825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000148,
+    "geom:area_square_m":1025225.678631,
+    "geom:bbox":"13.0772371838,55.8618436661,13.0993553884,55.8754259206",
+    "geom:latitude":55.867558,
+    "geom:longitude":13.08818,
+    "gn:population":1644,
+    "iso:country":"SE",
+    "lbl:latitude":55.86741,
+    "lbl:longitude":13.087259,
+    "mps:latitude":55.86741,
+    "mps:longitude":13.087259,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Teckomatorp"
+    ],
+    "name:dut_x_preferred":[
+        "Teckomatorp"
+    ],
+    "name:eng_x_preferred":[
+        "Teckomatorp"
+    ],
+    "name:fre_x_preferred":[
+        "Teckomatorp"
+    ],
+    "name:ger_x_preferred":[
+        "Teckomatorp"
+    ],
+    "name:nan_x_preferred":[
+        "Teckomatorp"
+    ],
+    "name:nld_x_preferred":[
+        "Teckomatorp"
+    ],
+    "name:nno_x_preferred":[
+        "Teckomatorp"
+    ],
+    "name:nob_x_preferred":[
+        "Teckomatorp"
+    ],
+    "name:nor_x_preferred":[
+        "Teckomatorp"
+    ],
+    "name:swe_x_preferred":[
+        "Teckomatorp"
+    ],
+    "name:swe_x_variant":[
+        "Teckomatorps"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Teckomatorp"
+    ],
+    "qs:a0":"Sverige",
+    "qs:a1":"*Sk\u00e5ne l\u00e4n",
+    "qs:a1r":"0",
+    "qs:adm0":"Sverige",
+    "qs:la":"Sval\u00f6v",
+    "qs:la_lc":"*SE1214",
+    "qs:level":"locality",
+    "qs:loc":"Teckomatorp",
+    "qs:loc_alt":"Teckomatorp",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":338,
+    "wof:belongsto":[
+        85688377,
+        102191581,
+        1159305983,
+        85633789,
+        1159303189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06d18924-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2669254,
+        "gp:id":907354,
+        "qs:id":1075256,
+        "qs_pg:id":1075256,
+        "wd:id":"Q1016384"
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"cd954bc9b981eb3b1d3b586f8376537a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303189,
+            "localadmin_id":1159305983,
+            "locality_id":101817825,
+            "region_id":85688377
+        }
+    ],
+    "wof:id":101817825,
+    "wof:lang":[
+        "swe"
+    ],
+    "wof:lastmodified":1529702660,
+    "wof:name":"Teckomatorp",
+    "wof:parent_id":1159305983,
+    "wof:placetype":"locality",
+    "wof:population":1644,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.07723718380367,
+    55.86184366605602,
+    13.09935538842547,
+    55.87542592061294
+],
+  "geometry": {"coordinates":[[[13.08889547806683,55.87538734984241],[13.08861368156209,55.87179627829363],[13.09020880594898,55.87175769162093],[13.09013833015223,55.87085992490984],[13.09492357701481,55.87074404844941],[13.09478241936569,55.86894852125351],[13.09637742329056,55.86890985795873],[13.09630681397408,55.8680120954686],[13.09790177871929,55.86797341327139],[13.09776049911403,55.866177890507],[13.09935538842547,55.86613919041321],[13.09928471814197,55.86524143013924],[13.0960950091025,55.86531880841227],[13.09602441517001,55.86442104619817],[13.09442959251993,55.86445970447409],[13.09428848868657,55.86266417824521],[13.09109897962509,55.86274143107266],[13.09102850596332,55.86184366605602],[13.08624432924898,55.86195939301717],[13.08631469417247,55.86285716103799],[13.08153038252323,55.86297271187124],[13.08195199999625,55.86835933945201],[13.07876200931076,55.868436285808],[13.07883221976601,55.86933405931273],[13.07723718380367,55.8693725036286],[13.07737754366093,55.87116805284421],[13.08375796018618,55.87101414814367],[13.08382829091835,55.87191191885955],[13.08542342404508,55.87187339191314],[13.0856345480455,55.87456670147799],[13.08722978707118,55.87452815161942],[13.08730020568117,55.87542592061294],[13.08889547806683,55.87538734984241]]],"type":"Polygon"}
+}

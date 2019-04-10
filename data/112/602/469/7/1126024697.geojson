@@ -1,0 +1,119 @@
+{
+  "id": 1126024697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.98333,59.05,14.98333,59.05",
+    "geom:latitude":59.05,
+    "geom:longitude":14.98333,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":869,
+    "iso:country":"SE",
+    "lbl:latitude":59.05,
+    "lbl:longitude":14.98333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "\u00d6stansj\u00f6"
+    ],
+    "name:eng_x_preferred":[
+        "\u00d6stansj\u00f6"
+    ],
+    "name:nan_x_preferred":[
+        "\u00d6stansj\u00f6"
+    ],
+    "name:nno_x_preferred":[
+        "\u00d6stansj\u00f6"
+    ],
+    "name:nob_x_preferred":[
+        "\u00d6stansj\u00f6"
+    ],
+    "name:nor_x_preferred":[
+        "\u00d8stansj\u00f8"
+    ],
+    "name:nor_x_variant":[
+        "\u00d6stansj\u00f6"
+    ],
+    "name:swe_x_preferred":[
+        "\u00d6stansj\u00f6"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2686066,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"\u00d6stansj\u00f6",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"\u00d6rebro L\u00e4n",
+    "qs_pg:photos":55,
+    "qs_pg:photos_1k":11,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":55,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":315637,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":901001,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"\u00d6rebro L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688421,
+        102191581,
+        1125356469,
+        85633789,
+        1159303539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2686066,
+        "gp:id":901001,
+        "qs_pg:id":315637,
+        "wd:id":"Q2607926"
+    },
+    "wof:country":"SE",
+    "wof:created":1497301061,
+    "wof:geomhash":"4ca35a933df750dfe18bfccb186cd9f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303539,
+            "localadmin_id":1125356469,
+            "locality_id":1126024697,
+            "region_id":85688421
+        }
+    ],
+    "wof:id":1126024697,
+    "wof:lastmodified":1529703062,
+    "wof:name":"\u00d6stansj\u00f6",
+    "wof:parent_id":1125356469,
+    "wof:placetype":"locality",
+    "wof:population":869,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.98333,
+    59.05,
+    14.98333,
+    59.05
+],
+  "geometry": {"coordinates":[14.98333,59.05],"type":"Point"}
+}

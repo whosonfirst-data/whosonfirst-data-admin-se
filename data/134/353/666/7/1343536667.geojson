@@ -1,0 +1,75 @@
+{
+  "id": 1343536667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.06667,58.88333,17.06667,58.88333",
+    "geom:latitude":58.88333,
+    "geom:longitude":17.06667,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"480.0",
+    "gn:asciiname":"Glottra",
+    "gn:cc2":"SE",
+    "gn:country_code":"SE",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2711832,
+    "gn:latitude":58.88333,
+    "gn:longitude":17.06667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Glottra",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gl\u00e5ttra",
+        "Glottra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688419,
+        102191581,
+        1159307585,
+        85633789,
+        1159303471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2711832
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"d9d5fc19452c753846bbeeefd02e8caf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303471,
+            "localadmin_id":1159307585,
+            "locality_id":1343536667,
+            "region_id":85688419
+        }
+    ],
+    "wof:id":1343536667,
+    "wof:lastmodified":1537700066,
+    "wof:name":"Glottra",
+    "wof:parent_id":1159307585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.06667,
+    58.88333000000001,
+    17.06667,
+    58.88333000000001
+],
+  "geometry": {"coordinates":[17.06667,58.88333000000001],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1310093889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.3,60.03333,15.3,60.03333",
+    "geom:latitude":60.03333,
+    "geom:longitude":15.3,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2061.0",
+    "gn:asciiname":"Ibbarbo",
+    "gn:country_code":"SE",
+    "gn:dem":235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2703941,
+    "gn:latitude":60.03333,
+    "gn:longitude":15.3,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Ibbarbo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688447,
+        102191581,
+        1125417535,
+        85633789,
+        1159303435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2703941
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"68656692c06a15fcffff3e04df6ee048",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303435,
+            "localadmin_id":1125417535,
+            "locality_id":1310093889,
+            "region_id":85688447
+        }
+    ],
+    "wof:id":1310093889,
+    "wof:lastmodified":1537012569,
+    "wof:name":"Ibbarbo",
+    "wof:parent_id":1125417535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.3,
+    60.03333000000001,
+    15.3,
+    60.03333000000001
+],
+  "geometry": {"coordinates":[15.3,60.03333000000001],"type":"Point"}
+}

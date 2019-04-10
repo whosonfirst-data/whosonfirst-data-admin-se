@@ -1,0 +1,102 @@
+{
+  "id": 1126025113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.25,63.98333,20.25,63.98333",
+    "geom:latitude":63.98333,
+    "geom:longitude":20.25,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":302,
+    "gn:population":210,
+    "iso:country":"SE",
+    "lbl:latitude":63.98333,
+    "lbl:longitude":20.25,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0424\u043b\u0443\u0440\u043a\u043c\u0430\u0440\u043a"
+    ],
+    "name:dut_x_preferred":[
+        "Flurkmark"
+    ],
+    "name:eng_x_preferred":[
+        "Flurkmark"
+    ],
+    "name:nan_x_preferred":[
+        "Flurkmark"
+    ],
+    "name:nno_x_preferred":[
+        "Flurkmark"
+    ],
+    "name:nob_x_preferred":[
+        "Flurkmark"
+    ],
+    "name:swe_x_preferred":[
+        "Flurkmark"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":606145,
+    "qs_pg:gn_pop":302,
+    "qs_pg:name":"Flurkmark",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":550246,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688465,
+        102191581,
+        1125325333,
+        85633789,
+        1159303017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":606145,
+        "qs_pg:id":550246,
+        "wd:id":"Q1916789"
+    },
+    "wof:country":"SE",
+    "wof:created":1497301091,
+    "wof:geomhash":"b037f462fa65e9a6e17c4f1df9310c75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303017,
+            "localadmin_id":1125325333,
+            "locality_id":1126025113,
+            "region_id":85688465
+        }
+    ],
+    "wof:id":1126025113,
+    "wof:lastmodified":1529702979,
+    "wof:name":"Flurkmark",
+    "wof:parent_id":1125325333,
+    "wof:placetype":"locality",
+    "wof:population":210,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.25,
+    63.98333,
+    20.25,
+    63.98333
+],
+  "geometry": {"coordinates":[20.25,63.98333],"type":"Point"}
+}

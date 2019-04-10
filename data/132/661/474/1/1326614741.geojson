@@ -1,0 +1,79 @@
+{
+  "id": 1326614741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.03333,57.76667,15.03333,57.76667",
+    "geom:latitude":57.76667,
+    "geom:longitude":15.03333,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"604.0",
+    "gn:asciiname":"Stora Lonhult",
+    "gn:country_code":"SE",
+    "gn:dem":316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2672857,
+    "gn:latitude":57.76667,
+    "gn:longitude":15.03333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Stora L\u00f6nhult",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Stora L\u00f6nhult"
+    ],
+    "name:nor_x_variant":[
+        "Stora L\u00f8nhult"
+    ],
+    "name:und_x_variant":[
+        "Stora L\u00f6nhult"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688395,
+        102191581,
+        1125277645,
+        85633789,
+        1159303047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2672857
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"c5935bf53819ff704df973029ec02afc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303047,
+            "localadmin_id":1125277645,
+            "locality_id":1326614741,
+            "region_id":85688395
+        }
+    ],
+    "wof:id":1326614741,
+    "wof:lastmodified":1537699793,
+    "wof:name":"Stora Lonhult",
+    "wof:parent_id":1125277645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.03333,
+    57.76667,
+    15.03333,
+    57.76667
+],
+  "geometry": {"coordinates":[15.03333,57.76667],"type":"Point"}
+}

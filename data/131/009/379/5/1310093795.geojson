@@ -1,0 +1,79 @@
+{
+  "id": 1310093795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.33333,60.28333,14.33333,60.28333",
+    "geom:latitude":60.28333,
+    "geom:longitude":14.33333,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2021.0",
+    "gn:asciiname":"Kolarasen",
+    "gn:country_code":"SE",
+    "gn:dem":375,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2700030,
+    "gn:latitude":60.28333,
+    "gn:longitude":14.33333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"K\u00f6lar\u00e5sen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "K\u00f6lar\u00e5sen"
+    ],
+    "name:nor_x_variant":[
+        "K\u00f8lar\u00e5sen"
+    ],
+    "name:und_x_variant":[
+        "K\u00f6lar\u00e5sen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688447,
+        102191581,
+        1125395835,
+        85633789,
+        1159303269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2700030
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"e69730fd67909bb693ca2622d5bc19a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303269,
+            "localadmin_id":1125395835,
+            "locality_id":1310093795,
+            "region_id":85688447
+        }
+    ],
+    "wof:id":1310093795,
+    "wof:lastmodified":1537699997,
+    "wof:name":"Kolarasen",
+    "wof:parent_id":1125395835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.33333,
+    60.28333000000001,
+    14.33333,
+    60.28333000000001
+],
+  "geometry": {"coordinates":[14.33333,60.28333000000001],"type":"Point"}
+}

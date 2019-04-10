@@ -1,0 +1,70 @@
+{
+  "id": 1310297813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.15874,57.49989,18.15874,57.49989",
+    "geom:latitude":57.49989,
+    "geom:longitude":18.15874,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"980.0",
+    "gn:asciiname":"Kroks",
+    "gn:country_code":"SE",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2699174,
+    "gn:latitude":57.49989,
+    "gn:longitude":18.15874,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Kroks",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688405,
+        102191581,
+        1159305801,
+        85633789,
+        1159303535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2699174
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"23a94948d17b0837642076b8508aebf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303535,
+            "localadmin_id":1159305801,
+            "locality_id":1310297813,
+            "region_id":85688405
+        }
+    ],
+    "wof:id":1310297813,
+    "wof:lastmodified":1536719392,
+    "wof:name":"Kroks",
+    "wof:parent_id":1159305801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.15874,
+    57.49989,
+    18.15874,
+    57.49989
+],
+  "geometry": {"coordinates":[18.15874,57.49989],"type":"Point"}
+}

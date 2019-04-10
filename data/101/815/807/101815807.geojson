@@ -1,0 +1,122 @@
+{
+  "id": 101815807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000172,
+    "geom:area_square_m":1094169.401088,
+    "geom:bbox":"16.3637756112,59.0148490613,16.3897400838,59.0249386809",
+    "geom:latitude":59.019974,
+    "geom:longitude":16.376821,
+    "iso:country":"SE",
+    "lbl:latitude":59.019548,
+    "lbl:longitude":16.377871,
+    "mps:latitude":59.019548,
+    "mps:longitude":16.377871,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Valla"
+    ],
+    "name:eng_x_preferred":[
+        "Valla"
+    ],
+    "name:ita_x_preferred":[
+        "Valla"
+    ],
+    "name:nan_x_preferred":[
+        "Valla"
+    ],
+    "name:nld_x_preferred":[
+        "Valla"
+    ],
+    "name:nno_x_preferred":[
+        "Valla i S\u00f6dermanland"
+    ],
+    "name:nob_x_preferred":[
+        "Valla"
+    ],
+    "name:nor_x_preferred":[
+        "Valla"
+    ],
+    "name:pol_x_preferred":[
+        "Valla"
+    ],
+    "name:swe_x_preferred":[
+        "Valla"
+    ],
+    "name:swe_x_variant":[
+        "Vallas"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Valla"
+    ],
+    "qs:a0":"Sverige",
+    "qs:a1":"*S\u00f6dermanlands l\u00e4n",
+    "qs:a1r":"0",
+    "qs:adm0":"Sverige",
+    "qs:la":"Katrineholm",
+    "qs:la_lc":"*SE0483",
+    "qs:level":"locality",
+    "qs:loc":"Valla",
+    "qs:loc_alt":"Valla",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":45,
+    "wof:belongsto":[
+        85688419,
+        102191581,
+        1125359597,
+        85633789,
+        1159303103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06d0f2d4-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2665578,
+        "gp:id":908811,
+        "qs:id":271898,
+        "qs_pg:id":421010,
+        "wd:id":"Q2369967",
+        "wk:page":"Valla, Sweden"
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"d7e3951a010f1ee23dabf5453ba830dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303103,
+            "localadmin_id":1125359597,
+            "locality_id":101815807,
+            "region_id":85688419
+        }
+    ],
+    "wof:id":101815807,
+    "wof:lang":[
+        "swe"
+    ],
+    "wof:lastmodified":1529702849,
+    "wof:name":"Valla",
+    "wof:parent_id":1125359597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.36377561124033,
+    59.01484906129264,
+    16.38974008380944,
+    59.02493868093336
+],
+  "geometry": {"coordinates":[[[16.38017041216199,59.02485814835097],[16.38000720949833,59.02396287457464],[16.38520056105529,59.0237211531051],[16.38503723707942,59.02282588637701],[16.38849934674579,59.02266463447324],[16.38800917120705,59.01997884866989],[16.38974008380944,59.01989819703039],[16.38941326149836,59.01810767816283],[16.38595160349598,59.01826895035168],[16.38578829428536,59.0173736863664],[16.38405749774745,59.01745428746659],[16.38389424193787,59.01655902122434],[16.38216348159892,59.01663959822042],[16.38183708650183,59.01484906129264],[16.37491431983364,59.01517113290714],[16.37507733787629,59.01606641063199],[16.3664234935477,59.01646852177015],[16.36691195098183,59.01915439018529],[16.36518102876613,59.01923475403686],[16.36550662825465,59.02102533797381],[16.36377561124033,59.02110568468339],[16.36393838186785,59.02200097907775],[16.36566944256316,59.02192063004861],[16.36583226658269,59.02281592219447],[16.36756336351516,59.02273554906265],[16.3677262409318,59.02363083895926],[16.37118849981812,59.02347002270494],[16.37135147432383,59.02436530802936],[16.37827607738296,59.02404340483213],[16.37843923636052,59.02493868093336],[16.38017041216199,59.02485814835097]]],"type":"Polygon"}
+}

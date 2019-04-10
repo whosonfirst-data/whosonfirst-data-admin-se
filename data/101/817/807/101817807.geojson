@@ -1,0 +1,135 @@
+{
+  "id": 101817807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000128,
+    "geom:area_square_m":885852.283137,
+    "geom:bbox":"12.7946754951,55.9835822227,12.8113190138,55.9961184988",
+    "geom:latitude":55.989131,
+    "geom:longitude":12.802932,
+    "gn:population":1387,
+    "iso:country":"SE",
+    "lbl:latitude":55.989038,
+    "lbl:longitude":12.801426,
+    "mps:latitude":55.989038,
+    "mps:longitude":12.801426,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0413\u0430\u043d\u0442\u043e\u0444\u0442\u0430"
+    ],
+    "name:dut_x_preferred":[
+        "Gantofta"
+    ],
+    "name:eng_x_preferred":[
+        "Ganntofta"
+    ],
+    "name:fin_x_preferred":[
+        "Gantofta"
+    ],
+    "name:ger_x_preferred":[
+        "Gantofta"
+    ],
+    "name:nan_x_preferred":[
+        "Gantofta"
+    ],
+    "name:nld_x_preferred":[
+        "Gantofta"
+    ],
+    "name:nno_x_preferred":[
+        "Gantofta"
+    ],
+    "name:nob_x_preferred":[
+        "Gantofta"
+    ],
+    "name:nor_x_preferred":[
+        "Gantofta"
+    ],
+    "name:sco_x_preferred":[
+        "Gantofta"
+    ],
+    "name:swe_x_preferred":[
+        "Gantofta"
+    ],
+    "name:swe_x_variant":[
+        "Gantoftas"
+    ],
+    "name:unk_x_variant":[
+        "Ganntofta"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Gantofta"
+    ],
+    "qs:a0":"Sverige",
+    "qs:a1":"*Sk\u00e5ne l\u00e4n",
+    "qs:a1r":"0",
+    "qs:adm0":"Sverige",
+    "qs:la":"Helsingborg",
+    "qs:la_lc":"*SE1283",
+    "qs:level":"locality",
+    "qs:loc":"Gantofta",
+    "qs:loc_alt":"Gantofta",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":55,
+    "wof:belongsto":[
+        85688377,
+        102191581,
+        1125356605,
+        85633789,
+        1159302965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06d200e8-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2712859,
+        "gp:id":890381,
+        "qs:id":1204955,
+        "qs_pg:id":1204955,
+        "wd:id":"Q2245383",
+        "wk:page":"Gantofta"
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"0dc88f6689ed5c233db80cb3dbff2ca7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302965,
+            "localadmin_id":1125356605,
+            "locality_id":101817807,
+            "region_id":85688377
+        }
+    ],
+    "wof:id":101817807,
+    "wof:lang":[
+        "swe"
+    ],
+    "wof:lastmodified":1529702659,
+    "wof:name":"Gantofta",
+    "wof:parent_id":1125356605,
+    "wof:placetype":"locality",
+    "wof:population":1387,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.79467549507086,
+    55.98358222273458,
+    12.81131901377825,
+    55.99611849877766
+],
+  "geometry": {"coordinates":[[[12.81131901377825,55.99421729435812],[12.8111902251224,55.99242139558532],[12.80638946100038,55.99252668990351],[12.80619663343577,55.98983283415185],[12.80779678114345,55.98979775877444],[12.8077324757632,55.98889980794394],[12.80933258424665,55.98886471349851],[12.80926824583116,55.98796676366885],[12.81086831509117,55.98793165015672],[12.81067521130649,55.98523780392816],[12.80747528939611,55.9853080054794],[12.8074110015915,55.98441005507755],[12.80421114208775,55.98448017487908],[12.80414693087999,55.98358222273458],[12.80094713379242,55.98365226079051],[12.80101127191625,55.98455021476087],[12.7962114466842,55.98465512473314],[12.7962754786808,55.98555308152436],[12.79467549507086,55.98558801246554],[12.7949315118658,55.98917984413424],[12.79653164167507,55.98914490954996],[12.79678786069621,55.99273673895487],[12.79838813407559,55.99270178074147],[12.79845223414981,55.99359973739683],[12.8000525414289,55.99356475828654],[12.80011668157255,55.99446271411608],[12.80171702275123,55.9944277141077],[12.80165284604357,55.99352975919084],[12.80645374388462,55.9934246419927],[12.80664661362772,55.99611849877766],[12.80984741822903,55.99604831522925],[12.8097186886198,55.9942524142802],[12.81131901377825,55.99421729435812]]],"type":"Polygon"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1277062189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.8,63.4,13.8,63.4",
+    "geom:latitude":63.4,
+    "geom:longitude":13.8,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"2309.0",
+    "gn:asciiname":"Ostbacken",
+    "gn:country_code":"SE",
+    "gn:dem":371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2686026,
+    "gn:latitude":63.4,
+    "gn:longitude":13.8,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"\u00d6stbacken",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "\u00d6stbacken"
+    ],
+    "name:nor_x_variant":[
+        "\u00d8stbacken"
+    ],
+    "name:und_x_variant":[
+        "\u00d6stbacken"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688461,
+        102191581,
+        1125373145,
+        85633789,
+        1159303097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2686026
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"a609dc1d31379f71bf8c87898ec4f363",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303097,
+            "localadmin_id":1125373145,
+            "locality_id":1277062189,
+            "region_id":85688461
+        }
+    ],
+    "wof:id":1277062189,
+    "wof:lastmodified":1537699908,
+    "wof:name":"Ostbacken",
+    "wof:parent_id":1125373145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.8,
+    63.4,
+    13.8,
+    63.4
+],
+  "geometry": {"coordinates":[13.8,63.4],"type":"Point"}
+}

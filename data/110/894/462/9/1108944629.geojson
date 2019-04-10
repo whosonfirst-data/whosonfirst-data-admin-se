@@ -1,0 +1,65 @@
+{
+  "id": 1108944629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.9528198905,57.5886251587,11.9528198905,57.5886251587",
+    "geom:latitude":57.588625,
+    "geom:longitude":11.95282,
+    "iso:country":"SE",
+    "lbl:latitude":57.588625,
+    "lbl:longitude":11.95282,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_metro":30,
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        1125331203,
+        85633789,
+        1159302989,
+        85688411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"SE",
+    "wof:created":1491364511,
+    "wof:geomhash":"8c9c22be41bf8bf830f2c133533efdb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302989,
+            "localadmin_id":1125331203,
+            "locality_id":-1,
+            "neighbourhood_id":1108944629,
+            "region_id":85688411
+        }
+    ],
+    "wof:id":1108944629,
+    "wof:lastmodified":1529702279,
+    "wof:name":"St Svindal",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.95281989046634,
+    57.5886251587273,
+    11.95281989046634,
+    57.5886251587273
+],
+  "geometry": {"coordinates":[11.95281989046634,57.5886251587273],"type":"Point"}
+}

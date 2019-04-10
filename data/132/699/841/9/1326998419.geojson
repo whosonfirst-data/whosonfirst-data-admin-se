@@ -1,0 +1,70 @@
+{
+  "id": 1326998419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.55,64.3,20.55,64.3",
+    "geom:latitude":64.3,
+    "geom:longitude":20.55,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"2409.0",
+    "gn:asciiname":"Alglund",
+    "gn:country_code":"SE",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":606878,
+    "gn:latitude":64.3,
+    "gn:longitude":20.55,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"\u00c4lglund",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688465,
+        102191581,
+        1125417053,
+        85633789,
+        1159303055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":606878
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"fc4c1a8a92b9413c0b8d58f29bc79a57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303055,
+            "localadmin_id":1125417053,
+            "locality_id":1326998419,
+            "region_id":85688465
+        }
+    ],
+    "wof:id":1326998419,
+    "wof:lastmodified":1536809211,
+    "wof:name":"Alglund",
+    "wof:parent_id":1125417053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.55,
+    64.3,
+    20.55,
+    64.3
+],
+  "geometry": {"coordinates":[20.55,64.3],"type":"Point"}
+}

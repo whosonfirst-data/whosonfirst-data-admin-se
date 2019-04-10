@@ -1,0 +1,130 @@
+{
+  "id": 101817175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000102,
+    "geom:area_square_m":656537.902793,
+    "geom:bbox":"16.8557053671,58.7394328595,16.8804304909,58.7465890008",
+    "geom:latitude":58.742889,
+    "geom:longitude":16.867956,
+    "gn:population":1020,
+    "iso:country":"SE",
+    "lbl:latitude":58.743372,
+    "lbl:longitude":16.868143,
+    "mps:latitude":58.743372,
+    "mps:longitude":16.868143,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0421\u0432\u0430\u043b\u0441\u0442\u0430"
+    ],
+    "name:dut_x_preferred":[
+        "Svalsta"
+    ],
+    "name:eng_x_preferred":[
+        "Svalsta"
+    ],
+    "name:ita_x_preferred":[
+        "Svalsta"
+    ],
+    "name:nan_x_preferred":[
+        "Svalsta"
+    ],
+    "name:nld_x_preferred":[
+        "Svalsta"
+    ],
+    "name:nno_x_preferred":[
+        "Svalsta"
+    ],
+    "name:nob_x_preferred":[
+        "Svalsta"
+    ],
+    "name:nor_x_preferred":[
+        "Svalsta"
+    ],
+    "name:pol_x_preferred":[
+        "Svalsta"
+    ],
+    "name:swe_x_preferred":[
+        "Svalsta"
+    ],
+    "name:swe_x_variant":[
+        "Svalstas"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Svalsta"
+    ],
+    "qs:a0":"Sverige",
+    "qs:a1":"*S\u00f6dermanlands l\u00e4n",
+    "qs:a1r":"0",
+    "qs:adm0":"Sverige",
+    "qs:id":0,
+    "qs:la":"Nyk\u00f6ping",
+    "qs:la_lc":"*SE0480",
+    "qs:level":"locality",
+    "qs:loc":"Svalsta",
+    "qs:loc_alt":"Svalsta",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":45,
+    "wof:belongsto":[
+        85688419,
+        102191581,
+        1159306409,
+        85633789,
+        1159303471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06d031b4-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2670536,
+        "gp:id":20151742,
+        "qs:id":53563,
+        "qs_pg:id":53563,
+        "wd:id":"Q2717853",
+        "wk:page":"Svalsta"
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"4ce20a809ec8b92428ee6c776c4ef481",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303471,
+            "localadmin_id":1159306409,
+            "locality_id":101817175,
+            "region_id":85688419
+        }
+    ],
+    "wof:id":101817175,
+    "wof:lang":[
+        "swe"
+    ],
+    "wof:lastmodified":1529702847,
+    "wof:name":"Svalsta",
+    "wof:parent_id":1159306409,
+    "wof:placetype":"locality",
+    "wof:population":1020,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.85570536708764,
+    58.73943285949969,
+    16.88043049088702,
+    58.74658900082329
+],
+  "geometry": {"coordinates":[[[16.8704793288735,58.74641578681326],[16.87030546259336,58.74552127404127],[16.87373854104402,58.7453479787286],[16.87356459951849,58.74445347092194],[16.88043049088702,58.74410663145829],[16.87990821494236,58.74142313784557],[16.8764755415192,58.74159658583756],[16.87630155559805,58.74070208304158],[16.86943628525773,58.74104871041021],[16.86926248059729,58.74015419772957],[16.86582988371396,58.74032737711116],[16.86565617481102,58.73943285949969],[16.86222363197191,58.73960594770108],[16.86239725538127,58.74050047025577],[16.85724825394698,58.74075994827547],[16.85742175936002,58.74165447825675],[16.85570536708764,58.74174093027915],[16.85605232315345,58.74352999522904],[16.86120173294,58.74327055966017],[16.86172262876835,58.74595413497525],[16.86687235266118,58.74569448310365],[16.86704613341612,58.74658900082329],[16.8704793288735,58.74641578681326]]],"type":"Polygon"}
+}

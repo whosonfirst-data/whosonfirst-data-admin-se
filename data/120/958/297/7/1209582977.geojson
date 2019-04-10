@@ -1,0 +1,62 @@
+{
+  "id": 1209582977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.11667,59.36667,16.11667,59.36667",
+    "geom:latitude":59.36667,
+    "geom:longitude":16.11667,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1960.0",
+    "gn:asciiname":"Lenmora",
+    "gn:country_code":"SE",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2696606,
+    "gn:latitude":59.36667,
+    "gn:longitude":16.11667,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Lenmora",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2696606
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"a36c3e6e990d88e5d909df1a3e87ac97",
+    "wof:hierarchy":[
+        {
+            "country_id":85633789,
+            "locality_id":1209582977
+        }
+    ],
+    "wof:id":1209582977,
+    "wof:lastmodified":1536282728,
+    "wof:name":"Lenmora",
+    "wof:parent_id":85633789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.116670000000006,
+    59.36666999999999,
+    16.116670000000006,
+    59.36666999999999
+],
+  "geometry": {"coordinates":[16.11667000000001,59.36666999999999],"type":"Point"}
+}

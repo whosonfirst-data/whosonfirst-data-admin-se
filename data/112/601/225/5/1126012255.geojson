@@ -1,0 +1,111 @@
+{
+  "id": 1126012255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.13333,55.63333,14.13333,55.63333",
+    "geom:latitude":55.63333,
+    "geom:longitude":14.13333,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":640,
+    "gn:population":666,
+    "iso:country":"SE",
+    "lbl:latitude":55.63333,
+    "lbl:longitude":14.13333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Sankt Olof"
+    ],
+    "name:eng_x_preferred":[
+        "Sankt Olof"
+    ],
+    "name:fao_x_preferred":[
+        "Sankt Olof"
+    ],
+    "name:fre_x_preferred":[
+        "Sankt Olof"
+    ],
+    "name:ger_x_preferred":[
+        "Sankt Olof"
+    ],
+    "name:nan_x_preferred":[
+        "Sankt Olof"
+    ],
+    "name:nno_x_preferred":[
+        "Sankt Olof"
+    ],
+    "name:nob_x_preferred":[
+        "Sankt Olof"
+    ],
+    "name:por_x_preferred":[
+        "Sankt Olof"
+    ],
+    "name:swe_x_preferred":[
+        "Sankt Olof"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2680022,
+    "qs_pg:gn_pop":640,
+    "qs_pg:name":"Sankt Olof",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":575641,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688377,
+        102191581,
+        1125358381,
+        85633789,
+        1159302931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2680022,
+        "qs_pg:id":575641,
+        "wd:id":"Q509773"
+    },
+    "wof:country":"SE",
+    "wof:created":1497300340,
+    "wof:geomhash":"1fce386afc0d1397aba52b9a4e1fe63b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302931,
+            "localadmin_id":1125358381,
+            "locality_id":1126012255,
+            "region_id":85688377
+        }
+    ],
+    "wof:id":1126012255,
+    "wof:lastmodified":1529702671,
+    "wof:name":"Sankt Olof",
+    "wof:parent_id":1125358381,
+    "wof:placetype":"locality",
+    "wof:population":666,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.13333,
+    55.63333,
+    14.13333,
+    55.63333
+],
+  "geometry": {"coordinates":[14.13333,55.63333],"type":"Point"}
+}

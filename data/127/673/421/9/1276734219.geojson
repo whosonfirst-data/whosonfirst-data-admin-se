@@ -1,0 +1,70 @@
+{
+  "id": 1276734219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.33333,57.9,15.33333,57.9",
+    "geom:latitude":57.9,
+    "geom:longitude":15.33333,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"512.0",
+    "gn:asciiname":"Tullerum",
+    "gn:country_code":"SE",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2667115,
+    "gn:latitude":57.9,
+    "gn:longitude":15.33333,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Tullerum",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688409,
+        102191581,
+        1125325193,
+        85633789,
+        1159303361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2667115
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"edf1f415dbf8e2fbb759e63cfa4a7e9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303361,
+            "localadmin_id":1125325193,
+            "locality_id":1276734219,
+            "region_id":85688409
+        }
+    ],
+    "wof:id":1276734219,
+    "wof:lastmodified":1536738681,
+    "wof:name":"Tullerum",
+    "wof:parent_id":1125325193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.33333,
+    57.9,
+    15.33333,
+    57.9
+],
+  "geometry": {"coordinates":[15.33333,57.9],"type":"Point"}
+}

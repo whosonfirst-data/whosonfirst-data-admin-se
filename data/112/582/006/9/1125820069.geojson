@@ -1,0 +1,116 @@
+{
+  "id": 1125820069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.86667,59.03333,14.86667,59.03333",
+    "geom:latitude":59.03333,
+    "geom:longitude":14.86667,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":841,
+    "gn:population":852,
+    "iso:country":"SE",
+    "lbl:latitude":59.03333,
+    "lbl:longitude":14.86667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0412\u0440\u0435\u0446\u0442\u043e\u0440\u043f"
+    ],
+    "name:dut_x_preferred":[
+        "Vretstorp"
+    ],
+    "name:eng_x_preferred":[
+        "Vretstorp"
+    ],
+    "name:nan_x_preferred":[
+        "Vretstorp"
+    ],
+    "name:nno_x_preferred":[
+        "Vretstorp"
+    ],
+    "name:nob_x_preferred":[
+        "Vretstorp"
+    ],
+    "name:swe_x_preferred":[
+        "Vretstorp"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2662326,
+    "qs_pg:gn_pop":841,
+    "qs_pg:name":"Vretstorp",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"\u00d6rebro L\u00e4n",
+    "qs_pg:photos":53,
+    "qs_pg:photos_1k":11,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":53,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1167779,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":910250,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"\u00d6rebro L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688421,
+        102191581,
+        1125356469,
+        85633789,
+        1159303539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2662326,
+        "gp:id":910250,
+        "qs_pg:id":1167779,
+        "wd:id":"Q2578169"
+    },
+    "wof:country":"SE",
+    "wof:created":1497292006,
+    "wof:geomhash":"a48ea9a72f1b7494afe036a3450c6672",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303539,
+            "localadmin_id":1125356469,
+            "locality_id":1125820069,
+            "region_id":85688421
+        }
+    ],
+    "wof:id":1125820069,
+    "wof:lastmodified":1529703059,
+    "wof:name":"Vretstorp",
+    "wof:parent_id":1125356469,
+    "wof:placetype":"locality",
+    "wof:population":852,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.86667,
+    59.03333,
+    14.86667,
+    59.03333
+],
+  "geometry": {"coordinates":[14.86667,59.03333],"type":"Point"}
+}

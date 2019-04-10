@@ -1,0 +1,123 @@
+{
+  "id": 1126004161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.25,57.11667,13.25,57.11667",
+    "geom:latitude":57.11667,
+    "geom:longitude":13.25,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":277,
+    "gn:population":284,
+    "iso:country":"SE",
+    "lbl:latitude":57.11667,
+    "lbl:longitude":13.25,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0411\u0440\u043e\u0430\u0440\u0439\u0434"
+    ],
+    "name:dut_x_preferred":[
+        "Broaryd"
+    ],
+    "name:eng_x_preferred":[
+        "Broaryd"
+    ],
+    "name:fre_x_preferred":[
+        "Broaryd"
+    ],
+    "name:ger_x_preferred":[
+        "Broaryd"
+    ],
+    "name:ita_x_preferred":[
+        "Broaryd"
+    ],
+    "name:nan_x_preferred":[
+        "Broaryd"
+    ],
+    "name:nno_x_preferred":[
+        "Broaryd"
+    ],
+    "name:nob_x_preferred":[
+        "Broaryd"
+    ],
+    "name:swe_x_preferred":[
+        "Broaryd"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2719230,
+    "qs_pg:gn_pop":277,
+    "qs_pg:name":"Broaryd",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"J\u00f6nk\u00f6pings L\u00e4n",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":4,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":916616,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":887751,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"J\u00f6nk\u00f6pings L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688395,
+        102191581,
+        1125325627,
+        85633789,
+        1159303327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2719230,
+        "gp:id":887751,
+        "qs_pg:id":916616,
+        "wd:id":"Q784539"
+    },
+    "wof:country":"SE",
+    "wof:created":1497299833,
+    "wof:geomhash":"46e3613da9005cca0e63782f7fba96bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303327,
+            "localadmin_id":1125325627,
+            "locality_id":1126004161,
+            "region_id":85688395
+        }
+    ],
+    "wof:id":1126004161,
+    "wof:lastmodified":1529702446,
+    "wof:name":"Broaryd",
+    "wof:parent_id":1125325627,
+    "wof:placetype":"locality",
+    "wof:population":284,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.25,
+    57.11667,
+    13.25,
+    57.11667
+],
+  "geometry": {"coordinates":[13.25,57.11667],"type":"Point"}
+}

@@ -1,0 +1,111 @@
+{
+  "id": 85905493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000128,
+    "geom:area_square_m":810076.54756,
+    "geom:bbox":"18.1656106948,59.3037580685,18.1823730469,59.314972964",
+    "geom:latitude":59.308752,
+    "geom:longitude":18.174769,
+    "gn:latitude":59.12219,
+    "gn:longitude":18.299,
+    "iso:country":"SE",
+    "lbl:latitude":59.314241,
+    "lbl:longitude":18.192473,
+    "mps:latitude":59.309109,
+    "mps:longitude":18.174929,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":1,
+    "name:swe_x_preferred":[
+        "Skogalund"
+    ],
+    "name:unk_x_variant":[
+        "Skogalund"
+    ],
+    "qs:gn_adm0_cc":"SE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":2673730,
+    "qs:gn_namadm1":"26",
+    "qs:gn_name":"Skogalund",
+    "qs:local_max":47943,
+    "qs:local_sum":372692,
+    "qs:localhoods":300,
+    "qs:name":"Skogalund",
+    "qs:name_adm0":"Sverige",
+    "qs:name_adm1":"Stockholms L\u00e4n",
+    "qs:name_adm2":"Nacka",
+    "qs:name_local":"Stockholm",
+    "qs:photo_max":16,
+    "qs:photo_sum":29,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":7,
+    "qs:woe_adm0":23424954,
+    "qs:woe_adm1":2347067,
+    "qs:woe_adm2":12587469,
+    "qs:woe_lau":0,
+    "qs:woe_local":906057,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        85688429,
+        102191581,
+        1125362217,
+        85633789,
+        101752307,
+        1159303035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3327417,
+        "gp:id":20151636,
+        "qs:id":501686,
+        "qs_pg:id":501686
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"fb5dd0fc220376f70c4bb4b5a5288600",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303035,
+            "localadmin_id":1125362217,
+            "locality_id":101752307,
+            "neighbourhood_id":85905493,
+            "region_id":85688429
+        }
+    ],
+    "wof:id":85905493,
+    "wof:lang":[
+        "swe"
+    ],
+    "wof:lastmodified":1529702818,
+    "wof:name":"Skogalund",
+    "wof:parent_id":101752307,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.16561069475108,
+    59.30375806850027,
+    18.18237304690007,
+    59.31497296395038
+],
+  "geometry": {"coordinates":[[[18.17616460511698,59.31497296395038],[18.17687985334049,59.3135714487001],[18.17687988280011,59.3135714487001],[18.17687988280011,59.31357139097447],[18.17759527847278,59.31216958680029],[18.18165765122757,59.31216958680029],[18.18237301739111,59.31076795600167],[18.18237304690007,59.31076795599999],[18.18237304688557,59.31076789822497],[18.18237304688347,59.30796423220004],[18.18237304688347,59.30796417440003],[18.18237304688569,59.30516027720002],[18.18237304687511,59.30375806850027],[18.1775956324513,59.30375806850027],[18.17687988281887,59.30516021940021],[18.17138671877512,59.30516021940021],[18.16589355470012,59.30516021940021],[18.16589352519549,59.30516027720002],[18.16561069475108,59.30571434101147],[18.16589355470012,59.30626849688706],[18.16589355470006,59.30796423220004],[18.16589355470006,59.31076795599999],[18.16675904766606,59.31076795200035],[18.17138671878456,59.31076795599999],[18.17138671878553,59.3118755494191],[18.17138671880008,59.3135714487001],[18.1722522205589,59.31357144869905],[18.17296748352089,59.31497296395038],[18.17616460511698,59.31497296395038]]],"type":"Polygon"}
+}

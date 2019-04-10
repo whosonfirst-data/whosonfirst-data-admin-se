@@ -1,0 +1,116 @@
+{
+  "id": 85902493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":5343677.256301,
+    "geom:bbox":"11.994461,57.652993,11.994461,57.652993",
+    "geom:latitude":57.652993,
+    "geom:longitude":11.994461,
+    "gn:latitude":57.65,
+    "gn:longitude":12.0,
+    "iso:country":"SE",
+    "lbl:latitude":57.652993,
+    "lbl:longitude":11.994461,
+    "mps:latitude":57.647258,
+    "mps:longitude":11.991391,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":2,
+    "name:swe_x_colloquial":[
+        "Solaengen",
+        "Solangen"
+    ],
+    "name:swe_x_preferred":[
+        "Sol\u00e4ngen"
+    ],
+    "name:unk_x_variant":[
+        "Sol\u00e4ngen"
+    ],
+    "qs:gn_adm0_cc":"SE",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2691459,
+    "qs:gn_nam_loc":"M\u00f6lndal, M\u00f6lndal, V\u00e4stra G\u00f6talands L\u00e4n, SE",
+    "qs:gn_namadm1":"28",
+    "qs:gn_name":"Sol\u00e4ngen",
+    "qs:local_max":1511,
+    "qs:local_sum":2950,
+    "qs:localhoods":6,
+    "qs:name":"Sol\u00e4ngen",
+    "qs:name_adm0":"Sverige",
+    "qs:name_adm1":"V\u00e4stra G\u00f6talands L\u00e4n",
+    "qs:name_adm2":"M\u00f6lndal",
+    "qs:name_local":"M\u00f6lndal",
+    "qs:photo_max":29,
+    "qs:photo_sum":119,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":23,
+    "qs:woe_adm0":23424954,
+    "qs:woe_adm1":20070562,
+    "qs:woe_adm2":12587237,
+    "qs:woe_lau":0,
+    "qs:woe_local":898653,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85688411,
+        102191581,
+        1125287157,
+        85633789,
+        101752295,
+        1159302989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2675515,
+        "gp:id":905279,
+        "qs:id":1175083,
+        "qs_pg:id":1175083
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"a0b01327eb09d7c0666fec1196c11686",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302989,
+            "localadmin_id":1125287157,
+            "locality_id":101752295,
+            "neighbourhood_id":85902493,
+            "region_id":85688411
+        }
+    ],
+    "wof:id":85902493,
+    "wof:lang":[
+        "swe"
+    ],
+    "wof:lastmodified":1531935899,
+    "wof:name":"Sol\u00e4ngen",
+    "wof:parent_id":101752295,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.994461,
+    57.652993,
+    11.994461,
+    57.652993
+],
+  "geometry": {"coordinates":[11.994461,57.652993],"type":"Point"}
+}

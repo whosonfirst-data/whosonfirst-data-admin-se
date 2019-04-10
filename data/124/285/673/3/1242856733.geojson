@@ -1,0 +1,70 @@
+{
+  "id": 1242856733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.28333,59.66667,15.28333,59.66667",
+    "geom:latitude":59.66667,
+    "geom:longitude":15.28333,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1885.0",
+    "gn:asciiname":"Aspa",
+    "gn:country_code":"SE",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2724680,
+    "gn:latitude":59.66667,
+    "gn:longitude":15.28333,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Aspa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688421,
+        102191581,
+        1125363689,
+        85633789,
+        1159303549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2724680
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"669943926363f0b1e7507b27290f0fb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303549,
+            "localadmin_id":1125363689,
+            "locality_id":1242856733,
+            "region_id":85688421
+        }
+    ],
+    "wof:id":1242856733,
+    "wof:lastmodified":1536661650,
+    "wof:name":"Aspa",
+    "wof:parent_id":1125363689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.28333,
+    59.66667,
+    15.28333,
+    59.66667
+],
+  "geometry": {"coordinates":[15.28333,59.66667],"type":"Point"}
+}

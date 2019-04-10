@@ -1,0 +1,79 @@
+{
+  "id": 1243270345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.03333,61.85,17.03333,61.85",
+    "geom:latitude":61.85,
+    "geom:longitude":17.03333,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"2132.0",
+    "gn:asciiname":"Sorby",
+    "gn:country_code":"SE",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2675177,
+    "gn:latitude":61.85,
+    "gn:longitude":17.03333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"S\u00f6rby",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "S\u00f6rby"
+    ],
+    "name:nor_x_variant":[
+        "S\u00f8rby"
+    ],
+    "name:und_x_variant":[
+        "S\u00f6rby"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688453,
+        102191581,
+        1125373133,
+        85633789,
+        1159303081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2675177
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"57cc70a91d01ec99438d06ac1bf6d79a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303081,
+            "localadmin_id":1125373133,
+            "locality_id":1243270345,
+            "region_id":85688453
+        }
+    ],
+    "wof:id":1243270345,
+    "wof:lastmodified":1537699807,
+    "wof:name":"Sorby",
+    "wof:parent_id":1125373133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.03333,
+    61.85,
+    17.03333,
+    61.85
+],
+  "geometry": {"coordinates":[17.03333,61.85],"type":"Point"}
+}

@@ -1,0 +1,126 @@
+{
+  "id": 101816975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000178,
+    "geom:area_square_m":1153978.524105,
+    "geom:bbox":"15.6289199976,58.461557029,15.6511044052,58.4804014286",
+    "geom:latitude":58.470479,
+    "geom:longitude":15.637277,
+    "gn:population":1100,
+    "iso:country":"SE",
+    "lbl:latitude":58.474203,
+    "lbl:longitude":15.634672,
+    "mps:latitude":58.474203,
+    "mps:longitude":15.634672,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Ek\u00e4ngen"
+    ],
+    "name:eng_x_preferred":[
+        "Ek\u00e4ngen"
+    ],
+    "name:nan_x_preferred":[
+        "Ek\u00e4ngen"
+    ],
+    "name:nld_x_preferred":[
+        "Ek\u00e4ngen"
+    ],
+    "name:nno_x_preferred":[
+        "Ek\u00e4ngen"
+    ],
+    "name:nob_x_preferred":[
+        "Ek\u00e4ngen"
+    ],
+    "name:nor_x_preferred":[
+        "Ek\u00e4ngen"
+    ],
+    "name:swe_x_colloquial":[
+        "Ekaengen",
+        "Ekaengens",
+        "Ekangen",
+        "Ekangens"
+    ],
+    "name:swe_x_preferred":[
+        "Ek\u00e4ngen"
+    ],
+    "name:swe_x_variant":[
+        "Ek\u00e4ngens"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Ek\u00e4ngen"
+    ],
+    "qs:a0":"Sverige",
+    "qs:a1":"*\u00d6sterg\u00f6tlands l\u00e4n",
+    "qs:a1r":"0",
+    "qs:adm0":"Sverige",
+    "qs:id":0,
+    "qs:la":"Link\u00f6ping",
+    "qs:la_lc":"*SE0580",
+    "qs:level":"locality",
+    "qs:loc":"Ek\u00e4ngen",
+    "qs:loc_alt":"Ekangen",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688409,
+        102191581,
+        1159306069,
+        85633789,
+        1159303147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06d02160-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2716758,
+        "gp:id":888734,
+        "qs:id":1280388,
+        "qs_pg:id":1280388,
+        "wd:id":"Q1800347",
+        "wk:page":"Ek\u00e4ngen"
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"6fa0714fe9edee11b4d16f2936274762",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303147,
+            "localadmin_id":1159306069,
+            "locality_id":101816975,
+            "region_id":85688409
+        }
+    ],
+    "wof:id":101816975,
+    "wof:lang":[
+        "swe"
+    ],
+    "wof:lastmodified":1529703109,
+    "wof:name":"Ek\u00e4ngen",
+    "wof:parent_id":1159306069,
+    "wof:placetype":"locality",
+    "wof:population":1100,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.62891999757085,
+    58.46155702902792,
+    15.65110440516713,
+    58.4804014285512
+],
+  "geometry": {"coordinates":[[[15.64142745018898,58.47811224236466],[15.64072061324271,58.47363209782679],[15.63901467937137,58.47370316631356],[15.63859080363511,58.47101507468375],[15.6420024112569,58.47087292835096],[15.6418610513465,58.46997690202392],[15.64356680334339,58.46990579871095],[15.64300127750795,58.46632170240019],[15.64470685402267,58.46625058570669],[15.64442405632275,58.46445854214357],[15.64612954193592,58.46438740804246],[15.64598811325823,58.46349138841629],[15.65110440516713,58.46327786354527],[15.65096285798427,58.46238185006035],[15.64925747596982,58.46245304443607],[15.64911597935469,58.46155702902792],[15.6457052807927,58.46169934944436],[15.64584669287723,58.46259536888363],[15.64073047060884,58.4628086947929],[15.64058918532419,58.46191266931152],[15.63888380747511,58.46198373306481],[15.63902505049225,58.46287976055896],[15.63561419122931,58.4630218277847],[15.63575535799043,58.46391785939682],[15.634049876576,58.46398886286727],[15.63433215039527,58.46578093039687],[15.63262657808946,58.46585191645244],[15.63304992408257,58.46854002448799],[15.6313442185907,58.46861099513728],[15.63176751224188,58.47129911005726],[15.63006167353973,58.47137006529732],[15.63062601180991,58.47495422789535],[15.62891999757085,58.4750251697339],[15.62976649954942,58.4804014285512],[15.63147276766057,58.48033047464907],[15.63133162097637,58.47943443328495],[15.63303784042654,58.4793634599468],[15.63289665971178,58.47846742068964],[15.64142745018898,58.47811224236466]]],"type":"Polygon"}
+}

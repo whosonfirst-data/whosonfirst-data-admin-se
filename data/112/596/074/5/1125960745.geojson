@@ -1,0 +1,122 @@
+{
+  "id": 1125960745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.28333,60.71667,15.28333,60.71667",
+    "geom:latitude":60.71667,
+    "geom:longitude":15.28333,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":578,
+    "gn:population":552,
+    "iso:country":"SE",
+    "lbl:latitude":60.71667,
+    "lbl:longitude":15.28333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "S\u00e5gmyra"
+    ],
+    "name:eng_x_preferred":[
+        "S\u00e5gmyra"
+    ],
+    "name:fre_x_preferred":[
+        "S\u00e5gmyra"
+    ],
+    "name:ger_x_preferred":[
+        "S\u00e5gmyra"
+    ],
+    "name:nan_x_preferred":[
+        "S\u00e5gmyra"
+    ],
+    "name:nno_x_preferred":[
+        "S\u00e5gmyra"
+    ],
+    "name:nob_x_preferred":[
+        "S\u00e5gmyra"
+    ],
+    "name:swe_x_preferred":[
+        "S\u00e5gmyra"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06af\u0645\u06cc\u0631\u0627"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2680718,
+    "qs_pg:gn_pop":578,
+    "qs_pg:name":"S\u00e5gmyra",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"Dalarnas L\u00e4n",
+    "qs_pg:photos":50,
+    "qs_pg:photos_1k":10,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":50,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1250428,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":903155,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"Dalarnas L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688447,
+        102191581,
+        1125356425,
+        85633789,
+        1159302903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2680718,
+        "gp:id":903155,
+        "qs_pg:id":1250428,
+        "wd:id":"Q2159690"
+    },
+    "wof:country":"SE",
+    "wof:created":1497297787,
+    "wof:geomhash":"b929ed9de765a6d678063adb09bee164",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302903,
+            "localadmin_id":1125356425,
+            "locality_id":1125960745,
+            "region_id":85688447
+        }
+    ],
+    "wof:id":1125960745,
+    "wof:lastmodified":1529702002,
+    "wof:name":"S\u00e5gmyra",
+    "wof:parent_id":1125356425,
+    "wof:placetype":"locality",
+    "wof:population":552,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.28333,
+    60.71667,
+    15.28333,
+    60.71667
+],
+  "geometry": {"coordinates":[15.28333,60.71667],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1125830283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.35955,58.58906,13.35955,58.58906",
+    "geom:latitude":58.58906,
+    "geom:longitude":13.35955,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2,
+    "gn:population":2,
+    "iso:country":"SE",
+    "lbl:latitude":58.58906,
+    "lbl:longitude":13.35955,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":6694265,
+    "qs_pg:gn_pop":2,
+    "qs_pg:name":"Trolmen Str\u00f6msberg",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":644026,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688411,
+        102191581,
+        1159306145,
+        85633789,
+        1159302923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6694265,
+        "qs_pg:id":644026
+    },
+    "wof:country":"SE",
+    "wof:created":1497292466,
+    "wof:geomhash":"c2652c8ffd3362e7bbba9e14ef3bda07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302923,
+            "localadmin_id":1159306145,
+            "locality_id":1125830283,
+            "region_id":85688411
+        }
+    ],
+    "wof:id":1125830283,
+    "wof:lastmodified":1529702236,
+    "wof:name":"Trolmen Str\u00f6msberg",
+    "wof:parent_id":1159306145,
+    "wof:placetype":"locality",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.35955,
+    58.58906,
+    13.35955,
+    58.58906
+],
+  "geometry": {"coordinates":[13.35955,58.58906],"type":"Point"}
+}

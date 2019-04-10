@@ -1,0 +1,108 @@
+{
+  "id": 85905559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":1830123.757591,
+    "geom:bbox":"18.068489,59.445084,18.068489,59.445084",
+    "geom:latitude":59.445084,
+    "geom:longitude":18.068489,
+    "iso:country":"SE",
+    "lbl:latitude":59.445084,
+    "lbl:longitude":18.068489,
+    "mps:latitude":59.443003,
+    "mps:longitude":18.096059,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":1,
+    "mz:tier_metro":1,
+    "name:swe_x_preferred":[
+        "Tibble"
+    ],
+    "name:unk_x_variant":[
+        "Tibble"
+    ],
+    "qs:gn_adm0_cc":"SE",
+    "qs:gn_id":0,
+    "qs:gn_local":2669772,
+    "qs:gn_nam_loc":"T\u00e4by, T\u00e4by, Stockholms L\u00e4n, SE",
+    "qs:gn_namadm1":"26",
+    "qs:id":0,
+    "qs:local_max":409,
+    "qs:local_sum":1647,
+    "qs:localhoods":10,
+    "qs:name":"Tibble",
+    "qs:name_adm0":"Sverige",
+    "qs:name_adm1":"Stockholms L\u00e4n",
+    "qs:name_adm2":"T\u00e4by",
+    "qs:name_local":"T\u00e4by",
+    "qs:photo_max":31,
+    "qs:photo_sum":105,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":14,
+    "qs:woe_adm0":23424954,
+    "qs:woe_adm1":2347067,
+    "qs:woe_adm2":12587480,
+    "qs:woe_lau":0,
+    "qs:woe_local":907140,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":99,
+    "wof:belongsto":[
+        85688429,
+        102191581,
+        1125398123,
+        85633789,
+        101752309,
+        1159303403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20151765
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"935ef0a4139acbdb7f58ef8c112f8fad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303403,
+            "localadmin_id":1125398123,
+            "locality_id":101752309,
+            "neighbourhood_id":85905559,
+            "region_id":85688429
+        }
+    ],
+    "wof:id":85905559,
+    "wof:lang":[
+        "swe"
+    ],
+    "wof:lastmodified":1531936354,
+    "wof:name":"Tibble",
+    "wof:parent_id":101752309,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.068489,
+    59.445084,
+    18.068489,
+    59.445084
+],
+  "geometry": {"coordinates":[18.068489,59.445084],"type":"Point"}
+}

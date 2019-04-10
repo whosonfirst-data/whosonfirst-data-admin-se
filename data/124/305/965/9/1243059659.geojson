@@ -1,0 +1,79 @@
+{
+  "id": 1243059659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.78333,56.95,12.78333,56.95",
+    "geom:latitude":56.95,
+    "geom:longitude":12.78333,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"1382.0",
+    "gn:asciiname":"Sjored",
+    "gn:country_code":"SE",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2678788,
+    "gn:latitude":56.95,
+    "gn:longitude":12.78333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Sj\u00f6red",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Sj\u00f6red"
+    ],
+    "name:nor_x_variant":[
+        "Sj\u00f8red"
+    ],
+    "name:und_x_variant":[
+        "Sj\u00f6red"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688391,
+        102191581,
+        1125325277,
+        85633789,
+        1159303247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2678788
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"8b86c244cf2fd91da754dbb236742077",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303247,
+            "localadmin_id":1125325277,
+            "locality_id":1243059659,
+            "region_id":85688391
+        }
+    ],
+    "wof:id":1243059659,
+    "wof:lastmodified":1537699841,
+    "wof:name":"Sjored",
+    "wof:parent_id":1125325277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.78333,
+    56.95,
+    12.78333,
+    56.95
+],
+  "geometry": {"coordinates":[12.78333,56.95],"type":"Point"}
+}

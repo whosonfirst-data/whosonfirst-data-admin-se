@@ -1,0 +1,70 @@
+{
+  "id": 1243264501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.9,61.61667,16.9,61.61667",
+    "geom:latitude":61.61667,
+    "geom:longitude":16.9,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"2184.0",
+    "gn:asciiname":"Brandange",
+    "gn:country_code":"SE",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2719909,
+    "gn:latitude":61.61667,
+    "gn:longitude":16.9,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Brand\u00e4nge",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688453,
+        102191581,
+        1159306527,
+        85633789,
+        1159303395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2719909
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"5e548c77f0b0db6f990cbb65cb5ac97d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303395,
+            "localadmin_id":1159306527,
+            "locality_id":1243264501,
+            "region_id":85688453
+        }
+    ],
+    "wof:id":1243264501,
+    "wof:lastmodified":1537064947,
+    "wof:name":"Brandange",
+    "wof:parent_id":1159306527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.9,
+    61.61666999999999,
+    16.9,
+    61.61666999999999
+],
+  "geometry": {"coordinates":[16.9,61.61666999999999],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1125950089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.8,59.83333,18.8,59.83333",
+    "geom:latitude":59.83333,
+    "geom:longitude":18.8,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":444,
+    "gn:population":444,
+    "iso:country":"SE",
+    "lbl:latitude":59.83333,
+    "lbl:longitude":18.8,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2722557,
+    "qs_pg:gn_pop":444,
+    "qs_pg:name":"Billinge",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":575744,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688429,
+        102191581,
+        1125423353,
+        85633789,
+        1159302995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2722557,
+        "qs_pg:id":575744
+    },
+    "wof:country":"SE",
+    "wof:created":1497297422,
+    "wof:geomhash":"3b09c4f8dc4629cc61dab24552583259",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302995,
+            "localadmin_id":1125423353,
+            "locality_id":1125950089,
+            "region_id":85688429
+        }
+    ],
+    "wof:id":1125950089,
+    "wof:lastmodified":1529702748,
+    "wof:name":"Billinge",
+    "wof:parent_id":1125423353,
+    "wof:placetype":"locality",
+    "wof:population":444,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.8,
+    59.83333,
+    18.8,
+    59.83333
+],
+  "geometry": {"coordinates":[18.8,59.83333],"type":"Point"}
+}

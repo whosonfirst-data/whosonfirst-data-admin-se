@@ -1,0 +1,70 @@
+{
+  "id": 1226503733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.65,59.15,12.65,59.15",
+    "geom:latitude":59.15,
+    "geom:longitude":12.65,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"1492.0",
+    "gn:asciiname":"Labyn",
+    "gn:country_code":"SE",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2698015,
+    "gn:latitude":59.15,
+    "gn:longitude":12.65,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"L\u00e5byn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688411,
+        102191581,
+        1125326173,
+        85633789,
+        1159303547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2698015
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"22383b42471f58aab2c8d4d863e0f6da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303547,
+            "localadmin_id":1125326173,
+            "locality_id":1226503733,
+            "region_id":85688411
+        }
+    ],
+    "wof:id":1226503733,
+    "wof:lastmodified":1537056285,
+    "wof:name":"Labyn",
+    "wof:parent_id":1125326173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.65,
+    59.15,
+    12.65,
+    59.15
+],
+  "geometry": {"coordinates":[12.65,59.15],"type":"Point"}
+}

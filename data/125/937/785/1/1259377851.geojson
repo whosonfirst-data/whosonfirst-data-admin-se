@@ -1,0 +1,79 @@
+{
+  "id": 1259377851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.68333,57.28333,14.68333,57.28333",
+    "geom:latitude":57.28333,
+    "geom:longitude":14.68333,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"684.0",
+    "gn:asciiname":"Bollingetorp",
+    "gn:country_code":"SE",
+    "gn:dem":217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2720683,
+    "gn:latitude":57.28333,
+    "gn:longitude":14.68333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"B\u00f6llingetorp",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "B\u00f6llingetorp"
+    ],
+    "name:nor_x_variant":[
+        "B\u00f8llingetorp"
+    ],
+    "name:und_x_variant":[
+        "B\u00f6llingetorp"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688395,
+        102191581,
+        1125373539,
+        85633789,
+        1159303069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2720683
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"86cb0cf0d28627abe355c24933ac884d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303069,
+            "localadmin_id":1125373539,
+            "locality_id":1259377851,
+            "region_id":85688395
+        }
+    ],
+    "wof:id":1259377851,
+    "wof:lastmodified":1537700109,
+    "wof:name":"Bollingetorp",
+    "wof:parent_id":1125373539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.68333,
+    57.28333000000001,
+    14.68333,
+    57.28333000000001
+],
+  "geometry": {"coordinates":[14.68333,57.28333000000001],"type":"Point"}
+}

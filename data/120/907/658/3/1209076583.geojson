@@ -1,0 +1,68 @@
+{
+  "id": 1209076583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.54326,65.93751,23.54326,65.93751",
+    "geom:latitude":65.93751,
+    "geom:longitude":23.54326,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2583.0",
+    "gn:asciiname":"Langtrask",
+    "gn:country_code":"SE",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":604761,
+    "gn:latitude":65.93751,
+    "gn:longitude":23.54326,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"L\u00e5ngtr\u00e4sk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Pitk\u00e4j\u00e4rvi"
+    ],
+    "name:swe_x_preferred":[
+        "L\u00e5ngtr\u00e4sk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":604761
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"51dade1e90900d537a9ba42efcefa0e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633789,
+            "locality_id":1209076583
+        }
+    ],
+    "wof:id":1209076583,
+    "wof:lastmodified":1537699721,
+    "wof:name":"Langtrask",
+    "wof:parent_id":85633789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.54326,
+    65.93751,
+    23.54326,
+    65.93751
+],
+  "geometry": {"coordinates":[23.54326,65.93751],"type":"Point"}
+}

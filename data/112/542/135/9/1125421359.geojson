@@ -1,0 +1,77 @@
+{
+  "id": 1125421359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-05-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.29986,57.03558,18.29986,57.03558",
+    "geom:latitude":57.03558,
+    "geom:longitude":18.29986,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":979,
+    "gn:population":979,
+    "iso:country":"SE",
+    "lbl:latitude":57.03558,
+    "lbl:longitude":18.29986,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8131983,
+    "qs_pg:gn_pop":979,
+    "qs_pg:name":"Hoburg",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":757864,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633789,
+        85688405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8131983,
+        "qs_pg:id":757864
+    },
+    "wof:country":"SE",
+    "wof:created":1497052305,
+    "wof:geomhash":"75ae3d11edae008f1937fcf81a3dcc8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "localadmin_id":1125421359,
+            "region_id":85688405
+        }
+    ],
+    "wof:id":1125421359,
+    "wof:lastmodified":1525735523,
+    "wof:name":"Hoburg",
+    "wof:parent_id":85688405,
+    "wof:placetype":"localadmin",
+    "wof:population":979,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.29986,
+    57.03558,
+    18.29986,
+    57.03558
+],
+  "geometry": {"coordinates":[18.29986,57.03558],"type":"Point"}
+}

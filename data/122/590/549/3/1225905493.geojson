@@ -1,0 +1,70 @@
+{
+  "id": 1225905493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.45,57.91667,13.45,57.91667",
+    "geom:latitude":57.91667,
+    "geom:longitude":13.45,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"1491.0",
+    "gn:asciiname":"Vedasla",
+    "gn:country_code":"SE",
+    "gn:dem":249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2663497,
+    "gn:latitude":57.91667,
+    "gn:longitude":13.45,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Ved\u00e5sla",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688411,
+        102191581,
+        1159307249,
+        85633789,
+        1159303161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2663497
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"93eada329197c45902e9a38d15a9fc73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303161,
+            "localadmin_id":1159307249,
+            "locality_id":1225905493,
+            "region_id":85688411
+        }
+    ],
+    "wof:id":1225905493,
+    "wof:lastmodified":1536928472,
+    "wof:name":"Vedasla",
+    "wof:parent_id":1159307249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.45,
+    57.91667,
+    13.45,
+    57.91667
+],
+  "geometry": {"coordinates":[13.45,57.91667],"type":"Point"}
+}

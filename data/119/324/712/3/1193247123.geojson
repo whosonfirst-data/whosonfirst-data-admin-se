@@ -1,0 +1,77 @@
+{
+  "id": 1193247123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.93819,59.45302,11.93819,59.45302",
+    "geom:latitude":59.45302,
+    "geom:longitude":11.93819,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1765.0",
+    "gn:admin3_code":"176503.0",
+    "gn:admin4_code":"2148.0",
+    "gn:asciiname":"Sallom",
+    "gn:cc2":"SE",
+    "gn:country_code":"SE",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2680551,
+    "gn:latitude":59.45302,
+    "gn:longitude":11.93819,
+    "gn:modification_date":"2012-03-02",
+    "gn:name":"S\u00e5llom",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sollom",
+        "S\u00e5llom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688435,
+        102191581,
+        1125356099,
+        85633789,
+        1159302927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2680551
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"061d96d16a920c580bc06c9f293c4f60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302927,
+            "localadmin_id":1125356099,
+            "locality_id":1193247123,
+            "region_id":85688435
+        }
+    ],
+    "wof:id":1193247123,
+    "wof:lastmodified":1537699853,
+    "wof:name":"Sallom",
+    "wof:parent_id":1125356099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.93819,
+    59.45302,
+    11.93819,
+    59.45302
+],
+  "geometry": {"coordinates":[11.93819,59.45302],"type":"Point"}
+}

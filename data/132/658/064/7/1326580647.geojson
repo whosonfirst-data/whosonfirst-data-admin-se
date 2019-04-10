@@ -1,0 +1,69 @@
+{
+  "id": 1326580647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.85,56.43333,12.85,56.43333",
+    "geom:latitude":56.43333,
+    "geom:longitude":12.85,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Malen",
+    "gn:country_code":"SE",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2693081,
+    "gn:latitude":56.43333,
+    "gn:longitude":12.85,
+    "gn:modification_date":"1994-01-14",
+    "gn:name":"Malen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688377,
+        102191581,
+        1125372729,
+        85633789,
+        1159302919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2693081
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"821f5b24afb45ab69f4396782a3ffdf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302919,
+            "localadmin_id":1125372729,
+            "locality_id":1326580647,
+            "region_id":85688377
+        }
+    ],
+    "wof:id":1326580647,
+    "wof:lastmodified":1536914828,
+    "wof:name":"Malen",
+    "wof:parent_id":1125372729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.85,
+    56.43333000000001,
+    12.85,
+    56.43333000000001
+],
+  "geometry": {"coordinates":[12.85,56.43333000000001],"type":"Point"}
+}

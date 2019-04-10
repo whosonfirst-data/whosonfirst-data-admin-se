@@ -1,0 +1,81 @@
+{
+  "id": 1225803481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.73333,59.55,12.73333,59.55",
+    "geom:latitude":59.55,
+    "geom:longitude":12.73333,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1784.0",
+    "gn:asciiname":"Sodra Hog",
+    "gn:cc2":"SE",
+    "gn:country_code":"SE",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2675917,
+    "gn:latitude":59.55,
+    "gn:longitude":12.73333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"S\u00f6dra H\u00f6g",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "S\u00f6dra H\u00f6g"
+    ],
+    "name:nor_x_variant":[
+        "S\u00f8dra H\u00f8g"
+    ],
+    "name:und_x_variant":[
+        "H\u00f6g",
+        "S\u00f6dra H\u00f6g"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688435,
+        102191581,
+        1159306547,
+        85633789,
+        1159303075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2675917
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"26c3050eb8c554d3290573754e0e79d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303075,
+            "localadmin_id":1159306547,
+            "locality_id":1225803481,
+            "region_id":85688435
+        }
+    ],
+    "wof:id":1225803481,
+    "wof:lastmodified":1537699821,
+    "wof:name":"Sodra Hog",
+    "wof:parent_id":1159306547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.73333,
+    59.55,
+    12.73333,
+    59.55
+],
+  "geometry": {"coordinates":[12.73333,59.55],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1226701225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.55,56.18333,14.55,56.18333",
+    "geom:latitude":56.18333,
+    "geom:longitude":14.55,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"1272.0",
+    "gn:asciiname":"Drogsperyd",
+    "gn:country_code":"SE",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2717218,
+    "gn:latitude":56.18333,
+    "gn:longitude":14.55,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Dr\u00f6gsperyd",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Dr\u00f6gsperyd"
+    ],
+    "name:nor_x_variant":[
+        "Dr\u00f8gsperyd"
+    ],
+    "name:und_x_variant":[
+        "Dr\u00f6gsperyd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688377,
+        102191581,
+        1125356271,
+        85633789,
+        1159303217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2717218
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"40b74e3451fcc8c1efd1c1f7032f263c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303217,
+            "localadmin_id":1125356271,
+            "locality_id":1226701225,
+            "region_id":85688377
+        }
+    ],
+    "wof:id":1226701225,
+    "wof:lastmodified":1537700092,
+    "wof:name":"Drogsperyd",
+    "wof:parent_id":1125356271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.55,
+    56.18333000000001,
+    14.55,
+    56.18333000000001
+],
+  "geometry": {"coordinates":[14.55,56.18333000000001],"type":"Point"}
+}

@@ -1,0 +1,124 @@
+{
+  "id": 85902419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.585791,56.162705,15.585791,56.162705",
+    "geom:latitude":56.162705,
+    "geom:longitude":15.585791,
+    "gn:latitude":56.16667,
+    "gn:longitude":15.56667,
+    "iso:country":"SE",
+    "lbl:latitude":56.162705,
+    "lbl:longitude":15.585791,
+    "mps:latitude":56.156133,
+    "mps:longitude":15.596451,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "name:nor_x_preferred":[
+        "Salt\u00f8"
+    ],
+    "name:nor_x_variant":[
+        "Salt\u00f6"
+    ],
+    "name:swe_x_colloquial":[
+        "Salto",
+        "Saltoe"
+    ],
+    "name:swe_x_preferred":[
+        "Salt\u00f6"
+    ],
+    "name:unk_x_variant":[
+        "Salt\u00f6"
+    ],
+    "qs:gn_adm0_cc":"SE",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2701713,
+    "qs:gn_nam_loc":"Karlskrona, Karlskrona, Blekinge L\u00e4n, SE",
+    "qs:gn_namadm1":"02",
+    "qs:gn_name":"Salt\u00f6",
+    "qs:local_max":3772,
+    "qs:local_sum":4547,
+    "qs:localhoods":2,
+    "qs:name":"Salt\u00f6",
+    "qs:name_adm0":"Sverige",
+    "qs:name_adm1":"Blekinge L\u00e4n",
+    "qs:name_adm2":"Karlskrona",
+    "qs:name_local":"Karlskrona",
+    "qs:photo_max":448,
+    "qs:photo_sum":3772,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":102,
+    "qs:woe_adm0":23424954,
+    "qs:woe_adm1":2347045,
+    "qs:woe_adm2":12587219,
+    "qs:woe_lau":0,
+    "qs:woe_local":894952,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":83,
+    "wof:belongsto":[
+        85688383,
+        102191581,
+        1125362329,
+        85633789,
+        101816657,
+        1159303467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2680467,
+        "gp:id":903256,
+        "qs:id":1291468,
+        "qs_pg:id":1291468,
+        "wd:id":"Q7406259"
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"ca93654b5fcbbd7a080fbdbe188ac6bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303467,
+            "localadmin_id":1125362329,
+            "locality_id":101816657,
+            "neighbourhood_id":85902419,
+            "region_id":85688383
+        }
+    ],
+    "wof:id":85902419,
+    "wof:lang":[
+        "swe"
+    ],
+    "wof:lastmodified":1554166247,
+    "wof:name":"Salt\u00f6",
+    "wof:parent_id":101816657,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.585791,
+    56.162705,
+    15.585791,
+    56.162705
+],
+  "geometry": {"coordinates":[15.585791,56.162705],"type":"Point"}
+}

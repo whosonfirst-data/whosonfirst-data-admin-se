@@ -1,0 +1,70 @@
+{
+  "id": 1259948801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.65,60.06667,17.65,60.06667",
+    "geom:latitude":60.06667,
+    "geom:longitude":17.65,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"380.0",
+    "gn:asciiname":"Golvasta",
+    "gn:country_code":"SE",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2711664,
+    "gn:latitude":60.06667,
+    "gn:longitude":17.65,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Golvasta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688439,
+        102191581,
+        1125423291,
+        85633789,
+        1159303253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2711664
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"3f12d7628a9893586523b30fbd2e961f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303253,
+            "localadmin_id":1125423291,
+            "locality_id":1259948801,
+            "region_id":85688439
+        }
+    ],
+    "wof:id":1259948801,
+    "wof:lastmodified":1536685191,
+    "wof:name":"Golvasta",
+    "wof:parent_id":1125423291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.65,
+    60.06667,
+    17.65,
+    60.06667
+],
+  "geometry": {"coordinates":[17.65,60.06667],"type":"Point"}
+}

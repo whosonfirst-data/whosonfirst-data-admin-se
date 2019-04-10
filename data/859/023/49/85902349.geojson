@@ -1,0 +1,111 @@
+{
+  "id": 85902349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":34937903.407323,
+    "geom:bbox":"15.636159,60.604128,15.636159,60.604128",
+    "geom:latitude":60.604128,
+    "geom:longitude":15.636159,
+    "gn:latitude":60.6,
+    "gn:longitude":15.65,
+    "iso:country":"SE",
+    "lbl:latitude":60.604128,
+    "lbl:longitude":15.636159,
+    "mps:latitude":60.601109,
+    "mps:longitude":15.638712,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":1,
+    "name:swe_x_preferred":[
+        "Norslund"
+    ],
+    "name:unk_x_variant":[
+        "Norslund"
+    ],
+    "qs:gn_adm0_cc":"SE",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2715459,
+    "qs:gn_namadm1":"10",
+    "qs:gn_name":"Norslund",
+    "qs:local_max":1706,
+    "qs:local_sum":1706,
+    "qs:localhoods":1,
+    "qs:name":"Norslund",
+    "qs:name_adm0":"Sverige",
+    "qs:name_adm1":"Dalarnas L\u00e4n",
+    "qs:name_adm2":"Falun",
+    "qs:name_local":"Falun",
+    "qs:photo_max":139,
+    "qs:photo_sum":1706,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":142,
+    "qs:woe_adm0":23424954,
+    "qs:woe_adm1":2347053,
+    "qs:woe_adm2":12587289,
+    "qs:woe_lau":0,
+    "qs:woe_local":889278,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85688447,
+        102191581,
+        1125356435,
+        85633789,
+        101847359,
+        1159302903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2688160,
+        "gp:id":900065,
+        "qs:id":891932,
+        "qs_pg:id":891932
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"2048c9ca767a7c4d4897f1c4d907e89a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302903,
+            "localadmin_id":1125356435,
+            "locality_id":101847359,
+            "neighbourhood_id":85902349,
+            "region_id":85688447
+        }
+    ],
+    "wof:id":85902349,
+    "wof:lang":[
+        "swe"
+    ],
+    "wof:lastmodified":1531935880,
+    "wof:name":"Norslund",
+    "wof:parent_id":101847359,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.636159,
+    60.604128,
+    15.636159,
+    60.604128
+],
+  "geometry": {"coordinates":[15.636159,60.604128],"type":"Point"}
+}

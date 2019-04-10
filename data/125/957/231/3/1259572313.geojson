@@ -1,0 +1,77 @@
+{
+  "id": 1259572313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.65,57.95,16.65,57.95",
+    "geom:latitude":57.95,
+    "geom:longitude":16.65,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"883.0",
+    "gn:asciiname":"Snorum",
+    "gn:country_code":"SE",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2676349,
+    "gn:latitude":57.95,
+    "gn:longitude":16.65,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Sn\u00f6rum",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Sn\u00f6rum"
+    ],
+    "name:nor_x_variant":[
+        "Sn\u00f8rum"
+    ],
+    "name:und_x_variant":[
+        "Sn\u00f6rum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688401,
+        1125277775,
+        1159303209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2676349
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"81a4602ac0ff3d42cb7d228959aca8c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "county_id":1159303209,
+            "localadmin_id":1125277775,
+            "locality_id":1259572313,
+            "region_id":85688401
+        }
+    ],
+    "wof:id":1259572313,
+    "wof:lastmodified":1537699830,
+    "wof:name":"Snorum",
+    "wof:parent_id":1125277775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.65,
+    57.95,
+    16.65,
+    57.95
+],
+  "geometry": {"coordinates":[16.65,57.95],"type":"Point"}
+}

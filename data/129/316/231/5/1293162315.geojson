@@ -1,0 +1,70 @@
+{
+  "id": 1293162315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.775,56.375,12.775,56.375",
+    "geom:latitude":56.375,
+    "geom:longitude":12.775,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"1278.0",
+    "gn:asciiname":"Angelsback",
+    "gn:country_code":"SE",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2725897,
+    "gn:latitude":56.375,
+    "gn:longitude":12.775,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"\u00c4ngelsb\u00e4ck",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688377,
+        102191581,
+        1159307209,
+        85633789,
+        1159302919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2725897
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"41a015599a524c9bacf27e80bd790676",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302919,
+            "localadmin_id":1159307209,
+            "locality_id":1293162315,
+            "region_id":85688377
+        }
+    ],
+    "wof:id":1293162315,
+    "wof:lastmodified":1536759219,
+    "wof:name":"Angelsback",
+    "wof:parent_id":1159307209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.775,
+    56.375,
+    12.775,
+    56.375
+],
+  "geometry": {"coordinates":[12.775,56.375],"type":"Point"}
+}

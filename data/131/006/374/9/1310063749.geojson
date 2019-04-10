@@ -1,0 +1,75 @@
+{
+  "id": 1310063749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.6,64.48333,20.6,64.48333",
+    "geom:latitude":64.48333,
+    "geom:longitude":20.6,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"2482.0",
+    "gn:asciiname":"Brannbergsliden",
+    "gn:cc2":"SE",
+    "gn:country_code":"SE",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":606446,
+    "gn:latitude":64.48333,
+    "gn:longitude":20.6,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Br\u00e4nnbergsliden",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Brandberliden",
+        "Br\u00e4nnbergsliden"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688465,
+        102191581,
+        1125389983,
+        85633789,
+        1159303205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":606446
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"d1cd8ee60fd3fe7cb9dd37e5d6ec204d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303205,
+            "localadmin_id":1125389983,
+            "locality_id":1310063749,
+            "region_id":85688465
+        }
+    ],
+    "wof:id":1310063749,
+    "wof:lastmodified":1537699731,
+    "wof:name":"Brannbergsliden",
+    "wof:parent_id":1125389983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.6,
+    64.48333000000001,
+    20.6,
+    64.48333000000001
+],
+  "geometry": {"coordinates":[20.6,64.48333000000001],"type":"Point"}
+}

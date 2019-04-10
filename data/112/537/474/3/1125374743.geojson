@@ -1,0 +1,77 @@
+{
+  "id": 1125374743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-05-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.33333,58.35,13.33333,58.35",
+    "geom:latitude":58.35,
+    "geom:longitude":13.33333,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":2576,
+    "gn:population":2576,
+    "iso:country":"SE",
+    "lbl:latitude":58.35,
+    "lbl:longitude":13.33333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8132236,
+    "qs_pg:gn_pop":2576,
+    "qs_pg:name":"Ardala",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":757994,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633789,
+        85688411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8132236,
+        "qs_pg:id":757994
+    },
+    "wof:country":"SE",
+    "wof:created":1497047651,
+    "wof:geomhash":"4c6be220c79fe7a5b3a5c475b8b24d32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "localadmin_id":1125374743,
+            "region_id":85688411
+        }
+    ],
+    "wof:id":1125374743,
+    "wof:lastmodified":1525735523,
+    "wof:name":"Ardala",
+    "wof:parent_id":85688411,
+    "wof:placetype":"localadmin",
+    "wof:population":2576,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.33333,
+    58.35,
+    13.33333,
+    58.35
+],
+  "geometry": {"coordinates":[13.33333,58.35],"type":"Point"}
+}

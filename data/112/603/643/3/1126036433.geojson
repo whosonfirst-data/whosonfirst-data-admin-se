@@ -1,0 +1,125 @@
+{
+  "id": 1126036433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.00267,56.26843,16.00267,56.26843",
+    "geom:latitude":56.26843,
+    "geom:longitude":16.00267,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1450,
+    "gn:population":1450,
+    "iso:country":"SE",
+    "lbl:latitude":56.26843,
+    "lbl:longitude":16.00267,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dan_x_preferred":[
+        "Kristianopel"
+    ],
+    "name:dut_x_preferred":[
+        "Kristianopel"
+    ],
+    "name:eng_x_preferred":[
+        "Kristianopel"
+    ],
+    "name:epo_x_preferred":[
+        "Kristianopel"
+    ],
+    "name:fin_x_preferred":[
+        "Kristianopel"
+    ],
+    "name:fre_x_preferred":[
+        "Kristianopel"
+    ],
+    "name:ger_x_preferred":[
+        "Kristianopel"
+    ],
+    "name:nno_x_preferred":[
+        "Kristianopel"
+    ],
+    "name:nob_x_preferred":[
+        "Kristianopel"
+    ],
+    "name:swe_x_preferred":[
+        "Kristianopel"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8131779,
+    "qs_pg:gn_pop":1450,
+    "qs_pg:name":"Kristianopel",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"Blekinge L\u00e4n",
+    "qs_pg:photos":46,
+    "qs_pg:photos_1k":9,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":46,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":260804,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":895928,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"Blekinge L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688383,
+        102191581,
+        1159306375,
+        85633789,
+        1159303467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8131779,
+        "gp:id":895928,
+        "qs_pg:id":260804,
+        "wd:id":"Q174593"
+    },
+    "wof:country":"SE",
+    "wof:created":1497301814,
+    "wof:geomhash":"a683edfb3c4a43627e392ccfb1110d7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303467,
+            "localadmin_id":1159306375,
+            "locality_id":1126036433,
+            "region_id":85688383
+        }
+    ],
+    "wof:id":1126036433,
+    "wof:lastmodified":1554166233,
+    "wof:name":"Kristianopel",
+    "wof:parent_id":1159306375,
+    "wof:placetype":"locality",
+    "wof:population":1450,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.00267,
+    56.26843,
+    16.00267,
+    56.26843
+],
+  "geometry": {"coordinates":[16.00267,56.26843],"type":"Point"}
+}

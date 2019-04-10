@@ -1,0 +1,70 @@
+{
+  "id": 1193269967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.34167,57.03333,12.34167,57.03333",
+    "geom:latitude":57.03333,
+    "geom:longitude":12.34167,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"1383.0",
+    "gn:asciiname":"Utteros",
+    "gn:country_code":"SE",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3326109,
+    "gn:latitude":57.03333,
+    "gn:longitude":12.34167,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Utteros",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688391,
+        102191581,
+        1125381871,
+        85633789,
+        1159302939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3326109
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"a2b87fafc833a9f71971870635d2d7ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302939,
+            "localadmin_id":1125381871,
+            "locality_id":1193269967,
+            "region_id":85688391
+        }
+    ],
+    "wof:id":1193269967,
+    "wof:lastmodified":1536371762,
+    "wof:name":"Utteros",
+    "wof:parent_id":1125381871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.34167,
+    57.03333000000001,
+    12.34167,
+    57.03333000000001
+],
+  "geometry": {"coordinates":[12.34167,57.03333000000001],"type":"Point"}
+}

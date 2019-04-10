@@ -1,0 +1,70 @@
+{
+  "id": 1343619979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.3,59.33333,12.3,59.33333",
+    "geom:latitude":59.33333,
+    "geom:longitude":12.3,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1765.0",
+    "gn:asciiname":"Svennebyn",
+    "gn:country_code":"SE",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2670033,
+    "gn:latitude":59.33333,
+    "gn:longitude":12.3,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Svennebyn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688435,
+        102191581,
+        1125288209,
+        85633789,
+        1159302927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2670033
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"b7558bfbba73195aacbe911ff7d0b660",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302927,
+            "localadmin_id":1125288209,
+            "locality_id":1343619979,
+            "region_id":85688435
+        }
+    ],
+    "wof:id":1343619979,
+    "wof:lastmodified":1537012835,
+    "wof:name":"Svennebyn",
+    "wof:parent_id":1125288209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.3,
+    59.33333,
+    12.3,
+    59.33333
+],
+  "geometry": {"coordinates":[12.3,59.33333],"type":"Point"}
+}

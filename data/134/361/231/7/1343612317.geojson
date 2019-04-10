@@ -1,0 +1,70 @@
+{
+  "id": 1343612317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.21667,58.45,13.21667,58.45",
+    "geom:latitude":58.45,
+    "geom:longitude":13.21667,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"1494.0",
+    "gn:asciiname":"Halltorp",
+    "gn:country_code":"SE",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2708396,
+    "gn:latitude":58.45,
+    "gn:longitude":13.21667,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"H\u00e5lltorp",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688411,
+        102191581,
+        1159306975,
+        85633789,
+        1159303281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2708396
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"3f3633d48ae2498ff5a554247d75aed1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303281,
+            "localadmin_id":1159306975,
+            "locality_id":1343612317,
+            "region_id":85688411
+        }
+    ],
+    "wof:id":1343612317,
+    "wof:lastmodified":1537023554,
+    "wof:name":"Halltorp",
+    "wof:parent_id":1159306975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.21667,
+    58.45,
+    13.21667,
+    58.45
+],
+  "geometry": {"coordinates":[13.21667,58.45],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1243424775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.56667,67.16667,23.56667,67.16667",
+    "geom:latitude":67.16667,
+    "geom:longitude":23.56667,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Lappea",
+    "gn:cc2":"SE",
+    "gn:country_code":"SE",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":604728,
+    "gn:latitude":67.16667,
+    "gn:longitude":23.56667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Lappea",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lappeakoski",
+        "Lappea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683147,
+        102191581,
+        907199583,
+        85633143,
+        404227409,
+        136253047,
+        1159321583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":604728
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"13a45613285d1bce4a6ce42c815efb81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321583,
+            "empire_id":136253047,
+            "localadmin_id":907199583,
+            "locality_id":1243424775,
+            "macroregion_id":404227409,
+            "region_id":85683147
+        }
+    ],
+    "wof:id":1243424775,
+    "wof:lastmodified":1537699720,
+    "wof:name":"Lappea",
+    "wof:parent_id":907199583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.56667,
+    67.16667,
+    23.56667,
+    67.16667
+],
+  "geometry": {"coordinates":[23.56667,67.16667],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1344163451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.65,60.6,16.65,60.6",
+    "geom:latitude":60.6,
+    "geom:longitude":16.65,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"2181.0",
+    "gn:asciiname":"See",
+    "gn:country_code":"SE",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2679582,
+    "gn:latitude":60.6,
+    "gn:longitude":16.65,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"See",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688453,
+        102191581,
+        1125325425,
+        85633789,
+        1159303303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2679582
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"21925d234886feb320a2078d79230169",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303303,
+            "localadmin_id":1125325425,
+            "locality_id":1344163451,
+            "region_id":85688453
+        }
+    ],
+    "wof:id":1344163451,
+    "wof:lastmodified":1536727311,
+    "wof:name":"See",
+    "wof:parent_id":1125325425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.65,
+    60.6,
+    16.65,
+    60.6
+],
+  "geometry": {"coordinates":[16.65,60.6],"type":"Point"}
+}

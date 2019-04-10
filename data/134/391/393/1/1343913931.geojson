@@ -1,0 +1,79 @@
+{
+  "id": 1343913931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.33333,64.1,17.33333,64.1",
+    "geom:latitude":64.1,
+    "geom:longitude":17.33333,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"2463.0",
+    "gn:asciiname":"Osternoret",
+    "gn:country_code":"SE",
+    "gn:dem":308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2685813,
+    "gn:latitude":64.1,
+    "gn:longitude":17.33333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"\u00d6sternoret",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "\u00d6sternoret"
+    ],
+    "name:nor_x_variant":[
+        "\u00d8sternoret"
+    ],
+    "name:und_x_variant":[
+        "\u00d6sternoret"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688465,
+        102191581,
+        1125417059,
+        85633789,
+        1159303133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2685813
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"1aa17a1f1395c7fb91a84b14bd2a4bbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303133,
+            "localadmin_id":1125417059,
+            "locality_id":1343913931,
+            "region_id":85688465
+        }
+    ],
+    "wof:id":1343913931,
+    "wof:lastmodified":1537699901,
+    "wof:name":"Osternoret",
+    "wof:parent_id":1125417059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.33333,
+    64.1,
+    17.33333,
+    64.1
+],
+  "geometry": {"coordinates":[17.33333,64.09999999999999],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1326794615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.2,60.21667,18.2,60.21667",
+    "geom:latitude":60.21667,
+    "geom:longitude":18.2,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"382.0",
+    "gn:asciiname":"Hokhuvud",
+    "gn:country_code":"SE",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2705505,
+    "gn:latitude":60.21667,
+    "gn:longitude":18.2,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"H\u00f6khuvud",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "H\u00f6khuvud"
+    ],
+    "name:nor_x_variant":[
+        "H\u00f8khuvud"
+    ],
+    "name:und_x_variant":[
+        "H\u00f6khuvud"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688439,
+        102191581,
+        1125356025,
+        85633789,
+        1159303415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2705505
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"82f6e320d27db87dc170ba50113f7768",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303415,
+            "localadmin_id":1125356025,
+            "locality_id":1326794615,
+            "region_id":85688439
+        }
+    ],
+    "wof:id":1326794615,
+    "wof:lastmodified":1537700022,
+    "wof:name":"Hokhuvud",
+    "wof:parent_id":1125356025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.2,
+    60.21666999999999,
+    18.2,
+    60.21666999999999
+],
+  "geometry": {"coordinates":[18.2,60.21666999999999],"type":"Point"}
+}

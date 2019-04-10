@@ -1,0 +1,70 @@
+{
+  "id": 1360153695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.4,60.18333,18.4,60.18333",
+    "geom:latitude":60.18333,
+    "geom:longitude":18.4,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"382.0",
+    "gn:asciiname":"Harg",
+    "gn:country_code":"SE",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2707780,
+    "gn:latitude":60.18333,
+    "gn:longitude":18.4,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Harg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688439,
+        102191581,
+        1159306081,
+        85633789,
+        1159303415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2707780
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"30c92e5572ddabd07d17b55533fc212c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303415,
+            "localadmin_id":1159306081,
+            "locality_id":1360153695,
+            "region_id":85688439
+        }
+    ],
+    "wof:id":1360153695,
+    "wof:lastmodified":1536845728,
+    "wof:name":"Harg",
+    "wof:parent_id":1159306081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.4,
+    60.18333000000001,
+    18.4,
+    60.18333000000001
+],
+  "geometry": {"coordinates":[18.4,60.18333000000001],"type":"Point"}
+}

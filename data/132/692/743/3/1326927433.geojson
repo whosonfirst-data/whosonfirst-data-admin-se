@@ -1,0 +1,74 @@
+{
+  "id": 1326927433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.48333,57.16667,12.48333,57.16667",
+    "geom:latitude":57.16667,
+    "geom:longitude":12.48333,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"1383.0",
+    "gn:asciiname":"Skarte",
+    "gn:country_code":"SE",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2677963,
+    "gn:latitude":57.16667,
+    "gn:longitude":12.48333,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Sk\u00e4rte",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sk\u00e4rte"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688391,
+        102191581,
+        1159305973,
+        85633789,
+        1159302939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2677963,
+        "wk:page":"Sk%C3%A4rte"
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"ed8f29a62461a295f00eb8e7ce07a1c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302939,
+            "localadmin_id":1159305973,
+            "locality_id":1326927433,
+            "region_id":85688391
+        }
+    ],
+    "wof:id":1326927433,
+    "wof:lastmodified":1537699838,
+    "wof:name":"Skarte",
+    "wof:parent_id":1159305973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.48333,
+    57.16667,
+    12.48333,
+    57.16667
+],
+  "geometry": {"coordinates":[12.48333,57.16667],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1293795791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.05,56.31667,15.05,56.31667",
+    "geom:latitude":56.31667,
+    "geom:longitude":15.05,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"1081.0",
+    "gn:asciiname":"Raskamala",
+    "gn:country_code":"SE",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2683101,
+    "gn:latitude":56.31667,
+    "gn:longitude":15.05,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Raskam\u00e5la",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688383,
+        1125358293,
+        1159303551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2683101
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"6a1e4227ba547c0545a49be06046aaa1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "county_id":1159303551,
+            "localadmin_id":1125358293,
+            "locality_id":1293795791,
+            "region_id":85688383
+        }
+    ],
+    "wof:id":1293795791,
+    "wof:lastmodified":1536838630,
+    "wof:name":"Raskamala",
+    "wof:parent_id":1125358293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.05,
+    56.31667,
+    15.05,
+    56.31667
+],
+  "geometry": {"coordinates":[15.05,56.31667],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243166029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.50254,56.34021,16.50254,56.34021",
+    "geom:latitude":56.34021,
+    "geom:longitude":16.50254,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"840.0",
+    "gn:admin3_code":"84008.0",
+    "gn:admin4_code":"809.0",
+    "gn:asciiname":"Solberga",
+    "gn:country_code":"SE",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2675472,
+    "gn:latitude":56.34021,
+    "gn:longitude":16.50254,
+    "gn:modification_date":"2014-03-20",
+    "gn:name":"Solberga",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688401,
+        1159307211,
+        1159303101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2675472
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"442ac2b6bdd31ad7d3fa5639782c16cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "county_id":1159303101,
+            "localadmin_id":1159307211,
+            "locality_id":1243166029,
+            "region_id":85688401
+        }
+    ],
+    "wof:id":1243166029,
+    "wof:lastmodified":1536713190,
+    "wof:name":"Solberga",
+    "wof:parent_id":1159307211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.50254,
+    56.34021,
+    16.50254,
+    56.34021
+],
+  "geometry": {"coordinates":[16.50254,56.34021],"type":"Point"}
+}

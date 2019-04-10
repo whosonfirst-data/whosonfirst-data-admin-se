@@ -1,0 +1,78 @@
+{
+  "id": 1327129957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.56667,63.15,14.56667,63.15",
+    "geom:latitude":63.15,
+    "geom:longitude":14.56667,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"2380.0",
+    "gn:asciiname":"Sandviken",
+    "gn:cc2":"SE",
+    "gn:country_code":"SE",
+    "gn:dem":400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2680073,
+    "gn:latitude":63.15,
+    "gn:longitude":14.56667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Sandviken",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d\u0434\u0432\u0438\u043a\u0435\u043d"
+    ],
+    "name:und_x_variant":[
+        "Sandvik",
+        "Sandviken"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688461,
+        102191581,
+        1125362491,
+        85633789,
+        1159303231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2680073
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"6bf2dbd409991cb89561d1e8b5602276",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303231,
+            "localadmin_id":1125362491,
+            "locality_id":1327129957,
+            "region_id":85688461
+        }
+    ],
+    "wof:id":1327129957,
+    "wof:lastmodified":1537699850,
+    "wof:name":"Sandviken",
+    "wof:parent_id":1125362491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.56667,
+    63.15,
+    14.56667,
+    63.15
+],
+  "geometry": {"coordinates":[14.56667,63.15],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243140529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.7,63.11667,17.7,63.11667",
+    "geom:latitude":63.11667,
+    "geom:longitude":17.7,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2283.0",
+    "gn:asciiname":"Hamra",
+    "gn:country_code":"SE",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2708077,
+    "gn:latitude":63.11667,
+    "gn:longitude":17.7,
+    "gn:modification_date":"2017-08-12",
+    "gn:name":"H\u00e4mra",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688457,
+        102191581,
+        1125423311,
+        85633789,
+        1159303301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2708077
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"c539d29a1942da52218f06bd56007c21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303301,
+            "localadmin_id":1125423311,
+            "locality_id":1243140529,
+            "region_id":85688457
+        }
+    ],
+    "wof:id":1243140529,
+    "wof:lastmodified":1536749626,
+    "wof:name":"Hamra",
+    "wof:parent_id":1125423311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.7,
+    63.11666999999999,
+    17.7,
+    63.11666999999999
+],
+  "geometry": {"coordinates":[17.7,63.11666999999999],"type":"Point"}
+}

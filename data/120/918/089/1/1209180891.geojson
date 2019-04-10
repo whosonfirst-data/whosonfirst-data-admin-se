@@ -1,0 +1,62 @@
+{
+  "id": 1209180891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.98333,59.1,17.98333,59.1",
+    "geom:latitude":59.1,
+    "geom:longitude":17.98333,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"192.0",
+    "gn:asciiname":"Stora Vadersjon",
+    "gn:country_code":"SE",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2672316,
+    "gn:latitude":59.1,
+    "gn:longitude":17.98333,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Stora V\u00e4dersj\u00f6n",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2672316
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"7f80eb2eb7853bc4911eebca149b14d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633789,
+            "locality_id":1209180891
+        }
+    ],
+    "wof:id":1209180891,
+    "wof:lastmodified":1536295263,
+    "wof:name":"Stora Vadersjon",
+    "wof:parent_id":85633789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.98333,
+    59.1,
+    17.98333,
+    59.1
+],
+  "geometry": {"coordinates":[17.98333,59.1],"type":"Point"}
+}

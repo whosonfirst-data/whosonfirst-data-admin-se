@@ -1,0 +1,116 @@
+{
+  "id": 1125990363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.46667,61.13333,14.46667,61.13333",
+    "geom:latitude":61.13333,
+    "geom:longitude":14.46667,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":880,
+    "gn:population":831,
+    "iso:country":"SE",
+    "lbl:latitude":61.13333,
+    "lbl:longitude":14.46667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "V\u00e5mhus"
+    ],
+    "name:eng_x_preferred":[
+        "V\u00e5mhus"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30f4\u30a1\u30fc\u30e0\u30d5\u30b9"
+    ],
+    "name:nan_x_preferred":[
+        "V\u00e5mhus"
+    ],
+    "name:nno_x_preferred":[
+        "V\u00e5mhus"
+    ],
+    "name:nob_x_preferred":[
+        "V\u00e5mhus"
+    ],
+    "name:swe_x_preferred":[
+        "V\u00e5mhus"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2665209,
+    "qs_pg:gn_pop":880,
+    "qs_pg:name":"V\u00e5mhus",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"Dalarnas L\u00e4n",
+    "qs_pg:photos":41,
+    "qs_pg:photos_1k":8,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":41,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1351661,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":908958,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"Dalarnas L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688447,
+        102191581,
+        1125382209,
+        85633789,
+        1159303515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2665209,
+        "gp:id":908958,
+        "qs_pg:id":1351661,
+        "wd:id":"Q3352701"
+    },
+    "wof:country":"SE",
+    "wof:created":1497299028,
+    "wof:geomhash":"f93f393170659fb6f8c8733879a40c23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303515,
+            "localadmin_id":1125382209,
+            "locality_id":1125990363,
+            "region_id":85688447
+        }
+    ],
+    "wof:id":1125990363,
+    "wof:lastmodified":1529702001,
+    "wof:name":"V\u00e5mhus",
+    "wof:parent_id":1125382209,
+    "wof:placetype":"locality",
+    "wof:population":831,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.46667,
+    61.13333,
+    14.46667,
+    61.13333
+],
+  "geometry": {"coordinates":[14.46667,61.13333],"type":"Point"}
+}

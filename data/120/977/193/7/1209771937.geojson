@@ -1,0 +1,79 @@
+{
+  "id": 1209771937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.06667,59.78306,13.06667,59.78306",
+    "geom:latitude":59.78306,
+    "geom:longitude":13.06667,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1766.0",
+    "gn:asciiname":"Skrotingerud",
+    "gn:country_code":"SE",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2677112,
+    "gn:latitude":59.78306,
+    "gn:longitude":13.06667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Skr\u00f6tingerud",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Skr\u00f6tingerud"
+    ],
+    "name:nor_x_variant":[
+        "Skr\u00f8tingerud"
+    ],
+    "name:und_x_variant":[
+        "Skr\u00f6tingerud"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688435,
+        102191581,
+        1125270339,
+        85633789,
+        1159303019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2677112
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"4e86f1dbfd1e01fbc02e16bc46673775",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303019,
+            "localadmin_id":1125270339,
+            "locality_id":1209771937,
+            "region_id":85688435
+        }
+    ],
+    "wof:id":1209771937,
+    "wof:lastmodified":1537699833,
+    "wof:name":"Skrotingerud",
+    "wof:parent_id":1125270339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.06667,
+    59.78306,
+    13.06667,
+    59.78306
+],
+  "geometry": {"coordinates":[13.06667,59.78306],"type":"Point"}
+}

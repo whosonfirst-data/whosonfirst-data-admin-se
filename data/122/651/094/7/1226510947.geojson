@@ -1,0 +1,70 @@
+{
+  "id": 1226510947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.53306,59.54972,12.53306,59.54972",
+    "geom:latitude":59.54972,
+    "geom:longitude":12.53306,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1784.0",
+    "gn:asciiname":"Svenserud",
+    "gn:country_code":"SE",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2670001,
+    "gn:latitude":59.54972,
+    "gn:longitude":12.53306,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Svenserud",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688435,
+        102191581,
+        1125423295,
+        85633789,
+        1159303075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2670001
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"294cad25e7438e74a7314a5ee99ccb86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303075,
+            "localadmin_id":1125423295,
+            "locality_id":1226510947,
+            "region_id":85688435
+        }
+    ],
+    "wof:id":1226510947,
+    "wof:lastmodified":1537046385,
+    "wof:name":"Svenserud",
+    "wof:parent_id":1125423295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.53306,
+    59.54971999999999,
+    12.53306,
+    59.54971999999999
+],
+  "geometry": {"coordinates":[12.53306,59.54971999999999],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1125843695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.81667,56.2,13.81667,56.2",
+    "geom:latitude":56.2,
+    "geom:longitude":13.81667,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":772,
+    "gn:population":772,
+    "iso:country":"SE",
+    "lbl:latitude":56.2,
+    "lbl:longitude":13.81667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2725360,
+    "qs_pg:gn_pop":772,
+    "qs_pg:name":"Arkelstorp",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":92419,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688377,
+        102191581,
+        1125358387,
+        85633789,
+        1159303121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2725360,
+        "qs_pg:id":92419
+    },
+    "wof:country":"SE",
+    "wof:created":1497293052,
+    "wof:geomhash":"57d4311e39706164264a0e4841cf2ea7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303121,
+            "localadmin_id":1125358387,
+            "locality_id":1125843695,
+            "region_id":85688377
+        }
+    ],
+    "wof:id":1125843695,
+    "wof:lastmodified":1529702676,
+    "wof:name":"Arkelstorp",
+    "wof:parent_id":1125358387,
+    "wof:placetype":"locality",
+    "wof:population":772,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.81667,
+    56.2,
+    13.81667,
+    56.2
+],
+  "geometry": {"coordinates":[13.81667,56.2],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1226520641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.11667,61.15,15.11667,61.15",
+    "geom:latitude":61.15,
+    "geom:longitude":15.11667,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2031.0",
+    "gn:asciiname":"Arvet",
+    "gn:cc2":"SE",
+    "gn:country_code":"SE",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2725140,
+    "gn:latitude":61.15,
+    "gn:longitude":15.11667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Arvet",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Arfvet",
+        "Arvet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688447,
+        102191581,
+        1125325713,
+        85633789,
+        1159303397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2725140
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"321ecf2e9e22c998101bb8358b0fc029",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303397,
+            "localadmin_id":1125325713,
+            "locality_id":1226520641,
+            "region_id":85688447
+        }
+    ],
+    "wof:id":1226520641,
+    "wof:lastmodified":1537700138,
+    "wof:name":"Arvet",
+    "wof:parent_id":1125325713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.11667,
+    61.15,
+    15.11667,
+    61.15
+],
+  "geometry": {"coordinates":[15.11667,61.15],"type":"Point"}
+}

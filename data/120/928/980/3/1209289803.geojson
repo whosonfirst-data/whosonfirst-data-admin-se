@@ -1,0 +1,71 @@
+{
+  "id": 1209289803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.78306,59.36667,16.78306,59.36667",
+    "geom:latitude":59.36667,
+    "geom:longitude":16.78306,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"484.0",
+    "gn:asciiname":"Soderby",
+    "gn:country_code":"SE",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2676258,
+    "gn:latitude":59.36667,
+    "gn:longitude":16.78306,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"S\u00f6derby",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "S\u00f6derby"
+    ],
+    "name:nor_x_variant":[
+        "S\u00f8derby"
+    ],
+    "name:und_x_variant":[
+        "S\u00f6derby"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2676258
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"59272e4666804a002d6191b7742920fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633789,
+            "locality_id":1209289803
+        }
+    ],
+    "wof:id":1209289803,
+    "wof:lastmodified":1537699829,
+    "wof:name":"Soderby",
+    "wof:parent_id":85633789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.78306,
+    59.36666999999999,
+    16.78306,
+    59.36666999999999
+],
+  "geometry": {"coordinates":[16.78306,59.36666999999999],"type":"Point"}
+}

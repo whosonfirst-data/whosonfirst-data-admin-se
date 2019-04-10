@@ -1,0 +1,81 @@
+{
+  "id": 1293155751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.65454,59.8056,16.65454,59.8056",
+    "geom:latitude":59.8056,
+    "geom:longitude":16.65454,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1981.0",
+    "gn:admin3_code":"198106.0",
+    "gn:admin4_code":"2297.0",
+    "gn:asciiname":"Osterby",
+    "gn:country_code":"SE",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2685911,
+    "gn:latitude":59.8056,
+    "gn:longitude":16.65454,
+    "gn:modification_date":"2015-11-07",
+    "gn:name":"\u00d6sterby",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "\u00d6sterby"
+    ],
+    "name:nor_x_variant":[
+        "\u00d8sterby"
+    ],
+    "name:und_x_variant":[
+        "\u00d6sterby"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688425,
+        102191581,
+        1125362557,
+        85633789,
+        1159303409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2685911
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"a578dd6ac02cc1a5007a677329f5e457",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303409,
+            "localadmin_id":1125362557,
+            "locality_id":1293155751,
+            "region_id":85688425
+        }
+    ],
+    "wof:id":1293155751,
+    "wof:lastmodified":1537699904,
+    "wof:name":"Osterby",
+    "wof:parent_id":1125362557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.65454,
+    59.8056,
+    16.65454,
+    59.8056
+],
+  "geometry": {"coordinates":[16.65454,59.8056],"type":"Point"}
+}

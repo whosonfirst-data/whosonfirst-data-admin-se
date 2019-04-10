@@ -1,0 +1,89 @@
+{
+  "id": 1126029309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.48519,57.69591,12.48519,57.69591",
+    "geom:latitude":57.69591,
+    "geom:longitude":12.48519,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"STNM",
+    "gn:gn_pop":150,
+    "gn:population":150,
+    "iso:country":"SE",
+    "lbl:latitude":57.69591,
+    "lbl:longitude":12.48519,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Sundshult"
+    ],
+    "name:eng_x_variant":[
+        "Sundshult Weather Station"
+    ],
+    "name:swe_x_preferred":[
+        "Sundshult V\u00e4derstation"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"STNM",
+    "qs_pg:gn_id":8259952,
+    "qs_pg:gn_pop":150,
+    "qs_pg:name":"Hind\u00e5s, Sundshult Weather Station",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":760490,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688411,
+        102191581,
+        1125372971,
+        85633789,
+        1159303259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8259952,
+        "qs_pg:id":760490
+    },
+    "wof:country":"SE",
+    "wof:created":1497301356,
+    "wof:geomhash":"99cf59d3b632b95f1009e633a271b41f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303259,
+            "localadmin_id":1125372971,
+            "locality_id":1126029309,
+            "region_id":85688411
+        }
+    ],
+    "wof:id":1126029309,
+    "wof:lastmodified":1529702277,
+    "wof:name":"Hind\u00e5s, Sundshult Weather Station",
+    "wof:parent_id":1125372971,
+    "wof:placetype":"locality",
+    "wof:population":150,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.48519,
+    57.69591,
+    12.48519,
+    57.69591
+],
+  "geometry": {"coordinates":[12.48519,57.69591],"type":"Point"}
+}

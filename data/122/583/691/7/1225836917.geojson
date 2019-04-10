@@ -1,0 +1,70 @@
+{
+  "id": 1225836917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.9,57.25,12.9,57.25",
+    "geom:latitude":57.25,
+    "geom:longitude":12.9,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"1382.0",
+    "gn:asciiname":"Stenshult",
+    "gn:country_code":"SE",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2674092,
+    "gn:latitude":57.25,
+    "gn:longitude":12.9,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Stenshult",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688391,
+        102191581,
+        1125381761,
+        85633789,
+        1159303247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2674092
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"d373e3f7a019166b4683aad4a714664b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303247,
+            "localadmin_id":1125381761,
+            "locality_id":1225836917,
+            "region_id":85688391
+        }
+    ],
+    "wof:id":1225836917,
+    "wof:lastmodified":1537025326,
+    "wof:name":"Stenshult",
+    "wof:parent_id":1125381761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.9,
+    57.25,
+    12.9,
+    57.25
+],
+  "geometry": {"coordinates":[12.9,57.25],"type":"Point"}
+}

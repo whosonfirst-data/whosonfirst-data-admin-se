@@ -1,0 +1,70 @@
+{
+  "id": 1226089399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.8,56.01667,12.8,56.01667",
+    "geom:latitude":56.01667,
+    "geom:longitude":12.8,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"1283.0",
+    "gn:asciiname":"Valluv",
+    "gn:country_code":"SE",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2665334,
+    "gn:latitude":56.01667,
+    "gn:longitude":12.8,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"V\u00e4lluv",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688377,
+        102191581,
+        1125358359,
+        85633789,
+        1159302965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2665334
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"58f2607d898cb7fdffbb1fc4ddb3b632",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302965,
+            "localadmin_id":1125358359,
+            "locality_id":1226089399,
+            "region_id":85688377
+        }
+    ],
+    "wof:id":1226089399,
+    "wof:lastmodified":1536662197,
+    "wof:name":"Valluv",
+    "wof:parent_id":1125358359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.8,
+    56.01667,
+    12.8,
+    56.01667
+],
+  "geometry": {"coordinates":[12.8,56.01667],"type":"Point"}
+}

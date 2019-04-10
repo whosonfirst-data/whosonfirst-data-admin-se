@@ -1,0 +1,76 @@
+{
+  "id": 1326951613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.73333,56.88333,12.73333,56.88333",
+    "geom:latitude":56.88333,
+    "geom:longitude":12.73333,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"1382.0",
+    "gn:asciiname":"Semb",
+    "gn:cc2":"SE",
+    "gn:country_code":"SE",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2679475,
+    "gn:latitude":56.88333,
+    "gn:longitude":12.73333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Semb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u00e4mb",
+        "S\u00e4m",
+        "Semb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688391,
+        102191581,
+        1125421429,
+        85633789,
+        1159303247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2679475
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"471a0246d74483530d6118470c320e8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303247,
+            "localadmin_id":1125421429,
+            "locality_id":1326951613,
+            "region_id":85688391
+        }
+    ],
+    "wof:id":1326951613,
+    "wof:lastmodified":1537699848,
+    "wof:name":"Semb",
+    "wof:parent_id":1125421429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.73333,
+    56.88333000000001,
+    12.73333,
+    56.88333000000001
+],
+  "geometry": {"coordinates":[12.73333,56.88333000000001],"type":"Point"}
+}

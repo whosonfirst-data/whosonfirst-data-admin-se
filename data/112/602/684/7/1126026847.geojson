@@ -1,0 +1,105 @@
+{
+  "id": 1126026847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.17,57.6,13.17,57.6",
+    "geom:latitude":57.6,
+    "geom:longitude":13.17,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":371,
+    "gn:population":371,
+    "iso:country":"SE",
+    "lbl:latitude":57.6,
+    "lbl:longitude":13.17,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "H\u00e4lles\u00e5ker"
+    ],
+    "name:eng_x_preferred":[
+        "H\u00e4lles\u00e5ker"
+    ],
+    "name:fre_x_preferred":[
+        "H\u00e4lles\u00e5ker"
+    ],
+    "name:nan_x_preferred":[
+        "H\u00e4lles\u00e5ker"
+    ],
+    "name:nno_x_preferred":[
+        "H\u00e4lles\u00e5ker"
+    ],
+    "name:nob_x_preferred":[
+        "H\u00e4lles\u00e5ker"
+    ],
+    "name:sco_x_preferred":[
+        "H\u00e4lles\u00e5ker"
+    ],
+    "name:swe_x_preferred":[
+        "H\u00e4lles\u00e5ker"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2708615,
+    "qs_pg:gn_pop":371,
+    "qs_pg:name":"H\u00e4lles\u00e5ker",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":575708,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688411,
+        102191581,
+        1159306743,
+        85633789,
+        1159303079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2708615,
+        "qs_pg:id":575708,
+        "wd:id":"Q3473140"
+    },
+    "wof:country":"SE",
+    "wof:created":1497301193,
+    "wof:geomhash":"36d626b238d28b8ea72555e9f28c8504",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303079,
+            "localadmin_id":1159306743,
+            "locality_id":1126026847,
+            "region_id":85688411
+        }
+    ],
+    "wof:id":1126026847,
+    "wof:lastmodified":1529702267,
+    "wof:name":"H\u00e4lles\u00e5ker",
+    "wof:parent_id":1159306743,
+    "wof:placetype":"locality",
+    "wof:population":371,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.17,
+    57.6,
+    13.17,
+    57.6
+],
+  "geometry": {"coordinates":[13.17,57.6],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1327390323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.48333,59.58333,12.48333,59.58333",
+    "geom:latitude":59.58333,
+    "geom:longitude":12.48333,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1784.0",
+    "gn:asciiname":"Spasserud",
+    "gn:cc2":"SE",
+    "gn:country_code":"SE",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2674840,
+    "gn:latitude":59.58333,
+    "gn:longitude":12.48333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Sp\u00e4sserud",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Spesserud",
+        "Sp\u00e4sserud"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688435,
+        102191581,
+        1125423295,
+        85633789,
+        1159303075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2674840
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"18f9e29ba208ff228e139e910b9ec9a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303075,
+            "localadmin_id":1125423295,
+            "locality_id":1327390323,
+            "region_id":85688435
+        }
+    ],
+    "wof:id":1327390323,
+    "wof:lastmodified":1537699801,
+    "wof:name":"Spasserud",
+    "wof:parent_id":1125423295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.48333,
+    59.58333,
+    12.48333,
+    59.58333
+],
+  "geometry": {"coordinates":[12.48333,59.58333],"type":"Point"}
+}

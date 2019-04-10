@@ -1,0 +1,69 @@
+{
+  "id": 1225852691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.53333,56.16667,15.53333,56.16667",
+    "geom:latitude":56.16667,
+    "geom:longitude":15.53333,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Skillingenas",
+    "gn:country_code":"SE",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2677637,
+    "gn:latitude":56.16667,
+    "gn:longitude":15.53333,
+    "gn:modification_date":"2001-06-27",
+    "gn:name":"Skillingen\u00e4s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688383,
+        102191581,
+        1125357189,
+        85633789,
+        1159303467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2677637
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"4cbdd975d0f90d8b9da7211341fe13a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303467,
+            "localadmin_id":1125357189,
+            "locality_id":1225852691,
+            "region_id":85688383
+        }
+    ],
+    "wof:id":1225852691,
+    "wof:lastmodified":1554166227,
+    "wof:name":"Skillingenas",
+    "wof:parent_id":1125357189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.53333,
+    56.16667,
+    15.53333,
+    56.16667
+],
+  "geometry": {"coordinates":[15.53333,56.16667],"type":"Point"}
+}

@@ -1,0 +1,116 @@
+{
+  "id": 1125908599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.88333,58.46667,15.88333,58.46667",
+    "geom:latitude":58.46667,
+    "geom:longitude":15.88333,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":285,
+    "gn:population":283,
+    "iso:country":"SE",
+    "lbl:latitude":58.46667,
+    "lbl:longitude":15.88333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Gistad"
+    ],
+    "name:eng_x_preferred":[
+        "Gistad"
+    ],
+    "name:ita_x_preferred":[
+        "Gistad"
+    ],
+    "name:nan_x_preferred":[
+        "Gistad"
+    ],
+    "name:nno_x_preferred":[
+        "Gistad"
+    ],
+    "name:nob_x_preferred":[
+        "Gistad"
+    ],
+    "name:swe_x_preferred":[
+        "Gistad"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2711982,
+    "qs_pg:gn_pop":285,
+    "qs_pg:name":"Gistad",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"\u00d6sterg\u00f6tlands L\u00e4n",
+    "qs_pg:photos":31,
+    "qs_pg:photos_1k":6,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":31,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":389598,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":890703,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"\u00d6sterg\u00f6tlands L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688409,
+        102191581,
+        1159305751,
+        85633789,
+        1159303147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2711982,
+        "gp:id":890703,
+        "qs_pg:id":389598,
+        "wd:id":"Q2021488"
+    },
+    "wof:country":"SE",
+    "wof:created":1497296065,
+    "wof:geomhash":"aedf721a4467a5d8c0a2a1f78204a181",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303147,
+            "localadmin_id":1159305751,
+            "locality_id":1125908599,
+            "region_id":85688409
+        }
+    ],
+    "wof:id":1125908599,
+    "wof:lastmodified":1529703118,
+    "wof:name":"Gistad",
+    "wof:parent_id":1159305751,
+    "wof:placetype":"locality",
+    "wof:population":283,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.88333,
+    58.46667,
+    15.88333,
+    58.46667
+],
+  "geometry": {"coordinates":[15.88333,58.46667],"type":"Point"}
+}

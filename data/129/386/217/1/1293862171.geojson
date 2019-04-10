@@ -1,0 +1,79 @@
+{
+  "id": 1293862171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.25,60.15,14.25,60.15",
+    "geom:latitude":60.15,
+    "geom:longitude":14.25,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2085.0",
+    "gn:asciiname":"Lillhojden",
+    "gn:country_code":"SE",
+    "gn:dem":275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2695186,
+    "gn:latitude":60.15,
+    "gn:longitude":14.25,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Lillh\u00f6jden",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Lillh\u00f6jden"
+    ],
+    "name:nor_x_variant":[
+        "Lillh\u00f8jden"
+    ],
+    "name:und_x_variant":[
+        "Lillh\u00f6jden"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688447,
+        102191581,
+        1125277963,
+        85633789,
+        1159303345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2695186
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"0c3baf4f69514e61f23ce7665ede95c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303345,
+            "localadmin_id":1125277963,
+            "locality_id":1293862171,
+            "region_id":85688447
+        }
+    ],
+    "wof:id":1293862171,
+    "wof:lastmodified":1537699978,
+    "wof:name":"Lillhojden",
+    "wof:parent_id":1125277963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.25,
+    60.15,
+    14.25,
+    60.15
+],
+  "geometry": {"coordinates":[14.25,60.15],"type":"Point"}
+}

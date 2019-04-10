@@ -1,0 +1,70 @@
+{
+  "id": 1344063299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.78333,61.65,14.78333,61.65",
+    "geom:latitude":61.65,
+    "geom:longitude":14.78333,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"2161.0",
+    "gn:asciiname":"Lillhamra",
+    "gn:country_code":"SE",
+    "gn:dem":437,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2695195,
+    "gn:latitude":61.65,
+    "gn:longitude":14.78333,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Lillhamra",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688453,
+        102191581,
+        1159307247,
+        85633789,
+        1159303353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2695195
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"913c1f2ddb87c929bf201f24f502b2f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303353,
+            "localadmin_id":1159307247,
+            "locality_id":1344063299,
+            "region_id":85688453
+        }
+    ],
+    "wof:id":1344063299,
+    "wof:lastmodified":1536870304,
+    "wof:name":"Lillhamra",
+    "wof:parent_id":1159307247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.78333,
+    61.65,
+    14.78333,
+    61.65
+],
+  "geometry": {"coordinates":[14.78333,61.65],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1326631129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.47139,62.11806,17.47139,62.11806",
+    "geom:latitude":62.11806,
+    "geom:longitude":17.47139,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"2132.0",
+    "gn:asciiname":"Ragvaldsnas",
+    "gn:cc2":"SE",
+    "gn:country_code":"SE",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2683603,
+    "gn:latitude":62.11806,
+    "gn:longitude":17.47139,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ragvaldsn\u00e4s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ravelsn\u00e4s",
+        "Ragvaldsn\u00e4s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688453,
+        102191581,
+        1125359567,
+        85633789,
+        1159303081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2683603
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"f49fc610145cb9c6c328dc81c437dba8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303081,
+            "localadmin_id":1125359567,
+            "locality_id":1326631129,
+            "region_id":85688453
+        }
+    ],
+    "wof:id":1326631129,
+    "wof:lastmodified":1537699873,
+    "wof:name":"Ragvaldsnas",
+    "wof:parent_id":1125359567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.47139,
+    62.11806,
+    17.47139,
+    62.11806
+],
+  "geometry": {"coordinates":[17.47139,62.11806],"type":"Point"}
+}

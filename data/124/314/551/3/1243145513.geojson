@@ -1,0 +1,70 @@
+{
+  "id": 1243145513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.85,66.63333,22.85,66.63333",
+    "geom:latitude":66.63333,
+    "geom:longitude":22.85,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2513.0",
+    "gn:asciiname":"Turtola",
+    "gn:country_code":"SE",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":602189,
+    "gn:latitude":66.63333,
+    "gn:longitude":22.85,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Turtola",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688471,
+        102191581,
+        1125287801,
+        85633789,
+        1159302979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":602189
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"8782238f83c268fe7344399a65b8fdae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302979,
+            "localadmin_id":1125287801,
+            "locality_id":1243145513,
+            "region_id":85688471
+        }
+    ],
+    "wof:id":1243145513,
+    "wof:lastmodified":1536742311,
+    "wof:name":"Turtola",
+    "wof:parent_id":1125287801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.85,
+    66.63333,
+    22.85,
+    66.63333
+],
+  "geometry": {"coordinates":[22.85,66.63333],"type":"Point"}
+}

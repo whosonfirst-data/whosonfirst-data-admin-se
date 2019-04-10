@@ -1,0 +1,100 @@
+{
+  "id": 1125819613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.01667,59.14972,18.01667,59.14972",
+    "geom:latitude":59.14972,
+    "geom:longitude":18.01667,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":242,
+    "iso:country":"SE",
+    "lbl:latitude":59.14972,
+    "lbl:longitude":18.01667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:nor_x_preferred":[
+        "\u00d8storp"
+    ],
+    "name:nor_x_variant":[
+        "\u00d6storp"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2685673,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"\u00d6storp",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"Stockholms L\u00e4n",
+    "qs_pg:photos":120,
+    "qs_pg:photos_1k":24,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":120,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1167724,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":901204,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"Stockholms L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688429,
+        102191581,
+        1125326009,
+        85633789,
+        1159303105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2685673,
+        "gp:id":901204,
+        "qs_pg:id":1167724
+    },
+    "wof:country":"SE",
+    "wof:created":1497291991,
+    "wof:geomhash":"509e2b44a86906a7c2d0804a105298be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303105,
+            "localadmin_id":1125326009,
+            "locality_id":1125819613,
+            "region_id":85688429
+        }
+    ],
+    "wof:id":1125819613,
+    "wof:lastmodified":1529702771,
+    "wof:name":"\u00d6storp",
+    "wof:parent_id":1125326009,
+    "wof:placetype":"locality",
+    "wof:population":242,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.01667,
+    59.14972,
+    18.01667,
+    59.14972
+],
+  "geometry": {"coordinates":[18.01667,59.14972],"type":"Point"}
+}

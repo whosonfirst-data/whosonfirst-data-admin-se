@@ -1,0 +1,77 @@
+{
+  "id": 1125382027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-05-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.96783,55.42514,12.96783,55.42514",
+    "geom:latitude":55.42514,
+    "geom:longitude":12.96783,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":14096,
+    "gn:population":14096,
+    "iso:country":"SE",
+    "lbl:latitude":55.42514,
+    "lbl:longitude":12.96783,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8132299,
+    "qs_pg:gn_pop":14096,
+    "qs_pg:name":"H\u00f6llviken",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":381357,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633789,
+        85688377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8132299,
+        "qs_pg:id":381357
+    },
+    "wof:country":"SE",
+    "wof:created":1497048105,
+    "wof:geomhash":"fb462115a69792e04dcd1040609ea2d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "localadmin_id":1125382027,
+            "region_id":85688377
+        }
+    ],
+    "wof:id":1125382027,
+    "wof:lastmodified":1525735523,
+    "wof:name":"H\u00f6llviken",
+    "wof:parent_id":85688377,
+    "wof:placetype":"localadmin",
+    "wof:population":14096,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.96783,
+    55.42514,
+    12.96783,
+    55.42514
+],
+  "geometry": {"coordinates":[12.96783,55.42514],"type":"Point"}
+}

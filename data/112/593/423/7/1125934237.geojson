@@ -1,0 +1,128 @@
+{
+  "id": 1125934237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.61744,59.07573,17.61744,59.07573",
+    "geom:latitude":59.07573,
+    "geom:longitude":17.61744,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1001,
+    "gn:population":1001,
+    "iso:country":"SE",
+    "lbl:latitude":59.07573,
+    "lbl:longitude":17.61744,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dan_x_preferred":[
+        "Ytterj\u00e4rna"
+    ],
+    "name:dut_x_preferred":[
+        "Ytterj\u00e4rna"
+    ],
+    "name:eng_x_preferred":[
+        "Ytterj\u00e4rna"
+    ],
+    "name:fin_x_preferred":[
+        "Ytterj\u00e4rna"
+    ],
+    "name:fit_x_preferred":[
+        "Ytterj\u00e4rna"
+    ],
+    "name:fre_x_preferred":[
+        "Ytterj\u00e4rna"
+    ],
+    "name:ger_x_preferred":[
+        "Ytterj\u00e4rna"
+    ],
+    "name:nds_x_preferred":[
+        "Ytterj\u00e4rna"
+    ],
+    "name:nno_x_preferred":[
+        "Ytterj\u00e4rna"
+    ],
+    "name:nob_x_preferred":[
+        "Ytterj\u00e4rna"
+    ],
+    "name:swe_x_preferred":[
+        "Ytterj\u00e4rna"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8133091,
+    "qs_pg:gn_pop":1001,
+    "qs_pg:name":"Ytterj\u00e4rna",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"Stockholms L\u00e4n",
+    "qs_pg:photos":70,
+    "qs_pg:photos_1k":14,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":70,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":985426,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":20151883,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"Stockholms L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688429,
+        102191581,
+        1159305791,
+        85633789,
+        1159303135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8133091,
+        "gp:id":20151883,
+        "qs_pg:id":985426,
+        "wd:id":"Q2276406"
+    },
+    "wof:country":"SE",
+    "wof:created":1497296911,
+    "wof:geomhash":"1cd20c41e07605889e310c557c11c294",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303135,
+            "localadmin_id":1159305791,
+            "locality_id":1125934237,
+            "region_id":85688429
+        }
+    ],
+    "wof:id":1125934237,
+    "wof:lastmodified":1529702759,
+    "wof:name":"Ytterj\u00e4rna",
+    "wof:parent_id":1159305791,
+    "wof:placetype":"locality",
+    "wof:population":1001,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.61744,
+    59.07573,
+    17.61744,
+    59.07573
+],
+  "geometry": {"coordinates":[17.61744,59.07573],"type":"Point"}
+}

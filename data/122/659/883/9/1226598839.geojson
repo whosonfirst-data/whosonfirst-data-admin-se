@@ -1,0 +1,70 @@
+{
+  "id": 1226598839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.85639,58.81528,17.85639,58.81528",
+    "geom:latitude":58.81528,
+    "geom:longitude":17.85639,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"192.0",
+    "gn:asciiname":"Travik",
+    "gn:country_code":"SE",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3233989,
+    "gn:latitude":58.81528,
+    "gn:longitude":17.85639,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Tr\u00e4vik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688429,
+        102191581,
+        1159306991,
+        85633789,
+        1159303285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3233989
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"d36c9a06ae2e78d8de079a28bbb8c383",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303285,
+            "localadmin_id":1159306991,
+            "locality_id":1226598839,
+            "region_id":85688429
+        }
+    ],
+    "wof:id":1226598839,
+    "wof:lastmodified":1536925663,
+    "wof:name":"Travik",
+    "wof:parent_id":1159306991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.85639,
+    58.81528,
+    17.85639,
+    58.81528
+],
+  "geometry": {"coordinates":[17.85639,58.81528],"type":"Point"}
+}

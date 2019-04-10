@@ -1,0 +1,70 @@
+{
+  "id": 1292959225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.78333,59.25,12.78333,59.25",
+    "geom:latitude":59.25,
+    "geom:longitude":12.78333,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1785.0",
+    "gn:asciiname":"Kilerud",
+    "gn:country_code":"SE",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2700921,
+    "gn:latitude":59.25,
+    "gn:longitude":12.78333,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Kilerud",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688435,
+        102191581,
+        1159306917,
+        85633789,
+        1159303169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2700921
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"9279575c2b89e95b118c81455b0b9e52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303169,
+            "localadmin_id":1159306917,
+            "locality_id":1292959225,
+            "region_id":85688435
+        }
+    ],
+    "wof:id":1292959225,
+    "wof:lastmodified":1537049616,
+    "wof:name":"Kilerud",
+    "wof:parent_id":1159306917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.78333,
+    59.25,
+    12.78333,
+    59.25
+],
+  "geometry": {"coordinates":[12.78333,59.25],"type":"Point"}
+}

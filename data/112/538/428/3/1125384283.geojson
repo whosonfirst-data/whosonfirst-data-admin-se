@@ -1,0 +1,77 @@
+{
+  "id": 1125384283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-05-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.63253,59.85687,17.63253,59.85687",
+    "geom:latitude":59.85687,
+    "geom:longitude":17.63253,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":31244,
+    "gn:population":31244,
+    "iso:country":"SE",
+    "lbl:latitude":59.85687,
+    "lbl:longitude":17.63253,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8131973,
+    "qs_pg:gn_pop":31244,
+    "qs_pg:name":"Helga Trefaldighet",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":757854,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633789,
+        85688439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8131973,
+        "qs_pg:id":757854
+    },
+    "wof:country":"SE",
+    "wof:created":1497048264,
+    "wof:geomhash":"b0da4384f2480fa3de0d0ec889d34777",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "localadmin_id":1125384283,
+            "region_id":85688439
+        }
+    ],
+    "wof:id":1125384283,
+    "wof:lastmodified":1525735523,
+    "wof:name":"Helga Trefaldighet",
+    "wof:parent_id":85688439,
+    "wof:placetype":"localadmin",
+    "wof:population":31244,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.63253,
+    59.85687,
+    17.63253,
+    59.85687
+],
+  "geometry": {"coordinates":[17.63253,59.85687],"type":"Point"}
+}

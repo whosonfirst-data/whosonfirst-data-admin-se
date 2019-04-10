@@ -1,0 +1,135 @@
+{
+  "id": 101847331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000103,
+    "geom:area_square_m":676549.527266,
+    "geom:bbox":"12.0172983999,57.9208218702,12.0344923516,57.9298092248",
+    "geom:latitude":57.925139,
+    "geom:longitude":12.026899,
+    "gn:population":1205,
+    "iso:country":"SE",
+    "lbl:latitude":57.924903,
+    "lbl:longitude":12.026735,
+    "mps:latitude":57.924903,
+    "mps:longitude":12.026735,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Diser\u00f6d"
+    ],
+    "name:eng_x_preferred":[
+        "Diser\u00f6d"
+    ],
+    "name:fre_x_preferred":[
+        "Diser\u00f6d"
+    ],
+    "name:nan_x_preferred":[
+        "Diser\u00f6d"
+    ],
+    "name:nld_x_preferred":[
+        "Diser\u00f6d"
+    ],
+    "name:nno_x_preferred":[
+        "Diser\u00f6d"
+    ],
+    "name:nob_x_preferred":[
+        "Diser\u00f6d"
+    ],
+    "name:nor_x_preferred":[
+        "Diser\u00f6d"
+    ],
+    "name:nor_x_variant":[
+        "Diser\u00f8d"
+    ],
+    "name:sco_x_preferred":[
+        "Diser\u00f6d"
+    ],
+    "name:swe_x_colloquial":[
+        "Diserod",
+        "Diserods",
+        "Diseroed",
+        "Diseroeds"
+    ],
+    "name:swe_x_preferred":[
+        "Diser\u00f6d"
+    ],
+    "name:swe_x_variant":[
+        "Diser\u00f6ds"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Diser\u00f6d"
+    ],
+    "qs:a0":"Sverige",
+    "qs:a1":"*V\u00e4stra G\u00f6talands l\u00e4n",
+    "qs:a1r":"0",
+    "qs:adm0":"Sverige",
+    "qs:la":"Kung\u00e4lv",
+    "qs:la_lc":"*SE1482",
+    "qs:level":"locality",
+    "qs:loc":"Diser\u00f6d",
+    "qs:loc_alt":"Diserod",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":47,
+    "wof:belongsto":[
+        85688411,
+        102191581,
+        1125373859,
+        85633789,
+        1159303109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06d2ea26-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2717720,
+        "gp:id":888345,
+        "qs:id":112162,
+        "qs_pg:id":112162,
+        "wd:id":"Q404977",
+        "wk:page":"Diser\u00f6d"
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"2c056c749cc387cfefe4ef4b1fa9d463",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303109,
+            "localadmin_id":1125373859,
+            "locality_id":101847331,
+            "region_id":85688411
+        }
+    ],
+    "wof:id":101847331,
+    "wof:lang":[
+        "swe"
+    ],
+    "wof:lastmodified":1529702231,
+    "wof:name":"Diser\u00f6d",
+    "wof:parent_id":1125373859,
+    "wof:placetype":"locality",
+    "wof:population":1205,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.01729839990162,
+    57.92082187018372,
+    12.03449235160457,
+    57.92980922475715
+],
+  "geometry": {"coordinates":[[[12.03117288247267,57.92978367358995],[12.03112297302931,57.92888493781828],[12.03449235160457,57.92883377332481],[12.0341924596238,57.92344137204162],[12.03250801943346,57.92346696060582],[12.03245808888539,57.92256822714319],[12.03077368780953,57.92259379380403],[12.03072380147341,57.92169505985663],[12.02903943951185,57.92172060461513],[12.02898959738218,57.92082187018372],[12.02393662223454,57.92089837518819],[12.02398634040543,57.92179711175174],[12.01893322150221,57.92187342817891],[12.01898281858314,57.92277216709738],[12.01729839990162,57.92279756423403],[12.01734795852781,57.92369630408848],[12.01903241853466,57.92367090624379],[12.01913162705108,57.92546838522134],[12.02081616752105,57.92544296476859],[12.02091547019097,57.92724044324223],[12.02260009113058,57.92721500017871],[12.02269948797459,57.92901247814751],[12.02943828042771,57.92891048827317],[12.02948814853062,57.92980922475715],[12.03117288247267,57.92978367358995]]],"type":"Polygon"}
+}

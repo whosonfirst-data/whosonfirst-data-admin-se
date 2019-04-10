@@ -1,0 +1,70 @@
+{
+  "id": 1259861909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.0,59.2,15.0,59.2",
+    "geom:latitude":59.2,
+    "geom:longitude":15.0,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1880.0",
+    "gn:asciiname":"Norra Folkavi",
+    "gn:country_code":"SE",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2689069,
+    "gn:latitude":59.2,
+    "gn:longitude":15.0,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Norra Folkavi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688421,
+        102191581,
+        1159305817,
+        85633789,
+        1159303031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2689069
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"770165ccd807a740c122df6d1d6f7d02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303031,
+            "localadmin_id":1159305817,
+            "locality_id":1259861909,
+            "region_id":85688421
+        }
+    ],
+    "wof:id":1259861909,
+    "wof:lastmodified":1536809850,
+    "wof:name":"Norra Folkavi",
+    "wof:parent_id":1159305817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.0,
+    59.2,
+    15.0,
+    59.2
+],
+  "geometry": {"coordinates":[15.0,59.2],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1243227757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.38333,59.6,17.38333,59.6",
+    "geom:latitude":59.6,
+    "geom:longitude":17.38333,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Stamsvik",
+    "gn:country_code":"SE",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2674524,
+    "gn:latitude":59.6,
+    "gn:longitude":17.38333,
+    "gn:modification_date":"1994-01-14",
+    "gn:name":"St\u00e4msvik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688439,
+        102191581,
+        1125322105,
+        85633789,
+        1159303271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2674524
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"18a0865f0d39851ee0fa715b462f3c54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303271,
+            "localadmin_id":1125322105,
+            "locality_id":1243227757,
+            "region_id":85688439
+        }
+    ],
+    "wof:id":1243227757,
+    "wof:lastmodified":1536621866,
+    "wof:name":"Stamsvik",
+    "wof:parent_id":1125322105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.38332999999999,
+    59.6,
+    17.38332999999999,
+    59.6
+],
+  "geometry": {"coordinates":[17.38332999999999,59.6],"type":"Point"}
+}

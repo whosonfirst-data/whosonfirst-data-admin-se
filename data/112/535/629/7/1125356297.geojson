@@ -1,0 +1,77 @@
+{
+  "id": 1125356297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-05-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.3259,55.61901,13.3259,55.61901",
+    "geom:latitude":55.61901,
+    "geom:longitude":13.3259,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":15755,
+    "gn:population":15755,
+    "iso:country":"SE",
+    "lbl:latitude":55.61901,
+    "lbl:longitude":13.3259,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8132296,
+    "qs_pg:gn_pop":15755,
+    "qs_pg:name":"S:t Staffan",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":758028,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633789,
+        85688377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8132296,
+        "qs_pg:id":758028
+    },
+    "wof:country":"SE",
+    "wof:created":1497046489,
+    "wof:geomhash":"b3bf44539f8b0e4275e53cbe9f852a19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "localadmin_id":1125356297,
+            "region_id":85688377
+        }
+    ],
+    "wof:id":1125356297,
+    "wof:lastmodified":1525735522,
+    "wof:name":"S:t Staffan",
+    "wof:parent_id":85688377,
+    "wof:placetype":"localadmin",
+    "wof:population":15755,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.3259,
+    55.61901,
+    13.3259,
+    55.61901
+],
+  "geometry": {"coordinates":[13.3259,55.61901],"type":"Point"}
+}

@@ -1,0 +1,123 @@
+{
+  "id": 1126018551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.11667,58.18333,13.11667,58.18333",
+    "geom:latitude":58.18333,
+    "geom:longitude":13.11667,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":216,
+    "gn:population":231,
+    "iso:country":"SE",
+    "lbl:latitude":58.18333,
+    "lbl:longitude":13.11667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dan_x_preferred":[
+        "Larv"
+    ],
+    "name:dut_x_preferred":[
+        "Larv"
+    ],
+    "name:eng_x_preferred":[
+        "Larv"
+    ],
+    "name:fre_x_preferred":[
+        "Larv"
+    ],
+    "name:ger_x_preferred":[
+        "Larv"
+    ],
+    "name:nds_x_preferred":[
+        "Larv"
+    ],
+    "name:nno_x_preferred":[
+        "Larv"
+    ],
+    "name:nob_x_preferred":[
+        "Larv"
+    ],
+    "name:rum_x_preferred":[
+        "Larv"
+    ],
+    "name:swe_x_preferred":[
+        "Larv"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2696908,
+    "qs_pg:gn_pop":216,
+    "qs_pg:name":"Larv",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"V\u00e4stra G\u00f6talands L\u00e4n",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":40,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":941582,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":896799,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"V\u00e4stra G\u00f6talands L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688411,
+        102191581,
+        1125340477,
+        85633789,
+        1159303487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2696908,
+        "gp:id":896799,
+        "qs_pg:id":941582,
+        "wd:id":"Q3055179"
+    },
+    "wof:country":"SE",
+    "wof:created":1497300693,
+    "wof:geomhash":"5eab016804e8597e352bf8eef8c42517",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303487,
+            "localadmin_id":1125340477,
+            "locality_id":1126018551,
+            "region_id":85688411
+        }
+    ],
+    "wof:id":1126018551,
+    "wof:lastmodified":1529702269,
+    "wof:name":"Larv",
+    "wof:parent_id":1125340477,
+    "wof:placetype":"locality",
+    "wof:population":231,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.11667,
+    58.18333,
+    13.11667,
+    58.18333
+],
+  "geometry": {"coordinates":[13.11667,58.18333],"type":"Point"}
+}

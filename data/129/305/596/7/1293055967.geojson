@@ -1,0 +1,70 @@
+{
+  "id": 1293055967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.7,59.58333,16.7,59.58333",
+    "geom:latitude":59.58333,
+    "geom:longitude":16.7,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1980.0",
+    "gn:asciiname":"Olsta",
+    "gn:country_code":"SE",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2687001,
+    "gn:latitude":59.58333,
+    "gn:longitude":16.7,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Olsta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688425,
+        102191581,
+        1159307301,
+        85633789,
+        1159303331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2687001
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"ab3d57a83ede995c700063f40ee511e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303331,
+            "localadmin_id":1159307301,
+            "locality_id":1293055967,
+            "region_id":85688425
+        }
+    ],
+    "wof:id":1293055967,
+    "wof:lastmodified":1536912811,
+    "wof:name":"Olsta",
+    "wof:parent_id":1159307301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.7,
+    59.58333,
+    16.7,
+    59.58333
+],
+  "geometry": {"coordinates":[16.7,59.58333],"type":"Point"}
+}

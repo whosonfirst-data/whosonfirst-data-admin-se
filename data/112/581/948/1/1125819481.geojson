@@ -1,0 +1,134 @@
+{
+  "id": 1125819481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.55,59.1,16.55,59.1",
+    "geom:latitude":59.1,
+    "geom:longitude":16.55,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":505,
+    "iso:country":"SE",
+    "lbl:latitude":59.1,
+    "lbl:longitude":16.55,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0645\u064a\u0644\u0648\u0633\u0627"
+    ],
+    "name:dut_x_preferred":[
+        "Mell\u00f6sa"
+    ],
+    "name:eng_x_preferred":[
+        "Mell\u00f6sa"
+    ],
+    "name:fin_x_preferred":[
+        "Mell\u00f6sa"
+    ],
+    "name:ita_x_preferred":[
+        "Mell\u00f6sa"
+    ],
+    "name:nan_x_preferred":[
+        "Mell\u00f6sa"
+    ],
+    "name:nno_x_preferred":[
+        "Mell\u00f6sa"
+    ],
+    "name:nob_x_preferred":[
+        "Mell\u00f6sa"
+    ],
+    "name:nor_x_preferred":[
+        "Mell\u00f8sa"
+    ],
+    "name:nor_x_variant":[
+        "Mell\u00f6sa"
+    ],
+    "name:pol_x_preferred":[
+        "Mell\u00f6sa"
+    ],
+    "name:swe_x_preferred":[
+        "Mell\u00f6sa"
+    ],
+    "name:unk_x_variant":[
+        "Lilla Mell\u00f6sa"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2692033,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Mell\u00f6sa",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"S\u00f6dermanlands L\u00e4n",
+    "qs_pg:photos":74,
+    "qs_pg:photos_1k":15,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":74,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1167708,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":898437,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"S\u00f6dermanlands L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688419,
+        102191581,
+        1125382273,
+        85633789,
+        1159302997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2692033,
+        "gp:id":898437,
+        "qs_pg:id":1167708,
+        "wd:id":"Q2342502"
+    },
+    "wof:country":"SE",
+    "wof:created":1497291986,
+    "wof:geomhash":"2a3e4e0987d1733c2e010052d8f6699a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302997,
+            "localadmin_id":1125382273,
+            "locality_id":1125819481,
+            "region_id":85688419
+        }
+    ],
+    "wof:id":1125819481,
+    "wof:lastmodified":1529702856,
+    "wof:name":"Mell\u00f6sa",
+    "wof:parent_id":1125382273,
+    "wof:placetype":"locality",
+    "wof:population":505,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.55,
+    59.1,
+    16.55,
+    59.1
+],
+  "geometry": {"coordinates":[16.55,59.1],"type":"Point"}
+}

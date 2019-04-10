@@ -1,0 +1,80 @@
+{
+  "id": 1126036795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.28333,58.88333,14.28333,58.88333",
+    "geom:latitude":58.88333,
+    "geom:longitude":14.28333,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":4987,
+    "gn:population":4987,
+    "iso:country":"SE",
+    "lbl:latitude":58.88333,
+    "lbl:longitude":14.28333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2726026,
+    "qs_pg:gn_pop":4987,
+    "qs_pg:name":"Anderstorp",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":92423,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688411,
+        102191581,
+        1159306887,
+        85633789,
+        1159303027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2726026,
+        "qs_pg:id":92423
+    },
+    "wof:country":"SE",
+    "wof:created":1497301837,
+    "wof:geomhash":"279ee9d456066ba6ea7c85490572428e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303027,
+            "localadmin_id":1159306887,
+            "locality_id":1126036795,
+            "region_id":85688411
+        }
+    ],
+    "wof:id":1126036795,
+    "wof:lastmodified":1529702265,
+    "wof:name":"Anderstorp",
+    "wof:parent_id":1159306887,
+    "wof:placetype":"locality",
+    "wof:population":4987,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.28333,
+    58.88333,
+    14.28333,
+    58.88333
+],
+  "geometry": {"coordinates":[14.28333,58.88333],"type":"Point"}
+}

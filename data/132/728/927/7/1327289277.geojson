@@ -1,0 +1,79 @@
+{
+  "id": 1327289277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.98333,63.33333,17.98333,63.33333",
+    "geom:latitude":63.33333,
+    "geom:longitude":17.98333,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2284.0",
+    "gn:asciiname":"Sjoland",
+    "gn:country_code":"SE",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2678819,
+    "gn:latitude":63.33333,
+    "gn:longitude":17.98333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Sj\u00f6land",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Sj\u00f6land"
+    ],
+    "name:nor_x_variant":[
+        "Sj\u00f8land"
+    ],
+    "name:und_x_variant":[
+        "Sj\u00f6land"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688457,
+        102191581,
+        1125417549,
+        85633789,
+        1159303463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2678819
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"c210edb97d000fb36cd7792c323e7598",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303463,
+            "localadmin_id":1125417549,
+            "locality_id":1327289277,
+            "region_id":85688457
+        }
+    ],
+    "wof:id":1327289277,
+    "wof:lastmodified":1537699842,
+    "wof:name":"Sjoland",
+    "wof:parent_id":1125417549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.98333,
+    63.33333,
+    17.98333,
+    63.33333
+],
+  "geometry": {"coordinates":[17.98333,63.33333],"type":"Point"}
+}

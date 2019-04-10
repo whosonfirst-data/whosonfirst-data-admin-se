@@ -1,0 +1,78 @@
+{
+  "id": 1310356421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.8,56.28333,12.8,56.28333",
+    "geom:latitude":56.28333,
+    "geom:longitude":12.8,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Bjorkhagen",
+    "gn:country_code":"SE",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2722115,
+    "gn:latitude":56.28333,
+    "gn:longitude":12.8,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Bj\u00f6rkhagen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Bj\u00f6rkhagen"
+    ],
+    "name:nor_x_variant":[
+        "Bj\u00f8rkhagen"
+    ],
+    "name:und_x_variant":[
+        "Bj\u00f6rkhagen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688377,
+        102191581,
+        1125423359,
+        85633789,
+        1159303025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2722115
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"0f7d2c869d4a7cec7e6866cd5ab69459",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303025,
+            "localadmin_id":1125423359,
+            "locality_id":1310356421,
+            "region_id":85688377
+        }
+    ],
+    "wof:id":1310356421,
+    "wof:lastmodified":1537700124,
+    "wof:name":"Bjorkhagen",
+    "wof:parent_id":1125423359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.8,
+    56.28333000000001,
+    12.8,
+    56.28333000000001
+],
+  "geometry": {"coordinates":[12.8,56.28333000000001],"type":"Point"}
+}

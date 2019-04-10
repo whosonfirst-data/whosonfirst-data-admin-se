@@ -1,0 +1,79 @@
+{
+  "id": 1259467681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.35,57.38333,15.35,57.38333",
+    "geom:latitude":57.38333,
+    "geom:longitude":15.35,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"685.0",
+    "gn:asciiname":"Skonberga",
+    "gn:country_code":"SE",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2677318,
+    "gn:latitude":57.38333,
+    "gn:longitude":15.35,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Sk\u00f6nberga",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Sk\u00f6nberga"
+    ],
+    "name:nor_x_variant":[
+        "Sk\u00f8nberga"
+    ],
+    "name:und_x_variant":[
+        "Sk\u00f6nberga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688395,
+        102191581,
+        1125325673,
+        85633789,
+        1159303157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2677318
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"aecc349b511bdaf2a1ea49dce7f82582",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303157,
+            "localadmin_id":1125325673,
+            "locality_id":1259467681,
+            "region_id":85688395
+        }
+    ],
+    "wof:id":1259467681,
+    "wof:lastmodified":1537699835,
+    "wof:name":"Skonberga",
+    "wof:parent_id":1125325673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.35,
+    57.38333000000001,
+    15.35,
+    57.38333000000001
+],
+  "geometry": {"coordinates":[15.35,57.38333000000001],"type":"Point"}
+}

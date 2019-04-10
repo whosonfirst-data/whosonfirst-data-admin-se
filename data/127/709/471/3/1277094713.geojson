@@ -1,0 +1,73 @@
+{
+  "id": 1277094713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.78333,56.93333,16.78333,56.93333",
+    "geom:latitude":56.93333,
+    "geom:longitude":16.78333,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"885.0",
+    "gn:asciiname":"Stora Haglunda",
+    "gn:cc2":"SE",
+    "gn:country_code":"SE",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2673166,
+    "gn:latitude":56.93333,
+    "gn:longitude":16.78333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Stora Haglunda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Haglunda",
+        "Stora Haglunda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688401,
+        1159306003,
+        1159303363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2673166
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"6f5f874c71b98f2a13cb078c9416f080",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "county_id":1159303363,
+            "localadmin_id":1159306003,
+            "locality_id":1277094713,
+            "region_id":85688401
+        }
+    ],
+    "wof:id":1277094713,
+    "wof:lastmodified":1537699794,
+    "wof:name":"Stora Haglunda",
+    "wof:parent_id":1159306003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.78333,
+    56.93333000000001,
+    16.78333,
+    56.93333000000001
+],
+  "geometry": {"coordinates":[16.78333,56.93333000000001],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1108944497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.7938597782,57.7389283525,11.7938597782,57.7389283525",
+    "geom:latitude":57.738928,
+    "geom:longitude":11.79386,
+    "iso:country":"SE",
+    "lbl:latitude":57.738928,
+    "lbl:longitude":11.79386,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_metro":30,
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        85688411,
+        102191581,
+        1125410003,
+        85633789,
+        101840179,
+        1159302989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"SE",
+    "wof:created":1491364434,
+    "wof:geomhash":"f22a8a94ae4672d7f2f1f52aac59c3a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302989,
+            "localadmin_id":1125410003,
+            "locality_id":101840179,
+            "neighbourhood_id":1108944497,
+            "region_id":85688411
+        }
+    ],
+    "wof:id":1108944497,
+    "wof:lastmodified":1529702294,
+    "wof:name":"Lilleby",
+    "wof:parent_id":101840179,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.79385977822305,
+    57.73892835247891,
+    11.79385977822305,
+    57.73892835247891
+],
+  "geometry": {"coordinates":[11.79385977822305,57.73892835247891],"type":"Point"}
+}

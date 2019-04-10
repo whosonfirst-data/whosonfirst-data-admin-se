@@ -1,0 +1,81 @@
+{
+  "id": 1309799411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.85,63.96667,15.85,63.96667",
+    "geom:latitude":63.96667,
+    "geom:longitude":15.85,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"2313.0",
+    "gn:asciiname":"Lovberga",
+    "gn:cc2":"SE",
+    "gn:country_code":"SE",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2693984,
+    "gn:latitude":63.96667,
+    "gn:longitude":15.85,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"L\u00f6vberga",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "L\u00f6vberga"
+    ],
+    "name:nor_x_variant":[
+        "L\u00f8vberga"
+    ],
+    "name:und_x_variant":[
+        "L\u00f6fberga",
+        "L\u00f6vberga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688461,
+        102191581,
+        1125287477,
+        85633789,
+        1159303417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2693984
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"0d424868421b90ce03a01c5d47e8879e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303417,
+            "localadmin_id":1125287477,
+            "locality_id":1309799411,
+            "region_id":85688461
+        }
+    ],
+    "wof:id":1309799411,
+    "wof:lastmodified":1537699970,
+    "wof:name":"Lovberga",
+    "wof:parent_id":1125287477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.85,
+    63.96666999999999,
+    15.85,
+    63.96666999999999
+],
+  "geometry": {"coordinates":[15.85,63.96666999999999],"type":"Point"}
+}

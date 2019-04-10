@@ -1,0 +1,71 @@
+{
+  "id": 1310153249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.01667,55.56667,13.01667,55.56667",
+    "geom:latitude":55.56667,
+    "geom:longitude":13.01667,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"1280.0",
+    "gn:asciiname":"Gullvik",
+    "gn:country_code":"SE",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2709903,
+    "gn:latitude":55.56667,
+    "gn:longitude":13.01667,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Gullvik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688377,
+        102191581,
+        1125421463,
+        85633789,
+        1159303367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2709903,
+        "wk:page":"Gullvik"
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"c49436e433c6c27dbe30a53a2970ef3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303367,
+            "localadmin_id":1125421463,
+            "locality_id":1310153249,
+            "region_id":85688377
+        }
+    ],
+    "wof:id":1310153249,
+    "wof:lastmodified":1537573363,
+    "wof:name":"Gullvik",
+    "wof:parent_id":1125421463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.01667,
+    55.56667,
+    13.01667,
+    55.56667
+],
+  "geometry": {"coordinates":[13.01667,55.56667],"type":"Point"}
+}

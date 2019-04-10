@@ -1,0 +1,110 @@
+{
+  "id": 101816007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000127,
+    "geom:area_square_m":785678.276793,
+    "geom:bbox":"17.4226309542,59.8536927684,17.4474233093,59.8630098646",
+    "geom:latitude":59.858693,
+    "geom:longitude":17.435998,
+    "iso:country":"SE",
+    "lbl:latitude":59.859129,
+    "lbl:longitude":17.436186,
+    "mps:latitude":59.859129,
+    "mps:longitude":17.436186,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "V\u00e4nge"
+    ],
+    "name:eng_x_preferred":[
+        "V\u00e4nge"
+    ],
+    "name:ita_x_preferred":[
+        "V\u00e4nge"
+    ],
+    "name:nan_x_preferred":[
+        "V\u00e4nge"
+    ],
+    "name:nld_x_preferred":[
+        "V\u00e4nge"
+    ],
+    "name:nno_x_preferred":[
+        "V\u00e4nge"
+    ],
+    "name:nob_x_preferred":[
+        "V\u00e4nge"
+    ],
+    "name:nor_x_preferred":[
+        "V\u00e4nge"
+    ],
+    "name:swe_x_preferred":[
+        "V\u00e4nge"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "V\u00e4nge"
+    ],
+    "qs:a0":"Sverige",
+    "qs:a1":"*Uppsala l\u00e4n",
+    "qs:a1r":"0",
+    "qs:adm0":"Sverige",
+    "qs:la":"Uppsala",
+    "qs:la_lc":"*SE0380",
+    "qs:level":"locality",
+    "qs:loc":"V\u00e4nge",
+    "qs:loc_alt":"Vange",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":79,
+    "wof:belongsto":[
+        85688439,
+        102191581,
+        1159307031,
+        85633789,
+        1159303253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20151828,
+        "qs:id":342249,
+        "qs_pg:id":342249,
+        "wd:id":"Q3087656"
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"e046435692f3bc0d3c42701ebbd1ecb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303253,
+            "localadmin_id":1159307031,
+            "locality_id":101816007,
+            "region_id":85688439
+        }
+    ],
+    "wof:id":101816007,
+    "wof:lastmodified":1529702881,
+    "wof:name":"V\u00e4nge",
+    "wof:parent_id":1159307031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.42263095417343,
+    59.85369276841658,
+    17.44742330934918,
+    59.86300986460486
+],
+  "geometry": {"coordinates":[[[17.44329003769093,59.86282146055089],[17.44289691507788,59.86103340943305],[17.44466793966296,59.86093917952564],[17.44388165509167,59.8573630887272],[17.44742330934918,59.85717458436113],[17.44722667647619,59.85628056731122],[17.44545589985859,59.85637482785177],[17.44486621104045,59.85369276841658],[17.44132490541267,59.85388120575539],[17.4415213645633,59.85477523114582],[17.43797993023492,59.85496358482408],[17.43817630962252,59.85585761583008],[17.42932233287627,59.85632812348746],[17.42951849480175,59.85722216849297],[17.42420586041419,59.85750421366896],[17.42440189663506,59.85839826707593],[17.42263095417343,59.8584922402913],[17.42302297077413,59.8602803527545],[17.42479400504834,59.86018637395432],[17.42499007724291,59.86108042742575],[17.42853220995931,59.86089239727892],[17.42872838597111,59.86178644518429],[17.43404165360994,59.86150422417774],[17.43423797935918,59.86239826371775],[17.43955130167217,59.86211583343714],[17.43974777716869,59.86300986460486],[17.44329003769093,59.86282146055089]]],"type":"Polygon"}
+}

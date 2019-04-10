@@ -1,0 +1,81 @@
+{
+  "id": 1293158261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.97372,62.58595,17.97372,62.58595",
+    "geom:latitude":62.58595,
+    "geom:longitude":17.97372,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2280.0",
+    "gn:admin3_code":"228001.0",
+    "gn:admin4_code":"2470.0",
+    "gn:asciiname":"Gronsvik",
+    "gn:country_code":"SE",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2602977,
+    "gn:latitude":62.58595,
+    "gn:longitude":17.97372,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Gr\u00f6nsvik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Gr\u00f6nsvik"
+    ],
+    "name:nor_x_variant":[
+        "Gr\u00f8nsvik"
+    ],
+    "name:und_x_variant":[
+        "Gr\u00f6nsvik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688457,
+        102191581,
+        1125286903,
+        85633789,
+        1159302975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2602977
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"53af097f72559faf86cdb34a25df2a49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302975,
+            "localadmin_id":1125286903,
+            "locality_id":1293158261,
+            "region_id":85688457
+        }
+    ],
+    "wof:id":1293158261,
+    "wof:lastmodified":1537699740,
+    "wof:name":"Gronsvik",
+    "wof:parent_id":1125286903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.97372,
+    62.58595,
+    17.97372,
+    62.58595
+],
+  "geometry": {"coordinates":[17.97372,62.58595],"type":"Point"}
+}

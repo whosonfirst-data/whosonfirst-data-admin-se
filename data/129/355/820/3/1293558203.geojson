@@ -1,0 +1,70 @@
+{
+  "id": 1293558203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.36667,60.31667,18.36667,60.31667",
+    "geom:latitude":60.31667,
+    "geom:longitude":18.36667,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"382.0",
+    "gn:asciiname":"Bolka",
+    "gn:country_code":"SE",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2720697,
+    "gn:latitude":60.31667,
+    "gn:longitude":18.36667,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Bolka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688439,
+        102191581,
+        1159307373,
+        85633789,
+        1159303415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2720697
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"f3dcbb87eedd3b1aa138c5e64ad63c8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303415,
+            "localadmin_id":1159307373,
+            "locality_id":1293558203,
+            "region_id":85688439
+        }
+    ],
+    "wof:id":1293558203,
+    "wof:lastmodified":1536685271,
+    "wof:name":"Bolka",
+    "wof:parent_id":1159307373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.36667000000001,
+    60.31667,
+    18.36667000000001,
+    60.31667
+],
+  "geometry": {"coordinates":[18.36667000000001,60.31667],"type":"Point"}
+}

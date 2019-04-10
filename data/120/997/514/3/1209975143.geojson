@@ -1,0 +1,75 @@
+{
+  "id": 1209975143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.05,59.73333,13.05,59.73333",
+    "geom:latitude":59.73333,
+    "geom:longitude":13.05,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1766.0",
+    "gn:asciiname":"Hensgardsangarna",
+    "gn:cc2":"SE",
+    "gn:country_code":"SE",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2706595,
+    "gn:latitude":59.73333,
+    "gn:longitude":13.05,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Hensg\u00e5rds\u00e4ngarna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hensg\u00e5rds\u00e4ngen",
+        "Hensg\u00e5rds\u00e4ngarna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688435,
+        102191581,
+        1125417487,
+        85633789,
+        1159303019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2706595
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"d9d67c531bd92ac1c4339412a946f76e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303019,
+            "localadmin_id":1125417487,
+            "locality_id":1209975143,
+            "region_id":85688435
+        }
+    ],
+    "wof:id":1209975143,
+    "wof:lastmodified":1537700036,
+    "wof:name":"Hensgardsangarna",
+    "wof:parent_id":1125417487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.05,
+    59.73333,
+    13.05,
+    59.73333
+],
+  "geometry": {"coordinates":[13.05,59.73333],"type":"Point"}
+}

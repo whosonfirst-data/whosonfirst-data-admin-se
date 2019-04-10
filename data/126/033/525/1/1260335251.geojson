@@ -1,0 +1,70 @@
+{
+  "id": 1260335251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.4,58.41667,11.4,58.41667",
+    "geom:latitude":58.41667,
+    "geom:longitude":11.4,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"1427.0",
+    "gn:asciiname":"Nedre Karr",
+    "gn:country_code":"SE",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2689850,
+    "gn:latitude":58.41667,
+    "gn:longitude":11.4,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Nedre K\u00e4rr",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688411,
+        102191581,
+        1125412445,
+        85633789,
+        1159303393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2689850
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"01725342c70976ce47d3e6a13bcfe34d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303393,
+            "localadmin_id":1125412445,
+            "locality_id":1260335251,
+            "region_id":85688411
+        }
+    ],
+    "wof:id":1260335251,
+    "wof:lastmodified":1536641869,
+    "wof:name":"Nedre Karr",
+    "wof:parent_id":1125412445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.4,
+    58.41667,
+    11.4,
+    58.41667
+],
+  "geometry": {"coordinates":[11.4,58.41667],"type":"Point"}
+}

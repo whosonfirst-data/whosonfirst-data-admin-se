@@ -1,0 +1,79 @@
+{
+  "id": 1259444467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.66667,56.31667,13.66667,56.31667",
+    "geom:latitude":56.31667,
+    "geom:longitude":13.66667,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"1293.0",
+    "gn:asciiname":"Hagsjo",
+    "gn:country_code":"SE",
+    "gn:dem":108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2709079,
+    "gn:latitude":56.31667,
+    "gn:longitude":13.66667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Hagsj\u00f6",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Hagsj\u00f6"
+    ],
+    "name:nor_x_variant":[
+        "Hagsj\u00f8"
+    ],
+    "name:und_x_variant":[
+        "Hagsj\u00f6"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688377,
+        102191581,
+        1125326109,
+        85633789,
+        1159303121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2709079
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"19a7be28813e4aafd1b021451cd70227",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303121,
+            "localadmin_id":1125326109,
+            "locality_id":1259444467,
+            "region_id":85688377
+        }
+    ],
+    "wof:id":1259444467,
+    "wof:lastmodified":1537700048,
+    "wof:name":"Hagsjo",
+    "wof:parent_id":1125326109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.66667,
+    56.31667,
+    13.66667,
+    56.31667
+],
+  "geometry": {"coordinates":[13.66667,56.31667],"type":"Point"}
+}

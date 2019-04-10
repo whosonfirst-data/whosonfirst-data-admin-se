@@ -1,0 +1,75 @@
+{
+  "id": 1343332165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.23333,66.08333,23.23333,66.08333",
+    "geom:latitude":66.08333,
+    "geom:longitude":23.23333,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2514.0",
+    "gn:asciiname":"Norra Stortrask",
+    "gn:cc2":"SE",
+    "gn:country_code":"SE",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":604020,
+    "gn:latitude":66.08333,
+    "gn:longitude":23.23333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Norra Stortr\u00e4sk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Stortr\u00e4sk",
+        "Norra Stortr\u00e4sk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688471,
+        102191581,
+        1125287809,
+        85633789,
+        1159303011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":604020
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"ea527f2489294692f1a436bc3e6653c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303011,
+            "localadmin_id":1125287809,
+            "locality_id":1343332165,
+            "region_id":85688471
+        }
+    ],
+    "wof:id":1343332165,
+    "wof:lastmodified":1537699714,
+    "wof:name":"Norra Stortrask",
+    "wof:parent_id":1125287809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.23333,
+    66.08333,
+    23.23333,
+    66.08333
+],
+  "geometry": {"coordinates":[23.23333,66.08333],"type":"Point"}
+}

@@ -1,0 +1,123 @@
+{
+  "id": 1126005247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.26667,57.73333,12.26667,57.73333",
+    "geom:latitude":57.73333,
+    "geom:longitude":12.26667,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":456,
+    "gn:population":544,
+    "iso:country":"SE",
+    "lbl:latitude":57.73333,
+    "lbl:longitude":12.26667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "\u00d6xeryd"
+    ],
+    "name:eng_x_preferred":[
+        "\u00d6xeryd"
+    ],
+    "name:fre_x_preferred":[
+        "\u00d6xeryd"
+    ],
+    "name:nan_x_preferred":[
+        "\u00d6xeryd"
+    ],
+    "name:nno_x_preferred":[
+        "\u00d6xeryd"
+    ],
+    "name:nob_x_preferred":[
+        "\u00d6xeryd"
+    ],
+    "name:nor_x_preferred":[
+        "\u00d8xeryd"
+    ],
+    "name:nor_x_variant":[
+        "\u00d6xeryd"
+    ],
+    "name:sco_x_preferred":[
+        "\u00d6xeryd"
+    ],
+    "name:swe_x_preferred":[
+        "\u00d6xeryd"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2684647,
+    "qs_pg:gn_pop":456,
+    "qs_pg:name":"\u00d6xeryd",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"V\u00e4stra G\u00f6talands L\u00e4n",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":918990,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":901654,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"V\u00e4stra G\u00f6talands L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688411,
+        102191581,
+        1125398095,
+        85633789,
+        1159303177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2684647,
+        "gp:id":901654,
+        "qs_pg:id":918990,
+        "wd:id":"Q2699906"
+    },
+    "wof:country":"SE",
+    "wof:created":1497299904,
+    "wof:geomhash":"87ba97755594fecffe1da9916ec3e33c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303177,
+            "localadmin_id":1125398095,
+            "locality_id":1126005247,
+            "region_id":85688411
+        }
+    ],
+    "wof:id":1126005247,
+    "wof:lastmodified":1529702260,
+    "wof:name":"\u00d6xeryd",
+    "wof:parent_id":1125398095,
+    "wof:placetype":"locality",
+    "wof:population":544,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.26667,
+    57.73333,
+    12.26667,
+    57.73333
+],
+  "geometry": {"coordinates":[12.26667,57.73333],"type":"Point"}
+}

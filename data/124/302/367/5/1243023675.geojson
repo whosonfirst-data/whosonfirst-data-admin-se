@@ -1,0 +1,70 @@
+{
+  "id": 1243023675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.4,63.15,18.4,63.15",
+    "geom:latitude":63.15,
+    "geom:longitude":18.4,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2284.0",
+    "gn:asciiname":"Skule",
+    "gn:country_code":"SE",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2677074,
+    "gn:latitude":63.15,
+    "gn:longitude":18.4,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Skule",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688457,
+        102191581,
+        1125417545,
+        85633789,
+        1159303463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2677074
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"8ec7429aedb394ac9a0fa62e16a82cc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303463,
+            "localadmin_id":1125417545,
+            "locality_id":1243023675,
+            "region_id":85688457
+        }
+    ],
+    "wof:id":1243023675,
+    "wof:lastmodified":1536918685,
+    "wof:name":"Skule",
+    "wof:parent_id":1125417545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.4,
+    63.15,
+    18.4,
+    63.15
+],
+  "geometry": {"coordinates":[18.4,63.15],"type":"Point"}
+}

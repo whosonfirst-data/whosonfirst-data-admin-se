@@ -1,0 +1,70 @@
+{
+  "id": 1226297089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.98333,59.8,18.98333,59.8",
+    "geom:latitude":59.8,
+    "geom:longitude":18.98333,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"188.0",
+    "gn:asciiname":"Karlsangen",
+    "gn:country_code":"SE",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2701785,
+    "gn:latitude":59.8,
+    "gn:longitude":18.98333,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Karls\u00e4ngen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688429,
+        102191581,
+        1125423357,
+        85633789,
+        1159302995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2701785
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"6e0d8b338440639f64c5d44e7b540e7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302995,
+            "localadmin_id":1125423357,
+            "locality_id":1226297089,
+            "region_id":85688429
+        }
+    ],
+    "wof:id":1226297089,
+    "wof:lastmodified":1536858491,
+    "wof:name":"Karlsangen",
+    "wof:parent_id":1125423357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.98333,
+    59.8,
+    18.98333,
+    59.8
+],
+  "geometry": {"coordinates":[18.98333,59.8],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276728925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.0,58.95,18.0,58.95",
+    "geom:latitude":58.95,
+    "geom:longitude":18.0,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"192.0",
+    "gn:asciiname":"Rannilen",
+    "gn:country_code":"SE",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3327270,
+    "gn:latitude":58.95,
+    "gn:longitude":18.0,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"R\u00e4nnilen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688429,
+        102191581,
+        1125286449,
+        85633789,
+        1159303285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3327270
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"0f6d67a5a839099a75e6bbf3aa78b17d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303285,
+            "localadmin_id":1125286449,
+            "locality_id":1276728925,
+            "region_id":85688429
+        }
+    ],
+    "wof:id":1276728925,
+    "wof:lastmodified":1536745571,
+    "wof:name":"Rannilen",
+    "wof:parent_id":1125286449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.0,
+    58.95,
+    18.0,
+    58.95
+],
+  "geometry": {"coordinates":[18.0,58.95],"type":"Point"}
+}

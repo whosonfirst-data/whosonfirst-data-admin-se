@@ -1,0 +1,70 @@
+{
+  "id": 1259639503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.9,64.03333,20.9,64.03333",
+    "geom:latitude":64.03333,
+    "geom:longitude":20.9,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"2409.0",
+    "gn:asciiname":"Halsan",
+    "gn:country_code":"SE",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":450564,
+    "gn:latitude":64.03333,
+    "gn:longitude":20.9,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"H\u00e4lsan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688465,
+        102191581,
+        1125417053,
+        85633789,
+        1159303055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":450564
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"fd8d79f6036800351dbf6373d1344fab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303055,
+            "localadmin_id":1125417053,
+            "locality_id":1259639503,
+            "region_id":85688465
+        }
+    ],
+    "wof:id":1259639503,
+    "wof:lastmodified":1536632669,
+    "wof:name":"Halsan",
+    "wof:parent_id":1125417053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.9,
+    64.03333,
+    20.9,
+    64.03333
+],
+  "geometry": {"coordinates":[20.9,64.03333000000001],"type":"Point"}
+}

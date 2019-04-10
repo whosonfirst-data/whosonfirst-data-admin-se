@@ -1,0 +1,70 @@
+{
+  "id": 1260047193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.06667,59.36667,16.06667,59.36667",
+    "geom:latitude":59.36667,
+    "geom:longitude":16.06667,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1960.0",
+    "gn:asciiname":"Danbo",
+    "gn:country_code":"SE",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2718003,
+    "gn:latitude":59.36667,
+    "gn:longitude":16.06667,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Danbo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688425,
+        102191581,
+        1125381903,
+        85633789,
+        1159303173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2718003
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"9cdd4ad2100e4dfb1b3e655213fa8473",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303173,
+            "localadmin_id":1125381903,
+            "locality_id":1260047193,
+            "region_id":85688425
+        }
+    ],
+    "wof:id":1260047193,
+    "wof:lastmodified":1537038768,
+    "wof:name":"Danbo",
+    "wof:parent_id":1125381903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.06667,
+    59.36666999999999,
+    16.06667,
+    59.36666999999999
+],
+  "geometry": {"coordinates":[16.06667,59.36666999999999],"type":"Point"}
+}

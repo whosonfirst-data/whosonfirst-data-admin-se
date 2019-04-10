@@ -1,0 +1,75 @@
+{
+  "id": 1243162003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.68333,57.51667,13.68333,57.51667",
+    "geom:latitude":57.51667,
+    "geom:longitude":13.68333,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"662.0",
+    "gn:asciiname":"Alabo",
+    "gn:cc2":"SE",
+    "gn:country_code":"SE",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2727133,
+    "gn:latitude":57.51667,
+    "gn:longitude":13.68333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Alabo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alaby",
+        "Alabo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688395,
+        102191581,
+        1125372543,
+        85633789,
+        1159303327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2727133
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"915e98759d2ab042492bbe1836b333c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303327,
+            "localadmin_id":1125372543,
+            "locality_id":1243162003,
+            "region_id":85688395
+        }
+    ],
+    "wof:id":1243162003,
+    "wof:lastmodified":1537700147,
+    "wof:name":"Alabo",
+    "wof:parent_id":1125372543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.68333,
+    57.51667,
+    13.68333,
+    57.51667
+],
+  "geometry": {"coordinates":[13.68333,57.51667],"type":"Point"}
+}

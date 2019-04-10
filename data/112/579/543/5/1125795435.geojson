@@ -1,0 +1,111 @@
+{
+  "id": 1125795435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.03333,60.7,15.03333,60.7",
+    "geom:latitude":60.7,
+    "geom:longitude":15.03333,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":626,
+    "gn:population":696,
+    "iso:country":"SE",
+    "lbl:latitude":60.7,
+    "lbl:longitude":15.03333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "H\u00e4radsbygden"
+    ],
+    "name:eng_x_preferred":[
+        "H\u00e4radsbygden"
+    ],
+    "name:nan_x_preferred":[
+        "H\u00e4radsbygden"
+    ],
+    "name:nno_x_preferred":[
+        "H\u00e4radsbygden"
+    ],
+    "name:nob_x_preferred":[
+        "H\u00e4radsbygden"
+    ],
+    "name:swe_x_preferred":[
+        "H\u00e4radsbygden"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2707878,
+    "qs_pg:gn_pop":626,
+    "qs_pg:name":"H\u00e4radsbygden",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"Dalarnas L\u00e4n",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1163298,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":892400,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"Dalarnas L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688447,
+        102191581,
+        1125382219,
+        85633789,
+        1159303237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2707878,
+        "gp:id":892400,
+        "qs_pg:id":1163298,
+        "wd:id":"Q2224348"
+    },
+    "wof:country":"SE",
+    "wof:created":1497291030,
+    "wof:geomhash":"24969549d7307fff93ae7bcf8b624445",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303237,
+            "localadmin_id":1125382219,
+            "locality_id":1125795435,
+            "region_id":85688447
+        }
+    ],
+    "wof:id":1125795435,
+    "wof:lastmodified":1529702001,
+    "wof:name":"H\u00e4radsbygden",
+    "wof:parent_id":1125382219,
+    "wof:placetype":"locality",
+    "wof:population":696,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.03333,
+    60.7,
+    15.03333,
+    60.7
+],
+  "geometry": {"coordinates":[15.03333,60.7],"type":"Point"}
+}

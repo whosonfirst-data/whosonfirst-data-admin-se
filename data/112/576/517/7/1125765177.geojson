@@ -1,0 +1,105 @@
+{
+  "id": 1125765177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.58333,57.25,18.58333,57.25",
+    "geom:latitude":57.25,
+    "geom:longitude":18.58333,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":209,
+    "gn:population":209,
+    "iso:country":"SE",
+    "lbl:latitude":57.25,
+    "lbl:longitude":18.58333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u041d\u0435\u0440"
+    ],
+    "name:dut_x_preferred":[
+        "N\u00e4r"
+    ],
+    "name:eng_x_preferred":[
+        "N\u00e4r"
+    ],
+    "name:fre_x_preferred":[
+        "N\u00e4r"
+    ],
+    "name:ger_x_preferred":[
+        "N\u00e4r"
+    ],
+    "name:nno_x_preferred":[
+        "N\u00e4r"
+    ],
+    "name:nob_x_preferred":[
+        "N\u00e4r"
+    ],
+    "name:swe_x_preferred":[
+        "N\u00e4r"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2690461,
+    "qs_pg:gn_pop":209,
+    "qs_pg:name":"N\u00e4r",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":575667,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688405,
+        102191581,
+        1125287041,
+        85633789,
+        1159303535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2690461,
+        "qs_pg:id":575667,
+        "wd:id":"Q2006466"
+    },
+    "wof:country":"SE",
+    "wof:created":1497289863,
+    "wof:geomhash":"2c00dc5adffba4e9bc8223578a7ad454",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303535,
+            "localadmin_id":1125287041,
+            "locality_id":1125765177,
+            "region_id":85688405
+        }
+    ],
+    "wof:id":1125765177,
+    "wof:lastmodified":1529702033,
+    "wof:name":"N\u00e4r",
+    "wof:parent_id":1125287041,
+    "wof:placetype":"locality",
+    "wof:population":209,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.58333,
+    57.25,
+    18.58333,
+    57.25
+],
+  "geometry": {"coordinates":[18.58333,57.25],"type":"Point"}
+}

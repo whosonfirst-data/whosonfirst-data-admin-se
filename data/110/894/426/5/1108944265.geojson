@@ -1,0 +1,69 @@
+{
+  "id": 1108944265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.9321486194,57.6624272772,11.9321486194,57.6624272772",
+    "geom:latitude":57.662427,
+    "geom:longitude":11.932149,
+    "iso:country":"SE",
+    "lbl:latitude":57.662427,
+    "lbl:longitude":11.932149,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_metro":30,
+    "name:swe_x_preferred":[
+        "Flat\u00e5s"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        85688411,
+        102191581,
+        1125287157,
+        85633789,
+        101752295,
+        1159302989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"SE",
+    "wof:created":1491364278,
+    "wof:geomhash":"7df500278685922baed4ce8bd323952a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302989,
+            "localadmin_id":1125287157,
+            "locality_id":101752295,
+            "neighbourhood_id":1108944265,
+            "region_id":85688411
+        }
+    ],
+    "wof:id":1108944265,
+    "wof:lastmodified":1529702290,
+    "wof:name":"Flatas",
+    "wof:parent_id":101752295,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.93214861937882,
+    57.662427277216,
+    11.93214861937882,
+    57.662427277216
+],
+  "geometry": {"coordinates":[11.93214861937882,57.662427277216],"type":"Point"}
+}

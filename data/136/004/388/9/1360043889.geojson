@@ -1,0 +1,69 @@
+{
+  "id": 1360043889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.98333,59.88333,16.98333,59.88333",
+    "geom:latitude":59.88333,
+    "geom:longitude":16.98333,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Malby",
+    "gn:country_code":"SE",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2693102,
+    "gn:latitude":59.88333,
+    "gn:longitude":16.98333,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"M\u00e4lby",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688439,
+        102191581,
+        1125382379,
+        85633789,
+        1159303349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2693102
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"d7d452f5ae5ab4069b35fc28882d7aa8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303349,
+            "localadmin_id":1125382379,
+            "locality_id":1360043889,
+            "region_id":85688439
+        }
+    ],
+    "wof:id":1360043889,
+    "wof:lastmodified":1537004497,
+    "wof:name":"Malby",
+    "wof:parent_id":1125382379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.98333,
+    59.88333000000001,
+    16.98333,
+    59.88333000000001
+],
+  "geometry": {"coordinates":[16.98333,59.88333000000001],"type":"Point"}
+}

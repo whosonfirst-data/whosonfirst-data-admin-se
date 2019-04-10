@@ -1,0 +1,76 @@
+{
+  "id": 1243079427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.83333,56.13333,14.83333,56.13333",
+    "geom:latitude":56.13333,
+    "geom:longitude":14.83333,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ostra Hala",
+    "gn:country_code":"SE",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3331344,
+    "gn:latitude":56.13333,
+    "gn:longitude":14.83333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u00d6stra H\u00e5la",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "\u00d6stra H\u00e5la"
+    ],
+    "name:nor_x_variant":[
+        "\u00d8stra H\u00e5la"
+    ],
+    "name:und_x_variant":[
+        "\u00d6stra H\u00e5la"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688383,
+        1125286529,
+        1159302985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3331344
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"488283326707e339cbcabe8275414f6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "county_id":1159302985,
+            "localadmin_id":1125286529,
+            "locality_id":1243079427,
+            "region_id":85688383
+        }
+    ],
+    "wof:id":1243079427,
+    "wof:lastmodified":1537700158,
+    "wof:name":"Ostra Hala",
+    "wof:parent_id":1125286529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.83333,
+    56.13333000000001,
+    14.83333,
+    56.13333000000001
+],
+  "geometry": {"coordinates":[14.83333,56.13333000000001],"type":"Point"}
+}

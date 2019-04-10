@@ -1,0 +1,79 @@
+{
+  "id": 1293708129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.78333,57.53333,14.78333,57.53333",
+    "geom:latitude":57.53333,
+    "geom:longitude":14.78333,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"682.0",
+    "gn:asciiname":"Mocklamo",
+    "gn:country_code":"SE",
+    "gn:dem":249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2691599,
+    "gn:latitude":57.53333,
+    "gn:longitude":14.78333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"M\u00f6cklamo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "M\u00f6cklamo"
+    ],
+    "name:nor_x_variant":[
+        "M\u00f8cklamo"
+    ],
+    "name:und_x_variant":[
+        "M\u00f6cklamo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688395,
+        102191581,
+        1125373513,
+        85633789,
+        1159303537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2691599
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"759cbac28e67e0c7248fd06876ad8400",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303537,
+            "localadmin_id":1125373513,
+            "locality_id":1293708129,
+            "region_id":85688395
+        }
+    ],
+    "wof:id":1293708129,
+    "wof:lastmodified":1537699957,
+    "wof:name":"Mocklamo",
+    "wof:parent_id":1125373513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.78333,
+    57.53333000000001,
+    14.78333,
+    57.53333000000001
+],
+  "geometry": {"coordinates":[14.78333,57.53333000000001],"type":"Point"}
+}

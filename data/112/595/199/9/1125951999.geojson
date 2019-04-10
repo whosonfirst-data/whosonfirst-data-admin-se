@@ -1,0 +1,128 @@
+{
+  "id": 1125951999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.53333,56.65,16.53333,56.65",
+    "geom:latitude":56.65,
+    "geom:longitude":16.53333,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":231,
+    "gn:population":231,
+    "iso:country":"SE",
+    "lbl:latitude":56.65,
+    "lbl:longitude":16.53333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0410\u0440\u043e\u043d\u0442\u043e\u0440\u043f"
+    ],
+    "name:dan_x_preferred":[
+        "Arontorp"
+    ],
+    "name:dut_x_preferred":[
+        "Arontorp"
+    ],
+    "name:eng_x_preferred":[
+        "Arontorp"
+    ],
+    "name:fre_x_preferred":[
+        "Arontorp"
+    ],
+    "name:ger_x_preferred":[
+        "Arontorp"
+    ],
+    "name:nan_x_preferred":[
+        "Arontorp"
+    ],
+    "name:nds_x_preferred":[
+        "Arontorp"
+    ],
+    "name:nno_x_preferred":[
+        "Arontorp"
+    ],
+    "name:nob_x_preferred":[
+        "Arontorp"
+    ],
+    "name:swe_x_preferred":[
+        "Arontorp"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2725243,
+    "qs_pg:gn_pop":231,
+    "qs_pg:name":"Arontorp",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"Kalmar L\u00e4n",
+    "qs_pg:photos":2,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":2,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":58187,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":885081,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"Kalmar L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688401,
+        102191581,
+        1125287549,
+        85633789,
+        1159303101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2725243,
+        "gp:id":885081,
+        "qs_pg:id":58187,
+        "wd:id":"Q2638181"
+    },
+    "wof:country":"SE",
+    "wof:created":1497297494,
+    "wof:geomhash":"7d016e482967a4f6f078838950756bfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303101,
+            "localadmin_id":1125287549,
+            "locality_id":1125951999,
+            "region_id":85688401
+        }
+    ],
+    "wof:id":1125951999,
+    "wof:lastmodified":1554166248,
+    "wof:name":"Arontorp",
+    "wof:parent_id":1125287549,
+    "wof:placetype":"locality",
+    "wof:population":231,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.53333,
+    56.65,
+    16.53333,
+    56.65
+],
+  "geometry": {"coordinates":[16.53333,56.65],"type":"Point"}
+}

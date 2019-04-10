@@ -1,0 +1,73 @@
+{
+  "id": 1209289799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.96667,59.43306,16.96667,59.43306",
+    "geom:latitude":59.43306,
+    "geom:longitude":16.96667,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Bjoerktorp",
+    "gn:country_code":"SE",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2721971,
+    "gn:latitude":59.43306,
+    "gn:longitude":16.96667,
+    "gn:modification_date":"2017-03-18",
+    "gn:name":"Bj\u00f6rktorp",
+    "gn:population":433,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Bj\u00f6rktorp"
+    ],
+    "name:nor_x_variant":[
+        "Bj\u00f8rktorp"
+    ],
+    "name:und_x_variant":[
+        "Bj\u00f6rktorp"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2721971
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"35309531dca4d3cccafdf03d0ed9a371",
+    "wof:hierarchy":[
+        {
+            "country_id":85633789,
+            "locality_id":1209289799
+        }
+    ],
+    "wof:id":1209289799,
+    "wof:lastmodified":1537700121,
+    "wof:name":"Bjoerktorp",
+    "wof:parent_id":85633789,
+    "wof:placetype":"locality",
+    "wof:population":433,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.96667,
+    59.43306,
+    16.96667,
+    59.43306
+],
+  "geometry": {"coordinates":[16.96667,59.43306],"type":"Point"}
+}

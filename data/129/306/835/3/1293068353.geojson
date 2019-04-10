@@ -1,0 +1,69 @@
+{
+  "id": 1293068353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.0,60.18333,16.0,60.18333",
+    "geom:latitude":60.18333,
+    "geom:longitude":16.0,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Langbrosveden",
+    "gn:country_code":"SE",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2697563,
+    "gn:latitude":60.18333,
+    "gn:longitude":16.0,
+    "gn:modification_date":"1994-01-14",
+    "gn:name":"L\u00e5ngbrosveden",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688425,
+        102191581,
+        1125381917,
+        85633789,
+        1159303227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2697563
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"933429eadb580dbf0f825e473ee6ca68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303227,
+            "localadmin_id":1125381917,
+            "locality_id":1293068353,
+            "region_id":85688425
+        }
+    ],
+    "wof:id":1293068353,
+    "wof:lastmodified":1536894215,
+    "wof:name":"Langbrosveden",
+    "wof:parent_id":1125381917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.0,
+    60.18333000000001,
+    16.0,
+    60.18333000000001
+],
+  "geometry": {"coordinates":[16.0,60.18333000000001],"type":"Point"}
+}

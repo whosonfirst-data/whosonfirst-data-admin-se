@@ -1,0 +1,79 @@
+{
+  "id": 1259652579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.5,59.9,17.5,59.9",
+    "geom:latitude":59.9,
+    "geom:longitude":17.5,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"380.0",
+    "gn:asciiname":"Stroja",
+    "gn:country_code":"SE",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2671329,
+    "gn:latitude":59.9,
+    "gn:longitude":17.5,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Str\u00f6ja",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Str\u00f6ja"
+    ],
+    "name:nor_x_variant":[
+        "Str\u00f8ja"
+    ],
+    "name:und_x_variant":[
+        "Str\u00f6ja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688439,
+        102191581,
+        1125371423,
+        85633789,
+        1159303253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2671329
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"d479b8946ab79d03e9452122d6add4c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303253,
+            "localadmin_id":1125371423,
+            "locality_id":1259652579,
+            "region_id":85688439
+        }
+    ],
+    "wof:id":1259652579,
+    "wof:lastmodified":1537699788,
+    "wof:name":"Stroja",
+    "wof:parent_id":1125371423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.5,
+    59.9,
+    17.5,
+    59.9
+],
+  "geometry": {"coordinates":[17.5,59.9],"type":"Point"}
+}

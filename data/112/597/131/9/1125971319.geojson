@@ -1,0 +1,96 @@
+{
+  "id": 1125971319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.71667,59.9,15.71667,59.9",
+    "geom:latitude":59.9,
+    "geom:longitude":15.71667,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":243,
+    "gn:population":243,
+    "iso:country":"SE",
+    "lbl:latitude":59.9,
+    "lbl:longitude":15.71667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:nor_x_preferred":[
+        "Bj\u00f8rkviken"
+    ],
+    "name:nor_x_variant":[
+        "Bj\u00f6rkviken"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2721948,
+    "qs_pg:gn_pop":243,
+    "qs_pg:name":"Bj\u00f6rkviken",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"V\u00e4stmanlands L\u00e4n",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":414516,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":886580,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"V\u00e4stmanlands L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688425,
+        102191581,
+        1125384257,
+        85633789,
+        1159302929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2721948,
+        "gp:id":886580,
+        "qs_pg:id":414516
+    },
+    "wof:country":"SE",
+    "wof:created":1497298176,
+    "wof:geomhash":"26aefa666443e744155ba6228fde93db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302929,
+            "localadmin_id":1125384257,
+            "locality_id":1125971319,
+            "region_id":85688425
+        }
+    ],
+    "wof:id":1125971319,
+    "wof:lastmodified":1529703032,
+    "wof:name":"Bj\u00f6rkviken",
+    "wof:parent_id":1125384257,
+    "wof:placetype":"locality",
+    "wof:population":243,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.71667,
+    59.9,
+    15.71667,
+    59.9
+],
+  "geometry": {"coordinates":[15.71667,59.9],"type":"Point"}
+}

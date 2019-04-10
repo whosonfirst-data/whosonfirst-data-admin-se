@@ -1,0 +1,131 @@
+{
+  "id": 1125890335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.25,59.53333,16.25,59.53333",
+    "geom:latitude":59.53333,
+    "geom:longitude":16.25,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":676,
+    "iso:country":"SE",
+    "lbl:latitude":59.53333,
+    "lbl:longitude":16.25,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Str\u00f6msholm"
+    ],
+    "name:eng_x_preferred":[
+        "Str\u00f6msholm"
+    ],
+    "name:fre_x_preferred":[
+        "Str\u00f6msholm"
+    ],
+    "name:ger_x_preferred":[
+        "Str\u00f6msholm"
+    ],
+    "name:nan_x_preferred":[
+        "Str\u00f6msholm"
+    ],
+    "name:nno_x_preferred":[
+        "Str\u00f6msholm"
+    ],
+    "name:nob_x_preferred":[
+        "Str\u00f6msholm"
+    ],
+    "name:nor_x_preferred":[
+        "Str\u00f8msholm"
+    ],
+    "name:nor_x_variant":[
+        "Str\u00f6msholm"
+    ],
+    "name:pol_x_preferred":[
+        "Str\u00f6msholm"
+    ],
+    "name:swe_x_preferred":[
+        "Str\u00f6msholm"
+    ],
+    "name:unk_x_variant":[
+        "Stromsholms"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2671248,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Str\u00f6msholm",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"V\u00e4stmanlands L\u00e4n",
+    "qs_pg:photos":109,
+    "qs_pg:photos_1k":22,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":109,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":239690,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":906572,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"V\u00e4stmanlands L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688425,
+        102191581,
+        1125384261,
+        85633789,
+        1159303145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2671248,
+        "gp:id":906572,
+        "qs_pg:id":239690,
+        "wd:id":"Q1969315"
+    },
+    "wof:country":"SE",
+    "wof:created":1497295285,
+    "wof:geomhash":"888a8af9d0319a8f31005fce92b1e8b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303145,
+            "localadmin_id":1125384261,
+            "locality_id":1125890335,
+            "region_id":85688425
+        }
+    ],
+    "wof:id":1125890335,
+    "wof:lastmodified":1529703031,
+    "wof:name":"Str\u00f6msholm",
+    "wof:parent_id":1125384261,
+    "wof:placetype":"locality",
+    "wof:population":676,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.25,
+    59.53333,
+    16.25,
+    59.53333
+],
+  "geometry": {"coordinates":[16.25,59.53333],"type":"Point"}
+}

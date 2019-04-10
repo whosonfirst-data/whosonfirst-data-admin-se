@@ -1,0 +1,109 @@
+{
+  "id": 1126029259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.26667,57.83333,14.26667,57.83333",
+    "geom:latitude":57.83333,
+    "geom:longitude":14.26667,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"SE",
+    "lbl:latitude":57.83333,
+    "lbl:longitude":14.26667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Gisebo"
+    ],
+    "name:eng_x_preferred":[
+        "Gissebo"
+    ],
+    "name:fin_x_preferred":[
+        "Gissebo"
+    ],
+    "name:ger_x_preferred":[
+        "Gissebo"
+    ],
+    "name:swe_x_preferred":[
+        "Gisebo"
+    ],
+    "name:unk_x_variant":[
+        "Gissebo"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2712049,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Gisebo",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"J\u00f6nk\u00f6pings L\u00e4n",
+    "qs_pg:photos":26,
+    "qs_pg:photos_1k":5,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":26,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":959661,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":890673,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"J\u00f6nk\u00f6pings L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688395,
+        102191581,
+        1125286615,
+        85633789,
+        1159303375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2712049,
+        "gp:id":890673,
+        "qs_pg:id":959661,
+        "wd:id":"Q10505059"
+    },
+    "wof:country":"SE",
+    "wof:created":1497301353,
+    "wof:geomhash":"5a10bf04bf94aa7c52c3c7e94189b188",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303375,
+            "localadmin_id":1125286615,
+            "locality_id":1126029259,
+            "region_id":85688395
+        }
+    ],
+    "wof:id":1126029259,
+    "wof:lastmodified":1529702450,
+    "wof:name":"Gisebo",
+    "wof:parent_id":1125286615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.26667,
+    57.83333,
+    14.26667,
+    57.83333
+],
+  "geometry": {"coordinates":[14.26667,57.83333],"type":"Point"}
+}

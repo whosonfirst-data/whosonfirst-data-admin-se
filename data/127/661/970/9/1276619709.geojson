@@ -1,0 +1,79 @@
+{
+  "id": 1276619709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.76667,59.0,15.76667,59.0",
+    "geom:latitude":59.0,
+    "geom:longitude":15.76667,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"428.0",
+    "gn:asciiname":"Marsjo",
+    "gn:country_code":"SE",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2692501,
+    "gn:latitude":59.0,
+    "gn:longitude":15.76667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Marsj\u00f6",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Marsj\u00f6"
+    ],
+    "name:nor_x_variant":[
+        "Marsj\u00f8"
+    ],
+    "name:und_x_variant":[
+        "Marsj\u00f6"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688419,
+        102191581,
+        1125356555,
+        85633789,
+        1159303389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2692501
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"ad0507ac4dab8b4c7c6a0289d896b9c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303389,
+            "localadmin_id":1125356555,
+            "locality_id":1276619709,
+            "region_id":85688419
+        }
+    ],
+    "wof:id":1276619709,
+    "wof:lastmodified":1537699961,
+    "wof:name":"Marsjo",
+    "wof:parent_id":1125356555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.76667,
+    59.0,
+    15.76667,
+    59.0
+],
+  "geometry": {"coordinates":[15.76667,59.0],"type":"Point"}
+}

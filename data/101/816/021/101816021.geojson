@@ -1,0 +1,126 @@
+{
+  "id": 101816021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000108,
+    "geom:area_square_m":676310.509484,
+    "geom:bbox":"16.9308248605,59.6234455467,16.956375596,59.6306030346",
+    "geom:latitude":59.626794,
+    "geom:longitude":16.94427,
+    "gn:population":1005,
+    "iso:country":"SE",
+    "lbl:latitude":59.626303,
+    "lbl:longitude":16.945304,
+    "mps:latitude":59.626303,
+    "mps:longitude":16.945304,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0425\u0443\u043c\u0435\u043b\u0441\u0442\u0430"
+    ],
+    "name:dut_x_preferred":[
+        "Hummelsta"
+    ],
+    "name:eng_x_preferred":[
+        "Hummelsta"
+    ],
+    "name:ita_x_preferred":[
+        "Hummelsta"
+    ],
+    "name:nan_x_preferred":[
+        "Hummelsta"
+    ],
+    "name:nld_x_preferred":[
+        "Hummelsta"
+    ],
+    "name:nno_x_preferred":[
+        "Hummelsta"
+    ],
+    "name:nob_x_preferred":[
+        "Hummelsta"
+    ],
+    "name:nor_x_preferred":[
+        "Hummelsta"
+    ],
+    "name:pol_x_preferred":[
+        "Hummelsta"
+    ],
+    "name:swe_x_preferred":[
+        "Hummelsta"
+    ],
+    "name:swe_x_variant":[
+        "Hummelstas"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Hummelsta"
+    ],
+    "qs:a0":"Sverige",
+    "qs:a1":"*Uppsala l\u00e4n",
+    "qs:a1r":"0",
+    "qs:adm0":"Sverige",
+    "qs:la":"Enk\u00f6ping",
+    "qs:la_lc":"*SE0381",
+    "qs:level":"locality",
+    "qs:loc":"Hummelsta",
+    "qs:loc_alt":"Hummelsta",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":140,
+    "wof:belongsto":[
+        85688439,
+        102191581,
+        1125356565,
+        85633789,
+        1159303337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06d11408-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2704327,
+        "gp:id":55873284,
+        "qs:id":957578,
+        "wd:id":"Q2112372",
+        "wk:page":"Hummelsta"
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"48939857143bc7332760d255d060fc0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303337,
+            "localadmin_id":1125356565,
+            "locality_id":101816021,
+            "region_id":85688439
+        }
+    ],
+    "wof:id":101816021,
+    "wof:lang":[
+        "swe"
+    ],
+    "wof:lastmodified":1529702882,
+    "wof:name":"Hummelsta",
+    "wof:parent_id":1125356565,
+    "wof:placetype":"locality",
+    "wof:population":1005,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.93082486054931,
+    59.62344554670858,
+    16.95637559597026,
+    59.63060303456257
+],
+  "geometry": {"coordinates":[[[16.95145887681349,59.63051510804297],[16.95127691225787,59.62962042446583],[16.9547974362294,59.62944451006825],[16.95461539205928,59.6285498317315],[16.95637559597026,59.62846184385569],[16.95582939382683,59.62577781694756],[16.95230924948333,59.62595375495664],[16.95212729486877,59.62505907423991],[16.95036725528593,59.62514700738387],[16.95018535704617,59.62425232412824],[16.94842535429905,59.6243402325025],[16.94824351242806,59.62344554670858],[16.94296358925561,59.62370913099369],[16.94314529516191,59.62460382455822],[16.93610509763352,59.62495497013646],[16.93592357302322,59.62406026621983],[16.93240351408645,59.62423570076385],[16.93258494804337,59.62513040985272],[16.93082486054931,59.6252180964421],[16.93136909255827,59.6279022317957],[16.93664973763293,59.62763908221501],[16.93683130635901,59.62853378635083],[16.94035178472438,59.62835823721667],[16.9405334551588,59.62925293623113],[16.94581424513495,59.62898943840224],[16.94599606262511,59.6298841297014],[16.94951663753511,59.62970834839263],[16.94969855675203,59.63060303456257],[16.95145887681349,59.63051510804297]]],"type":"Polygon"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1343647327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.86667,63.0,14.86667,63.0",
+    "geom:latitude":63.0,
+    "geom:longitude":14.86667,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"2380.0",
+    "gn:asciiname":"Espnas",
+    "gn:cc2":"SE",
+    "gn:country_code":"SE",
+    "gn:dem":339,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2715938,
+    "gn:latitude":63.0,
+    "gn:longitude":14.86667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Espn\u00e4s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u00c4spn\u00e4s",
+        "Espn\u00e4s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688461,
+        102191581,
+        1125356381,
+        85633789,
+        1159303231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2715938
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"7ff68202e6ab2a952ae94c424dbb4f4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303231,
+            "localadmin_id":1125356381,
+            "locality_id":1343647327,
+            "region_id":85688461
+        }
+    ],
+    "wof:id":1343647327,
+    "wof:lastmodified":1537700086,
+    "wof:name":"Espnas",
+    "wof:parent_id":1125356381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.86667,
+    63.0,
+    14.86667,
+    63.0
+],
+  "geometry": {"coordinates":[14.86667,63.0],"type":"Point"}
+}

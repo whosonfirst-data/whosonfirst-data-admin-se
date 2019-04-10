@@ -1,0 +1,93 @@
+{
+  "id": 1125997455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.6,60.4,15.6,60.4",
+    "geom:latitude":60.4,
+    "geom:longitude":15.6,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"SE",
+    "lbl:latitude":60.4,
+    "lbl:longitude":15.6,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Gustavs"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2709646,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Gustafs",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"Dalarnas L\u00e4n",
+    "qs_pg:photos":196,
+    "qs_pg:photos_1k":40,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":196,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":287349,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":891647,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"Dalarnas L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688447,
+        102191581,
+        1125277921,
+        85633789,
+        1159303099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2709646,
+        "gp:id":891647,
+        "qs_pg:id":287349
+    },
+    "wof:country":"SE",
+    "wof:created":1497299440,
+    "wof:geomhash":"66e2e676605f61724bee6d73beb3bd9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303099,
+            "localadmin_id":1125277921,
+            "locality_id":1125997455,
+            "region_id":85688447
+        }
+    ],
+    "wof:id":1125997455,
+    "wof:lastmodified":1529702012,
+    "wof:name":"Gustafs",
+    "wof:parent_id":1125277921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.6,
+    60.4,
+    15.6,
+    60.4
+],
+  "geometry": {"coordinates":[15.6,60.4],"type":"Point"}
+}

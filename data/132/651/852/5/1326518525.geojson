@@ -1,0 +1,79 @@
+{
+  "id": 1326518525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.73333,60.5,15.73333,60.5",
+    "geom:latitude":60.5,
+    "geom:longitude":15.73333,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2080.0",
+    "gn:asciiname":"Sorbo",
+    "gn:country_code":"SE",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2675237,
+    "gn:latitude":60.5,
+    "gn:longitude":15.73333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"S\u00f6rbo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "S\u00f6rbo"
+    ],
+    "name:nor_x_variant":[
+        "S\u00f8rbo"
+    ],
+    "name:und_x_variant":[
+        "S\u00f6rbo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688447,
+        102191581,
+        1125277905,
+        85633789,
+        1159302903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2675237
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"bb79a9c141c5f8c00706c164aba17e51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302903,
+            "localadmin_id":1125277905,
+            "locality_id":1326518525,
+            "region_id":85688447
+        }
+    ],
+    "wof:id":1326518525,
+    "wof:lastmodified":1537699809,
+    "wof:name":"Sorbo",
+    "wof:parent_id":1125277905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.73333,
+    60.5,
+    15.73333,
+    60.5
+],
+  "geometry": {"coordinates":[15.73333,60.5],"type":"Point"}
+}

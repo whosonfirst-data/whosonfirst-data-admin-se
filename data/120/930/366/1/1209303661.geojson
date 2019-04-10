@@ -1,0 +1,79 @@
+{
+  "id": 1209303661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.85,56.68333,15.85,56.68333",
+    "geom:latitude":56.68333,
+    "geom:longitude":15.85,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"881.0",
+    "gn:asciiname":"Sodra Svalehult",
+    "gn:country_code":"SE",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2675628,
+    "gn:latitude":56.68333,
+    "gn:longitude":15.85,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"S\u00f6dra Svalehult",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "S\u00f6dra Svalehult"
+    ],
+    "name:nor_x_variant":[
+        "S\u00f8dra Svalehult"
+    ],
+    "name:und_x_variant":[
+        "S\u00f6dra Svalehult"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688401,
+        102191581,
+        1125327755,
+        85633789,
+        1159302907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2675628
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"d244eba153eecdb221c759f2055630d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302907,
+            "localadmin_id":1125327755,
+            "locality_id":1209303661,
+            "region_id":85688401
+        }
+    ],
+    "wof:id":1209303661,
+    "wof:lastmodified":1554166255,
+    "wof:name":"Sodra Svalehult",
+    "wof:parent_id":1125327755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.85,
+    56.68333000000001,
+    15.85,
+    56.68333000000001
+],
+  "geometry": {"coordinates":[15.85,56.68333000000001],"type":"Point"}
+}

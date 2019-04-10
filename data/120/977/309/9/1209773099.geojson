@@ -1,0 +1,72 @@
+{
+  "id": 1209773099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.34973,62.45691,17.34973,62.45691",
+    "geom:latitude":62.45691,
+    "geom:longitude":17.34973,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2281.0",
+    "gn:admin3_code":"228103.0",
+    "gn:admin4_code":"2492.0",
+    "gn:asciiname":"Gangviken",
+    "gn:country_code":"SE",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2712881,
+    "gn:latitude":62.45691,
+    "gn:longitude":17.34973,
+    "gn:modification_date":"2014-10-09",
+    "gn:name":"G\u00e5ngviken",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688457,
+        102191581,
+        1125325981,
+        85633789,
+        1159303427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2712881
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"f609cfea95f11f8bd620da985a2b14ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303427,
+            "localadmin_id":1125325981,
+            "locality_id":1209773099,
+            "region_id":85688457
+        }
+    ],
+    "wof:id":1209773099,
+    "wof:lastmodified":1536381761,
+    "wof:name":"Gangviken",
+    "wof:parent_id":1125325981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.34972999999999,
+    62.45691,
+    17.34972999999999,
+    62.45691
+],
+  "geometry": {"coordinates":[17.34972999999999,62.45691],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1242821915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.95,59.88333,18.95,59.88333",
+    "geom:latitude":59.88333,
+    "geom:longitude":18.95,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"188.0",
+    "gn:asciiname":"Karlsvik",
+    "gn:country_code":"SE",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2599673,
+    "gn:latitude":59.88333,
+    "gn:longitude":18.95,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Karlsvik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688429,
+        102191581,
+        1125382287,
+        85633789,
+        1159302995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2599673
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"5f681c8637a14d240e30efeb903fc268",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302995,
+            "localadmin_id":1125382287,
+            "locality_id":1242821915,
+            "region_id":85688429
+        }
+    ],
+    "wof:id":1242821915,
+    "wof:lastmodified":1536712108,
+    "wof:name":"Karlsvik",
+    "wof:parent_id":1125382287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.95,
+    59.88333000000001,
+    18.95,
+    59.88333000000001
+],
+  "geometry": {"coordinates":[18.95,59.88333000000001],"type":"Point"}
+}

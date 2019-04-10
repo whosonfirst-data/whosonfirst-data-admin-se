@@ -1,0 +1,70 @@
+{
+  "id": 1259437763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.08333,60.0,16.08333,60.0",
+    "geom:latitude":60.0,
+    "geom:longitude":16.08333,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1962.0",
+    "gn:asciiname":"Hastback",
+    "gn:country_code":"SE",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2707331,
+    "gn:latitude":60.0,
+    "gn:longitude":16.08333,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"H\u00e4stb\u00e4ck",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688425,
+        102191581,
+        1125327731,
+        85633789,
+        1159303227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2707331
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"ffd244a1143a1bbd7f4c51e08518a662",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303227,
+            "localadmin_id":1125327731,
+            "locality_id":1259437763,
+            "region_id":85688425
+        }
+    ],
+    "wof:id":1259437763,
+    "wof:lastmodified":1536925370,
+    "wof:name":"Hastback",
+    "wof:parent_id":1125327731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.08333,
+    60.0,
+    16.08333,
+    60.0
+],
+  "geometry": {"coordinates":[16.08333,60.0],"type":"Point"}
+}

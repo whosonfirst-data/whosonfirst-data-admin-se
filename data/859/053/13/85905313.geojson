@@ -1,0 +1,117 @@
+{
+  "id": 85905313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000265,
+    "geom:area_square_m":1747929.588451,
+    "geom:bbox":"11.9021191049,57.7100165972,11.9284057617,57.727298783",
+    "geom:latitude":57.716725,
+    "geom:longitude":11.913794,
+    "gn:latitude":57.8,
+    "gn:longitude":11.91667,
+    "gn:population":774,
+    "iso:country":"SE",
+    "lbl:latitude":57.713464,
+    "lbl:longitude":11.916812,
+    "mps:latitude":57.716251,
+    "mps:longitude":11.912698,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":4,
+    "mz:tier_metro":30,
+    "name:swe_x_preferred":[
+        "Kyrkbyn"
+    ],
+    "name:unk_x_variant":[
+        "Kyrkobyn",
+        "Kyrkbyn"
+    ],
+    "qs:gn_adm0_cc":"SE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":2711537,
+    "qs:gn_nam_loc":"G\u00f6teborg, G\u00f6teborg, V\u00e4stra G\u00f6talands L\u00e4n, SE",
+    "qs:gn_namadm1":"28",
+    "qs:gn_name":"Kyrkobyn",
+    "qs:local_max":7780,
+    "qs:local_sum":88702,
+    "qs:localhoods":78,
+    "qs:name":"Kyrkbyn",
+    "qs:name_adm0":"Sverige",
+    "qs:name_adm1":"V\u00e4stra G\u00f6talands L\u00e4n",
+    "qs:name_adm2":"G\u00f6teborg",
+    "qs:name_local":"G\u00f6teborg",
+    "qs:photo_max":125,
+    "qs:photo_sum":340,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":20,
+    "qs:woe_adm0":23424954,
+    "qs:woe_adm1":20070562,
+    "qs:woe_adm2":12587233,
+    "qs:woe_lau":0,
+    "qs:woe_local":890869,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688411,
+        102191581,
+        1125287157,
+        85633789,
+        101752295,
+        1159302989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2679747,
+        "gp:id":20151271,
+        "qs:id":351133,
+        "qs_pg:id":351133
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"525023130b527d717964cb8e95f3e0b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302989,
+            "localadmin_id":1125287157,
+            "locality_id":101752295,
+            "neighbourhood_id":85905313,
+            "region_id":85688411
+        }
+    ],
+    "wof:id":85905313,
+    "wof:lang":[
+        "swe"
+    ],
+    "wof:lastmodified":1529702305,
+    "wof:name":"Kyrkbyn",
+    "wof:parent_id":101752295,
+    "wof:placetype":"neighbourhood",
+    "wof:population":774,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.90211910493099,
+    57.71001659722516,
+    11.92840576170005,
+    57.72729878298362
+],
+  "geometry": {"coordinates":[[[11.91503315793739,57.72468605080003],[11.91555530364337,57.72175264214611],[11.92016601560005,57.72175264760004],[11.92016601561568,57.72175258812523],[11.92016601561568,57.71881900650006],[11.92529902143298,57.71881900650006],[11.92565917967522,57.71922362044755],[11.92673965441548,57.71881900650006],[11.92784294981897,57.71840584671757],[11.92840575913493,57.71735208935728],[11.92840576170005,57.71594685514332],[11.92840576170005,57.71588512770005],[11.92830685048102,57.71588512770005],[11.92565917968551,57.71423279795521],[11.92565917968454,57.71295101109997],[11.92565917967522,57.71295095165028],[11.92016601561568,57.71295095165028],[11.92016601560829,57.71001665669998],[11.92016601562511,57.71001659722516],[11.91467285157506,57.71001659722516],[11.9091796875,57.71001659722516],[11.90368652340004,57.71001659722516],[11.90211910493099,57.71001659722516],[11.90368652341675,57.71295095163855],[11.90368652341459,57.71295101109997],[11.90368652341675,57.71588506825044],[11.90368652341675,57.71588512770005],[11.90368652341675,57.71881894707506],[11.90368652341675,57.71881900650006],[11.90368652341567,57.72175258812523],[11.90368652340004,57.72175264760004],[11.90881947638326,57.72175264760004],[11.90917968750006,57.72215735374688],[11.90987557301952,57.72293919843203],[11.91030062916917,57.72691913282121],[11.91293590888006,57.72729878298362],[11.91477212789363,57.72615251462527],[11.91503315793739,57.72468605080003]]],"type":"Polygon"}
+}

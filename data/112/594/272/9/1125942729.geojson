@@ -1,0 +1,114 @@
+{
+  "id": 1125942729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.33333,58.5,15.33333,58.5",
+    "geom:latitude":58.5,
+    "geom:longitude":15.33333,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":281,
+    "gn:population":248,
+    "iso:country":"SE",
+    "lbl:latitude":58.5,
+    "lbl:longitude":15.33333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Klockrike"
+    ],
+    "name:eng_x_preferred":[
+        "Klockrike"
+    ],
+    "name:ita_x_preferred":[
+        "Klockrike"
+    ],
+    "name:nan_x_preferred":[
+        "Klockrike"
+    ],
+    "name:nno_x_preferred":[
+        "Klockrike"
+    ],
+    "name:nob_x_preferred":[
+        "Klockrike"
+    ],
+    "name:swe_x_preferred":[
+        "Klockrike"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2700420,
+    "qs_pg:gn_pop":281,
+    "qs_pg:name":"Klockrike",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"\u00d6sterg\u00f6tlands L\u00e4n",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1140884,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":895482,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"\u00d6sterg\u00f6tlands L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688409,
+        102191581,
+        1125355967,
+        85633789,
+        1159303391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2700420,
+        "gp:id":895482,
+        "qs_pg:id":1140884,
+        "wd:id":"Q1825937"
+    },
+    "wof:country":"SE",
+    "wof:created":1497297172,
+    "wof:geomhash":"9ffd4104ec51b767f1530edc138b335c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303391,
+            "localadmin_id":1125355967,
+            "locality_id":1125942729,
+            "region_id":85688409
+        }
+    ],
+    "wof:id":1125942729,
+    "wof:lastmodified":1529703111,
+    "wof:name":"Klockrike",
+    "wof:parent_id":1125355967,
+    "wof:placetype":"locality",
+    "wof:population":248,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.33333,
+    58.5,
+    15.33333,
+    58.5
+],
+  "geometry": {"coordinates":[15.33333,58.5],"type":"Point"}
+}

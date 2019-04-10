@@ -1,0 +1,75 @@
+{
+  "id": 1226513951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.51667,58.43333,15.51667,58.43333",
+    "geom:latitude":58.43333,
+    "geom:longitude":15.51667,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"580.0",
+    "gn:asciiname":"Olstorp",
+    "gn:cc2":"SE",
+    "gn:country_code":"SE",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2686980,
+    "gn:latitude":58.43333,
+    "gn:longitude":15.51667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Olstorp",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lilla Olstorp",
+        "Olstorp"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688409,
+        102191581,
+        1125287705,
+        85633789,
+        1159303147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2686980
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"6924c598e3f0ff0d5aa26de282d5dd0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303147,
+            "localadmin_id":1125287705,
+            "locality_id":1226513951,
+            "region_id":85688409
+        }
+    ],
+    "wof:id":1226513951,
+    "wof:lastmodified":1537699922,
+    "wof:name":"Olstorp",
+    "wof:parent_id":1125287705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.51667,
+    58.43333000000001,
+    15.51667,
+    58.43333000000001
+],
+  "geometry": {"coordinates":[15.51667,58.43333000000001],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259675605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.21718,57.16399,12.21718,57.16399",
+    "geom:latitude":57.16399,
+    "geom:longitude":12.21718,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"1383.0",
+    "gn:asciiname":"Tangen",
+    "gn:country_code":"SE",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3326155,
+    "gn:latitude":57.16399,
+    "gn:longitude":12.21718,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"T\u00e5ngen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688391,
+        102191581,
+        1125372511,
+        85633789,
+        1159302939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3326155
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"a586c90b36b1c38741a8ff1ab67da05b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302939,
+            "localadmin_id":1125372511,
+            "locality_id":1259675605,
+            "region_id":85688391
+        }
+    ],
+    "wof:id":1259675605,
+    "wof:lastmodified":1537075314,
+    "wof:name":"Tangen",
+    "wof:parent_id":1125372511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.21718,
+    57.16399000000001,
+    12.21718,
+    57.16399000000001
+],
+  "geometry": {"coordinates":[12.21718,57.16399000000001],"type":"Point"}
+}

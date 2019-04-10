@@ -1,0 +1,74 @@
+{
+  "id": 1309861765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.05,63.68333,20.05,63.68333",
+    "geom:latitude":63.68333,
+    "geom:longitude":20.05,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"2480.0",
+    "gn:asciiname":"Aheden",
+    "gn:country_code":"SE",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":606978,
+    "gn:latitude":63.68333,
+    "gn:longitude":20.05,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"\u00c5heden",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u00c5heden"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688465,
+        102191581,
+        1125382279,
+        85633789,
+        1159303017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":606978,
+        "wk:page":"%C3%85heden"
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"4ab7492ee9f78f4c5561ccd5701e43a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303017,
+            "localadmin_id":1125382279,
+            "locality_id":1309861765,
+            "region_id":85688465
+        }
+    ],
+    "wof:id":1309861765,
+    "wof:lastmodified":1537699735,
+    "wof:name":"Aheden",
+    "wof:parent_id":1125382279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.05,
+    63.68333000000001,
+    20.05,
+    63.68333000000001
+],
+  "geometry": {"coordinates":[20.05,63.68333000000001],"type":"Point"}
+}

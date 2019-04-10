@@ -1,0 +1,95 @@
+{
+  "id": 1125362143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000088,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.0452008081,59.3332667281,18.0649305744,59.3421303722",
+    "geom:latitude":59.337646,
+    "geom:longitude":18.055561,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":7768,
+    "gn:population":7768,
+    "iso:country":"SE",
+    "lbl:latitude":59.337753,
+    "lbl:longitude":18.055561,
+    "mps:latitude":59.337753,
+    "mps:longitude":18.055561,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Stockholms Adolf Fredrik"
+    ],
+    "name:swe_x_preferred":[
+        "Stockholms Adolf Fredrik"
+    ],
+    "name:swe_x_variant":[
+        "Adolf Fredrik"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8131703,
+    "qs_pg:gn_pop":7768,
+    "qs_pg:name":"Adolf Fredrik",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":757664,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "se-lant:distrkod":215023,
+    "se-lant:distrnamn":"Stockholms Adolf Fredrik",
+    "se-lant:gallerfran":"2016/01/01",
+    "src:geom":"se-lant",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633789,
+        85688429,
+        1159303035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8131703,
+        "qs_pg:id":757664
+    },
+    "wof:country":"SE",
+    "wof:created":1497046866,
+    "wof:geomhash":"2348c0492cf234335b292091104f7fde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303035,
+            "localadmin_id":1125362143,
+            "region_id":85688429
+        }
+    ],
+    "wof:id":1125362143,
+    "wof:lastmodified":1529702723,
+    "wof:name":"Stockholms Adolf Fredrik",
+    "wof:parent_id":1159303035,
+    "wof:placetype":"localadmin",
+    "wof:population":7768,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.04520080807096,
+    59.33326672813681,
+    18.06493057440809,
+    59.34213037217381
+],
+  "geometry": {"coordinates":[[[[18.06493057440809,59.3371631712695],[18.05577741733031,59.33476521867851],[18.05052675362001,59.33341046309936],[18.04996974859761,59.33326672813681],[18.04933608357099,59.33395691775367],[18.04908529214502,59.33419194462601],[18.04885917096404,59.33432935687707],[18.04846991736127,59.3345004761383],[18.04808338865092,59.3346607540564],[18.04757710984005,59.33487007249022],[18.04708449491188,59.33507373854774],[18.04661757319983,59.33524273920641],[18.04613475299591,59.33538685939263],[18.04520080807096,59.33562592259469],[18.0454352275043,59.33579950682756],[18.04546829791246,59.33580800205468],[18.05021248050667,59.33702655574471],[18.04824831629713,59.33905517743867],[18.05458816018252,59.34064069440294],[18.0548433141642,59.34061241515553],[18.05815326702175,59.34146262392314],[18.06047064812596,59.34213037217381],[18.06123937916262,59.34140874134817],[18.06192818264285,59.34070303700232],[18.06241221867771,59.34018652424761],[18.0627959048374,59.3396467551954],[18.06408906852877,59.33780168525807],[18.06466878275689,59.33768261489552],[18.06493057440809,59.3371631712695]]]],"type":"MultiPolygon"}
+}

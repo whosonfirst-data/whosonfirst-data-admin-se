@@ -1,0 +1,132 @@
+{
+  "id": 101816731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000162,
+    "geom:area_square_m":1104675.661885,
+    "geom:bbox":"13.0604181633,56.5476392864,13.0844082596,56.5578234845",
+    "geom:latitude":56.552934,
+    "geom:longitude":13.072713,
+    "gn:population":1176,
+    "iso:country":"SE",
+    "lbl:latitude":56.552667,
+    "lbl:longitude":13.072713,
+    "mps:latitude":56.552667,
+    "mps:longitude":13.072713,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0412\u0435\u0438\u043d\u0433\u0435"
+    ],
+    "name:dut_x_preferred":[
+        "Veinge"
+    ],
+    "name:eng_x_preferred":[
+        "Veinge"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u06cc\u0646\u06af"
+    ],
+    "name:fre_x_preferred":[
+        "Veinge"
+    ],
+    "name:nan_x_preferred":[
+        "Veinge"
+    ],
+    "name:nld_x_preferred":[
+        "Veinge"
+    ],
+    "name:nno_x_preferred":[
+        "Veinge"
+    ],
+    "name:nob_x_preferred":[
+        "Veinge"
+    ],
+    "name:nor_x_preferred":[
+        "Veinge"
+    ],
+    "name:per_x_preferred":[
+        "\u0648\u06cc\u0646\u06af"
+    ],
+    "name:swe_x_preferred":[
+        "Veinge"
+    ],
+    "name:swe_x_variant":[
+        "Veinges"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Veinge"
+    ],
+    "qs:a0":"Sverige",
+    "qs:a1":"*Hallands l\u00e4n",
+    "qs:a1r":"0",
+    "qs:adm0":"Sverige",
+    "qs:la":"Laholm",
+    "qs:la_lc":"*SE1381",
+    "qs:level":"locality",
+    "qs:loc":"Veinge",
+    "qs:loc_alt":"Veinge",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":45,
+    "wof:belongsto":[
+        85688391,
+        102191581,
+        1125421395,
+        85633789,
+        1159303423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06d2d4dc-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2663435,
+        "gp:id":909760,
+        "qs:id":328962,
+        "qs_pg:id":328962,
+        "wd:id":"Q2619062",
+        "wk:page":"Veinge"
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"cc4dfeb8a12340972a730e0c4fca3766",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303423,
+            "localadmin_id":1125421395,
+            "locality_id":101816731,
+            "region_id":85688391
+        }
+    ],
+    "wof:id":101816731,
+    "wof:lang":[
+        "swe"
+    ],
+    "wof:lastmodified":1529702340,
+    "wof:name":"Veinge",
+    "wof:parent_id":1125421395,
+    "wof:placetype":"locality",
+    "wof:population":1176,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.06041816329525,
+    56.5476392864,
+    13.08440825964828,
+    56.5578234844852
+],
+  "geometry": {"coordinates":[[[13.08011451850274,56.55743885449266],[13.07975465730232,56.5529494736993],[13.0830012012633,56.55287231420965],[13.0827851056618,56.55017869322455],[13.08440825964828,56.55014008609373],[13.08433619797859,56.54924221368071],[13.08108996256919,56.54931940558424],[13.08101798050694,56.54842153123161],[13.07614871798205,56.54853716371315],[13.07607685332061,56.5476392864],[13.06796154404481,56.5478315959619],[13.06803321969619,56.54872947838396],[13.06641011094177,56.5487678803978],[13.06662504836305,56.55146153139606],[13.06500182315813,56.55149991616253],[13.0650734391138,56.55239780107263],[13.06345017306921,56.55243616654963],[13.06359334128621,56.55423193874532],[13.06196999658505,56.55427028595108],[13.0620415488404,56.5551681732365],[13.06041816329525,56.55520650115028],[13.06048968170512,56.55610438956671],[13.06373652541049,56.55602771139036],[13.06387972544508,56.5578234844852],[13.08011451850274,56.55743885449266]]],"type":"Polygon"}
+}

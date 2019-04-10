@@ -1,0 +1,70 @@
+{
+  "id": 1260037957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.45,65.5,15.45,65.5",
+    "geom:latitude":65.5,
+    "geom:longitude":15.45,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"2421.0",
+    "gn:asciiname":"Ronnback",
+    "gn:country_code":"SE",
+    "gn:dem":371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2681855,
+    "gn:latitude":65.5,
+    "gn:longitude":15.45,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"R\u00f6nnb\u00e4ck",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688465,
+        102191581,
+        1125417057,
+        85633789,
+        1159303007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2681855
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"bbd16a6f73a737a9b99b8da1154f9ada",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303007,
+            "localadmin_id":1125417057,
+            "locality_id":1260037957,
+            "region_id":85688465
+        }
+    ],
+    "wof:id":1260037957,
+    "wof:lastmodified":1537051576,
+    "wof:name":"Ronnback",
+    "wof:parent_id":1125417057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.45,
+    65.5,
+    15.45,
+    65.5
+],
+  "geometry": {"coordinates":[15.45,65.5],"type":"Point"}
+}

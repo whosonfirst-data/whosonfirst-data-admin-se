@@ -1,0 +1,68 @@
+{
+  "id": 1310312849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.65,56.21667,15.65,56.21667",
+    "geom:latitude":56.21667,
+    "geom:longitude":15.65,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"1080.0",
+    "gn:asciiname":"Spandelstorp",
+    "gn:country_code":"SE",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3331081,
+    "gn:latitude":56.21667,
+    "gn:longitude":15.65,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Spandelstorp",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688383,
+        1159306125,
+        1159303467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3331081
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"440582f247debefe1b5e8f703034a349",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "county_id":1159303467,
+            "localadmin_id":1159306125,
+            "locality_id":1310312849,
+            "region_id":85688383
+        }
+    ],
+    "wof:id":1310312849,
+    "wof:lastmodified":1536697473,
+    "wof:name":"Spandelstorp",
+    "wof:parent_id":1159306125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.65,
+    56.21666999999999,
+    15.65,
+    56.21666999999999
+],
+  "geometry": {"coordinates":[15.65,56.21666999999999],"type":"Point"}
+}

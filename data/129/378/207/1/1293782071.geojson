@@ -1,0 +1,70 @@
+{
+  "id": 1293782071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.34866,57.52005,18.34866,57.52005",
+    "geom:latitude":57.52005,
+    "geom:longitude":18.34866,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"980.0",
+    "gn:asciiname":"Vall",
+    "gn:country_code":"SE",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2665610,
+    "gn:latitude":57.52005,
+    "gn:longitude":18.34866,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Vall",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688405,
+        102191581,
+        1125287051,
+        85633789,
+        1159303535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2665610
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"53bfafe7d5abb184364c6da79613d0ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303535,
+            "localadmin_id":1125287051,
+            "locality_id":1293782071,
+            "region_id":85688405
+        }
+    ],
+    "wof:id":1293782071,
+    "wof:lastmodified":1536858190,
+    "wof:name":"Vall",
+    "wof:parent_id":1125287051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.34866,
+    57.52005,
+    18.34866,
+    57.52005
+],
+  "geometry": {"coordinates":[18.34866,57.52005],"type":"Point"}
+}

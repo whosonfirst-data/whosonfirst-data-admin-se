@@ -1,0 +1,78 @@
+{
+  "id": 1326688359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.18333,59.0,14.18333,59.0",
+    "geom:latitude":59.0,
+    "geom:longitude":14.18333,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Sodra Rada",
+    "gn:country_code":"SE",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2675728,
+    "gn:latitude":59.0,
+    "gn:longitude":14.18333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"S\u00f6dra R\u00e5da",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "S\u00f6dra R\u00e5da"
+    ],
+    "name:nor_x_variant":[
+        "S\u00f8dra R\u00e5da"
+    ],
+    "name:und_x_variant":[
+        "S\u00f6dra R\u00e5da"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688411,
+        102191581,
+        1159306079,
+        85633789,
+        1159303027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2675728
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"282cad10655ed11831a487e54b8ee577",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303027,
+            "localadmin_id":1159306079,
+            "locality_id":1326688359,
+            "region_id":85688411
+        }
+    ],
+    "wof:id":1326688359,
+    "wof:lastmodified":1537699817,
+    "wof:name":"Sodra Rada",
+    "wof:parent_id":1159306079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.18333,
+    59.0,
+    14.18333,
+    59.0
+],
+  "geometry": {"coordinates":[14.18333,59.0],"type":"Point"}
+}

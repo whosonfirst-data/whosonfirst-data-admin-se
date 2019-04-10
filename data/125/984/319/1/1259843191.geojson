@@ -1,0 +1,70 @@
+{
+  "id": 1259843191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.76667,58.38333,14.76667,58.38333",
+    "geom:latitude":58.38333,
+    "geom:longitude":14.76667,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"584.0",
+    "gn:asciiname":"Kallstad",
+    "gn:country_code":"SE",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2702322,
+    "gn:latitude":58.38333,
+    "gn:longitude":14.76667,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"K\u00e4llstad",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688409,
+        102191581,
+        1159306667,
+        85633789,
+        1159303411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2702322
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"94b4b74cdf4d1ff05e02a5244e9b2526",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303411,
+            "localadmin_id":1159306667,
+            "locality_id":1259843191,
+            "region_id":85688409
+        }
+    ],
+    "wof:id":1259843191,
+    "wof:lastmodified":1536836266,
+    "wof:name":"Kallstad",
+    "wof:parent_id":1159306667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.76667,
+    58.38333000000001,
+    14.76667,
+    58.38333000000001
+],
+  "geometry": {"coordinates":[14.76667,58.38333000000001],"type":"Point"}
+}

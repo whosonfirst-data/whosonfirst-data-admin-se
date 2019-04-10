@@ -1,0 +1,70 @@
+{
+  "id": 1242583927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.68333,60.9,16.68333,60.9",
+    "geom:latitude":60.9,
+    "geom:longitude":16.68333,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"2101.0",
+    "gn:asciiname":"Vreten",
+    "gn:country_code":"SE",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2662331,
+    "gn:latitude":60.9,
+    "gn:longitude":16.68333,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Vreten",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688453,
+        102191581,
+        1125382057,
+        85633789,
+        1159303283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2662331
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"3a8db0e36959785f69641a44c66ceb5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303283,
+            "localadmin_id":1125382057,
+            "locality_id":1242583927,
+            "region_id":85688453
+        }
+    ],
+    "wof:id":1242583927,
+    "wof:lastmodified":1537052251,
+    "wof:name":"Vreten",
+    "wof:parent_id":1125382057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.68333,
+    60.9,
+    16.68333,
+    60.9
+],
+  "geometry": {"coordinates":[16.68333,60.9],"type":"Point"}
+}

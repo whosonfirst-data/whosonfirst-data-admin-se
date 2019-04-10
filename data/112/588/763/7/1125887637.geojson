@@ -1,0 +1,116 @@
+{
+  "id": 1125887637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.13333,59.73333,13.13333,59.73333",
+    "geom:latitude":59.73333,
+    "geom:longitude":13.13333,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":371,
+    "gn:population":382,
+    "iso:country":"SE",
+    "lbl:latitude":59.73333,
+    "lbl:longitude":13.13333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "V\u00e4stra \u00c4mtervik"
+    ],
+    "name:eng_x_preferred":[
+        "V\u00e4stra \u00c4mtervik"
+    ],
+    "name:nan_x_preferred":[
+        "V\u00e4stra \u00c4mtervik"
+    ],
+    "name:nno_x_preferred":[
+        "V\u00e4stra \u00c4mtervik"
+    ],
+    "name:nob_x_preferred":[
+        "V\u00e4stra \u00c4mtervik"
+    ],
+    "name:swe_x_preferred":[
+        "V\u00e4stra \u00c4mtervik"
+    ],
+    "name:unk_x_variant":[
+        "Emtervik"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2664151,
+    "qs_pg:gn_pop":371,
+    "qs_pg:name":"V\u00e4stra \u00c4mtervik",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"V\u00e4rmlands L\u00e4n",
+    "qs_pg:photos":84,
+    "qs_pg:photos_1k":17,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":84,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1220235,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":909464,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"V\u00e4rmlands L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688435,
+        102191581,
+        1125417487,
+        85633789,
+        1159303019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2664151,
+        "gp:id":909464,
+        "qs_pg:id":1220235,
+        "wd:id":"Q2692715"
+    },
+    "wof:country":"SE",
+    "wof:created":1497295165,
+    "wof:geomhash":"4117e9293d6fb43f56cc78276233604b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303019,
+            "localadmin_id":1125417487,
+            "locality_id":1125887637,
+            "region_id":85688435
+        }
+    ],
+    "wof:id":1125887637,
+    "wof:lastmodified":1529702943,
+    "wof:name":"V\u00e4stra \u00c4mtervik",
+    "wof:parent_id":1125417487,
+    "wof:placetype":"locality",
+    "wof:population":382,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.13333,
+    59.73333,
+    13.13333,
+    59.73333
+],
+  "geometry": {"coordinates":[13.13333,59.73333],"type":"Point"}
+}

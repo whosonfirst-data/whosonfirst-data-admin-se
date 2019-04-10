@@ -1,0 +1,70 @@
+{
+  "id": 1327014483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.31667,57.65,14.31667,57.65",
+    "geom:latitude":57.65,
+    "geom:longitude":14.31667,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"680.0",
+    "gn:asciiname":"Almvik",
+    "gn:country_code":"SE",
+    "gn:dem":226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2726531,
+    "gn:latitude":57.65,
+    "gn:longitude":14.31667,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"\u00c4lmvik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688395,
+        102191581,
+        1125326491,
+        85633789,
+        1159303375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2726531
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"6b25bfa751b53c6f486a177b1e3666df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303375,
+            "localadmin_id":1125326491,
+            "locality_id":1327014483,
+            "region_id":85688395
+        }
+    ],
+    "wof:id":1327014483,
+    "wof:lastmodified":1536786861,
+    "wof:name":"Almvik",
+    "wof:parent_id":1125326491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.31667,
+    57.65,
+    14.31667,
+    57.65
+],
+  "geometry": {"coordinates":[14.31667,57.65],"type":"Point"}
+}

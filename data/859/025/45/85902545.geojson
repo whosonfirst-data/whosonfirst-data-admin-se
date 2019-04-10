@@ -1,0 +1,112 @@
+{
+  "id": 85902545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":16961570.426275,
+    "geom:bbox":"12.595182,59.656497,12.595182,59.656497",
+    "geom:latitude":59.656497,
+    "geom:longitude":12.595182,
+    "gn:latitude":59.66667,
+    "gn:longitude":12.6,
+    "iso:country":"SE",
+    "lbl:latitude":59.656497,
+    "lbl:longitude":12.595182,
+    "mps:latitude":59.659442,
+    "mps:longitude":12.592844,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":1,
+    "name:swe_x_preferred":[
+        "Taserud"
+    ],
+    "name:unk_x_variant":[
+        "Taserud"
+    ],
+    "qs:gn_adm0_cc":"SE",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2725123,
+    "qs:gn_nam_loc":"Arvika, Arvika, V\u00e4rmlands L\u00e4n, SE",
+    "qs:gn_namadm1":"22",
+    "qs:gn_name":"Taserud",
+    "qs:local_max":802,
+    "qs:local_sum":1247,
+    "qs:localhoods":2,
+    "qs:name":"Taserud",
+    "qs:name_adm0":"Sverige",
+    "qs:name_adm1":"V\u00e4rmlands L\u00e4n",
+    "qs:name_adm2":"Arvika",
+    "qs:name_local":"Arvika",
+    "qs:photo_max":65,
+    "qs:photo_sum":445,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":44,
+    "qs:woe_adm0":23424954,
+    "qs:woe_adm1":2347063,
+    "qs:woe_adm2":12587414,
+    "qs:woe_lau":0,
+    "qs:woe_local":885131,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85688435,
+        102191581,
+        1125286877,
+        85633789,
+        101815985,
+        1159303075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2669315,
+        "gp:id":907326,
+        "qs:id":1080967,
+        "qs_pg:id":1080967
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"1fb6e22833a25fcbd597cdcf66dc47d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303075,
+            "localadmin_id":1125286877,
+            "locality_id":101815985,
+            "neighbourhood_id":85902545,
+            "region_id":85688435
+        }
+    ],
+    "wof:id":85902545,
+    "wof:lang":[
+        "swe"
+    ],
+    "wof:lastmodified":1531935904,
+    "wof:name":"Taserud",
+    "wof:parent_id":101815985,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.595182,
+    59.656497,
+    12.595182,
+    59.656497
+],
+  "geometry": {"coordinates":[12.595182,59.656497],"type":"Point"}
+}

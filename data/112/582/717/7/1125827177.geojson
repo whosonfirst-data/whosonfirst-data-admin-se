@@ -1,0 +1,108 @@
+{
+  "id": 1125827177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.71667,57.73333,11.71667,57.73333",
+    "geom:latitude":57.73333,
+    "geom:longitude":11.71667,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":448,
+    "gn:population":623,
+    "iso:country":"SE",
+    "lbl:latitude":57.73333,
+    "lbl:longitude":11.71667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0422\u0443\u043c\u043b\u0435\u0445\u0435\u0434"
+    ],
+    "name:dut_x_preferred":[
+        "Tumlehed"
+    ],
+    "name:eng_x_preferred":[
+        "Tumlehed"
+    ],
+    "name:fre_x_preferred":[
+        "Tumlehed"
+    ],
+    "name:nan_x_preferred":[
+        "Tumlehed"
+    ],
+    "name:nno_x_preferred":[
+        "Tumlehed"
+    ],
+    "name:nob_x_preferred":[
+        "Tumlehed"
+    ],
+    "name:sco_x_preferred":[
+        "Tumlehed"
+    ],
+    "name:swe_x_preferred":[
+        "Tumlehed"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2667088,
+    "qs_pg:gn_pop":448,
+    "qs_pg:name":"Tumlehed",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":575602,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688411,
+        102191581,
+        1125410003,
+        85633789,
+        1159302989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2667088,
+        "qs_pg:id":575602,
+        "wd:id":"Q2126899"
+    },
+    "wof:country":"SE",
+    "wof:created":1497292330,
+    "wof:geomhash":"ff58c964697d54a0e367d6b55a23ba24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302989,
+            "localadmin_id":1125410003,
+            "locality_id":1125827177,
+            "region_id":85688411
+        }
+    ],
+    "wof:id":1125827177,
+    "wof:lastmodified":1529702266,
+    "wof:name":"Tumlehed",
+    "wof:parent_id":1125410003,
+    "wof:placetype":"locality",
+    "wof:population":623,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.71667,
+    57.73333,
+    11.71667,
+    57.73333
+],
+  "geometry": {"coordinates":[11.71667,57.73333],"type":"Point"}
+}

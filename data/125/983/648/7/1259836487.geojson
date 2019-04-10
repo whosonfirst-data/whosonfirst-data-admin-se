@@ -1,0 +1,70 @@
+{
+  "id": 1259836487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.1,59.6,16.1,59.6",
+    "geom:latitude":59.6,
+    "geom:longitude":16.1,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1983.0",
+    "gn:asciiname":"Vedbo",
+    "gn:country_code":"SE",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2663494,
+    "gn:latitude":59.6,
+    "gn:longitude":16.1,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Vedbo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688425,
+        102191581,
+        1125327745,
+        85633789,
+        1159303439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2663494
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"1f7e954427346e1524eeeda1d85ff25c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303439,
+            "localadmin_id":1125327745,
+            "locality_id":1259836487,
+            "region_id":85688425
+        }
+    ],
+    "wof:id":1259836487,
+    "wof:lastmodified":1536845906,
+    "wof:name":"Vedbo",
+    "wof:parent_id":1125327745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.1,
+    59.6,
+    16.1,
+    59.6
+],
+  "geometry": {"coordinates":[16.1,59.6],"type":"Point"}
+}

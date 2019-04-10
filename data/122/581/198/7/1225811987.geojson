@@ -1,0 +1,79 @@
+{
+  "id": 1225811987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.93379,59.02791,17.93379,59.02791",
+    "geom:latitude":59.02791,
+    "geom:longitude":17.93379,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"192.0",
+    "gn:admin3_code":"19204.0",
+    "gn:admin4_code":"120.0",
+    "gn:asciiname":"Segersaeng",
+    "gn:country_code":"SE",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2679558,
+    "gn:latitude":59.02791,
+    "gn:longitude":17.93379,
+    "gn:modification_date":"2017-03-18",
+    "gn:name":"Segers\u00e4ng",
+    "gn:population":757,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Segers\u00e4ng"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688429,
+        102191581,
+        1125286449,
+        85633789,
+        1159303285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2679558,
+        "wk:page":"Segers%C3%A4ng"
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"4bcdcaa07ec2f1fe86baad7b07f22ce1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303285,
+            "localadmin_id":1125286449,
+            "locality_id":1225811987,
+            "region_id":85688429
+        }
+    ],
+    "wof:id":1225811987,
+    "wof:lastmodified":1537699849,
+    "wof:name":"Segersaeng",
+    "wof:parent_id":1125286449,
+    "wof:placetype":"locality",
+    "wof:population":757,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.93379,
+    59.02791,
+    17.93379,
+    59.02791
+],
+  "geometry": {"coordinates":[17.93379,59.02791],"type":"Point"}
+}

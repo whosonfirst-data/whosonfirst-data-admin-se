@@ -1,0 +1,112 @@
+{
+  "id": 101817827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000149,
+    "geom:area_square_m":1035186.767546,
+    "geom:bbox":"13.1390119493,55.8590303887,13.1742394884,55.8701584974",
+    "geom:latitude":55.864054,
+    "geom:longitude":13.157975,
+    "iso:country":"SE",
+    "lbl:latitude":55.865281,
+    "lbl:longitude":13.156773,
+    "mps:latitude":55.865281,
+    "mps:longitude":13.156773,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Marieholm"
+    ],
+    "name:eng_x_preferred":[
+        "Marieholm"
+    ],
+    "name:nld_x_preferred":[
+        "Marieholm"
+    ],
+    "name:nno_x_preferred":[
+        "Marieholm"
+    ],
+    "name:nob_x_preferred":[
+        "Marieholm"
+    ],
+    "name:nor_x_preferred":[
+        "Marieholm"
+    ],
+    "name:swe_x_preferred":[
+        "Marieholm"
+    ],
+    "name:swe_x_variant":[
+        "Marieholms"
+    ],
+    "name:unk_x_variant":[
+        "Marieholmsbruk"
+    ],
+    "qs:a0":"Sverige",
+    "qs:a1":"*Sk\u00e5ne l\u00e4n",
+    "qs:a1r":"0",
+    "qs:adm0":"Sverige",
+    "qs:la":"Esl\u00f6v",
+    "qs:la_lc":"*SE1285",
+    "qs:level":"locality",
+    "qs:loc":"Marieholm",
+    "qs:loc_alt":"Marieholm",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85688377,
+        102191581,
+        1125340501,
+        85633789,
+        1159303151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06d24f44-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2692624,
+        "gp:id":898227,
+        "qs:id":191399,
+        "qs_pg:id":1008200,
+        "wd:id":"Q2580603",
+        "wk:page":"Marieholm, Esl\u00f6v"
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"5e5f4c9c82b5ad1718c9807ab9001e89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303151,
+            "localadmin_id":1125340501,
+            "locality_id":101817827,
+            "region_id":85688377
+        }
+    ],
+    "wof:id":101817827,
+    "wof:lang":[
+        "swe"
+    ],
+    "wof:lastmodified":1529702660,
+    "wof:name":"Marieholm",
+    "wof:parent_id":1125340501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.13901194927041,
+    55.85903038868315,
+    13.17423948843651,
+    55.87015849741135
+],
+  "geometry": {"coordinates":[[[13.16198636245173,55.87000068684267],[13.16191425494702,55.86910296575462],[13.16031929952169,55.86914244723067],[13.16003105377939,55.86555155944745],[13.1632206716493,55.8654725847922],[13.16314854753693,55.86457486506373],[13.16633808098356,55.86449581284779],[13.16626588831463,55.86359809523822],[13.17423948843651,55.86340012154193],[13.17395003234503,55.85980927232288],[13.16916631607711,55.85992810390729],[13.16909407060103,55.85903038868315],[13.1674995287654,55.85906995838428],[13.16757173800949,55.85996767463547],[13.16597715695548,55.86000722546385],[13.16604933389846,55.86090494280791],[13.16286009036696,55.86098398681582],[13.16293219876781,55.86188170627798],[13.15017481556322,55.86219709446289],[13.15010299706398,55.86129936681368],[13.14212971716086,55.86149583252512],[13.14220135446368,55.8623935652746],[13.13901194927041,55.86247201428546],[13.13908351799097,55.86336974913849],[13.14386773006242,55.86325204271344],[13.14401109666812,55.86504750650994],[13.1519850865742,55.86485092087946],[13.15234447769836,55.86933955602751],[13.15553441536065,55.8692607722258],[13.15560637784478,55.87015849741135],[13.16198636245173,55.87000068684267]]],"type":"Polygon"}
+}

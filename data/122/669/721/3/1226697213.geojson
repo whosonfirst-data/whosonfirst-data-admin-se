@@ -1,0 +1,79 @@
+{
+  "id": 1226697213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.0,57.86667,12.0,57.86667",
+    "geom:latitude":57.86667,
+    "geom:longitude":12.0,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"1482.0",
+    "gn:asciiname":"Goddered",
+    "gn:country_code":"SE",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2711752,
+    "gn:latitude":57.86667,
+    "gn:longitude":12.0,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"G\u00f6ddered",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "G\u00f6ddered"
+    ],
+    "name:nor_x_variant":[
+        "G\u00f8ddered"
+    ],
+    "name:und_x_variant":[
+        "G\u00f6ddered"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688411,
+        102191581,
+        1125325407,
+        85633789,
+        1159303109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2711752
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"0752b17c4ecfde860677c441fddf1f01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303109,
+            "localadmin_id":1125325407,
+            "locality_id":1226697213,
+            "region_id":85688411
+        }
+    ],
+    "wof:id":1226697213,
+    "wof:lastmodified":1537700065,
+    "wof:name":"Goddered",
+    "wof:parent_id":1125325407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.0,
+    57.86666999999999,
+    12.0,
+    57.86666999999999
+],
+  "geometry": {"coordinates":[12.0,57.86666999999999],"type":"Point"}
+}

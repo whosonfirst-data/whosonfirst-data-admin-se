@@ -1,0 +1,70 @@
+{
+  "id": 1260361205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.03333,58.25,15.03333,58.25",
+    "geom:latitude":58.25,
+    "geom:longitude":15.03333,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"560.0",
+    "gn:asciiname":"Ekeby",
+    "gn:country_code":"SE",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2716673,
+    "gn:latitude":58.25,
+    "gn:longitude":15.03333,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Ekeby",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688409,
+        102191581,
+        1125325833,
+        85633789,
+        1159303501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2716673
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"f15f7d066df32f7e0c2b0165f7bf76f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303501,
+            "localadmin_id":1125325833,
+            "locality_id":1260361205,
+            "region_id":85688409
+        }
+    ],
+    "wof:id":1260361205,
+    "wof:lastmodified":1536604877,
+    "wof:name":"Ekeby",
+    "wof:parent_id":1125325833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.03333,
+    58.25,
+    15.03333,
+    58.25
+],
+  "geometry": {"coordinates":[15.03333,58.25],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293354089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.39972,58.56667,16.39972,58.56667",
+    "geom:latitude":58.56667,
+    "geom:longitude":16.39972,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"581.0",
+    "gn:asciiname":"Vasby",
+    "gn:country_code":"SE",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2664726,
+    "gn:latitude":58.56667,
+    "gn:longitude":16.39972,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"V\u00e4sby",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688409,
+        102191581,
+        1159305681,
+        85633789,
+        1159303229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2664726
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"9a925b1c7a72b8528ac94182ac3f83c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303229,
+            "localadmin_id":1159305681,
+            "locality_id":1293354089,
+            "region_id":85688409
+        }
+    ],
+    "wof:id":1293354089,
+    "wof:lastmodified":1536978885,
+    "wof:name":"Vasby",
+    "wof:parent_id":1159305681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.39972,
+    58.56667,
+    16.39972,
+    58.56667
+],
+  "geometry": {"coordinates":[16.39972,58.56667],"type":"Point"}
+}

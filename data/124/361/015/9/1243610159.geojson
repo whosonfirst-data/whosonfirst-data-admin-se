@@ -1,0 +1,70 @@
+{
+  "id": 1243610159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.8,65.41667,14.8,65.41667",
+    "geom:latitude":65.41667,
+    "geom:longitude":14.8,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"2462.0",
+    "gn:asciiname":"Granssjo",
+    "gn:country_code":"SE",
+    "gn:dem":551,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2711038,
+    "gn:latitude":65.41667,
+    "gn:longitude":14.8,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Gr\u00e4nssj\u00f6",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688465,
+        102191581,
+        1125363705,
+        85633789,
+        1159303033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2711038
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"0b4a2806ccf1384bd31085bbc1af9c80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303033,
+            "localadmin_id":1125363705,
+            "locality_id":1243610159,
+            "region_id":85688465
+        }
+    ],
+    "wof:id":1243610159,
+    "wof:lastmodified":1537063873,
+    "wof:name":"Granssjo",
+    "wof:parent_id":1125363705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.8,
+    65.41667,
+    14.8,
+    65.41667
+],
+  "geometry": {"coordinates":[14.8,65.41667],"type":"Point"}
+}

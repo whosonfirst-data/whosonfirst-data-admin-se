@@ -1,0 +1,70 @@
+{
+  "id": 1243527843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.71315,68.4643,18.71315,68.4643",
+    "geom:latitude":68.4643,
+    "geom:longitude":18.71315,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2584.0",
+    "gn:asciiname":"Djupviken",
+    "gn:country_code":"SE",
+    "gn:dem":351,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2717571,
+    "gn:latitude":68.4643,
+    "gn:longitude":18.71315,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Djupviken",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688471,
+        102191581,
+        1125312209,
+        85633789,
+        1159302945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2717571
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"13865bee2be4b9cacf70a5948df2fd64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302945,
+            "localadmin_id":1125312209,
+            "locality_id":1243527843,
+            "region_id":85688471
+        }
+    ],
+    "wof:id":1243527843,
+    "wof:lastmodified":1536688370,
+    "wof:name":"Djupviken",
+    "wof:parent_id":1125312209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.71315,
+    68.4643,
+    18.71315,
+    68.4643
+],
+  "geometry": {"coordinates":[18.71315,68.46429999999999],"type":"Point"}
+}

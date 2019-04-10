@@ -1,0 +1,70 @@
+{
+  "id": 1226344319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.75,56.175,14.75,56.175",
+    "geom:latitude":56.175,
+    "geom:longitude":14.75,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"1082.0",
+    "gn:asciiname":"Forsbacka",
+    "gn:country_code":"SE",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3331394,
+    "gn:latitude":56.175,
+    "gn:longitude":14.75,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Forsbacka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688383,
+        102191581,
+        1125362335,
+        85633789,
+        1159302985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3331394
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"e7d73245de4842f962fcb15e5d779a3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302985,
+            "localadmin_id":1125362335,
+            "locality_id":1226344319,
+            "region_id":85688383
+        }
+    ],
+    "wof:id":1226344319,
+    "wof:lastmodified":1554166244,
+    "wof:name":"Forsbacka",
+    "wof:parent_id":1125362335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.75,
+    56.175,
+    14.75,
+    56.175
+],
+  "geometry": {"coordinates":[14.75,56.175],"type":"Point"}
+}

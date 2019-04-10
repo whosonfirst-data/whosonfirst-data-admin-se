@@ -1,0 +1,69 @@
+{
+  "id": 1108944597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.9440079353,57.644217756,11.9440079353,57.644217756",
+    "geom:latitude":57.644218,
+    "geom:longitude":11.944008,
+    "iso:country":"SE",
+    "lbl:latitude":57.644218,
+    "lbl:longitude":11.944008,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_metro":30,
+    "name:swe_x_preferred":[
+        "\u00d6verg\u00e5rden"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        85688411,
+        102191581,
+        1125287157,
+        85633789,
+        101752295,
+        1159302989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"SE",
+    "wof:created":1491364485,
+    "wof:geomhash":"dbae6b14ef66cf4dbf91b1fa046eb4dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302989,
+            "localadmin_id":1125287157,
+            "locality_id":101752295,
+            "neighbourhood_id":1108944597,
+            "region_id":85688411
+        }
+    ],
+    "wof:id":1108944597,
+    "wof:lastmodified":1529702302,
+    "wof:name":"Overgarden",
+    "wof:parent_id":101752295,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.94400793534899,
+    57.64421775600511,
+    11.94400793534899,
+    57.64421775600511
+],
+  "geometry": {"coordinates":[11.94400793534899,57.64421775600511],"type":"Point"}
+}

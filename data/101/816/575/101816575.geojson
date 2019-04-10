@@ -1,0 +1,123 @@
+{
+  "id": 101816575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000229,
+    "geom:area_square_m":1572548.55727,
+    "geom:bbox":"14.1846615695,56.2594814751,14.2121337801,56.2775265439",
+    "geom:latitude":56.268392,
+    "geom:longitude":14.19816,
+    "gn:population":1383,
+    "iso:country":"SE",
+    "lbl:latitude":56.269131,
+    "lbl:longitude":14.198368,
+    "mps:latitude":56.269131,
+    "mps:longitude":14.198368,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0421\u0438\u0431\u0445\u0443\u043b\u0442"
+    ],
+    "name:dut_x_preferred":[
+        "Sibbhult"
+    ],
+    "name:eng_x_preferred":[
+        "Sibbhult"
+    ],
+    "name:nan_x_preferred":[
+        "Sibbhult"
+    ],
+    "name:nld_x_preferred":[
+        "Sibbhult"
+    ],
+    "name:nno_x_preferred":[
+        "Sibbhult"
+    ],
+    "name:nob_x_preferred":[
+        "Sibbhult"
+    ],
+    "name:nor_x_preferred":[
+        "Sibbhult"
+    ],
+    "name:swe_x_preferred":[
+        "Sibbhult"
+    ],
+    "name:swe_x_variant":[
+        "Sibbhults"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Sibbhult"
+    ],
+    "qs:a0":"Sverige",
+    "qs:a1":"*Sk\u00e5ne l\u00e4n",
+    "qs:a1r":"0",
+    "qs:adm0":"Sverige",
+    "qs:la":"\u00d6stra G\u00f6inge",
+    "qs:la_lc":"*SE1256",
+    "qs:level":"locality",
+    "qs:loc":"Sibbhult",
+    "qs:loc_alt":"Sibbhult",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":46,
+    "wof:belongsto":[
+        85688377,
+        102191581,
+        1125373755,
+        85633789,
+        1159303141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06d2a82c-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2679397,
+        "gp:id":903710,
+        "qs:id":270788,
+        "qs_pg:id":270788,
+        "wd:id":"Q2616737",
+        "wk:page":"Sibbhult"
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"69d7e103c58bb0dda89096f44e0ba0a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303141,
+            "localadmin_id":1125373755,
+            "locality_id":101816575,
+            "region_id":85688377
+        }
+    ],
+    "wof:id":101816575,
+    "wof:lang":[
+        "swe"
+    ],
+    "wof:lastmodified":1529702655,
+    "wof:name":"Sibbhult",
+    "wof:parent_id":1125373755,
+    "wof:placetype":"locality",
+    "wof:population":1383,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.18466156947414,
+    56.25948147505545,
+    14.21213378005734,
+    56.27752654389747
+],
+  "geometry": {"coordinates":[[[14.20163907410364,56.27747401039034],[14.20115316635014,56.27298900621003],[14.20437400721863,56.27288389267653],[14.20427676765593,56.27198689475313],[14.20910788732681,56.27182907776711],[14.20891320209375,56.27003509036746],[14.21213378005734,56.26992978402831],[14.21184157026426,56.26723881160137],[14.20701103040426,56.26739672848788],[14.20652467651377,56.26291175465451],[14.2033046663903,56.2630169182122],[14.20311031034015,56.26122292348947],[14.20150037319297,56.26127547234665],[14.20130611254399,56.25948147505545],[14.19969624534002,56.25953400104612],[14.19989043198012,56.26132800109917],[14.19828048670308,56.26138050974674],[14.19857169571537,56.26407151433318],[14.18569109910777,56.2644908928047],[14.18627188442895,56.2698729694676],[14.18466156947414,56.26992530955187],[14.18475834865046,56.2708223238796],[14.18636870063449,56.27076998241881],[14.18646552216995,56.27166699542011],[14.18807590713152,56.27161463247165],[14.18817277103085,56.27251164414565],[14.19461441843549,56.27230198572579],[14.19480845851479,56.27409599819578],[14.19802940598828,56.27399104279618],[14.19832072840887,56.27668205359225],[14.19993130716387,56.2766295415808],[14.20002846237435,56.27752654389747],[14.20163907410364,56.27747401039034]]],"type":"Polygon"}
+}

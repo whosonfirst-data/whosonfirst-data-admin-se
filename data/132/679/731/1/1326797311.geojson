@@ -1,0 +1,79 @@
+{
+  "id": 1326797311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.75,60.1,18.75,60.1",
+    "geom:latitude":60.1,
+    "geom:longitude":18.75,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"188.0",
+    "gn:asciiname":"Bergboo",
+    "gn:country_code":"SE",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2599583,
+    "gn:latitude":60.1,
+    "gn:longitude":18.75,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Bergbo\u00f6",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Bergbo\u00f6"
+    ],
+    "name:nor_x_variant":[
+        "Bergbo\u00f8"
+    ],
+    "name:und_x_variant":[
+        "Bergbo\u00f6"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688429,
+        102191581,
+        1125286431,
+        85633789,
+        1159302995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2599583
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"cfdc4dba31c13bb35815014452794a82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302995,
+            "localadmin_id":1125286431,
+            "locality_id":1326797311,
+            "region_id":85688429
+        }
+    ],
+    "wof:id":1326797311,
+    "wof:lastmodified":1537699737,
+    "wof:name":"Bergboo",
+    "wof:parent_id":1125286431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.75,
+    60.1,
+    18.75,
+    60.1
+],
+  "geometry": {"coordinates":[18.75,60.1],"type":"Point"}
+}

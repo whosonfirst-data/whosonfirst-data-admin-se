@@ -1,0 +1,81 @@
+{
+  "id": 1259453543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.56667,66.15,21.56667,66.15",
+    "geom:latitude":66.15,
+    "geom:longitude":21.56667,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2582.0",
+    "gn:asciiname":"Ovre Flasjon",
+    "gn:cc2":"SE",
+    "gn:country_code":"SE",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":603807,
+    "gn:latitude":66.15,
+    "gn:longitude":21.56667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"\u00d6vre Fl\u00e5sj\u00f6n",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "\u00d6vre Fl\u00e5sj\u00f6n"
+    ],
+    "name:nor_x_variant":[
+        "\u00d8vre Fl\u00e5sj\u00f8n"
+    ],
+    "name:und_x_variant":[
+        "\u00d6fvre Fl\u00e5sj\u00f6n",
+        "\u00d6vre Fl\u00e5sj\u00f6n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688471,
+        102191581,
+        1125363653,
+        85633789,
+        1159303477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":603807
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"cb0f74a87c9daa9abbfe9f68da529bc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303477,
+            "localadmin_id":1125363653,
+            "locality_id":1259453543,
+            "region_id":85688471
+        }
+    ],
+    "wof:id":1259453543,
+    "wof:lastmodified":1537699711,
+    "wof:name":"Ovre Flasjon",
+    "wof:parent_id":1125363653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.56667,
+    66.15,
+    21.56667,
+    66.15
+],
+  "geometry": {"coordinates":[21.56667,66.15000000000001],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1326951615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.02056,57.40556,12.02056,57.40556",
+    "geom:latitude":57.40556,
+    "geom:longitude":12.02056,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"1384.0",
+    "gn:asciiname":"Rydet",
+    "gn:country_code":"SE",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3205286,
+    "gn:latitude":57.40556,
+    "gn:longitude":12.02056,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Rydet",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688391,
+        102191581,
+        1125407163,
+        85633789,
+        1159303249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3205286
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"36b8f27f9a030d73ad2dc99178f8d50d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303249,
+            "localadmin_id":1125407163,
+            "locality_id":1326951615,
+            "region_id":85688391
+        }
+    ],
+    "wof:id":1326951615,
+    "wof:lastmodified":1536876067,
+    "wof:name":"Rydet",
+    "wof:parent_id":1125407163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.02056,
+    57.40556,
+    12.02056,
+    57.40556
+],
+  "geometry": {"coordinates":[12.02056,57.40556],"type":"Point"}
+}

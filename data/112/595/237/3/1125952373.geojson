@@ -1,0 +1,112 @@
+{
+  "id": 1125952373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.73333,56.8,16.73333,56.8",
+    "geom:latitude":56.8,
+    "geom:longitude":16.73333,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"SE",
+    "lbl:latitude":56.8,
+    "lbl:longitude":16.73333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "St\u00f6rlinge"
+    ],
+    "name:eng_x_preferred":[
+        "St\u00f6rlinge"
+    ],
+    "name:fin_x_preferred":[
+        "St\u00f6rlinge"
+    ],
+    "name:ger_x_preferred":[
+        "St\u00f6rlinge"
+    ],
+    "name:nor_x_preferred":[
+        "St\u00f8rlinge"
+    ],
+    "name:nor_x_variant":[
+        "St\u00f6rlinge"
+    ],
+    "name:swe_x_preferred":[
+        "St\u00f6rlinge"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2671904,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"St\u00f6rlinge",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"Kalmar L\u00e4n",
+    "qs_pg:photos":23,
+    "qs_pg:photos_1k":5,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":23,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":58356,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":906371,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"Kalmar L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688401,
+        102191581,
+        1125355999,
+        85633789,
+        1159303363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2671904,
+        "gp:id":906371,
+        "qs_pg:id":58356,
+        "wd:id":"Q1696296"
+    },
+    "wof:country":"SE",
+    "wof:created":1497297506,
+    "wof:geomhash":"ce0de902a909966c76e0d0308b03e395",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303363,
+            "localadmin_id":1125355999,
+            "locality_id":1125952373,
+            "region_id":85688401
+        }
+    ],
+    "wof:id":1125952373,
+    "wof:lastmodified":1554166249,
+    "wof:name":"St\u00f6rlinge",
+    "wof:parent_id":1125355999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.73333,
+    56.8,
+    16.73333,
+    56.8
+],
+  "geometry": {"coordinates":[16.73333,56.8],"type":"Point"}
+}

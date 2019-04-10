@@ -1,0 +1,77 @@
+{
+  "id": 1327452123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.83333,56.5,15.83333,56.5",
+    "geom:latitude":56.5,
+    "geom:longitude":15.83333,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"834.0",
+    "gn:asciiname":"Karsjo",
+    "gn:country_code":"SE",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2701470,
+    "gn:latitude":56.5,
+    "gn:longitude":15.83333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Karsj\u00f6",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Karsj\u00f6"
+    ],
+    "name:nor_x_variant":[
+        "Karsj\u00f8"
+    ],
+    "name:und_x_variant":[
+        "Karsj\u00f6"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688401,
+        1125382177,
+        1159303291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2701470
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"7e95fd03a3d0e0e7fb2b57c7843c509e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "county_id":1159303291,
+            "localadmin_id":1125382177,
+            "locality_id":1327452123,
+            "region_id":85688401
+        }
+    ],
+    "wof:id":1327452123,
+    "wof:lastmodified":1537700003,
+    "wof:name":"Karsjo",
+    "wof:parent_id":1125382177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.83333,
+    56.5,
+    15.83333,
+    56.5
+],
+  "geometry": {"coordinates":[15.83333,56.5],"type":"Point"}
+}

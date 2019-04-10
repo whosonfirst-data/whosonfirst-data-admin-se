@@ -1,0 +1,79 @@
+{
+  "id": 1242739097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.16667,58.48333,14.16667,58.48333",
+    "geom:latitude":58.48333,
+    "geom:longitude":14.16667,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"1472.0",
+    "gn:asciiname":"Honsa",
+    "gn:country_code":"SE",
+    "gn:dem":108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2705073,
+    "gn:latitude":58.48333,
+    "gn:longitude":14.16667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"H\u00f6nsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "H\u00f6nsa"
+    ],
+    "name:nor_x_variant":[
+        "H\u00f8nsa"
+    ],
+    "name:und_x_variant":[
+        "H\u00f6nsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688411,
+        102191581,
+        1125288355,
+        85633789,
+        1159302957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2705073
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"0cc54146559b9612a202b68358482dd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302957,
+            "localadmin_id":1125288355,
+            "locality_id":1242739097,
+            "region_id":85688411
+        }
+    ],
+    "wof:id":1242739097,
+    "wof:lastmodified":1537700019,
+    "wof:name":"Honsa",
+    "wof:parent_id":1125288355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.16667,
+    58.48333,
+    14.16667,
+    58.48333
+],
+  "geometry": {"coordinates":[14.16667,58.48333],"type":"Point"}
+}

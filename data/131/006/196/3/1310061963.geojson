@@ -1,0 +1,75 @@
+{
+  "id": 1310061963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.21667,60.03333,13.21667,60.03333",
+    "geom:latitude":60.03333,
+    "geom:longitude":13.21667,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1766.0",
+    "gn:asciiname":"Ransbysater",
+    "gn:cc2":"SE",
+    "gn:country_code":"SE",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2683188,
+    "gn:latitude":60.03333,
+    "gn:longitude":13.21667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ransbys\u00e4ter",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ransbys\u00e4tter",
+        "Ransbys\u00e4ter"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688435,
+        102191581,
+        1125325141,
+        85633789,
+        1159303019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2683188
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"3f6547513d7e7c40c5ac63927fde31f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303019,
+            "localadmin_id":1125325141,
+            "locality_id":1310061963,
+            "region_id":85688435
+        }
+    ],
+    "wof:id":1310061963,
+    "wof:lastmodified":1537699871,
+    "wof:name":"Ransbysater",
+    "wof:parent_id":1125325141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.21667,
+    60.03333000000001,
+    13.21667,
+    60.03333000000001
+],
+  "geometry": {"coordinates":[13.21667,60.03333000000001],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293051821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.23333,58.25,14.23333,58.25",
+    "geom:latitude":58.25,
+    "geom:longitude":14.23333,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"1497.0",
+    "gn:asciiname":"Trollebo",
+    "gn:country_code":"SE",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2667320,
+    "gn:latitude":58.25,
+    "gn:longitude":14.23333,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Trollebo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688411,
+        102191581,
+        1159306055,
+        85633789,
+        1159303153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2667320
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"6cb79dda83a7ab63a48d581f75fdd266",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303153,
+            "localadmin_id":1159306055,
+            "locality_id":1293051821,
+            "region_id":85688411
+        }
+    ],
+    "wof:id":1293051821,
+    "wof:lastmodified":1536918980,
+    "wof:name":"Trollebo",
+    "wof:parent_id":1159306055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.23333,
+    58.25,
+    14.23333,
+    58.25
+],
+  "geometry": {"coordinates":[14.23333,58.25],"type":"Point"}
+}

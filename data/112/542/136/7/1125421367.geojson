@@ -1,0 +1,77 @@
+{
+  "id": 1125421367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-05-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.15926,59.28664,16.15926,59.28664",
+    "geom:latitude":59.28664,
+    "geom:longitude":16.15926,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":4354,
+    "gn:population":4354,
+    "iso:country":"SE",
+    "lbl:latitude":59.28664,
+    "lbl:longitude":16.15926,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8132121,
+    "qs_pg:gn_pop":4354,
+    "qs_pg:name":"V\u00e4stra Rekarne",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":757950,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633789,
+        85688419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8132121,
+        "qs_pg:id":757950
+    },
+    "wof:country":"SE",
+    "wof:created":1497052306,
+    "wof:geomhash":"5abbd73c8ed82d2ad5132ce3594aa90a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "localadmin_id":1125421367,
+            "region_id":85688419
+        }
+    ],
+    "wof:id":1125421367,
+    "wof:lastmodified":1525735523,
+    "wof:name":"V\u00e4stra Rekarne",
+    "wof:parent_id":85688419,
+    "wof:placetype":"localadmin",
+    "wof:population":4354,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.15926,
+    59.28664,
+    16.15926,
+    59.28664
+],
+  "geometry": {"coordinates":[16.15926,59.28664],"type":"Point"}
+}

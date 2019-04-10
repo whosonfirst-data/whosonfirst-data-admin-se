@@ -1,0 +1,70 @@
+{
+  "id": 1344112915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.45,65.21667,20.45,65.21667",
+    "geom:latitude":65.21667,
+    "geom:longitude":20.45,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"2482.0",
+    "gn:asciiname":"Aselet",
+    "gn:country_code":"SE",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":606766,
+    "gn:latitude":65.21667,
+    "gn:longitude":20.45,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"\u00c5selet",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688465,
+        102191581,
+        1125371357,
+        85633789,
+        1159303205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":606766
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"56753a2c2f373ec82fea5ad64d6d5738",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303205,
+            "localadmin_id":1125371357,
+            "locality_id":1344112915,
+            "region_id":85688465
+        }
+    ],
+    "wof:id":1344112915,
+    "wof:lastmodified":1536800129,
+    "wof:name":"Aselet",
+    "wof:parent_id":1125371357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.45,
+    65.21667,
+    20.45,
+    65.21667
+],
+  "geometry": {"coordinates":[20.45,65.21666999999999],"type":"Point"}
+}

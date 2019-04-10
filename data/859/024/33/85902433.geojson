@@ -1,0 +1,116 @@
+{
+  "id": 85902433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":5978549.12718,
+    "geom:bbox":"16.392563,61.346712,16.392563,61.346712",
+    "geom:latitude":61.346712,
+    "geom:longitude":16.392563,
+    "gn:latitude":61.35,
+    "gn:longitude":16.38333,
+    "iso:country":"SE",
+    "lbl:latitude":61.346712,
+    "lbl:longitude":16.392563,
+    "mps:latitude":61.34746,
+    "mps:longitude":16.394318,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":1,
+    "name:swe_x_colloquial":[
+        "Saeversta",
+        "Saversta"
+    ],
+    "name:swe_x_preferred":[
+        "S\u00e4versta"
+    ],
+    "name:unk_x_variant":[
+        "S\u00e4versta"
+    ],
+    "qs:gn_adm0_cc":"SE",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2720679,
+    "qs:gn_nam_loc":"Bolln\u00e4s, Bolln\u00e4s, G\u00e4vleborgs L\u00e4n, SE",
+    "qs:gn_namadm1":"03",
+    "qs:gn_name":"S\u00e4versta",
+    "qs:local_max":80,
+    "qs:local_sum":147,
+    "qs:localhoods":3,
+    "qs:name":"S\u00e4versta",
+    "qs:name_adm0":"Sverige",
+    "qs:name_adm1":"G\u00e4vleborgs L\u00e4n",
+    "qs:name_adm2":"Bolln\u00e4s",
+    "qs:name_local":"Bolln\u00e4s",
+    "qs:photo_max":27,
+    "qs:photo_sum":80,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":20,
+    "qs:woe_adm0":23424954,
+    "qs:woe_adm1":2347046,
+    "qs:woe_adm2":12587223,
+    "qs:woe_lau":0,
+    "qs:woe_local":887142,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85688453,
+        102191581,
+        1125382105,
+        85633789,
+        101816135,
+        1159303465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2679731,
+        "gp:id":903564,
+        "qs:id":983905,
+        "qs_pg:id":983905
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"4167835d168170225d4cd1c2bc1475a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303465,
+            "localadmin_id":1125382105,
+            "locality_id":101816135,
+            "neighbourhood_id":85902433,
+            "region_id":85688453
+        }
+    ],
+    "wof:id":85902433,
+    "wof:lang":[
+        "swe"
+    ],
+    "wof:lastmodified":1531935892,
+    "wof:name":"S\u00e4versta",
+    "wof:parent_id":101816135,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.392563,
+    61.346712,
+    16.392563,
+    61.346712
+],
+  "geometry": {"coordinates":[16.392563,61.346712],"type":"Point"}
+}

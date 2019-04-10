@@ -1,0 +1,79 @@
+{
+  "id": 1209707571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.0,57.05,13.0,57.05",
+    "geom:latitude":57.05,
+    "geom:longitude":13.0,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"1382.0",
+    "gn:asciiname":"Ovra Langhult",
+    "gn:country_code":"SE",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2684906,
+    "gn:latitude":57.05,
+    "gn:longitude":13.0,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"\u00d6vra L\u00e5nghult",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "\u00d6vra L\u00e5nghult"
+    ],
+    "name:nor_x_variant":[
+        "\u00d8vra L\u00e5nghult"
+    ],
+    "name:und_x_variant":[
+        "\u00d6vra L\u00e5nghult"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688391,
+        102191581,
+        1125423231,
+        85633789,
+        1159303247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2684906
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"35a8a1d58d573d8cff6baf6d7c2a0f54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303247,
+            "localadmin_id":1125423231,
+            "locality_id":1209707571,
+            "region_id":85688391
+        }
+    ],
+    "wof:id":1209707571,
+    "wof:lastmodified":1537699881,
+    "wof:name":"Ovra Langhult",
+    "wof:parent_id":1125423231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.0,
+    57.05,
+    13.0,
+    57.05
+],
+  "geometry": {"coordinates":[13.0,57.05],"type":"Point"}
+}

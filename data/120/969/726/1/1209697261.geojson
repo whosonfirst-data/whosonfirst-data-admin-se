@@ -1,0 +1,70 @@
+{
+  "id": 1209697261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.95,58.35,15.95,58.35",
+    "geom:latitude":58.35,
+    "geom:longitude":15.95,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"580.0",
+    "gn:asciiname":"Rolgen",
+    "gn:country_code":"SE",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2681955,
+    "gn:latitude":58.35,
+    "gn:longitude":15.95,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Rolgen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688409,
+        102191581,
+        1159306031,
+        85633789,
+        1159303147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2681955
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"0b0ff42da04f2db16f10ce7a16efe4c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303147,
+            "localadmin_id":1159306031,
+            "locality_id":1209697261,
+            "region_id":85688409
+        }
+    ],
+    "wof:id":1209697261,
+    "wof:lastmodified":1536396585,
+    "wof:name":"Rolgen",
+    "wof:parent_id":1159306031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.95,
+    58.35,
+    15.95,
+    58.35
+],
+  "geometry": {"coordinates":[15.95,58.35],"type":"Point"}
+}

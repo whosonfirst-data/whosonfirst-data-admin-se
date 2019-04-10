@@ -1,0 +1,70 @@
+{
+  "id": 1209785531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.43333,58.85,14.43333,58.85",
+    "geom:latitude":58.85,
+    "geom:longitude":14.43333,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1860.0",
+    "gn:asciiname":"Barrud",
+    "gn:country_code":"SE",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2723369,
+    "gn:latitude":58.85,
+    "gn:longitude":14.43333,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Barrud",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688421,
+        102191581,
+        1125325191,
+        85633789,
+        1159303461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2723369
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"c661a8b168b7496120bda46418d22129",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303461,
+            "localadmin_id":1125325191,
+            "locality_id":1209785531,
+            "region_id":85688421
+        }
+    ],
+    "wof:id":1209785531,
+    "wof:lastmodified":1536368911,
+    "wof:name":"Barrud",
+    "wof:parent_id":1125325191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.43333,
+    58.85,
+    14.43333,
+    58.85
+],
+  "geometry": {"coordinates":[14.43333,58.85],"type":"Point"}
+}

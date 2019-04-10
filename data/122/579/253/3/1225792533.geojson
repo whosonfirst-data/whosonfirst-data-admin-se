@@ -1,0 +1,83 @@
+{
+  "id": 1225792533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.03322,56.22849,13.03322,56.22849",
+    "geom:latitude":56.22849,
+    "geom:longitude":13.03322,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"1292.0",
+    "gn:asciiname":"OEssjoe",
+    "gn:country_code":"SE",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2686138,
+    "gn:latitude":56.22849,
+    "gn:longitude":13.03322,
+    "gn:modification_date":"2017-03-19",
+    "gn:name":"\u00d6ssj\u00f6",
+    "gn:population":223,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "\u00d6ssj\u00f6"
+    ],
+    "name:nor_x_variant":[
+        "\u00d8ssj\u00f8"
+    ],
+    "name:und_x_variant":[
+        "\u00d6ssj\u00f6"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688377,
+        102191581,
+        1159307011,
+        85633789,
+        1159303025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2686138,
+        "wk:page":"%C3%96ssj%C3%B6"
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"17d80c23fd478e96c1514e0b7c61d66e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303025,
+            "localadmin_id":1159307011,
+            "locality_id":1225792533,
+            "region_id":85688377
+        }
+    ],
+    "wof:id":1225792533,
+    "wof:lastmodified":1537699912,
+    "wof:name":"OEssjoe",
+    "wof:parent_id":1159307011,
+    "wof:placetype":"locality",
+    "wof:population":223,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.03322,
+    56.22849,
+    13.03322,
+    56.22849
+],
+  "geometry": {"coordinates":[13.03322,56.22849],"type":"Point"}
+}

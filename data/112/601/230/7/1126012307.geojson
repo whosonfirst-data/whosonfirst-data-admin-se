@@ -1,0 +1,105 @@
+{
+  "id": 1126012307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.57794,58.72438,16.57794,58.72438",
+    "geom:latitude":58.72438,
+    "geom:longitude":16.57794,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":271,
+    "gn:population":223,
+    "iso:country":"SE",
+    "lbl:latitude":58.72438,
+    "lbl:longitude":16.57794,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "\u00c5lberga"
+    ],
+    "name:eng_x_preferred":[
+        "\u00c5lberga"
+    ],
+    "name:ita_x_preferred":[
+        "\u00c5lberga"
+    ],
+    "name:nan_x_preferred":[
+        "\u00c5lberga"
+    ],
+    "name:nno_x_preferred":[
+        "\u00c5lberga"
+    ],
+    "name:nob_x_preferred":[
+        "\u00c5lberga"
+    ],
+    "name:pol_x_preferred":[
+        "\u00c5lberga"
+    ],
+    "name:swe_x_preferred":[
+        "\u00c5lberga"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2727074,
+    "qs_pg:gn_pop":271,
+    "qs_pg:name":"\u00c5lberga",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":575759,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688419,
+        102191581,
+        1125325225,
+        85633789,
+        1159303471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2727074,
+        "qs_pg:id":575759,
+        "wd:id":"Q2682623"
+    },
+    "wof:country":"SE",
+    "wof:created":1497300342,
+    "wof:geomhash":"cb005feb2f69788e77caa2b00c0adc55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303471,
+            "localadmin_id":1125325225,
+            "locality_id":1126012307,
+            "region_id":85688419
+        }
+    ],
+    "wof:id":1126012307,
+    "wof:lastmodified":1529702851,
+    "wof:name":"\u00c5lberga",
+    "wof:parent_id":1125325225,
+    "wof:placetype":"locality",
+    "wof:population":223,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.57794,
+    58.72438,
+    16.57794,
+    58.72438
+],
+  "geometry": {"coordinates":[16.57794,58.72438],"type":"Point"}
+}

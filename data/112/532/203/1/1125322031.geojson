@@ -1,0 +1,77 @@
+{
+  "id": 1125322031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-05-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.20134,55.59078,13.20134,55.59078",
+    "geom:latitude":55.59078,
+    "geom:longitude":13.20134,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":6544,
+    "gn:population":6544,
+    "iso:country":"SE",
+    "lbl:latitude":55.59078,
+    "lbl:longitude":13.20134,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8132304,
+    "qs_pg:gn_pop":6544,
+    "qs_pg:name":"V\u00e4rby",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":758034,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633789,
+        85688377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8132304,
+        "qs_pg:id":758034
+    },
+    "wof:country":"SE",
+    "wof:created":1497044587,
+    "wof:geomhash":"546c4d0b1e16fe94ec6db171b49fd9b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "localadmin_id":1125322031,
+            "region_id":85688377
+        }
+    ],
+    "wof:id":1125322031,
+    "wof:lastmodified":1525735523,
+    "wof:name":"V\u00e4rby",
+    "wof:parent_id":85688377,
+    "wof:placetype":"localadmin",
+    "wof:population":6544,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.20134,
+    55.59078,
+    13.20134,
+    55.59078
+],
+  "geometry": {"coordinates":[13.20134,55.59078],"type":"Point"}
+}

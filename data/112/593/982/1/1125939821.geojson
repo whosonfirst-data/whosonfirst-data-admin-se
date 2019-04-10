@@ -1,0 +1,109 @@
+{
+  "id": 1125939821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.73333,56.16667,15.73333,56.16667",
+    "geom:latitude":56.16667,
+    "geom:longitude":15.73333,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":276,
+    "gn:population":464,
+    "iso:country":"SE",
+    "lbl:latitude":56.16667,
+    "lbl:longitude":15.73333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "G\u00e4ngletorp"
+    ],
+    "name:eng_x_preferred":[
+        "G\u00e4ngletorp"
+    ],
+    "name:fre_x_preferred":[
+        "G\u00e4ngletorp"
+    ],
+    "name:nan_x_preferred":[
+        "G\u00e4ngletorp"
+    ],
+    "name:nob_x_preferred":[
+        "G\u00e4ngletorp"
+    ],
+    "name:swe_x_preferred":[
+        "G\u00e4ngletorp"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2712885,
+    "qs_pg:gn_pop":276,
+    "qs_pg:name":"G\u00e4ngletorp",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"Blekinge L\u00e4n",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1280623,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":890370,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"Blekinge L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688383,
+        102191581,
+        1125357193,
+        85633789,
+        1159303467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2712885,
+        "gp:id":890370,
+        "qs_pg:id":1280623,
+        "wd:id":"Q1799736"
+    },
+    "wof:country":"SE",
+    "wof:created":1497297079,
+    "wof:geomhash":"4654df51530cdc9d4fb46fb2e37ec01c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303467,
+            "localadmin_id":1125357193,
+            "locality_id":1125939821,
+            "region_id":85688383
+        }
+    ],
+    "wof:id":1125939821,
+    "wof:lastmodified":1554166226,
+    "wof:name":"G\u00e4ngletorp",
+    "wof:parent_id":1125357193,
+    "wof:placetype":"locality",
+    "wof:population":464,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.73333,
+    56.16667,
+    15.73333,
+    56.16667
+],
+  "geometry": {"coordinates":[15.73333,56.16667],"type":"Point"}
+}

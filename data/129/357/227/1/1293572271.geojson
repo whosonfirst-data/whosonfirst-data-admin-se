@@ -1,0 +1,76 @@
+{
+  "id": 1293572271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.26667,67.66667,17.26667,67.66667",
+    "geom:latitude":67.66667,
+    "geom:longitude":17.26667,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2510.0",
+    "gn:asciiname":"Vaisaluokta",
+    "gn:cc2":"SE",
+    "gn:country_code":"SE",
+    "gn:dem":500,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2665799,
+    "gn:latitude":67.66667,
+    "gn:longitude":17.26667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Vaisaluokta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vajsaluokta",
+        "Vaisaluoktak\u00e5tan",
+        "Vaisaluokta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688471,
+        102191581,
+        1159305707,
+        85633789,
+        1159303505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2665799
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"16ea0fbc88809d297d0076edb11cc204",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303505,
+            "localadmin_id":1159305707,
+            "locality_id":1293572271,
+            "region_id":85688471
+        }
+    ],
+    "wof:id":1293572271,
+    "wof:lastmodified":1537699761,
+    "wof:name":"Vaisaluokta",
+    "wof:parent_id":1159305707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.26667,
+    67.66667,
+    17.26667,
+    67.66667
+],
+  "geometry": {"coordinates":[17.26667,67.66667],"type":"Point"}
+}

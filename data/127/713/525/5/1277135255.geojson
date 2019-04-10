@@ -1,0 +1,70 @@
+{
+  "id": 1277135255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.86667,60.73333,12.86667,60.73333",
+    "geom:latitude":60.73333,
+    "geom:longitude":12.86667,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1737.0",
+    "gn:asciiname":"Tutstad",
+    "gn:country_code":"SE",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2666967,
+    "gn:latitude":60.73333,
+    "gn:longitude":12.86667,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Tutstad",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688435,
+        102191581,
+        1125288125,
+        85633789,
+        1159303341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2666967
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"67fa603448b49b69b783c43e633bfd7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303341,
+            "localadmin_id":1125288125,
+            "locality_id":1277135255,
+            "region_id":85688435
+        }
+    ],
+    "wof:id":1277135255,
+    "wof:lastmodified":1536692269,
+    "wof:name":"Tutstad",
+    "wof:parent_id":1125288125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.86667,
+    60.73333,
+    12.86667,
+    60.73333
+],
+  "geometry": {"coordinates":[12.86667,60.73333],"type":"Point"}
+}

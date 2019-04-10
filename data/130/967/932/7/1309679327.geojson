@@ -1,0 +1,72 @@
+{
+  "id": 1309679327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.64909,59.6995,16.64909,59.6995",
+    "geom:latitude":59.6995,
+    "geom:longitude":16.64909,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1980.0",
+    "gn:admin3_code":"198016.0",
+    "gn:admin4_code":"2325.0",
+    "gn:asciiname":"Hedensberg",
+    "gn:country_code":"SE",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2706928,
+    "gn:latitude":59.6995,
+    "gn:longitude":16.64909,
+    "gn:modification_date":"2013-08-15",
+    "gn:name":"Hedensberg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688425,
+        102191581,
+        1125327739,
+        85633789,
+        1159303331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2706928
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"c85dd865f59e11f6b4617b39346a9f30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303331,
+            "localadmin_id":1125327739,
+            "locality_id":1309679327,
+            "region_id":85688425
+        }
+    ],
+    "wof:id":1309679327,
+    "wof:lastmodified":1536614236,
+    "wof:name":"Hedensberg",
+    "wof:parent_id":1125327739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.64909,
+    59.6995,
+    16.64909,
+    59.6995
+],
+  "geometry": {"coordinates":[16.64909,59.6995],"type":"Point"}
+}

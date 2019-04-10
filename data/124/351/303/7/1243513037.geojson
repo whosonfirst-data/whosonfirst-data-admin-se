@@ -1,0 +1,81 @@
+{
+  "id": 1243513037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.61667,59.68333,17.61667,59.68333",
+    "geom:latitude":59.68333,
+    "geom:longitude":17.61667,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"305.0",
+    "gn:asciiname":"Osterkvarn",
+    "gn:cc2":"SE",
+    "gn:country_code":"SE",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2685842,
+    "gn:latitude":59.68333,
+    "gn:longitude":17.61667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"\u00d6sterkvarn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "\u00d6sterkvarn"
+    ],
+    "name:nor_x_variant":[
+        "\u00d8sterkvarn"
+    ],
+    "name:und_x_variant":[
+        "Kvarntorp",
+        "\u00d6sterkvarn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688439,
+        102191581,
+        1125382375,
+        85633789,
+        1159303271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2685842
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"1bc2b47c59f2fb6274a97f284ba3bce0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303271,
+            "localadmin_id":1125382375,
+            "locality_id":1243513037,
+            "region_id":85688439
+        }
+    ],
+    "wof:id":1243513037,
+    "wof:lastmodified":1537699902,
+    "wof:name":"Osterkvarn",
+    "wof:parent_id":1125382375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.61667000000001,
+    59.68333000000001,
+    17.61667000000001,
+    59.68333000000001
+],
+  "geometry": {"coordinates":[17.61667000000001,59.68333000000001],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343718429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.66464,59.86591,17.66464,59.86591",
+    "geom:latitude":59.86591,
+    "geom:longitude":17.66464,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"380.0",
+    "gn:asciiname":"Almtuna",
+    "gn:country_code":"SE",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2726536,
+    "gn:latitude":59.86591,
+    "gn:longitude":17.66464,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Almtuna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688439,
+        102191581,
+        1125362039,
+        85633789,
+        1159303253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2726536
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"01cdbd38266840c97366c6272cabbfc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303253,
+            "localadmin_id":1125362039,
+            "locality_id":1343718429,
+            "region_id":85688439
+        }
+    ],
+    "wof:id":1343718429,
+    "wof:lastmodified":1536870543,
+    "wof:name":"Almtuna",
+    "wof:parent_id":1125362039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.66464,
+    59.86591,
+    17.66464,
+    59.86591
+],
+  "geometry": {"coordinates":[17.66464,59.86591],"type":"Point"}
+}

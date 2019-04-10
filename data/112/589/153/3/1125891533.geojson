@@ -1,0 +1,120 @@
+{
+  "id": 1125891533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.95,56.25,15.95,56.25",
+    "geom:latitude":56.25,
+    "geom:longitude":15.95,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":398,
+    "gn:population":397,
+    "iso:country":"SE",
+    "lbl:latitude":56.25,
+    "lbl:longitude":15.95,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dan_x_preferred":[
+        "F\u00e5gelmara"
+    ],
+    "name:dut_x_preferred":[
+        "F\u00e5gelmara"
+    ],
+    "name:eng_x_preferred":[
+        "F\u00e5gelmara"
+    ],
+    "name:fre_x_preferred":[
+        "F\u00e5gelmara"
+    ],
+    "name:ita_x_preferred":[
+        "F\u00e5gelmara"
+    ],
+    "name:nan_x_preferred":[
+        "F\u00e5gelmara"
+    ],
+    "name:nob_x_preferred":[
+        "F\u00e5gelmara"
+    ],
+    "name:swe_x_preferred":[
+        "F\u00e5gelmara"
+    ],
+    "name:urd_x_preferred":[
+        "\u0641\u0627\u06af\u06cc\u0644\u0645\u0627\u0631\u0627"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2715809,
+    "qs_pg:gn_pop":398,
+    "qs_pg:name":"F\u00e5gelmara",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"Blekinge L\u00e4n",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":289636,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":889120,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"Blekinge L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688383,
+        102191581,
+        1159306375,
+        85633789,
+        1159303467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2715809,
+        "gp:id":889120,
+        "qs_pg:id":289636,
+        "wd:id":"Q1799710"
+    },
+    "wof:country":"SE",
+    "wof:created":1497295342,
+    "wof:geomhash":"f64a284a42d5bfa1e75bb27f9a3f74c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303467,
+            "localadmin_id":1159306375,
+            "locality_id":1125891533,
+            "region_id":85688383
+        }
+    ],
+    "wof:id":1125891533,
+    "wof:lastmodified":1554166222,
+    "wof:name":"F\u00e5gelmara",
+    "wof:parent_id":1159306375,
+    "wof:placetype":"locality",
+    "wof:population":397,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.95,
+    56.25,
+    15.95,
+    56.25
+],
+  "geometry": {"coordinates":[15.95,56.25],"type":"Point"}
+}

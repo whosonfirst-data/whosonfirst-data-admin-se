@@ -1,0 +1,70 @@
+{
+  "id": 1276311229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.86667,60.36667,13.86667,60.36667",
+    "geom:latitude":60.36667,
+    "geom:longitude":13.86667,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2023.0",
+    "gn:asciiname":"Andersviksberg",
+    "gn:country_code":"SE",
+    "gn:dem":475,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2726024,
+    "gn:latitude":60.36667,
+    "gn:longitude":13.86667,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Andersviksberg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688447,
+        102191581,
+        1125382181,
+        85633789,
+        1159303431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2726024
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"185cb1ddfd03fc4513c6a7be23d0585f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303431,
+            "localadmin_id":1125382181,
+            "locality_id":1276311229,
+            "region_id":85688447
+        }
+    ],
+    "wof:id":1276311229,
+    "wof:lastmodified":1536808028,
+    "wof:name":"Andersviksberg",
+    "wof:parent_id":1125382181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.86667,
+    60.36666999999999,
+    13.86667,
+    60.36666999999999
+],
+  "geometry": {"coordinates":[13.86667,60.36666999999999],"type":"Point"}
+}

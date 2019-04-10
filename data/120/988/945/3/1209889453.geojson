@@ -1,0 +1,70 @@
+{
+  "id": 1209889453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.53333,65.3,21.53333,65.3",
+    "geom:latitude":65.3,
+    "geom:longitude":21.53333,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2581.0",
+    "gn:asciiname":"Pitholm",
+    "gn:country_code":"SE",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":603564,
+    "gn:latitude":65.3,
+    "gn:longitude":21.53333,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Pitholm",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688471,
+        102191581,
+        1125325181,
+        85633789,
+        1159303399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":603564
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"0c3a0e1adf7c9995f640d0c11a3c96e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303399,
+            "localadmin_id":1125325181,
+            "locality_id":1209889453,
+            "region_id":85688471
+        }
+    ],
+    "wof:id":1209889453,
+    "wof:lastmodified":1536391423,
+    "wof:name":"Pitholm",
+    "wof:parent_id":1125325181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.53333,
+    65.3,
+    21.53333,
+    65.3
+],
+  "geometry": {"coordinates":[21.53333,65.3],"type":"Point"}
+}

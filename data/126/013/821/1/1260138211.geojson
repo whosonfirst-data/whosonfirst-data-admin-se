@@ -1,0 +1,70 @@
+{
+  "id": 1260138211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.16667,64.3,19.16667,64.3",
+    "geom:latitude":64.3,
+    "geom:longitude":19.16667,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"2404.0",
+    "gn:asciiname":"Videlund",
+    "gn:country_code":"SE",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2663209,
+    "gn:latitude":64.3,
+    "gn:longitude":19.16667,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Videlund",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688465,
+        102191581,
+        1125270361,
+        85633789,
+        1159303511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2663209
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"55b1409f63a5ea33bbce54f550a0baaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303511,
+            "localadmin_id":1125270361,
+            "locality_id":1260138211,
+            "region_id":85688465
+        }
+    ],
+    "wof:id":1260138211,
+    "wof:lastmodified":1536910406,
+    "wof:name":"Videlund",
+    "wof:parent_id":1125270361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.16667,
+    64.3,
+    19.16667,
+    64.3
+],
+  "geometry": {"coordinates":[19.16667,64.3],"type":"Point"}
+}

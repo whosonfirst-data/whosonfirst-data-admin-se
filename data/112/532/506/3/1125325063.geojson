@@ -1,0 +1,95 @@
+{
+  "id": 1125325063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000055,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.9512327954,57.6937288433,11.9632797503,57.7002766472",
+    "geom:latitude":57.697515,
+    "geom:longitude":11.957816,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":5740,
+    "gn:population":5740,
+    "iso:country":"SE",
+    "lbl:latitude":57.697686,
+    "lbl:longitude":11.957931,
+    "mps:latitude":57.697686,
+    "mps:longitude":11.957931,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Haga"
+    ],
+    "name:swe_x_preferred":[
+        "Haga"
+    ],
+    "name:swe_x_variant":[
+        "G\u00f6teborgs Haga"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8132074,
+    "qs_pg:gn_pop":5740,
+    "qs_pg:name":"G\u00f6teborgs Haga",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":757923,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "se-lant:distrkod":107063,
+    "se-lant:distrnamn":"Haga",
+    "se-lant:gallerfran":"2016/01/01",
+    "src:geom":"se-lant",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633789,
+        85688411,
+        1159302989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8132074,
+        "qs_pg:id":757923
+    },
+    "wof:country":"SE",
+    "wof:created":1497044751,
+    "wof:geomhash":"dda229f88720f67041337ff45454c561",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302989,
+            "localadmin_id":1125325063,
+            "region_id":85688411
+        }
+    ],
+    "wof:id":1125325063,
+    "wof:lastmodified":1529702187,
+    "wof:name":"Haga",
+    "wof:parent_id":1159302989,
+    "wof:placetype":"localadmin",
+    "wof:population":5740,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.95123279535825,
+    57.69372884328182,
+    11.96327975030128,
+    57.70027664717504
+],
+  "geometry": {"coordinates":[[[[11.96294567036715,57.69759204967836],[11.96247860364884,57.69437404824374],[11.96129436485225,57.69457217566417],[11.95895448880997,57.69372884328182],[11.95778249745404,57.69408921263825],[11.95833466302729,57.69525175408813],[11.95638129069273,57.69568155150507],[11.95558024272922,57.69539062696198],[11.95502903129171,57.69536983511324],[11.95480247909948,57.69543321486278],[11.95465943226968,57.69549973282303],[11.95454155643132,57.6956301362583],[11.95440250292626,57.69592156351011],[11.95430013978445,57.69606154392505],[11.95422626889668,57.69611268874865],[11.95409147022909,57.69611659794075],[11.9539780658477,57.69608535179896],[11.95383596757329,57.69601705739859],[11.95318981925947,57.69590949264705],[11.95302903508413,57.69589763544704],[11.95239414612785,57.69638506270809],[11.95217552157443,57.6964089911928],[11.95208253645078,57.69620262356231],[11.95176815751399,57.6962318647273],[11.95123279535825,57.69742913153159],[11.95258011950982,57.69969152542074],[11.95403083589307,57.70027664717504],[11.95698468057769,57.70002846551358],[11.96084965125204,57.70003730376058],[11.96327975030128,57.70022832413287],[11.96294567036715,57.69759204967836]]]],"type":"MultiPolygon"}
+}

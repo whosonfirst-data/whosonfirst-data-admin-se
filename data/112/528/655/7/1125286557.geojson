@@ -1,0 +1,95 @@
+{
+  "id": 1125286557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000148,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.0560579727,59.3114575395,18.0727693042,59.3244023587",
+    "geom:latitude":59.317624,
+    "geom:longitude":18.063476,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":19183,
+    "gn:population":19183,
+    "iso:country":"SE",
+    "lbl:latitude":59.317434,
+    "lbl:longitude":18.063475,
+    "mps:latitude":59.317434,
+    "mps:longitude":18.063475,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Stockholms Maria Magdalena"
+    ],
+    "name:swe_x_preferred":[
+        "Stockholms Maria Magdalena"
+    ],
+    "name:swe_x_variant":[
+        "Maria Magdalena"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8131723,
+    "qs_pg:gn_pop":19183,
+    "qs_pg:name":"Maria Magdalena",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":757683,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "se-lant:distrkod":212101,
+    "se-lant:distrnamn":"Stockholms Maria Magdalena",
+    "se-lant:gallerfran":"2016/01/01",
+    "src:geom":"se-lant",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633789,
+        85688429,
+        1159303035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8131723,
+        "qs_pg:id":757683
+    },
+    "wof:country":"SE",
+    "wof:created":1497042726,
+    "wof:geomhash":"d4bcb5f3d0b0c000f8c16593f0fd037d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303035,
+            "localadmin_id":1125286557,
+            "region_id":85688429
+        }
+    ],
+    "wof:id":1125286557,
+    "wof:lastmodified":1529702736,
+    "wof:name":"Stockholms Maria Magdalena",
+    "wof:parent_id":1159303035,
+    "wof:placetype":"localadmin",
+    "wof:population":19183,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.05605797266736,
+    59.31145753951871,
+    18.07276930419028,
+    59.32440235872674
+],
+  "geometry": {"coordinates":[[[[18.0572204885998,59.32396293843785],[18.05730705290493,59.32440235872674],[18.0626033764059,59.32285014319209],[18.06942810270747,59.32199263764954],[18.06968915315484,59.32124984602158],[18.06975743111548,59.32112042670045],[18.07276930419028,59.31541043012602],[18.07115765967411,59.31522183088056],[18.0717505546651,59.31399166939527],[18.06786198305798,59.31351383841209],[18.06791581256749,59.31338337816216],[18.06731193225619,59.31330677477816],[18.06759203891721,59.31265965932142],[18.06306948992896,59.31207510170607],[18.05828781618447,59.31145753951871],[18.05605797266736,59.31608039281632],[18.05804788856754,59.31634110614349],[18.05715054560823,59.31818459573011],[18.05686949886698,59.31833734058947],[18.05623653117782,59.31960593313028],[18.05634062102029,59.32132306731816],[18.05634242543615,59.32135281824127],[18.05674733214047,59.32220130993808],[18.05719137228932,59.32381513367289],[18.0572204885998,59.32396293843785]]]],"type":"MultiPolygon"}
+}

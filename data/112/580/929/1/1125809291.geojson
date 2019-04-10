@@ -1,0 +1,137 @@
+{
+  "id": 1125809291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.10642,57.7395,12.10642,57.7395",
+    "geom:latitude":57.7395,
+    "geom:longitude":12.10642,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":28648,
+    "gn:population":28648,
+    "iso:country":"SE",
+    "lbl:latitude":57.7395,
+    "lbl:longitude":12.10642,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u041f\u0430\u0440\u0442\u0438\u043b\u0435"
+    ],
+    "name:dan_x_preferred":[
+        "Partille"
+    ],
+    "name:dut_x_preferred":[
+        "Partille"
+    ],
+    "name:eng_x_preferred":[
+        "Partille"
+    ],
+    "name:fao_x_preferred":[
+        "Partille"
+    ],
+    "name:fin_x_preferred":[
+        "Partille"
+    ],
+    "name:fre_x_preferred":[
+        "Partille"
+    ],
+    "name:ger_x_preferred":[
+        "Partille"
+    ],
+    "name:ice_x_preferred":[
+        "Partille"
+    ],
+    "name:nno_x_preferred":[
+        "Partille"
+    ],
+    "name:nob_x_preferred":[
+        "Partille"
+    ],
+    "name:slv_x_preferred":[
+        "Partille"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0430\u0440\u0442\u0438\u043b\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Partille"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":2684395,
+    "qs_pg:gn_pop":28648,
+    "qs_pg:name":"Partille",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"V\u00e4stra G\u00f6talands L\u00e4n",
+    "qs_pg:photos":223,
+    "qs_pg:photos_1k":45,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":445,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":3737,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":901742,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"V\u00e4stra G\u00f6talands L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688411,
+        102191581,
+        1125270905,
+        85633789,
+        1159303085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2684395,
+        "gp:id":901742,
+        "qs_pg:id":3737,
+        "wd:id":"Q2054961"
+    },
+    "wof:country":"SE",
+    "wof:created":1497291590,
+    "wof:geomhash":"39d0f741ea1feb94d6f7d4940ea7cd7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303085,
+            "localadmin_id":1125270905,
+            "locality_id":1125809291,
+            "region_id":85688411
+        }
+    ],
+    "wof:id":1125809291,
+    "wof:lastmodified":1529702276,
+    "wof:name":"Partille",
+    "wof:parent_id":1125270905,
+    "wof:placetype":"locality",
+    "wof:population":28648,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.10642,
+    57.7395,
+    12.10642,
+    57.7395
+],
+  "geometry": {"coordinates":[12.10642,57.7395],"type":"Point"}
+}

@@ -1,0 +1,112 @@
+{
+  "id": 1125972619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.13333,60.71667,17.13333,60.71667",
+    "geom:latitude":60.71667,
+    "geom:longitude":17.13333,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":646,
+    "gn:population":646,
+    "iso:country":"SE",
+    "lbl:latitude":60.71667,
+    "lbl:longitude":17.13333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:chi_x_preferred":[
+        "\u798f\u4ec0\u6bd4"
+    ],
+    "name:dut_x_preferred":[
+        "Forsby"
+    ],
+    "name:eng_x_preferred":[
+        "Forsby"
+    ],
+    "name:nan_x_preferred":[
+        "Forsby"
+    ],
+    "name:nno_x_preferred":[
+        "Forsby i G\u00e4strikland"
+    ],
+    "name:nob_x_preferred":[
+        "Forsby"
+    ],
+    "name:swe_x_preferred":[
+        "Forsby"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2713986,
+    "qs_pg:gn_pop":646,
+    "qs_pg:name":"Forsby",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"G\u00e4vleborgs L\u00e4n",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":415565,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":889888,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"G\u00e4vleborgs L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688453,
+        102191581,
+        1125325415,
+        85633789,
+        1159303225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2713986,
+        "gp:id":889888,
+        "qs_pg:id":415565,
+        "wd:id":"Q3291048"
+    },
+    "wof:country":"SE",
+    "wof:created":1497298231,
+    "wof:geomhash":"cff3849a507dae912c2e7310511f3659",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303225,
+            "localadmin_id":1125325415,
+            "locality_id":1125972619,
+            "region_id":85688453
+        }
+    ],
+    "wof:id":1125972619,
+    "wof:lastmodified":1529702066,
+    "wof:name":"Forsby",
+    "wof:parent_id":1125325415,
+    "wof:placetype":"locality",
+    "wof:population":646,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.13333,
+    60.71667,
+    17.13333,
+    60.71667
+],
+  "geometry": {"coordinates":[17.13333,60.71667],"type":"Point"}
+}

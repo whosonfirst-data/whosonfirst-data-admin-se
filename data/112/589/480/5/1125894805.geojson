@@ -1,0 +1,128 @@
+{
+  "id": 1125894805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.15,58.11667,12.15,58.11667",
+    "geom:latitude":58.11667,
+    "geom:longitude":12.15,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":962,
+    "gn:population":1002,
+    "iso:country":"SE",
+    "lbl:latitude":58.11667,
+    "lbl:longitude":12.15,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "G\u00f6ta"
+    ],
+    "name:eng_x_preferred":[
+        "G\u00f6ta"
+    ],
+    "name:fin_x_preferred":[
+        "G\u00f6ta"
+    ],
+    "name:fre_x_preferred":[
+        "G\u00f6ta"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d9\u05d8\u05d4"
+    ],
+    "name:nan_x_preferred":[
+        "G\u00f6ta"
+    ],
+    "name:nno_x_preferred":[
+        "G\u00f6ta"
+    ],
+    "name:nob_x_preferred":[
+        "G\u00f6ta"
+    ],
+    "name:nor_x_preferred":[
+        "G\u00f8ta"
+    ],
+    "name:nor_x_variant":[
+        "G\u00f6ta"
+    ],
+    "name:swe_x_preferred":[
+        "G\u00f6ta"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2711561,
+    "qs_pg:gn_pop":962,
+    "qs_pg:name":"G\u00f6ta",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"V\u00e4stra G\u00f6talands L\u00e4n",
+    "qs_pg:photos":90,
+    "qs_pg:photos_1k":18,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":90,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":918765,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":890859,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"V\u00e4stra G\u00f6talands L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688411,
+        102191581,
+        1125373083,
+        85633789,
+        1159303279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2711561,
+        "gp:id":890859,
+        "qs_pg:id":918765,
+        "wd:id":"Q2369220"
+    },
+    "wof:country":"SE",
+    "wof:created":1497295496,
+    "wof:geomhash":"4f6b58b7fc7a8ed533356920e417a83c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303279,
+            "localadmin_id":1125373083,
+            "locality_id":1125894805,
+            "region_id":85688411
+        }
+    ],
+    "wof:id":1125894805,
+    "wof:lastmodified":1529702235,
+    "wof:name":"G\u00f6ta",
+    "wof:parent_id":1125373083,
+    "wof:placetype":"locality",
+    "wof:population":1002,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.15,
+    58.11667,
+    12.15,
+    58.11667
+],
+  "geometry": {"coordinates":[12.15,58.11667],"type":"Point"}
+}

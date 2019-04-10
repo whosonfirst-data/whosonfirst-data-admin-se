@@ -1,0 +1,79 @@
+{
+  "id": 1327318361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.28333,57.16667,14.28333,57.16667",
+    "geom:latitude":57.16667,
+    "geom:longitude":14.28333,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"683.0",
+    "gn:asciiname":"Golsebo",
+    "gn:country_code":"SE",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2711674,
+    "gn:latitude":57.16667,
+    "gn:longitude":14.28333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"G\u00f6lsebo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "G\u00f6lsebo"
+    ],
+    "name:nor_x_variant":[
+        "G\u00f8lsebo"
+    ],
+    "name:und_x_variant":[
+        "G\u00f6lsebo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688395,
+        102191581,
+        1159306077,
+        85633789,
+        1159303313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2711674
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"381674bb8452450fe8b45510fe161a9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303313,
+            "localadmin_id":1159306077,
+            "locality_id":1327318361,
+            "region_id":85688395
+        }
+    ],
+    "wof:id":1327318361,
+    "wof:lastmodified":1537700064,
+    "wof:name":"Golsebo",
+    "wof:parent_id":1159306077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.28333,
+    57.16667,
+    14.28333,
+    57.16667
+],
+  "geometry": {"coordinates":[14.28333,57.16667],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1310162011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.06667,59.71667,12.06667,59.71667",
+    "geom:latitude":59.71667,
+    "geom:longitude":12.06667,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1730.0",
+    "gn:asciiname":"Gallesbyn",
+    "gn:country_code":"SE",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2713146,
+    "gn:latitude":59.71667,
+    "gn:longitude":12.06667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"G\u00e4llesbyn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "G\u00e4llsbyn",
+        "G\u00e4llesbyn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688435,
+        102191581,
+        1159306411,
+        85633789,
+        1159303453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2713146
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"fe3ed34d9eaf7ca32bc26cdc71f04c9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303453,
+            "localadmin_id":1159306411,
+            "locality_id":1310162011,
+            "region_id":85688435
+        }
+    ],
+    "wof:id":1310162011,
+    "wof:lastmodified":1537700072,
+    "wof:name":"Gallesbyn",
+    "wof:parent_id":1159306411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.06667,
+    59.71666999999999,
+    12.06667,
+    59.71666999999999
+],
+  "geometry": {"coordinates":[12.06667,59.71666999999999],"type":"Point"}
+}

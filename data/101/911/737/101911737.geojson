@@ -1,0 +1,94 @@
+{
+  "id": 101911737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000072,
+    "geom:area_square_m":457541.580476,
+    "geom:bbox":"16.076724382,59.2214443383,16.0886028446,59.2352645319",
+    "geom:latitude":59.226948,
+    "geom:longitude":16.082466,
+    "iso:country":"SE",
+    "lbl:latitude":59.225584,
+    "lbl:longitude":16.082556,
+    "mps:latitude":59.225584,
+    "mps:longitude":16.082556,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Uddens fritidsomr\u00e5de"
+    ],
+    "name:eng_x_preferred":[
+        "Uddens fritidsomr\u00e5de"
+    ],
+    "name:fin_x_preferred":[
+        "Uddens fritidsomr\u00e5de"
+    ],
+    "name:ger_x_preferred":[
+        "Uddens fritidsomr\u00e5de"
+    ],
+    "name:swe_x_preferred":[
+        "Uddens fritidsomr\u00e5de"
+    ],
+    "qs:a0":"Sverige",
+    "qs:a1":"*S\u00f6dermanlands l\u00e4n",
+    "qs:a1r":"0",
+    "qs:adm0":"Sverige",
+    "qs:id":0,
+    "qs:la":"Katrineholm",
+    "qs:la_lc":"*SE0483",
+    "qs:level":"locality",
+    "qs:loc":"Uddens fritidsomr\u00e5de",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet near local_admin match geoplanet",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85688419,
+        102191581,
+        1125287999,
+        85633789,
+        1159303103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20151810,
+        "qs:id":229935,
+        "qs_pg:id":229935,
+        "wd:id":"Q1820375"
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"5f01d181807a59e6c1c13ab77c32f7c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303103,
+            "localadmin_id":1125287999,
+            "locality_id":101911737,
+            "region_id":85688419
+        }
+    ],
+    "wof:id":101911737,
+    "wof:lastmodified":1529702849,
+    "wof:name":"Uddens fritidsomr\u00e5de",
+    "wof:parent_id":1125287999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.07672438202303,
+    59.22144433829754,
+    16.08860284460332,
+    59.23526453186776
+],
+  "geometry": {"coordinates":[[[16.08161915515473,59.23518770028556],[16.08130549059854,59.23339623887989],[16.08304757996763,59.23331938982295],[16.082733864349,59.23152793330723],[16.08447585774883,59.23145106677737],[16.08384836210428,59.22786816394233],[16.08559017082905,59.22779128441539],[16.08511951495103,59.22510411509029],[16.08860284460332,59.22495030363444],[16.0881320074451,59.22226314866498],[16.08639047926283,59.2223400586509],[16.08623359672794,59.22144433829754],[16.08100910184464,59.22167492991679],[16.08116585136167,59.22257065697784],[16.07942429428334,59.22264747920912],[16.08005120909519,59.226230397432],[16.07830946740671,59.22630720666155],[16.07846617528605,59.2272029387122],[16.07672438202303,59.22727972823401],[16.07703773729861,59.22907119711675],[16.08052149403841,59.22891758719283],[16.08114867245035,59.23250050833377],[16.07940662022702,59.23257733320861],[16.07956339400266,59.23347306599038],[16.07782129018199,59.23354987115408],[16.07797802899859,59.23444560627553],[16.07972017719516,59.23436879887669],[16.0798769698057,59.23526453186776],[16.08161915515473,59.23518770028556]]],"type":"Polygon"}
+}

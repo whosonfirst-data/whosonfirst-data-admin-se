@@ -1,0 +1,114 @@
+{
+  "id": 1126018641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.35,60.53333,15.35,60.53333",
+    "geom:latitude":60.53333,
+    "geom:longitude":15.35,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":227,
+    "gn:population":238,
+    "iso:country":"SE",
+    "lbl:latitude":60.53333,
+    "lbl:longitude":15.35,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Norr Amsberg"
+    ],
+    "name:eng_x_preferred":[
+        "Norr Amsberg"
+    ],
+    "name:nan_x_preferred":[
+        "Norr Amsberg"
+    ],
+    "name:nno_x_preferred":[
+        "Norr Amsberg"
+    ],
+    "name:nob_x_preferred":[
+        "Norr Amsberg"
+    ],
+    "name:swe_x_preferred":[
+        "Norr Amsberg"
+    ],
+    "name:unk_x_variant":[
+        "Amsberg"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2688828,
+    "qs_pg:gn_pop":227,
+    "qs_pg:name":"Norr Amsberg",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"Dalarnas L\u00e4n",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":941610,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":899575,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"Dalarnas L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688447,
+        102191581,
+        1125277915,
+        85633789,
+        1159302993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2688828,
+        "gp:id":899575,
+        "qs_pg:id":941610,
+        "wd:id":"Q3352733"
+    },
+    "wof:country":"SE",
+    "wof:created":1497300697,
+    "wof:geomhash":"0ddae781e1e996b5fc225692df2735a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302993,
+            "localadmin_id":1125277915,
+            "locality_id":1126018641,
+            "region_id":85688447
+        }
+    ],
+    "wof:id":1126018641,
+    "wof:lastmodified":1529702013,
+    "wof:name":"Norr Amsberg",
+    "wof:parent_id":1125277915,
+    "wof:placetype":"locality",
+    "wof:population":238,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.35,
+    60.53333,
+    15.35,
+    60.53333
+],
+  "geometry": {"coordinates":[15.35,60.53333],"type":"Point"}
+}

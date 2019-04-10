@@ -1,0 +1,106 @@
+{
+  "id": 85905359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000188,
+    "geom:area_square_m":1190105.94552,
+    "geom:bbox":"18.1092016602,59.2082811095,18.1257740367,59.2249368102",
+    "geom:latitude":59.215748,
+    "geom:longitude":18.11684,
+    "gn:id":"",
+    "iso:country":"SE",
+    "lbl:latitude":59.215428,
+    "lbl:longitude":18.128586,
+    "mps:latitude":59.215376,
+    "mps:longitude":18.116682,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":1,
+    "name:swe_x_preferred":[
+        "Lyckasen"
+    ],
+    "name:unk_x_variant":[
+        "Lyckasen"
+    ],
+    "qs:gn_adm0_cc":"SE",
+    "qs:gn_id":0,
+    "qs:gn_local":2673730,
+    "qs:local_max":47943,
+    "qs:local_sum":372692,
+    "qs:localhoods":300,
+    "qs:name":"Lyckasen",
+    "qs:name_adm0":"Sverige",
+    "qs:name_adm1":"Stockholms L\u00e4n",
+    "qs:name_adm2":"Huddinge",
+    "qs:name_local":"Stockholm",
+    "qs:photo_max":5,
+    "qs:photo_sum":5,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":1,
+    "qs:woe_adm0":23424954,
+    "qs:woe_adm1":2347067,
+    "qs:woe_adm2":12587466,
+    "qs:woe_lau":0,
+    "qs:woe_local":906057,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        1125381793,
+        85633789,
+        1159303105,
+        85688429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20151361,
+        "qs:id":22247,
+        "qs_pg:id":22247
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"5cbf4d86c0cb529bd633f0824e903276",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303105,
+            "localadmin_id":1125381793,
+            "locality_id":-1,
+            "neighbourhood_id":85905359,
+            "region_id":85688429
+        }
+    ],
+    "wof:id":85905359,
+    "wof:lang":[
+        "swe"
+    ],
+    "wof:lastmodified":1529702803,
+    "wof:name":"Lyckasen",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.10920166015012,
+    59.20828110952526,
+    18.12577403672293,
+    59.22493681018749
+],
+  "geometry": {"coordinates":[[[18.12577403672293,59.21390533217526],[18.12278729380552,59.21001524581867],[18.11834879258794,59.20828110952526],[18.11387320117143,59.20828110952526],[18.11364595781993,59.20840257362697],[18.11213059233836,59.20964620193816],[18.1108869640272,59.21116156741986],[18.10996286482498,59.21289043542647],[18.10939380734607,59.21476636652984],[18.10920166015012,59.21671726975005],[18.10929557639673,59.21767081740201],[18.10928968303938,59.21766598084871],[18.11152770592088,59.22203943420355],[18.11482778319657,59.22461919743041],[18.11580285265944,59.22493681018749],[18.1176326364411,59.22374491382526],[18.12513086374469,59.21641885007965],[18.12577403672293,59.21390533217526]]],"type":"Polygon"}
+}

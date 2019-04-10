@@ -1,0 +1,75 @@
+{
+  "id": 1310391183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.88333,62.15,13.88333,62.15",
+    "geom:latitude":62.15,
+    "geom:longitude":13.88333,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"2361.0",
+    "gn:asciiname":"Linsell",
+    "gn:cc2":"SE",
+    "gn:country_code":"SE",
+    "gn:dem":400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2694708,
+    "gn:latitude":62.15,
+    "gn:longitude":13.88333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Linsell",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lins\u00e4ll",
+        "Linsell"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688461,
+        102191581,
+        1159307021,
+        85633789,
+        1159303245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2694708
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"a4d357d8c2fc5e139680bcb2932fe55b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303245,
+            "localadmin_id":1159307021,
+            "locality_id":1310391183,
+            "region_id":85688461
+        }
+    ],
+    "wof:id":1310391183,
+    "wof:lastmodified":1537699977,
+    "wof:name":"Linsell",
+    "wof:parent_id":1159307021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.88333,
+    62.15,
+    13.88333,
+    62.15
+],
+  "geometry": {"coordinates":[13.88333,62.15],"type":"Point"}
+}

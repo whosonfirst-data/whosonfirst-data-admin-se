@@ -1,0 +1,77 @@
+{
+  "id": 1326637775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.3,56.31667,15.3,56.31667",
+    "geom:latitude":56.31667,
+    "geom:longitude":15.3,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"1081.0",
+    "gn:asciiname":"Bokon",
+    "gn:country_code":"SE",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2720799,
+    "gn:latitude":56.31667,
+    "gn:longitude":15.3,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Bok\u00f6n",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Bok\u00f6n"
+    ],
+    "name:nor_x_variant":[
+        "Bok\u00f8n"
+    ],
+    "name:und_x_variant":[
+        "Bok\u00f6n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688383,
+        1125282073,
+        1159303551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2720799
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"7f405d70cbf8074a812712e3685e70b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "county_id":1159303551,
+            "localadmin_id":1125282073,
+            "locality_id":1326637775,
+            "region_id":85688383
+        }
+    ],
+    "wof:id":1326637775,
+    "wof:lastmodified":1537700112,
+    "wof:name":"Bokon",
+    "wof:parent_id":1125282073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.3,
+    56.31667,
+    15.3,
+    56.31667
+],
+  "geometry": {"coordinates":[15.3,56.31667],"type":"Point"}
+}

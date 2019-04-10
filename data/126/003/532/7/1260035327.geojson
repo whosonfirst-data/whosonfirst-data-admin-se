@@ -1,0 +1,84 @@
+{
+  "id": 1260035327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.73355,62.24943,16.73355,62.24943",
+    "geom:latitude":62.24943,
+    "geom:longitude":16.73355,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2281.0",
+    "gn:admin3_code":"228109.0",
+    "gn:admin4_code":"2451.0",
+    "gn:asciiname":"Sorhassel",
+    "gn:cc2":"SE",
+    "gn:country_code":"SE",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2675129,
+    "gn:latitude":62.24943,
+    "gn:longitude":16.73355,
+    "gn:modification_date":"2014-10-09",
+    "gn:name":"S\u00f6rhassel",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "S\u00f6rhassel"
+    ],
+    "name:nor_x_variant":[
+        "S\u00f8rhassel"
+    ],
+    "name:und_x_variant":[
+        "Hassel",
+        "S\u00f6dra Hassel",
+        "S\u00f6rhassel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688457,
+        102191581,
+        1159306203,
+        85633789,
+        1159303427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2675129
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"d4695fad5f6532a289c04d7453d2b4af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303427,
+            "localadmin_id":1159306203,
+            "locality_id":1260035327,
+            "region_id":85688457
+        }
+    ],
+    "wof:id":1260035327,
+    "wof:lastmodified":1537699805,
+    "wof:name":"Sorhassel",
+    "wof:parent_id":1159306203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.73355,
+    62.24943,
+    16.73355,
+    62.24943
+],
+  "geometry": {"coordinates":[16.73355,62.24943],"type":"Point"}
+}

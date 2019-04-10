@@ -1,0 +1,73 @@
+{
+  "id": 1209608551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.64083,62.96839,16.64083,62.96839",
+    "geom:latitude":62.96839,
+    "geom:longitude":16.64083,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"2303.0",
+    "gn:admin3_code":"230302.0",
+    "gn:admin4_code":"2526.0",
+    "gn:asciiname":"Osterasen",
+    "gn:country_code":"SE",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2685959,
+    "gn:latitude":62.96839,
+    "gn:longitude":16.64083,
+    "gn:modification_date":"2018-04-21",
+    "gn:name":"\u00d6ster\u00e5sen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "\u00d6ster\u00e5sen"
+    ],
+    "name:nor_x_variant":[
+        "\u00d8ster\u00e5sen"
+    ],
+    "name:und_x_variant":[
+        "\u00d6ster\u00e5sen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2685959
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"5fd8c3ac28f606b6707fa4f96c3a8558",
+    "wof:hierarchy":[
+        {
+            "country_id":85633789,
+            "locality_id":1209608551
+        }
+    ],
+    "wof:id":1209608551,
+    "wof:lastmodified":1537699906,
+    "wof:name":"Osterasen",
+    "wof:parent_id":85633789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.64083,
+    62.96839,
+    16.64083,
+    62.96839
+],
+  "geometry": {"coordinates":[16.64083,62.96839],"type":"Point"}
+}

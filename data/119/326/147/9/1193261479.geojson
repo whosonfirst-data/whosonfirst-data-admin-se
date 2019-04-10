@@ -1,0 +1,74 @@
+{
+  "id": 1193261479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.63127,66.71567,23.63127,66.71567",
+    "geom:latitude":66.71567,
+    "geom:longitude":23.63127,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2518.0",
+    "gn:asciiname":"Harkasaatio",
+    "gn:country_code":"SE",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":605847,
+    "gn:latitude":66.71567,
+    "gn:longitude":23.63127,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"H\u00e4rk\u00e4saatio",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "H\u00e4rk\u00e4saatio",
+        "H\u00e4rk\u00e4saadio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688471,
+        102191581,
+        1159306323,
+        85633789,
+        1159303405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":605847
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"51c60e54eb4941d3f37958b76e8423b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303405,
+            "localadmin_id":1159306323,
+            "locality_id":1193261479,
+            "region_id":85688471
+        }
+    ],
+    "wof:id":1193261479,
+    "wof:lastmodified":1537699729,
+    "wof:name":"Harkasaatio",
+    "wof:parent_id":1159306323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.63127,
+    66.71566999999999,
+    23.63127,
+    66.71566999999999
+],
+  "geometry": {"coordinates":[23.63127,66.71566999999999],"type":"Point"}
+}

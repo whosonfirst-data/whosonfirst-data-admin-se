@@ -1,0 +1,70 @@
+{
+  "id": 1226718971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.7,59.9,17.7,59.9",
+    "geom:latitude":59.9,
+    "geom:longitude":17.7,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"380.0",
+    "gn:asciiname":"Jalla",
+    "gn:country_code":"SE",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2703370,
+    "gn:latitude":59.9,
+    "gn:longitude":17.7,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"J\u00e4lla",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688439,
+        102191581,
+        1125362039,
+        85633789,
+        1159303253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2703370
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"e6880eb1c82cff6ec6c2df70ae4e7aa4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303253,
+            "localadmin_id":1125362039,
+            "locality_id":1226718971,
+            "region_id":85688439
+        }
+    ],
+    "wof:id":1226718971,
+    "wof:lastmodified":1536754256,
+    "wof:name":"Jalla",
+    "wof:parent_id":1125362039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.7,
+    59.9,
+    17.7,
+    59.9
+],
+  "geometry": {"coordinates":[17.7,59.9],"type":"Point"}
+}

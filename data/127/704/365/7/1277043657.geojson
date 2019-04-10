@@ -1,0 +1,81 @@
+{
+  "id": 1277043657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.96667,64.75,20.96667,64.75",
+    "geom:latitude":64.75,
+    "geom:longitude":20.96667,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"2482.0",
+    "gn:admin3_code":"248201.0",
+    "gn:admin4_code":"150.0",
+    "gn:asciiname":"Norrbole",
+    "gn:country_code":"SE",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":604012,
+    "gn:latitude":64.75,
+    "gn:longitude":20.96667,
+    "gn:modification_date":"2014-07-08",
+    "gn:name":"Norrb\u00f6le",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Norrb\u00f6le"
+    ],
+    "name:nor_x_variant":[
+        "Norrb\u00f8le"
+    ],
+    "name:und_x_variant":[
+        "Norrb\u00f6le"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688465,
+        102191581,
+        1125325351,
+        85633789,
+        1159303205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":604012
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"f627fa968093467dff0db646577d69ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303205,
+            "localadmin_id":1125325351,
+            "locality_id":1277043657,
+            "region_id":85688465
+        }
+    ],
+    "wof:id":1277043657,
+    "wof:lastmodified":1537699714,
+    "wof:name":"Norrbole",
+    "wof:parent_id":1125325351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.96667,
+    64.75,
+    20.96667,
+    64.75
+],
+  "geometry": {"coordinates":[20.96667,64.75],"type":"Point"}
+}

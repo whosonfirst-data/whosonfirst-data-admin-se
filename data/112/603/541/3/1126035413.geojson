@@ -1,0 +1,102 @@
+{
+  "id": 1126035413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.05557,65.52989,22.05557,65.52989",
+    "geom:latitude":65.52989,
+    "geom:longitude":22.05557,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":291,
+    "gn:population":461,
+    "iso:country":"SE",
+    "lbl:latitude":65.52989,
+    "lbl:longitude":22.05557,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Kallax"
+    ],
+    "name:eng_x_preferred":[
+        "Kallax"
+    ],
+    "name:fin_x_preferred":[
+        "Kalalaksi"
+    ],
+    "name:nan_x_preferred":[
+        "Kallax"
+    ],
+    "name:nno_x_preferred":[
+        "Kallax"
+    ],
+    "name:nob_x_preferred":[
+        "Kallax"
+    ],
+    "name:swe_x_preferred":[
+        "Kallax"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":605381,
+    "qs_pg:gn_pop":291,
+    "qs_pg:name":"Kallax",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":81136,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688471,
+        102191581,
+        1125373623,
+        85633789,
+        1159303317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":605381,
+        "qs_pg:id":81136,
+        "wd:id":"Q3352747"
+    },
+    "wof:country":"SE",
+    "wof:created":1497301754,
+    "wof:geomhash":"7f20990540531dfa78801a75340ea3ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303317,
+            "localadmin_id":1125373623,
+            "locality_id":1126035413,
+            "region_id":85688471
+        }
+    ],
+    "wof:id":1126035413,
+    "wof:lastmodified":1529702575,
+    "wof:name":"Kallax",
+    "wof:parent_id":1125373623,
+    "wof:placetype":"locality",
+    "wof:population":461,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.05557,
+    65.52989,
+    22.05557,
+    65.52989
+],
+  "geometry": {"coordinates":[22.05557,65.52988999999999],"type":"Point"}
+}

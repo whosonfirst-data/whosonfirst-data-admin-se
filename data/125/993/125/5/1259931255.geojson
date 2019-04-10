@@ -1,0 +1,70 @@
+{
+  "id": 1259931255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.0,55.51667,14.0,55.51667",
+    "geom:latitude":55.51667,
+    "geom:longitude":14.0,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"1270.0",
+    "gn:asciiname":"Toarp",
+    "gn:country_code":"SE",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2668579,
+    "gn:latitude":55.51667,
+    "gn:longitude":14.0,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Toarp",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688377,
+        102191581,
+        1159306847,
+        85633789,
+        1159302959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2668579
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"3d7648ef652818098d20fa2711bacd7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302959,
+            "localadmin_id":1159306847,
+            "locality_id":1259931255,
+            "region_id":85688377
+        }
+    ],
+    "wof:id":1259931255,
+    "wof:lastmodified":1536710832,
+    "wof:name":"Toarp",
+    "wof:parent_id":1159306847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.0,
+    55.51667,
+    14.0,
+    55.51667
+],
+  "geometry": {"coordinates":[14.0,55.51667],"type":"Point"}
+}

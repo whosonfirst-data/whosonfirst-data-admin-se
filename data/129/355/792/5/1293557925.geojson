@@ -1,0 +1,75 @@
+{
+  "id": 1293557925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.35,59.26667,12.35,59.26667",
+    "geom:latitude":59.26667,
+    "geom:longitude":12.35,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1765.0",
+    "gn:asciiname":"Algana",
+    "gn:cc2":"SE",
+    "gn:country_code":"SE",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2726928,
+    "gn:latitude":59.26667,
+    "gn:longitude":12.35,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"\u00c4lg\u00e5na",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Elg\u00e5na",
+        "\u00c4lg\u00e5na"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688435,
+        102191581,
+        1125288209,
+        85633789,
+        1159302927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2726928
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"22f102078d1b1745ac2228d90c4e4286",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302927,
+            "localadmin_id":1125288209,
+            "locality_id":1293557925,
+            "region_id":85688435
+        }
+    ],
+    "wof:id":1293557925,
+    "wof:lastmodified":1537700146,
+    "wof:name":"Algana",
+    "wof:parent_id":1125288209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.35,
+    59.26667,
+    12.35,
+    59.26667
+],
+  "geometry": {"coordinates":[12.35,59.26667],"type":"Point"}
+}

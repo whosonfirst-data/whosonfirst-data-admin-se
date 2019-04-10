@@ -1,0 +1,73 @@
+{
+  "id": 1259666863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.24453,66.49241,17.24453,66.49241",
+    "geom:latitude":66.49241,
+    "geom:longitude":17.24453,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2506.0",
+    "gn:asciiname":"Vuonatjviken",
+    "gn:country_code":"SE",
+    "gn:dem":544,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2662275,
+    "gn:latitude":66.49241,
+    "gn:longitude":17.24453,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Vuonatjviken",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:swe_x_preferred":[
+        "Vuonatjviken"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688471,
+        102191581,
+        1125300073,
+        85633789,
+        1159303049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2662275
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"ae4461729f410d6ed05d5871bd2869b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303049,
+            "localadmin_id":1125300073,
+            "locality_id":1259666863,
+            "region_id":85688471
+        }
+    ],
+    "wof:id":1259666863,
+    "wof:lastmodified":1537699743,
+    "wof:name":"Vuonatjviken",
+    "wof:parent_id":1125300073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.24452999999999,
+    66.49240999999999,
+    17.24452999999999,
+    66.49240999999999
+],
+  "geometry": {"coordinates":[17.24452999999999,66.49240999999999],"type":"Point"}
+}

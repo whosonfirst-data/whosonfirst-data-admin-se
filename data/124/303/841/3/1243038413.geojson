@@ -1,0 +1,70 @@
+{
+  "id": 1243038413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.36667,66.05,21.36667,66.05",
+    "geom:latitude":66.05,
+    "geom:longitude":21.36667,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2582.0",
+    "gn:asciiname":"Nybyn",
+    "gn:country_code":"SE",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":603942,
+    "gn:latitude":66.05,
+    "gn:longitude":21.36667,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Nybyn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688471,
+        102191581,
+        1125340865,
+        85633789,
+        1159303477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":603942
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"da651f698053c273c13f4d10337a7e80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303477,
+            "localadmin_id":1125340865,
+            "locality_id":1243038413,
+            "region_id":85688471
+        }
+    ],
+    "wof:id":1243038413,
+    "wof:lastmodified":1536896709,
+    "wof:name":"Nybyn",
+    "wof:parent_id":1125340865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.36667000000001,
+    66.05,
+    21.36667000000001,
+    66.05
+],
+  "geometry": {"coordinates":[21.36667000000001,66.05],"type":"Point"}
+}

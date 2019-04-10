@@ -1,0 +1,70 @@
+{
+  "id": 1309874649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.36667,60.05,18.36667,60.05",
+    "geom:latitude":60.05,
+    "geom:longitude":18.36667,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"380.0",
+    "gn:asciiname":"Kolarmora",
+    "gn:country_code":"SE",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2700022,
+    "gn:latitude":60.05,
+    "gn:longitude":18.36667,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Kolarmora",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688439,
+        102191581,
+        1125322121,
+        85633789,
+        1159303253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2700022
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"0ec2fa6ac25827c386139e33ac2a1c78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303253,
+            "localadmin_id":1125322121,
+            "locality_id":1309874649,
+            "region_id":85688439
+        }
+    ],
+    "wof:id":1309874649,
+    "wof:lastmodified":1536831018,
+    "wof:name":"Kolarmora",
+    "wof:parent_id":1125322121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.36667000000001,
+    60.05,
+    18.36667000000001,
+    60.05
+],
+  "geometry": {"coordinates":[18.36667000000001,60.05],"type":"Point"}
+}

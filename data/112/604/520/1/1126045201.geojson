@@ -1,0 +1,102 @@
+{
+  "id": 1126045201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.8,64.88333,20.8,64.88333",
+    "geom:latitude":64.88333,
+    "geom:longitude":20.8,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":437,
+    "gn:population":448,
+    "iso:country":"SE",
+    "lbl:latitude":64.88333,
+    "lbl:longitude":20.8,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u041a\u0443\u0441\u043c\u0430\u0440\u043a"
+    ],
+    "name:dut_x_preferred":[
+        "Kusmark"
+    ],
+    "name:eng_x_preferred":[
+        "Kusmark"
+    ],
+    "name:nan_x_preferred":[
+        "Kusmark"
+    ],
+    "name:nno_x_preferred":[
+        "Kusmark"
+    ],
+    "name:nob_x_preferred":[
+        "Kusmark"
+    ],
+    "name:swe_x_preferred":[
+        "Kusmark"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":604897,
+    "qs_pg:gn_pop":437,
+    "qs_pg:name":"Kusmark",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":550232,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688465,
+        102191581,
+        1125325315,
+        85633789,
+        1159303205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":604897,
+        "qs_pg:id":550232,
+        "wd:id":"Q2694138"
+    },
+    "wof:country":"SE",
+    "wof:created":1497302391,
+    "wof:geomhash":"4f049240959ae0c9cc32a2760558c7e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303205,
+            "localadmin_id":1125325315,
+            "locality_id":1126045201,
+            "region_id":85688465
+        }
+    ],
+    "wof:id":1126045201,
+    "wof:lastmodified":1529702978,
+    "wof:name":"Kusmark",
+    "wof:parent_id":1125325315,
+    "wof:placetype":"locality",
+    "wof:population":448,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.8,
+    64.88333,
+    20.8,
+    64.88333
+],
+  "geometry": {"coordinates":[20.8,64.88333],"type":"Point"}
+}

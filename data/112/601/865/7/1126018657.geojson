@@ -1,0 +1,117 @@
+{
+  "id": 1126018657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.43333,58.15,13.43333,58.15",
+    "geom:latitude":58.15,
+    "geom:longitude":13.43333,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":284,
+    "gn:population":290,
+    "iso:country":"SE",
+    "lbl:latitude":58.15,
+    "lbl:longitude":13.43333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u041e\u0434\u0435\u043d\u0441\u0431\u0435\u0440\u0433"
+    ],
+    "name:dut_x_preferred":[
+        "Odensberg"
+    ],
+    "name:eng_x_preferred":[
+        "Odensberg"
+    ],
+    "name:fre_x_preferred":[
+        "Odensberg"
+    ],
+    "name:nan_x_preferred":[
+        "Odensberg"
+    ],
+    "name:nno_x_preferred":[
+        "Odensberg"
+    ],
+    "name:nob_x_preferred":[
+        "Odensberg"
+    ],
+    "name:swe_x_preferred":[
+        "Odensberg"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2687452,
+    "qs_pg:gn_pop":284,
+    "qs_pg:name":"Odensberg",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"V\u00e4stra G\u00f6talands L\u00e4n",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":20,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":941623,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":900402,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"V\u00e4stra G\u00f6talands L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688411,
+        102191581,
+        1125340213,
+        85633789,
+        1159303137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2687452,
+        "gp:id":900402,
+        "qs_pg:id":941623,
+        "wd:id":"Q2253339"
+    },
+    "wof:country":"SE",
+    "wof:created":1497300698,
+    "wof:geomhash":"0886d32f659ce97b64e33dbdeb8539bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303137,
+            "localadmin_id":1125340213,
+            "locality_id":1126018657,
+            "region_id":85688411
+        }
+    ],
+    "wof:id":1126018657,
+    "wof:lastmodified":1529702270,
+    "wof:name":"Odensberg",
+    "wof:parent_id":1125340213,
+    "wof:placetype":"locality",
+    "wof:population":290,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.43333,
+    58.15,
+    13.43333,
+    58.15
+],
+  "geometry": {"coordinates":[13.43333,58.15],"type":"Point"}
+}

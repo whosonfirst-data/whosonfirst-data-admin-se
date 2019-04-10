@@ -1,0 +1,92 @@
+{
+  "id": 1125416999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.082026,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.0301546721,57.8275106164,19.3686921652,58.4187601813",
+    "geom:latitude":58.099857,
+    "geom:longitude":19.215156,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":548,
+    "gn:population":548,
+    "iso:country":"SE",
+    "lbl:latitude":58.06848,
+    "lbl:longitude":19.240803,
+    "mps:latitude":58.06848,
+    "mps:longitude":19.240803,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Faro"
+    ],
+    "name:swe_x_preferred":[
+        "F\u00e5r\u00f6"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8132512,
+    "qs_pg:gn_pop":548,
+    "qs_pg:name":"F\u00e5r\u00f6",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":758189,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "se-lant:distrkod":106092,
+    "se-lant:distrnamn":"F\u00e5r\u00f6",
+    "se-lant:gallerfran":"2016/01/01",
+    "src:geom":"se-lant",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633789,
+        85688405,
+        1159303535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8132512,
+        "qs_pg:id":758189
+    },
+    "wof:country":"SE",
+    "wof:created":1497051521,
+    "wof:geomhash":"10e0df7eeea1f53d22d20920a635a5c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303535,
+            "localadmin_id":1125416999,
+            "region_id":85688405
+        }
+    ],
+    "wof:id":1125416999,
+    "wof:lastmodified":1529702030,
+    "wof:name":"Faro",
+    "wof:parent_id":1159303535,
+    "wof:placetype":"localadmin",
+    "wof:population":548,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.03015467208556,
+    57.82751061637856,
+    19.36869216519229,
+    58.4187601812884
+],
+  "geometry": {"coordinates":[[[[19.07089988602429,57.86481133338911],[19.06805706351783,57.86900415701027],[19.04662680117698,57.88946751937318],[19.03096839770237,57.9024291169184],[19.03178057828172,57.90831316234604],[19.03225367426923,57.91301058256775],[19.03015467208556,57.92677178102993],[19.06498922890944,57.97079804279682],[19.15481841062626,58.00446417059546],[19.21005507232681,58.3090264518261],[19.13306535083776,58.39992122622557],[19.26161505146991,58.4187601812884],[19.34542255124416,58.37078503753172],[19.28084339393089,58.30571234645258],[19.31753591261363,57.99643436590521],[19.36869216519229,57.96438616253424],[19.30599286284655,57.92357289584402],[19.20778340339405,57.92013944935543],[19.13699685085694,57.82751061637856],[19.09076783728155,57.84696290491031],[19.07089988602429,57.86481133338911]]]],"type":"MultiPolygon"}
+}

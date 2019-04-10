@@ -1,0 +1,79 @@
+{
+  "id": 1226324065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.73333,58.43333,15.73333,58.43333",
+    "geom:latitude":58.43333,
+    "geom:longitude":15.73333,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"580.0",
+    "gn:asciiname":"Rycklosa",
+    "gn:country_code":"SE",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2681024,
+    "gn:latitude":58.43333,
+    "gn:longitude":15.73333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ryckl\u00f6sa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Ryckl\u00f6sa"
+    ],
+    "name:nor_x_variant":[
+        "Ryckl\u00f8sa"
+    ],
+    "name:und_x_variant":[
+        "Ryckl\u00f6sa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688409,
+        102191581,
+        1159306069,
+        85633789,
+        1159303147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2681024
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"790acc2dfd1a49359736bb6a7ddadac2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303147,
+            "localadmin_id":1159306069,
+            "locality_id":1226324065,
+            "region_id":85688409
+        }
+    ],
+    "wof:id":1226324065,
+    "wof:lastmodified":1537699854,
+    "wof:name":"Rycklosa",
+    "wof:parent_id":1159306069,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.73333,
+    58.43333000000001,
+    15.73333,
+    58.43333000000001
+],
+  "geometry": {"coordinates":[15.73333,58.43333000000001],"type":"Point"}
+}

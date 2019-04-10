@@ -1,0 +1,82 @@
+{
+  "id": 1193100803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.08659,58.39427,15.08659,58.39427",
+    "geom:latitude":58.39427,
+    "geom:longitude":15.08659,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"586.0",
+    "gn:admin3_code":"58603.0",
+    "gn:admin4_code":"493.0",
+    "gn:asciiname":"Skaenninge",
+    "gn:country_code":"SE",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2678266,
+    "gn:latitude":58.39427,
+    "gn:longitude":15.08659,
+    "gn:modification_date":"2017-03-18",
+    "gn:name":"Sk\u00e4nninge",
+    "gn:population":3358,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0428\u0435\u043d\u0438\u043d\u0433\u0435"
+    ],
+    "name:und_x_variant":[
+        "Sk\u00e4nninge"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688409,
+        102191581,
+        1125356061,
+        85633789,
+        1159302925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2678266,
+        "wk:page":"Sk%C3%A4nninge"
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"835e83d9ee77fabaf87070ff9dc8cf91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302925,
+            "localadmin_id":1125356061,
+            "locality_id":1193100803,
+            "region_id":85688409
+        }
+    ],
+    "wof:id":1193100803,
+    "wof:lastmodified":1537699839,
+    "wof:name":"Skaenninge",
+    "wof:parent_id":1125356061,
+    "wof:placetype":"locality",
+    "wof:population":3358,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.08659,
+    58.39427,
+    15.08659,
+    58.39427
+],
+  "geometry": {"coordinates":[15.08659,58.39427],"type":"Point"}
+}

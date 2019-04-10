@@ -1,0 +1,79 @@
+{
+  "id": 1226348669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.05,61.78333,16.05,61.78333",
+    "geom:latitude":61.78333,
+    "geom:longitude":16.05,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"2161.0",
+    "gn:asciiname":"Sjovesta",
+    "gn:country_code":"SE",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2678732,
+    "gn:latitude":61.78333,
+    "gn:longitude":16.05,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Sj\u00f6vesta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Sj\u00f6vesta"
+    ],
+    "name:nor_x_variant":[
+        "Sj\u00f8vesta"
+    ],
+    "name:und_x_variant":[
+        "Sj\u00f6vesta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688453,
+        102191581,
+        1125421381,
+        85633789,
+        1159303353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2678732
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"548bc08b825049e3346e4b35a549c117",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303353,
+            "localadmin_id":1125421381,
+            "locality_id":1226348669,
+            "region_id":85688453
+        }
+    ],
+    "wof:id":1226348669,
+    "wof:lastmodified":1537699840,
+    "wof:name":"Sjovesta",
+    "wof:parent_id":1125421381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.05,
+    61.78333000000001,
+    16.05,
+    61.78333000000001
+],
+  "geometry": {"coordinates":[16.05,61.78333000000001],"type":"Point"}
+}

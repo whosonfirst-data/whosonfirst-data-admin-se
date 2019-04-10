@@ -1,0 +1,74 @@
+{
+  "id": 1209713741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.07253,57.91363,19.07253,57.91363",
+    "geom:latitude":57.91363,
+    "geom:longitude":19.07253,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"980.0",
+    "gn:asciiname":"Lansa",
+    "gn:country_code":"SE",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2697718,
+    "gn:latitude":57.91363,
+    "gn:longitude":19.07253,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Lansa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Landsn\u00e4sa",
+        "Landsn\u00e4s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688405,
+        102191581,
+        1125416999,
+        85633789,
+        1159303535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2697718
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"0a67c8f400aaf967e36e3d811c274b4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303535,
+            "localadmin_id":1125416999,
+            "locality_id":1209713741,
+            "region_id":85688405
+        }
+    ],
+    "wof:id":1209713741,
+    "wof:lastmodified":1537699986,
+    "wof:name":"Lansa",
+    "wof:parent_id":1125416999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.07253,
+    57.91363000000001,
+    19.07253,
+    57.91363000000001
+],
+  "geometry": {"coordinates":[19.07253,57.91363000000001],"type":"Point"}
+}

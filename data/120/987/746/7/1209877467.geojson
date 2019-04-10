@@ -1,0 +1,70 @@
+{
+  "id": 1209877467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.34167,59.10556,11.34167,59.10556",
+    "geom:latitude":59.10556,
+    "geom:longitude":11.34167,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"1486.0",
+    "gn:asciiname":"Mossviken",
+    "gn:country_code":"SE",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3330186,
+    "gn:latitude":59.10556,
+    "gn:longitude":11.34167,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Mossviken",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688411,
+        102191581,
+        1159306781,
+        85633789,
+        1159303235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3330186
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"a7325468cc9e711637dc3a2053e63b3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303235,
+            "localadmin_id":1159306781,
+            "locality_id":1209877467,
+            "region_id":85688411
+        }
+    ],
+    "wof:id":1209877467,
+    "wof:lastmodified":1536396576,
+    "wof:name":"Mossviken",
+    "wof:parent_id":1159306781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.34167,
+    59.10556,
+    11.34167,
+    59.10556
+],
+  "geometry": {"coordinates":[11.34167,59.10556],"type":"Point"}
+}

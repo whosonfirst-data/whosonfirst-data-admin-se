@@ -1,0 +1,83 @@
+{
+  "id": 1260379255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.23333,61.83333,13.23333,61.83333",
+    "geom:latitude":61.83333,
+    "geom:longitude":13.23333,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2039.0",
+    "gn:asciiname":"Ojvassla",
+    "gn:cc2":"SE",
+    "gn:country_code":"SE",
+    "gn:dem":563,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2687243,
+    "gn:latitude":61.83333,
+    "gn:longitude":13.23333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"\u00d6jvassla",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "\u00d6jvassla"
+    ],
+    "name:nor_x_variant":[
+        "\u00d8jvassla"
+    ],
+    "name:und_x_variant":[
+        "\u00d6vasslan",
+        "\u00d6jvasslan",
+        "\u00d6jvasseln",
+        "\u00d6jvassla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688447,
+        102191581,
+        1125417533,
+        85633789,
+        1159303373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2687243
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"f95e913d6832e6e7c5c107e6ded77329",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303373,
+            "localadmin_id":1125417533,
+            "locality_id":1260379255,
+            "region_id":85688447
+        }
+    ],
+    "wof:id":1260379255,
+    "wof:lastmodified":1537699925,
+    "wof:name":"Ojvassla",
+    "wof:parent_id":1125417533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.23333,
+    61.83333,
+    13.23333,
+    61.83333
+],
+  "geometry": {"coordinates":[13.23333,61.83333],"type":"Point"}
+}

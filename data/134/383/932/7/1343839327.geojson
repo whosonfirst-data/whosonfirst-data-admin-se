@@ -1,0 +1,75 @@
+{
+  "id": 1343839327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.68333,57.91667,15.68333,57.91667",
+    "geom:latitude":57.91667,
+    "geom:longitude":15.68333,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"513.0",
+    "gn:asciiname":"Skivemala",
+    "gn:cc2":"SE",
+    "gn:country_code":"SE",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2677545,
+    "gn:latitude":57.91667,
+    "gn:longitude":15.68333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Skivem\u00e5la",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Skiverm\u00e5la",
+        "Skivem\u00e5la"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688409,
+        102191581,
+        1125325819,
+        85633789,
+        1159303139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2677545
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"7106080cc593ea58e267d53e40e0b5c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303139,
+            "localadmin_id":1125325819,
+            "locality_id":1343839327,
+            "region_id":85688409
+        }
+    ],
+    "wof:id":1343839327,
+    "wof:lastmodified":1537699836,
+    "wof:name":"Skivemala",
+    "wof:parent_id":1125325819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.68333,
+    57.91667,
+    15.68333,
+    57.91667
+],
+  "geometry": {"coordinates":[15.68333,57.91667],"type":"Point"}
+}

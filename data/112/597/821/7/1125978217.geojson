@@ -1,0 +1,106 @@
+{
+  "id": 1125978217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.55,61.4,16.55,61.4",
+    "geom:latitude":61.4,
+    "geom:longitude":16.55,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"SE",
+    "lbl:latitude":61.4,
+    "lbl:longitude":16.55,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "V\u00e4xbo"
+    ],
+    "name:eng_x_preferred":[
+        "V\u00e4xbo"
+    ],
+    "name:fin_x_preferred":[
+        "V\u00e4xbo"
+    ],
+    "name:ger_x_preferred":[
+        "V\u00e4xbo"
+    ],
+    "name:swe_x_preferred":[
+        "V\u00e4xbo"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2663543,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"V\u00e4xbo",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"G\u00e4vleborgs L\u00e4n",
+    "qs_pg:photos":17,
+    "qs_pg:photos_1k":3,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":17,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":421269,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":909709,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"G\u00e4vleborgs L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688453,
+        102191581,
+        1125382105,
+        85633789,
+        1159303465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2663543,
+        "gp:id":909709,
+        "qs_pg:id":421269,
+        "wd:id":"Q2143966"
+    },
+    "wof:country":"SE",
+    "wof:created":1497298436,
+    "wof:geomhash":"99e3be44c90deef27dd66911b733d8ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303465,
+            "localadmin_id":1125382105,
+            "locality_id":1125978217,
+            "region_id":85688453
+        }
+    ],
+    "wof:id":1125978217,
+    "wof:lastmodified":1529702072,
+    "wof:name":"V\u00e4xbo",
+    "wof:parent_id":1125382105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.55,
+    61.4,
+    16.55,
+    61.4
+],
+  "geometry": {"coordinates":[16.55,61.4],"type":"Point"}
+}

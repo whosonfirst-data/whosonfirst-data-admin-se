@@ -1,0 +1,70 @@
+{
+  "id": 1243522801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.91667,64.95,19.91667,64.95",
+    "geom:latitude":64.95,
+    "geom:longitude":19.91667,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"2417.0",
+    "gn:asciiname":"Gumboda",
+    "gn:country_code":"SE",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2709890,
+    "gn:latitude":64.95,
+    "gn:longitude":19.91667,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Gumboda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688465,
+        102191581,
+        1125363687,
+        85633789,
+        1159303021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2709890
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"5e87ec9024bd22dd706015c76b54c523",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303021,
+            "localadmin_id":1125363687,
+            "locality_id":1243522801,
+            "region_id":85688465
+        }
+    ],
+    "wof:id":1243522801,
+    "wof:lastmodified":1536695769,
+    "wof:name":"Gumboda",
+    "wof:parent_id":1125363687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.91667,
+    64.95,
+    19.91667,
+    64.95
+],
+  "geometry": {"coordinates":[19.91667,64.95],"type":"Point"}
+}

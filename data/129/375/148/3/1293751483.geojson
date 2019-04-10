@@ -1,0 +1,75 @@
+{
+  "id": 1293751483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.25077,62.46294,17.25077,62.46294",
+    "geom:latitude":62.46294,
+    "geom:longitude":17.25077,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2262.0",
+    "gn:admin3_code":"226201.0",
+    "gn:admin4_code":"2501.0",
+    "gn:asciiname":"Laggarberg",
+    "gn:country_code":"SE",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2697917,
+    "gn:latitude":62.46294,
+    "gn:longitude":17.25077,
+    "gn:modification_date":"2017-03-18",
+    "gn:name":"Laggarberg",
+    "gn:population":209,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688457,
+        102191581,
+        1125394735,
+        85633789,
+        1159303091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2697917
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"43299fd23add519062ca9a22a5707de3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303091,
+            "localadmin_id":1125394735,
+            "locality_id":1293751483,
+            "region_id":85688457
+        }
+    ],
+    "wof:id":1293751483,
+    "wof:lastmodified":1536903880,
+    "wof:name":"Laggarberg",
+    "wof:parent_id":1125394735,
+    "wof:placetype":"locality",
+    "wof:population":209,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.25077000000001,
+    62.46294,
+    17.25077000000001,
+    62.46294
+],
+  "geometry": {"coordinates":[17.25077000000001,62.46294],"type":"Point"}
+}

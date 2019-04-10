@@ -1,0 +1,75 @@
+{
+  "id": 1276199279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.68333,66.28333,22.68333,66.28333",
+    "geom:latitude":66.28333,
+    "geom:longitude":22.68333,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2513.0",
+    "gn:asciiname":"Nottrask",
+    "gn:cc2":"SE",
+    "gn:country_code":"SE",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":603985,
+    "gn:latitude":66.28333,
+    "gn:longitude":22.68333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Nottr\u00e4sk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nottr\u00e4sket",
+        "Nottr\u00e4sk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688471,
+        102191581,
+        1125287801,
+        85633789,
+        1159302979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":603985
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"1840f16c5a1d5aa45b882e698784524b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302979,
+            "localadmin_id":1125287801,
+            "locality_id":1276199279,
+            "region_id":85688471
+        }
+    ],
+    "wof:id":1276199279,
+    "wof:lastmodified":1537699714,
+    "wof:name":"Nottrask",
+    "wof:parent_id":1125287801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.68333,
+    66.28333,
+    22.68333,
+    66.28333
+],
+  "geometry": {"coordinates":[22.68333,66.28333000000001],"type":"Point"}
+}

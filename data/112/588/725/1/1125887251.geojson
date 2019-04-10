@@ -1,0 +1,119 @@
+{
+  "id": 1125887251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.66667,57.15,15.66667,57.15",
+    "geom:latitude":57.15,
+    "geom:longitude":15.66667,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":219,
+    "iso:country":"SE",
+    "lbl:latitude":57.15,
+    "lbl:longitude":15.66667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Fagerhult"
+    ],
+    "name:eng_x_preferred":[
+        "Fagerhult"
+    ],
+    "name:ita_x_preferred":[
+        "Fagerhult"
+    ],
+    "name:nan_x_preferred":[
+        "Fagerhult"
+    ],
+    "name:nno_x_preferred":[
+        "Fagerhult"
+    ],
+    "name:nob_x_preferred":[
+        "Fagerhult"
+    ],
+    "name:swe_x_preferred":[
+        "Fagerhult"
+    ],
+    "name:urd_x_preferred":[
+        "\u0641\u0627\u06af\u06cc\u0631\u06c1\u0648\u0644\u0679\u060c \u06c1\u0648\u06af\u0633\u0628\u06cc"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2715702,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Fagerhult",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"Kalmar L\u00e4n",
+    "qs_pg:photos":3,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":3,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":910577,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":889169,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"Kalmar L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688401,
+        102191581,
+        1125417511,
+        85633789,
+        1159302955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2715702,
+        "gp:id":889169,
+        "qs_pg:id":910577,
+        "wd:id":"Q3290907"
+    },
+    "wof:country":"SE",
+    "wof:created":1497295138,
+    "wof:geomhash":"fb310a9e2965890d4833351c7641368f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302955,
+            "localadmin_id":1125417511,
+            "locality_id":1125887251,
+            "region_id":85688401
+        }
+    ],
+    "wof:id":1125887251,
+    "wof:lastmodified":1554166234,
+    "wof:name":"Fagerhult",
+    "wof:parent_id":1125417511,
+    "wof:placetype":"locality",
+    "wof:population":219,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.66667,
+    57.15,
+    15.66667,
+    57.15
+],
+  "geometry": {"coordinates":[15.66667,57.15],"type":"Point"}
+}

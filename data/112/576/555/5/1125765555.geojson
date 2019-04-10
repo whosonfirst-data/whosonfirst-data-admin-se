@@ -1,0 +1,128 @@
+{
+  "id": 1125765555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.46667,63.38333,18.46667,63.38333",
+    "geom:latitude":63.38333,
+    "geom:longitude":18.46667,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":323,
+    "gn:population":300,
+    "iso:country":"SE",
+    "lbl:latitude":63.38333,
+    "lbl:longitude":18.46667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u041c\u043e\u043b\u0438\u0434\u0435\u043d"
+    ],
+    "name:dut_x_preferred":[
+        "Moliden"
+    ],
+    "name:eng_x_preferred":[
+        "Moliden"
+    ],
+    "name:fre_x_preferred":[
+        "Moliden"
+    ],
+    "name:ger_x_preferred":[
+        "Moliden"
+    ],
+    "name:nan_x_preferred":[
+        "Moliden"
+    ],
+    "name:nno_x_preferred":[
+        "Moliden"
+    ],
+    "name:nob_x_preferred":[
+        "Moliden"
+    ],
+    "name:pol_x_preferred":[
+        "Moliden"
+    ],
+    "name:spa_x_preferred":[
+        "Moliden"
+    ],
+    "name:swe_x_preferred":[
+        "Moliden"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2691517,
+    "qs_pg:gn_pop":323,
+    "qs_pg:name":"Moliden",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"V\u00e4sternorrlands L\u00e4n",
+    "qs_pg:photos":53,
+    "qs_pg:photos_1k":11,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":53,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1332371,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":898625,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"V\u00e4sternorrlands L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688457,
+        102191581,
+        1125417543,
+        85633789,
+        1159303463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2691517,
+        "gp:id":898625,
+        "qs_pg:id":1332371,
+        "wd:id":"Q175885"
+    },
+    "wof:country":"SE",
+    "wof:created":1497289879,
+    "wof:geomhash":"cb8fd98e16f363ae8dff58018706461c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303463,
+            "localadmin_id":1125417543,
+            "locality_id":1125765555,
+            "region_id":85688457
+        }
+    ],
+    "wof:id":1125765555,
+    "wof:lastmodified":1529703002,
+    "wof:name":"Moliden",
+    "wof:parent_id":1125417543,
+    "wof:placetype":"locality",
+    "wof:population":300,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.46667,
+    63.38333,
+    18.46667,
+    63.38333
+],
+  "geometry": {"coordinates":[18.46667,63.38333],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1126112613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-05-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.86716,66.22443,20.86716,66.22443",
+    "geom:latitude":66.22443,
+    "geom:longitude":20.86716,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"CMP",
+    "gn:gn_pop":50,
+    "gn:population":50,
+    "iso:country":"SE",
+    "lbl:latitude":66.22443,
+    "lbl:longitude":20.86716,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"CMP",
+    "qs_pg:gn_id":6942805,
+    "qs_pg:gn_pop":50,
+    "qs_pg:name":"Laxede",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":105846,
+    "qs_pg:qs_pg_placetype":"locality_funky",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6942805,
+        "qs_pg:id":105846
+    },
+    "wof:country":"SE",
+    "wof:created":1497469766,
+    "wof:geomhash":"3df8509cdea13b405f1f9093f3dcf704",
+    "wof:hierarchy":[
+        {
+            "country_id":85633789,
+            "locality_id":1126112613
+        }
+    ],
+    "wof:id":1126112613,
+    "wof:lastmodified":1505186848,
+    "wof:name":"Laxede",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":50,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.86716,
+    66.22443,
+    20.86716,
+    66.22443
+],
+  "geometry": {"coordinates":[20.86716,66.22443],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1226462665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.88333,63.55,15.88333,63.55",
+    "geom:latitude":63.55,
+    "geom:longitude":15.88333,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"2313.0",
+    "gn:asciiname":"Sorviksnaset",
+    "gn:cc2":"SE",
+    "gn:country_code":"SE",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2674994,
+    "gn:latitude":63.55,
+    "gn:longitude":15.88333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"S\u00f6rviksn\u00e4set",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u00f6rviken",
+        "S\u00f6rviksn\u00e4set"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688461,
+        102191581,
+        1125359575,
+        85633789,
+        1159303417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2674994
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"4f56e56e533985cc51b3f7ad76acf672",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303417,
+            "localadmin_id":1125359575,
+            "locality_id":1226462665,
+            "region_id":85688461
+        }
+    ],
+    "wof:id":1226462665,
+    "wof:lastmodified":1537699802,
+    "wof:name":"Sorviksnaset",
+    "wof:parent_id":1125359575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.88333,
+    63.55,
+    15.88333,
+    63.55
+],
+  "geometry": {"coordinates":[15.88333,63.55],"type":"Point"}
+}

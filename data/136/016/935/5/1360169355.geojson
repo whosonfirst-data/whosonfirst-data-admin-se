@@ -1,0 +1,79 @@
+{
+  "id": 1360169355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.35,58.06667,14.35,58.06667",
+    "geom:latitude":58.06667,
+    "geom:longitude":14.35,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"680.0",
+    "gn:asciiname":"Avlosa",
+    "gn:country_code":"SE",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2724211,
+    "gn:latitude":58.06667,
+    "gn:longitude":14.35,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Avl\u00f6sa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Avl\u00f6sa"
+    ],
+    "name:nor_x_variant":[
+        "Avl\u00f8sa"
+    ],
+    "name:und_x_variant":[
+        "Avl\u00f6sa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688395,
+        102191581,
+        1125382157,
+        85633789,
+        1159303375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2724211
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"16715f34a50a5cb0fbf4197f0017e097",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303375,
+            "localadmin_id":1125382157,
+            "locality_id":1360169355,
+            "region_id":85688395
+        }
+    ],
+    "wof:id":1360169355,
+    "wof:lastmodified":1537700135,
+    "wof:name":"Avlosa",
+    "wof:parent_id":1125382157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.35,
+    58.06667,
+    14.35,
+    58.06667
+],
+  "geometry": {"coordinates":[14.35,58.06667],"type":"Point"}
+}

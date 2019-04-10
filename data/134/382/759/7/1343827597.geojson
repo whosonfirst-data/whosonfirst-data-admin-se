@@ -1,0 +1,70 @@
+{
+  "id": 1343827597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.15,59.1,15.15,59.1",
+    "geom:latitude":59.1,
+    "geom:longitude":15.15,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1881.0",
+    "gn:asciiname":"Norra Sanna",
+    "gn:country_code":"SE",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2688726,
+    "gn:latitude":59.1,
+    "gn:longitude":15.15,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Norra Sanna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688421,
+        102191581,
+        1125363669,
+        85633789,
+        1159303127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2688726
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"fd7fc5fb4a30f5646d5971ba832b27e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303127,
+            "localadmin_id":1125363669,
+            "locality_id":1343827597,
+            "region_id":85688421
+        }
+    ],
+    "wof:id":1343827597,
+    "wof:lastmodified":1536714455,
+    "wof:name":"Norra Sanna",
+    "wof:parent_id":1125363669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.15,
+    59.1,
+    15.15,
+    59.1
+],
+  "geometry": {"coordinates":[15.15,59.1],"type":"Point"}
+}

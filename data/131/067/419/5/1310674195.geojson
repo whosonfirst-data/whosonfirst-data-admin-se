@@ -1,0 +1,75 @@
+{
+  "id": 1310674195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.26667,66.91667,21.26667,66.91667",
+    "geom:latitude":66.91667,
+    "geom:longitude":21.26667,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2523.0",
+    "gn:asciiname":"Ratukkavaara",
+    "gn:cc2":"SE",
+    "gn:country_code":"SE",
+    "gn:dem":286,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":603413,
+    "gn:latitude":66.91667,
+    "gn:longitude":21.26667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ratukkavaara",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ratukkavaaraby",
+        "Ratukkavaara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688471,
+        102191581,
+        1125373597,
+        85633789,
+        1159303507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":603413
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"6a9330900c416b9e264ea4072bf6a17b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303507,
+            "localadmin_id":1125373597,
+            "locality_id":1310674195,
+            "region_id":85688471
+        }
+    ],
+    "wof:id":1310674195,
+    "wof:lastmodified":1537699708,
+    "wof:name":"Ratukkavaara",
+    "wof:parent_id":1125373597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.26667,
+    66.91667,
+    21.26667,
+    66.91667
+],
+  "geometry": {"coordinates":[21.26667,66.91667],"type":"Point"}
+}

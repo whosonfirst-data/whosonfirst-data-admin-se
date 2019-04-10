@@ -1,0 +1,72 @@
+{
+  "id": 1243605095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.84302,56.26709,12.84302,56.26709",
+    "geom:latitude":56.26709,
+    "geom:longitude":12.84302,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"1292.0",
+    "gn:admin3_code":"129209.0",
+    "gn:admin4_code":"1024.0",
+    "gn:asciiname":"Skalderviken",
+    "gn:country_code":"SE",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2678517,
+    "gn:latitude":56.26709,
+    "gn:longitude":12.84302,
+    "gn:modification_date":"2012-07-01",
+    "gn:name":"Sk\u00e4lderviken",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688377,
+        102191581,
+        1125423359,
+        85633789,
+        1159303025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2678517
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"bf6dd09d54c35b29c70f2bfef5c3ef95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303025,
+            "localadmin_id":1125423359,
+            "locality_id":1243605095,
+            "region_id":85688377
+        }
+    ],
+    "wof:id":1243605095,
+    "wof:lastmodified":1537070908,
+    "wof:name":"Skalderviken",
+    "wof:parent_id":1125423359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.84302,
+    56.26709,
+    12.84302,
+    56.26709
+],
+  "geometry": {"coordinates":[12.84302,56.26709],"type":"Point"}
+}

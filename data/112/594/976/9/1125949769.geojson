@@ -1,0 +1,100 @@
+{
+  "id": 1125949769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.03333,55.73333,13.03333,55.73333",
+    "geom:latitude":55.73333,
+    "geom:longitude":13.03333,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"SE",
+    "lbl:latitude":55.73333,
+    "lbl:longitude":13.03333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Borgeby"
+    ],
+    "name:swe_x_preferred":[
+        "Borgeby"
+    ],
+    "name:unk_x_variant":[
+        "Rutsborg"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3331421,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Borgeby",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"Sk\u00e5ne L\u00e4n",
+    "qs_pg:photos":30,
+    "qs_pg:photos_1k":6,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":30,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1238890,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":29282112,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"Sk\u00e5ne L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688377,
+        102191581,
+        1159305839,
+        85633789,
+        1159302981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3331421,
+        "gp:id":29282112,
+        "qs_pg:id":1238890,
+        "wd:id":"Q15105835"
+    },
+    "wof:country":"SE",
+    "wof:created":1497297411,
+    "wof:geomhash":"e5284e1dd3f6e2f8496c58cf90c0e199",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302981,
+            "localadmin_id":1159305839,
+            "locality_id":1125949769,
+            "region_id":85688377
+        }
+    ],
+    "wof:id":1125949769,
+    "wof:lastmodified":1529702691,
+    "wof:name":"Borgeby",
+    "wof:parent_id":1159305839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.03333,
+    55.73333,
+    13.03333,
+    55.73333
+],
+  "geometry": {"coordinates":[13.03333,55.73333],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209300229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.51667,63.93333,16.51667,63.93333",
+    "geom:latitude":63.93333,
+    "geom:longitude":16.51667,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"2313.0",
+    "gn:asciiname":"Stensvattnet",
+    "gn:country_code":"SE",
+    "gn:dem":244,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2673922,
+    "gn:latitude":63.93333,
+    "gn:longitude":16.51667,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Stensvattnet",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2673922
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"ad0db8e5ca639c3687824d3104133056",
+    "wof:hierarchy":[
+        {
+            "country_id":85633789,
+            "locality_id":1209300229
+        }
+    ],
+    "wof:id":1209300229,
+    "wof:lastmodified":1536291384,
+    "wof:name":"Stensvattnet",
+    "wof:parent_id":85633789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.51667,
+    63.93333000000001,
+    16.51667,
+    63.93333000000001
+],
+  "geometry": {"coordinates":[16.51667,63.93333000000001],"type":"Point"}
+}

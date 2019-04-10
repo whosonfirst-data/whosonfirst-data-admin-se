@@ -1,0 +1,75 @@
+{
+  "id": 1259948487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.23333,60.15,13.23333,60.15",
+    "geom:latitude":60.15,
+    "geom:longitude":13.23333,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1737.0",
+    "gn:asciiname":"Krakasen",
+    "gn:cc2":"SE",
+    "gn:country_code":"SE",
+    "gn:dem":222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2699478,
+    "gn:latitude":60.15,
+    "gn:longitude":13.23333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kr\u00e5k\u00e5sen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Krock\u00e5sen",
+        "Kr\u00e5k\u00e5sen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688435,
+        102191581,
+        1125395785,
+        85633789,
+        1159303063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2699478
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"07e83991e59b7472bff90c7a5536e6d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303063,
+            "localadmin_id":1125395785,
+            "locality_id":1259948487,
+            "region_id":85688435
+        }
+    ],
+    "wof:id":1259948487,
+    "wof:lastmodified":1537699993,
+    "wof:name":"Krakasen",
+    "wof:parent_id":1125395785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.23333,
+    60.15,
+    13.23333,
+    60.15
+],
+  "geometry": {"coordinates":[13.23333,60.15],"type":"Point"}
+}

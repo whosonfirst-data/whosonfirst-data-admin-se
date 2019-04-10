@@ -1,0 +1,123 @@
+{
+  "id": 101817127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000119,
+    "geom:area_square_m":786024.425054,
+    "geom:bbox":"11.6698748888,57.7250424395,11.6849586916,57.7395291832",
+    "geom:latitude":57.732425,
+    "geom:longitude":11.679165,
+    "iso:country":"SE",
+    "lbl:latitude":57.731031,
+    "lbl:longitude":11.679908,
+    "mps:latitude":57.731031,
+    "mps:longitude":11.679908,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dan_x_preferred":[
+        "Bj\u00f6rk\u00f6"
+    ],
+    "name:dut_x_preferred":[
+        "Bj\u00f6rk\u00f6"
+    ],
+    "name:eng_x_preferred":[
+        "Bohus-Bj\u00f6rk\u00f6"
+    ],
+    "name:fin_x_preferred":[
+        "Bj\u00f6rk\u00f6"
+    ],
+    "name:nan_x_preferred":[
+        "Bohus-Bj\u00f6rk\u00f6"
+    ],
+    "name:nld_x_preferred":[
+        "Bj\u00f6rk\u00f6"
+    ],
+    "name:nno_x_preferred":[
+        "Bj\u00f6rk\u00f6"
+    ],
+    "name:nob_x_preferred":[
+        "Bj\u00f6rk\u00f6"
+    ],
+    "name:nor_x_preferred":[
+        "Bj\u00f6rk\u00f6"
+    ],
+    "name:nor_x_variant":[
+        "Bj\u00f8rk\u00f8"
+    ],
+    "name:pol_x_preferred":[
+        "Bj\u00f6rk\u00f6"
+    ],
+    "name:por_x_preferred":[
+        "Bj\u00f6rk\u00f6"
+    ],
+    "name:sco_x_preferred":[
+        "Bohus-Bj\u00f6rk\u00f6"
+    ],
+    "name:swe_x_preferred":[
+        "Bohus-Bj\u00f6rk\u00f6"
+    ],
+    "qs:a0":"Sverige",
+    "qs:a1":"*V\u00e4stra G\u00f6talands l\u00e4n",
+    "qs:a1r":"0",
+    "qs:adm0":"Sverige",
+    "qs:la":"\u00d6cker\u00f6",
+    "qs:la_lc":"*SE1407",
+    "qs:level":"locality",
+    "qs:loc":"Bj\u00f6rk\u00f6",
+    "qs:loc_alt":"Bjorko",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85688411,
+        102191581,
+        1125394757,
+        85633789,
+        1159303495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2722026,
+        "gp:id":886551,
+        "qs:id":9,
+        "qs_pg:id":1301094,
+        "wd:id":"Q2586650",
+        "wk:page":"Bohus-Bj\u00f6rk\u00f6"
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"d6435be514934614fa6f5b15a0d5fba0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303495,
+            "localadmin_id":1125394757,
+            "locality_id":101817127,
+            "region_id":85688411
+        }
+    ],
+    "wof:id":101817127,
+    "wof:lastmodified":1529702227,
+    "wof:name":"Bj\u00f6rk\u00f6",
+    "wof:parent_id":1125394757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.66987488878374,
+    57.72504243953085,
+    11.68495869164116,
+    57.73952918321174
+],
+  "geometry": {"coordinates":[[[11.68017671795906,57.73948696438987],[11.68013572132628,57.73858814604534],[11.68181190010017,57.73856700560572],[11.68177086496792,57.73766818807047],[11.68344700107747,57.73764702714146],[11.68340592744977,57.73674821041607],[11.68172983219733,57.73676937075902],[11.68160674805711,57.73407292016736],[11.68495869164116,57.73403058192423],[11.68454774788671,57.72504243953085],[11.68119662104726,57.7250847660539],[11.68123762312757,57.72598358046065],[11.67956201617642,57.72600471270698],[11.67960297978738,57.72690352792193],[11.67792733020599,57.72692463968531],[11.67796825534288,57.72782345570783],[11.67629256313069,57.72784454698728],[11.67641523016295,57.73054099814635],[11.67306359532699,57.73058312099789],[11.6731860384777,57.73327957766736],[11.67151009583489,57.73330060923445],[11.67155087406849,57.7341994291541],[11.66987488878374,57.73422044023073],[11.66991562851319,57.73511926095574],[11.67494370153901,57.73505616276049],[11.67510717419344,57.73865144091104],[11.67678335837104,57.73863036369801],[11.67682427327912,57.73952918321174],[11.68017671795906,57.73948696438987]]],"type":"Polygon"}
+}

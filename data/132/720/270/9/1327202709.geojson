@@ -1,0 +1,75 @@
+{
+  "id": 1327202709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.41667,59.41667,13.41667,59.41667",
+    "geom:latitude":59.41667,
+    "geom:longitude":13.41667,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1780.0",
+    "gn:asciiname":"Lilla Vansberg",
+    "gn:cc2":"SE",
+    "gn:country_code":"SE",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2695318,
+    "gn:latitude":59.41667,
+    "gn:longitude":13.41667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Lilla V\u00e4nsberg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "V\u00e4nsberg",
+        "Lilla V\u00e4nsberg"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688435,
+        102191581,
+        1125288227,
+        85633789,
+        1159303443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2695318
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"f77ba08749bb503183dddeaf9be42fe0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303443,
+            "localadmin_id":1125288227,
+            "locality_id":1327202709,
+            "region_id":85688435
+        }
+    ],
+    "wof:id":1327202709,
+    "wof:lastmodified":1537699979,
+    "wof:name":"Lilla Vansberg",
+    "wof:parent_id":1125288227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.41667,
+    59.41667,
+    13.41667,
+    59.41667
+],
+  "geometry": {"coordinates":[13.41667,59.41667],"type":"Point"}
+}

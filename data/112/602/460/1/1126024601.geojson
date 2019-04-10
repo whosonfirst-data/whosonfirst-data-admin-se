@@ -1,0 +1,114 @@
+{
+  "id": 1126024601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.46667,60.23333,17.46667,60.23333",
+    "geom:latitude":60.23333,
+    "geom:longitude":17.46667,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":670,
+    "gn:population":671,
+    "iso:country":"SE",
+    "lbl:latitude":60.23333,
+    "lbl:longitude":17.46667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "M\u00e5nkarbo"
+    ],
+    "name:eng_x_preferred":[
+        "M\u00e5nkarbo"
+    ],
+    "name:ita_x_preferred":[
+        "M\u00e5nkarbo"
+    ],
+    "name:nan_x_preferred":[
+        "M\u00e5nkarbo"
+    ],
+    "name:nno_x_preferred":[
+        "M\u00e5nkarbo"
+    ],
+    "name:nob_x_preferred":[
+        "M\u00e5nkarbo"
+    ],
+    "name:swe_x_preferred":[
+        "M\u00e5nkarbo"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2692811,
+    "qs_pg:gn_pop":670,
+    "qs_pg:name":"M\u00e5nkarbo",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"Uppsala L\u00e4n",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":953005,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":898141,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"Uppsala L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688439,
+        102191581,
+        1159306675,
+        85633789,
+        1159302963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2692811,
+        "gp:id":898141,
+        "qs_pg:id":953005,
+        "wd:id":"Q2611587"
+    },
+    "wof:country":"SE",
+    "wof:created":1497301055,
+    "wof:geomhash":"4580ffd5bbc26ba95021fc33e7cd7be8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302963,
+            "localadmin_id":1159306675,
+            "locality_id":1126024601,
+            "region_id":85688439
+        }
+    ],
+    "wof:id":1126024601,
+    "wof:lastmodified":1529702888,
+    "wof:name":"M\u00e5nkarbo",
+    "wof:parent_id":1159306675,
+    "wof:placetype":"locality",
+    "wof:population":671,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.46667,
+    60.23333,
+    17.46667,
+    60.23333
+],
+  "geometry": {"coordinates":[17.46667,60.23333],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1125384249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-05-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.67553,56.21672,15.67553,56.21672",
+    "geom:latitude":56.21672,
+    "geom:longitude":15.67553,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":11776,
+    "gn:population":11776,
+    "iso:country":"SE",
+    "lbl:latitude":56.21672,
+    "lbl:longitude":15.67553,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8131958,
+    "qs_pg:gn_pop":11776,
+    "qs_pg:name":"Lyck\u00e5",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":757839,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633789,
+        85688383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8131958,
+        "qs_pg:id":757839
+    },
+    "wof:country":"SE",
+    "wof:created":1497048262,
+    "wof:geomhash":"20597cf5aba5a822aa1394ff7fc19367",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "localadmin_id":1125384249,
+            "region_id":85688383
+        }
+    ],
+    "wof:id":1125384249,
+    "wof:lastmodified":1525735523,
+    "wof:name":"Lyck\u00e5",
+    "wof:parent_id":85688383,
+    "wof:placetype":"localadmin",
+    "wof:population":11776,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.67553,
+    56.21672,
+    15.67553,
+    56.21672
+],
+  "geometry": {"coordinates":[15.67553,56.21672],"type":"Point"}
+}

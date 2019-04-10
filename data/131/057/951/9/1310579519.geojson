@@ -1,0 +1,75 @@
+{
+  "id": 1310579519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.31667,60.66667,15.31667,60.66667",
+    "geom:latitude":60.66667,
+    "geom:longitude":15.31667,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2029.0",
+    "gn:asciiname":"Kvarnberg",
+    "gn:cc2":"SE",
+    "gn:country_code":"SE",
+    "gn:dem":286,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2698469,
+    "gn:latitude":60.66667,
+    "gn:longitude":15.31667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kvarnberg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qvarnberg",
+        "Kvarnberg"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688447,
+        102191581,
+        1125287625,
+        85633789,
+        1159303237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2698469
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"6a523195820e0c668c7d6db3ed881f35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303237,
+            "localadmin_id":1125287625,
+            "locality_id":1310579519,
+            "region_id":85688447
+        }
+    ],
+    "wof:id":1310579519,
+    "wof:lastmodified":1537699989,
+    "wof:name":"Kvarnberg",
+    "wof:parent_id":1125287625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.31667,
+    60.66667,
+    15.31667,
+    60.66667
+],
+  "geometry": {"coordinates":[15.31667,60.66667],"type":"Point"}
+}

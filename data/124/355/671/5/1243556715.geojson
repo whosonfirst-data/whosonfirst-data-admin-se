@@ -1,0 +1,79 @@
+{
+  "id": 1243556715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.58333,56.33333,14.58333,56.33333",
+    "geom:latitude":56.33333,
+    "geom:longitude":14.58333,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"1060.0",
+    "gn:asciiname":"Stora Brodhult",
+    "gn:country_code":"SE",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2673387,
+    "gn:latitude":56.33333,
+    "gn:longitude":14.58333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Stora Br\u00f6dhult",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Stora Br\u00f6dhult"
+    ],
+    "name:nor_x_variant":[
+        "Stora Br\u00f8dhult"
+    ],
+    "name:und_x_variant":[
+        "Stora Br\u00f6dhult"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688383,
+        102191581,
+        1125329371,
+        85633789,
+        1159303187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2673387
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"bf4c9d1bac39817c944851e0f8879a18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303187,
+            "localadmin_id":1125329371,
+            "locality_id":1243556715,
+            "region_id":85688383
+        }
+    ],
+    "wof:id":1243556715,
+    "wof:lastmodified":1554166241,
+    "wof:name":"Stora Brodhult",
+    "wof:parent_id":1125329371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.58333,
+    56.33333,
+    14.58333,
+    56.33333
+],
+  "geometry": {"coordinates":[14.58333,56.33333],"type":"Point"}
+}

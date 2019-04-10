@@ -1,0 +1,70 @@
+{
+  "id": 1276622689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.5,63.71667,19.5,63.71667",
+    "geom:latitude":63.71667,
+    "geom:longitude":19.5,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"2401.0",
+    "gn:asciiname":"Hummelholm",
+    "gn:country_code":"SE",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2704336,
+    "gn:latitude":63.71667,
+    "gn:longitude":19.5,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Hummelholm",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688465,
+        102191581,
+        1125270343,
+        85633789,
+        1159303093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2704336
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"9a8fb3452162f16207841d742ee6cd69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303093,
+            "localadmin_id":1125270343,
+            "locality_id":1276622689,
+            "region_id":85688465
+        }
+    ],
+    "wof:id":1276622689,
+    "wof:lastmodified":1536887974,
+    "wof:name":"Hummelholm",
+    "wof:parent_id":1125270343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.5,
+    63.71666999999999,
+    19.5,
+    63.71666999999999
+],
+  "geometry": {"coordinates":[19.5,63.71666999999999],"type":"Point"}
+}

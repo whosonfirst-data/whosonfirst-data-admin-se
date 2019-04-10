@@ -1,0 +1,79 @@
+{
+  "id": 1225991593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.61667,58.66667,14.61667,58.66667",
+    "geom:latitude":58.66667,
+    "geom:longitude":14.61667,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"1446.0",
+    "gn:asciiname":"Sorhamn",
+    "gn:country_code":"SE",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2675132,
+    "gn:latitude":58.66667,
+    "gn:longitude":14.61667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"S\u00f6rhamn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "S\u00f6rhamn"
+    ],
+    "name:nor_x_variant":[
+        "S\u00f8rhamn"
+    ],
+    "name:und_x_variant":[
+        "S\u00f6rhamn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688411,
+        102191581,
+        1125358401,
+        85633789,
+        1159302935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2675132
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"50c049af0d50525acda5896cfb79f76a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302935,
+            "localadmin_id":1125358401,
+            "locality_id":1225991593,
+            "region_id":85688411
+        }
+    ],
+    "wof:id":1225991593,
+    "wof:lastmodified":1537699806,
+    "wof:name":"Sorhamn",
+    "wof:parent_id":1125358401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.61667,
+    58.66667,
+    14.61667,
+    58.66667
+],
+  "geometry": {"coordinates":[14.61667,58.66667],"type":"Point"}
+}

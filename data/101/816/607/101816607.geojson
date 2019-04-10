@@ -1,0 +1,126 @@
+{
+  "id": 101816607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000163,
+    "geom:area_square_m":1124701.093089,
+    "geom:bbox":"13.7362843562,56.1061204701,13.7539305821,56.1243013917",
+    "geom:latitude":56.113334,
+    "geom:longitude":13.744381,
+    "gn:population":1045,
+    "iso:country":"SE",
+    "lbl:latitude":56.111626,
+    "lbl:longitude":13.743512,
+    "mps:latitude":56.111626,
+    "mps:longitude":13.743512,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0422\u043e\u0440\u043c\u0435\u0441\u0442\u043e\u0440\u043f"
+    ],
+    "name:dut_x_preferred":[
+        "Tormestorp"
+    ],
+    "name:eng_x_preferred":[
+        "Tormastorp"
+    ],
+    "name:nan_x_preferred":[
+        "Tormestorp"
+    ],
+    "name:nld_x_preferred":[
+        "Tormestorp"
+    ],
+    "name:nno_x_preferred":[
+        "Tormestorp"
+    ],
+    "name:nob_x_preferred":[
+        "Tormestorp"
+    ],
+    "name:nor_x_preferred":[
+        "Tormestorp"
+    ],
+    "name:swe_x_preferred":[
+        "Tormestorp"
+    ],
+    "name:swe_x_variant":[
+        "Tormestorps"
+    ],
+    "name:unk_x_variant":[
+        "Tormastorp"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Tormestorp"
+    ],
+    "qs:a0":"Sverige",
+    "qs:a1":"*Sk\u00e5ne l\u00e4n",
+    "qs:a1r":"0",
+    "qs:adm0":"Sverige",
+    "qs:la":"H\u00e4ssleholm",
+    "qs:la_lc":"*SE1293",
+    "qs:level":"locality",
+    "qs:loc":"Tormestorp",
+    "qs:loc_alt":"Tormestorp",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":45,
+    "wof:belongsto":[
+        85688377,
+        102191581,
+        1125372769,
+        85633789,
+        1159303121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06d25354-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2668180,
+        "gp:id":907741,
+        "qs:id":279117,
+        "qs_pg:id":279117,
+        "wd:id":"Q2095032",
+        "wk:page":"Tormestorp"
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"2bce46a2441b56ff93e41337d05435fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303121,
+            "localadmin_id":1125372769,
+            "locality_id":101816607,
+            "region_id":85688377
+        }
+    ],
+    "wof:id":101816607,
+    "wof:lang":[
+        "swe"
+    ],
+    "wof:lastmodified":1529702657,
+    "wof:name":"Tormestorp",
+    "wof:parent_id":1125372769,
+    "wof:placetype":"locality",
+    "wof:population":1045,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.73628435622248,
+    56.10612047009687,
+    13.75393058213956,
+    56.12430139169828
+],
+  "geometry": {"coordinates":[[[13.74086937082564,56.12430139169828],[13.75049812277553,56.12402047023852],[13.75032554347001,56.12222578456647],[13.74551140418299,56.12236632810982],[13.74542523187921,56.12146898168527],[13.74382054834791,56.12151578823381],[13.74364829141354,56.11972109311523],[13.74204367778788,56.11976787717788],[13.74178543803635,56.1170758312781],[13.74820343008014,56.11688858951572],[13.74794479196566,56.11419655885652],[13.7495491707885,56.11414970200997],[13.74929046502416,56.11145767556627],[13.75089473006369,56.1114108023674],[13.75080846753895,56.11051346156484],[13.75241269225859,56.11046656956239],[13.75232639773913,56.10956923004613],[13.75393058213956,56.10952231924125],[13.75367161680754,56.1068303047295],[13.74725529827202,56.10701781305465],[13.74716913282055,56.10612047009687],[13.73914883746704,56.10635439875108],[13.7393208059147,56.10814909696671],[13.73771666265327,56.10819582505906],[13.73788857651169,56.10999052595878],[13.73628435622248,56.11003723646638],[13.73645621547746,56.11183194004985],[13.73806050922065,56.11178522709776],[13.73840443120383,56.11537463009552],[13.74000886829543,56.11532789222042],[13.74043906057403,56.11981464120521],[13.73883443977371,56.11986138519666],[13.73892045563696,56.12075873639799],[13.7405251131853,56.12071199118299],[13.74086937082564,56.12430139169828]]],"type":"Polygon"}
+}

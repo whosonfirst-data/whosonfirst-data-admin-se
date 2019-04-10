@@ -1,0 +1,72 @@
+{
+  "id": 1326599593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.01239,59.51238,15.01239,59.51238",
+    "geom:latitude":59.51238,
+    "geom:longitude":15.01239,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1884.0",
+    "gn:admin3_code":"188404.0",
+    "gn:admin4_code":"2254.0",
+    "gn:asciiname":"Knutsberg",
+    "gn:country_code":"SE",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2700142,
+    "gn:latitude":59.51238,
+    "gn:longitude":15.01239,
+    "gn:modification_date":"2014-05-03",
+    "gn:name":"Knutsberg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688421,
+        102191581,
+        1125372581,
+        85633789,
+        1159303053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2700142
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"05cea108bcf8e11daa3c1c8ff7e0983c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303053,
+            "localadmin_id":1125372581,
+            "locality_id":1326599593,
+            "region_id":85688421
+        }
+    ],
+    "wof:id":1326599593,
+    "wof:lastmodified":1536886538,
+    "wof:name":"Knutsberg",
+    "wof:parent_id":1125372581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.01239,
+    59.51238000000001,
+    15.01239,
+    59.51238000000001
+],
+  "geometry": {"coordinates":[15.01239,59.51238000000001],"type":"Point"}
+}

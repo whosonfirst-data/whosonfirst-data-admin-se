@@ -1,0 +1,68 @@
+{
+  "id": 1326724305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.11667,56.56667,16.11667,56.56667",
+    "geom:latitude":56.56667,
+    "geom:longitude":16.11667,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"880.0",
+    "gn:asciiname":"Arby",
+    "gn:country_code":"SE",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2725448,
+    "gn:latitude":56.56667,
+    "gn:longitude":16.11667,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Arby",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688401,
+        1125362521,
+        1159303065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2725448
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"8bcd2d52e6bcf13f2e10c037f07c8eab",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "county_id":1159303065,
+            "localadmin_id":1125362521,
+            "locality_id":1326724305,
+            "region_id":85688401
+        }
+    ],
+    "wof:id":1326724305,
+    "wof:lastmodified":1536707537,
+    "wof:name":"Arby",
+    "wof:parent_id":1125362521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.11667000000001,
+    56.56667,
+    16.11667000000001,
+    56.56667
+],
+  "geometry": {"coordinates":[16.11667000000001,56.56667],"type":"Point"}
+}

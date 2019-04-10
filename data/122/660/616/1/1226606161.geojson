@@ -1,0 +1,70 @@
+{
+  "id": 1226606161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.11667,58.11667,12.11667,58.11667",
+    "geom:latitude":58.11667,
+    "geom:longitude":12.11667,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"1462.0",
+    "gn:asciiname":"Holmen",
+    "gn:country_code":"SE",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2705291,
+    "gn:latitude":58.11667,
+    "gn:longitude":12.11667,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Holmen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688411,
+        102191581,
+        1125358435,
+        85633789,
+        1159303279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2705291
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"09052596d47b4a409e44302573fb1e06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303279,
+            "localadmin_id":1125358435,
+            "locality_id":1226606161,
+            "region_id":85688411
+        }
+    ],
+    "wof:id":1226606161,
+    "wof:lastmodified":1536915535,
+    "wof:name":"Holmen",
+    "wof:parent_id":1125358435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.11667,
+    58.11666999999999,
+    12.11667,
+    58.11666999999999
+],
+  "geometry": {"coordinates":[12.11667,58.11666999999999],"type":"Point"}
+}

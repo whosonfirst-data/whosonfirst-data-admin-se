@@ -1,0 +1,79 @@
+{
+  "id": 1243135851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.73333,58.05,15.73333,58.05",
+    "geom:latitude":58.05,
+    "geom:longitude":15.73333,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"513.0",
+    "gn:asciiname":"Brot",
+    "gn:country_code":"SE",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2719058,
+    "gn:latitude":58.05,
+    "gn:longitude":15.73333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Br\u00f6t",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Br\u00f6t"
+    ],
+    "name:nor_x_variant":[
+        "Br\u00f8t"
+    ],
+    "name:und_x_variant":[
+        "Br\u00f6t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688409,
+        102191581,
+        1125325789,
+        85633789,
+        1159303139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2719058
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"59a20a64c9f6d1d77ec99bca32dfa96c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303139,
+            "localadmin_id":1125325789,
+            "locality_id":1243135851,
+            "region_id":85688409
+        }
+    ],
+    "wof:id":1243135851,
+    "wof:lastmodified":1537700100,
+    "wof:name":"Brot",
+    "wof:parent_id":1125325789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.73333,
+    58.05,
+    15.73333,
+    58.05
+],
+  "geometry": {"coordinates":[15.73333,58.05],"type":"Point"}
+}

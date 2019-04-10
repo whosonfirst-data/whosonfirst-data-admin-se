@@ -1,0 +1,75 @@
+{
+  "id": 1226806143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.25,60.03333,16.25,60.03333",
+    "geom:latitude":60.03333,
+    "geom:longitude":16.25,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1981.0",
+    "gn:asciiname":"Vasterbykil",
+    "gn:cc2":"SE",
+    "gn:country_code":"SE",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2664386,
+    "gn:latitude":60.03333,
+    "gn:longitude":16.25,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"V\u00e4sterbykil",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vesterbykil",
+        "V\u00e4sterbykil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688425,
+        102191581,
+        1125325029,
+        85633789,
+        1159303409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2664386
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"2df75da73935e0f89cd7edd281f59431",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303409,
+            "localadmin_id":1125325029,
+            "locality_id":1226806143,
+            "region_id":85688425
+        }
+    ],
+    "wof:id":1226806143,
+    "wof:lastmodified":1537699756,
+    "wof:name":"Vasterbykil",
+    "wof:parent_id":1125325029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.25,
+    60.03333000000001,
+    16.25,
+    60.03333000000001
+],
+  "geometry": {"coordinates":[16.25,60.03333000000001],"type":"Point"}
+}

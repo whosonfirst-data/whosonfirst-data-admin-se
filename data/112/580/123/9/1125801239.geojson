@@ -1,0 +1,119 @@
+{
+  "id": 1125801239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.85,61.26667,16.85,61.26667",
+    "geom:latitude":61.26667,
+    "geom:longitude":16.85,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":847,
+    "gn:population":719,
+    "iso:country":"SE",
+    "lbl:latitude":61.26667,
+    "lbl:longitude":16.85,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0411\u0435\u0440\u0433\u0432\u0438\u043a"
+    ],
+    "name:dut_x_preferred":[
+        "Bergvik"
+    ],
+    "name:eng_x_preferred":[
+        "Bergvik"
+    ],
+    "name:mac_x_preferred":[
+        "\u0411\u0435\u0440\u0433\u0432\u0438\u043a"
+    ],
+    "name:nan_x_preferred":[
+        "Bergvik"
+    ],
+    "name:nno_x_preferred":[
+        "Bergvik"
+    ],
+    "name:nob_x_preferred":[
+        "Bergvik"
+    ],
+    "name:swe_x_preferred":[
+        "Bergvik"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2722665,
+    "qs_pg:gn_pop":847,
+    "qs_pg:name":"Bergvik",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"G\u00e4vleborgs L\u00e4n",
+    "qs_pg:photos":153,
+    "qs_pg:photos_1k":31,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":153,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":185618,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":886251,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"G\u00e4vleborgs L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688453,
+        102191581,
+        1159306685,
+        85633789,
+        1159303385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2722665,
+        "gp:id":886251,
+        "qs_pg:id":185618,
+        "wd:id":"Q1920643"
+    },
+    "wof:country":"SE",
+    "wof:created":1497291269,
+    "wof:geomhash":"75cbae91d880d392047627d27c1438ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303385,
+            "localadmin_id":1159306685,
+            "locality_id":1125801239,
+            "region_id":85688453
+        }
+    ],
+    "wof:id":1125801239,
+    "wof:lastmodified":1529702065,
+    "wof:name":"Bergvik",
+    "wof:parent_id":1159306685,
+    "wof:placetype":"locality",
+    "wof:population":719,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.85,
+    61.26667,
+    16.85,
+    61.26667
+],
+  "geometry": {"coordinates":[16.85,61.26667],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209092799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.16667,56.58333,15.16667,56.58333",
+    "geom:latitude":56.58333,
+    "geom:longitude":15.16667,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"763.0",
+    "gn:asciiname":"Vackholmsryd",
+    "gn:country_code":"SE",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2665964,
+    "gn:latitude":56.58333,
+    "gn:longitude":15.16667,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"V\u00e4ckholmsryd",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2665964
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"af319fa66299481e5732c9eb22616428",
+    "wof:hierarchy":[
+        {
+            "country_id":85633789,
+            "locality_id":1209092799
+        }
+    ],
+    "wof:id":1209092799,
+    "wof:lastmodified":1536297984,
+    "wof:name":"Vackholmsryd",
+    "wof:parent_id":85633789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.166670000000002,
+    56.58333,
+    15.166670000000002,
+    56.58333
+],
+  "geometry": {"coordinates":[15.16667,56.58333],"type":"Point"}
+}

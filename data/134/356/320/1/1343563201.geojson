@@ -1,0 +1,77 @@
+{
+  "id": 1343563201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.51667,56.11667,15.51667,56.11667",
+    "geom:latitude":56.11667,
+    "geom:longitude":15.51667,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Aspo",
+    "gn:country_code":"SE",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2724537,
+    "gn:latitude":56.11667,
+    "gn:longitude":15.51667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Asp\u00f6",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Asp\u00f6"
+    ],
+    "name:nor_x_variant":[
+        "Asp\u00f8"
+    ],
+    "name:und_x_variant":[
+        "Asp\u00f6"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688383,
+        1159305755,
+        1159303467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2724537,
+        "wk:page":"Asp%C3%B6%2C_Karlskrona"
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"1a81dcd685d3c6eb506e09ddb98ed45d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "county_id":1159303467,
+            "localadmin_id":1159305755,
+            "locality_id":1343563201,
+            "region_id":85688383
+        }
+    ],
+    "wof:id":1343563201,
+    "wof:lastmodified":1537700137,
+    "wof:name":"Aspo",
+    "wof:parent_id":1159305755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.51667,
+    56.11666999999999,
+    15.51667,
+    56.11666999999999
+],
+  "geometry": {"coordinates":[15.51667,56.11666999999999],"type":"Point"}
+}

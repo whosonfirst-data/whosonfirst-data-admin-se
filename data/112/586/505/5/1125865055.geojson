@@ -1,0 +1,111 @@
+{
+  "id": 1125865055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.53333,60.96667,14.53333,60.96667",
+    "geom:latitude":60.96667,
+    "geom:longitude":14.53333,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":331,
+    "gn:population":312,
+    "iso:country":"SE",
+    "lbl:latitude":60.96667,
+    "lbl:longitude":14.53333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Vin\u00e4s"
+    ],
+    "name:eng_x_preferred":[
+        "Vin\u00e4s"
+    ],
+    "name:nan_x_preferred":[
+        "Vin\u00e4s"
+    ],
+    "name:nno_x_preferred":[
+        "Vin\u00e4s"
+    ],
+    "name:nob_x_preferred":[
+        "Vin\u00e4s"
+    ],
+    "name:swe_x_preferred":[
+        "Vin\u00e4s"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2662868,
+    "qs_pg:gn_pop":331,
+    "qs_pg:name":"Vin\u00e4s",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"Dalarnas L\u00e4n",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":19,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":256084,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":910031,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"Dalarnas L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688447,
+        102191581,
+        1125382233,
+        85633789,
+        1159303515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2662868,
+        "gp:id":910031,
+        "qs_pg:id":256084,
+        "wd:id":"Q969636"
+    },
+    "wof:country":"SE",
+    "wof:created":1497293995,
+    "wof:geomhash":"c8f5218e97492f71aa7f5ab14dc15e91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303515,
+            "localadmin_id":1125382233,
+            "locality_id":1125865055,
+            "region_id":85688447
+        }
+    ],
+    "wof:id":1125865055,
+    "wof:lastmodified":1529702007,
+    "wof:name":"Vin\u00e4s",
+    "wof:parent_id":1125382233,
+    "wof:placetype":"locality",
+    "wof:population":312,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.53333,
+    60.96667,
+    14.53333,
+    60.96667
+],
+  "geometry": {"coordinates":[14.53333,60.96667],"type":"Point"}
+}

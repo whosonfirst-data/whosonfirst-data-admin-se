@@ -1,0 +1,92 @@
+{
+  "id": 1125356397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.007306,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.2647111606,63.1188018958,14.3998882119,63.212080272",
+    "geom:latitude":63.163116,
+    "geom:longitude":14.335463,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":122,
+    "gn:population":122,
+    "iso:country":"SE",
+    "lbl:latitude":63.159613,
+    "lbl:longitude":14.340071,
+    "mps:latitude":63.159613,
+    "mps:longitude":14.340071,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Nordero"
+    ],
+    "name:swe_x_preferred":[
+        "Norder\u00f6"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8132616,
+    "qs_pg:gn_pop":122,
+    "qs_pg:name":"Norder\u00f6",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":758256,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "se-lant:distrkod":322024,
+    "se-lant:distrnamn":"Norder\u00f6",
+    "se-lant:gallerfran":"2016/01/01",
+    "src:geom":"se-lant",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633789,
+        85688461,
+        1159303231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8132616,
+        "qs_pg:id":758256
+    },
+    "wof:country":"SE",
+    "wof:created":1497046495,
+    "wof:geomhash":"30beebbcd2916d3a7d62f67a09a9d06b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303231,
+            "localadmin_id":1125356397,
+            "region_id":85688461
+        }
+    ],
+    "wof:id":1125356397,
+    "wof:lastmodified":1529702371,
+    "wof:name":"Nordero",
+    "wof:parent_id":1159303231,
+    "wof:placetype":"localadmin",
+    "wof:population":122,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.26471116055545,
+    63.11880189581499,
+    14.3998882119094,
+    63.21208027202233
+],
+  "geometry": {"coordinates":[[[[14.38731897651818,63.18530214915101],[14.38620221871499,63.17539710326216],[14.3915203052558,63.16054807620885],[14.39723054314028,63.15405048900497],[14.3998882119094,63.15164832026709],[14.39665374696806,63.14770654442569],[14.39303614629017,63.14301160135866],[14.39226130033519,63.1333501467946],[14.38382838771614,63.12584359008152],[14.37818888570669,63.11880189581499],[14.35720168069984,63.12109831522701],[14.34306057043092,63.1246123955377],[14.33438860647465,63.12738473501761],[14.33081559951698,63.12887571993637],[14.32839933638535,63.13006121464532],[14.31791181791559,63.13790066190051],[14.31781286747487,63.1379708171472],[14.30980540016382,63.14233771693381],[14.30209490845117,63.14355927463153],[14.29310876133125,63.14664051369174],[14.28713353800832,63.14922539929067],[14.26471116055545,63.16413310768663],[14.27472572192232,63.17793678261102],[14.2846659192925,63.19141677536392],[14.29992207515889,63.21208027202233],[14.31433784796997,63.20562055654095],[14.34356069337649,63.19203516842138],[14.36464090654241,63.1873248818138],[14.38731897651818,63.18530214915101]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,116 @@
+{
+  "id": 1126010803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.53333,60.9,14.53333,60.9",
+    "geom:latitude":60.9,
+    "geom:longitude":14.53333,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":235,
+    "gn:population":260,
+    "iso:country":"SE",
+    "lbl:latitude":60.9,
+    "lbl:longitude":14.53333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0413\u0435\u0441\u0443\u043d\u0434\u0430"
+    ],
+    "name:dut_x_preferred":[
+        "Gesunda"
+    ],
+    "name:eng_x_preferred":[
+        "Gesunda"
+    ],
+    "name:nan_x_preferred":[
+        "Gesunda"
+    ],
+    "name:nno_x_preferred":[
+        "Gesunda"
+    ],
+    "name:nob_x_preferred":[
+        "Gesunda"
+    ],
+    "name:swe_x_preferred":[
+        "Gesunda"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2712295,
+    "qs_pg:gn_pop":235,
+    "qs_pg:name":"Gesunda",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"Dalarnas L\u00e4n",
+    "qs_pg:photos":150,
+    "qs_pg:photos_1k":30,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":150,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1351090,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":890587,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"Dalarnas L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688447,
+        102191581,
+        1125421439,
+        85633789,
+        1159303515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2712295,
+        "gp:id":890587,
+        "qs_pg:id":1351090,
+        "wd:id":"Q3032658"
+    },
+    "wof:country":"SE",
+    "wof:created":1497300262,
+    "wof:geomhash":"e88bc33914955ab952417402be6631f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303515,
+            "localadmin_id":1125421439,
+            "locality_id":1126010803,
+            "region_id":85688447
+        }
+    ],
+    "wof:id":1126010803,
+    "wof:lastmodified":1529702002,
+    "wof:name":"Gesunda",
+    "wof:parent_id":1125421439,
+    "wof:placetype":"locality",
+    "wof:population":260,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.53333,
+    60.9,
+    14.53333,
+    60.9
+],
+  "geometry": {"coordinates":[14.53333,60.9],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243509803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.15,62.95,18.15,62.95",
+    "geom:latitude":62.95,
+    "geom:longitude":18.15,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2282.0",
+    "gn:asciiname":"Jappling",
+    "gn:country_code":"SE",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2703306,
+    "gn:latitude":62.95,
+    "gn:longitude":18.15,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"J\u00e4ppling",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688457,
+        102191581,
+        1159307175,
+        85633789,
+        1159303301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2703306
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"73a1ee05b935ae7439f7be9d9819e7a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303301,
+            "localadmin_id":1159307175,
+            "locality_id":1243509803,
+            "region_id":85688457
+        }
+    ],
+    "wof:id":1243509803,
+    "wof:lastmodified":1536714624,
+    "wof:name":"Jappling",
+    "wof:parent_id":1159307175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.15,
+    62.95,
+    18.15,
+    62.95
+],
+  "geometry": {"coordinates":[18.15,62.95],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1243065813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.19487,57.33503,18.19487,57.33503",
+    "geom:latitude":57.33503,
+    "geom:longitude":18.19487,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"980.0",
+    "gn:asciiname":"Frojel",
+    "gn:country_code":"SE",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2713624,
+    "gn:latitude":57.33503,
+    "gn:longitude":18.19487,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Fr\u00f6jel",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Fr\u00f6jel"
+    ],
+    "name:nor_x_variant":[
+        "Fr\u00f8jel"
+    ],
+    "name:und_x_variant":[
+        "Fr\u00f6jel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688405,
+        102191581,
+        1125382127,
+        85633789,
+        1159303535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2713624,
+        "wk:page":"Fr%C3%B6jel"
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"85c36fb716a74fe6111e8f923a9b2fac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303535,
+            "localadmin_id":1125382127,
+            "locality_id":1243065813,
+            "region_id":85688405
+        }
+    ],
+    "wof:id":1243065813,
+    "wof:lastmodified":1537700076,
+    "wof:name":"Frojel",
+    "wof:parent_id":1125382127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.19487,
+    57.33503,
+    18.19487,
+    57.33503
+],
+  "geometry": {"coordinates":[18.19487,57.33503],"type":"Point"}
+}

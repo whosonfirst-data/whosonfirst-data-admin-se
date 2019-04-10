@@ -1,0 +1,108 @@
+{
+  "id": 85905469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000304,
+    "geom:area_square_m":2004299.808698,
+    "geom:bbox":"12.0574951172,57.7144175938,12.0830967605,57.7325140979",
+    "geom:latitude":57.724247,
+    "geom:longitude":12.072116,
+    "gn:id":"",
+    "iso:country":"SE",
+    "lbl:latitude":57.727798,
+    "lbl:longitude":12.072082,
+    "mps:latitude":57.723216,
+    "mps:longitude":12.07236,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":4,
+    "name:swe_x_preferred":[
+        "Savegarten"
+    ],
+    "name:unk_x_variant":[
+        "Savegarten"
+    ],
+    "qs:gn_adm0_cc":"SE",
+    "qs:gn_id":0,
+    "qs:gn_local":2711537,
+    "qs:gn_nam_loc":"G\u00f6teborg, G\u00f6teborg, V\u00e4stra G\u00f6talands L\u00e4n, SE",
+    "qs:gn_namadm1":"28",
+    "qs:local_max":7780,
+    "qs:local_sum":88702,
+    "qs:localhoods":78,
+    "qs:name":"Savegarten",
+    "qs:name_adm0":"Sverige",
+    "qs:name_adm1":"V\u00e4stra G\u00f6talands L\u00e4n",
+    "qs:name_adm2":"Partille",
+    "qs:name_local":"G\u00f6teborg",
+    "qs:photo_max":34,
+    "qs:photo_sum":73,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":8,
+    "qs:woe_adm0":23424954,
+    "qs:woe_adm1":20070562,
+    "qs:woe_adm2":12587241,
+    "qs:woe_lau":0,
+    "qs:woe_local":890869,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85688411,
+        102191581,
+        1125287157,
+        85633789,
+        101752295,
+        1159302989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20151590,
+        "qs:id":212125,
+        "qs_pg:id":212125
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"eab4a3a57b5217421cc95ee3697fecf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302989,
+            "localadmin_id":1125287157,
+            "locality_id":101752295,
+            "neighbourhood_id":85905469,
+            "region_id":85688411
+        }
+    ],
+    "wof:id":85905469,
+    "wof:lang":[
+        "swe"
+    ],
+    "wof:lastmodified":1529702310,
+    "wof:name":"Savegarten",
+    "wof:parent_id":101752295,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.05749511720012,
+    57.71441759380023,
+    12.08309676046815,
+    57.73251409793222
+],
+  "geometry": {"coordinates":[[[12.08276119122422,57.73055208445034],[12.08309676046815,57.72615251462527],[12.08211503089586,57.72431398089752],[12.08025611433305,57.71735159155016],[12.08024791819906,57.71734545298271],[12.07868409595534,57.71441759380023],[12.07161590120052,57.71441759380023],[12.065734863275,57.71992319037194],[12.065734863275,57.72064757124652],[12.06142200573606,57.72468575354991],[12.05906151964655,57.72468575354991],[12.05906126569209,57.72468599135009],[12.05776540783711,57.7271129421887],[12.05785551347844,57.72761921620004],[12.05749511720012,57.72761921620004],[12.05749511720012,57.73055214390003],[12.06298828119998,57.73055214390003],[12.06848144530011,57.73055214390003],[12.06848144530011,57.73055208445034],[12.07004708605217,57.73055208445034],[12.07004733991204,57.73055184669998],[12.07360424743734,57.73055184669998],[12.073974609375,57.73093724281323],[12.08155132202933,57.73251409793222],[12.08210407900197,57.73227516128115],[12.08276119122422,57.73055208445034]]],"type":"Polygon"}
+}

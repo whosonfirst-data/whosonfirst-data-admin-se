@@ -1,0 +1,135 @@
+{
+  "id": 101816843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000246,
+    "geom:area_square_m":1641839.133245,
+    "geom:bbox":"14.5796372208,57.3095972498,14.6072163729,57.3259709359",
+    "geom:latitude":57.318154,
+    "geom:longitude":14.592174,
+    "gn:population":1003,
+    "iso:country":"SE",
+    "lbl:latitude":57.317786,
+    "lbl:longitude":14.592174,
+    "mps:latitude":57.317786,
+    "mps:longitude":14.592174,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cze_x_preferred":[
+        "Stockaryd"
+    ],
+    "name:deu_x_preferred":[
+        "Stockaryd"
+    ],
+    "name:dut_x_preferred":[
+        "Stockaryd"
+    ],
+    "name:eng_x_preferred":[
+        "Stockaryd"
+    ],
+    "name:fre_x_preferred":[
+        "Stockaryd"
+    ],
+    "name:ger_x_preferred":[
+        "Stockaryd"
+    ],
+    "name:ita_x_preferred":[
+        "Stockaryd"
+    ],
+    "name:nan_x_preferred":[
+        "Stockaryd"
+    ],
+    "name:nld_x_preferred":[
+        "Stockaryd"
+    ],
+    "name:nno_x_preferred":[
+        "Stockaryd"
+    ],
+    "name:nob_x_preferred":[
+        "Stockaryd"
+    ],
+    "name:nor_x_preferred":[
+        "Stockaryd"
+    ],
+    "name:swe_x_preferred":[
+        "Stockaryd"
+    ],
+    "name:swe_x_variant":[
+        "Stockaryds"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Stockaryd"
+    ],
+    "qs:a0":"Sverige",
+    "qs:a1":"*J\u00f6nk\u00f6pings l\u00e4n",
+    "qs:a1r":"0",
+    "qs:adm0":"Sverige",
+    "qs:la":"S\u00e4vsj\u00f6",
+    "qs:la_lc":"*SE0684",
+    "qs:level":"locality",
+    "qs:loc":"Stockaryd",
+    "qs:loc_alt":"Stockaryd",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":45,
+    "wof:belongsto":[
+        85688395,
+        102191581,
+        1125395777,
+        85633789,
+        1159303069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06d2a796-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2673758,
+        "gp:id":906035,
+        "qs:id":941765,
+        "qs_pg:id":941765,
+        "wd:id":"Q1016852",
+        "wk:page":"Stockaryd"
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"0982115f1d2e9e970419276622ad02ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303069,
+            "localadmin_id":1125395777,
+            "locality_id":101816843,
+            "region_id":85688395
+        }
+    ],
+    "wof:id":101816843,
+    "wof:lang":[
+        "swe"
+    ],
+    "wof:lastmodified":1529702442,
+    "wof:name":"Stockaryd",
+    "wof:parent_id":1125395777,
+    "wof:placetype":"locality",
+    "wof:population":1003,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.57963722081786,
+    57.30959724983319,
+    14.60721637287293,
+    57.32597093585798
+],
+  "geometry": {"coordinates":[[[14.60115039059627,57.32287665233611],[14.60092937068208,57.32108298558126],[14.60589359681177,57.32090964839563],[14.60556175879321,57.31821916311537],[14.60721637287293,57.318161347309],[14.60699509998898,57.31636769406066],[14.60368602487091,57.31648329864134],[14.60357547675125,57.31558646900407],[14.59861194655429,57.3157597156636],[14.59850152306399,57.31486288139826],[14.59684704289015,57.31492058724905],[14.59662629360236,57.31312691584827],[14.59497188755233,57.313184597825],[14.59453062187799,57.30959724983319],[14.59122211101112,57.30971253903397],[14.59144257356354,57.31150621912764],[14.58317081851015,57.31179409506069],[14.5836110296467,57.31538148771187],[14.58195650653511,57.3154390069754],[14.58206653547074,57.31633585693498],[14.58041196813906,57.3163933570325],[14.58085198845879,57.31998076405904],[14.5825067136434,57.31992325769511],[14.58283691283833,57.32261380923438],[14.58118206924109,57.32267132029887],[14.58129210865508,57.32356817256408],[14.57963722081786,57.32362566445795],[14.5798572394217,57.32541937239927],[14.58151220621767,57.32536187737185],[14.58140215431411,57.32446502492161],[14.58305707686435,57.32440751072284],[14.58294699172836,57.32351065993242],[14.58460187003527,57.32345312656344],[14.58449175167016,57.32255627743297],[14.58945623955498,57.32238355760876],[14.58989722423894,57.32597093585798],[14.59486214288688,57.32579801055846],[14.59453103969349,57.32310749086878],[14.60115039059627,57.32287665233611]]],"type":"Polygon"}
+}

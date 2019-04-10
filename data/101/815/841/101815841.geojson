@@ -1,0 +1,129 @@
+{
+  "id": 101815841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000182,
+    "geom:area_square_m":1153818.023392,
+    "geom:bbox":"15.5207291243,59.151691034,15.5388669981,59.1719004418",
+    "geom:latitude":59.1622,
+    "geom:longitude":15.528765,
+    "gn:population":1384,
+    "iso:country":"SE",
+    "lbl:latitude":59.162491,
+    "lbl:longitude":15.527872,
+    "mps:latitude":59.162491,
+    "mps:longitude":15.527872,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Odensbacken"
+    ],
+    "name:eng_x_preferred":[
+        "Odensbacken"
+    ],
+    "name:fra_x_preferred":[
+        "Odensbacken"
+    ],
+    "name:fre_x_preferred":[
+        "Odensbacken"
+    ],
+    "name:nan_x_preferred":[
+        "Odensbacken"
+    ],
+    "name:nld_x_preferred":[
+        "Odensbacken"
+    ],
+    "name:nno_x_preferred":[
+        "Odensbacken"
+    ],
+    "name:nob_x_preferred":[
+        "Odensbacken"
+    ],
+    "name:nor_x_preferred":[
+        "Odensbacken"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0434\u0435\u043d\u0441\u0431\u0430\u043a\u0435\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Odensbacken"
+    ],
+    "name:swe_x_variant":[
+        "Odensbackens"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Odensbacken"
+    ],
+    "qs:a0":"Sverige",
+    "qs:a1":"*\u00d6rebro l\u00e4n",
+    "qs:a1r":"0",
+    "qs:adm0":"Sverige",
+    "qs:la":"\u00d6rebro",
+    "qs:la_lc":"*SE1880",
+    "qs:level":"locality",
+    "qs:loc":"Odensbacken",
+    "qs:loc_alt":"Odensbacken",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":45,
+    "wof:belongsto":[
+        85688421,
+        102191581,
+        1125355933,
+        85633789,
+        1159303031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06d03a38-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2687454,
+        "gp:id":900401,
+        "qs:id":245910,
+        "qs_pg:id":245910,
+        "wd:id":"Q2381684",
+        "wk:page":"Odensbacken"
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"9b392a97827c8ca607d77957e2807249",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303031,
+            "localadmin_id":1125355933,
+            "locality_id":101815841,
+            "region_id":85688421
+        }
+    ],
+    "wof:id":101815841,
+    "wof:lang":[
+        "swe"
+    ],
+    "wof:lastmodified":1529703058,
+    "wof:name":"Odensbacken",
+    "wof:parent_id":1125355933,
+    "wof:placetype":"locality",
+    "wof:population":1384,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.52072912432601,
+    59.15169103404958,
+    15.5388669980847,
+    59.17190044178011
+],
+  "geometry": {"coordinates":[[[15.53099199719878,59.17176072490173],[15.53070737498302,59.16996797315699],[15.53244732871434,59.16989808588266],[15.53187800947796,59.16631259220509],[15.53535754282404,59.16617276811786],[15.53478800578341,59.162587292936],[15.53304841957447,59.16265720781934],[15.53219463585037,59.15727898707252],[15.53393395635453,59.15720908437095],[15.53379164465576,59.15631271676716],[15.53727017747667,59.15617284966527],[15.53712778576738,59.15527648626272],[15.5388669980847,59.15520652186439],[15.53858215174455,59.1534137995414],[15.53684302796108,59.15348375987691],[15.53655830429813,59.15169103404958],[15.53481926249106,59.15176096840673],[15.53510389762977,59.15355369829496],[15.53336476075333,59.15362361479566],[15.5335070468555,59.15451998197949],[15.52481104301989,59.15486924585514],[15.5252372884155,59.15755837867374],[15.52349793521256,59.15762817177216],[15.52363998977052,59.15852455168647],[15.52190058575275,59.1585943248902],[15.52246871202976,59.16217985406229],[15.52072912432601,59.16224961344773],[15.5212972097147,59.16583515298322],[15.52303697461343,59.16576538549225],[15.52317906156293,59.16666176870257],[15.52491886422911,59.16659197725744],[15.52534530914778,59.16928112165436],[15.52360537355128,59.16935091918231],[15.52374749459688,59.17024730295839],[15.52200750814546,59.1703170805842],[15.52214959339835,59.17121346652903],[15.52736966608478,59.17100406177792],[15.52751189282327,59.17190044178011],[15.53099199719878,59.17176072490173]]],"type":"Polygon"}
+}

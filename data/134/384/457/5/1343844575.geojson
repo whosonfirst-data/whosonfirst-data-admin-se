@@ -1,0 +1,70 @@
+{
+  "id": 1343844575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.56667,56.7,14.56667,56.7",
+    "geom:latitude":56.7,
+    "geom:longitude":14.56667,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"764.0",
+    "gn:asciiname":"Vastra Torsas",
+    "gn:country_code":"SE",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2663703,
+    "gn:latitude":56.7,
+    "gn:longitude":14.56667,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"V\u00e4stra Tors\u00e5s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688387,
+        102191581,
+        1125325723,
+        85633789,
+        1159303407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2663703
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"adb3ad58abf55a3c4bbdc97c57ab6b39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303407,
+            "localadmin_id":1125325723,
+            "locality_id":1343844575,
+            "region_id":85688387
+        }
+    ],
+    "wof:id":1343844575,
+    "wof:lastmodified":1536689659,
+    "wof:name":"Vastra Torsas",
+    "wof:parent_id":1125325723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.56667,
+    56.7,
+    14.56667,
+    56.7
+],
+  "geometry": {"coordinates":[14.56667,56.7],"type":"Point"}
+}

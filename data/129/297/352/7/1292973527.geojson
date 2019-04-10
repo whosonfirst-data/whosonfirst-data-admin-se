@@ -1,0 +1,70 @@
+{
+  "id": 1292973527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.32335,59.13016,15.32335,59.13016",
+    "geom:latitude":59.13016,
+    "geom:longitude":15.32335,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1861.0",
+    "gn:asciiname":"Kavesta",
+    "gn:country_code":"SE",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2701101,
+    "gn:latitude":59.13016,
+    "gn:longitude":15.32335,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"K\u00e4vesta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688421,
+        102191581,
+        1159307347,
+        85633789,
+        1159303539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2701101
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"694f8d79a747d30fe69d27e2eb9e96af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303539,
+            "localadmin_id":1159307347,
+            "locality_id":1292973527,
+            "region_id":85688421
+        }
+    ],
+    "wof:id":1292973527,
+    "wof:lastmodified":1537029753,
+    "wof:name":"Kavesta",
+    "wof:parent_id":1159307347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.32335,
+    59.13016,
+    15.32335,
+    59.13016
+],
+  "geometry": {"coordinates":[15.32335,59.13016],"type":"Point"}
+}

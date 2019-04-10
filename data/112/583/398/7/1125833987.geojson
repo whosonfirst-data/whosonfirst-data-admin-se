@@ -1,0 +1,128 @@
+{
+  "id": 1125833987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.48333,59.9,18.48333,59.9",
+    "geom:latitude":59.9,
+    "geom:longitude":18.48333,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":515,
+    "gn:population":578,
+    "iso:country":"SE",
+    "lbl:latitude":59.9,
+    "lbl:longitude":18.48333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dan_x_preferred":[
+        "Edsbro"
+    ],
+    "name:dut_x_preferred":[
+        "Edsbro"
+    ],
+    "name:eng_x_preferred":[
+        "Edsbro"
+    ],
+    "name:fre_x_preferred":[
+        "Edsbro"
+    ],
+    "name:ger_x_preferred":[
+        "Edsbro"
+    ],
+    "name:ita_x_preferred":[
+        "Edsbro"
+    ],
+    "name:nan_x_preferred":[
+        "Edsbro"
+    ],
+    "name:nds_x_preferred":[
+        "Edsbro"
+    ],
+    "name:nno_x_preferred":[
+        "Edsbro"
+    ],
+    "name:nob_x_preferred":[
+        "Edsbro"
+    ],
+    "name:swe_x_preferred":[
+        "Edsbro"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2716867,
+    "qs_pg:gn_pop":515,
+    "qs_pg:name":"Edsbro",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"Stockholms L\u00e4n",
+    "qs_pg:photos":28,
+    "qs_pg:photos_1k":6,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":28,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":874398,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":888692,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"Stockholms L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688429,
+        102191581,
+        1125363713,
+        85633789,
+        1159302995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2716867,
+        "gp:id":888692,
+        "qs_pg:id":874398,
+        "wd:id":"Q2280889"
+    },
+    "wof:country":"SE",
+    "wof:created":1497292628,
+    "wof:geomhash":"f0fa7afd446f5b92851740ba185cc160",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302995,
+            "localadmin_id":1125363713,
+            "locality_id":1125833987,
+            "region_id":85688429
+        }
+    ],
+    "wof:id":1125833987,
+    "wof:lastmodified":1529702759,
+    "wof:name":"Edsbro",
+    "wof:parent_id":1125363713,
+    "wof:placetype":"locality",
+    "wof:population":578,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.48333,
+    59.9,
+    18.48333,
+    59.9
+],
+  "geometry": {"coordinates":[18.48333,59.9],"type":"Point"}
+}

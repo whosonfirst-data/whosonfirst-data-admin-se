@@ -1,0 +1,70 @@
+{
+  "id": 1243341787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.56667,60.55,15.56667,60.55",
+    "geom:latitude":60.55,
+    "geom:longitude":15.56667,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2080.0",
+    "gn:asciiname":"Akern",
+    "gn:country_code":"SE",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2727251,
+    "gn:latitude":60.55,
+    "gn:longitude":15.56667,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"\u00c5kern",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688447,
+        102191581,
+        1125421441,
+        85633789,
+        1159302903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2727251
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"3c47a2e615f2dd9d3752921b6d113478",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302903,
+            "localadmin_id":1125421441,
+            "locality_id":1243341787,
+            "region_id":85688447
+        }
+    ],
+    "wof:id":1243341787,
+    "wof:lastmodified":1536956569,
+    "wof:name":"Akern",
+    "wof:parent_id":1125421441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.56667,
+    60.55,
+    15.56667,
+    60.55
+],
+  "geometry": {"coordinates":[15.56667,60.55],"type":"Point"}
+}

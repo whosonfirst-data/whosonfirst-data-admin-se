@@ -1,0 +1,70 @@
+{
+  "id": 1226711147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.53333,58.05,12.53333,58.05",
+    "geom:latitude":58.05,
+    "geom:longitude":12.53333,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"1489.0",
+    "gn:asciiname":"Attholmen",
+    "gn:country_code":"SE",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2724339,
+    "gn:latitude":58.05,
+    "gn:longitude":12.53333,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Attholmen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688411,
+        102191581,
+        1159305693,
+        85633789,
+        1159303193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2724339
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"2193f85abfb719bb8f90ddd6271167c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303193,
+            "localadmin_id":1159305693,
+            "locality_id":1226711147,
+            "region_id":85688411
+        }
+    ],
+    "wof:id":1226711147,
+    "wof:lastmodified":1536765996,
+    "wof:name":"Attholmen",
+    "wof:parent_id":1159305693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.53333,
+    58.05,
+    12.53333,
+    58.05
+],
+  "geometry": {"coordinates":[12.53333,58.05],"type":"Point"}
+}

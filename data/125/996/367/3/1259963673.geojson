@@ -1,0 +1,75 @@
+{
+  "id": 1259963673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.62815,56.85193,16.62815,56.85193",
+    "geom:latitude":56.85193,
+    "geom:longitude":16.62815,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"885.0",
+    "gn:admin3_code":"88509.0",
+    "gn:admin4_code":"862.0",
+    "gn:asciiname":"Borgehage",
+    "gn:cc2":"SE",
+    "gn:country_code":"SE",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2720449,
+    "gn:latitude":56.85193,
+    "gn:longitude":16.62815,
+    "gn:modification_date":"2015-10-28",
+    "gn:name":"Borgehage",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Borgahage",
+        "Borgehage"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688401,
+        1125287317,
+        1159303363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2720449
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"a0c0be1d82714d80171edd81d9835663",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "county_id":1159303363,
+            "localadmin_id":1125287317,
+            "locality_id":1259963673,
+            "region_id":85688401
+        }
+    ],
+    "wof:id":1259963673,
+    "wof:lastmodified":1537700106,
+    "wof:name":"Borgehage",
+    "wof:parent_id":1125287317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.62815,
+    56.85193,
+    16.62815,
+    56.85193
+],
+  "geometry": {"coordinates":[16.62815,56.85193],"type":"Point"}
+}

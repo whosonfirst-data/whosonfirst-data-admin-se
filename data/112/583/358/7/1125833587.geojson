@@ -1,0 +1,100 @@
+{
+  "id": 1125833587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.98333,55.81667,12.98333,55.81667",
+    "geom:latitude":55.81667,
+    "geom:longitude":12.98333,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"SE",
+    "lbl:latitude":55.81667,
+    "lbl:longitude":12.98333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "\u00c5lstorp"
+    ],
+    "name:eng_x_preferred":[
+        "\u00c5lstorp"
+    ],
+    "name:swe_x_preferred":[
+        "\u00c5lstorp"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2726404,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"\u00c5lstorp",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"Sk\u00e5ne L\u00e4n",
+    "qs_pg:photos":113,
+    "qs_pg:photos_1k":23,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":113,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":217381,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":884613,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"Sk\u00e5ne L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688377,
+        102191581,
+        1125326037,
+        85633789,
+        1159303543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2726404,
+        "gp:id":884613,
+        "qs_pg:id":217381,
+        "wd:id":"Q15939883"
+    },
+    "wof:country":"SE",
+    "wof:created":1497292608,
+    "wof:geomhash":"701db0d4f5310351bdaabded381af5b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303543,
+            "localadmin_id":1125326037,
+            "locality_id":1125833587,
+            "region_id":85688377
+        }
+    ],
+    "wof:id":1125833587,
+    "wof:lastmodified":1529702675,
+    "wof:name":"\u00c5lstorp",
+    "wof:parent_id":1125326037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.98333,
+    55.81667,
+    12.98333,
+    55.81667
+],
+  "geometry": {"coordinates":[12.98333,55.81667],"type":"Point"}
+}

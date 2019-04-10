@@ -1,0 +1,77 @@
+{
+  "id": 1343657929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.1,56.61667,16.1,56.61667",
+    "geom:latitude":56.61667,
+    "geom:longitude":16.1,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"880.0",
+    "gn:asciiname":"Olvingstorp",
+    "gn:country_code":"SE",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2686964,
+    "gn:latitude":56.61667,
+    "gn:longitude":16.1,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"\u00d6lvingstorp",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "\u00d6lvingstorp"
+    ],
+    "name:nor_x_variant":[
+        "\u00d8lvingstorp"
+    ],
+    "name:und_x_variant":[
+        "\u00d6lvingstorp"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688401,
+        1125277847,
+        1159303065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2686964
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"12b64655575f271fec0deb45d1319b01",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "county_id":1159303065,
+            "localadmin_id":1125277847,
+            "locality_id":1343657929,
+            "region_id":85688401
+        }
+    ],
+    "wof:id":1343657929,
+    "wof:lastmodified":1537699922,
+    "wof:name":"Olvingstorp",
+    "wof:parent_id":1125277847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.1,
+    56.61666999999999,
+    16.1,
+    56.61666999999999
+],
+  "geometry": {"coordinates":[16.1,56.61666999999999],"type":"Point"}
+}

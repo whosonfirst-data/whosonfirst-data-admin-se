@@ -1,0 +1,70 @@
+{
+  "id": 1343826485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.45,59.28333,12.45,59.28333",
+    "geom:latitude":59.28333,
+    "geom:longitude":12.45,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1765.0",
+    "gn:asciiname":"Norane",
+    "gn:country_code":"SE",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2689460,
+    "gn:latitude":59.28333,
+    "gn:longitude":12.45,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Norane",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688435,
+        102191581,
+        1125288209,
+        85633789,
+        1159302927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2689460
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"89ef2752b7b6aba8ef4b8fd76076fb83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302927,
+            "localadmin_id":1125288209,
+            "locality_id":1343826485,
+            "region_id":85688435
+        }
+    ],
+    "wof:id":1343826485,
+    "wof:lastmodified":1536716086,
+    "wof:name":"Norane",
+    "wof:parent_id":1125288209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.45,
+    59.28333000000001,
+    12.45,
+    59.28333000000001
+],
+  "geometry": {"coordinates":[12.45,59.28333000000001],"type":"Point"}
+}

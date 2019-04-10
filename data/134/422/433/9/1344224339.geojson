@@ -1,0 +1,70 @@
+{
+  "id": 1344224339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.88333,59.6,16.88333,59.6",
+    "geom:latitude":59.6,
+    "geom:longitude":16.88333,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1980.0",
+    "gn:asciiname":"Nyhammar",
+    "gn:country_code":"SE",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2687740,
+    "gn:latitude":59.6,
+    "gn:longitude":16.88333,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Nyhammar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688425,
+        102191581,
+        1159307039,
+        85633789,
+        1159303331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2687740
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"02dd452e9f4950b2fa3492c142e2b028",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303331,
+            "localadmin_id":1159307039,
+            "locality_id":1344224339,
+            "region_id":85688425
+        }
+    ],
+    "wof:id":1344224339,
+    "wof:lastmodified":1536638172,
+    "wof:name":"Nyhammar",
+    "wof:parent_id":1159307039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.88332999999999,
+    59.6,
+    16.88332999999999,
+    59.6
+],
+  "geometry": {"coordinates":[16.88332999999999,59.6],"type":"Point"}
+}

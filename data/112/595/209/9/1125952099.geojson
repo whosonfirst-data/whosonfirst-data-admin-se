@@ -1,0 +1,97 @@
+{
+  "id": 1125952099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.674716,59.746445,13.674716,59.746445",
+    "geom:latitude":59.746445,
+    "geom:longitude":13.674716,
+    "gn:gn_country":null,
+    "iso:country":"SE",
+    "lbl:latitude":59.746445,
+    "lbl:longitude":13.674716,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "\u00c4lvsbacka"
+    ],
+    "name:eng_x_preferred":[
+        "\u00c4lvsbacka"
+    ],
+    "name:fre_x_preferred":[
+        "\u00c4lvsbacka"
+    ],
+    "name:swe_x_preferred":[
+        "\u00c4lvsbacka"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Alvsbacka",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"V\u00e4rmlands L\u00e4n",
+    "qs_pg:photos":14,
+    "qs_pg:photos_1k":3,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":14,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":987989,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":884670,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"V\u00e4rmlands L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688435,
+        102191581,
+        1159306997,
+        85633789,
+        1159303443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":884670,
+        "qs_pg:id":987989,
+        "wd:id":"Q10725730"
+    },
+    "wof:country":"SE",
+    "wof:created":1497297496,
+    "wof:geomhash":"04b89775cda2a5fd45573ff83aa19441",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303443,
+            "localadmin_id":1159306997,
+            "locality_id":1125952099,
+            "region_id":85688435
+        }
+    ],
+    "wof:id":1125952099,
+    "wof:lastmodified":1529702937,
+    "wof:name":"Alvsbacka",
+    "wof:parent_id":1159306997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.674716,
+    59.746445,
+    13.674716,
+    59.746445
+],
+  "geometry": {"coordinates":[13.674716,59.746445],"type":"Point"}
+}

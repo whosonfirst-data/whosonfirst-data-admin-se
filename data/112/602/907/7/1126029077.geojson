@@ -1,0 +1,131 @@
+{
+  "id": 1126029077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.33,58.68,16.33,58.68",
+    "geom:latitude":58.68,
+    "geom:longitude":16.33,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":525,
+    "gn:population":525,
+    "iso:country":"SE",
+    "lbl:latitude":58.68,
+    "lbl:longitude":16.33,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dan_x_preferred":[
+        "Str\u00f6msfors"
+    ],
+    "name:dut_x_preferred":[
+        "Str\u00f6msfors"
+    ],
+    "name:eng_x_preferred":[
+        "Str\u00f6msfors"
+    ],
+    "name:fre_x_preferred":[
+        "Str\u00f6msfors"
+    ],
+    "name:ger_x_preferred":[
+        "Str\u00f6msfors"
+    ],
+    "name:ita_x_preferred":[
+        "Str\u00f6msfors"
+    ],
+    "name:nan_x_preferred":[
+        "Str\u00f6msfors"
+    ],
+    "name:nds_x_preferred":[
+        "Str\u00f6msfors"
+    ],
+    "name:nno_x_preferred":[
+        "Str\u00f6msfors"
+    ],
+    "name:nob_x_preferred":[
+        "Str\u00f6msfors"
+    ],
+    "name:pol_x_preferred":[
+        "Str\u00f6msfors"
+    ],
+    "name:swe_x_preferred":[
+        "Str\u00f6msfors"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":7284000,
+    "qs_pg:gn_pop":525,
+    "qs_pg:name":"Stromsfors",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"\u00d6sterg\u00f6tlands L\u00e4n",
+    "qs_pg:photos":69,
+    "qs_pg:photos_1k":14,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":69,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":959496,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":906568,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"\u00d6sterg\u00f6tlands L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688409,
+        102191581,
+        1125421477,
+        85633789,
+        1159303229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7284000,
+        "gp:id":906568,
+        "qs_pg:id":959496,
+        "wd:id":"Q2379205"
+    },
+    "wof:country":"SE",
+    "wof:created":1497301338,
+    "wof:geomhash":"559b0adf87c2a76334113e937ff22536",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303229,
+            "localadmin_id":1125421477,
+            "locality_id":1126029077,
+            "region_id":85688409
+        }
+    ],
+    "wof:id":1126029077,
+    "wof:lastmodified":1529703120,
+    "wof:name":"Stromsfors",
+    "wof:parent_id":1125421477,
+    "wof:placetype":"locality",
+    "wof:population":525,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.33,
+    58.68,
+    16.33,
+    58.68
+],
+  "geometry": {"coordinates":[16.33,58.68],"type":"Point"}
+}

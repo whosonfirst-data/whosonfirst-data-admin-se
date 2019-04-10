@@ -1,0 +1,83 @@
+{
+  "id": 1126045187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.23333,66.11667,22.23333,66.11667",
+    "geom:latitude":66.11667,
+    "geom:longitude":22.23333,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":536,
+    "gn:population":536,
+    "iso:country":"SE",
+    "lbl:latitude":66.11667,
+    "lbl:longitude":22.23333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Bredvik"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":604749,
+    "qs_pg:gn_pop":536,
+    "qs_pg:name":"L\u00e5ngvik",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":550230,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688471,
+        102191581,
+        1125373631,
+        85633789,
+        1159303317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":604749,
+        "qs_pg:id":550230
+    },
+    "wof:country":"SE",
+    "wof:created":1497302390,
+    "wof:geomhash":"3d9dba12b0b793853031d53283e87a5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303317,
+            "localadmin_id":1125373631,
+            "locality_id":1126045187,
+            "region_id":85688471
+        }
+    ],
+    "wof:id":1126045187,
+    "wof:lastmodified":1529702574,
+    "wof:name":"L\u00e5ngvik",
+    "wof:parent_id":1125373631,
+    "wof:placetype":"locality",
+    "wof:population":536,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.23333,
+    66.11667,
+    22.23333,
+    66.11667
+],
+  "geometry": {"coordinates":[22.23333,66.11667],"type":"Point"}
+}

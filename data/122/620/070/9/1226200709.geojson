@@ -1,0 +1,70 @@
+{
+  "id": 1226200709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.33333,59.75,13.33333,59.75",
+    "geom:latitude":59.75,
+    "geom:longitude":13.33333,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1766.0",
+    "gn:asciiname":"Nolbergsviken",
+    "gn:country_code":"SE",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2689530,
+    "gn:latitude":59.75,
+    "gn:longitude":13.33333,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Nolbergsviken",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688435,
+        102191581,
+        1159306867,
+        85633789,
+        1159303019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2689530
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"245fe5a21ab39a5163346750a929d320",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303019,
+            "localadmin_id":1159306867,
+            "locality_id":1226200709,
+            "region_id":85688435
+        }
+    ],
+    "wof:id":1226200709,
+    "wof:lastmodified":1536997920,
+    "wof:name":"Nolbergsviken",
+    "wof:parent_id":1159306867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.33333,
+    59.75,
+    13.33333,
+    59.75
+],
+  "geometry": {"coordinates":[13.33333,59.75],"type":"Point"}
+}

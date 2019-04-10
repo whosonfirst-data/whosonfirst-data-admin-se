@@ -1,0 +1,76 @@
+{
+  "id": 1276175185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.27586,55.76388,13.27586,55.76388",
+    "geom:latitude":55.76388,
+    "geom:longitude":13.27586,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"1281.0",
+    "gn:asciiname":"Igelosa",
+    "gn:country_code":"SE",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2703855,
+    "gn:latitude":55.76388,
+    "gn:longitude":13.27586,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Igel\u00f6sa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Igel\u00f6sa"
+    ],
+    "name:nor_x_variant":[
+        "Igel\u00f8sa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688377,
+        102191581,
+        1125358313,
+        85633789,
+        1159303449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2703855
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"1284d0866a393b66cc7e430c742af6f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303449,
+            "localadmin_id":1125358313,
+            "locality_id":1276175185,
+            "region_id":85688377
+        }
+    ],
+    "wof:id":1276175185,
+    "wof:lastmodified":1537700011,
+    "wof:name":"Igelosa",
+    "wof:parent_id":1125358313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.27586,
+    55.76388000000001,
+    13.27586,
+    55.76388000000001
+],
+  "geometry": {"coordinates":[13.27586,55.76388000000001],"type":"Point"}
+}

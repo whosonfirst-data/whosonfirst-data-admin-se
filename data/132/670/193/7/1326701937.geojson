@@ -1,0 +1,78 @@
+{
+  "id": 1326701937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.78333,58.11667,16.78333,58.11667",
+    "geom:latitude":58.11667,
+    "geom:longitude":16.78333,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Stora Alo",
+    "gn:country_code":"SE",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2673574,
+    "gn:latitude":58.11667,
+    "gn:longitude":16.78333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Stora \u00c5l\u00f6",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Stora \u00c5l\u00f6"
+    ],
+    "name:nor_x_variant":[
+        "Stora \u00c5l\u00f8"
+    ],
+    "name:und_x_variant":[
+        "Stora \u00c5l\u00f6"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688409,
+        102191581,
+        1125327703,
+        85633789,
+        1159303123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2673574
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"edd4abc333d8844317cd849fc73072e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303123,
+            "localadmin_id":1125327703,
+            "locality_id":1326701937,
+            "region_id":85688409
+        }
+    ],
+    "wof:id":1326701937,
+    "wof:lastmodified":1537699796,
+    "wof:name":"Stora Alo",
+    "wof:parent_id":1125327703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.78333,
+    58.11666999999999,
+    16.78333,
+    58.11666999999999
+],
+  "geometry": {"coordinates":[16.78333,58.11666999999999],"type":"Point"}
+}

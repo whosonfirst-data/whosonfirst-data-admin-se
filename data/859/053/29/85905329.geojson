@@ -1,0 +1,112 @@
+{
+  "id": 85905329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000235,
+    "geom:area_square_m":1551194.607134,
+    "geom:bbox":"11.8848586653,57.7261525146,11.9068234402,57.74081537",
+    "geom:latitude":57.733812,
+    "geom:longitude":11.896795,
+    "gn:id":"",
+    "iso:country":"SE",
+    "lbl:latitude":57.73246,
+    "lbl:longitude":11.893995,
+    "mps:latitude":57.733485,
+    "mps:longitude":11.897893,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":4,
+    "mz:tier_metro":30,
+    "name:swe_x_preferred":[
+        "Lansmansgarden"
+    ],
+    "name:swe_x_variant":[
+        "L\u00e4nsmansg\u00e5rden"
+    ],
+    "name:unk_x_variant":[
+        "Lansmansgarden"
+    ],
+    "qs:gn_adm0_cc":"SE",
+    "qs:gn_id":0,
+    "qs:gn_local":2711537,
+    "qs:gn_nam_loc":"G\u00f6teborg, G\u00f6teborg, V\u00e4stra G\u00f6talands L\u00e4n, SE",
+    "qs:gn_namadm1":"28",
+    "qs:local_max":7780,
+    "qs:local_sum":88702,
+    "qs:localhoods":78,
+    "qs:name":"Lansmansgarden",
+    "qs:name_adm0":"Sverige",
+    "qs:name_adm1":"V\u00e4stra G\u00f6talands L\u00e4n",
+    "qs:name_adm2":"G\u00f6teborg",
+    "qs:name_local":"G\u00f6teborg",
+    "qs:photo_max":18,
+    "qs:photo_sum":51,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":9,
+    "qs:woe_adm0":23424954,
+    "qs:woe_adm1":20070562,
+    "qs:woe_adm2":12587233,
+    "qs:woe_lau":0,
+    "qs:woe_local":890869,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        1125287157,
+        85633789,
+        101752295,
+        1159302989,
+        85688411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20151295,
+        "qs:id":212119,
+        "qs_pg:id":212119
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"3398005c49749c446ba3eadbfffac25d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302989,
+            "localadmin_id":1125287157,
+            "locality_id":101752295,
+            "neighbourhood_id":85905329,
+            "region_id":85688411
+        }
+    ],
+    "wof:id":85905329,
+    "wof:lang":[
+        "swe"
+    ],
+    "wof:lastmodified":1536864514,
+    "wof:name":"Lansmansgarden",
+    "wof:parent_id":101752295,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.88485866525798,
+    57.72615251462527,
+    11.90682344020263,
+    57.74081537000031
+],
+  "geometry": {"coordinates":[[[11.89191772389648,57.74081537000031],[11.89270016356733,57.73934950050001],[11.89270019529999,57.73934950050001],[11.89819335940012,57.73934950050001],[11.90368652340004,57.73934950050001],[11.90368652340004,57.73934944105007],[11.90643310547506,57.73934944105007],[11.90643310547506,57.73495094105003],[11.90643310547506,57.73055208445034],[11.90682344020263,57.7290898870494],[11.90368652342511,57.72615251462527],[11.89897646536997,57.72615251462527],[11.89819335938125,57.72761915677522],[11.89270019529999,57.72761915677522],[11.89270019529999,57.72761921620004],[11.89270019529999,57.73055208445034],[11.8872070312251,57.73055208445034],[11.88720699948476,57.73055214390011],[11.88485866525798,57.73495058445029],[11.88485923633317,57.73495094105003],[11.88720703120003,57.73934944100326],[11.88720703120003,57.73934950050001],[11.88720706295777,57.73934950050001],[11.88798950263595,57.74081537000031],[11.89191772389648,57.74081537000031]]],"type":"Polygon"}
+}

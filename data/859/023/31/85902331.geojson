@@ -1,0 +1,118 @@
+{
+  "id": 85902331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":13200274.514886,
+    "geom:bbox":"17.705457,59.288461,17.705457,59.288461",
+    "geom:latitude":59.288461,
+    "geom:longitude":17.705457,
+    "gn:latitude":59.28333,
+    "gn:longitude":17.71667,
+    "iso:country":"SE",
+    "lbl:latitude":59.288461,
+    "lbl:longitude":17.705457,
+    "mps:latitude":59.293937,
+    "mps:longitude":17.716277,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":1,
+    "name:swe_x_colloquial":[
+        "Naersta",
+        "Narsta"
+    ],
+    "name:swe_x_preferred":[
+        "N\u00e4rsta"
+    ],
+    "name:swe_x_variant":[
+        "N\u00e4rst"
+    ],
+    "name:unk_x_variant":[
+        "N\u00e4rsta"
+    ],
+    "qs:gn_adm0_cc":"SE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":2676176,
+    "qs:gn_nam_loc":"S\u00f6dert\u00e4lje, S\u00f6dert\u00e4lje, Stockholms L\u00e4n, SE",
+    "qs:gn_namadm1":"26",
+    "qs:gn_name":"N\u00e4rsta",
+    "qs:local_max":276,
+    "qs:local_sum":707,
+    "qs:localhoods":5,
+    "qs:name":"N\u00e4rsta",
+    "qs:name_adm0":"Sverige",
+    "qs:name_adm1":"Stockholms L\u00e4n",
+    "qs:name_adm2":"Eker\u00f6",
+    "qs:name_local":"S\u00f6dert\u00e4lje",
+    "qs:photo_max":55,
+    "qs:photo_sum":168,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":22,
+    "qs:woe_adm0":23424954,
+    "qs:woe_adm1":2347067,
+    "qs:woe_adm2":12587464,
+    "qs:woe_lau":0,
+    "qs:woe_local":905000,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        1125409971,
+        85633789,
+        1159302999,
+        85688429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2690418,
+        "gp:id":899053,
+        "qs:id":1167710,
+        "qs_pg:id":1167710
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"c1e5b0d2ca473b43c53bbbe20d9d0bf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302999,
+            "localadmin_id":1125409971,
+            "locality_id":-1,
+            "neighbourhood_id":85902331,
+            "region_id":85688429
+        }
+    ],
+    "wof:id":85902331,
+    "wof:lang":[
+        "swe"
+    ],
+    "wof:lastmodified":1531935878,
+    "wof:name":"N\u00e4rsta",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.705457,
+    59.288461,
+    17.705457,
+    59.288461
+],
+  "geometry": {"coordinates":[17.705457,59.288461],"type":"Point"}
+}

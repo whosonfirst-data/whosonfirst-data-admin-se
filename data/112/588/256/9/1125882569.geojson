@@ -1,0 +1,121 @@
+{
+  "id": 1125882569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.8,55.45,13.8,55.45",
+    "geom:latitude":55.45,
+    "geom:longitude":13.8,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":280,
+    "gn:population":273,
+    "iso:country":"SE",
+    "lbl:latitude":55.45,
+    "lbl:longitude":13.8,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0425\u0435\u0434\u0435\u0441\u043a\u043e\u0433\u0430"
+    ],
+    "name:dut_x_preferred":[
+        "Hedeskoga"
+    ],
+    "name:eng_x_preferred":[
+        "Hedeskoga"
+    ],
+    "name:fre_x_preferred":[
+        "Hedeskoga"
+    ],
+    "name:ger_x_preferred":[
+        "Hedeskoga"
+    ],
+    "name:nan_x_preferred":[
+        "Hedeskoga"
+    ],
+    "name:nno_x_preferred":[
+        "Hedeskoga"
+    ],
+    "name:nob_x_preferred":[
+        "Hedeskoga"
+    ],
+    "name:por_x_preferred":[
+        "Hedeskoga"
+    ],
+    "name:swe_x_preferred":[
+        "Hedeskoga"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2706915,
+    "qs_pg:gn_pop":280,
+    "qs_pg:name":"Hedeskoga",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"Sk\u00e5ne L\u00e4n",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":416422,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":892772,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"Sk\u00e5ne L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688377,
+        102191581,
+        1159306093,
+        85633789,
+        1159303233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2706915,
+        "gp:id":892772,
+        "qs_pg:id":416422,
+        "wd:id":"Q3088823"
+    },
+    "wof:country":"SE",
+    "wof:created":1497294889,
+    "wof:geomhash":"beb40597e70aaa4d933ae5472183b3df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303233,
+            "localadmin_id":1159306093,
+            "locality_id":1125882569,
+            "region_id":85688377
+        }
+    ],
+    "wof:id":1125882569,
+    "wof:lastmodified":1529702672,
+    "wof:name":"Hedeskoga",
+    "wof:parent_id":1159306093,
+    "wof:placetype":"locality",
+    "wof:population":273,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.8,
+    55.45,
+    13.8,
+    55.45
+],
+  "geometry": {"coordinates":[13.8,55.45],"type":"Point"}
+}

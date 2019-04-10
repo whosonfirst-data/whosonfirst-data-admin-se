@@ -1,0 +1,79 @@
+{
+  "id": 1260127085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.73333,58.41667,11.73333,58.41667",
+    "geom:latitude":58.41667,
+    "geom:longitude":11.73333,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"1485.0",
+    "gn:asciiname":"Krakerod",
+    "gn:country_code":"SE",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2699454,
+    "gn:latitude":58.41667,
+    "gn:longitude":11.73333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kr\u00e5ker\u00f6d",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Kr\u00e5ker\u00f6d"
+    ],
+    "name:nor_x_variant":[
+        "Kr\u00e5ker\u00f8d"
+    ],
+    "name:und_x_variant":[
+        "Kr\u00e5ker\u00f6d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688411,
+        102191581,
+        1125358103,
+        85633789,
+        1159303355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2699454
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"78ef75558be7c1dd8298b0f1890f9e76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303355,
+            "localadmin_id":1125358103,
+            "locality_id":1260127085,
+            "region_id":85688411
+        }
+    ],
+    "wof:id":1260127085,
+    "wof:lastmodified":1537699993,
+    "wof:name":"Krakerod",
+    "wof:parent_id":1125358103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.73333,
+    58.41667,
+    11.73333,
+    58.41667
+],
+  "geometry": {"coordinates":[11.73333,58.41667],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1209809405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.31667,57.08333,16.31667,57.08333",
+    "geom:latitude":57.08333,
+    "geom:longitude":16.31667,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"861.0",
+    "gn:asciiname":"Grimhult",
+    "gn:country_code":"SE",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2710723,
+    "gn:latitude":57.08333,
+    "gn:longitude":16.31667,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Grimhult",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688401,
+        102191581,
+        1125423239,
+        85633789,
+        1159303457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2710723
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"4026cb4380984cb86a68974f16922369",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303457,
+            "localadmin_id":1125423239,
+            "locality_id":1209809405,
+            "region_id":85688401
+        }
+    ],
+    "wof:id":1209809405,
+    "wof:lastmodified":1554166277,
+    "wof:name":"Grimhult",
+    "wof:parent_id":1125423239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.31667,
+    57.08333,
+    16.31667,
+    57.08333
+],
+  "geometry": {"coordinates":[16.31667,57.08333],"type":"Point"}
+}

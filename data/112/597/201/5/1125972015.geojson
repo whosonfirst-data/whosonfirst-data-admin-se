@@ -1,0 +1,112 @@
+{
+  "id": 1125972015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.46667,64.03333,20.46667,64.03333",
+    "geom:latitude":64.03333,
+    "geom:longitude":20.46667,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":343,
+    "gn:population":329,
+    "iso:country":"SE",
+    "lbl:latitude":64.03333,
+    "lbl:longitude":20.46667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0411\u0443\u043b\u043c\u0430\u0440\u043a"
+    ],
+    "name:dut_x_preferred":[
+        "Bullmark"
+    ],
+    "name:eng_x_preferred":[
+        "Bullmark"
+    ],
+    "name:nan_x_preferred":[
+        "Bullmark"
+    ],
+    "name:nno_x_preferred":[
+        "Bullmark"
+    ],
+    "name:nob_x_preferred":[
+        "Bullmark"
+    ],
+    "name:swe_x_preferred":[
+        "Bullmark"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":606371,
+    "qs_pg:gn_pop":343,
+    "qs_pg:name":"Bullmark",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"V\u00e4sterbottens L\u00e4n",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":414984,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":887961,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"V\u00e4sterbottens L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688465,
+        102191581,
+        1125325337,
+        85633789,
+        1159303017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":606371,
+        "gp:id":887961,
+        "qs_pg:id":414984,
+        "wd:id":"Q2580616"
+    },
+    "wof:country":"SE",
+    "wof:created":1497298205,
+    "wof:geomhash":"ec8103a250186f419a993a85afa9eae3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303017,
+            "localadmin_id":1125325337,
+            "locality_id":1125972015,
+            "region_id":85688465
+        }
+    ],
+    "wof:id":1125972015,
+    "wof:lastmodified":1529702976,
+    "wof:name":"Bullmark",
+    "wof:parent_id":1125325337,
+    "wof:placetype":"locality",
+    "wof:population":329,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.46667,
+    64.03333,
+    20.46667,
+    64.03333
+],
+  "geometry": {"coordinates":[20.46667,64.03333000000001],"type":"Point"}
+}

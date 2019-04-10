@@ -1,0 +1,79 @@
+{
+  "id": 1309753739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.36667,59.5,18.36667,59.5",
+    "geom:latitude":59.5,
+    "geom:longitude":18.36667,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"117.0",
+    "gn:asciiname":"Singo",
+    "gn:country_code":"SE",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2679080,
+    "gn:latitude":59.5,
+    "gn:longitude":18.36667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Sing\u00f6",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Sing\u00f6"
+    ],
+    "name:nor_x_variant":[
+        "Sing\u00f8"
+    ],
+    "name:und_x_variant":[
+        "Sing\u00f6"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688429,
+        102191581,
+        1125423247,
+        85633789,
+        1159303039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2679080
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"5a8c2387a5e0f3829db64bd24d0483de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303039,
+            "localadmin_id":1125423247,
+            "locality_id":1309753739,
+            "region_id":85688429
+        }
+    ],
+    "wof:id":1309753739,
+    "wof:lastmodified":1537699846,
+    "wof:name":"Singo",
+    "wof:parent_id":1125423247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.36667000000001,
+    59.5,
+    18.36667000000001,
+    59.5
+],
+  "geometry": {"coordinates":[18.36667000000001,59.5],"type":"Point"}
+}

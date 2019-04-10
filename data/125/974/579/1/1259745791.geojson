@@ -1,0 +1,75 @@
+{
+  "id": 1259745791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.91667,59.06667,15.91667,59.06667",
+    "geom:latitude":59.06667,
+    "geom:longitude":15.91667,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"428.0",
+    "gn:asciiname":"Basenberga",
+    "gn:cc2":"SE",
+    "gn:country_code":"SE",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2723317,
+    "gn:latitude":59.06667,
+    "gn:longitude":15.91667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"B\u00e5senberga",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u00e5ssenberga",
+        "B\u00e5senberga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688419,
+        102191581,
+        1125356555,
+        85633789,
+        1159303389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2723317
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"4e2159e348b640d864791f75330714f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303389,
+            "localadmin_id":1125356555,
+            "locality_id":1259745791,
+            "region_id":85688419
+        }
+    ],
+    "wof:id":1259745791,
+    "wof:lastmodified":1537700132,
+    "wof:name":"Basenberga",
+    "wof:parent_id":1125356555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.91667,
+    59.06667,
+    15.91667,
+    59.06667
+],
+  "geometry": {"coordinates":[15.91667,59.06667],"type":"Point"}
+}

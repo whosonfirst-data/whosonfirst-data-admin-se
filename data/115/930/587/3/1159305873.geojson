@@ -1,0 +1,68 @@
+{
+  "id": 1159305873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.003577,
+    "geom:bbox":"11.2752257653,58.2928899765,11.3574146417,58.3601610948",
+    "geom:latitude":58.327573,
+    "geom:longitude":11.319205,
+    "iso:country":"SE",
+    "lbl:latitude":58.330108,
+    "lbl:longitude":11.328207,
+    "mps:latitude":58.330108,
+    "mps:longitude":11.328207,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Malmon"
+    ],
+    "name:swe_x_preferred":[
+        "Malm\u00f6n"
+    ],
+    "se-lant:distrkod":109052,
+    "se-lant:distrnamn":"Malm\u00f6n",
+    "se-lant:gallerfran":"2016/01/01",
+    "src:geom":"se-lant",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633789,
+        85688411,
+        1159303393
+    ],
+    "wof:breaches":[],
+    "wof:concordance":{},
+    "wof:country":"SE",
+    "wof:created":1525733889,
+    "wof:geomhash":"a543bd1a26ad9872abde6a219cc13e5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303393,
+            "localadmin_id":1159305873,
+            "region_id":85688411
+        }
+    ],
+    "wof:id":1159305873,
+    "wof:lastmodified":1529702123,
+    "wof:name":"Malmon",
+    "wof:parent_id":1159303393,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded":[],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.27522576526167,
+    58.29288997650688,
+    11.35741464170914,
+    58.36016109479653
+],
+  "geometry": {"coordinates":[[[[11.35741464170914,58.3579829200699],[11.35382793940823,58.35056378990738],[11.35382472770641,58.32068551783468],[11.35382423038446,58.31690271473011],[11.33924908516385,58.31017048408219],[11.32197592025798,58.30218665453762],[11.30843675994302,58.29296493200397],[11.30032221067137,58.29293569854372],[11.28790794803117,58.29288997650688],[11.27522576526167,58.31769158506343],[11.30585179616931,58.33302694415546],[11.29215495329694,58.35374661942669],[11.30575161589395,58.3555777097242],[11.31407658702048,58.35661905164692],[11.31848024392558,58.35912648069338],[11.32220919251783,58.3589301077303],[11.33027747987061,58.36016109479653],[11.34344814577324,58.36009052414646],[11.35741464170914,58.3579829200699]]]],"type":"MultiPolygon"}
+}

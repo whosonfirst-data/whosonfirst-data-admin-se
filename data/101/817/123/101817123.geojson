@@ -1,0 +1,132 @@
+{
+  "id": 101817123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000122,
+    "geom:area_square_m":785898.556779,
+    "geom:bbox":"13.858398301,58.4709542942,13.8739690369,58.4890560928",
+    "geom:latitude":58.477353,
+    "geom:longitude":13.865751,
+    "gn:population":1315,
+    "iso:country":"SE",
+    "lbl:latitude":58.476714,
+    "lbl:longitude":13.864984,
+    "mps:latitude":58.476714,
+    "mps:longitude":13.864984,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "St\u00f6pen"
+    ],
+    "name:eng_x_preferred":[
+        "St\u00f6pen"
+    ],
+    "name:nan_x_preferred":[
+        "St\u00f6pen"
+    ],
+    "name:nld_x_preferred":[
+        "St\u00f6pen"
+    ],
+    "name:nno_x_preferred":[
+        "St\u00f6pen"
+    ],
+    "name:nob_x_preferred":[
+        "St\u00f6pen"
+    ],
+    "name:nor_x_preferred":[
+        "St\u00f6pen"
+    ],
+    "name:nor_x_variant":[
+        "St\u00f8pen"
+    ],
+    "name:sco_x_preferred":[
+        "St\u00f6pen"
+    ],
+    "name:swe_x_colloquial":[
+        "Stoepen",
+        "Stoepens",
+        "Stopen",
+        "Stopens"
+    ],
+    "name:swe_x_preferred":[
+        "St\u00f6pen"
+    ],
+    "name:swe_x_variant":[
+        "St\u00f6pens"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "St\u00f6pen"
+    ],
+    "qs:a0":"Sverige",
+    "qs:a1":"*V\u00e4stra G\u00f6talands l\u00e4n",
+    "qs:a1r":"0",
+    "qs:adm0":"Sverige",
+    "qs:la":"Sk\u00f6vde",
+    "qs:la_lc":"*SE1496",
+    "qs:level":"locality",
+    "qs:loc":"St\u00f6pen",
+    "qs:loc_alt":"Stopen",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":46,
+    "wof:belongsto":[
+        85688411,
+        102191581,
+        1125326203,
+        85633789,
+        1159302921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06d22046-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2673629,
+        "gp:id":906097,
+        "qs:id":258876,
+        "qs_pg:id":258876,
+        "wd:id":"Q2553069",
+        "wk:page":"St\u00f6pen"
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"7c6167f38aa239be7a80b641838ba5d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302921,
+            "localadmin_id":1125326203,
+            "locality_id":101817123,
+            "region_id":85688411
+        }
+    ],
+    "wof:id":101817123,
+    "wof:lang":[
+        "swe"
+    ],
+    "wof:lastmodified":1529702226,
+    "wof:name":"St\u00f6pen",
+    "wof:parent_id":1125326203,
+    "wof:placetype":"locality",
+    "wof:population":1315,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.85839830102168,
+    58.47095429419483,
+    13.873969036939,
+    58.48905609276193
+],
+  "geometry": {"coordinates":[[[13.86868666900909,58.48895858856059],[13.86839557048796,58.48626525287972],[13.86668643024655,58.48631401158809],[13.86620159342215,58.48182511581388],[13.86791052041531,58.48177636402727],[13.86771654032003,58.47998080986736],[13.8694253776651,58.47993203933129],[13.86903731537791,58.47634093891463],[13.87074597782339,58.4762921524013],[13.87064893388606,58.47539437917413],[13.87235754933681,58.47534557253118],[13.87226046848161,58.4744478008862],[13.873969036939,58.47439897411482],[13.87367770076355,58.47170566451672],[13.86855236585131,58.47185206782308],[13.86845539305227,58.47095429419483],[13.86503856651308,58.47105178607143],[13.86513545408286,58.4719495624667],[13.86171852487007,58.47204697106133],[13.86181533290062,58.47294475041815],[13.85839830102168,58.47304207572523],[13.85859176366915,58.47483764055522],[13.86030036703158,58.47478898589623],[13.86059073154996,58.47748233047719],[13.85888200030104,58.4775309892799],[13.8590755198353,58.47932655608321],[13.86078433635419,58.47927789451779],[13.86097796392983,58.48107345934812],[13.86439575444905,58.48097606613533],[13.86526812819955,58.48905609276193],[13.86868666900909,58.48895858856059]]],"type":"Polygon"}
+}

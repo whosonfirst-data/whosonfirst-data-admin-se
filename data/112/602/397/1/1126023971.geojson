@@ -1,0 +1,80 @@
+{
+  "id": 1126023971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.69448,67.05588,19.69448,67.05588",
+    "geom:latitude":67.05588,
+    "geom:longitude":19.69448,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"FRM",
+    "gn:gn_pop":2,
+    "gn:population":2,
+    "iso:country":"SE",
+    "lbl:latitude":67.05588,
+    "lbl:longitude":19.69448,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"FRM",
+    "qs_pg:gn_id":8261103,
+    "qs_pg:gn_pop":2,
+    "qs_pg:name":"Sauka",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":760583,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688471,
+        102191581,
+        1159305707,
+        85633789,
+        1159303505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8261103,
+        "qs_pg:id":760583
+    },
+    "wof:country":"SE",
+    "wof:created":1497301004,
+    "wof:geomhash":"26d7427c2f9c8d018a2f48401ebf04b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303505,
+            "localadmin_id":1159305707,
+            "locality_id":1126023971,
+            "region_id":85688471
+        }
+    ],
+    "wof:id":1126023971,
+    "wof:lastmodified":1529702573,
+    "wof:name":"Sauka",
+    "wof:parent_id":1159305707,
+    "wof:placetype":"locality",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.69448,
+    67.05588,
+    19.69448,
+    67.05588
+],
+  "geometry": {"coordinates":[19.69448,67.05588],"type":"Point"}
+}

@@ -1,0 +1,105 @@
+{
+  "id": 1125803165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.53333,59.7,14.53333,59.7",
+    "geom:latitude":59.7,
+    "geom:longitude":14.53333,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":916,
+    "gn:population":859,
+    "iso:country":"SE",
+    "lbl:latitude":59.7,
+    "lbl:longitude":14.53333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Grythyttan"
+    ],
+    "name:eng_x_preferred":[
+        "Grythyttan"
+    ],
+    "name:nan_x_preferred":[
+        "Grythyttan"
+    ],
+    "name:nno_x_preferred":[
+        "Grythyttan"
+    ],
+    "name:nob_x_preferred":[
+        "Grythyttan"
+    ],
+    "name:swe_x_historical":[
+        "Grythyttehed"
+    ],
+    "name:swe_x_preferred":[
+        "Grythyttehed"
+    ],
+    "name:swe_x_variant":[
+        "Grythyttan"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2710130,
+    "qs_pg:gn_pop":916,
+    "qs_pg:name":"Grythyttan",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1243766,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688421,
+        102191581,
+        1125326397,
+        85633789,
+        1159303071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2710130,
+        "qs_pg:id":1243766,
+        "wd:id":"Q2605380"
+    },
+    "wof:country":"SE",
+    "wof:created":1497291353,
+    "wof:geomhash":"9ea370da72c8768fa23609666d8cdd33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303071,
+            "localadmin_id":1125326397,
+            "locality_id":1125803165,
+            "region_id":85688421
+        }
+    ],
+    "wof:id":1125803165,
+    "wof:lastmodified":1529703061,
+    "wof:name":"Grythyttan",
+    "wof:parent_id":1125326397,
+    "wof:placetype":"locality",
+    "wof:population":859,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.53333,
+    59.7,
+    14.53333,
+    59.7
+],
+  "geometry": {"coordinates":[14.53333,59.7],"type":"Point"}
+}

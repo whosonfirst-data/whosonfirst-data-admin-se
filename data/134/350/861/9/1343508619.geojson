@@ -1,0 +1,76 @@
+{
+  "id": 1343508619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.96667,56.36667,13.96667,56.36667",
+    "geom:latitude":56.36667,
+    "geom:longitude":13.96667,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"1273.0",
+    "gn:asciiname":"Hasslarod",
+    "gn:country_code":"SE",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2707428,
+    "gn:latitude":56.36667,
+    "gn:longitude":13.96667,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Hasslar\u00f6d",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Hasslar\u00f6d"
+    ],
+    "name:nor_x_variant":[
+        "Hasslar\u00f8d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688377,
+        102191581,
+        1125358259,
+        85633789,
+        1159303165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2707428
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"82b53c0730229b633a1fa7c7d155a499",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303165,
+            "localadmin_id":1125358259,
+            "locality_id":1343508619,
+            "region_id":85688377
+        }
+    ],
+    "wof:id":1343508619,
+    "wof:lastmodified":1537700040,
+    "wof:name":"Hasslarod",
+    "wof:parent_id":1125358259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.96667,
+    56.36666999999999,
+    13.96667,
+    56.36666999999999
+],
+  "geometry": {"coordinates":[13.96667,56.36666999999999],"type":"Point"}
+}

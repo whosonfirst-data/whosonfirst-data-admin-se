@@ -1,0 +1,124 @@
+{
+  "id": 1125975127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.63333,66.43333,23.63333,66.43333",
+    "geom:latitude":66.43333,
+    "geom:longitude":23.63333,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"SE",
+    "lbl:latitude":66.43333,
+    "lbl:longitude":23.63333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dan_x_preferred":[
+        "Nedre Kuivakangas"
+    ],
+    "name:dut_x_preferred":[
+        "Kuivakangas"
+    ],
+    "name:eng_x_preferred":[
+        "Kuivakangas"
+    ],
+    "name:fin_x_preferred":[
+        "Kuivakangas"
+    ],
+    "name:fre_x_preferred":[
+        "Nedre Kuivakangas"
+    ],
+    "name:ger_x_preferred":[
+        "Kuivakangas"
+    ],
+    "name:nds_x_preferred":[
+        "Nedre Kuivakangas"
+    ],
+    "name:nno_x_preferred":[
+        "Nedre Kuivakangas"
+    ],
+    "name:nob_x_preferred":[
+        "Nedre Kuivakangas"
+    ],
+    "name:swe_x_preferred":[
+        "Nedre Kuivakangas"
+    ],
+    "name:unk_x_variant":[
+        "Kuivankgas"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":604973,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Kuivakangas",
+    "qs_pg:name_adm0":"Suomi",
+    "qs_pg:name_adm1":"Lapin maakunta",
+    "qs_pg:photos":87,
+    "qs_pg:photos_1k":18,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":87,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":992399,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424812,
+    "qs_pg:woe_id":568160,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424812,
+    "woe:name_adm0":"Suomi",
+    "woe:name_adm1":"Lapin maakunta",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688471,
+        102191581,
+        1125300061,
+        85633789,
+        1159303405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":604973,
+        "gp:id":568160,
+        "qs_pg:id":992399,
+        "wd:id":"Q2468172"
+    },
+    "wof:country":"SE",
+    "wof:created":1497298315,
+    "wof:geomhash":"0aa5fef3ec19e187f03c9a00d2b84199",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303405,
+            "localadmin_id":1125300061,
+            "locality_id":1125975127,
+            "region_id":85688471
+        }
+    ],
+    "wof:id":1125975127,
+    "wof:lastmodified":1529702575,
+    "wof:name":"Kuivakangas",
+    "wof:parent_id":1125300061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.63333,
+    66.43333,
+    23.63333,
+    66.43333
+],
+  "geometry": {"coordinates":[23.63333,66.43333],"type":"Point"}
+}

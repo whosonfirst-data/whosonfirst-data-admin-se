@@ -1,0 +1,70 @@
+{
+  "id": 1343829529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.79167,58.125,16.79167,58.125",
+    "geom:latitude":58.125,
+    "geom:longitude":16.79167,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"563.0",
+    "gn:asciiname":"Bas",
+    "gn:country_code":"SE",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3328632,
+    "gn:latitude":58.125,
+    "gn:longitude":16.79167,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"B\u00e5s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688409,
+        102191581,
+        1125327703,
+        85633789,
+        1159303123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3328632
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"cc1d07c3f88cc6c2b6a8a1f8cedad913",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303123,
+            "localadmin_id":1125327703,
+            "locality_id":1343829529,
+            "region_id":85688409
+        }
+    ],
+    "wof:id":1343829529,
+    "wof:lastmodified":1536711643,
+    "wof:name":"Bas",
+    "wof:parent_id":1125327703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.79167,
+    58.125,
+    16.79167,
+    58.125
+],
+  "geometry": {"coordinates":[16.79167,58.125],"type":"Point"}
+}

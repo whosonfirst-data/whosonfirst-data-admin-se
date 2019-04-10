@@ -1,0 +1,107 @@
+{
+  "id": 85905377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000108,
+    "geom:area_square_m":682183.66977,
+    "geom:bbox":"18.1486917297,59.3457948608,18.1627916639,59.3555958213",
+    "geom:latitude":59.350917,
+    "geom:longitude":18.155907,
+    "gn:id":"",
+    "iso:country":"SE",
+    "lbl:latitude":59.354782,
+    "lbl:longitude":18.141506,
+    "mps:latitude":59.350696,
+    "mps:longitude":18.157317,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":1,
+    "name:swe_x_preferred":[
+        "Mosstorp"
+    ],
+    "name:unk_x_variant":[
+        "Mosstorp"
+    ],
+    "qs:gn_adm0_cc":"SE",
+    "qs:gn_id":0,
+    "qs:gn_local":2673730,
+    "qs:local_max":47943,
+    "qs:local_sum":372692,
+    "qs:localhoods":300,
+    "qs:name":"Mosstorp",
+    "qs:name_adm0":"Sverige",
+    "qs:name_adm1":"Stockholms L\u00e4n",
+    "qs:name_adm2":"Liding\u00f6",
+    "qs:name_local":"Stockholm",
+    "qs:photo_max":15,
+    "qs:photo_sum":20,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":4,
+    "qs:woe_adm0":23424954,
+    "qs:woe_adm1":2347067,
+    "qs:woe_adm2":12587468,
+    "qs:woe_lau":0,
+    "qs:woe_local":906057,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        85688429,
+        102191581,
+        1125394719,
+        85633789,
+        101839523,
+        1159303469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20151394,
+        "qs:id":1328978,
+        "qs_pg:id":1328978
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"aaf23ca3d5f786bf7c5d954fee9e4b51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303469,
+            "localadmin_id":1125394719,
+            "locality_id":101839523,
+            "neighbourhood_id":85905377,
+            "region_id":85688429
+        }
+    ],
+    "wof:id":85905377,
+    "wof:lang":[
+        "swe"
+    ],
+    "wof:lastmodified":1529702809,
+    "wof:name":"Mosstorp",
+    "wof:parent_id":101839523,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.14869172971606,
+    59.34579486075016,
+    18.16279166388404,
+    59.35559582130024
+],
+  "geometry": {"coordinates":[[[18.16040042006807,59.34719533620007],[18.16040039060022,59.34719527840106],[18.1596864094048,59.34579486075016],[18.15562120779549,59.34579486075016],[18.15490722658132,59.3471952784502],[18.14941406250023,59.3471952784502],[18.14941403305738,59.34719533620007],[18.14869312530203,59.34860933976294],[18.14883449209941,59.34999576735008],[18.14883447885524,59.3499958106503],[18.14869172971606,59.35139596847536],[18.14892866400407,59.35371984747063],[18.14941406250023,59.35419598102526],[18.15490722657512,59.35419598102526],[18.15633430593959,59.35559582130024],[18.16279166388404,59.35559582130024],[18.16242659071554,59.35058266272388],[18.16182817640828,59.34999576735008],[18.16040042006807,59.34719533620007]]],"type":"Polygon"}
+}

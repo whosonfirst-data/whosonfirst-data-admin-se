@@ -1,0 +1,126 @@
+{
+  "id": 1125955779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.4,59.68333,12.4,59.68333",
+    "geom:latitude":59.68333,
+    "geom:longitude":12.4,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":310,
+    "gn:population":375,
+    "iso:country":"SE",
+    "lbl:latitude":59.68333,
+    "lbl:longitude":12.4,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0421\u0443\u043b\u0432\u0438\u043a"
+    ],
+    "name:dan_x_preferred":[
+        "Sulvik"
+    ],
+    "name:dut_x_preferred":[
+        "Sulvik"
+    ],
+    "name:eng_x_preferred":[
+        "Sulvik"
+    ],
+    "name:fre_x_preferred":[
+        "Sulvik"
+    ],
+    "name:ger_x_preferred":[
+        "Sulvik"
+    ],
+    "name:nan_x_preferred":[
+        "Sulvik"
+    ],
+    "name:nds_x_preferred":[
+        "Sulvik"
+    ],
+    "name:nno_x_preferred":[
+        "Sulvik"
+    ],
+    "name:nob_x_preferred":[
+        "Sulvik"
+    ],
+    "name:swe_x_preferred":[
+        "Sulvik"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2670956,
+    "qs_pg:gn_pop":310,
+    "qs_pg:name":"Sulvik",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"V\u00e4rmlands L\u00e4n",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":6,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1146456,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":906664,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"V\u00e4rmlands L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688435,
+        102191581,
+        1125423293,
+        85633789,
+        1159303075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2670956,
+        "gp:id":906664,
+        "qs_pg:id":1146456,
+        "wd:id":"Q3352813"
+    },
+    "wof:country":"SE",
+    "wof:created":1497297615,
+    "wof:geomhash":"7a6579016ae605337df0ab27a0f31a49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303075,
+            "localadmin_id":1125423293,
+            "locality_id":1125955779,
+            "region_id":85688435
+        }
+    ],
+    "wof:id":1125955779,
+    "wof:lastmodified":1529702941,
+    "wof:name":"Sulvik",
+    "wof:parent_id":1125423293,
+    "wof:placetype":"locality",
+    "wof:population":375,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4,
+    59.68333,
+    12.4,
+    59.68333
+],
+  "geometry": {"coordinates":[12.4,59.68333],"type":"Point"}
+}

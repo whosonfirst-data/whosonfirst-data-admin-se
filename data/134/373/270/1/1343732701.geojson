@@ -1,0 +1,76 @@
+{
+  "id": 1343732701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.75487,68.20801,22.75487,68.20801",
+    "geom:latitude":68.20801,
+    "geom:longitude":22.75487,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2584.0",
+    "gn:asciiname":"Suijavaara",
+    "gn:country_code":"SE",
+    "gn:dem":349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":602520,
+    "gn:latitude":68.20801,
+    "gn:longitude":22.75487,
+    "gn:modification_date":"2017-04-06",
+    "gn:name":"Suijavaara",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fit_x_preferred":[
+        "Suijavaara"
+    ],
+    "name:sme_x_preferred":[
+        "Sudj\u00e1v\u00e1rri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688471,
+        102191581,
+        1125300109,
+        85633789,
+        1159302945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":602520
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"2ac56dbf2208b4d9d72bba86ff788d4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302945,
+            "localadmin_id":1125300109,
+            "locality_id":1343732701,
+            "region_id":85688471
+        }
+    ],
+    "wof:id":1343732701,
+    "wof:lastmodified":1537699700,
+    "wof:name":"Suijavaara",
+    "wof:parent_id":1125300109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.75487,
+    68.20801,
+    22.75487,
+    68.20801
+],
+  "geometry": {"coordinates":[22.75487,68.20801],"type":"Point"}
+}

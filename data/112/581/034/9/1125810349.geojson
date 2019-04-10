@@ -1,0 +1,112 @@
+{
+  "id": 1125810349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.55,58.28333,15.55,58.28333",
+    "geom:latitude":58.28333,
+    "geom:longitude":15.55,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"SE",
+    "lbl:latitude":58.28333,
+    "lbl:longitude":15.55,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Skeda udde"
+    ],
+    "name:eng_x_preferred":[
+        "Skeda udde"
+    ],
+    "name:fre_x_preferred":[
+        "Skeda udde"
+    ],
+    "name:nan_x_preferred":[
+        "Skeda udde"
+    ],
+    "name:nno_x_preferred":[
+        "Skeda udde"
+    ],
+    "name:nob_x_preferred":[
+        "Skeda udde"
+    ],
+    "name:swe_x_preferred":[
+        "Skeda udde"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2677808,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Skedaudde",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"\u00d6sterg\u00f6tlands L\u00e4n",
+    "qs_pg:photos":362,
+    "qs_pg:photos_1k":73,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":362,
+    "qs_pg:photos_sr":6,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1083476,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":904332,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"\u00d6sterg\u00f6tlands L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688409,
+        102191581,
+        1125326267,
+        85633789,
+        1159303147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2677808,
+        "gp:id":904332,
+        "qs_pg:id":1083476,
+        "wd:id":"Q2627088"
+    },
+    "wof:country":"SE",
+    "wof:created":1497291630,
+    "wof:geomhash":"28ef37396d555125a94a051550aed111",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303147,
+            "localadmin_id":1125326267,
+            "locality_id":1125810349,
+            "region_id":85688409
+        }
+    ],
+    "wof:id":1125810349,
+    "wof:lastmodified":1529703109,
+    "wof:name":"Skedaudde",
+    "wof:parent_id":1125326267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.55,
+    58.28333,
+    15.55,
+    58.28333
+],
+  "geometry": {"coordinates":[15.55,58.28333],"type":"Point"}
+}

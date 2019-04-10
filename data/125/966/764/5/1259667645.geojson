@@ -1,0 +1,68 @@
+{
+  "id": 1259667645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.43333,56.65,15.43333,56.65",
+    "geom:latitude":56.65,
+    "geom:longitude":15.43333,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"862.0",
+    "gn:asciiname":"Moshult",
+    "gn:country_code":"SE",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2691128,
+    "gn:latitude":56.65,
+    "gn:longitude":15.43333,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Moshult",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688401,
+        1125362499,
+        1159303533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2691128
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"80ef8c9e099e0758aa2f0c921c617d61",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "county_id":1159303533,
+            "localadmin_id":1125362499,
+            "locality_id":1259667645,
+            "region_id":85688401
+        }
+    ],
+    "wof:id":1259667645,
+    "wof:lastmodified":1537086652,
+    "wof:name":"Moshult",
+    "wof:parent_id":1125362499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.43333,
+    56.65,
+    15.43333,
+    56.65
+],
+  "geometry": {"coordinates":[15.43333,56.65],"type":"Point"}
+}

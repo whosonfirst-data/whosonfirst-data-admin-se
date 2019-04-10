@@ -1,0 +1,70 @@
+{
+  "id": 1277098043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.2,57.3,12.2,57.3",
+    "geom:latitude":57.3,
+    "geom:longitude":12.2,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"1383.0",
+    "gn:asciiname":"Akraberg",
+    "gn:country_code":"SE",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2727164,
+    "gn:latitude":57.3,
+    "gn:longitude":12.2,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"\u00c5kraberg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688391,
+        102191581,
+        1125325515,
+        85633789,
+        1159302939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2727164
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"b87d7e5e4d136762b208844e79c8b553",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302939,
+            "localadmin_id":1125325515,
+            "locality_id":1277098043,
+            "region_id":85688391
+        }
+    ],
+    "wof:id":1277098043,
+    "wof:lastmodified":1536745313,
+    "wof:name":"Akraberg",
+    "wof:parent_id":1125325515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.2,
+    57.3,
+    12.2,
+    57.3
+],
+  "geometry": {"coordinates":[12.2,57.3],"type":"Point"}
+}

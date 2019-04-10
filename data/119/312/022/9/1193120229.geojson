@@ -1,0 +1,75 @@
+{
+  "id": 1193120229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.95,67.88333,21.95,67.88333",
+    "geom:latitude":67.88333,
+    "geom:longitude":21.95,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2584.0",
+    "gn:asciiname":"Satter",
+    "gn:cc2":"SE",
+    "gn:country_code":"SE",
+    "gn:dem":379,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":603045,
+    "gn:latitude":67.88333,
+    "gn:longitude":21.95,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Satter",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "J\u00e4r\u00e4m\u00e4",
+        "Satter"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688471,
+        102191581,
+        1125312213,
+        85633789,
+        1159302945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":603045
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"17c8a0f8c7068c2c6c71cdb2179f29ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302945,
+            "localadmin_id":1125312213,
+            "locality_id":1193120229,
+            "region_id":85688471
+        }
+    ],
+    "wof:id":1193120229,
+    "wof:lastmodified":1537699705,
+    "wof:name":"Satter",
+    "wof:parent_id":1125312213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.95,
+    67.88333,
+    21.95,
+    67.88333
+],
+  "geometry": {"coordinates":[21.95,67.88333],"type":"Point"}
+}

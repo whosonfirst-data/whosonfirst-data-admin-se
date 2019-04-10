@@ -1,0 +1,75 @@
+{
+  "id": 1259836491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.98333,59.4,15.98333,59.4",
+    "geom:latitude":59.4,
+    "geom:longitude":15.98333,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1960.0",
+    "gn:asciiname":"Nedre Skaftruna",
+    "gn:cc2":"SE",
+    "gn:country_code":"SE",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2689805,
+    "gn:latitude":59.4,
+    "gn:longitude":15.98333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Nedre Sk\u00e4ftruna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sk\u00e4ftruna",
+        "Nedre Sk\u00e4ftruna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688425,
+        102191581,
+        1125381903,
+        85633789,
+        1159303173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2689805
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"a1daded38979a505397b18a66120cf43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303173,
+            "localadmin_id":1125381903,
+            "locality_id":1259836491,
+            "region_id":85688425
+        }
+    ],
+    "wof:id":1259836491,
+    "wof:lastmodified":1537699946,
+    "wof:name":"Nedre Skaftruna",
+    "wof:parent_id":1125381903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.98333,
+    59.4,
+    15.98333,
+    59.4
+],
+  "geometry": {"coordinates":[15.98333,59.4],"type":"Point"}
+}

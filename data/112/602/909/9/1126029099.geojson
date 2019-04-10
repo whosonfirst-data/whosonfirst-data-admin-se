@@ -1,0 +1,113 @@
+{
+  "id": 1126029099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.71667,59.88333,13.71667,59.88333",
+    "geom:latitude":59.88333,
+    "geom:longitude":13.71667,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":238,
+    "gn:population":276,
+    "iso:country":"SE",
+    "lbl:latitude":59.88333,
+    "lbl:longitude":13.71667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Sunnemo"
+    ],
+    "name:eng_x_preferred":[
+        "Sunnemo"
+    ],
+    "name:nan_x_preferred":[
+        "Sunnemo"
+    ],
+    "name:nno_x_preferred":[
+        "Sunnemo"
+    ],
+    "name:nob_x_preferred":[
+        "Sunnemo"
+    ],
+    "name:swe_x_preferred":[
+        "Sunnemo"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2670701,
+    "qs_pg:gn_pop":238,
+    "qs_pg:name":"Sunnemo",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"V\u00e4rmlands L\u00e4n",
+    "qs_pg:photos":52,
+    "qs_pg:photos_1k":11,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":52,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":959497,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":906789,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"V\u00e4rmlands L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688435,
+        102191581,
+        1125277989,
+        85633789,
+        1159303063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2670701,
+        "gp:id":906789,
+        "qs_pg:id":959497,
+        "wd:id":"Q2065495"
+    },
+    "wof:country":"SE",
+    "wof:created":1497301339,
+    "wof:geomhash":"d16e30834192b77797fde77d9c6005a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303063,
+            "localadmin_id":1125277989,
+            "locality_id":1126029099,
+            "region_id":85688435
+        }
+    ],
+    "wof:id":1126029099,
+    "wof:lastmodified":1529702947,
+    "wof:name":"Sunnemo",
+    "wof:parent_id":1125277989,
+    "wof:placetype":"locality",
+    "wof:population":276,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.71667,
+    59.88333,
+    13.71667,
+    59.88333
+],
+  "geometry": {"coordinates":[13.71667,59.88333],"type":"Point"}
+}

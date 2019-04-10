@@ -1,0 +1,111 @@
+{
+  "id": 1125834383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.2,60.53333,15.2,60.53333",
+    "geom:latitude":60.53333,
+    "geom:longitude":15.2,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":687,
+    "gn:population":655,
+    "iso:country":"SE",
+    "lbl:latitude":60.53333,
+    "lbl:longitude":15.2,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "B\u00e4sna"
+    ],
+    "name:eng_x_preferred":[
+        "B\u00e4sna"
+    ],
+    "name:nan_x_preferred":[
+        "B\u00e4sna"
+    ],
+    "name:nno_x_preferred":[
+        "B\u00e4sna"
+    ],
+    "name:nob_x_preferred":[
+        "B\u00e4sna"
+    ],
+    "name:swe_x_preferred":[
+        "B\u00e4sna"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2723299,
+    "qs_pg:gn_pop":687,
+    "qs_pg:name":"B\u00e4sna",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"Dalarnas L\u00e4n",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":185592,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":885959,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"Dalarnas L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688447,
+        102191581,
+        1125382197,
+        85633789,
+        1159302973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2723299,
+        "gp:id":885959,
+        "qs_pg:id":185592,
+        "wd:id":"Q2572756"
+    },
+    "wof:country":"SE",
+    "wof:created":1497292646,
+    "wof:geomhash":"f42db811b2623039d9452d2bee51fc5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302973,
+            "localadmin_id":1125382197,
+            "locality_id":1125834383,
+            "region_id":85688447
+        }
+    ],
+    "wof:id":1125834383,
+    "wof:lastmodified":1529702002,
+    "wof:name":"B\u00e4sna",
+    "wof:parent_id":1125382197,
+    "wof:placetype":"locality",
+    "wof:population":655,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.2,
+    60.53333,
+    15.2,
+    60.53333
+],
+  "geometry": {"coordinates":[15.2,60.53333],"type":"Point"}
+}

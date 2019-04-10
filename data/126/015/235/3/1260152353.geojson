@@ -1,0 +1,79 @@
+{
+  "id": 1260152353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.18333,58.36667,15.18333,58.36667",
+    "geom:latitude":58.36667,
+    "geom:longitude":15.18333,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"586.0",
+    "gn:asciiname":"Ojebro",
+    "gn:country_code":"SE",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2687293,
+    "gn:latitude":58.36667,
+    "gn:longitude":15.18333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"\u00d6jebro",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "\u00d6jebro"
+    ],
+    "name:nor_x_variant":[
+        "\u00d8jebro"
+    ],
+    "name:und_x_variant":[
+        "\u00d6jebro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688409,
+        102191581,
+        1125356681,
+        85633789,
+        1159302925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2687293
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"cb6f92c56d6e73329cb03edda55f1d1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302925,
+            "localadmin_id":1125356681,
+            "locality_id":1260152353,
+            "region_id":85688409
+        }
+    ],
+    "wof:id":1260152353,
+    "wof:lastmodified":1537699926,
+    "wof:name":"Ojebro",
+    "wof:parent_id":1125356681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.18333,
+    58.36666999999999,
+    15.18333,
+    58.36666999999999
+],
+  "geometry": {"coordinates":[15.18333,58.36666999999999],"type":"Point"}
+}

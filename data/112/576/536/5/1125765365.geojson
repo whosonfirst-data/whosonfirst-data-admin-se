@@ -1,0 +1,111 @@
+{
+  "id": 1125765365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.0735,64.85047,15.0735,64.85047",
+    "geom:latitude":64.85047,
+    "geom:longitude":15.0735,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":10,
+    "gn:population":10,
+    "iso:country":"SE",
+    "lbl:latitude":64.85047,
+    "lbl:longitude":15.0735,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dan_x_preferred":[
+        "Borgafj\u00e4ll"
+    ],
+    "name:dut_x_preferred":[
+        "Borgafj\u00e4ll"
+    ],
+    "name:eng_x_preferred":[
+        "Borgafj\u00e4ll"
+    ],
+    "name:fre_x_preferred":[
+        "Borgafj\u00e4ll"
+    ],
+    "name:ger_x_preferred":[
+        "Borgafj\u00e4ll"
+    ],
+    "name:nds_x_preferred":[
+        "Borgafj\u00e4ll"
+    ],
+    "name:nno_x_preferred":[
+        "Borgafj\u00e4ll"
+    ],
+    "name:nob_x_preferred":[
+        "Borgafj\u00e4ll"
+    ],
+    "name:swe_x_preferred":[
+        "Borgafj\u00e4ll"
+    ],
+    "name:unk_x_variant":[
+        "Avasj\u00f6"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2720468,
+    "qs_pg:gn_pop":10,
+    "qs_pg:name":"Borgafj\u00e4ll",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":575736,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688465,
+        102191581,
+        1159305963,
+        85633789,
+        1159302983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2720468,
+        "qs_pg:id":575736,
+        "wd:id":"Q2302118"
+    },
+    "wof:country":"SE",
+    "wof:created":1497289871,
+    "wof:geomhash":"247c6c53b61290eb6deece3abd659e32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302983,
+            "localadmin_id":1159305963,
+            "locality_id":1125765365,
+            "region_id":85688465
+        }
+    ],
+    "wof:id":1125765365,
+    "wof:lastmodified":1529702975,
+    "wof:name":"Borgafj\u00e4ll",
+    "wof:parent_id":1159305963,
+    "wof:placetype":"locality",
+    "wof:population":10,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.0735,
+    64.85047,
+    15.0735,
+    64.85047
+],
+  "geometry": {"coordinates":[15.0735,64.85047],"type":"Point"}
+}

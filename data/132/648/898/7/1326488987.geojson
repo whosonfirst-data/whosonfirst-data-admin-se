@@ -1,0 +1,69 @@
+{
+  "id": 1326488987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.08333,59.56667,17.08333,59.56667",
+    "geom:latitude":59.56667,
+    "geom:longitude":17.08333,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Kolarvik",
+    "gn:country_code":"SE",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2700017,
+    "gn:latitude":59.56667,
+    "gn:longitude":17.08333,
+    "gn:modification_date":"2001-05-09",
+    "gn:name":"Kolarvik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688439,
+        102191581,
+        1159307263,
+        85633789,
+        1159303337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2700017
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"d97aa9ff65704ef3759ffc795c249d3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303337,
+            "localadmin_id":1159307263,
+            "locality_id":1326488987,
+            "region_id":85688439
+        }
+    ],
+    "wof:id":1326488987,
+    "wof:lastmodified":1537044628,
+    "wof:name":"Kolarvik",
+    "wof:parent_id":1159307263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.08333,
+    59.56667,
+    17.08333,
+    59.56667
+],
+  "geometry": {"coordinates":[17.08333,59.56667],"type":"Point"}
+}

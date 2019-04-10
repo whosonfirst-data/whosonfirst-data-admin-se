@@ -1,0 +1,111 @@
+{
+  "id": 1125992753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.05,61.83333,16.05,61.83333",
+    "geom:latitude":61.83333,
+    "geom:longitude":16.05,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":409,
+    "gn:population":409,
+    "iso:country":"SE",
+    "lbl:latitude":61.83333,
+    "lbl:longitude":16.05,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Nore"
+    ],
+    "name:eng_x_preferred":[
+        "Nore"
+    ],
+    "name:nan_x_preferred":[
+        "Nore"
+    ],
+    "name:nno_x_preferred":[
+        "Nore i H\u00e4lsingland"
+    ],
+    "name:nob_x_preferred":[
+        "Nore"
+    ],
+    "name:swe_x_preferred":[
+        "Nore"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2689267,
+    "qs_pg:gn_pop":409,
+    "qs_pg:name":"Nore",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"G\u00e4vleborgs L\u00e4n",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":2,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":998501,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":899558,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"G\u00e4vleborgs L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688453,
+        102191581,
+        1125421381,
+        85633789,
+        1159303353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2689267,
+        "gp:id":899558,
+        "qs_pg:id":998501,
+        "wd:id":"Q2450835"
+    },
+    "wof:country":"SE",
+    "wof:created":1497299139,
+    "wof:geomhash":"da81725937f2a7d87e1e786f4093a091",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303353,
+            "localadmin_id":1125421381,
+            "locality_id":1125992753,
+            "region_id":85688453
+        }
+    ],
+    "wof:id":1125992753,
+    "wof:lastmodified":1529702066,
+    "wof:name":"Nore",
+    "wof:parent_id":1125421381,
+    "wof:placetype":"locality",
+    "wof:population":409,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.05,
+    61.83333,
+    16.05,
+    61.83333
+],
+  "geometry": {"coordinates":[16.05,61.83333],"type":"Point"}
+}

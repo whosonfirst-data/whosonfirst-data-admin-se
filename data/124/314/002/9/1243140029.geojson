@@ -1,0 +1,70 @@
+{
+  "id": 1243140029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.95,63.15,16.95,63.15",
+    "geom:latitude":63.15,
+    "geom:longitude":16.95,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2283.0",
+    "gn:asciiname":"Helgum",
+    "gn:country_code":"SE",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2706785,
+    "gn:latitude":63.15,
+    "gn:longitude":16.95,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Helgum",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688457,
+        102191581,
+        1125423323,
+        85633789,
+        1159303381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2706785
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"ac94818266cc95b5f0a9092b84917d89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303381,
+            "localadmin_id":1125423323,
+            "locality_id":1243140029,
+            "region_id":85688457
+        }
+    ],
+    "wof:id":1243140029,
+    "wof:lastmodified":1536750356,
+    "wof:name":"Helgum",
+    "wof:parent_id":1125423323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.95,
+    63.15,
+    16.95,
+    63.15
+],
+  "geometry": {"coordinates":[16.95,63.15],"type":"Point"}
+}

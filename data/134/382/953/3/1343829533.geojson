@@ -1,0 +1,76 @@
+{
+  "id": 1343829533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.33333,58.31667,16.33333,58.31667",
+    "geom:latitude":58.31667,
+    "geom:longitude":16.33333,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"563.0",
+    "gn:asciiname":"Mickelsdal",
+    "gn:cc2":"SE",
+    "gn:country_code":"SE",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2691943,
+    "gn:latitude":58.31667,
+    "gn:longitude":16.33333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Mickelsdal",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mickelsdala",
+        "Mixdala",
+        "Mickelsdal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688409,
+        102191581,
+        1125282049,
+        85633789,
+        1159303123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2691943
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"19acc1015554a5fdd8361819c8a37e68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303123,
+            "localadmin_id":1125282049,
+            "locality_id":1343829533,
+            "region_id":85688409
+        }
+    ],
+    "wof:id":1343829533,
+    "wof:lastmodified":1537699959,
+    "wof:name":"Mickelsdal",
+    "wof:parent_id":1125282049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.33333,
+    58.31667,
+    16.33333,
+    58.31667
+],
+  "geometry": {"coordinates":[16.33333,58.31667],"type":"Point"}
+}

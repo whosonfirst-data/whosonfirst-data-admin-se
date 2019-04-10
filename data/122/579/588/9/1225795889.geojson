@@ -1,0 +1,70 @@
+{
+  "id": 1225795889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.9,58.03333,12.9,58.03333",
+    "geom:latitude":58.03333,
+    "geom:longitude":12.9,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"1442.0",
+    "gn:asciiname":"Lilla Landa",
+    "gn:country_code":"SE",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2695761,
+    "gn:latitude":58.03333,
+    "gn:longitude":12.9,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Lilla Landa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688411,
+        102191581,
+        1159306495,
+        85633789,
+        1159303255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2695761
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"0c002f6e827981193291ad40bca76b3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303255,
+            "localadmin_id":1159306495,
+            "locality_id":1225795889,
+            "region_id":85688411
+        }
+    ],
+    "wof:id":1225795889,
+    "wof:lastmodified":1537082568,
+    "wof:name":"Lilla Landa",
+    "wof:parent_id":1159306495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.9,
+    58.03333000000001,
+    12.9,
+    58.03333000000001
+],
+  "geometry": {"coordinates":[12.9,58.03333000000001],"type":"Point"}
+}

@@ -1,0 +1,108 @@
+{
+  "id": 1125766465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.58333,59.46667,15.58333,59.46667",
+    "geom:latitude":59.46667,
+    "geom:longitude":15.58333,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":700,
+    "gn:population":700,
+    "iso:country":"SE",
+    "lbl:latitude":59.46667,
+    "lbl:longitude":15.58333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dan_x_preferred":[
+        "Rinkaby"
+    ],
+    "name:dut_x_preferred":[
+        "Rinkaby"
+    ],
+    "name:eng_x_preferred":[
+        "Rinkaby"
+    ],
+    "name:fre_x_preferred":[
+        "Rinkaby"
+    ],
+    "name:ger_x_preferred":[
+        "Rinkaby"
+    ],
+    "name:nds_x_preferred":[
+        "Rinkaby"
+    ],
+    "name:nno_x_preferred":[
+        "Rinkaby"
+    ],
+    "name:nob_x_preferred":[
+        "Rinkaby"
+    ],
+    "name:swe_x_preferred":[
+        "Rinkaby"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2682488,
+    "qs_pg:gn_pop":700,
+    "qs_pg:name":"Rinkaby",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":575649,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688421,
+        102191581,
+        1125325775,
+        85633789,
+        1159303549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2682488,
+        "qs_pg:id":575649,
+        "wd:id":"Q10655526"
+    },
+    "wof:country":"SE",
+    "wof:created":1497289913,
+    "wof:geomhash":"738437e60f578c4d2e4c43b8333cd708",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303549,
+            "localadmin_id":1125325775,
+            "locality_id":1125766465,
+            "region_id":85688421
+        }
+    ],
+    "wof:id":1125766465,
+    "wof:lastmodified":1529703060,
+    "wof:name":"Rinkaby",
+    "wof:parent_id":1125325775,
+    "wof:placetype":"locality",
+    "wof:population":700,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.58333,
+    59.46667,
+    15.58333,
+    59.46667
+],
+  "geometry": {"coordinates":[15.58333,59.46667],"type":"Point"}
+}

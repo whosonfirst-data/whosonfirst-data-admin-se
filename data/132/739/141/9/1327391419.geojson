@@ -1,0 +1,70 @@
+{
+  "id": 1327391419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.6,62.91667,17.6,62.91667",
+    "geom:latitude":62.91667,
+    "geom:longitude":17.6,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2282.0",
+    "gn:asciiname":"Storvattnet",
+    "gn:country_code":"SE",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2671504,
+    "gn:latitude":62.91667,
+    "gn:longitude":17.6,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Storvattnet",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688457,
+        102191581,
+        1125423309,
+        85633789,
+        1159303301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2671504
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"3f7f37713f94beade8f432e3bf8153cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303301,
+            "localadmin_id":1125423309,
+            "locality_id":1327391419,
+            "region_id":85688457
+        }
+    ],
+    "wof:id":1327391419,
+    "wof:lastmodified":1536739923,
+    "wof:name":"Storvattnet",
+    "wof:parent_id":1125423309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.6,
+    62.91667,
+    17.6,
+    62.91667
+],
+  "geometry": {"coordinates":[17.6,62.91667],"type":"Point"}
+}

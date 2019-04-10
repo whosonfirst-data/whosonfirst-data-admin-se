@@ -1,0 +1,79 @@
+{
+  "id": 1243119353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.23333,58.95,11.23333,58.95",
+    "geom:latitude":58.95,
+    "geom:longitude":11.23333,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"1486.0",
+    "gn:asciiname":"Erlandserod",
+    "gn:country_code":"SE",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3330095,
+    "gn:latitude":58.95,
+    "gn:longitude":11.23333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Erlandser\u00f6d",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Erlandser\u00f6d"
+    ],
+    "name:nor_x_variant":[
+        "Erlandser\u00f8d"
+    ],
+    "name:und_x_variant":[
+        "Erlandser\u00f6d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688411,
+        102191581,
+        1125269637,
+        85633789,
+        1159303235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3330095
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"44fa3484cb16dc4908bf7071225ee68f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303235,
+            "localadmin_id":1125269637,
+            "locality_id":1243119353,
+            "region_id":85688411
+        }
+    ],
+    "wof:id":1243119353,
+    "wof:lastmodified":1537700155,
+    "wof:name":"Erlandserod",
+    "wof:parent_id":1125269637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.23333,
+    58.95,
+    11.23333,
+    58.95
+],
+  "geometry": {"coordinates":[11.23333,58.95],"type":"Point"}
+}

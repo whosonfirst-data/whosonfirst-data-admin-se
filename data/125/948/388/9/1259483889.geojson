@@ -1,0 +1,74 @@
+{
+  "id": 1259483889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.26879,62.05887,17.26879,62.05887",
+    "geom:latitude":62.05887,
+    "geom:longitude":17.26879,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"2132.0",
+    "gn:asciiname":"Akne",
+    "gn:country_code":"SE",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2727172,
+    "gn:latitude":62.05887,
+    "gn:longitude":17.26879,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"\u00c5kne",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ockne",
+        "\u00c5ckne"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688453,
+        102191581,
+        1125359567,
+        85633789,
+        1159303081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2727172
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"5d3b8323a8f87477db32af93ce7f5754",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303081,
+            "localadmin_id":1125359567,
+            "locality_id":1259483889,
+            "region_id":85688453
+        }
+    ],
+    "wof:id":1259483889,
+    "wof:lastmodified":1537700147,
+    "wof:name":"Akne",
+    "wof:parent_id":1125359567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.26879,
+    62.05887,
+    17.26879,
+    62.05887
+],
+  "geometry": {"coordinates":[17.26879,62.05887],"type":"Point"}
+}

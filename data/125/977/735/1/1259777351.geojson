@@ -1,0 +1,68 @@
+{
+  "id": 1259777351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.85,56.91667,16.85,56.91667",
+    "geom:latitude":56.91667,
+    "geom:longitude":16.85,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"885.0",
+    "gn:asciiname":"Valsnas",
+    "gn:country_code":"SE",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2665251,
+    "gn:latitude":56.91667,
+    "gn:longitude":16.85,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Valsn\u00e4s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688401,
+        1159305843,
+        1159303363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2665251
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"e217a04a2a3e4ec33164c28ed83bd14f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "county_id":1159303363,
+            "localadmin_id":1159305843,
+            "locality_id":1259777351,
+            "region_id":85688401
+        }
+    ],
+    "wof:id":1259777351,
+    "wof:lastmodified":1536932780,
+    "wof:name":"Valsnas",
+    "wof:parent_id":1159305843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.85,
+    56.91667,
+    16.85,
+    56.91667
+],
+  "geometry": {"coordinates":[16.85,56.91667],"type":"Point"}
+}

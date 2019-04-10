@@ -1,0 +1,128 @@
+{
+  "id": 85902523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":7189837.639465,
+    "geom:bbox":"17.162379,60.707639,17.162379,60.707639",
+    "geom:latitude":60.707639,
+    "geom:longitude":17.162379,
+    "gn:latitude":60.70108,
+    "gn:longitude":17.16382,
+    "iso:country":"SE",
+    "lbl:latitude":60.707639,
+    "lbl:longitude":17.162379,
+    "mps:latitude":60.708963,
+    "mps:longitude":17.171569,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":2,
+    "name:deu_x_preferred":[
+        "Str\u00f6msbro IF"
+    ],
+    "name:nor_x_preferred":[
+        "Str\u00f8msbro"
+    ],
+    "name:nor_x_variant":[
+        "Str\u00f6msbro"
+    ],
+    "name:swe_x_colloquial":[
+        "Stroemsbro",
+        "Stromsbro"
+    ],
+    "name:swe_x_preferred":[
+        "Str\u00f6msbro",
+        "Str\u00f6msbro IF"
+    ],
+    "name:unk_x_variant":[
+        "Str\u00f6msbro"
+    ],
+    "qs:gn_adm0_cc":"SE",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2712414,
+    "qs:gn_nam_loc":"G\u00e4vle, G\u00e4vle, G\u00e4vleborgs L\u00e4n, SE",
+    "qs:gn_namadm1":"03",
+    "qs:gn_name":"Str\u00f6msbro",
+    "qs:local_max":2498,
+    "qs:local_sum":2780,
+    "qs:localhoods":3,
+    "qs:name":"Str\u00f6msbro",
+    "qs:name_adm0":"Sverige",
+    "qs:name_adm1":"G\u00e4vleborgs L\u00e4n",
+    "qs:name_adm2":"G\u00e4vle",
+    "qs:name_local":"G\u00e4vle",
+    "qs:photo_max":19,
+    "qs:photo_sum":38,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":8,
+    "qs:woe_adm0":23424954,
+    "qs:woe_adm1":2347046,
+    "qs:woe_adm2":12587224,
+    "qs:woe_lau":0,
+    "qs:woe_local":890545,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":216,
+    "wof:belongsto":[
+        85688453,
+        102191581,
+        1125322039,
+        85633789,
+        101752315,
+        1159303225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2671259,
+        "gp:id":906565,
+        "qs:id":959495,
+        "qs_pg:id":959495,
+        "wd:id":"Q2357654"
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"92955bfbcc687e885da3e39e1b4211c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303225,
+            "localadmin_id":1125322039,
+            "locality_id":101752315,
+            "neighbourhood_id":85902523,
+            "region_id":85688453
+        }
+    ],
+    "wof:id":85902523,
+    "wof:lang":[
+        "swe"
+    ],
+    "wof:lastmodified":1531935902,
+    "wof:name":"Str\u00f6msbro",
+    "wof:parent_id":101752315,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.162379,
+    60.707639,
+    17.162379,
+    60.707639
+],
+  "geometry": {"coordinates":[17.162379,60.707639],"type":"Point"}
+}

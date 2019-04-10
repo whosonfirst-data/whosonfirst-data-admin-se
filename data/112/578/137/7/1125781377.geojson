@@ -1,0 +1,122 @@
+{
+  "id": 1125781377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.19743,64.67533,21.19743,64.67533",
+    "geom:latitude":64.67533,
+    "geom:longitude":21.19743,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":411,
+    "gn:population":399,
+    "iso:country":"SE",
+    "lbl:latitude":64.67533,
+    "lbl:longitude":21.19743,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "\u00d6rviken"
+    ],
+    "name:eng_x_preferred":[
+        "\u00d6rviken"
+    ],
+    "name:nan_x_preferred":[
+        "\u00d6rviken"
+    ],
+    "name:nno_x_preferred":[
+        "\u00d6rviken"
+    ],
+    "name:nob_x_preferred":[
+        "\u00d6rviken"
+    ],
+    "name:nor_x_preferred":[
+        "\u00d8rviken"
+    ],
+    "name:nor_x_variant":[
+        "\u00d6rviken"
+    ],
+    "name:swe_x_preferred":[
+        "\u00d6rviken"
+    ],
+    "name:unk_x_variant":[
+        "\u00d6rvik"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":603872,
+    "qs_pg:gn_pop":411,
+    "qs_pg:name":"\u00d6rviken",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"V\u00e4sterbottens L\u00e4n",
+    "qs_pg:photos":83,
+    "qs_pg:photos_1k":17,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":83,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1325068,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":900893,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"V\u00e4sterbottens L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688465,
+        102191581,
+        1125345207,
+        85633789,
+        1159303205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":603872,
+        "gp:id":900893,
+        "qs_pg:id":1325068,
+        "wd:id":"Q2262794"
+    },
+    "wof:country":"SE",
+    "wof:created":1497290495,
+    "wof:geomhash":"ceccc041f4c249a623ed0b9f117b67c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303205,
+            "localadmin_id":1125345207,
+            "locality_id":1125781377,
+            "region_id":85688465
+        }
+    ],
+    "wof:id":1125781377,
+    "wof:lastmodified":1529702975,
+    "wof:name":"\u00d6rviken",
+    "wof:parent_id":1125345207,
+    "wof:placetype":"locality",
+    "wof:population":399,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.19743,
+    64.67533,
+    21.19743,
+    64.67533
+],
+  "geometry": {"coordinates":[21.19743,64.67533],"type":"Point"}
+}

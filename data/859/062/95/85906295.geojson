@@ -1,0 +1,110 @@
+{
+  "id": 85906295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000047,
+    "geom:area_square_m":299459.632672,
+    "geom:bbox":"18.1631469727,59.3107678982,18.1729674835,59.3180706749",
+    "geom:latitude":59.313957,
+    "geom:longitude":18.168254,
+    "gn:id":"",
+    "iso:country":"SE",
+    "lbl:latitude":59.317287,
+    "lbl:longitude":18.160848,
+    "mps:latitude":59.313396,
+    "mps:longitude":18.168254,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":1,
+    "name:swe_x_preferred":[
+        "Nacka Strand"
+    ],
+    "name:swe_x_variant":[
+        "Augustendal"
+    ],
+    "name:unk_x_variant":[
+        "Nacka Strand"
+    ],
+    "qs:gn_adm0_cc":"SE",
+    "qs:gn_id":0,
+    "qs:gn_local":2673730,
+    "qs:local_max":47943,
+    "qs:local_sum":372692,
+    "qs:localhoods":300,
+    "qs:name":"Nacka Strand",
+    "qs:name_adm0":"Sverige",
+    "qs:name_adm1":"Stockholms L\u00e4n",
+    "qs:name_adm2":"Nacka",
+    "qs:name_local":"Stockholm",
+    "qs:photo_max":164,
+    "qs:photo_sum":227,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":7,
+    "qs:woe_adm0":23424954,
+    "qs:woe_adm1":2347067,
+    "qs:woe_adm2":12587469,
+    "qs:woe_lau":0,
+    "qs:woe_local":906057,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        85688429,
+        102191581,
+        1125362217,
+        85633789,
+        101752307,
+        1159303035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22656638,
+        "qs:id":249041,
+        "qs_pg:id":249041
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"87c5ff79513e20c9ff84d2bac02720ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303035,
+            "localadmin_id":1125362217,
+            "locality_id":101752307,
+            "neighbourhood_id":85906295,
+            "region_id":85688429
+        }
+    ],
+    "wof:id":85906295,
+    "wof:lang":[
+        "swe"
+    ],
+    "wof:lastmodified":1529702822,
+    "wof:name":"Nacka Strand",
+    "wof:parent_id":101752307,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.16314697268109,
+    59.31076789822497,
+    18.17296748352089,
+    59.3180706748761
+],
+  "geometry": {"coordinates":[[[18.17225214685021,59.31637471029994],[18.17296737295618,59.31497309395012],[18.17296748352089,59.31497296395038],[18.1722522205589,59.31357144869905],[18.17138671878553,59.3118755494191],[18.17138671878456,59.31076795599999],[18.17138671877512,59.31076789822497],[18.16675907125278,59.31076789822497],[18.16675904766606,59.31076795200035],[18.16589355470006,59.31076795599999],[18.16589355470006,59.31216972086925],[18.16314697268109,59.31216972578575],[18.16314697268615,59.31357144148758],[18.16314697268552,59.31412514034908],[18.16314697270008,59.31497310840005],[18.16444518667873,59.31497310840005],[18.16452026370013,59.31502214724522],[18.16452026370013,59.31567391448549],[18.16476969480647,59.31616269868981],[18.16531064053282,59.31637471029994],[18.16666847143608,59.31690688183228],[18.1670445190374,59.31638050269289],[18.1670592983063,59.31637471030002],[18.16814126845952,59.31595065710268],[18.16864013670022,59.31627653161432],[18.16864013670011,59.31637471029994],[18.16879043451848,59.31637471029994],[18.17138671877512,59.3180706748761],[18.17225214685021,59.31637471029994]]],"type":"Polygon"}
+}

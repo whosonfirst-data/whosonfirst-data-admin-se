@@ -1,0 +1,70 @@
+{
+  "id": 1193091441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.01667,59.875,19.01667,59.875",
+    "geom:latitude":59.875,
+    "geom:longitude":19.01667,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"188.0",
+    "gn:asciiname":"Soderangen",
+    "gn:country_code":"SE",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3214526,
+    "gn:latitude":59.875,
+    "gn:longitude":19.01667,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"S\u00f6der\u00e4ngen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688429,
+        102191581,
+        1125373747,
+        85633789,
+        1159302995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3214526
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"97dd1ec4028583d2aee5fc903270bfd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302995,
+            "localadmin_id":1125373747,
+            "locality_id":1193091441,
+            "region_id":85688429
+        }
+    ],
+    "wof:id":1193091441,
+    "wof:lastmodified":1536370192,
+    "wof:name":"Soderangen",
+    "wof:parent_id":1125373747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.01667,
+    59.875,
+    19.01667,
+    59.875
+],
+  "geometry": {"coordinates":[19.01667,59.875],"type":"Point"}
+}

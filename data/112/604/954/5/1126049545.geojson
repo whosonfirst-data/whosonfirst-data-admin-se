@@ -1,0 +1,80 @@
+{
+  "id": 1126049545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.75,63.06667,17.75,63.06667",
+    "geom:latitude":63.06667,
+    "geom:longitude":17.75,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":873,
+    "gn:population":873,
+    "iso:country":"SE",
+    "lbl:latitude":63.06667,
+    "lbl:longitude":17.75,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2667911,
+    "qs_pg:gn_pop":873,
+    "qs_pg:name":"Tors\u00e5ker",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":575606,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688457,
+        102191581,
+        1125423311,
+        85633789,
+        1159303301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2667911,
+        "qs_pg:id":575606
+    },
+    "wof:country":"SE",
+    "wof:created":1497302641,
+    "wof:geomhash":"c4cb10d4a9b9fd5bde66b75e7e609052",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303301,
+            "localadmin_id":1125423311,
+            "locality_id":1126049545,
+            "region_id":85688457
+        }
+    ],
+    "wof:id":1126049545,
+    "wof:lastmodified":1529703011,
+    "wof:name":"Tors\u00e5ker",
+    "wof:parent_id":1125423311,
+    "wof:placetype":"locality",
+    "wof:population":873,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.75,
+    63.06667,
+    17.75,
+    63.06667
+],
+  "geometry": {"coordinates":[17.75,63.06667],"type":"Point"}
+}

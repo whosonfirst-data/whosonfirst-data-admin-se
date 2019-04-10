@@ -1,0 +1,79 @@
+{
+  "id": 1276678459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.55,63.06667,15.55,63.06667",
+    "geom:latitude":63.06667,
+    "geom:longitude":15.55,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"2305.0",
+    "gn:asciiname":"Gransjolandet",
+    "gn:country_code":"SE",
+    "gn:dem":436,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2711090,
+    "gn:latitude":63.06667,
+    "gn:longitude":15.55,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Gransj\u00f6landet",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Gransj\u00f6landet"
+    ],
+    "name:nor_x_variant":[
+        "Gransj\u00f8landet"
+    ],
+    "name:und_x_variant":[
+        "Gransj\u00f6landet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688461,
+        102191581,
+        1159306827,
+        85633789,
+        1159303529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2711090
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"917316f50dba80fe42611a60e7324c4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303529,
+            "localadmin_id":1159306827,
+            "locality_id":1276678459,
+            "region_id":85688461
+        }
+    ],
+    "wof:id":1276678459,
+    "wof:lastmodified":1537700059,
+    "wof:name":"Gransjolandet",
+    "wof:parent_id":1159306827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.55,
+    63.06667,
+    15.55,
+    63.06667
+],
+  "geometry": {"coordinates":[15.55,63.06667],"type":"Point"}
+}

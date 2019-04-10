@@ -1,0 +1,75 @@
+{
+  "id": 1293572275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.01667,65.88333,21.01667,65.88333",
+    "geom:latitude":65.88333,
+    "geom:longitude":21.01667,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2582.0",
+    "gn:asciiname":"Akerholmen",
+    "gn:cc2":"SE",
+    "gn:country_code":"SE",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":606938,
+    "gn:latitude":65.88333,
+    "gn:longitude":21.01667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"\u00c5kerholmen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u00c5kerholm",
+        "\u00c5kerholmen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688471,
+        102191581,
+        1125373643,
+        85633789,
+        1159303477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":606938
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"11d1ab036f514a72a0cfb8da09da585c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303477,
+            "localadmin_id":1125373643,
+            "locality_id":1293572275,
+            "region_id":85688471
+        }
+    ],
+    "wof:id":1293572275,
+    "wof:lastmodified":1537699735,
+    "wof:name":"Akerholmen",
+    "wof:parent_id":1125373643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.01667,
+    65.88333,
+    21.01667,
+    65.88333
+],
+  "geometry": {"coordinates":[21.01667,65.88333],"type":"Point"}
+}

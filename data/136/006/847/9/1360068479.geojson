@@ -1,0 +1,70 @@
+{
+  "id": 1360068479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.23333,66.86667,23.23333,66.86667",
+    "geom:latitude":66.86667,
+    "geom:longitude":23.23333,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2521.0",
+    "gn:asciiname":"Virkamaa",
+    "gn:country_code":"SE",
+    "gn:dem":258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":601958,
+    "gn:latitude":66.86667,
+    "gn:longitude":23.23333,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Virkamaa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688471,
+        102191581,
+        1125373591,
+        85633789,
+        1159302953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":601958
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"625ba8062c562c8a95b82c51a1dbd7af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302953,
+            "localadmin_id":1125373591,
+            "locality_id":1360068479,
+            "region_id":85688471
+        }
+    ],
+    "wof:id":1360068479,
+    "wof:lastmodified":1536969362,
+    "wof:name":"Virkamaa",
+    "wof:parent_id":1125373591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.23333,
+    66.86667,
+    23.23333,
+    66.86667
+],
+  "geometry": {"coordinates":[23.23333,66.86667],"type":"Point"}
+}

@@ -1,0 +1,123 @@
+{
+  "id": 101817895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000172,
+    "geom:area_square_m":1204496.546249,
+    "geom:bbox":"13.5564751505,55.4192432657,13.5855009751,55.43005653",
+    "geom:latitude":55.42554,
+    "geom:longitude":13.57129,
+    "gn:population":1252,
+    "iso:country":"SE",
+    "lbl:latitude":55.425569,
+    "lbl:longitude":13.56986,
+    "mps:latitude":55.425569,
+    "mps:longitude":13.56986,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dan_x_preferred":[
+        "Skivarp"
+    ],
+    "name:dut_x_preferred":[
+        "Skivarp"
+    ],
+    "name:eng_x_preferred":[
+        "Skivarp"
+    ],
+    "name:nan_x_preferred":[
+        "Skivarp"
+    ],
+    "name:nld_x_preferred":[
+        "Skivarp"
+    ],
+    "name:nno_x_preferred":[
+        "Skivarp"
+    ],
+    "name:nob_x_preferred":[
+        "Skivarp"
+    ],
+    "name:nor_x_preferred":[
+        "Skivarp"
+    ],
+    "name:swe_x_preferred":[
+        "Skivarp"
+    ],
+    "name:swe_x_variant":[
+        "Skivarps"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Skivarp"
+    ],
+    "qs:a0":"Sverige",
+    "qs:a1":"*Sk\u00e5ne l\u00e4n",
+    "qs:a1r":"0",
+    "qs:adm0":"Sverige",
+    "qs:la":"Skurup",
+    "qs:la_lc":"*SE1264",
+    "qs:level":"locality",
+    "qs:loc":"Skivarp",
+    "qs:loc_alt":"Skivarp",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":45,
+    "wof:belongsto":[
+        85688377,
+        102191581,
+        1125381979,
+        85633789,
+        1159303379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06d22af0-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2677548,
+        "gp:id":904431,
+        "qs:id":1171277,
+        "qs_pg:id":1171277,
+        "wd:id":"Q2124908",
+        "wk:page":"Skivarp"
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"57884fca88e79cd7c2be776b9f9645c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303379,
+            "localadmin_id":1125381979,
+            "locality_id":101817895,
+            "region_id":85688377
+        }
+    ],
+    "wof:id":101817895,
+    "wof:lang":[
+        "swe"
+    ],
+    "wof:lastmodified":1529702663,
+    "wof:name":"Skivarp",
+    "wof:parent_id":1125381979,
+    "wof:placetype":"locality",
+    "wof:population":1252,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.55647515046837,
+    55.41924326565305,
+    13.5855009750581,
+    55.43005653002444
+],
+  "geometry": {"coordinates":[[[13.5855009750581,55.42965493848556],[13.58525947193692,55.42696278512875],[13.58368255111725,55.42700748156466],[13.58360209399251,55.42611009601836],[13.58202520514692,55.42615477166731],[13.58186437438644,55.42435999836329],[13.57713389969484,55.42449390059585],[13.57705359655523,55.42359651055608],[13.57547680035674,55.42364110420698],[13.57539653678549,55.42274371305132],[13.57224300506795,55.42283283914537],[13.57192227590986,55.41924326565305],[13.56561573717437,55.41942126392303],[13.56577581117574,55.42121605972409],[13.56419909783875,55.4212605124639],[13.56427910604896,55.42215791153893],[13.55797207909296,55.42233553062368],[13.55805195060537,55.42323293426665],[13.55647515046837,55.42327729106648],[13.5565549910242,55.42417469586923],[13.56128548741844,55.42404156313592],[13.56168528349542,55.42852857050622],[13.56483928403048,55.42843970576968],[13.5649193266762,55.42933710504707],[13.5712274296028,55.42915913527429],[13.57130761761141,55.43005653002444],[13.5855009750581,55.42965493848556]]],"type":"Polygon"}
+}

@@ -1,0 +1,129 @@
+{
+  "id": 1125880901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.15,59.1,15.15,59.1",
+    "geom:latitude":59.1,
+    "geom:longitude":15.15,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":419,
+    "gn:population":419,
+    "iso:country":"SE",
+    "lbl:latitude":59.1,
+    "lbl:longitude":15.15,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0421\u0430\u043d\u0430\u0445\u0435\u0434"
+    ],
+    "name:dan_x_preferred":[
+        "Sannahed"
+    ],
+    "name:dut_x_preferred":[
+        "Sannahed"
+    ],
+    "name:eng_x_preferred":[
+        "Sannahed"
+    ],
+    "name:fre_x_preferred":[
+        "Sannahed"
+    ],
+    "name:ger_x_preferred":[
+        "Sannahed"
+    ],
+    "name:nan_x_preferred":[
+        "Sannahed"
+    ],
+    "name:nds_x_preferred":[
+        "Sannahed"
+    ],
+    "name:nno_x_preferred":[
+        "Sannahed"
+    ],
+    "name:nob_x_preferred":[
+        "Sannahed"
+    ],
+    "name:swe_x_preferred":[
+        "Sannahed"
+    ],
+    "name:unk_x_variant":[
+        "Sanna"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2680001,
+    "qs_pg:gn_pop":419,
+    "qs_pg:name":"Sannahed",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"\u00d6rebro L\u00e4n",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":23,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":258859,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":903455,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"\u00d6rebro L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688421,
+        102191581,
+        1125363669,
+        85633789,
+        1159303127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2680001,
+        "gp:id":903455,
+        "qs_pg:id":258859,
+        "wd:id":"Q2497810"
+    },
+    "wof:country":"SE",
+    "wof:created":1497294801,
+    "wof:geomhash":"fd7fc5fb4a30f5646d5971ba832b27e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303127,
+            "localadmin_id":1125363669,
+            "locality_id":1125880901,
+            "region_id":85688421
+        }
+    ],
+    "wof:id":1125880901,
+    "wof:lastmodified":1529703059,
+    "wof:name":"Sannahed",
+    "wof:parent_id":1125363669,
+    "wof:placetype":"locality",
+    "wof:population":419,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.15,
+    59.1,
+    15.15,
+    59.1
+],
+  "geometry": {"coordinates":[15.15,59.1],"type":"Point"}
+}

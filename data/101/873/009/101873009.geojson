@@ -1,0 +1,130 @@
+{
+  "id": 101873009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.35987,62.363156,17.35987,62.363156",
+    "geom:latitude":62.363156,
+    "geom:longitude":17.35987,
+    "gn:population":2165,
+    "iso:country":"SE",
+    "lbl:latitude":62.363156,
+    "lbl:longitude":17.35987,
+    "mps:latitude":62.363156,
+    "mps:longitude":17.35987,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Stockvik"
+    ],
+    "name:dut_x_preferred":[
+        "Stockvik"
+    ],
+    "name:eng_x_preferred":[
+        "Stockviksverken"
+    ],
+    "name:ger_x_preferred":[
+        "Stockvik"
+    ],
+    "name:nan_x_preferred":[
+        "Stockvik"
+    ],
+    "name:nld_x_preferred":[
+        "Stockvik"
+    ],
+    "name:nno_x_preferred":[
+        "Stockvik"
+    ],
+    "name:nob_x_preferred":[
+        "Stockvik"
+    ],
+    "name:nor_x_preferred":[
+        "Stockvik"
+    ],
+    "name:swe_x_preferred":[
+        "Stockvik"
+    ],
+    "name:swe_x_variant":[
+        "Stockviks"
+    ],
+    "name:unk_x_variant":[
+        "Stockviksverken"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Stockvik"
+    ],
+    "qs:a0":"Sverige",
+    "qs:a1":"*V\u00e4sternorrlands l\u00e4n",
+    "qs:a1r":"0",
+    "qs:adm0":"Sverige",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Stockvik",
+    "qs:loc_alt":"Stockvik",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":45,
+    "wof:belongsto":[
+        85688457,
+        102191581,
+        1125325987,
+        85633789,
+        1159303427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06d3d436-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2673693,
+        "gp:id":906071,
+        "qs:id":256059,
+        "qs_pg:id":256059,
+        "wd:id":"Q2614751",
+        "wk:page":"Stockvik"
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"61a0dae4f20f59f7b24e4053ff73cae4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303427,
+            "localadmin_id":1125325987,
+            "locality_id":101873009,
+            "region_id":85688457
+        }
+    ],
+    "wof:id":101873009,
+    "wof:lang":[
+        "swe"
+    ],
+    "wof:lastmodified":1544751430,
+    "wof:name":"Stockvik",
+    "wof:parent_id":1125325987,
+    "wof:placetype":"locality",
+    "wof:population":2165,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.35987,
+    62.363156,
+    17.35987,
+    62.363156
+],
+  "geometry": {"coordinates":[17.35987,62.363156],"type":"Point"}
+}

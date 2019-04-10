@@ -1,0 +1,123 @@
+{
+  "id": 102537237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.038,59.223701,15.038,59.223701",
+    "geom:latitude":59.223701,
+    "geom:longitude":15.038,
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u5384\u52d2\u5e03\u9b6f"
+    ],
+    "name:eng_x_preferred":[
+        "\u00d6rebro Airport"
+    ],
+    "name:eng_x_variant":[
+        "ORB",
+        "ESOE"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u0648\u0631\u0628\u0631\u0648"
+    ],
+    "name:fin_x_preferred":[
+        "\u00d6rebron lentoasema"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9rodrome d'\u00d6rebro"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen \u00d6rebro"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30ec\u30d6\u30eb\u30fc\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Orebro"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Orebro"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u0648\u0631\u0628\u0631\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy \u00d6rebro"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u0440\u0435\u0431\u0440\u0443"
+    ],
+    "name:swe_x_preferred":[
+        "\u00d6rebro flygplats"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043e\u0432\u0440\u0431\u0440\u0443"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay \u00d6rebro"
+    ],
+    "oa:elevation_ft":"188",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424954,
+        "county_id":12587367,
+        "planet_id":1,
+        "state_id":2347058
+    },
+    "wof:belongsto":[
+        85688421,
+        102191581,
+        1125371379,
+        85633789,
+        1159303031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12517665,
+        "iata:code":"ORB",
+        "icao:code":"ESOE",
+        "oa:id":"2693",
+        "wd:id":"Q2625512",
+        "wk:page":"%C3%96rebro_Airport"
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"be4f846375157308108a9dc737bae973",
+    "wof:hierarchy":[
+        {
+            "campus_id":102537237,
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303031,
+            "localadmin_id":1125371379,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688421
+        }
+    ],
+    "wof:id":102537237,
+    "wof:lastmodified":1529703066,
+    "wof:name":"\u00d6rebro Bofors Flygplats",
+    "wof:parent_id":1125371379,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    15.038,
+    59.223701,
+    15.038,
+    59.223701
+],
+  "geometry": {"coordinates":[15.038,59.223701],"type":"Point"}
+}

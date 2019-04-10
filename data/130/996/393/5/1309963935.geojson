@@ -1,0 +1,75 @@
+{
+  "id": 1309963935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.3,64.41667,19.3,64.41667",
+    "geom:latitude":64.41667,
+    "geom:longitude":19.3,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"2404.0",
+    "gn:asciiname":"Nybranna",
+    "gn:cc2":"SE",
+    "gn:country_code":"SE",
+    "gn:dem":274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2687907,
+    "gn:latitude":64.41667,
+    "gn:longitude":19.3,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Nybr\u00e4nna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nybr\u00e4nnan",
+        "Nybr\u00e4nna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688465,
+        102191581,
+        1159307473,
+        85633789,
+        1159303511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2687907
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"a9abf657faba48faf21ed021b6a59c26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303511,
+            "localadmin_id":1159307473,
+            "locality_id":1309963935,
+            "region_id":85688465
+        }
+    ],
+    "wof:id":1309963935,
+    "wof:lastmodified":1537699931,
+    "wof:name":"Nybranna",
+    "wof:parent_id":1159307473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.3,
+    64.41667,
+    19.3,
+    64.41667
+],
+  "geometry": {"coordinates":[19.3,64.41667],"type":"Point"}
+}

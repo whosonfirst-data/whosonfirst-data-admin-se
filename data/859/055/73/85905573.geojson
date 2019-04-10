@@ -1,0 +1,108 @@
+{
+  "id": 85905573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000258,
+    "geom:area_square_m":1635576.389482,
+    "geom:bbox":"17.9103302263,59.2010940893,17.932434082,59.2217805574",
+    "geom:latitude":59.212237,
+    "geom:longitude":17.922915,
+    "gn:id":"",
+    "iso:country":"SE",
+    "lbl:latitude":59.219554,
+    "lbl:longitude":17.911957,
+    "mps:latitude":59.214026,
+    "mps:longitude":17.923082,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":0,
+    "name:swe_x_preferred":[
+        "Tullinge-villast"
+    ],
+    "name:unk_x_variant":[
+        "Tullinge-villast"
+    ],
+    "qs:gn_adm0_cc":"SE",
+    "qs:gn_id":0,
+    "qs:gn_local":2667109,
+    "qs:gn_nam_loc":"Tullinge, Botkyrka, Stockholms L\u00e4n, SE",
+    "qs:gn_namadm1":"26",
+    "qs:local_max":564,
+    "qs:local_sum":1557,
+    "qs:localhoods":7,
+    "qs:name":"Tullinge-villast",
+    "qs:name_adm0":"Sverige",
+    "qs:name_adm1":"Stockholms L\u00e4n",
+    "qs:name_adm2":"Botkyrka",
+    "qs:name_local":"Tullinge",
+    "qs:photo_max":53,
+    "qs:photo_sum":95,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":6,
+    "qs:woe_adm0":23424954,
+    "qs:woe_adm1":2347067,
+    "qs:woe_adm2":12587462,
+    "qs:woe_lau":0,
+    "qs:woe_local":908177,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85688429,
+        102191581,
+        1125362217,
+        85633789,
+        101752307,
+        1159303035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20151801,
+        "qs:id":1026227,
+        "qs_pg:id":1026227
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"e8fb1e4dd92102048e387ee944175035",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303035,
+            "localadmin_id":1125362217,
+            "locality_id":101752307,
+            "neighbourhood_id":85905573,
+            "region_id":85688429
+        }
+    ],
+    "wof:id":85905573,
+    "wof:lang":[
+        "swe"
+    ],
+    "wof:lastmodified":1529702819,
+    "wof:name":"Tullinge-villast",
+    "wof:parent_id":101752307,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.91033022632746,
+    59.20109408930007,
+    17.93243408202505,
+    59.22178055742931
+],
+  "geometry": {"coordinates":[[[17.92801291080377,59.21952839685012],[17.9278678196635,59.21886689213353],[17.92968747037901,59.21531159039996],[17.92968750000006,59.21531159040005],[17.92968750000006,59.21531153252529],[17.92968750000011,59.21250000019994],[17.92968750000011,59.2124999423004],[17.93243408202505,59.20713400938344],[17.93243408202505,59.20274596578325],[17.93076775227382,59.20185529397484],[17.92889182117028,59.2012862364961],[17.92694091795016,59.20109408930007],[17.92503110625552,59.20128218933412],[17.92174158385677,59.20770805812505],[17.91870117187511,59.20968788890021],[17.91464737270587,59.20968788890021],[17.91320800780005,59.21249994234951],[17.91320797818895,59.21250000020002],[17.91033022632746,59.21812219650026],[17.91511394565185,59.2204591377059],[17.91654292460612,59.21952839685012],[17.9194369680576,59.21952839685012],[17.92303361733872,59.22093407620001],[17.9241943359001,59.22138772012956],[17.92519947124049,59.22178055742931],[17.92781167272068,59.22007894637601],[17.92801291080377,59.21952839685012]]],"type":"Polygon"}
+}

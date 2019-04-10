@@ -1,0 +1,77 @@
+{
+  "id": 1125356313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-05-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.60019,58.41417,15.60019,58.41417",
+    "geom:latitude":58.41417,
+    "geom:longitude":15.60019,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":7721,
+    "gn:population":7721,
+    "iso:country":"SE",
+    "lbl:latitude":58.41417,
+    "lbl:longitude":15.60019,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8132392,
+    "qs_pg:gn_pop":7721,
+    "qs_pg:name":"Gottfridsberg",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":758113,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633789,
+        85688409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8132392,
+        "qs_pg:id":758113
+    },
+    "wof:country":"SE",
+    "wof:created":1497046490,
+    "wof:geomhash":"089f5f4b28ff0b6a3ef5425912f999fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "localadmin_id":1125356313,
+            "region_id":85688409
+        }
+    ],
+    "wof:id":1125356313,
+    "wof:lastmodified":1525735522,
+    "wof:name":"Gottfridsberg",
+    "wof:parent_id":85688409,
+    "wof:placetype":"localadmin",
+    "wof:population":7721,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.60019,
+    58.41417,
+    15.60019,
+    58.41417
+],
+  "geometry": {"coordinates":[15.60019,58.41417],"type":"Point"}
+}

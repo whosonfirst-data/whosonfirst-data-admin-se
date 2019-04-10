@@ -1,0 +1,72 @@
+{
+  "id": 1242733331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.57401,62.54497,17.57401,62.54497",
+    "geom:latitude":62.54497,
+    "geom:longitude":17.57401,
+    "gn:admin1_code":"24",
+    "gn:admin2_code":"2262.0",
+    "gn:admin3_code":"226203.0",
+    "gn:admin4_code":"2471.0",
+    "gn:asciiname":"Svarvaeboele",
+    "gn:country_code":"SE",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9659514,
+    "gn:latitude":62.54497,
+    "gn:longitude":17.57401,
+    "gn:modification_date":"2014-10-09",
+    "gn:name":"Svarvaeb\u00f6le",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688457,
+        102191581,
+        1125329245,
+        85633789,
+        1159303091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9659514
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"4cb7e77cd63bdedd63cc0e9a710b28bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303091,
+            "localadmin_id":1125329245,
+            "locality_id":1242733331,
+            "region_id":85688457
+        }
+    ],
+    "wof:id":1242733331,
+    "wof:lastmodified":1536838569,
+    "wof:name":"Svarvaeboele",
+    "wof:parent_id":1125329245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.57401,
+    62.54496999999999,
+    17.57401,
+    62.54496999999999
+],
+  "geometry": {"coordinates":[17.57401,62.54496999999999],"type":"Point"}
+}

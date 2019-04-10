@@ -1,0 +1,79 @@
+{
+  "id": 1293587413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.32236,57.63079,18.32236,57.63079",
+    "geom:latitude":57.63079,
+    "geom:longitude":18.32236,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"980.0",
+    "gn:asciiname":"Ostra Vi",
+    "gn:country_code":"SE",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2685177,
+    "gn:latitude":57.63079,
+    "gn:longitude":18.32236,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"\u00d6stra Vi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "\u00d6stra Vi"
+    ],
+    "name:nor_x_variant":[
+        "\u00d8stra Vi"
+    ],
+    "name:und_x_variant":[
+        "\u00d6stra Vi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688405,
+        102191581,
+        1125326347,
+        85633789,
+        1159303535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2685177
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"da42ffbe27b512117effb6c12d25f8c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303535,
+            "localadmin_id":1125326347,
+            "locality_id":1293587413,
+            "region_id":85688405
+        }
+    ],
+    "wof:id":1293587413,
+    "wof:lastmodified":1537699888,
+    "wof:name":"Ostra Vi",
+    "wof:parent_id":1125326347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.32236,
+    57.63079000000001,
+    18.32236,
+    57.63079000000001
+],
+  "geometry": {"coordinates":[18.32236,57.63079000000001],"type":"Point"}
+}

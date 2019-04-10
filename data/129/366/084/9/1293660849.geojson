@@ -1,0 +1,70 @@
+{
+  "id": 1293660849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.7,58.23306,15.7,58.23306",
+    "geom:latitude":58.23306,
+    "geom:longitude":15.7,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"580.0",
+    "gn:asciiname":"Vardnas",
+    "gn:country_code":"SE",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2664976,
+    "gn:latitude":58.23306,
+    "gn:longitude":15.7,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"V\u00e5rdn\u00e4s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688409,
+        102191581,
+        1125373693,
+        85633789,
+        1159303147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2664976
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"c9c64508b5f048ec8368e788e37a3eeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303147,
+            "localadmin_id":1125373693,
+            "locality_id":1293660849,
+            "region_id":85688409
+        }
+    ],
+    "wof:id":1293660849,
+    "wof:lastmodified":1537033011,
+    "wof:name":"Vardnas",
+    "wof:parent_id":1125373693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.7,
+    58.23306,
+    15.7,
+    58.23306
+],
+  "geometry": {"coordinates":[15.7,58.23306],"type":"Point"}
+}

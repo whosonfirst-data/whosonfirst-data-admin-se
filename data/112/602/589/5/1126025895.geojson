@@ -1,0 +1,117 @@
+{
+  "id": 1126025895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.83333,57.2,15.83333,57.2",
+    "geom:latitude":57.2,
+    "geom:longitude":15.83333,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":465,
+    "gn:population":437,
+    "iso:country":"SE",
+    "lbl:latitude":57.2,
+    "lbl:longitude":15.83333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "F\u00e5gelfors"
+    ],
+    "name:eng_x_preferred":[
+        "F\u00e5gelfors"
+    ],
+    "name:ita_x_preferred":[
+        "F\u00e5gelfors"
+    ],
+    "name:nan_x_preferred":[
+        "F\u00e5gelfors"
+    ],
+    "name:nno_x_preferred":[
+        "F\u00e5gelfors"
+    ],
+    "name:nob_x_preferred":[
+        "F\u00e5gelfors"
+    ],
+    "name:swe_x_preferred":[
+        "F\u00e5gelfors"
+    ],
+    "name:urd_x_preferred":[
+        "\u0641\u0627\u06af\u06cc\u0644\u0641\u0648\u0631\u0633"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2715824,
+    "qs_pg:gn_pop":465,
+    "qs_pg:name":"F\u00e5gelfors",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"Kalmar L\u00e4n",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1021711,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":889116,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"Kalmar L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688401,
+        102191581,
+        1125325709,
+        85633789,
+        1159302955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2715824,
+        "gp:id":889116,
+        "qs_pg:id":1021711,
+        "wd:id":"Q2508641"
+    },
+    "wof:country":"SE",
+    "wof:created":1497301139,
+    "wof:geomhash":"4312a0b62045027dfc9345aa8c8b941b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302955,
+            "localadmin_id":1125325709,
+            "locality_id":1126025895,
+            "region_id":85688401
+        }
+    ],
+    "wof:id":1126025895,
+    "wof:lastmodified":1554166253,
+    "wof:name":"F\u00e5gelfors",
+    "wof:parent_id":1125325709,
+    "wof:placetype":"locality",
+    "wof:population":437,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.83333,
+    57.2,
+    15.83333,
+    57.2
+],
+  "geometry": {"coordinates":[15.83333,57.2],"type":"Point"}
+}

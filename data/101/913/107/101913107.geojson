@@ -1,0 +1,86 @@
+{
+  "id": 101913107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000069,
+    "geom:area_square_m":445298.905297,
+    "geom:bbox":"11.838071715,58.3264733334,11.8577244383,58.3344938534",
+    "geom:latitude":58.33036,
+    "geom:longitude":11.84663,
+    "iso:country":"SE",
+    "lbl:latitude":58.330483,
+    "lbl:longitude":11.84663,
+    "mps:latitude":58.330483,
+    "mps:longitude":11.84663,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:swe_x_preferred":[
+        "V\u00e4sterby"
+    ],
+    "name:unk_x_variant":[
+        "Vesterby"
+    ],
+    "qs:a0":"Sverige",
+    "qs:a1":"*V\u00e4stra G\u00f6talands l\u00e4n",
+    "qs:a1r":"5",
+    "qs:adm0":"Sverige",
+    "qs:id":0,
+    "qs:la":"Uddevalla",
+    "qs:la_lc":"*SE1485",
+    "qs:level":"locality",
+    "qs:loc":"V\u00e4sterby",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet many local_admin match geoplanet",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":8,
+    "wof:belongsto":[
+        85688411,
+        102191581,
+        1125287003,
+        85633789,
+        1159303355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2664394,
+        "gp:id":909350,
+        "qs:id":1179371,
+        "qs_pg:id":507204
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"62561b5cbb32a6ffa0f573fb734206c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303355,
+            "localadmin_id":1125287003,
+            "locality_id":101913107,
+            "region_id":85688411
+        }
+    ],
+    "wof:id":101913107,
+    "wof:lastmodified":1529702233,
+    "wof:name":"V\u00e4sterby",
+    "wof:parent_id":1125287003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.83807171502934,
+    58.32647333343891,
+    11.85772443832042,
+    58.33449385342311
+],
+  "geometry": {"coordinates":[[[11.83807171502934,58.32655160872935],[11.84270549281985,58.33278537787857],[11.84754901406347,58.33271929679825],[11.84759510198074,58.33361822399974],[11.84929877696942,58.3335949266222],[11.84934491004043,58.33449385342311],[11.85104862541192,58.33447053391927],[11.85100244988843,58.33357160777774],[11.85270612073617,58.33354826746637],[11.85261369291152,58.33175041727708],[11.85772443832042,58.33168027150913],[11.85767810113799,58.33078134878497],[11.85427102449563,58.33082813277269],[11.85422477491284,58.3299292089834],[11.84911427172204,58.32999922199815],[11.84902203531828,58.32820137123355],[11.84561519260069,58.32824793662121],[11.8455691633232,58.32734901030898],[11.84386578130216,58.32737226015064],[11.84381979715522,58.32647333343891],[11.83807171502934,58.32655160872935]]],"type":"Polygon"}
+}

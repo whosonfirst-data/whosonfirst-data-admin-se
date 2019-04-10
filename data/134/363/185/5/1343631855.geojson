@@ -1,0 +1,75 @@
+{
+  "id": 1343631855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.98333,67.26667,22.98333,67.26667",
+    "geom:latitude":67.26667,
+    "geom:longitude":22.98333,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2521.0",
+    "gn:asciiname":"Perajavaara",
+    "gn:cc2":"SE",
+    "gn:country_code":"SE",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":603646,
+    "gn:latitude":67.26667,
+    "gn:longitude":22.98333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Per\u00e4j\u00e4vaara",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Per\u00e4j\u00e4vara",
+        "Per\u00e4j\u00e4vaara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688471,
+        102191581,
+        1125300089,
+        85633789,
+        1159302953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":603646
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"33c6061a691b9d911004a79e6de2e898",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302953,
+            "localadmin_id":1125300089,
+            "locality_id":1343631855,
+            "region_id":85688471
+        }
+    ],
+    "wof:id":1343631855,
+    "wof:lastmodified":1537699709,
+    "wof:name":"Perajavaara",
+    "wof:parent_id":1125300089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.98333,
+    67.26666999999999,
+    22.98333,
+    67.26666999999999
+],
+  "geometry": {"coordinates":[22.98333,67.26666999999999],"type":"Point"}
+}

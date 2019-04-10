@@ -1,0 +1,74 @@
+{
+  "id": 1310674193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.82947,65.79589,23.82947,65.79589",
+    "geom:latitude":65.79589,
+    "geom:longitude":23.82947,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2583.0",
+    "gn:asciiname":"Pentheikki",
+    "gn:country_code":"SE",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":603653,
+    "gn:latitude":65.79589,
+    "gn:longitude":23.82947,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Pentheikki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pentheiki",
+        "Pentheikki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688471,
+        102191581,
+        1125325185,
+        85633789,
+        1159302911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":603653
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"ecacb7a05f6aa7342d4573de1586abb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302911,
+            "localadmin_id":1125325185,
+            "locality_id":1310674193,
+            "region_id":85688471
+        }
+    ],
+    "wof:id":1310674193,
+    "wof:lastmodified":1537699709,
+    "wof:name":"Pentheikki",
+    "wof:parent_id":1125325185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.82947,
+    65.79589,
+    23.82947,
+    65.79589
+],
+  "geometry": {"coordinates":[23.82947,65.79589],"type":"Point"}
+}

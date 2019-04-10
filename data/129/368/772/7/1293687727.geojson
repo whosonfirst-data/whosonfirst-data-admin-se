@@ -1,0 +1,82 @@
+{
+  "id": 1293687727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.38968,61.81686,17.38968,61.81686",
+    "geom:latitude":61.81686,
+    "geom:longitude":17.38968,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"2184.0",
+    "gn:asciiname":"Bergo Fiskehamn",
+    "gn:cc2":"SE",
+    "gn:country_code":"SE",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2714858,
+    "gn:latitude":61.81686,
+    "gn:longitude":17.38968,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"Berg\u00f6 Fiskehamn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Berg\u00f6 Fiskehamn"
+    ],
+    "name:nor_x_variant":[
+        "Berg\u00f8 Fiskehamn"
+    ],
+    "name:und_x_variant":[
+        "Fiskhamn",
+        "Fiskehamn",
+        "Berg\u00f6 Fiskehamn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688453,
+        102191581,
+        1125362471,
+        85633789,
+        1159303395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2714858
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"7d4acfa5b01d6a470446601b919b02d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303395,
+            "localadmin_id":1125362471,
+            "locality_id":1293687727,
+            "region_id":85688453
+        }
+    ],
+    "wof:id":1293687727,
+    "wof:lastmodified":1537700082,
+    "wof:name":"Bergo Fiskehamn",
+    "wof:parent_id":1125362471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.38968,
+    61.81686,
+    17.38968,
+    61.81686
+],
+  "geometry": {"coordinates":[17.38968,61.81686],"type":"Point"}
+}

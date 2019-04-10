@@ -1,0 +1,118 @@
+{
+  "id": 1125900985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.08973,65.67171,22.08973,65.67171",
+    "geom:latitude":65.67171,
+    "geom:longitude":22.08973,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":759,
+    "gn:population":896,
+    "iso:country":"SE",
+    "lbl:latitude":65.67171,
+    "lbl:longitude":22.08973,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0420\u0443\u0442\u0432\u0438\u043a"
+    ],
+    "name:dut_x_preferred":[
+        "Rutvik"
+    ],
+    "name:eng_x_preferred":[
+        "Rutvik"
+    ],
+    "name:fre_x_preferred":[
+        "Rutvik"
+    ],
+    "name:ger_x_preferred":[
+        "Rutvik"
+    ],
+    "name:nan_x_preferred":[
+        "Rutvik"
+    ],
+    "name:nno_x_preferred":[
+        "Rutvik"
+    ],
+    "name:nob_x_preferred":[
+        "Rutvik"
+    ],
+    "name:swe_x_preferred":[
+        "Rutvik"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":603207,
+    "qs_pg:gn_pop":759,
+    "qs_pg:name":"Rutvik",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"Norrbottens L\u00e4n",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":55165,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":22527193,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"Norrbottens L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688471,
+        102191581,
+        1125373623,
+        85633789,
+        1159303317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":603207,
+        "gp:id":22527193,
+        "qs_pg:id":55165,
+        "wd:id":"Q1019546"
+    },
+    "wof:country":"SE",
+    "wof:created":1497295801,
+    "wof:geomhash":"0bee84b46568cc0759b6573afc539378",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303317,
+            "localadmin_id":1125373623,
+            "locality_id":1125900985,
+            "region_id":85688471
+        }
+    ],
+    "wof:id":1125900985,
+    "wof:lastmodified":1529702570,
+    "wof:name":"Rutvik",
+    "wof:parent_id":1125373623,
+    "wof:placetype":"locality",
+    "wof:population":896,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.08973,
+    65.67171,
+    22.08973,
+    65.67171
+],
+  "geometry": {"coordinates":[22.08973,65.67171],"type":"Point"}
+}

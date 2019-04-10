@@ -1,0 +1,80 @@
+{
+  "id": 1125843469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.80459,59.60199,17.80459,59.60199",
+    "geom:latitude":59.60199,
+    "geom:longitude":17.80459,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":769,
+    "gn:population":769,
+    "iso:country":"SE",
+    "lbl:latitude":59.60199,
+    "lbl:longitude":17.80459,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2674200,
+    "qs_pg:gn_pop":769,
+    "qs_pg:name":"Steninge",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":92376,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688429,
+        102191581,
+        1125329361,
+        85633789,
+        1159303265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2674200,
+        "qs_pg:id":92376
+    },
+    "wof:country":"SE",
+    "wof:created":1497293039,
+    "wof:geomhash":"1860c71097f6b5f22341aeabfdf9ed41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303265,
+            "localadmin_id":1125329361,
+            "locality_id":1125843469,
+            "region_id":85688429
+        }
+    ],
+    "wof:id":1125843469,
+    "wof:lastmodified":1529702757,
+    "wof:name":"Steninge",
+    "wof:parent_id":1125329361,
+    "wof:placetype":"locality",
+    "wof:population":769,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.80459,
+    59.60199,
+    17.80459,
+    59.60199
+],
+  "geometry": {"coordinates":[17.80459,59.60199],"type":"Point"}
+}

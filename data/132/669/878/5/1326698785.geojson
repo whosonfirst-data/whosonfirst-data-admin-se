@@ -1,0 +1,75 @@
+{
+  "id": 1326698785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.03333,59.28333,12.03333,59.28333",
+    "geom:latitude":59.28333,
+    "geom:longitude":12.03333,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1765.0",
+    "gn:asciiname":"Vastra Trattlanda",
+    "gn:cc2":"SE",
+    "gn:country_code":"SE",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2663697,
+    "gn:latitude":59.28333,
+    "gn:longitude":12.03333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"V\u00e4stra Tr\u00e4ttlanda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tr\u00e4ttlanda",
+        "V\u00e4stra Tr\u00e4ttlanda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688435,
+        102191581,
+        1125270325,
+        85633789,
+        1159302927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2663697
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"000fa281e547aeb3d8043b6823bd3efb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302927,
+            "localadmin_id":1125270325,
+            "locality_id":1326698785,
+            "region_id":85688435
+        }
+    ],
+    "wof:id":1326698785,
+    "wof:lastmodified":1537699751,
+    "wof:name":"Vastra Trattlanda",
+    "wof:parent_id":1125270325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.03333,
+    59.28333000000001,
+    12.03333,
+    59.28333000000001
+],
+  "geometry": {"coordinates":[12.03333,59.28333000000001],"type":"Point"}
+}

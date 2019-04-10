@@ -1,0 +1,77 @@
+{
+  "id": 1293478969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.01667,57.68333,16.01667,57.68333",
+    "geom:latitude":57.68333,
+    "geom:longitude":16.01667,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"884.0",
+    "gn:asciiname":"Gronlid",
+    "gn:country_code":"SE",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2710511,
+    "gn:latitude":57.68333,
+    "gn:longitude":16.01667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Gr\u00f6nlid",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Gr\u00f6nlid"
+    ],
+    "name:nor_x_variant":[
+        "Gr\u00f8nlid"
+    ],
+    "name:und_x_variant":[
+        "Gr\u00f6nlid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688401,
+        1125275379,
+        1159303159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2710511
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"80c7e7dc6ebbc89cfcfe20b061531c93",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "county_id":1159303159,
+            "localadmin_id":1125275379,
+            "locality_id":1293478969,
+            "region_id":85688401
+        }
+    ],
+    "wof:id":1293478969,
+    "wof:lastmodified":1537700056,
+    "wof:name":"Gronlid",
+    "wof:parent_id":1125275379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.01667,
+    57.68333000000001,
+    16.01667,
+    57.68333000000001
+],
+  "geometry": {"coordinates":[16.01667,57.68333000000001],"type":"Point"}
+}

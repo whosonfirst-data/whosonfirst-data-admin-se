@@ -1,0 +1,70 @@
+{
+  "id": 1309773319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.03333,60.01667,16.03333,60.01667",
+    "geom:latitude":60.01667,
+    "geom:longitude":16.03333,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1962.0",
+    "gn:asciiname":"Broarna",
+    "gn:country_code":"SE",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2719234,
+    "gn:latitude":60.01667,
+    "gn:longitude":16.03333,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Broarna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688425,
+        102191581,
+        1125327731,
+        85633789,
+        1159303227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2719234
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"20d2d1a44b422040b48ad2e72f5c744a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303227,
+            "localadmin_id":1125327731,
+            "locality_id":1309773319,
+            "region_id":85688425
+        }
+    ],
+    "wof:id":1309773319,
+    "wof:lastmodified":1536977467,
+    "wof:name":"Broarna",
+    "wof:parent_id":1125327731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.03333,
+    60.01667,
+    16.03333,
+    60.01667
+],
+  "geometry": {"coordinates":[16.03333,60.01667],"type":"Point"}
+}

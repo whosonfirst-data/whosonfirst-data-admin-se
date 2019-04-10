@@ -1,0 +1,82 @@
+{
+  "id": 1243051053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.25,66.1,22.25,66.1",
+    "geom:latitude":66.1,
+    "geom:longitude":22.25,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2580.0",
+    "gn:asciiname":"Hovlos",
+    "gn:cc2":"SE",
+    "gn:country_code":"SE",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":605644,
+    "gn:latitude":66.1,
+    "gn:longitude":22.25,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Hovl\u00f6s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Hovl\u00f6s"
+    ],
+    "name:nor_x_variant":[
+        "Hovl\u00f8s"
+    ],
+    "name:und_x_variant":[
+        "Hofl\u00f6s",
+        "H\u00e5rd\u00e5s",
+        "Hovl\u00f6s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688471,
+        102191581,
+        1125373631,
+        85633789,
+        1159303317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":605644
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"4224934379084b5ef26c84f4235e6008",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303317,
+            "localadmin_id":1125373631,
+            "locality_id":1243051053,
+            "region_id":85688471
+        }
+    ],
+    "wof:id":1243051053,
+    "wof:lastmodified":1537699727,
+    "wof:name":"Hovlos",
+    "wof:parent_id":1125373631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.25,
+    66.1,
+    22.25,
+    66.1
+],
+  "geometry": {"coordinates":[22.25,66.09999999999999],"type":"Point"}
+}

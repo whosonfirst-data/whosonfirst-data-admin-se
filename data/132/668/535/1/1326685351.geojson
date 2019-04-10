@@ -1,0 +1,72 @@
+{
+  "id": 1326685351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.64284,62.573,17.64284,62.573",
+    "geom:latitude":62.573,
+    "geom:longitude":17.64284,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2262.0",
+    "gn:admin3_code":"226203.0",
+    "gn:admin4_code":"2471.0",
+    "gn:asciiname":"Norrkrange",
+    "gn:country_code":"SE",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2688366,
+    "gn:latitude":62.573,
+    "gn:longitude":17.64284,
+    "gn:modification_date":"2014-10-09",
+    "gn:name":"Norrkr\u00e5nge",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688457,
+        102191581,
+        1125329245,
+        85633789,
+        1159303091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2688366
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"9a42b410afe5e60d240db73cbe6eab22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303091,
+            "localadmin_id":1125329245,
+            "locality_id":1326685351,
+            "region_id":85688457
+        }
+    ],
+    "wof:id":1326685351,
+    "wof:lastmodified":1536763786,
+    "wof:name":"Norrkrange",
+    "wof:parent_id":1125329245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.64284,
+    62.573,
+    17.64284,
+    62.573
+],
+  "geometry": {"coordinates":[17.64284,62.573],"type":"Point"}
+}

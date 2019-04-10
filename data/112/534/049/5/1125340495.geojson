@@ -1,0 +1,77 @@
+{
+  "id": 1125340495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-05-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.33455,55.95942,13.33455,55.95942",
+    "geom:latitude":55.95942,
+    "geom:longitude":13.33455,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":4005,
+    "gn:population":4005,
+    "iso:country":"SE",
+    "lbl:latitude":55.95942,
+    "lbl:longitude":13.33455,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8132311,
+    "qs_pg:gn_pop":4005,
+    "qs_pg:name":"\u00d6stra Onsj\u00f6",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":758038,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633789,
+        85688377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8132311,
+        "qs_pg:id":758038
+    },
+    "wof:country":"SE",
+    "wof:created":1497045629,
+    "wof:geomhash":"f7138b8b1bf7c546d34f51108f1507b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "localadmin_id":1125340495,
+            "region_id":85688377
+        }
+    ],
+    "wof:id":1125340495,
+    "wof:lastmodified":1525735523,
+    "wof:name":"\u00d6stra Onsj\u00f6",
+    "wof:parent_id":85688377,
+    "wof:placetype":"localadmin",
+    "wof:population":4005,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.33455,
+    55.95942,
+    13.33455,
+    55.95942
+],
+  "geometry": {"coordinates":[13.33455,55.95942],"type":"Point"}
+}

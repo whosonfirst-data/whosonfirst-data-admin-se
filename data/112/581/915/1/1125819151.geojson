@@ -1,0 +1,104 @@
+{
+  "id": 1125819151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.1,57.5,18.1,57.5",
+    "geom:latitude":57.5,
+    "geom:longitude":18.1,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"SE",
+    "lbl:latitude":57.5,
+    "lbl:longitude":18.1,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Gnisv\u00e4rd/Sm\u00e5g\u00e5rde"
+    ],
+    "name:eng_x_preferred":[
+        "Gnisv\u00e4rd"
+    ],
+    "name:fre_x_preferred":[
+        "Gnisv\u00e4rd"
+    ],
+    "name:ger_x_preferred":[
+        "Gnisv\u00e4rd"
+    ],
+    "name:swe_x_preferred":[
+        "Gnisv\u00e4rd och Sm\u00e5g\u00e5rde"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2711792,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Gnisv\u00e4rd",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"Gotlands L\u00e4n",
+    "qs_pg:photos":144,
+    "qs_pg:photos_1k":29,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":144,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1167669,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":890771,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"Gotlands L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633789,
+        85688405,
+        1159303535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2711792,
+        "gp:id":890771,
+        "qs_pg:id":1167669,
+        "wd:id":"Q1277374"
+    },
+    "wof:country":"SE",
+    "wof:created":1497291974,
+    "wof:geomhash":"9fbb45ee05a9f83a9daeccb36c542af5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303535,
+            "locality_id":1125819151,
+            "region_id":85688405
+        }
+    ],
+    "wof:id":1125819151,
+    "wof:lastmodified":1529702037,
+    "wof:name":"Gnisv\u00e4rd",
+    "wof:parent_id":1159303535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.1,
+    57.5,
+    18.1,
+    57.5
+],
+  "geometry": {"coordinates":[18.1,57.5],"type":"Point"}
+}

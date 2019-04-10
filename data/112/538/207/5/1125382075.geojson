@@ -1,0 +1,77 @@
+{
+  "id": 1125382075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-05-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.21669,55.69245,14.21669,55.69245",
+    "geom:latitude":55.69245,
+    "geom:longitude":14.21669,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":2302,
+    "gn:population":2302,
+    "iso:country":"SE",
+    "lbl:latitude":55.69245,
+    "lbl:longitude":14.21669,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8132404,
+    "qs_pg:gn_pop":2302,
+    "qs_pg:name":"Kivik",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":381367,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633789,
+        85688377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8132404,
+        "qs_pg:id":381367
+    },
+    "wof:country":"SE",
+    "wof:created":1497048107,
+    "wof:geomhash":"b19ba60fb5d3a9a16873440510eeeb90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "localadmin_id":1125382075,
+            "region_id":85688377
+        }
+    ],
+    "wof:id":1125382075,
+    "wof:lastmodified":1525735523,
+    "wof:name":"Kivik",
+    "wof:parent_id":85688377,
+    "wof:placetype":"localadmin",
+    "wof:population":2302,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.21669,
+    55.69245,
+    14.21669,
+    55.69245
+],
+  "geometry": {"coordinates":[14.21669,55.69245],"type":"Point"}
+}

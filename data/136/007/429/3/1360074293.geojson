@@ -1,0 +1,70 @@
+{
+  "id": 1360074293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.8,56.38333,15.8,56.38333",
+    "geom:latitude":56.38333,
+    "geom:longitude":15.8,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"834.0",
+    "gn:asciiname":"Branderas",
+    "gn:country_code":"SE",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2719889,
+    "gn:latitude":56.38333,
+    "gn:longitude":15.8,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Br\u00e4nder\u00e5s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688401,
+        102191581,
+        1125359587,
+        85633789,
+        1159303291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2719889
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"656ba7cee45b553b7b67e07aabe6b4a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303291,
+            "localadmin_id":1125359587,
+            "locality_id":1360074293,
+            "region_id":85688401
+        }
+    ],
+    "wof:id":1360074293,
+    "wof:lastmodified":1554166224,
+    "wof:name":"Branderas",
+    "wof:parent_id":1125359587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.8,
+    56.38333000000001,
+    15.8,
+    56.38333000000001
+],
+  "geometry": {"coordinates":[15.8,56.38333000000001],"type":"Point"}
+}

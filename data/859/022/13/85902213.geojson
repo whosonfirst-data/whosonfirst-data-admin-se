@@ -1,0 +1,122 @@
+{
+  "id": 85902213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":15830499.93951,
+    "geom:bbox":"15.461063,60.472427,15.461063,60.472427",
+    "geom:latitude":60.472427,
+    "geom:longitude":15.461063,
+    "gn:latitude":60.48333,
+    "gn:longitude":15.46667,
+    "iso:country":"SE",
+    "lbl:latitude":60.472427,
+    "lbl:longitude":15.461063,
+    "mps:latitude":60.467369,
+    "mps:longitude":15.450602,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":2,
+    "name:swe_x_colloquial":[
+        "Kaelarfvet",
+        "Kaelarvet",
+        "Kalarfvet",
+        "Kalarvet"
+    ],
+    "name:swe_x_preferred":[
+        "K\u00e4larvet"
+    ],
+    "name:swe_x_variant":[
+        "K\u00e4larfvet"
+    ],
+    "name:unk_x_variant":[
+        "K\u00e4larfvet",
+        "K\u00e4larvet"
+    ],
+    "qs:gn_adm0_cc":"SE",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2720383,
+    "qs:gn_nam_loc":"Borl\u00e4nge, Borl\u00e4nge, Dalarnas L\u00e4n, SE",
+    "qs:gn_namadm1":"10",
+    "qs:gn_name":"K\u00e4larvet",
+    "qs:local_max":8289,
+    "qs:local_sum":8997,
+    "qs:localhoods":6,
+    "qs:name":"K\u00e4larvet",
+    "qs:name_adm0":"Sverige",
+    "qs:name_adm1":"Dalarnas L\u00e4n",
+    "qs:name_adm2":"Borl\u00e4nge",
+    "qs:name_local":"Borl\u00e4nge",
+    "qs:photo_max":18,
+    "qs:photo_sum":92,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":27,
+    "qs:woe_adm0":23424954,
+    "qs:woe_adm1":2347053,
+    "qs:woe_adm2":12587288,
+    "qs:woe_lau":0,
+    "qs:woe_local":887274,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85688447,
+        102191581,
+        1125277915,
+        85633789,
+        101816099,
+        1159302993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2702617,
+        "gp:id":894568,
+        "qs:id":315456,
+        "qs_pg:id":315456
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"62a6681e8d1b1a23e5d7e8bfddc1912e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302993,
+            "localadmin_id":1125277915,
+            "locality_id":101816099,
+            "neighbourhood_id":85902213,
+            "region_id":85688447
+        }
+    ],
+    "wof:id":85902213,
+    "wof:lang":[
+        "swe"
+    ],
+    "wof:lastmodified":1531935868,
+    "wof:name":"K\u00e4larvet",
+    "wof:parent_id":101816099,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.461063,
+    60.472427,
+    15.461063,
+    60.472427
+],
+  "geometry": {"coordinates":[15.461063,60.472427],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1242924565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.84455,55.45566,13.84455,55.45566",
+    "geom:latitude":55.45566,
+    "geom:longitude":13.84455,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"1286.0",
+    "gn:admin3_code":"128611.0",
+    "gn:admin4_code":"1416.0",
+    "gn:asciiname":"Oja",
+    "gn:country_code":"SE",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2687334,
+    "gn:latitude":55.45566,
+    "gn:longitude":13.84455,
+    "gn:modification_date":"2017-04-25",
+    "gn:name":"\u00d6ja",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "\u00d6ja"
+    ],
+    "name:nor_x_variant":[
+        "\u00d8ja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688377,
+        102191581,
+        1159306345,
+        85633789,
+        1159303233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2687334
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"abec45e112a62afee972e365a874bcb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303233,
+            "localadmin_id":1159306345,
+            "locality_id":1242924565,
+            "region_id":85688377
+        }
+    ],
+    "wof:id":1242924565,
+    "wof:lastmodified":1537699927,
+    "wof:name":"Oja",
+    "wof:parent_id":1159306345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.84455,
+    55.45566,
+    13.84455,
+    55.45566
+],
+  "geometry": {"coordinates":[13.84455,55.45566],"type":"Point"}
+}

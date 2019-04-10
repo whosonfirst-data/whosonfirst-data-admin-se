@@ -1,0 +1,108 @@
+{
+  "id": 1125827151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.18333,61.18333,17.18333,61.18333",
+    "geom:latitude":61.18333,
+    "geom:longitude":17.18333,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":288,
+    "gn:population":242,
+    "iso:country":"SE",
+    "lbl:latitude":61.18333,
+    "lbl:longitude":17.18333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0641\u0627\u0644\u0641\u064a\u0643"
+    ],
+    "name:bul_x_preferred":[
+        "\u0412\u0430\u043b\u0432\u0438\u043a"
+    ],
+    "name:dut_x_preferred":[
+        "Vallvik"
+    ],
+    "name:eng_x_preferred":[
+        "Vallvik"
+    ],
+    "name:nan_x_preferred":[
+        "Vallvik"
+    ],
+    "name:nno_x_preferred":[
+        "Vallvik"
+    ],
+    "name:nob_x_preferred":[
+        "Vallvik"
+    ],
+    "name:swe_x_preferred":[
+        "Vallvik"
+    ],
+    "name:unk_x_variant":[
+        "Wallvik"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2665331,
+    "qs_pg:gn_pop":288,
+    "qs_pg:name":"Vallvik",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":575596,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688453,
+        102191581,
+        1125371399,
+        85633789,
+        1159303385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2665331,
+        "qs_pg:id":575596,
+        "wd:id":"Q2983232"
+    },
+    "wof:country":"SE",
+    "wof:created":1497292329,
+    "wof:geomhash":"3b153dd98fbd567d162861d96c95076a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303385,
+            "localadmin_id":1125371399,
+            "locality_id":1125827151,
+            "region_id":85688453
+        }
+    ],
+    "wof:id":1125827151,
+    "wof:lastmodified":1529702069,
+    "wof:name":"Vallvik",
+    "wof:parent_id":1125371399,
+    "wof:placetype":"locality",
+    "wof:population":242,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.18333,
+    61.18333,
+    17.18333,
+    61.18333
+],
+  "geometry": {"coordinates":[17.18333,61.18333],"type":"Point"}
+}

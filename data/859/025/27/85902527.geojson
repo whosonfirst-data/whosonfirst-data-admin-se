@@ -1,0 +1,122 @@
+{
+  "id": 85902527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000124,
+    "geom:area_square_m":784790.378729,
+    "geom:bbox":"18.0450439453,59.2714947242,18.0623893231,59.2813171802",
+    "geom:latitude":59.276122,
+    "geom:longitude":18.053823,
+    "gn:latitude":59.27478,
+    "gn:longitude":18.05397,
+    "iso:country":"SE",
+    "lbl:latitude":59.278285,
+    "lbl:longitude":18.043115,
+    "mps:latitude":59.276406,
+    "mps:longitude":18.053654,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":1,
+    "name:fin_x_preferred":[
+        "Stureby"
+    ],
+    "name:nor_x_preferred":[
+        "Stureby"
+    ],
+    "name:pol_x_preferred":[
+        "Stureby"
+    ],
+    "name:swe_x_preferred":[
+        "Stureby"
+    ],
+    "name:unk_x_variant":[
+        "Stureby"
+    ],
+    "qs:gn_adm0_cc":"SE",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2673730,
+    "qs:gn_namadm1":"26",
+    "qs:gn_name":"Stureby",
+    "qs:local_max":47943,
+    "qs:local_sum":372692,
+    "qs:localhoods":300,
+    "qs:name":"Stureby",
+    "qs:name_adm0":"Sverige",
+    "qs:name_adm1":"Stockholms L\u00e4n",
+    "qs:name_adm2":"Stockholm Kommun",
+    "qs:name_local":"Stockholm",
+    "qs:photo_max":36,
+    "qs:photo_sum":160,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":13,
+    "qs:woe_adm0":23424954,
+    "qs:woe_adm1":2347067,
+    "qs:woe_adm2":12587478,
+    "qs:woe_lau":0,
+    "qs:woe_local":906057,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":343,
+    "wof:belongsto":[
+        85688429,
+        102191581,
+        1125362217,
+        85633789,
+        101752307,
+        1159303035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2671062,
+        "gp:id":906632,
+        "qs:id":3844,
+        "qs_pg:id":3844,
+        "wd:id":"Q1781238"
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"6eef05d63ac584dc85e63c51564b76e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303035,
+            "localadmin_id":1125362217,
+            "locality_id":101752307,
+            "neighbourhood_id":85902527,
+            "region_id":85688429
+        }
+    ],
+    "wof:id":85902527,
+    "wof:lang":[
+        "swe"
+    ],
+    "wof:lastmodified":1529702794,
+    "wof:name":"Stureby",
+    "wof:parent_id":101752307,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.04504394529999,
+    59.27149472417533,
+    18.06238932305206,
+    59.28131718017509
+],
+  "geometry": {"coordinates":[[[18.05660515297581,59.27992810979221],[18.05985216268039,59.27780947612537],[18.06008975361692,59.27780947612537],[18.06152343750006,59.27640637140034],[18.06213234181939,59.27581045444983],[18.06238932305206,59.27430145407546],[18.0615234375,59.27260675968755],[18.0615234375,59.271494782],[18.0615234375,59.27149472417533],[18.05603027342511,59.27149472417533],[18.05140303921854,59.27149472417533],[18.05140300967241,59.271494782],[18.05053710940012,59.271494782],[18.05053710938546,59.27289810357523],[18.05009053253121,59.27289810357523],[18.04793936412813,59.27430151190005],[18.04779052730004,59.27430151190005],[18.04779052730004,59.27439861208209],[18.04578861675088,59.27570464555031],[18.04576087585554,59.27570464555031],[18.04504394529999,59.27710795267519],[18.04504394529999,59.27710801050007],[18.04504394529999,59.27991421997517],[18.04504394529999,59.27991427779993],[18.05053710940012,59.27991427779993],[18.05053713891454,59.27991427779993],[18.05125380362364,59.28131718017509],[18.05603027342511,59.28131718017509],[18.05624329557088,59.28110867152058],[18.05660515297581,59.27992810979221]]],"type":"Polygon"}
+}

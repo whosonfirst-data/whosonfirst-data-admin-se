@@ -1,0 +1,76 @@
+{
+  "id": 1259485301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.95,56.13333,14.95,56.13333",
+    "geom:latitude":56.13333,
+    "geom:longitude":14.95,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Styrso",
+    "gn:country_code":"SE",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2670996,
+    "gn:latitude":56.13333,
+    "gn:longitude":14.95,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Styrs\u00f6",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Styrs\u00f6"
+    ],
+    "name:nor_x_variant":[
+        "Styrs\u00f8"
+    ],
+    "name:und_x_variant":[
+        "Styrs\u00f6"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688383,
+        1125286523,
+        1159302985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2670996
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"a8b282dd0c30610891809a0ab00dd511",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "county_id":1159302985,
+            "localadmin_id":1125286523,
+            "locality_id":1259485301,
+            "region_id":85688383
+        }
+    ],
+    "wof:id":1259485301,
+    "wof:lastmodified":1537699784,
+    "wof:name":"Styrso",
+    "wof:parent_id":1125286523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.95,
+    56.13333000000001,
+    14.95,
+    56.13333000000001
+],
+  "geometry": {"coordinates":[14.95,56.13333000000001],"type":"Point"}
+}

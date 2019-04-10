@@ -1,0 +1,79 @@
+{
+  "id": 1343268169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.96667,61.78333,16.96667,61.78333",
+    "geom:latitude":61.78333,
+    "geom:longitude":16.96667,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"2184.0",
+    "gn:asciiname":"Frolland",
+    "gn:country_code":"SE",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2713613,
+    "gn:latitude":61.78333,
+    "gn:longitude":16.96667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Fr\u00f6lland",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Fr\u00f6lland"
+    ],
+    "name:nor_x_variant":[
+        "Fr\u00f8lland"
+    ],
+    "name:und_x_variant":[
+        "Fr\u00f6lland"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688453,
+        102191581,
+        1159307413,
+        85633789,
+        1159303395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2713613
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"b17324b0ac8f30f02431fa985aafc7b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303395,
+            "localadmin_id":1159307413,
+            "locality_id":1343268169,
+            "region_id":85688453
+        }
+    ],
+    "wof:id":1343268169,
+    "wof:lastmodified":1537700076,
+    "wof:name":"Frolland",
+    "wof:parent_id":1159307413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.96667,
+    61.78333000000001,
+    16.96667,
+    61.78333000000001
+],
+  "geometry": {"coordinates":[16.96667,61.78333000000001],"type":"Point"}
+}

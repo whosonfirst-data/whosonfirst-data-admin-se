@@ -1,0 +1,82 @@
+{
+  "id": 1277131139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.68333,59.8,18.68333,59.8",
+    "geom:latitude":59.8,
+    "geom:longitude":18.68333,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"188.0",
+    "gn:asciiname":"Fingarno",
+    "gn:cc2":"SE",
+    "gn:country_code":"SE",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2715052,
+    "gn:latitude":59.8,
+    "gn:longitude":18.68333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Fingarn\u00f6",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Fingarn\u00f6"
+    ],
+    "name:nor_x_variant":[
+        "Fingarn\u00f8"
+    ],
+    "name:und_x_variant":[
+        "Finngarne",
+        "Fingarne",
+        "Fingarn\u00f6"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688429,
+        102191581,
+        1125286421,
+        85633789,
+        1159302995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2715052
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"433090200e96defc1ecdc52112993803",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302995,
+            "localadmin_id":1125286421,
+            "locality_id":1277131139,
+            "region_id":85688429
+        }
+    ],
+    "wof:id":1277131139,
+    "wof:lastmodified":1537700083,
+    "wof:name":"Fingarno",
+    "wof:parent_id":1125286421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.68333,
+    59.8,
+    18.68333,
+    59.8
+],
+  "geometry": {"coordinates":[18.68333,59.8],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1242638615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.25,58.87222,11.25,58.87222",
+    "geom:latitude":58.87222,
+    "geom:longitude":11.25,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"1486.0",
+    "gn:asciiname":"Hedangen",
+    "gn:country_code":"SE",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3330009,
+    "gn:latitude":58.87222,
+    "gn:longitude":11.25,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Hed\u00e4ngen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688411,
+        102191581,
+        1125340251,
+        85633789,
+        1159303235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3330009
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"4d2c3ef07eeb4d4f60f047aa011a2fec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303235,
+            "localadmin_id":1125340251,
+            "locality_id":1242638615,
+            "region_id":85688411
+        }
+    ],
+    "wof:id":1242638615,
+    "wof:lastmodified":1536975568,
+    "wof:name":"Hedangen",
+    "wof:parent_id":1125340251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.25,
+    58.87222,
+    11.25,
+    58.87222
+],
+  "geometry": {"coordinates":[11.25,58.87222],"type":"Point"}
+}

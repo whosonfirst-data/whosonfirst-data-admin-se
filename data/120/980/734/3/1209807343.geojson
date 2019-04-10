@@ -1,0 +1,70 @@
+{
+  "id": 1209807343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.51667,56.96667,12.51667,56.96667",
+    "geom:latitude":56.96667,
+    "geom:longitude":12.51667,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"1382.0",
+    "gn:asciiname":"Hallerup",
+    "gn:country_code":"SE",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2708616,
+    "gn:latitude":56.96667,
+    "gn:longitude":12.51667,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"H\u00e4llerup",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688391,
+        102191581,
+        1125325495,
+        85633789,
+        1159303247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2708616
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"ea02bf6bc2950f9aadc54146066dbe6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303247,
+            "localadmin_id":1125325495,
+            "locality_id":1209807343,
+            "region_id":85688391
+        }
+    ],
+    "wof:id":1209807343,
+    "wof:lastmodified":1536388013,
+    "wof:name":"Hallerup",
+    "wof:parent_id":1125325495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.51667,
+    56.96666999999999,
+    12.51667,
+    56.96666999999999
+],
+  "geometry": {"coordinates":[12.51667,56.96666999999999],"type":"Point"}
+}

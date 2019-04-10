@@ -1,0 +1,71 @@
+{
+  "id": 1209462143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.175,58.925,11.175,58.925",
+    "geom:latitude":58.925,
+    "geom:longitude":11.175,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"1486.0",
+    "gn:asciiname":"Roseberg",
+    "gn:country_code":"SE",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3330088,
+    "gn:latitude":58.925,
+    "gn:longitude":11.175,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"R\u00f6seberg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "R\u00f6seberg"
+    ],
+    "name:nor_x_variant":[
+        "R\u00f8seberg"
+    ],
+    "name:und_x_variant":[
+        "R\u00f6seberg"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3330088
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"111d0e404fdb6c8e1d5db3d90d744489",
+    "wof:hierarchy":[
+        {
+            "country_id":85633789,
+            "locality_id":1209462143
+        }
+    ],
+    "wof:id":1209462143,
+    "wof:lastmodified":1537700155,
+    "wof:name":"Roseberg",
+    "wof:parent_id":85633789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.175,
+    58.925,
+    11.175,
+    58.925
+],
+  "geometry": {"coordinates":[11.175,58.925],"type":"Point"}
+}

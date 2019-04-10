@@ -1,0 +1,70 @@
+{
+  "id": 1309756839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.28333,57.85,12.28333,57.85",
+    "geom:latitude":57.85,
+    "geom:longitude":12.28333,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"1441.0",
+    "gn:asciiname":"Lekstorp",
+    "gn:country_code":"SE",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2696644,
+    "gn:latitude":57.85,
+    "gn:longitude":12.28333,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Lekstorp",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688411,
+        102191581,
+        1125271005,
+        85633789,
+        1159303177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2696644
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"812f5f0f7be0482f1fd206b035a4da9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303177,
+            "localadmin_id":1125271005,
+            "locality_id":1309756839,
+            "region_id":85688411
+        }
+    ],
+    "wof:id":1309756839,
+    "wof:lastmodified":1537001055,
+    "wof:name":"Lekstorp",
+    "wof:parent_id":1125271005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.28333,
+    57.85,
+    12.28333,
+    57.85
+],
+  "geometry": {"coordinates":[12.28333,57.85],"type":"Point"}
+}

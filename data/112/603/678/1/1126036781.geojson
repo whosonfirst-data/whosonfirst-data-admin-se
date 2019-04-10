@@ -1,0 +1,80 @@
+{
+  "id": 1126036781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.51667,56.2,15.51667,56.2",
+    "geom:latitude":56.2,
+    "geom:longitude":15.51667,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":318,
+    "gn:population":318,
+    "iso:country":"SE",
+    "lbl:latitude":56.2,
+    "lbl:longitude":15.51667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2713757,
+    "qs_pg:gn_pop":318,
+    "qs_pg:name":"Fredriksdal",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":92401,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688383,
+        102191581,
+        1125357189,
+        85633789,
+        1159303467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2713757,
+        "qs_pg:id":92401
+    },
+    "wof:country":"SE",
+    "wof:created":1497301836,
+    "wof:geomhash":"7a2d280a0ff8053dbbd3e19d32efc639",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303467,
+            "localadmin_id":1125357189,
+            "locality_id":1126036781,
+            "region_id":85688383
+        }
+    ],
+    "wof:id":1126036781,
+    "wof:lastmodified":1554166233,
+    "wof:name":"Fredriksdal",
+    "wof:parent_id":1125357189,
+    "wof:placetype":"locality",
+    "wof:population":318,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.51667,
+    56.2,
+    15.51667,
+    56.2
+],
+  "geometry": {"coordinates":[15.51667,56.2],"type":"Point"}
+}

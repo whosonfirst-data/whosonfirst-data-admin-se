@@ -1,0 +1,80 @@
+{
+  "id": 1125765157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.36917,62.2875,17.36917,62.2875",
+    "geom:latitude":62.2875,
+    "geom:longitude":17.36917,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1200,
+    "gn:population":1200,
+    "iso:country":"SE",
+    "lbl:latitude":62.2875,
+    "lbl:longitude":17.36917,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2689520,
+    "qs_pg:gn_pop":1200,
+    "qs_pg:name":"Nolby",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":575665,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688457,
+        102191581,
+        1125409973,
+        85633789,
+        1159303427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2689520,
+        "qs_pg:id":575665
+    },
+    "wof:country":"SE",
+    "wof:created":1497289863,
+    "wof:geomhash":"98410c60cd3ac764bbc234b62a856052",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303427,
+            "localadmin_id":1125409973,
+            "locality_id":1125765157,
+            "region_id":85688457
+        }
+    ],
+    "wof:id":1125765157,
+    "wof:lastmodified":1529703001,
+    "wof:name":"Nolby",
+    "wof:parent_id":1125409973,
+    "wof:placetype":"locality",
+    "wof:population":1200,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.36917,
+    62.2875,
+    17.36917,
+    62.2875
+],
+  "geometry": {"coordinates":[17.36917,62.2875],"type":"Point"}
+}

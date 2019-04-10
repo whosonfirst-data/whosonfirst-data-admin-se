@@ -1,0 +1,79 @@
+{
+  "id": 1310068289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.43601,58.72949,16.43601,58.72949",
+    "geom:latitude":58.72949,
+    "geom:longitude":16.43601,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"480.0",
+    "gn:admin3_code":"48007.0",
+    "gn:admin4_code":"341.0",
+    "gn:asciiname":"Stavsjoe",
+    "gn:country_code":"SE",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2674351,
+    "gn:latitude":58.72949,
+    "gn:longitude":16.43601,
+    "gn:modification_date":"2017-03-19",
+    "gn:name":"Stavsj\u00f6",
+    "gn:population":210,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:swe_x_preferred":[
+        "Stavsj\u00f6bruk"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688419,
+        102191581,
+        1125325225,
+        85633789,
+        1159303471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2674351,
+        "wk:page":"Stavsj%C3%B6"
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"dc0e1d12a08c259231a649cc728057a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303471,
+            "localadmin_id":1125325225,
+            "locality_id":1310068289,
+            "region_id":85688419
+        }
+    ],
+    "wof:id":1310068289,
+    "wof:lastmodified":1537699799,
+    "wof:name":"Stavsjoe",
+    "wof:parent_id":1125325225,
+    "wof:placetype":"locality",
+    "wof:population":210,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.43601,
+    58.72949000000001,
+    16.43601,
+    58.72949000000001
+],
+  "geometry": {"coordinates":[16.43601,58.72949000000001],"type":"Point"}
+}

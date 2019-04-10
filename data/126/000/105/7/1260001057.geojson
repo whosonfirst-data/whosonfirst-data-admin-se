@@ -1,0 +1,79 @@
+{
+  "id": 1260001057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.27179,57.13185,12.27179,57.13185",
+    "geom:latitude":57.13185,
+    "geom:longitude":12.27179,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"1383.0",
+    "gn:asciiname":"Goingegarden",
+    "gn:country_code":"SE",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2711728,
+    "gn:latitude":57.13185,
+    "gn:longitude":12.27179,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"G\u00f6ingeg\u00e5rden",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "G\u00f6ingeg\u00e5rden"
+    ],
+    "name:nor_x_variant":[
+        "G\u00f8ingeg\u00e5rden"
+    ],
+    "name:und_x_variant":[
+        "G\u00f6ingeg\u00e5rden"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688391,
+        102191581,
+        1125372511,
+        85633789,
+        1159302939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2711728
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"070ec14656e4808c087d22353920c90e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302939,
+            "localadmin_id":1125372511,
+            "locality_id":1260001057,
+            "region_id":85688391
+        }
+    ],
+    "wof:id":1260001057,
+    "wof:lastmodified":1537700065,
+    "wof:name":"Goingegarden",
+    "wof:parent_id":1125372511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.27179,
+    57.13185,
+    12.27179,
+    57.13185
+],
+  "geometry": {"coordinates":[12.27179,57.13185],"type":"Point"}
+}

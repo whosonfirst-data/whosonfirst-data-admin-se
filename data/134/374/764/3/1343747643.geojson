@@ -1,0 +1,70 @@
+{
+  "id": 1343747643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.5,62.78333,14.5,62.78333",
+    "geom:latitude":62.78333,
+    "geom:longitude":14.5,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"2326.0",
+    "gn:asciiname":"Skucku",
+    "gn:country_code":"SE",
+    "gn:dem":400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2677083,
+    "gn:latitude":62.78333,
+    "gn:longitude":14.5,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Skucku",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688461,
+        102191581,
+        1125312197,
+        85633789,
+        1159303129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2677083
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"ad925a25b909c3aab8d331ec2fc2c8e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303129,
+            "localadmin_id":1125312197,
+            "locality_id":1343747643,
+            "region_id":85688461
+        }
+    ],
+    "wof:id":1343747643,
+    "wof:lastmodified":1536828465,
+    "wof:name":"Skucku",
+    "wof:parent_id":1125312197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.5,
+    62.78333000000001,
+    14.5,
+    62.78333000000001
+],
+  "geometry": {"coordinates":[14.5,62.78333000000001],"type":"Point"}
+}

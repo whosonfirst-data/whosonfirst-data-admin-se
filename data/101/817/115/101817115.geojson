@@ -1,0 +1,126 @@
+{
+  "id": 101817115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000265,
+    "geom:area_square_m":1711066.542244,
+    "geom:bbox":"13.2811124355,58.5020849999,13.3154149045,58.5194836867",
+    "geom:latitude":58.5108,
+    "geom:longitude":13.299717,
+    "gn:population":1551,
+    "iso:country":"SE",
+    "lbl:latitude":58.509026,
+    "lbl:longitude":13.301406,
+    "mps:latitude":58.509026,
+    "mps:longitude":13.301406,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "K\u00e4llby"
+    ],
+    "name:eng_x_preferred":[
+        "K\u00e4llby"
+    ],
+    "name:nan_x_preferred":[
+        "K\u00e4llby"
+    ],
+    "name:nld_x_preferred":[
+        "K\u00e4llby"
+    ],
+    "name:nno_x_preferred":[
+        "K\u00e4llby"
+    ],
+    "name:nob_x_preferred":[
+        "K\u00e4llby"
+    ],
+    "name:nor_x_preferred":[
+        "K\u00e4llby"
+    ],
+    "name:swe_x_colloquial":[
+        "Kaellby",
+        "Kaellbys",
+        "Kallby",
+        "Kallbys"
+    ],
+    "name:swe_x_preferred":[
+        "K\u00e4llby"
+    ],
+    "name:swe_x_variant":[
+        "K\u00e4llbys"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "K\u00e4llby"
+    ],
+    "qs:a0":"Sverige",
+    "qs:a1":"*V\u00e4stra G\u00f6talands l\u00e4n",
+    "qs:a1r":"0",
+    "qs:adm0":"Sverige",
+    "qs:la":"G\u00f6tene",
+    "qs:la_lc":"*SE1471",
+    "qs:level":"locality",
+    "qs:loc":"K\u00e4llby",
+    "qs:loc_alt":"Kallby",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":95,
+    "wof:belongsto":[
+        85688411,
+        102191581,
+        1125382343,
+        85633789,
+        1159302923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06d24a1c-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2702489,
+        "gp:id":894619,
+        "qs:id":1351290,
+        "qs_pg:id":1351290,
+        "wd:id":"Q2753703",
+        "wk:page":"K\u00e4llby"
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"814b20cd1490f82b1055b8a319772dcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302923,
+            "localadmin_id":1125382343,
+            "locality_id":101817115,
+            "region_id":85688411
+        }
+    ],
+    "wof:id":101817115,
+    "wof:lang":[
+        "swe"
+    ],
+    "wof:lastmodified":1529702226,
+    "wof:name":"K\u00e4llby",
+    "wof:parent_id":1125382343,
+    "wof:placetype":"locality",
+    "wof:population":1551,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.28111243551581,
+    58.50208499989003,
+    13.3154149045256,
+    58.51948368671873
+],
+  "geometry": {"coordinates":[[[13.29383366880444,58.51944216209216],[13.29375094558753,58.51854394726359],[13.29546225888146,58.51850240225684],[13.29529674142037,58.51670597563606],[13.30043040196915,58.51658121834589],[13.30051328672312,58.51747942799585],[13.30222454225259,58.51743779792918],[13.30214161467899,58.51653958946298],[13.3038528236487,58.51649793902038],[13.30360394178797,58.51380331851925],[13.31044822647084,58.51363651538583],[13.31028198720082,58.51184011232345],[13.3154149045256,58.51171479074759],[13.31533166382593,58.51081659311484],[13.31362073793696,58.51085838734105],[13.31345435683909,58.50906199036837],[13.31174351279611,58.50910376066406],[13.31141098054212,58.50551096464619],[13.30970030391597,58.50555270864004],[13.30953415272398,58.50375630959599],[13.30440235708772,58.50388140515372],[13.30423648213593,58.50208499989003],[13.29910490953245,58.50220989438907],[13.29927052780158,58.50400630675335],[13.29755991057078,58.50404789751758],[13.29764268423389,58.50494610521713],[13.29422135300956,58.50502922445497],[13.29438674380111,58.50682564525056],[13.29609749685693,58.50678409404526],[13.29642850806562,58.51037693359626],[13.28445196010762,58.51066737244224],[13.28453442546447,58.51156559114804],[13.28111243551581,58.51164838202584],[13.28119482011289,58.51254660331006],[13.28632792788324,58.51242238112621],[13.28657549610568,58.5151170357293],[13.28828665302706,58.51507558168379],[13.2886169833285,58.5186684529163],[13.29203962856292,58.51858547070907],[13.29212230895348,58.51948368671873],[13.29383366880444,58.51944216209216]]],"type":"Polygon"}
+}

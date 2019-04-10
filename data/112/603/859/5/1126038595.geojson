@@ -1,0 +1,111 @@
+{
+  "id": 1126038595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.08333,58.3,14.08333,58.3",
+    "geom:latitude":58.3,
+    "geom:longitude":14.08333,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":236,
+    "gn:population":222,
+    "iso:country":"SE",
+    "lbl:latitude":58.3,
+    "lbl:longitude":14.08333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Korsberga"
+    ],
+    "name:eng_x_preferred":[
+        "Korsberga"
+    ],
+    "name:nan_x_preferred":[
+        "Korsberga"
+    ],
+    "name:nno_x_preferred":[
+        "Korsberga i V\u00e4sterg\u00f6tland"
+    ],
+    "name:nob_x_preferred":[
+        "Korsberga"
+    ],
+    "name:swe_x_preferred":[
+        "Korsberga"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2699643,
+    "qs_pg:gn_pop":236,
+    "qs_pg:name":"Korsberga",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"V\u00e4stra G\u00f6talands L\u00e4n",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":4,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":967965,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":895795,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"V\u00e4stra G\u00f6talands L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688411,
+        102191581,
+        1125326231,
+        85633789,
+        1159303153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2699643,
+        "gp:id":895795,
+        "qs_pg:id":967965,
+        "wd:id":"Q1973118"
+    },
+    "wof:country":"SE",
+    "wof:created":1497301968,
+    "wof:geomhash":"dbbfab933b023bf6510bd78dc1b4b934",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303153,
+            "localadmin_id":1125326231,
+            "locality_id":1126038595,
+            "region_id":85688411
+        }
+    ],
+    "wof:id":1126038595,
+    "wof:lastmodified":1529702271,
+    "wof:name":"Korsberga",
+    "wof:parent_id":1125326231,
+    "wof:placetype":"locality",
+    "wof:population":222,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.08333,
+    58.3,
+    14.08333,
+    58.3
+],
+  "geometry": {"coordinates":[14.08333,58.3],"type":"Point"}
+}

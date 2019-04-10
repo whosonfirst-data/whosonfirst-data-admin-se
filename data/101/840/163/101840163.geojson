@@ -1,0 +1,113 @@
+{
+  "id": 101840163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000264,
+    "geom:area_square_m":1734750.103334,
+    "geom:bbox":"14.1327029754,57.8323643086,14.1535129166,57.858283594",
+    "geom:latitude":57.845334,
+    "geom:longitude":14.145545,
+    "iso:country":"SE",
+    "lbl:latitude":57.846865,
+    "lbl:longitude":14.14657,
+    "mps:latitude":57.846865,
+    "mps:longitude":14.14657,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Tr\u00e5nghalla"
+    ],
+    "name:eng_x_preferred":[
+        "Tr\u00e5nghalla"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0631\u0648\u0646\u06af\u0627\u0644\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Tr\u00e5nghalla"
+    ],
+    "name:fre_x_preferred":[
+        "Tr\u00e5nghalla"
+    ],
+    "name:ita_x_preferred":[
+        "Tr\u00e5nghalla"
+    ],
+    "name:nld_x_preferred":[
+        "Tr\u00e5nghalla"
+    ],
+    "name:nno_x_preferred":[
+        "Tr\u00e5nghalla"
+    ],
+    "name:nob_x_preferred":[
+        "Tr\u00e5nghalla"
+    ],
+    "name:nor_x_preferred":[
+        "Tr\u00e5nghalla"
+    ],
+    "name:per_x_preferred":[
+        "\u062a\u0631\u0648\u0646\u06af\u0627\u0644\u0627"
+    ],
+    "name:swe_x_preferred":[
+        "Tr\u00e5nghalla"
+    ],
+    "qs:a0":"Sverige",
+    "qs:a1":"*J\u00f6nk\u00f6pings l\u00e4n",
+    "qs:a1r":"0",
+    "qs:adm0":"Sverige",
+    "qs:la":"J\u00f6nk\u00f6ping",
+    "qs:la_lc":"*SE0680",
+    "qs:level":"locality",
+    "qs:loc":"Tr\u00e5nghalla",
+    "qs:loc_alt":"Tranghalla",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":35,
+    "wof:belongsto":[
+        85688395,
+        102191581,
+        1125394629,
+        85633789,
+        1159303375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":908008,
+        "qs:id":49284,
+        "wd:id":"Q2374380"
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"f4d77967e5533ef0afbb571e26ed136f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303375,
+            "localadmin_id":1125394629,
+            "locality_id":101840163,
+            "region_id":85688395
+        }
+    ],
+    "wof:id":101840163,
+    "wof:lastmodified":1529702438,
+    "wof:name":"Tr\u00e5nghalla",
+    "wof:parent_id":1125394629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.13270297539106,
+    57.83236430859205,
+    14.15351291656702,
+    57.85828359400335
+],
+  "geometry": {"coordinates":[[[14.13270829066585,57.84808314953221],[14.14044991714388,57.85319907877278],[14.14842366925581,57.85295158267911],[14.14872853418376,57.8556436846626],[14.15040789346546,57.85559149505247],[14.15071293388007,57.85828359400335],[14.15239241140722,57.85823137895079],[14.15168044620879,57.85194982692468],[14.15335963292364,57.85189760092942],[14.15183434750315,57.83843717807986],[14.15351291656702,57.83838495274239],[14.15341123690888,57.83748759383025],[14.15173270870412,57.83753981771838],[14.15152944868265,57.83574509743011],[14.1498509977128,57.83579729734009],[14.14964784282682,57.83400257473454],[14.1462910908715,57.83410690552421],[14.14618960390777,57.83320954154397],[14.14451126207251,57.83326167387349],[14.14440982180491,57.83236430859205],[14.14273151634853,57.83241641839703],[14.14354287539817,57.83959535628225],[14.14186423863083,57.83964745657363],[14.14216847215454,57.84233956501737],[14.13881094000442,57.84244371102136],[14.13911498090016,57.84513582944891],[14.13407828129846,57.84529190331403],[14.13438200683686,57.84798403605316],[14.13270297539106,57.8480360228304],[14.13270829066585,57.84808314953221]]],"type":"Polygon"}
+}

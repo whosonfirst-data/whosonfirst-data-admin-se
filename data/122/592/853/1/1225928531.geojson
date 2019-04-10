@@ -1,0 +1,76 @@
+{
+  "id": 1225928531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.73333,57.41667,13.73333,57.41667",
+    "geom:latitude":57.41667,
+    "geom:longitude":13.73333,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"617.0",
+    "gn:asciiname":"Karingebacka",
+    "gn:cc2":"SE",
+    "gn:country_code":"SE",
+    "gn:dem":301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2701868,
+    "gn:latitude":57.41667,
+    "gn:longitude":13.73333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"K\u00e4ringebacka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u00e4ringeboda",
+        "K\u00e4rringebacka",
+        "K\u00e4ringebacka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688395,
+        102191581,
+        1125325595,
+        85633789,
+        1159303377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2701868
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"5413d72b74d48a25afc9f7ac99844bac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303377,
+            "localadmin_id":1125325595,
+            "locality_id":1225928531,
+            "region_id":85688395
+        }
+    ],
+    "wof:id":1225928531,
+    "wof:lastmodified":1537700004,
+    "wof:name":"Karingebacka",
+    "wof:parent_id":1125325595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.73333,
+    57.41667,
+    13.73333,
+    57.41667
+],
+  "geometry": {"coordinates":[13.73333,57.41667],"type":"Point"}
+}

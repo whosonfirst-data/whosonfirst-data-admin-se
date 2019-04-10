@@ -1,0 +1,79 @@
+{
+  "id": 1193248923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.43333,65.9,22.43333,65.9",
+    "geom:latitude":65.9,
+    "geom:longitude":22.43333,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2580.0",
+    "gn:asciiname":"Hogson",
+    "gn:country_code":"SE",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":605699,
+    "gn:latitude":65.9,
+    "gn:longitude":22.43333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"H\u00f6gs\u00f6n",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "H\u00f6gs\u00f6n"
+    ],
+    "name:nor_x_variant":[
+        "H\u00f8gs\u00f8n"
+    ],
+    "name:und_x_variant":[
+        "H\u00f6gs\u00f6n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688471,
+        102191581,
+        1125373631,
+        85633789,
+        1159303317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":605699
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"944875e3bafa44b00d0f72b295def450",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303317,
+            "localadmin_id":1125373631,
+            "locality_id":1193248923,
+            "region_id":85688471
+        }
+    ],
+    "wof:id":1193248923,
+    "wof:lastmodified":1537699727,
+    "wof:name":"Hogson",
+    "wof:parent_id":1125373631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.43333,
+    65.9,
+    22.43333,
+    65.9
+],
+  "geometry": {"coordinates":[22.43333,65.90000000000001],"type":"Point"}
+}

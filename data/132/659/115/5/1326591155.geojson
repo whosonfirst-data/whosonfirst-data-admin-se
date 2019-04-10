@@ -1,0 +1,70 @@
+{
+  "id": 1326591155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.6,58.13333,12.6,58.13333",
+    "geom:latitude":58.13333,
+    "geom:longitude":12.6,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"1489.0",
+    "gn:asciiname":"Bjarlanda",
+    "gn:country_code":"SE",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2722374,
+    "gn:latitude":58.13333,
+    "gn:longitude":12.6,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Bj\u00e4rlanda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688411,
+        102191581,
+        1159306023,
+        85633789,
+        1159303193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2722374
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"a078ca852dc2e44784ed187c86459bdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303193,
+            "localadmin_id":1159306023,
+            "locality_id":1326591155,
+            "region_id":85688411
+        }
+    ],
+    "wof:id":1326591155,
+    "wof:lastmodified":1536899201,
+    "wof:name":"Bjarlanda",
+    "wof:parent_id":1159306023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.6,
+    58.13333000000001,
+    12.6,
+    58.13333000000001
+],
+  "geometry": {"coordinates":[12.6,58.13333000000001],"type":"Point"}
+}

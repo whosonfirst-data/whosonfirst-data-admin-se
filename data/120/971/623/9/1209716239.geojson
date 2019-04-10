@@ -1,0 +1,70 @@
+{
+  "id": 1209716239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.11667,61.8,16.11667,61.8",
+    "geom:latitude":61.8,
+    "geom:longitude":16.11667,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"2161.0",
+    "gn:asciiname":"Voxang",
+    "gn:country_code":"SE",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2662452,
+    "gn:latitude":61.8,
+    "gn:longitude":16.11667,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Vox\u00e4ng",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688453,
+        102191581,
+        1125421381,
+        85633789,
+        1159303353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2662452
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"cb2bf4fad7ce5c70e750eb1ced119b82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303353,
+            "localadmin_id":1125421381,
+            "locality_id":1209716239,
+            "region_id":85688453
+        }
+    ],
+    "wof:id":1209716239,
+    "wof:lastmodified":1536388441,
+    "wof:name":"Voxang",
+    "wof:parent_id":1125421381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.11667000000001,
+    61.8,
+    16.11667000000001,
+    61.8
+],
+  "geometry": {"coordinates":[16.11667000000001,61.8],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1243401761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.48333,55.58333,13.48333,55.58333",
+    "geom:latitude":55.58333,
+    "geom:longitude":13.48333,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"1281.0",
+    "gn:asciiname":"Dorrod",
+    "gn:country_code":"SE",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2717397,
+    "gn:latitude":55.58333,
+    "gn:longitude":13.48333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"D\u00f6rr\u00f6d",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "D\u00f6rr\u00f6d"
+    ],
+    "name:nor_x_variant":[
+        "D\u00f8rr\u00f8d"
+    ],
+    "name:und_x_variant":[
+        "D\u00f6rr\u00f6d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688377,
+        102191581,
+        1125382013,
+        85633789,
+        1159303449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2717397
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"847c873e39e6e1f1edcb8c1b7e5003e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303449,
+            "localadmin_id":1125382013,
+            "locality_id":1243401761,
+            "region_id":85688377
+        }
+    ],
+    "wof:id":1243401761,
+    "wof:lastmodified":1537700093,
+    "wof:name":"Dorrod",
+    "wof:parent_id":1125382013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.48333,
+    55.58333,
+    13.48333,
+    55.58333
+],
+  "geometry": {"coordinates":[13.48333,55.58333],"type":"Point"}
+}

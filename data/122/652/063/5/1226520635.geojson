@@ -1,0 +1,70 @@
+{
+  "id": 1226520635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.98333,60.5,13.98333,60.5",
+    "geom:latitude":60.5,
+    "geom:longitude":13.98333,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2021.0",
+    "gn:asciiname":"Nordibyn",
+    "gn:country_code":"SE",
+    "gn:dem":272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2689346,
+    "gn:latitude":60.5,
+    "gn:longitude":13.98333,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Nordibyn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688447,
+        102191581,
+        1125287609,
+        85633789,
+        1159303269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2689346
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"0a40028c86e5c2f23a945a8b3a17f27d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303269,
+            "localadmin_id":1125287609,
+            "locality_id":1226520635,
+            "region_id":85688447
+        }
+    ],
+    "wof:id":1226520635,
+    "wof:lastmodified":1537032883,
+    "wof:name":"Nordibyn",
+    "wof:parent_id":1125287609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.98333,
+    60.5,
+    13.98333,
+    60.5
+],
+  "geometry": {"coordinates":[13.98333,60.5],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1343634695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.81984,68.3212,19.81984,68.3212",
+    "geom:latitude":68.3212,
+    "geom:longitude":19.81984,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2584.0",
+    "gn:asciiname":"Laimoluokta",
+    "gn:country_code":"SE",
+    "gn:dem":347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2701139,
+    "gn:latitude":68.3212,
+    "gn:longitude":19.81984,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"L\u00e1imoluokta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sme_x_preferred":[
+        "L\u00e1imoluokta"
+    ],
+    "name:und_x_variant":[
+        "Kattuvuoma",
+        "Kattavuoma",
+        "Kattovuoma",
+        "Lajmoviken"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688471,
+        102191581,
+        1125312209,
+        85633789,
+        1159302945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2701139
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"cdcc999709ecd1418fefb0de9dd6dd68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302945,
+            "localadmin_id":1125312209,
+            "locality_id":1343634695,
+            "region_id":85688471
+        }
+    ],
+    "wof:id":1343634695,
+    "wof:lastmodified":1537700001,
+    "wof:name":"Laimoluokta",
+    "wof:parent_id":1125312209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.81984,
+    68.3212,
+    19.81984,
+    68.3212
+],
+  "geometry": {"coordinates":[19.81984,68.3212],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1310571789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.65,66.05,23.65,66.05",
+    "geom:latitude":66.05,
+    "geom:longitude":23.65,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2583.0",
+    "gn:asciiname":"Kerasjoki",
+    "gn:country_code":"SE",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":605212,
+    "gn:latitude":66.05,
+    "gn:longitude":23.65,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Ker\u00e4sjoki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688471,
+        102191581,
+        1125373647,
+        85633789,
+        1159302911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":605212
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"6c4ac4d768c23fdea7f7343485105e22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302911,
+            "localadmin_id":1125373647,
+            "locality_id":1310571789,
+            "region_id":85688471
+        }
+    ],
+    "wof:id":1310571789,
+    "wof:lastmodified":1536820546,
+    "wof:name":"Kerasjoki",
+    "wof:parent_id":1125373647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.65,
+    66.05,
+    23.65,
+    66.05
+],
+  "geometry": {"coordinates":[23.65,66.05],"type":"Point"}
+}

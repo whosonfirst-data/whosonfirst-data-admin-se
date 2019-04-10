@@ -1,0 +1,79 @@
+{
+  "id": 1343958959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.03333,62.11667,17.03333,62.11667",
+    "geom:latitude":62.11667,
+    "geom:longitude":17.03333,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"2132.0",
+    "gn:asciiname":"Annsjotorp",
+    "gn:country_code":"SE",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2725641,
+    "gn:latitude":62.11667,
+    "gn:longitude":17.03333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Annsj\u00f6torp",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Annsj\u00f6torp"
+    ],
+    "name:nor_x_variant":[
+        "Annsj\u00f8torp"
+    ],
+    "name:und_x_variant":[
+        "Annsj\u00f6torp"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688453,
+        102191581,
+        1125359567,
+        85633789,
+        1159303081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2725641
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"91beb00646d80e9ef6e44ef676f9789a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303081,
+            "localadmin_id":1125359567,
+            "locality_id":1343958959,
+            "region_id":85688453
+        }
+    ],
+    "wof:id":1343958959,
+    "wof:lastmodified":1537700141,
+    "wof:name":"Annsjotorp",
+    "wof:parent_id":1125359567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.03333,
+    62.11666999999999,
+    17.03333,
+    62.11666999999999
+],
+  "geometry": {"coordinates":[17.03333,62.11666999999999],"type":"Point"}
+}

@@ -1,0 +1,102 @@
+{
+  "id": 1125827195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.46667,57.18333,12.46667,57.18333",
+    "geom:latitude":57.18333,
+    "geom:longitude":12.46667,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":603,
+    "gn:population":636,
+    "iso:country":"SE",
+    "lbl:latitude":57.18333,
+    "lbl:longitude":12.46667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Sk\u00e4llinge"
+    ],
+    "name:eng_x_preferred":[
+        "Sk\u00e4llinge"
+    ],
+    "name:fre_x_preferred":[
+        "Sk\u00e4llinge"
+    ],
+    "name:nan_x_preferred":[
+        "Sk\u00e4llinge"
+    ],
+    "name:nno_x_preferred":[
+        "Sk\u00e4llinge"
+    ],
+    "name:nob_x_preferred":[
+        "Sk\u00e4llinge"
+    ],
+    "name:swe_x_preferred":[
+        "Sk\u00e4llinge"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2678412,
+    "qs_pg:gn_pop":603,
+    "qs_pg:name":"Sk\u00e4llinge",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":575638,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688391,
+        102191581,
+        1159307137,
+        85633789,
+        1159302939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2678412,
+        "qs_pg:id":575638,
+        "wd:id":"Q2461859"
+    },
+    "wof:country":"SE",
+    "wof:created":1497292331,
+    "wof:geomhash":"8bae968eefb18e6b610a82c10860e23d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302939,
+            "localadmin_id":1159307137,
+            "locality_id":1125827195,
+            "region_id":85688391
+        }
+    ],
+    "wof:id":1125827195,
+    "wof:lastmodified":1529702352,
+    "wof:name":"Sk\u00e4llinge",
+    "wof:parent_id":1159307137,
+    "wof:placetype":"locality",
+    "wof:population":636,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.46667,
+    57.18333,
+    12.46667,
+    57.18333
+],
+  "geometry": {"coordinates":[12.46667,57.18333],"type":"Point"}
+}

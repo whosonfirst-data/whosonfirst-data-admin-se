@@ -1,0 +1,135 @@
+{
+  "id": 101816941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000236,
+    "geom:area_square_m":1532040.468728,
+    "geom:bbox":"15.4163223501,58.3759068804,15.4448505294,58.3904519431",
+    "geom:latitude":58.383046,
+    "geom:longitude":15.430006,
+    "gn:population":2072,
+    "iso:country":"SE",
+    "lbl:latitude":58.383145,
+    "lbl:longitude":15.427845,
+    "mps:latitude":58.383145,
+    "mps:longitude":15.427845,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0412\u0438\u043a\u0438\u043d\u0433\u0441\u0442\u0430\u0434"
+    ],
+    "name:dan_x_preferred":[
+        "Vikingstad"
+    ],
+    "name:dut_x_preferred":[
+        "Vikingstad"
+    ],
+    "name:eng_x_preferred":[
+        "Vikingstad"
+    ],
+    "name:fra_x_preferred":[
+        "Vikingstad"
+    ],
+    "name:fre_x_preferred":[
+        "Vikingstad"
+    ],
+    "name:ita_x_preferred":[
+        "Vikingstad"
+    ],
+    "name:nan_x_preferred":[
+        "Vikingstad"
+    ],
+    "name:nld_x_preferred":[
+        "Vikingstad"
+    ],
+    "name:nno_x_preferred":[
+        "Vikingstad"
+    ],
+    "name:nob_x_preferred":[
+        "Vikingstad"
+    ],
+    "name:nor_x_preferred":[
+        "Vikingstad"
+    ],
+    "name:swe_x_preferred":[
+        "Vikingstad"
+    ],
+    "name:swe_x_variant":[
+        "Vikingstads"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Vikingstad"
+    ],
+    "qs:a0":"Sverige",
+    "qs:a1":"*\u00d6sterg\u00f6tlands l\u00e4n",
+    "qs:a1r":"0",
+    "qs:adm0":"Sverige",
+    "qs:la":"Link\u00f6ping",
+    "qs:la_lc":"*SE0580",
+    "qs:level":"locality",
+    "qs:loc":"Vikingstad",
+    "qs:loc_alt":"Vikingstad",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":45,
+    "wof:belongsto":[
+        85688409,
+        102191581,
+        1125356359,
+        85633789,
+        1159303147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06d06058-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2662996,
+        "gp:id":909974,
+        "qs:id":222606,
+        "qs_pg:id":222606,
+        "wd:id":"Q3055238",
+        "wk:page":"Vikingstad"
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"6d386b825c01ca5e6bc8476e21a6dea4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303147,
+            "localadmin_id":1125356359,
+            "locality_id":101816941,
+            "region_id":85688409
+        }
+    ],
+    "wof:id":101816941,
+    "wof:lang":[
+        "swe"
+    ],
+    "wof:lastmodified":1529703107,
+    "wof:name":"Vikingstad",
+    "wof:parent_id":1125356359,
+    "wof:placetype":"locality",
+    "wof:population":2072,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.41632235014299,
+    58.37590688040143,
+    15.44485052937955,
+    58.39045194311302
+],
+  "geometry": {"coordinates":[[[15.42891546485635,58.39031519934935],[15.42877984608714,58.38941895195376],[15.43048214740571,58.38935054991026],[15.43034649446633,58.38845430455143],[15.43545323561364,58.38824897585039],[15.43531746429733,58.38735273639691],[15.43701965707533,58.38728425264219],[15.43674805408438,58.38549177791498],[15.44015225297852,58.38535475396759],[15.44001637921349,58.38445852062995],[15.44171842743322,58.38438997850398],[15.44144661957802,58.38259751600998],[15.44485052937955,58.38246037533236],[15.4444426247411,58.37977169398278],[15.44103896745423,58.37990882303899],[15.44076723913616,58.37811636157119],[15.43225841024758,58.37845879056181],[15.43212276840529,58.37756255030962],[15.42871927846102,58.37769936832524],[15.42844818689582,58.37590688040143],[15.42164147077779,58.37618024433561],[15.42177684428788,58.37707649596672],[15.42007510801687,58.37714478541176],[15.42021044736993,58.37804103907558],[15.42191222572126,58.37797274770179],[15.42245383070008,58.38155775567935],[15.4207518840027,58.38162605476987],[15.42115804467898,58.38431481763234],[15.41945596563062,58.38438310111928],[15.41959132627403,58.38527935754411],[15.41788919905991,58.38534762156678],[15.41802452552429,58.38624388002484],[15.41632235014299,58.38631212458222],[15.41645764242384,58.38720838507294],[15.41986207133471,58.38707187070673],[15.42013284809855,58.38886438428693],[15.42183513767293,58.38879609115276],[15.42197058005769,58.38969234616962],[15.4253752252198,58.3895556918535],[15.42551075976303,58.39045194311302],[15.42891546485635,58.39031519934935]]],"type":"Polygon"}
+}

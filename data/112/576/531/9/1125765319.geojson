@@ -1,0 +1,111 @@
+{
+  "id": 1125765319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.1,55.9,14.1,55.9",
+    "geom:latitude":55.9,
+    "geom:longitude":14.1,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":855,
+    "gn:population":953,
+    "iso:country":"SE",
+    "lbl:latitude":55.9,
+    "lbl:longitude":14.1,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Ever\u00f6d"
+    ],
+    "name:eng_x_preferred":[
+        "Ever\u00f6d"
+    ],
+    "name:fre_x_preferred":[
+        "Ever\u00f6d"
+    ],
+    "name:ita_x_preferred":[
+        "Ever\u00f6d"
+    ],
+    "name:nan_x_preferred":[
+        "Ever\u00f6d"
+    ],
+    "name:nno_x_preferred":[
+        "Ever\u00f6d"
+    ],
+    "name:nob_x_preferred":[
+        "Ever\u00f6d"
+    ],
+    "name:nor_x_preferred":[
+        "Ever\u00f8d"
+    ],
+    "name:nor_x_variant":[
+        "Ever\u00f6d"
+    ],
+    "name:swe_x_preferred":[
+        "Ever\u00f6d"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2715893,
+    "qs_pg:gn_pop":855,
+    "qs_pg:name":"Ever\u00f6d",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":575725,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688377,
+        102191581,
+        1125340529,
+        85633789,
+        1159303497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2715893,
+        "qs_pg:id":575725,
+        "wd:id":"Q2481599"
+    },
+    "wof:country":"SE",
+    "wof:created":1497289869,
+    "wof:geomhash":"66b49b03cc944e11ae9df53e3edc2661",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303497,
+            "localadmin_id":1125340529,
+            "locality_id":1125765319,
+            "region_id":85688377
+        }
+    ],
+    "wof:id":1125765319,
+    "wof:lastmodified":1529702667,
+    "wof:name":"Ever\u00f6d",
+    "wof:parent_id":1125340529,
+    "wof:placetype":"locality",
+    "wof:population":953,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.1,
+    55.9,
+    14.1,
+    55.9
+],
+  "geometry": {"coordinates":[14.1,55.9],"type":"Point"}
+}

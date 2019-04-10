@@ -1,0 +1,100 @@
+{
+  "id": 1125869135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.01667,57.38333,12.01667,57.38333",
+    "geom:latitude":57.38333,
+    "geom:longitude":12.01667,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"SE",
+    "lbl:latitude":57.38333,
+    "lbl:longitude":12.01667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Gottsk\u00e4r"
+    ],
+    "name:fre_x_preferred":[
+        "Gottsk\u00e4r"
+    ],
+    "name:swe_x_preferred":[
+        "Gottsk\u00e4r"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2711474,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Gottsk\u00e4r",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"Hallands L\u00e4n",
+    "qs_pg:photos":41,
+    "qs_pg:photos_1k":8,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":41,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1351115,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":890892,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"Hallands L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688391,
+        102191581,
+        1125407163,
+        85633789,
+        1159303249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2711474,
+        "gp:id":890892,
+        "qs_pg:id":1351115,
+        "wd:id":"Q10507728"
+    },
+    "wof:country":"SE",
+    "wof:created":1497294201,
+    "wof:geomhash":"aabd26497e6e1e03db6f5c430988d9c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303249,
+            "localadmin_id":1125407163,
+            "locality_id":1125869135,
+            "region_id":85688391
+        }
+    ],
+    "wof:id":1125869135,
+    "wof:lastmodified":1529702354,
+    "wof:name":"Gottsk\u00e4r",
+    "wof:parent_id":1125407163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.01667,
+    57.38333,
+    12.01667,
+    57.38333
+],
+  "geometry": {"coordinates":[12.01667,57.38333],"type":"Point"}
+}

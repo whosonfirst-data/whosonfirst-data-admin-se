@@ -1,0 +1,72 @@
+{
+  "id": 1360142265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.29231,62.48067,17.29231,62.48067",
+    "geom:latitude":62.48067,
+    "geom:longitude":17.29231,
+    "gn:admin1_code":"24",
+    "gn:admin2_code":"2262.0",
+    "gn:admin3_code":"226201.0",
+    "gn:admin4_code":"2501.0",
+    "gn:asciiname":"Vaevland",
+    "gn:country_code":"SE",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8285552,
+    "gn:latitude":62.48067,
+    "gn:longitude":17.29231,
+    "gn:modification_date":"2014-10-09",
+    "gn:name":"V\u00e4vland",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688457,
+        102191581,
+        1125394735,
+        85633789,
+        1159303091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8285552
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"ae620c3adb9b9c0deb8041aab3bed821",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303091,
+            "localadmin_id":1125394735,
+            "locality_id":1360142265,
+            "region_id":85688457
+        }
+    ],
+    "wof:id":1360142265,
+    "wof:lastmodified":1536861877,
+    "wof:name":"Vaevland",
+    "wof:parent_id":1125394735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.29231,
+    62.48067,
+    17.29231,
+    62.48067
+],
+  "geometry": {"coordinates":[17.29231,62.48067],"type":"Point"}
+}

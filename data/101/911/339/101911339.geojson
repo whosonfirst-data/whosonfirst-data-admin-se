@@ -1,0 +1,113 @@
+{
+  "id": 101911339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000099,
+    "geom:area_square_m":666734.782444,
+    "geom:bbox":"12.5614128158,56.9724223742,12.5786854899,56.9848688752",
+    "geom:latitude":56.97749,
+    "geom:longitude":12.569366,
+    "iso:country":"SE",
+    "lbl:latitude":56.976445,
+    "lbl:longitude":12.569236,
+    "mps:latitude":56.976445,
+    "mps:longitude":12.569236,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Bergag\u00e5rd"
+    ],
+    "name:eng_x_preferred":[
+        "Bergag\u00e5rd"
+    ],
+    "name:fra_x_preferred":[
+        "Bergag\u00e5rd"
+    ],
+    "name:fre_x_preferred":[
+        "Bergag\u00e5rd"
+    ],
+    "name:nan_x_preferred":[
+        "Bergag\u00e5rd"
+    ],
+    "name:nld_x_preferred":[
+        "Bergag\u00e5rd"
+    ],
+    "name:nno_x_preferred":[
+        "Bergag\u00e5rd"
+    ],
+    "name:nob_x_preferred":[
+        "Bergag\u00e5rd"
+    ],
+    "name:nor_x_preferred":[
+        "Bergag\u00e5rd"
+    ],
+    "name:swe_x_preferred":[
+        "Bergag\u00e5rd"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Bergag\u00e5rd"
+    ],
+    "qs:a0":"Sverige",
+    "qs:a1":"*Hallands l\u00e4n",
+    "qs:a1r":"8",
+    "qs:adm0":"Sverige",
+    "qs:id":0,
+    "qs:la":"Falkenberg",
+    "qs:la_lc":"*SE1382",
+    "qs:level":"locality",
+    "qs:loc":"Bergagard",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet perfect local_admin match geoplanet",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":125,
+    "wof:belongsto":[
+        85688391,
+        102191581,
+        1125325495,
+        85633789,
+        1159303247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":15002508,
+        "qs:id":4379,
+        "qs_pg:id":4379,
+        "wd:id":"Q2623388"
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"cdbe4ed1505cc56d9707bd70b445bf8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303247,
+            "localadmin_id":1125325495,
+            "locality_id":101911339,
+            "region_id":85688391
+        }
+    ],
+    "wof:id":101911339,
+    "wof:lastmodified":1529702343,
+    "wof:name":"Bergagard",
+    "wof:parent_id":1125325495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.56141281575765,
+    56.97242237418232,
+    12.57868548992076,
+    56.98486887524535
+],
+  "geometry": {"coordinates":[[[12.57868548992076,56.98480423969829],[12.57844070272881,56.98121125031298],[12.57679870979342,56.9812435748907],[12.57673756048399,56.98034532705827],[12.57345364451038,56.98040991272916],[12.57320939267953,56.97681691597501],[12.57485119647254,56.97678463691182],[12.57472901342805,56.97498814120019],[12.57308728737354,56.97502041852283],[12.57302623987226,56.97412217002773],[12.57138455006702,56.97415442590352],[12.57132354486384,56.9732561766927],[12.56804023513678,56.97332062497691],[12.56797931109003,56.97242237418232],[12.56141281575765,56.97255102036843],[12.56183826771803,56.97883880345023],[12.56676395939428,56.97874233146712],[12.56682486855874,56.97964058420933],[12.57010872770957,56.97957616491914],[12.57023071184472,56.98137266739235],[12.5735147160571,56.98130816230343],[12.57363686945951,56.98310466191492],[12.57527894540743,56.9830723767576],[12.57540119033524,56.98486887524535],[12.57868548992076,56.98480423969829]]],"type":"Polygon"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1242633307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.35,64.66667,16.35,64.66667",
+    "geom:latitude":64.66667,
+    "geom:longitude":16.35,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"2462.0",
+    "gn:asciiname":"Nedre Malgonas",
+    "gn:country_code":"SE",
+    "gn:dem":359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2689828,
+    "gn:latitude":64.66667,
+    "gn:longitude":16.35,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Nedre Malgon\u00e4s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688465,
+        102191581,
+        1125363705,
+        85633789,
+        1159303033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2689828
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"d8cf492c83830d05d2f6b03c1fbc9185",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303033,
+            "localadmin_id":1125363705,
+            "locality_id":1242633307,
+            "region_id":85688465
+        }
+    ],
+    "wof:id":1242633307,
+    "wof:lastmodified":1536982980,
+    "wof:name":"Nedre Malgonas",
+    "wof:parent_id":1125363705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.35,
+    64.66667,
+    16.35,
+    64.66667
+],
+  "geometry": {"coordinates":[16.35,64.66667],"type":"Point"}
+}

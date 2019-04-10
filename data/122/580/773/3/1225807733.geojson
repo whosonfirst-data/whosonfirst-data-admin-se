@@ -1,0 +1,72 @@
+{
+  "id": 1225807733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.71021,58.9019,16.71021,58.9019",
+    "geom:latitude":58.9019,
+    "geom:longitude":16.71021,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"482.0",
+    "gn:admin3_code":"48208.0",
+    "gn:admin4_code":"310.0",
+    "gn:asciiname":"Viby",
+    "gn:country_code":"SE",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2663242,
+    "gn:latitude":58.9019,
+    "gn:longitude":16.71021,
+    "gn:modification_date":"2016-04-28",
+    "gn:name":"Viby",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688419,
+        102191581,
+        1125287965,
+        85633789,
+        1159302997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2663242
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"42acb0cb859b0cf3adde4f297a12cd98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302997,
+            "localadmin_id":1125287965,
+            "locality_id":1225807733,
+            "region_id":85688419
+        }
+    ],
+    "wof:id":1225807733,
+    "wof:lastmodified":1537065787,
+    "wof:name":"Viby",
+    "wof:parent_id":1125287965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.71021,
+    58.9019,
+    16.71021,
+    58.9019
+],
+  "geometry": {"coordinates":[16.71021,58.9019],"type":"Point"}
+}

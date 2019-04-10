@@ -1,0 +1,79 @@
+{
+  "id": 1259927679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.96667,58.975,17.96667,58.975",
+    "geom:latitude":58.975,
+    "geom:longitude":17.96667,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"192.0",
+    "gn:asciiname":"Norrlot",
+    "gn:country_code":"SE",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3327334,
+    "gn:latitude":58.975,
+    "gn:longitude":17.96667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Norrl\u00f6t",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Norrl\u00f6t"
+    ],
+    "name:nor_x_variant":[
+        "Norrl\u00f8t"
+    ],
+    "name:und_x_variant":[
+        "Norrl\u00f6t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688429,
+        102191581,
+        1125286449,
+        85633789,
+        1159303285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3327334
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"f70dda5efb3990f5f10720d29081edb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303285,
+            "localadmin_id":1125286449,
+            "locality_id":1259927679,
+            "region_id":85688429
+        }
+    ],
+    "wof:id":1259927679,
+    "wof:lastmodified":1537700152,
+    "wof:name":"Norrlot",
+    "wof:parent_id":1125286449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.96667,
+    58.975,
+    17.96667,
+    58.975
+],
+  "geometry": {"coordinates":[17.96667,58.975],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1209024719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.56667,56.75,16.56667,56.75",
+    "geom:latitude":56.75,
+    "geom:longitude":16.56667,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"840.0",
+    "gn:asciiname":"Ronnerum",
+    "gn:country_code":"SE",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2681817,
+    "gn:latitude":56.75,
+    "gn:longitude":16.56667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"R\u00f6nnerum",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "R\u00f6nnerum"
+    ],
+    "name:nor_x_variant":[
+        "R\u00f8nnerum"
+    ],
+    "name:und_x_variant":[
+        "R\u00f6nnerum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688401,
+        102191581,
+        1159306761,
+        85633789,
+        1159303363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2681817
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"0510c5a8299da9264b359e6d32a985d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303363,
+            "localadmin_id":1159306761,
+            "locality_id":1209024719,
+            "region_id":85688401
+        }
+    ],
+    "wof:id":1209024719,
+    "wof:lastmodified":1554166232,
+    "wof:name":"Ronnerum",
+    "wof:parent_id":1159306761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.56667,
+    56.75,
+    16.56667,
+    56.75
+],
+  "geometry": {"coordinates":[16.56667,56.75],"type":"Point"}
+}

@@ -1,0 +1,106 @@
+{
+  "id": 101913029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000018,
+    "geom:area_square_m":117421.894627,
+    "geom:bbox":"11.7011744999,58.3078322997,11.7067799367,58.3130523749",
+    "geom:latitude":58.310627,
+    "geom:longitude":11.704217,
+    "iso:country":"SE",
+    "lbl:latitude":58.310315,
+    "lbl:longitude":11.704217,
+    "mps:latitude":58.310315,
+    "mps:longitude":11.704217,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dan_x_preferred":[
+        "Vind\u00f6n"
+    ],
+    "name:dut_x_preferred":[
+        "Vind\u00f6n"
+    ],
+    "name:eng_x_preferred":[
+        "Vind\u00f6n"
+    ],
+    "name:fre_x_preferred":[
+        "Vind\u00f6n"
+    ],
+    "name:ger_x_preferred":[
+        "Vind\u00f6n"
+    ],
+    "name:nds_x_preferred":[
+        "Vind\u00f6n"
+    ],
+    "name:nno_x_preferred":[
+        "Vind\u00f6n"
+    ],
+    "name:nob_x_preferred":[
+        "Vind\u00f6n"
+    ],
+    "name:swe_x_preferred":[
+        "Vind\u00f6n"
+    ],
+    "qs:a0":"Sverige",
+    "qs:a1":"*V\u00e4stra G\u00f6talands l\u00e4n",
+    "qs:a1r":"1",
+    "qs:adm0":"Sverige",
+    "qs:id":0,
+    "qs:la":"Uddevalla",
+    "qs:la_lc":"*SE1485",
+    "qs:level":"locality",
+    "qs:loc":"Vind\u00f6n",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet many local_admin match geoplanet",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85688411,
+        102191581,
+        1125326131,
+        85633789,
+        1159303355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20151871,
+        "qs:id":1061872,
+        "qs_pg:id":1061872,
+        "wd:id":"Q2676602"
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"3dad4f126df8735eb36d4290544ea81f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303355,
+            "localadmin_id":1125326131,
+            "locality_id":101913029,
+            "region_id":85688411
+        }
+    ],
+    "wof:id":101913029,
+    "wof:lastmodified":1529702232,
+    "wof:name":"Vind\u00f6n",
+    "wof:parent_id":1125326131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.70117449994933,
+    58.30783229972303,
+    11.70677993673343,
+    58.31305237493063
+],
+  "geometry": {"coordinates":[[[11.70317174050041,58.30783229972303],[11.70117449994933,58.31305237493063],[11.70341692037664,58.31302413154151],[11.70337446114905,58.31212515768135],[11.70677993673343,58.31208217978809],[11.70660978552013,58.30848629180252],[11.70320464910714,58.30852926483851],[11.70317174050041,58.30783229972303]]],"type":"Polygon"}
+}

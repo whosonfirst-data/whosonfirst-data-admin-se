@@ -1,0 +1,70 @@
+{
+  "id": 1310585783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.31667,57.48333,14.31667,57.48333",
+    "geom:latitude":57.48333,
+    "geom:longitude":14.31667,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"665.0",
+    "gn:asciiname":"Svenarum",
+    "gn:country_code":"SE",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2670052,
+    "gn:latitude":57.48333,
+    "gn:longitude":14.31667,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Svenarum",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688395,
+        102191581,
+        1125388433,
+        85633789,
+        1159303517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2670052
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"74117a88bf1d3b5999e7b4c1d9089616",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303517,
+            "localadmin_id":1125388433,
+            "locality_id":1310585783,
+            "region_id":85688395
+        }
+    ],
+    "wof:id":1310585783,
+    "wof:lastmodified":1536801208,
+    "wof:name":"Svenarum",
+    "wof:parent_id":1125388433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.31667,
+    57.48333,
+    14.31667,
+    57.48333
+],
+  "geometry": {"coordinates":[14.31667,57.48333],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1293250405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.25,64.21667,20.25,64.21667",
+    "geom:latitude":64.21667,
+    "geom:longitude":20.25,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"2480.0",
+    "gn:asciiname":"Yttersmark",
+    "gn:cc2":"SE",
+    "gn:country_code":"SE",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":601819,
+    "gn:latitude":64.21667,
+    "gn:longitude":20.25,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Yttersmark",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ytterstmark",
+        "Yttersmark"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688465,
+        102191581,
+        1125325337,
+        85633789,
+        1159303017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":601819
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"7ae5536203cffa0a1405ef0f81fb5bbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303017,
+            "localadmin_id":1125325337,
+            "locality_id":1293250405,
+            "region_id":85688465
+        }
+    ],
+    "wof:id":1293250405,
+    "wof:lastmodified":1537699696,
+    "wof:name":"Yttersmark",
+    "wof:parent_id":1125325337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.25,
+    64.21667,
+    20.25,
+    64.21667
+],
+  "geometry": {"coordinates":[20.25,64.21666999999999],"type":"Point"}
+}

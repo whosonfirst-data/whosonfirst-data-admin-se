@@ -1,0 +1,97 @@
+{
+  "id": 1125973381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.960374,56.123282,14.960374,56.123282",
+    "geom:latitude":56.123282,
+    "geom:longitude":14.960374,
+    "gn:gn_country":"SE",
+    "iso:country":"SE",
+    "lbl:latitude":56.123282,
+    "lbl:longitude":14.960374,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Matvik"
+    ],
+    "name:eng_x_preferred":[
+        "Matvik"
+    ],
+    "name:fre_x_preferred":[
+        "Matvik"
+    ],
+    "name:swe_x_preferred":[
+        "Matvik"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:name":"Matvik",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"Blekinge L\u00e4n",
+    "qs_pg:photos":31,
+    "qs_pg:photos_1k":6,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":31,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1314327,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":29282020,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"Blekinge L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688383,
+        102191581,
+        1125286523,
+        85633789,
+        1159302985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29282020,
+        "qs_pg:id":1314327,
+        "wd:id":"Q6792039"
+    },
+    "wof:country":"SE",
+    "wof:created":1497298256,
+    "wof:geomhash":"1199be69b31e6ae766cc62706cf46e78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302985,
+            "localadmin_id":1125286523,
+            "locality_id":1125973381,
+            "region_id":85688383
+        }
+    ],
+    "wof:id":1125973381,
+    "wof:lastmodified":1554166227,
+    "wof:name":"Matvik",
+    "wof:parent_id":1125286523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.960374,
+    56.123282,
+    14.960374,
+    56.123282
+],
+  "geometry": {"coordinates":[14.960374,56.123282],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 1125861969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.1,61.11667,16.1,61.11667",
+    "geom:latitude":61.11667,
+    "geom:longitude":16.1,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1691,
+    "iso:country":"SE",
+    "lbl:latitude":61.11667,
+    "lbl:longitude":16.1,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:nor_x_preferred":[
+        "Vittsj\u00f8"
+    ],
+    "name:nor_x_variant":[
+        "Vittsj\u00f6"
+    ],
+    "name:unk_x_variant":[
+        "Vittsj\u00f6n"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2662517,
+    "qs_pg:gn_pop":1691,
+    "qs_pg:name":"Vittsj\u00f6",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":92362,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"quattroshapes_pg",
+    "wof:belongsto":[
+        85688453,
+        102191581,
+        1125382105,
+        85633789,
+        1159303465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2662517,
+        "qs_pg:id":92362
+    },
+    "wof:country":"SE",
+    "wof:created":1497293864,
+    "wof:geomhash":"52f0c4d6e4fac3f47edef9bbcb84f5d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303465,
+            "localadmin_id":1125382105,
+            "locality_id":1125861969,
+            "region_id":85688453
+        }
+    ],
+    "wof:id":1125861969,
+    "wof:lastmodified":1529702065,
+    "wof:name":"Vittsj\u00f6",
+    "wof:parent_id":1125382105,
+    "wof:placetype":"locality",
+    "wof:population":1691,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.1,
+    61.11667,
+    16.1,
+    61.11667
+],
+  "geometry": {"coordinates":[16.1,61.11667],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243422951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.55,60.1,13.55,60.1",
+    "geom:latitude":60.1,
+    "geom:longitude":13.55,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1783.0",
+    "gn:asciiname":"Amtbjork",
+    "gn:country_code":"SE",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2726153,
+    "gn:latitude":60.1,
+    "gn:longitude":13.55,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"\u00c4mtbj\u00f6rk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688435,
+        102191581,
+        1125395785,
+        85633789,
+        1159303063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2726153
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"fcd64517be4201a083ce509fea98d964",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303063,
+            "localadmin_id":1125395785,
+            "locality_id":1243422951,
+            "region_id":85688435
+        }
+    ],
+    "wof:id":1243422951,
+    "wof:lastmodified":1536838442,
+    "wof:name":"Amtbjork",
+    "wof:parent_id":1125395785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.55,
+    60.1,
+    13.55,
+    60.1
+],
+  "geometry": {"coordinates":[13.55,60.1],"type":"Point"}
+}

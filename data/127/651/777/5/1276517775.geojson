@@ -1,0 +1,75 @@
+{
+  "id": 1276517775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.61667,66.81667,22.61667,66.81667",
+    "geom:latitude":66.81667,
+    "geom:longitude":22.61667,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2521.0",
+    "gn:asciiname":"Juoksuvaara",
+    "gn:cc2":"SE",
+    "gn:country_code":"SE",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":605471,
+    "gn:latitude":66.81667,
+    "gn:longitude":22.61667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Juoksuvaara",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Juoksuvara",
+        "Juoksuvaara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688471,
+        102191581,
+        1125373591,
+        85633789,
+        1159302953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":605471
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"603a2c0e6fe23bab76f6cab1bb1e41ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302953,
+            "localadmin_id":1125373591,
+            "locality_id":1276517775,
+            "region_id":85688471
+        }
+    ],
+    "wof:id":1276517775,
+    "wof:lastmodified":1537699726,
+    "wof:name":"Juoksuvaara",
+    "wof:parent_id":1125373591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.61667000000001,
+    66.81667,
+    22.61667000000001,
+    66.81667
+],
+  "geometry": {"coordinates":[22.61667000000001,66.81667],"type":"Point"}
+}

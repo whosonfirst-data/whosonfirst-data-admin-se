@@ -1,0 +1,75 @@
+{
+  "id": 1276833587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.21667,60.06667,18.21667,60.06667",
+    "geom:latitude":60.06667,
+    "geom:longitude":18.21667,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"382.0",
+    "gn:asciiname":"Fornbro",
+    "gn:cc2":"SE",
+    "gn:country_code":"SE",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2714078,
+    "gn:latitude":60.06667,
+    "gn:longitude":18.21667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Fornbro",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u00f6dra Fornbo",
+        "Fornbro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688439,
+        102191581,
+        1159307515,
+        85633789,
+        1159303415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2714078
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"21f7216a5bf1093c181b6706d36538c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303415,
+            "localadmin_id":1159307515,
+            "locality_id":1276833587,
+            "region_id":85688439
+        }
+    ],
+    "wof:id":1276833587,
+    "wof:lastmodified":1537700078,
+    "wof:name":"Fornbro",
+    "wof:parent_id":1159307515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.21667,
+    60.06667,
+    18.21667,
+    60.06667
+],
+  "geometry": {"coordinates":[18.21667,60.06667],"type":"Point"}
+}

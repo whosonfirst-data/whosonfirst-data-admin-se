@@ -1,0 +1,83 @@
+{
+  "id": 1259450903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.2,62.85,18.2,62.85",
+    "geom:latitude":62.85,
+    "geom:longitude":18.2,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2282.0",
+    "gn:admin3_code":"228202.0",
+    "gn:admin4_code":"2482.0",
+    "gn:asciiname":"Overgard",
+    "gn:cc2":"SE",
+    "gn:country_code":"SE",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2685022,
+    "gn:latitude":62.85,
+    "gn:longitude":18.2,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"\u00d6verg\u00e5rd",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "\u00d6verg\u00e5rd"
+    ],
+    "name:nor_x_variant":[
+        "\u00d8verg\u00e5rd"
+    ],
+    "name:und_x_variant":[
+        "\u00d6fverg\u00e5rd",
+        "\u00d6verg\u00e5rd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688457,
+        102191581,
+        1125286921,
+        85633789,
+        1159303301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2685022
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"ed416d9afacc7cd1e52120c274b50886",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303301,
+            "localadmin_id":1125286921,
+            "locality_id":1259450903,
+            "region_id":85688457
+        }
+    ],
+    "wof:id":1259450903,
+    "wof:lastmodified":1537699884,
+    "wof:name":"Overgard",
+    "wof:parent_id":1125286921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.2,
+    62.85,
+    18.2,
+    62.85
+],
+  "geometry": {"coordinates":[18.2,62.85],"type":"Point"}
+}

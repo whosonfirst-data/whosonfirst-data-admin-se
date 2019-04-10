@@ -1,0 +1,99 @@
+{
+  "id": 1125920741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.62111,59.5275,18.62111,59.5275",
+    "geom:latitude":59.5275,
+    "geom:longitude":18.62111,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"SE",
+    "lbl:latitude":59.5275,
+    "lbl:longitude":18.62111,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:nor_x_preferred":[
+        "Ljuster\u00f8"
+    ],
+    "name:nor_x_variant":[
+        "Ljuster\u00f6"
+    ],
+    "name:unk_x_variant":[
+        "Norra Ljustero"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2694458,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Ljuster\u00f6",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"Stockholms L\u00e4n",
+    "qs_pg:photos":570,
+    "qs_pg:photos_1k":116,
+    "qs_pg:photos_9k":3,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":570,
+    "qs_pg:photos_sr":8,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":481284,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":897510,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"Stockholms L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688429,
+        102191581,
+        1125423245,
+        85633789,
+        1159303039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2694458,
+        "gp:id":897510,
+        "qs_pg:id":481284
+    },
+    "wof:country":"SE",
+    "wof:created":1497296472,
+    "wof:geomhash":"810353ae85a55e37616d949c36a1cc11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303039,
+            "localadmin_id":1125423245,
+            "locality_id":1125920741,
+            "region_id":85688429
+        }
+    ],
+    "wof:id":1125920741,
+    "wof:lastmodified":1529702750,
+    "wof:name":"Ljuster\u00f6",
+    "wof:parent_id":1125423245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.62111,
+    59.5275,
+    18.62111,
+    59.5275
+],
+  "geometry": {"coordinates":[18.62111,59.5275],"type":"Point"}
+}

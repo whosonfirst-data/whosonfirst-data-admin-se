@@ -1,0 +1,75 @@
+{
+  "id": 1326586129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.8,59.6,12.8,59.6",
+    "geom:latitude":59.6,
+    "geom:longitude":12.8,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1784.0",
+    "gn:asciiname":"Tasebo",
+    "gn:cc2":"SE",
+    "gn:country_code":"SE",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2669316,
+    "gn:latitude":59.6,
+    "gn:longitude":12.8,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tasebo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tasebol",
+        "Tasebo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688435,
+        102191581,
+        1159306547,
+        85633789,
+        1159303075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2669316
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"8dc76b153e9856180e3a4bac6e2e120d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303075,
+            "localadmin_id":1159306547,
+            "locality_id":1326586129,
+            "region_id":85688435
+        }
+    ],
+    "wof:id":1326586129,
+    "wof:lastmodified":1537699778,
+    "wof:name":"Tasebo",
+    "wof:parent_id":1159306547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.8,
+    59.6,
+    12.8,
+    59.6
+],
+  "geometry": {"coordinates":[12.8,59.6],"type":"Point"}
+}

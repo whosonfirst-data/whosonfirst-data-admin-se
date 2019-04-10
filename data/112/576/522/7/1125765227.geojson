@@ -1,0 +1,80 @@
+{
+  "id": 1125765227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.0,60.21667,18.0,60.21667",
+    "geom:latitude":60.21667,
+    "geom:longitude":18.0,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":227,
+    "gn:population":227,
+    "iso:country":"SE",
+    "lbl:latitude":60.21667,
+    "lbl:longitude":18.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2710062,
+    "qs_pg:gn_pop":227,
+    "qs_pg:name":"Gubbo",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":575713,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688439,
+        102191581,
+        1159307089,
+        85633789,
+        1159303415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2710062,
+        "qs_pg:id":575713
+    },
+    "wof:country":"SE",
+    "wof:created":1497289866,
+    "wof:geomhash":"aa81be9a301c98974ad7179df2e772d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303415,
+            "localadmin_id":1159307089,
+            "locality_id":1125765227,
+            "region_id":85688439
+        }
+    ],
+    "wof:id":1125765227,
+    "wof:lastmodified":1529702885,
+    "wof:name":"Gubbo",
+    "wof:parent_id":1159307089,
+    "wof:placetype":"locality",
+    "wof:population":227,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.0,
+    60.21667,
+    18.0,
+    60.21667
+],
+  "geometry": {"coordinates":[18.0,60.21667],"type":"Point"}
+}

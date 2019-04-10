@@ -1,0 +1,126 @@
+{
+  "id": 1126009011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.66667,67.48333,22.66667,67.48333",
+    "geom:latitude":67.48333,
+    "geom:longitude":22.66667,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":278,
+    "gn:population":245,
+    "iso:country":"SE",
+    "lbl:latitude":67.48333,
+    "lbl:longitude":22.66667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u041a\u0430\u043d\u0433\u043e\u0441"
+    ],
+    "name:dut_x_preferred":[
+        "Kangos"
+    ],
+    "name:eng_x_preferred":[
+        "Kangos"
+    ],
+    "name:fin_x_preferred":[
+        "Kangos"
+    ],
+    "name:ita_x_preferred":[
+        "Kangos"
+    ],
+    "name:nan_x_preferred":[
+        "Kangos"
+    ],
+    "name:nno_x_preferred":[
+        "Kangos"
+    ],
+    "name:nob_x_preferred":[
+        "Kangos"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043d\u0433\u043e\u0441"
+    ],
+    "name:swe_x_preferred":[
+        "Kangos"
+    ],
+    "name:unk_x_variant":[
+        "Kangosfors"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":605342,
+    "qs_pg:gn_pop":278,
+    "qs_pg:name":"Kangos",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"Norrbottens L\u00e4n",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":3,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":112211,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":894787,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"Norrbottens L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688471,
+        102191581,
+        1159306617,
+        85633789,
+        1159302953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":605342,
+        "gp:id":894787,
+        "qs_pg:id":112211,
+        "wd:id":"Q1917588"
+    },
+    "wof:country":"SE",
+    "wof:created":1497300155,
+    "wof:geomhash":"62d0bc3a47b08a625566d08eefffe89d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302953,
+            "localadmin_id":1159306617,
+            "locality_id":1126009011,
+            "region_id":85688471
+        }
+    ],
+    "wof:id":1126009011,
+    "wof:lastmodified":1529702579,
+    "wof:name":"Kangos",
+    "wof:parent_id":1159306617,
+    "wof:placetype":"locality",
+    "wof:population":245,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.66667,
+    67.48333,
+    22.66667,
+    67.48333
+],
+  "geometry": {"coordinates":[22.66667,67.48333],"type":"Point"}
+}

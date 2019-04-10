@@ -1,0 +1,105 @@
+{
+  "id": 1125765407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.61369,59.39853,13.61369,59.39853",
+    "geom:latitude":59.39853,
+    "geom:longitude":13.61369,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":571,
+    "gn:population":756,
+    "iso:country":"SE",
+    "lbl:latitude":59.39853,
+    "lbl:longitude":13.61369,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Alster"
+    ],
+    "name:eng_x_preferred":[
+        "Alster"
+    ],
+    "name:ger_x_preferred":[
+        "Alster"
+    ],
+    "name:nan_x_preferred":[
+        "Alster"
+    ],
+    "name:nno_x_preferred":[
+        "Alster i Sverige"
+    ],
+    "name:nob_x_preferred":[
+        "Alster"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0644\u0633\u062a\u0631\u060c \u0633\u0648\u0626\u062f"
+    ],
+    "name:swe_x_preferred":[
+        "Alsters Bruk"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2726416,
+    "qs_pg:gn_pop":571,
+    "qs_pg:name":"Alster",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":575755,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688435,
+        102191581,
+        1125286813,
+        85633789,
+        1159303443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2726416,
+        "qs_pg:id":575755,
+        "wd:id":"Q1923270"
+    },
+    "wof:country":"SE",
+    "wof:created":1497289873,
+    "wof:geomhash":"9ee2cbbed4d28642f0c3a27514aaca86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303443,
+            "localadmin_id":1125286813,
+            "locality_id":1125765407,
+            "region_id":85688435
+        }
+    ],
+    "wof:id":1125765407,
+    "wof:lastmodified":1529702936,
+    "wof:name":"Alster",
+    "wof:parent_id":1125286813,
+    "wof:placetype":"locality",
+    "wof:population":756,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.61369,
+    59.39853,
+    13.61369,
+    59.39853
+],
+  "geometry": {"coordinates":[13.61369,59.39853],"type":"Point"}
+}

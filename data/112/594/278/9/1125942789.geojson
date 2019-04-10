@@ -1,0 +1,114 @@
+{
+  "id": 1125942789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.73333,64.75,20.73333,64.75",
+    "geom:latitude":64.75,
+    "geom:longitude":20.73333,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":558,
+    "gn:population":543,
+    "iso:country":"SE",
+    "lbl:latitude":64.75,
+    "lbl:longitude":20.73333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u041c\u0435\u0434\u043b\u0435"
+    ],
+    "name:dut_x_preferred":[
+        "Medle"
+    ],
+    "name:eng_x_preferred":[
+        "Medle"
+    ],
+    "name:nan_x_preferred":[
+        "Medle"
+    ],
+    "name:nno_x_preferred":[
+        "Medle"
+    ],
+    "name:nob_x_preferred":[
+        "Medle"
+    ],
+    "name:swe_x_preferred":[
+        "Medle"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":604360,
+    "qs_pg:gn_pop":558,
+    "qs_pg:name":"Medle",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"V\u00e4sterbottens L\u00e4n",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":3,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1140906,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":898368,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"V\u00e4sterbottens L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688465,
+        102191581,
+        1125417515,
+        85633789,
+        1159303205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":604360,
+        "gp:id":898368,
+        "qs_pg:id":1140906,
+        "wd:id":"Q2157662"
+    },
+    "wof:country":"SE",
+    "wof:created":1497297174,
+    "wof:geomhash":"7e4237913f2270f74a474d585d2bb9fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303205,
+            "localadmin_id":1125417515,
+            "locality_id":1125942789,
+            "region_id":85688465
+        }
+    ],
+    "wof:id":1125942789,
+    "wof:lastmodified":1529702977,
+    "wof:name":"Medle",
+    "wof:parent_id":1125417515,
+    "wof:placetype":"locality",
+    "wof:population":543,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.73333,
+    64.75,
+    20.73333,
+    64.75
+],
+  "geometry": {"coordinates":[20.73333,64.75],"type":"Point"}
+}

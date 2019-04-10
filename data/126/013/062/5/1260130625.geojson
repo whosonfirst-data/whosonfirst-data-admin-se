@@ -1,0 +1,70 @@
+{
+  "id": 1260130625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.34632,58.35748,12.34632,58.35748",
+    "geom:latitude":58.35748,
+    "geom:longitude":12.34632,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"1487.0",
+    "gn:asciiname":"Mariedal",
+    "gn:country_code":"SE",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2692638,
+    "gn:latitude":58.35748,
+    "gn:longitude":12.34632,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Mariedal",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688411,
+        102191581,
+        1125283845,
+        85633789,
+        1159303519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2692638
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"403e9581da1875e3daaa92ee2c7d5566",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303519,
+            "localadmin_id":1125283845,
+            "locality_id":1260130625,
+            "region_id":85688411
+        }
+    ],
+    "wof:id":1260130625,
+    "wof:lastmodified":1536921016,
+    "wof:name":"Mariedal",
+    "wof:parent_id":1125283845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.34632,
+    58.35748,
+    12.34632,
+    58.35748
+],
+  "geometry": {"coordinates":[12.34632,58.35748],"type":"Point"}
+}

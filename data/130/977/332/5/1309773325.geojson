@@ -1,0 +1,70 @@
+{
+  "id": 1309773325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.7,59.75,15.7,59.75",
+    "geom:latitude":59.75,
+    "geom:longitude":15.7,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1904.0",
+    "gn:asciiname":"Norra Tulinge",
+    "gn:country_code":"SE",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2688625,
+    "gn:latitude":59.75,
+    "gn:longitude":15.7,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Norra Tulinge",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688425,
+        102191581,
+        1159305767,
+        85633789,
+        1159302929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2688625
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"dca66b7b032dae8608850dc43c4bfa38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302929,
+            "localadmin_id":1159305767,
+            "locality_id":1309773325,
+            "region_id":85688425
+        }
+    ],
+    "wof:id":1309773325,
+    "wof:lastmodified":1536977460,
+    "wof:name":"Norra Tulinge",
+    "wof:parent_id":1159305767,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.7,
+    59.75,
+    15.7,
+    59.75
+],
+  "geometry": {"coordinates":[15.7,59.75],"type":"Point"}
+}

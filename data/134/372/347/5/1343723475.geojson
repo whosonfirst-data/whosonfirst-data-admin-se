@@ -1,0 +1,79 @@
+{
+  "id": 1343723475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.93333,56.05,12.93333,56.05",
+    "geom:latitude":56.05,
+    "geom:longitude":12.93333,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"1260.0",
+    "gn:asciiname":"Risekatslosa",
+    "gn:country_code":"SE",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2682373,
+    "gn:latitude":56.05,
+    "gn:longitude":12.93333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Risekatsl\u00f6sa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Risekatsl\u00f6sa"
+    ],
+    "name:nor_x_variant":[
+        "Risekatsl\u00f8sa"
+    ],
+    "name:und_x_variant":[
+        "Risekatsl\u00f6sa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688377,
+        102191581,
+        1159306653,
+        85633789,
+        1159303001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2682373
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"5a58395e85d8099b5321ad0b76a7740e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303001,
+            "localadmin_id":1159306653,
+            "locality_id":1343723475,
+            "region_id":85688377
+        }
+    ],
+    "wof:id":1343723475,
+    "wof:lastmodified":1537699868,
+    "wof:name":"Risekatslosa",
+    "wof:parent_id":1159306653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.93333,
+    56.05,
+    12.93333,
+    56.05
+],
+  "geometry": {"coordinates":[12.93333,56.05],"type":"Point"}
+}

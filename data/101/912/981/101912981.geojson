@@ -1,0 +1,106 @@
+{
+  "id": 101912981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000069,
+    "geom:area_square_m":376692.862813,
+    "geom:bbox":"20.1234866526,63.8259891246,20.136366265,63.8359191549",
+    "geom:latitude":63.830795,
+    "geom:longitude":20.12854,
+    "iso:country":"SE",
+    "lbl:latitude":63.831127,
+    "lbl:longitude":20.127565,
+    "mps:latitude":63.831127,
+    "mps:longitude":20.127565,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dan_x_preferred":[
+        "Nerbyn"
+    ],
+    "name:dut_x_preferred":[
+        "Nerbyn"
+    ],
+    "name:eng_x_preferred":[
+        "Nerbyn"
+    ],
+    "name:fre_x_preferred":[
+        "Nerbyn"
+    ],
+    "name:ger_x_preferred":[
+        "Nerbyn"
+    ],
+    "name:nds_x_preferred":[
+        "Nerbyn"
+    ],
+    "name:nno_x_preferred":[
+        "Nerbyn"
+    ],
+    "name:nob_x_preferred":[
+        "Nerbyn"
+    ],
+    "name:swe_x_preferred":[
+        "Nerbyn"
+    ],
+    "qs:a0":"Sverige",
+    "qs:a1":"*V\u00e4sterbottens l\u00e4n",
+    "qs:a1r":"6",
+    "qs:adm0":"Sverige",
+    "qs:id":0,
+    "qs:la":"Ume\u00e5",
+    "qs:la_lc":"*SE2480",
+    "qs:level":"locality",
+    "qs:loc":"Nerbyn",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet many local_admin match geoplanet",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85688465,
+        102191581,
+        1125372493,
+        85633789,
+        1159303017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22527176,
+        "qs:id":1154358,
+        "qs_pg:id":1154358,
+        "wd:id":"Q2360738"
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"d4a45b15f799c90979c8d1b316de30de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303017,
+            "localadmin_id":1125372493,
+            "locality_id":101912981,
+            "region_id":85688465
+        }
+    ],
+    "wof:id":101912981,
+    "wof:lastmodified":1529702973,
+    "wof:name":"Nerbyn",
+    "wof:parent_id":1125372493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.12348665260583,
+    63.82598912460304,
+    20.13636626500625,
+    63.83591915490894
+],
+  "geometry": {"coordinates":[[[20.12348665260583,63.82605380489969],[20.12404061755637,63.83330866513086],[20.1249983526547,63.83324641734526],[20.12594225478091,63.83591915490894],[20.12994194610394,63.83565905949354],[20.12931241616394,63.83387725255045],[20.13131211628661,63.83374717563413],[20.13068255450895,63.83196537703247],[20.13268211765245,63.83183528363725],[20.13236730984454,63.83094438858598],[20.13636626500625,63.83068413441913],[20.13542161408077,63.82801147523804],[20.12942369512155,63.82840177793241],[20.12910903529627,63.82751087776205],[20.1271097547617,63.8276409232804],[20.12679517686587,63.82675001846826],[20.12479593919306,63.82688003405588],[20.12448144321854,63.82598912460304],[20.12348665260583,63.82605380489969]]],"type":"Polygon"}
+}

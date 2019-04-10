@@ -1,0 +1,75 @@
+{
+  "id": 1226130947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.2,60.8,15.2,60.8",
+    "geom:latitude":60.8,
+    "geom:longitude":15.2,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2029.0",
+    "gn:asciiname":"Risholn",
+    "gn:cc2":"SE",
+    "gn:country_code":"SE",
+    "gn:dem":258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2682354,
+    "gn:latitude":60.8,
+    "gn:longitude":15.2,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Risholn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Risholen",
+        "Risholn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688447,
+        102191581,
+        1125382219,
+        85633789,
+        1159303237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2682354
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"824a2460fcddcd670ac48d4ca6673eeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303237,
+            "localadmin_id":1125382219,
+            "locality_id":1226130947,
+            "region_id":85688447
+        }
+    ],
+    "wof:id":1226130947,
+    "wof:lastmodified":1537699867,
+    "wof:name":"Risholn",
+    "wof:parent_id":1125382219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.2,
+    60.8,
+    15.2,
+    60.8
+],
+  "geometry": {"coordinates":[15.2,60.8],"type":"Point"}
+}

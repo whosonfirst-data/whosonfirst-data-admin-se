@@ -1,0 +1,70 @@
+{
+  "id": 1293363677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.66667,67.53333,22.66667,67.53333",
+    "geom:latitude":67.53333,
+    "geom:longitude":22.66667,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2521.0",
+    "gn:asciiname":"Sarkimukka",
+    "gn:country_code":"SE",
+    "gn:dem":241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":603076,
+    "gn:latitude":67.53333,
+    "gn:longitude":22.66667,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"S\u00e4rkimukka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688471,
+        102191581,
+        1159306617,
+        85633789,
+        1159302953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":603076
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"30b38ae99960a9b809d30ed699db0263",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302953,
+            "localadmin_id":1159306617,
+            "locality_id":1293363677,
+            "region_id":85688471
+        }
+    ],
+    "wof:id":1293363677,
+    "wof:lastmodified":1536965413,
+    "wof:name":"Sarkimukka",
+    "wof:parent_id":1159306617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.66667,
+    67.53333,
+    22.66667,
+    67.53333
+],
+  "geometry": {"coordinates":[22.66667,67.53333000000001],"type":"Point"}
+}

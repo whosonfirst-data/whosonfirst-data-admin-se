@@ -1,0 +1,80 @@
+{
+  "id": 1125853635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.01673,59.22089,12.01673,59.22089",
+    "geom:latitude":59.22089,
+    "geom:longitude":12.01673,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2,
+    "gn:population":2,
+    "iso:country":"SE",
+    "lbl:latitude":59.22089,
+    "lbl:longitude":12.01673,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":8435882,
+    "qs_pg:gn_pop":2,
+    "qs_pg:name":"Verket",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":771037,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688435,
+        102191581,
+        1125270325,
+        85633789,
+        1159302927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8435882,
+        "qs_pg:id":771037
+    },
+    "wof:country":"SE",
+    "wof:created":1497293517,
+    "wof:geomhash":"7ad7e92a59c3a2168b36b101d3f97f98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302927,
+            "localadmin_id":1125270325,
+            "locality_id":1125853635,
+            "region_id":85688435
+        }
+    ],
+    "wof:id":1125853635,
+    "wof:lastmodified":1529702940,
+    "wof:name":"Verket",
+    "wof:parent_id":1125270325,
+    "wof:placetype":"locality",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.01673,
+    59.22089,
+    12.01673,
+    59.22089
+],
+  "geometry": {"coordinates":[12.01673,59.22089],"type":"Point"}
+}

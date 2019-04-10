@@ -1,0 +1,80 @@
+{
+  "id": 1125820877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.87845,57.52387,14.87845,57.52387",
+    "geom:latitude":57.52387,
+    "geom:longitude":14.87845,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"FRM",
+    "gn:gn_pop":10,
+    "gn:population":10,
+    "iso:country":"SE",
+    "lbl:latitude":57.52387,
+    "lbl:longitude":14.87845,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"FRM",
+    "qs_pg:gn_id":2699269,
+    "qs_pg:gn_pop":10,
+    "qs_pg:name":"Kristinelund",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":575684,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688395,
+        102191581,
+        1125373555,
+        85633789,
+        1159303157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2699269,
+        "qs_pg:id":575684
+    },
+    "wof:country":"SE",
+    "wof:created":1497292058,
+    "wof:geomhash":"e191c2aec605c5eb824a0aad73fb0779",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303157,
+            "localadmin_id":1125373555,
+            "locality_id":1125820877,
+            "region_id":85688395
+        }
+    ],
+    "wof:id":1125820877,
+    "wof:lastmodified":1529702444,
+    "wof:name":"Kristinelund",
+    "wof:parent_id":1125373555,
+    "wof:placetype":"locality",
+    "wof:population":10,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.87845,
+    57.52387,
+    14.87845,
+    57.52387
+],
+  "geometry": {"coordinates":[14.87845,57.52387],"type":"Point"}
+}

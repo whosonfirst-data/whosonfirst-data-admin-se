@@ -1,0 +1,102 @@
+{
+  "id": 102537147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.3375,59.4447222222,13.3375,59.4447222222",
+    "geom:latitude":59.444722,
+    "geom:longitude":13.3375,
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dan_x_preferred":[
+        "Karlstad Airport"
+    ],
+    "name:deu_x_preferred":[
+        "Flughafen Karlstad"
+    ],
+    "name:epo_x_preferred":[
+        "Flughaveno de Karlstad"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06a9\u0627\u0631\u0644\u0634\u062a\u0647"
+    ],
+    "name:ita_x_preferred":[
+        "Aeroporto di Karlstad"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Karlstad"
+    ],
+    "name:nld_x_preferred":[
+        "Karlstad Airport"
+    ],
+    "name:nor_x_preferred":[
+        "Karlstad lufthavn"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Karlstad"
+    ],
+    "name:swe_x_preferred":[
+        "Karlstad Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043a\u043e\u0440\u043b\u0448\u0442\u04b3"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Karlstad"
+    ],
+    "oa:elevation_ft":"352",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":127,
+    "woe:hierarchy":{
+        "country_id":23424954,
+        "county_id":12587421,
+        "planet_id":1,
+        "state_id":2347063
+    },
+    "wof:belongsto":[
+        85633789,
+        85688435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22656500,
+        "iata:code":"KSD",
+        "icao:code":"ESOK",
+        "oa:id":"2695",
+        "wd:id":"Q734482"
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"332db011a0306918329caca63ff24163",
+    "wof:hierarchy":[
+        {
+            "campus_id":102537147,
+            "country_id":85633789,
+            "region_id":85688435
+        }
+    ],
+    "wof:id":102537147,
+    "wof:lastmodified":1543846099,
+    "wof:name":"Karlstad Flygplats",
+    "wof:parent_id":85688435,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    13.3375,
+    59.444722222222,
+    13.3375,
+    59.444722222222
+],
+  "geometry": {"coordinates":[13.3375,59.444722222222],"type":"Point"}
+}

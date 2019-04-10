@@ -1,0 +1,70 @@
+{
+  "id": 1225833413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.5,60.46667,14.5,60.46667",
+    "geom:latitude":60.46667,
+    "geom:longitude":14.5,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2021.0",
+    "gn:asciiname":"Nederborg",
+    "gn:country_code":"SE",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2689968,
+    "gn:latitude":60.46667,
+    "gn:longitude":14.5,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Nederborg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688447,
+        102191581,
+        1125395835,
+        85633789,
+        1159303269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2689968
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"d937372934a651a849a61fee8161b50c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303269,
+            "localadmin_id":1125395835,
+            "locality_id":1225833413,
+            "region_id":85688447
+        }
+    ],
+    "wof:id":1225833413,
+    "wof:lastmodified":1537030161,
+    "wof:name":"Nederborg",
+    "wof:parent_id":1125395835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.5,
+    60.46666999999999,
+    14.5,
+    60.46666999999999
+],
+  "geometry": {"coordinates":[14.5,60.46666999999999],"type":"Point"}
+}

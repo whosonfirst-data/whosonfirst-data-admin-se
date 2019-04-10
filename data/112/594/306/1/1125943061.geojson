@@ -1,0 +1,120 @@
+{
+  "id": 1125943061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.63333,58.71667,15.63333,58.71667",
+    "geom:latitude":58.71667,
+    "geom:longitude":15.63333,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":471,
+    "gn:population":436,
+    "iso:country":"SE",
+    "lbl:latitude":58.71667,
+    "lbl:longitude":15.63333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0421\u043e\u043d\u0441\u0442\u043e\u0440\u043f"
+    ],
+    "name:dut_x_preferred":[
+        "Sonstorp"
+    ],
+    "name:eng_x_preferred":[
+        "Sonstorp"
+    ],
+    "name:ita_x_preferred":[
+        "Sonstorp"
+    ],
+    "name:nan_x_preferred":[
+        "Sonstorp"
+    ],
+    "name:nno_x_preferred":[
+        "Sonstorp"
+    ],
+    "name:nob_x_preferred":[
+        "Sonstorp"
+    ],
+    "name:swe_x_preferred":[
+        "Sonstorp"
+    ],
+    "name:unk_x_variant":[
+        "Sonstorpsbruk"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2675297,
+    "qs_pg:gn_pop":471,
+    "qs_pg:name":"Sonstorp",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"\u00d6sterg\u00f6tlands L\u00e4n",
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":513,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1140961,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":905394,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"\u00d6sterg\u00f6tlands L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688409,
+        102191581,
+        1125327697,
+        85633789,
+        1159303029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2675297,
+        "gp:id":905394,
+        "qs_pg:id":1140961,
+        "wd:id":"Q925183"
+    },
+    "wof:country":"SE",
+    "wof:created":1497297183,
+    "wof:geomhash":"95e688b765f56e18311d558738e8fb7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303029,
+            "localadmin_id":1125327697,
+            "locality_id":1125943061,
+            "region_id":85688409
+        }
+    ],
+    "wof:id":1125943061,
+    "wof:lastmodified":1529703112,
+    "wof:name":"Sonstorp",
+    "wof:parent_id":1125327697,
+    "wof:placetype":"locality",
+    "wof:population":436,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.63333,
+    58.71667,
+    15.63333,
+    58.71667
+],
+  "geometry": {"coordinates":[15.63333,58.71667],"type":"Point"}
+}

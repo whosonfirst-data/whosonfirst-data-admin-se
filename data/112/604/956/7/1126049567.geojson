@@ -1,0 +1,115 @@
+{
+  "id": 1126049567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.38333,64.01667,20.38333,64.01667",
+    "geom:latitude":64.01667,
+    "geom:longitude":20.38333,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"SE",
+    "lbl:latitude":64.01667,
+    "lbl:longitude":20.38333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dan_x_preferred":[
+        "Bodbyn"
+    ],
+    "name:dut_x_preferred":[
+        "Bodbyn"
+    ],
+    "name:eng_x_preferred":[
+        "Bodbyn"
+    ],
+    "name:ger_x_preferred":[
+        "Bodbyn"
+    ],
+    "name:nds_x_preferred":[
+        "Bodbyn"
+    ],
+    "name:nno_x_preferred":[
+        "Bodbyn"
+    ],
+    "name:nob_x_preferred":[
+        "Bodbyn"
+    ],
+    "name:swe_x_preferred":[
+        "Bodbyn"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":606534,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Bodbyn",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"V\u00e4sterbottens L\u00e4n",
+    "qs_pg:photos":62,
+    "qs_pg:photos_1k":13,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":62,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":265811,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":886984,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"V\u00e4sterbottens L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688465,
+        102191581,
+        1125325337,
+        85633789,
+        1159303017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":606534,
+        "gp:id":886984,
+        "qs_pg:id":265811,
+        "wd:id":"Q2680350"
+    },
+    "wof:country":"SE",
+    "wof:created":1497302643,
+    "wof:geomhash":"fcaf494863f0441da3bf694a5426e087",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303017,
+            "localadmin_id":1125325337,
+            "locality_id":1126049567,
+            "region_id":85688465
+        }
+    ],
+    "wof:id":1126049567,
+    "wof:lastmodified":1529702983,
+    "wof:name":"Bodbyn",
+    "wof:parent_id":1125325337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.38333,
+    64.01667,
+    20.38333,
+    64.01667
+],
+  "geometry": {"coordinates":[20.38333,64.01667],"type":"Point"}
+}

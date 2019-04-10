@@ -1,0 +1,122 @@
+{
+  "id": 1125809997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.63333,58.28333,14.63333,58.28333",
+    "geom:latitude":58.28333,
+    "geom:longitude":14.63333,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":328,
+    "iso:country":"SE",
+    "lbl:latitude":58.28333,
+    "lbl:longitude":14.63333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "H\u00e4stholmen"
+    ],
+    "name:eng_x_preferred":[
+        "H\u00e4stholmen"
+    ],
+    "name:fin_x_preferred":[
+        "H\u00e4stholmen"
+    ],
+    "name:ita_x_preferred":[
+        "H\u00e4stholmen"
+    ],
+    "name:lat_x_preferred":[
+        "H\u00e4stholmen"
+    ],
+    "name:nan_x_preferred":[
+        "H\u00e4stholmen"
+    ],
+    "name:nno_x_preferred":[
+        "H\u00e4stholmen"
+    ],
+    "name:nob_x_preferred":[
+        "H\u00e4stholmen"
+    ],
+    "name:swe_x_preferred":[
+        "H\u00e4stholmen"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2707265,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"H\u00e4stholmen",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"\u00d6sterg\u00f6tlands L\u00e4n",
+    "qs_pg:photos":452,
+    "qs_pg:photos_1k":92,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":452,
+    "qs_pg:photos_sr":7,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1083442,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":892627,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"\u00d6sterg\u00f6tlands L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688409,
+        102191581,
+        1159305789,
+        85633789,
+        1159303179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2707265,
+        "gp:id":892627,
+        "qs_pg:id":1083442,
+        "wd:id":"Q962516"
+    },
+    "wof:country":"SE",
+    "wof:created":1497291616,
+    "wof:geomhash":"026d8808ac9aa8486ddf9c0102871382",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303179,
+            "localadmin_id":1159305789,
+            "locality_id":1125809997,
+            "region_id":85688409
+        }
+    ],
+    "wof:id":1125809997,
+    "wof:lastmodified":1529703121,
+    "wof:name":"H\u00e4stholmen",
+    "wof:parent_id":1159305789,
+    "wof:placetype":"locality",
+    "wof:population":328,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.63333,
+    58.28333,
+    14.63333,
+    58.28333
+],
+  "geometry": {"coordinates":[14.63333,58.28333],"type":"Point"}
+}

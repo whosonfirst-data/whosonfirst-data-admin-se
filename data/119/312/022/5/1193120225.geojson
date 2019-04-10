@@ -1,0 +1,70 @@
+{
+  "id": 1193120225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.31667,65.83333,23.31667,65.83333",
+    "geom:latitude":65.83333,
+    "geom:longitude":23.31667,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2514.0",
+    "gn:asciiname":"Vanafjarden",
+    "gn:country_code":"SE",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":602076,
+    "gn:latitude":65.83333,
+    "gn:longitude":23.31667,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"V\u00e5nafj\u00e4rden",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688471,
+        102191581,
+        1125287809,
+        85633789,
+        1159303011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":602076
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"7b2cfacf278d818ecdb9ba0c7536c227",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303011,
+            "localadmin_id":1125287809,
+            "locality_id":1193120225,
+            "region_id":85688471
+        }
+    ],
+    "wof:id":1193120225,
+    "wof:lastmodified":1536364830,
+    "wof:name":"Vanafjarden",
+    "wof:parent_id":1125287809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.31667,
+    65.83333,
+    23.31667,
+    65.83333
+],
+  "geometry": {"coordinates":[23.31667,65.83333],"type":"Point"}
+}

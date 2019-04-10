@@ -1,0 +1,70 @@
+{
+  "id": 1225803493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.11667,59.25,14.11667,59.25",
+    "geom:latitude":59.25,
+    "geom:longitude":14.11667,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1781.0",
+    "gn:asciiname":"Gatan",
+    "gn:country_code":"SE",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2712475,
+    "gn:latitude":59.25,
+    "gn:longitude":14.11667,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Gatan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688435,
+        102191581,
+        1125363615,
+        85633789,
+        1159303523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2712475
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"5f465162ac8d156d0b4320732749054b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303523,
+            "localadmin_id":1125363615,
+            "locality_id":1225803493,
+            "region_id":85688435
+        }
+    ],
+    "wof:id":1225803493,
+    "wof:lastmodified":1537071714,
+    "wof:name":"Gatan",
+    "wof:parent_id":1125363615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.11667,
+    59.25,
+    14.11667,
+    59.25
+],
+  "geometry": {"coordinates":[14.11667,59.25],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1243147557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.08333,59.28333,16.08333,59.28333",
+    "geom:latitude":59.28333,
+    "geom:longitude":16.08333,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"484.0",
+    "gn:asciiname":"Skolby",
+    "gn:country_code":"SE",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2677363,
+    "gn:latitude":59.28333,
+    "gn:longitude":16.08333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Sk\u00f6lby",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Sk\u00f6lby"
+    ],
+    "name:nor_x_variant":[
+        "Sk\u00f8lby"
+    ],
+    "name:und_x_variant":[
+        "Sk\u00f6lby"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688419,
+        102191581,
+        1159306517,
+        85633789,
+        1159303207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2677363
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"b0a955b04b044a579991c7f8bf15ad10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303207,
+            "localadmin_id":1159306517,
+            "locality_id":1243147557,
+            "region_id":85688419
+        }
+    ],
+    "wof:id":1243147557,
+    "wof:lastmodified":1537699835,
+    "wof:name":"Skolby",
+    "wof:parent_id":1159306517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.08333,
+    59.28333000000001,
+    16.08333,
+    59.28333000000001
+],
+  "geometry": {"coordinates":[16.08333,59.28333000000001],"type":"Point"}
+}

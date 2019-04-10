@@ -1,0 +1,105 @@
+{
+  "id": 1125900521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.92056,57.45389,11.92056,57.45389",
+    "geom:latitude":57.45389,
+    "geom:longitude":11.92056,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":411,
+    "gn:population":411,
+    "iso:country":"SE",
+    "lbl:latitude":57.45389,
+    "lbl:longitude":11.92056,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u041b\u0435\u0440\u043a\u0438\u043b"
+    ],
+    "name:dut_x_preferred":[
+        "Lerkil"
+    ],
+    "name:eng_x_preferred":[
+        "Lerkil"
+    ],
+    "name:fre_x_preferred":[
+        "Lerkil"
+    ],
+    "name:nan_x_preferred":[
+        "Lerkil"
+    ],
+    "name:nno_x_preferred":[
+        "Lerkil"
+    ],
+    "name:nob_x_preferred":[
+        "Lerkil"
+    ],
+    "name:swe_x_preferred":[
+        "Lerkil"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2696539,
+    "qs_pg:gn_pop":411,
+    "qs_pg:name":"Lerkil",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":575680,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688391,
+        102191581,
+        1125325571,
+        85633789,
+        1159303249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2696539,
+        "qs_pg:id":575680,
+        "wd:id":"Q2588229"
+    },
+    "wof:country":"SE",
+    "wof:created":1497295783,
+    "wof:geomhash":"4620eee58329d699f27d8c457a6efdab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303249,
+            "localadmin_id":1125325571,
+            "locality_id":1125900521,
+            "region_id":85688391
+        }
+    ],
+    "wof:id":1125900521,
+    "wof:lastmodified":1529702344,
+    "wof:name":"Lerkil",
+    "wof:parent_id":1125325571,
+    "wof:placetype":"locality",
+    "wof:population":411,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.92056,
+    57.45389,
+    11.92056,
+    57.45389
+],
+  "geometry": {"coordinates":[11.92056,57.45389],"type":"Point"}
+}

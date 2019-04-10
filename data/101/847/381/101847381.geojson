@@ -1,0 +1,122 @@
+{
+  "id": 101847381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000234,
+    "geom:area_square_m":1271980.814313,
+    "geom:bbox":"20.3064445645,63.8756675717,20.3272815783,63.8960169926",
+    "geom:latitude":63.88634,
+    "geom:longitude":20.316956,
+    "gn:population":1486,
+    "iso:country":"SE",
+    "lbl:latitude":63.886254,
+    "lbl:longitude":20.316956,
+    "mps:latitude":63.886254,
+    "mps:longitude":20.316956,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0415\u0440\u0448\u043c\u0430\u0440\u043a"
+    ],
+    "name:dut_x_preferred":[
+        "Ersmark"
+    ],
+    "name:eng_x_preferred":[
+        "Ersmark"
+    ],
+    "name:nan_x_preferred":[
+        "Ersmark"
+    ],
+    "name:nld_x_preferred":[
+        "Ersmark"
+    ],
+    "name:nno_x_preferred":[
+        "Ersmark i Ume\u00e5 kommune"
+    ],
+    "name:nob_x_preferred":[
+        "Ersmark"
+    ],
+    "name:nor_x_preferred":[
+        "Ersmark"
+    ],
+    "name:swe_x_preferred":[
+        "Ersmark"
+    ],
+    "name:swe_x_variant":[
+        "Ersmarks"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Ersmark"
+    ],
+    "qs:a0":"Sverige",
+    "qs:a1":"*V\u00e4sterbottens l\u00e4n",
+    "qs:a1r":"0",
+    "qs:adm0":"Sverige",
+    "qs:la":"Ume\u00e5",
+    "qs:la_lc":"*SE2480",
+    "qs:level":"locality",
+    "qs:loc":"Ersmark",
+    "qs:loc_alt":"Ersmark",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688465,
+        102191581,
+        1125325349,
+        85633789,
+        1159303017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06d40690-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":606249,
+        "gp:id":889046,
+        "qs:id":550247,
+        "qs_pg:id":550247,
+        "wd:id":"Q2439435",
+        "wk:page":"Ersmark, Ume\u00e5 Municipality"
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"b4ed5c91b6da89abeb0364b9bdf88316",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303017,
+            "localadmin_id":1125325349,
+            "locality_id":101847381,
+            "region_id":85688465
+        }
+    ],
+    "wof:id":101847381,
+    "wof:lang":[
+        "swe"
+    ],
+    "wof:lastmodified":1529702970,
+    "wof:name":"Ersmark",
+    "wof:parent_id":1125325349,
+    "wof:placetype":"locality",
+    "wof:population":1486,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.30644456451211,
+    63.87566757166661,
+    20.32728157830257,
+    63.89601699261652
+],
+  "geometry": {"coordinates":[[[20.32552729073029,63.89575184123231],[20.32456237177581,63.89308032825363],[20.32656534576444,63.89294772807375],[20.32527886222391,63.88938572647766],[20.32728157830257,63.88925311914085],[20.32631677195451,63.88658162972217],[20.32231168287529,63.88684679142256],[20.32102607042327,63.88328476626367],[20.32302838338046,63.883152216474],[20.32270697648011,63.88226171429625],[20.32671142985805,63.88199654743943],[20.32638992534385,63.88110605423441],[20.32238559209202,63.88137121193142],[20.32174289084389,63.87959020664044],[20.31573662037425,63.87998772463726],[20.31541548367659,63.87909720798058],[20.31341341867568,63.87922965845041],[20.31212933697145,63.87566757166661],[20.308125635056,63.87593235959048],[20.30844650166733,63.87682289071006],[20.30644456451211,63.87695525103243],[20.30965386626798,63.88586059778402],[20.3116564041319,63.88572819172987],[20.31261981342647,63.88839977842503],[20.31061709527177,63.8885321982051],[20.31254416079901,63.89387539405101],[20.31454723964185,63.89374294681068],[20.31486855613832,63.894633474226],[20.31887478166919,63.89436849411493],[20.31919624094365,63.89525901218576],[20.32119938762401,63.89512647931292],[20.3215209295588,63.89601699261652],[20.32552729073029,63.89575184123231]]],"type":"Polygon"}
+}

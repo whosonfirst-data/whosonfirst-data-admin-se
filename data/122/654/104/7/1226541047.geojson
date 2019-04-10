@@ -1,0 +1,77 @@
+{
+  "id": 1226541047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.55,60.6,16.55,60.6",
+    "geom:latitude":60.6,
+    "geom:longitude":16.55,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"2181.0",
+    "gn:asciiname":"Vaesterberg",
+    "gn:country_code":"SE",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2664433,
+    "gn:latitude":60.6,
+    "gn:longitude":16.55,
+    "gn:modification_date":"2017-03-18",
+    "gn:name":"V\u00e4sterberg",
+    "gn:population":228,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "V\u00e4sterberg"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688453,
+        102191581,
+        1125325425,
+        85633789,
+        1159303303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2664433,
+        "wk:page":"V%C3%A4sterberg"
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"35869d6b64474cd4d70858f159c32ec4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303303,
+            "localadmin_id":1125325425,
+            "locality_id":1226541047,
+            "region_id":85688453
+        }
+    ],
+    "wof:id":1226541047,
+    "wof:lastmodified":1537699756,
+    "wof:name":"Vaesterberg",
+    "wof:parent_id":1125325425,
+    "wof:placetype":"locality",
+    "wof:population":228,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.55,
+    60.6,
+    16.55,
+    60.6
+],
+  "geometry": {"coordinates":[16.55,60.6],"type":"Point"}
+}

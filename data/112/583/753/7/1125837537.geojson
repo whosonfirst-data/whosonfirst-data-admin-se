@@ -1,0 +1,102 @@
+{
+  "id": 1125837537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.15694,58.78255,16.15694,58.78255",
+    "geom:latitude":58.78255,
+    "geom:longitude":16.15694,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":236,
+    "gn:population":242,
+    "iso:country":"SE",
+    "lbl:latitude":58.78255,
+    "lbl:longitude":16.15694,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Simonstorp"
+    ],
+    "name:eng_x_preferred":[
+        "Simonstorp"
+    ],
+    "name:nan_x_preferred":[
+        "Simonstorp"
+    ],
+    "name:nno_x_preferred":[
+        "Simonstorp"
+    ],
+    "name:nob_x_preferred":[
+        "Simonstorp"
+    ],
+    "name:swe_x_preferred":[
+        "Simonstorp"
+    ],
+    "name:unk_x_variant":[
+        "Simonstrop"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2679118,
+    "qs_pg:gn_pop":236,
+    "qs_pg:name":"Simonstorp",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":575628,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688409,
+        102191581,
+        1125356663,
+        85633789,
+        1159303229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2679118,
+        "qs_pg:id":575628,
+        "wd:id":"Q3354506"
+    },
+    "wof:country":"SE",
+    "wof:created":1497292780,
+    "wof:geomhash":"345bf866d6d60b2134da12f96af60e9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303229,
+            "localadmin_id":1125356663,
+            "locality_id":1125837537,
+            "region_id":85688409
+        }
+    ],
+    "wof:id":1125837537,
+    "wof:lastmodified":1529703117,
+    "wof:name":"Simonstorp",
+    "wof:parent_id":1125356663,
+    "wof:placetype":"locality",
+    "wof:population":242,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.15694,
+    58.78255,
+    16.15694,
+    58.78255
+],
+  "geometry": {"coordinates":[16.15694,58.78255],"type":"Point"}
+}

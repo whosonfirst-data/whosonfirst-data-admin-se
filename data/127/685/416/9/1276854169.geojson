@@ -1,0 +1,74 @@
+{
+  "id": 1276854169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.64459,65.91609,23.64459,65.91609",
+    "geom:latitude":65.91609,
+    "geom:longitude":23.64459,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2583.0",
+    "gn:asciiname":"Naartijarvi",
+    "gn:country_code":"SE",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":604192,
+    "gn:latitude":65.91609,
+    "gn:longitude":23.64459,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Naartij\u00e4rvi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nartij\u00e4rvi",
+        "Naartij\u00e4rvi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688471,
+        102191581,
+        1125325185,
+        85633789,
+        1159302911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":604192
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"6cfcc6a8b52dbccf182c556f7bca781a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302911,
+            "localadmin_id":1125325185,
+            "locality_id":1276854169,
+            "region_id":85688471
+        }
+    ],
+    "wof:id":1276854169,
+    "wof:lastmodified":1537699717,
+    "wof:name":"Naartijarvi",
+    "wof:parent_id":1125325185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.64459,
+    65.91609,
+    23.64459,
+    65.91609
+],
+  "geometry": {"coordinates":[23.64459,65.91609],"type":"Point"}
+}

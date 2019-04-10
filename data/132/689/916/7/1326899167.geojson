@@ -1,0 +1,75 @@
+{
+  "id": 1326899167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.76667,59.11667,12.76667,59.11667",
+    "geom:latitude":59.11667,
+    "geom:longitude":12.76667,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1785.0",
+    "gn:asciiname":"Asketan",
+    "gn:cc2":"SE",
+    "gn:country_code":"SE",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2724762,
+    "gn:latitude":59.11667,
+    "gn:longitude":12.76667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"\u00c4sketan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Esketan",
+        "\u00c4sketan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688435,
+        102191581,
+        1159306337,
+        85633789,
+        1159303169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2724762
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"f30bb13044843168acd771d455027ead",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303169,
+            "localadmin_id":1159306337,
+            "locality_id":1326899167,
+            "region_id":85688435
+        }
+    ],
+    "wof:id":1326899167,
+    "wof:lastmodified":1537700137,
+    "wof:name":"Asketan",
+    "wof:parent_id":1159306337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.76667,
+    59.11666999999999,
+    12.76667,
+    59.11666999999999
+],
+  "geometry": {"coordinates":[12.76667,59.11666999999999],"type":"Point"}
+}

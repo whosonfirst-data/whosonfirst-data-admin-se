@@ -1,0 +1,79 @@
+{
+  "id": 1293249895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.75,63.51667,17.75,63.51667",
+    "geom:latitude":63.51667,
+    "geom:longitude":17.75,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2284.0",
+    "gn:asciiname":"Skalmsjo",
+    "gn:country_code":"SE",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2678372,
+    "gn:latitude":63.51667,
+    "gn:longitude":17.75,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Skalmsj\u00f6",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Skalmsj\u00f6"
+    ],
+    "name:nor_x_variant":[
+        "Skalmsj\u00f8"
+    ],
+    "name:und_x_variant":[
+        "Skalmsj\u00f6"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688457,
+        102191581,
+        1125327727,
+        85633789,
+        1159303463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2678372
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"ce62032da90008ec0c09b3b84d4fa011",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303463,
+            "localadmin_id":1125327727,
+            "locality_id":1293249895,
+            "region_id":85688457
+        }
+    ],
+    "wof:id":1293249895,
+    "wof:lastmodified":1537699839,
+    "wof:name":"Skalmsjo",
+    "wof:parent_id":1125327727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.75,
+    63.51667,
+    17.75,
+    63.51667
+],
+  "geometry": {"coordinates":[17.75,63.51667],"type":"Point"}
+}

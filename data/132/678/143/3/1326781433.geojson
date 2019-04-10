@@ -1,0 +1,79 @@
+{
+  "id": 1326781433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.43333,58.21667,11.43333,58.21667",
+    "geom:latitude":58.21667,
+    "geom:longitude":11.43333,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"1484.0",
+    "gn:asciiname":"Lonndal",
+    "gn:country_code":"SE",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3332467,
+    "gn:latitude":58.21667,
+    "gn:longitude":11.43333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"L\u00f6nndal",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "L\u00f6nndal"
+    ],
+    "name:nor_x_variant":[
+        "L\u00f8nndal"
+    ],
+    "name:und_x_variant":[
+        "L\u00f6nndal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688411,
+        102191581,
+        1125362443,
+        85633789,
+        1159303273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3332467
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"c4cc343d9ad7ea21988766a1eac9265f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303273,
+            "localadmin_id":1125362443,
+            "locality_id":1326781433,
+            "region_id":85688411
+        }
+    ],
+    "wof:id":1326781433,
+    "wof:lastmodified":1537700160,
+    "wof:name":"Lonndal",
+    "wof:parent_id":1125362443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.43333,
+    58.21666999999999,
+    11.43333,
+    58.21666999999999
+],
+  "geometry": {"coordinates":[11.43333,58.21666999999999],"type":"Point"}
+}

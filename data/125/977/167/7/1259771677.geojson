@@ -1,0 +1,70 @@
+{
+  "id": 1259771677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.26667,60.65,15.26667,60.65",
+    "geom:latitude":60.65,
+    "geom:longitude":15.26667,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2029.0",
+    "gn:asciiname":"Busmor",
+    "gn:country_code":"SE",
+    "gn:dem":238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2718629,
+    "gn:latitude":60.65,
+    "gn:longitude":15.26667,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Busmor",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688447,
+        102191581,
+        1125287625,
+        85633789,
+        1159303237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2718629
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"a781b258fc5f4443fd11858faedb0f76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303237,
+            "localadmin_id":1125287625,
+            "locality_id":1259771677,
+            "region_id":85688447
+        }
+    ],
+    "wof:id":1259771677,
+    "wof:lastmodified":1536940830,
+    "wof:name":"Busmor",
+    "wof:parent_id":1125287625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.26667,
+    60.65,
+    15.26667,
+    60.65
+],
+  "geometry": {"coordinates":[15.26667,60.65],"type":"Point"}
+}

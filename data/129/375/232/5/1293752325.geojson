@@ -1,0 +1,79 @@
+{
+  "id": 1293752325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.26667,59.08333,14.26667,59.08333",
+    "geom:latitude":59.08333,
+    "geom:longitude":14.26667,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1781.0",
+    "gn:asciiname":"Bjorkebol",
+    "gn:country_code":"SE",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2722192,
+    "gn:latitude":59.08333,
+    "gn:longitude":14.26667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Bj\u00f6rkebol",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Bj\u00f6rkebol"
+    ],
+    "name:nor_x_variant":[
+        "Bj\u00f8rkebol"
+    ],
+    "name:und_x_variant":[
+        "Bj\u00f6rkebol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688435,
+        102191581,
+        1159306211,
+        85633789,
+        1159303523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2722192
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"6a7d94d5e2fc8e5a724d9a31ac5759c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303523,
+            "localadmin_id":1159306211,
+            "locality_id":1293752325,
+            "region_id":85688435
+        }
+    ],
+    "wof:id":1293752325,
+    "wof:lastmodified":1537700125,
+    "wof:name":"Bjorkebol",
+    "wof:parent_id":1159306211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.26667,
+    59.08333,
+    14.26667,
+    59.08333
+],
+  "geometry": {"coordinates":[14.26667,59.08333],"type":"Point"}
+}

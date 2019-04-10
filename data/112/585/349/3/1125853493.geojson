@@ -1,0 +1,111 @@
+{
+  "id": 1125853493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.81667,57.78333,11.81667,57.78333",
+    "geom:latitude":57.78333,
+    "geom:longitude":11.81667,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":987,
+    "gn:population":987,
+    "iso:country":"SE",
+    "lbl:latitude":57.78333,
+    "lbl:longitude":11.81667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u041d\u043e\u043b\u0432\u0438\u043a"
+    ],
+    "name:dut_x_preferred":[
+        "Nolvik"
+    ],
+    "name:eng_x_preferred":[
+        "Nolvik"
+    ],
+    "name:fre_x_preferred":[
+        "Nolvik"
+    ],
+    "name:nan_x_preferred":[
+        "Nolvik"
+    ],
+    "name:nno_x_preferred":[
+        "Nolvik"
+    ],
+    "name:nob_x_preferred":[
+        "Nolvik"
+    ],
+    "name:sco_x_preferred":[
+        "Nolvik"
+    ],
+    "name:swe_x_preferred":[
+        "Nolvik"
+    ],
+    "name:unk_x_variant":[
+        "Nohlvik"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2689498,
+    "qs_pg:gn_pop":987,
+    "qs_pg:name":"Nolvik",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":575664,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688411,
+        102191581,
+        1125326127,
+        85633789,
+        1159302989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2689498,
+        "qs_pg:id":575664,
+        "wd:id":"Q2898648"
+    },
+    "wof:country":"SE",
+    "wof:created":1497293512,
+    "wof:geomhash":"6ca074b3a70aecc04ff135b424d52af4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302989,
+            "localadmin_id":1125326127,
+            "locality_id":1125853493,
+            "region_id":85688411
+        }
+    ],
+    "wof:id":1125853493,
+    "wof:lastmodified":1529702250,
+    "wof:name":"Nolvik",
+    "wof:parent_id":1125326127,
+    "wof:placetype":"locality",
+    "wof:population":987,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.81667,
+    57.78333,
+    11.81667,
+    57.78333
+],
+  "geometry": {"coordinates":[11.81667,57.78333],"type":"Point"}
+}

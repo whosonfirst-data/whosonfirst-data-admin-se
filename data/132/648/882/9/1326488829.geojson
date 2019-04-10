@@ -1,0 +1,70 @@
+{
+  "id": 1326488829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.21667,59.33333,13.21667,59.33333",
+    "geom:latitude":59.33333,
+    "geom:longitude":13.21667,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1780.0",
+    "gn:asciiname":"Karterud",
+    "gn:country_code":"SE",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2701401,
+    "gn:latitude":59.33333,
+    "gn:longitude":13.21667,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Karterud",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688435,
+        102191581,
+        1159305793,
+        85633789,
+        1159303443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2701401
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"a824ff116bdc894e3e7df406b0e4d189",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303443,
+            "localadmin_id":1159305793,
+            "locality_id":1326488829,
+            "region_id":85688435
+        }
+    ],
+    "wof:id":1326488829,
+    "wof:lastmodified":1537044845,
+    "wof:name":"Karterud",
+    "wof:parent_id":1159305793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.21667,
+    59.33333,
+    13.21667,
+    59.33333
+],
+  "geometry": {"coordinates":[13.21667,59.33333],"type":"Point"}
+}

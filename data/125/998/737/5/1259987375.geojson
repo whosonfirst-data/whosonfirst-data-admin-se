@@ -1,0 +1,77 @@
+{
+  "id": 1259987375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.71667,56.4,15.71667,56.4",
+    "geom:latitude":56.4,
+    "geom:longitude":15.71667,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"1080.0",
+    "gn:asciiname":"Rorsmala",
+    "gn:country_code":"SE",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2681697,
+    "gn:latitude":56.4,
+    "gn:longitude":15.71667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"R\u00f6rsm\u00e5la",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "R\u00f6rsm\u00e5la"
+    ],
+    "name:nor_x_variant":[
+        "R\u00f8rsm\u00e5la"
+    ],
+    "name:und_x_variant":[
+        "R\u00f6rsm\u00e5la"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688383,
+        1159307097,
+        1159303467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2681697
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"c418d6f72bb1bf6341576579412855bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "county_id":1159303467,
+            "localadmin_id":1159307097,
+            "locality_id":1259987375,
+            "region_id":85688383
+        }
+    ],
+    "wof:id":1259987375,
+    "wof:lastmodified":1537699859,
+    "wof:name":"Rorsmala",
+    "wof:parent_id":1159307097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.71667,
+    56.4,
+    15.71667,
+    56.4
+],
+  "geometry": {"coordinates":[15.71667,56.4],"type":"Point"}
+}

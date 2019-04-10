@@ -1,0 +1,62 @@
+{
+  "id": 1209562355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.11667,58.51667,12.11667,58.51667",
+    "geom:latitude":58.51667,
+    "geom:longitude":12.11667,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"1487.0",
+    "gn:asciiname":"Vastra Bodane",
+    "gn:country_code":"SE",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2664123,
+    "gn:latitude":58.51667,
+    "gn:longitude":12.11667,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"V\u00e4stra Bodane",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2664123
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"b66f69d144927ce0660325da1d576549",
+    "wof:hierarchy":[
+        {
+            "country_id":85633789,
+            "locality_id":1209562355
+        }
+    ],
+    "wof:id":1209562355,
+    "wof:lastmodified":1536283348,
+    "wof:name":"Vastra Bodane",
+    "wof:parent_id":85633789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.11667,
+    58.51667,
+    12.11667,
+    58.51667
+],
+  "geometry": {"coordinates":[12.11667,58.51667],"type":"Point"}
+}

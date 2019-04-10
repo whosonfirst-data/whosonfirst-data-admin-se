@@ -1,0 +1,130 @@
+{
+  "id": 101839539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000484,
+    "geom:area_square_m":2783100.588912,
+    "geom:bbox":"17.3457944088,62.2547245298,17.3945209834,62.2828581747",
+    "geom:latitude":62.269427,
+    "geom:longitude":17.374359,
+    "gn:population":1959,
+    "iso:country":"SE",
+    "lbl:latitude":62.27148,
+    "lbl:longitude":17.37399,
+    "mps:latitude":62.27148,
+    "mps:longitude":17.37399,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Njurundabommen"
+    ],
+    "name:dut_x_preferred":[
+        "Njurundabommen"
+    ],
+    "name:eng_x_preferred":[
+        "Njurundabommen"
+    ],
+    "name:ger_x_preferred":[
+        "Njurundabommen"
+    ],
+    "name:nan_x_preferred":[
+        "Njurundabommen"
+    ],
+    "name:nld_x_preferred":[
+        "Njurundabommen"
+    ],
+    "name:nno_x_preferred":[
+        "Njurundabommen"
+    ],
+    "name:nob_x_preferred":[
+        "Njurundabommen"
+    ],
+    "name:nor_x_preferred":[
+        "Njurundabommen"
+    ],
+    "name:swe_x_preferred":[
+        "Njurunda",
+        "Njurundabommen"
+    ],
+    "name:swe_x_variant":[
+        "Njurundas"
+    ],
+    "name:unk_x_variant":[
+        "Njurunda"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Njurundabommen"
+    ],
+    "qs:a0":"Sverige",
+    "qs:a1":"*V\u00e4sternorrlands l\u00e4n",
+    "qs:a1r":"0",
+    "qs:adm0":"Sverige",
+    "qs:la":"Sundsvall",
+    "qs:la_lc":"*SE2281",
+    "qs:level":"locality",
+    "qs:loc":"Njurundabommen",
+    "qs:loc_alt":"Njurundabommen",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":45,
+    "wof:belongsto":[
+        85688457,
+        102191581,
+        1125409973,
+        85633789,
+        1159303427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06c6a018-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2689580,
+        "gp:id":899386,
+        "qs:id":229195,
+        "qs_pg:id":229195,
+        "wd:id":"Q2223613",
+        "wk:page":"Njurundabommen"
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"df5b41c0514da220b5e51705d3470a6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303427,
+            "localadmin_id":1125409973,
+            "locality_id":101839539,
+            "region_id":85688457
+        }
+    ],
+    "wof:id":101839539,
+    "wof:lang":[
+        "swe"
+    ],
+    "wof:lastmodified":1529702998,
+    "wof:name":"Njurundabommen",
+    "wof:parent_id":1125409973,
+    "wof:placetype":"locality",
+    "wof:population":1959,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.34579440875757,
+    62.25472452982314,
+    17.39452098341968,
+    62.28285817470089
+],
+  "geometry": {"coordinates":[[[17.38452429769603,62.27800413713021],[17.38079512648505,62.27818861343133],[17.3795061421734,62.2728173204755],[17.38713599042313,62.2724399424128],[17.38735100346202,62.27333514526032],[17.38807752803336,62.27329918703867],[17.39234176073006,62.26765277515074],[17.3879683014365,62.26786954049027],[17.38710845962879,62.26428874562805],[17.39282922597835,62.26400546755809],[17.39261413783225,62.26311027841626],[17.39452098341968,62.26301580695838],[17.39387564130482,62.26033024959969],[17.39196895906144,62.26042471183257],[17.39175392802167,62.25952952325184],[17.38984728918592,62.25962395815941],[17.39006226578311,62.26051914981389],[17.38052863397098,62.26099097593698],[17.3790260026181,62.25472452982314],[17.37521323488721,62.25491304754848],[17.37542774491084,62.25580825984707],[17.3716148242998,62.25599668671191],[17.37204366932042,62.25778712399978],[17.37585680767376,62.25759868486972],[17.37671510410007,62.26117953661657],[17.3748083226443,62.26127378057623],[17.37523744741787,62.26306421343651],[17.37333054603761,62.26315843927659],[17.37375961886539,62.2649488788407],[17.36994556521574,62.26513727002015],[17.37037447713169,62.26692772242069],[17.36465298726296,62.26721014564771],[17.36486730113825,62.26810538125801],[17.34579440875757,62.26904524570296],[17.34615583411494,62.27055874751358],[17.35133803622256,62.27239544109517],[17.35809480198208,62.27206261105817],[17.35880783982401,62.27504291412794],[17.36255677452232,62.27637162423133],[17.36488903631687,62.27625663140947],[17.36513546647188,62.27728557294535],[17.3670437526323,62.27796191417445],[17.3748569404874,62.27757622241677],[17.37550109178449,62.28026189802671],[17.37377379707243,62.28034719926546],[17.38085847484575,62.28285817470089],[17.38452429769603,62.27800413713021]]],"type":"Polygon"}
+}

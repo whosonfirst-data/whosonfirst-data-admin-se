@@ -1,0 +1,86 @@
+{
+  "id": 1125837481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.35,64.1,19.35,64.1",
+    "geom:latitude":64.1,
+    "geom:longitude":19.35,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":557,
+    "gn:population":557,
+    "iso:country":"SE",
+    "lbl:latitude":64.1,
+    "lbl:longitude":19.35,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:nor_x_preferred":[
+        "Sunnansj\u00f8"
+    ],
+    "name:nor_x_variant":[
+        "Sunnansj\u00f6"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2670725,
+    "qs_pg:gn_pop":557,
+    "qs_pg:name":"Sunnansj\u00f6",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":575620,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688465,
+        102191581,
+        1125270361,
+        85633789,
+        1159303511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2670725,
+        "qs_pg:id":575620
+    },
+    "wof:country":"SE",
+    "wof:created":1497292778,
+    "wof:geomhash":"6c7516862da3ca11ee664457aeb9e6a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303511,
+            "localadmin_id":1125270361,
+            "locality_id":1125837481,
+            "region_id":85688465
+        }
+    ],
+    "wof:id":1125837481,
+    "wof:lastmodified":1529702981,
+    "wof:name":"Sunnansj\u00f6",
+    "wof:parent_id":1125270361,
+    "wof:placetype":"locality",
+    "wof:population":557,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.35,
+    64.1,
+    19.35,
+    64.1
+],
+  "geometry": {"coordinates":[19.35,64.09999999999999],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1125358237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-05-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.01005,59.56046,17.01005,59.56046",
+    "geom:latitude":59.56046,
+    "geom:longitude":17.01005,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1128,
+    "gn:population":1128,
+    "iso:country":"SE",
+    "lbl:latitude":59.56046,
+    "lbl:longitude":17.01005,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8132370,
+    "qs_pg:gn_pop":1128,
+    "qs_pg:name":"S\u00f6dra \u00c5sunda",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":758091,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633789,
+        85688439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8132370,
+        "qs_pg:id":758091
+    },
+    "wof:country":"SE",
+    "wof:created":1497046616,
+    "wof:geomhash":"086b68e41cab1b79d93c81861b5783b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "localadmin_id":1125358237,
+            "region_id":85688439
+        }
+    ],
+    "wof:id":1125358237,
+    "wof:lastmodified":1525735523,
+    "wof:name":"S\u00f6dra \u00c5sunda",
+    "wof:parent_id":85688439,
+    "wof:placetype":"localadmin",
+    "wof:population":1128,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.01005,
+    59.56046,
+    17.01005,
+    59.56046
+],
+  "geometry": {"coordinates":[17.01005,59.56046],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1343937257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.76667,56.96667,15.76667,56.96667",
+    "geom:latitude":56.96667,
+    "geom:longitude":15.76667,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"760.0",
+    "gn:asciiname":"Froseke",
+    "gn:country_code":"SE",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2713593,
+    "gn:latitude":56.96667,
+    "gn:longitude":15.76667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Fr\u00f6seke",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Fr\u00f6seke"
+    ],
+    "name:nor_x_variant":[
+        "Fr\u00f8seke"
+    ],
+    "name:und_x_variant":[
+        "Fr\u00f6seke"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688387,
+        102191581,
+        1125340609,
+        85633789,
+        1159303333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2713593
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"a199390fa9c3523438cefdb8d890f867",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303333,
+            "localadmin_id":1125340609,
+            "locality_id":1343937257,
+            "region_id":85688387
+        }
+    ],
+    "wof:id":1343937257,
+    "wof:lastmodified":1537700075,
+    "wof:name":"Froseke",
+    "wof:parent_id":1125340609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.76667,
+    56.96666999999999,
+    15.76667,
+    56.96666999999999
+],
+  "geometry": {"coordinates":[15.76667,56.96666999999999],"type":"Point"}
+}

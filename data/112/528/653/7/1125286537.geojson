@@ -1,0 +1,95 @@
+{
+  "id": 1125286537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000094,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.0740056638,59.3305419934,18.0888256241,59.3431171342",
+    "geom:latitude":59.337215,
+    "geom:longitude":18.080996,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":10566,
+    "gn:population":10566,
+    "iso:country":"SE",
+    "lbl:latitude":59.336819,
+    "lbl:longitude":18.080378,
+    "mps:latitude":59.336819,
+    "mps:longitude":18.080378,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Stockholms Hedvig Eleonora"
+    ],
+    "name:swe_x_preferred":[
+        "Stockholms Hedvig Eleonora"
+    ],
+    "name:swe_x_variant":[
+        "Hedvig Eleonora"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8131721,
+    "qs_pg:gn_pop":10566,
+    "qs_pg:name":"Hedvig Eleonora",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":757681,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "se-lant:distrkod":215026,
+    "se-lant:distrnamn":"Stockholms Hedvig Eleonora",
+    "se-lant:gallerfran":"2016/01/01",
+    "src:geom":"se-lant",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633789,
+        85688429,
+        1159303035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8131721,
+        "qs_pg:id":757681
+    },
+    "wof:country":"SE",
+    "wof:created":1497042726,
+    "wof:geomhash":"3860b833fb93441689217374931a2b57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303035,
+            "localadmin_id":1125286537,
+            "region_id":85688429
+        }
+    ],
+    "wof:id":1125286537,
+    "wof:lastmodified":1529702736,
+    "wof:name":"Stockholms Hedvig Eleonora",
+    "wof:parent_id":1159303035,
+    "wof:placetype":"localadmin",
+    "wof:population":10566,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.07400566377288,
+    59.33054199340169,
+    18.08882562411132,
+    59.34311713421422
+],
+  "geometry": {"coordinates":[[[[18.07400566377288,59.33474170005873],[18.0745449647715,59.33489135678671],[18.07653520100704,59.33648603998845],[18.0752474264049,59.33675014586062],[18.07630880039107,59.33802104221009],[18.07645266342682,59.33806142350915],[18.07829044326461,59.34041264726061],[18.08040517529811,59.34311713421422],[18.0806220151973,59.34305646249088],[18.08335304488171,59.34238481333803],[18.08543119383429,59.34189305197484],[18.08882562411132,59.34104473889332],[18.08765732375907,59.3397166599367],[18.08663914088901,59.33846480599234],[18.08547916835407,59.33700704583232],[18.08383104921301,59.33494182028419],[18.08196228797187,59.33255349768914],[18.08093688630106,59.33121863854781],[18.08041714016341,59.33054199340169],[18.07725489468899,59.33171295697635],[18.07679844331798,59.33214982837897],[18.07521980816765,59.33366064756355],[18.07400566377288,59.33474170005873]]]],"type":"MultiPolygon"}
+}

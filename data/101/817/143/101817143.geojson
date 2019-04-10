@@ -1,0 +1,132 @@
+{
+  "id": 101817143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00022,
+    "geom:area_square_m":1452669.79609,
+    "geom:bbox":"12.4830294321,57.6466099582,12.5168339838,57.6617891912",
+    "geom:latitude":57.655088,
+    "geom:longitude":12.497232,
+    "gn:population":1345,
+    "iso:country":"SE",
+    "lbl:latitude":57.655612,
+    "lbl:longitude":12.497232,
+    "mps:latitude":57.655612,
+    "mps:longitude":12.497232,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "R\u00e4vlanda"
+    ],
+    "name:eng_x_preferred":[
+        "R\u00e4vlanda"
+    ],
+    "name:fre_x_preferred":[
+        "R\u00e4vlanda"
+    ],
+    "name:nan_x_preferred":[
+        "R\u00e4vlanda"
+    ],
+    "name:nld_x_preferred":[
+        "R\u00e4vlanda"
+    ],
+    "name:nno_x_preferred":[
+        "R\u00e4vlanda"
+    ],
+    "name:nob_x_preferred":[
+        "R\u00e4vlanda"
+    ],
+    "name:nor_x_preferred":[
+        "R\u00e4vlanda"
+    ],
+    "name:sco_x_preferred":[
+        "R\u00e4vlanda"
+    ],
+    "name:swe_x_colloquial":[
+        "Raevlanda",
+        "Raevlandas",
+        "Ravlanda",
+        "Ravlandas"
+    ],
+    "name:swe_x_preferred":[
+        "R\u00e4vlanda"
+    ],
+    "name:swe_x_variant":[
+        "R\u00e4vlandas"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "R\u00e4vlanda"
+    ],
+    "qs:a0":"Sverige",
+    "qs:a1":"*V\u00e4stra G\u00f6talands l\u00e4n",
+    "qs:a1r":"0",
+    "qs:adm0":"Sverige",
+    "qs:la":"H\u00e4rryda",
+    "qs:la_lc":"*SE1401",
+    "qs:level":"locality",
+    "qs:loc":"R\u00e4vlanda",
+    "qs:loc_alt":"Ravlanda",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":47,
+    "wof:belongsto":[
+        85688411,
+        102191581,
+        1125372971,
+        85633789,
+        1159303259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06d1af44-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2682913,
+        "gp:id":20151524,
+        "qs:id":955650,
+        "qs_pg:id":955650,
+        "wd:id":"Q2145009",
+        "wk:page":"R\u00e4vlanda"
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"d6b90d045ef738c9525a03ac451dac86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303259,
+            "localadmin_id":1125372971,
+            "locality_id":101817143,
+            "region_id":85688411
+        }
+    ],
+    "wof:id":101817143,
+    "wof:lang":[
+        "swe"
+    ],
+    "wof:lastmodified":1529702227,
+    "wof:name":"R\u00e4vlanda",
+    "wof:parent_id":1125372971,
+    "wof:placetype":"locality",
+    "wof:population":1345,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.48302943209904,
+    57.64660995816041,
+    12.51683398379259,
+    57.66178919123001
+],
+  "geometry": {"coordinates":[[[12.50525125540656,57.66175770654723],[12.50512936236692,57.65996082097996],[12.51683398379259,57.65973985207529],[12.51677275837778,57.65884141569006],[12.51342867540654,57.65890465296911],[12.51336753468473,57.65800621503638],[12.51169552976603,57.65803780128908],[12.51163443314067,57.65713936268276],[12.50661852408172,57.657233992773],[12.50649658485611,57.65543711093073],[12.50482469098972,57.65546861053741],[12.50452010704356,57.65097640505456],[12.49616161210594,57.65113356627887],[12.49597951220545,57.6484382323552],[12.49765109481751,57.64840684471926],[12.49752963117606,57.64660995816041],[12.49251511873575,57.64670405286415],[12.49263633900193,57.64850094461673],[12.49096474841406,57.64853226924225],[12.49102532319853,57.64943071628045],[12.48768205292617,57.64949330424815],[12.48786355471077,57.65218865173631],[12.48452003039984,57.6522511608627],[12.48470131996669,57.65494651531537],[12.48302943209904,57.65497774095508],[12.48308982830849,57.65587619369927],[12.48810560571189,57.65578245116876],[12.48822665205535,57.65757935207824],[12.48989865372562,57.65754806082384],[12.49008037107842,57.66024341108914],[12.49509672547782,57.66014940348424],[12.4951574266741,57.66104785137526],[12.49682958008287,57.6610164726186],[12.49676883828994,57.66011802559387],[12.50345726288867,57.65999230392418],[12.50357907473636,57.66178919123001],[12.50525125540656,57.66175770654723]]],"type":"Polygon"}
+}

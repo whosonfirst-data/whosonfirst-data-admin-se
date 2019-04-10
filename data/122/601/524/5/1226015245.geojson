@@ -1,0 +1,69 @@
+{
+  "id": 1226015245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.0,65.01667,21.0,65.01667",
+    "geom:latitude":65.01667,
+    "geom:longitude":21.0,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Skogfors",
+    "gn:country_code":"SE",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":602905,
+    "gn:latitude":65.01667,
+    "gn:longitude":21.0,
+    "gn:modification_date":"1994-01-14",
+    "gn:name":"Skogfors",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688465,
+        102191581,
+        1125325361,
+        85633789,
+        1159303205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":602905
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"3549af36ccd4b9b89febe58c7defa39d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303205,
+            "localadmin_id":1125325361,
+            "locality_id":1226015245,
+            "region_id":85688465
+        }
+    ],
+    "wof:id":1226015245,
+    "wof:lastmodified":1536769779,
+    "wof:name":"Skogfors",
+    "wof:parent_id":1125325361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.0,
+    65.01666999999999,
+    21.0,
+    65.01666999999999
+],
+  "geometry": {"coordinates":[21.0,65.01666999999999],"type":"Point"}
+}

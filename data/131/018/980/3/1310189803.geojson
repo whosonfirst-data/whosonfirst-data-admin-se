@@ -1,0 +1,78 @@
+{
+  "id": 1310189803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.48333,57.0,13.48333,57.0",
+    "geom:latitude":57.0,
+    "geom:longitude":13.48333,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Bokhult",
+    "gn:country_code":"SE",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2720810,
+    "gn:latitude":57.0,
+    "gn:longitude":13.48333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"B\u00f6khult",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "B\u00f6khult"
+    ],
+    "name:nor_x_variant":[
+        "B\u00f8khult"
+    ],
+    "name:und_x_variant":[
+        "B\u00f6khult"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688391,
+        102191581,
+        1125421421,
+        85633789,
+        1159303485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2720810
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"1f27f022a082dd254335430cfb93c5a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303485,
+            "localadmin_id":1125421421,
+            "locality_id":1310189803,
+            "region_id":85688391
+        }
+    ],
+    "wof:id":1310189803,
+    "wof:lastmodified":1537700112,
+    "wof:name":"Bokhult",
+    "wof:parent_id":1125421421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.48333,
+    57.0,
+    13.48333,
+    57.0
+],
+  "geometry": {"coordinates":[13.48333,57.0],"type":"Point"}
+}

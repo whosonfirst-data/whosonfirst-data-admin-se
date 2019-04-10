@@ -1,0 +1,70 @@
+{
+  "id": 1209871623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.45,63.25,18.45,63.25",
+    "geom:latitude":63.25,
+    "geom:longitude":18.45,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2284.0",
+    "gn:asciiname":"Fors",
+    "gn:country_code":"SE",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2714045,
+    "gn:latitude":63.25,
+    "gn:longitude":18.45,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Fors",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688457,
+        102191581,
+        1125417545,
+        85633789,
+        1159303463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2714045
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"d1d8ea742631377329f550e22233c9ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303463,
+            "localadmin_id":1125417545,
+            "locality_id":1209871623,
+            "region_id":85688457
+        }
+    ],
+    "wof:id":1209871623,
+    "wof:lastmodified":1536372998,
+    "wof:name":"Fors",
+    "wof:parent_id":1125417545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.45,
+    63.25,
+    18.45,
+    63.25
+],
+  "geometry": {"coordinates":[18.45,63.25],"type":"Point"}
+}

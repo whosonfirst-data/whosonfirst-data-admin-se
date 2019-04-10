@@ -1,0 +1,99 @@
+{
+  "id": 1125902407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.33,59.26,15.33,59.26",
+    "geom:latitude":59.26,
+    "geom:longitude":15.33,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":873,
+    "gn:population":1531,
+    "iso:country":"SE",
+    "lbl:latitude":59.26,
+    "lbl:longitude":15.33,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Ekeby-Almby"
+    ],
+    "name:eng_x_preferred":[
+        "Ekeby-Almby"
+    ],
+    "name:nan_x_preferred":[
+        "Ekeby-Almby"
+    ],
+    "name:nno_x_preferred":[
+        "Ekeby-Almby"
+    ],
+    "name:nob_x_preferred":[
+        "Ekeby-Almby"
+    ],
+    "name:swe_x_preferred":[
+        "Ekeby-Almby"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2716663,
+    "qs_pg:gn_pop":873,
+    "qs_pg:name":"Ekeby-Almby",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":575729,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688421,
+        102191581,
+        1125356477,
+        85633789,
+        1159303031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2716663,
+        "qs_pg:id":575729,
+        "wd:id":"Q2912955"
+    },
+    "wof:country":"SE",
+    "wof:created":1497295862,
+    "wof:geomhash":"8bf583e54d8bdc45e8840057f2ae8bc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303031,
+            "localadmin_id":1125356477,
+            "locality_id":1125902407,
+            "region_id":85688421
+        }
+    ],
+    "wof:id":1125902407,
+    "wof:lastmodified":1529703061,
+    "wof:name":"Ekeby-Almby",
+    "wof:parent_id":1125356477,
+    "wof:placetype":"locality",
+    "wof:population":1531,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.33,
+    59.26,
+    15.33,
+    59.26
+],
+  "geometry": {"coordinates":[15.33,59.26],"type":"Point"}
+}

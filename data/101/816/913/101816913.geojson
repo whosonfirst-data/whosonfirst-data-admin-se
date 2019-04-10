@@ -1,0 +1,135 @@
+{
+  "id": 101816913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000166,
+    "geom:area_square_m":1114495.166598,
+    "geom:bbox":"16.4425418447,57.1554240889,16.4661354634,57.1725852863",
+    "geom:latitude":57.164507,
+    "geom:longitude":16.457085,
+    "gn:population":1077,
+    "iso:country":"SE",
+    "lbl:latitude":57.165397,
+    "lbl:longitude":16.457889,
+    "mps:latitude":57.165397,
+    "mps:longitude":16.457889,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "P\u00e5skallavik"
+    ],
+    "name:eng_x_preferred":[
+        "P\u00e5skallavik"
+    ],
+    "name:fin_x_preferred":[
+        "P\u00e5skallavik"
+    ],
+    "name:ita_x_preferred":[
+        "P\u00e5skallavik"
+    ],
+    "name:nan_x_preferred":[
+        "P\u00e5skallavik"
+    ],
+    "name:nld_x_preferred":[
+        "P\u00e5skallavik"
+    ],
+    "name:nno_x_preferred":[
+        "P\u00e5skallavik"
+    ],
+    "name:nob_x_preferred":[
+        "P\u00e5skallavik"
+    ],
+    "name:nor_x_preferred":[
+        "P\u00e5skallavik"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u043d-\u0424\u0430-\u041b\u0438\u043d"
+    ],
+    "name:swe_x_colloquial":[
+        "Paaskallavik",
+        "Paaskallaviks",
+        "Paskallavik",
+        "Paskallaviks"
+    ],
+    "name:swe_x_preferred":[
+        "P\u00e5skallavik"
+    ],
+    "name:swe_x_variant":[
+        "P\u00e5skallaviks"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "P\u00e5skallavik"
+    ],
+    "qs:a0":"Sverige",
+    "qs:a1":"*Kalmar l\u00e4n",
+    "qs:a1r":"0",
+    "qs:adm0":"Sverige",
+    "qs:la":"Oskarshamn",
+    "qs:la_lc":"*SE0882",
+    "qs:level":"locality",
+    "qs:loc":"P\u00e5skallavik",
+    "qs:loc_alt":"Paskallavik",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":45,
+    "wof:belongsto":[
+        85688401,
+        102191581,
+        1125340199,
+        85633789,
+        1159303119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06d10968-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2684386,
+        "gp:id":901747,
+        "qs:id":999683,
+        "qs_pg:id":999683,
+        "wd:id":"Q2443421",
+        "wk:page":"P\u00e5skallavik"
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"bc30ba4c1b4257e0235bb0a4b6e92d29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303119,
+            "localadmin_id":1125340199,
+            "locality_id":101816913,
+            "region_id":85688401
+        }
+    ],
+    "wof:id":101816913,
+    "wof:lang":[
+        "swe"
+    ],
+    "wof:lastmodified":1554166220,
+    "wof:name":"P\u00e5skallavik",
+    "wof:parent_id":1125340199,
+    "wof:placetype":"locality",
+    "wof:population":1077,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.44254184468969,
+    57.15542408885017,
+    16.46613546344935,
+    57.17258528625393
+],
+  "geometry": {"coordinates":[[[16.4633610956248,57.17152855406579],[16.46258965255186,57.16705509267013],[16.4642346279133,57.16697405497268],[16.46361747504756,57.16339529397902],[16.46526228888189,57.16331424449174],[16.46449084981492,57.15884080339612],[16.46613546344935,57.15875974431293],[16.46598116300618,57.15786505817675],[16.4610474183429,57.158108167195],[16.46058491749994,57.15542408885017],[16.45729595349604,57.1555860456304],[16.45745003435235,57.15648074282677],[16.45909455836835,57.15639977252306],[16.45986528642572,57.16087324701965],[16.4549311138681,57.16111612910834],[16.45477706702985,57.16022142771357],[16.44984295104365,57.16046411824829],[16.44999688173408,57.1613588262054],[16.44835212445776,57.16143968412774],[16.44896777907286,57.16501852435209],[16.44403300288695,57.16526100101498],[16.44418682203815,57.16615571754164],[16.44254184468969,57.16623650416545],[16.44269563377674,57.16713122284256],[16.45256563105471,57.1666461816103],[16.45287370004121,57.16843559262378],[16.45451875389222,57.1683546760874],[16.45498103869767,57.17103878577979],[16.45991650913606,57.17079589310794],[16.46022497488485,57.17258528625393],[16.46187019592264,57.17250427652664],[16.46171591995994,57.17160958216255],[16.4633610956248,57.17152855406579]]],"type":"Polygon"}
+}

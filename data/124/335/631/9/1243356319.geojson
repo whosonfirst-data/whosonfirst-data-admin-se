@@ -1,0 +1,76 @@
+{
+  "id": 1243356319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.13429,57.48984,18.13429,57.48984",
+    "geom:latitude":57.48984,
+    "geom:longitude":18.13429,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"980.0",
+    "gn:admin3_code":"98055.0",
+    "gn:admin4_code":"970.0",
+    "gn:asciiname":"Tofta",
+    "gn:country_code":"SE",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8714332,
+    "gn:latitude":57.48984,
+    "gn:longitude":18.13429,
+    "gn:modification_date":"2017-03-19",
+    "gn:name":"Tofta",
+    "gn:population":627,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688405,
+        102191581,
+        1159305801,
+        85633789,
+        1159303535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8714332,
+        "wk:page":"Tofta_%28Gotland%29"
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"79303e0f7c552dba10729b4b42f27b0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303535,
+            "localadmin_id":1159305801,
+            "locality_id":1243356319,
+            "region_id":85688405
+        }
+    ],
+    "wof:id":1243356319,
+    "wof:lastmodified":1537573378,
+    "wof:name":"Tofta",
+    "wof:parent_id":1159305801,
+    "wof:placetype":"locality",
+    "wof:population":627,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.13429,
+    57.48984,
+    18.13429,
+    57.48984
+],
+  "geometry": {"coordinates":[18.13429,57.48984],"type":"Point"}
+}

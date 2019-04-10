@@ -1,0 +1,79 @@
+{
+  "id": 1293791657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.11667,56.26667,15.11667,56.26667",
+    "geom:latitude":56.26667,
+    "geom:longitude":15.11667,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"1081.0",
+    "gn:asciiname":"Rodby",
+    "gn:cc2":"SE",
+    "gn:country_code":"SE",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2682163,
+    "gn:latitude":56.26667,
+    "gn:longitude":15.11667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"R\u00f6dby",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "R\u00f6dby"
+    ],
+    "name:nor_x_variant":[
+        "R\u00f8dby"
+    ],
+    "name:und_x_variant":[
+        "R\u00f6aby",
+        "R\u00f6dby"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688383,
+        1125358293,
+        1159303551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2682163
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"fa71453d376b105cfea4b86d0626bf70",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "county_id":1159303551,
+            "localadmin_id":1125358293,
+            "locality_id":1293791657,
+            "region_id":85688383
+        }
+    ],
+    "wof:id":1293791657,
+    "wof:lastmodified":1537699866,
+    "wof:name":"Rodby",
+    "wof:parent_id":1125358293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.11667,
+    56.26667,
+    15.11667,
+    56.26667
+],
+  "geometry": {"coordinates":[15.11667,56.26667],"type":"Point"}
+}

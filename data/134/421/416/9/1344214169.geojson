@@ -1,0 +1,70 @@
+{
+  "id": 1344214169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.88333,59.8,15.88333,59.8",
+    "geom:latitude":59.8,
+    "geom:longitude":15.88333,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1904.0",
+    "gn:asciiname":"Flena",
+    "gn:country_code":"SE",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2714399,
+    "gn:latitude":59.8,
+    "gn:longitude":15.88333,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Flena",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688425,
+        102191581,
+        1159307317,
+        85633789,
+        1159302929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2714399
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"72ace24e5577524e911082c1395212ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302929,
+            "localadmin_id":1159307317,
+            "locality_id":1344214169,
+            "region_id":85688425
+        }
+    ],
+    "wof:id":1344214169,
+    "wof:lastmodified":1536653907,
+    "wof:name":"Flena",
+    "wof:parent_id":1159307317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.88333,
+    59.8,
+    15.88333,
+    59.8
+],
+  "geometry": {"coordinates":[15.88333,59.8],"type":"Point"}
+}

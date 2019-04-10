@@ -1,0 +1,72 @@
+{
+  "id": 1259758517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.55863,59.43364,16.55863,59.43364",
+    "geom:latitude":59.43364,
+    "geom:longitude":16.55863,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"484.0",
+    "gn:admin3_code":"48421.0",
+    "gn:admin4_code":"384.0",
+    "gn:asciiname":"Hyggby",
+    "gn:country_code":"SE",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2704066,
+    "gn:latitude":59.43364,
+    "gn:longitude":16.55863,
+    "gn:modification_date":"2014-09-23",
+    "gn:name":"Hyggby",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688419,
+        102191581,
+        1125356171,
+        85633789,
+        1159303207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2704066
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"2a79cbd877326d7e30f9a37b0db9a0fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303207,
+            "localadmin_id":1125356171,
+            "locality_id":1259758517,
+            "region_id":85688419
+        }
+    ],
+    "wof:id":1259758517,
+    "wof:lastmodified":1536959126,
+    "wof:name":"Hyggby",
+    "wof:parent_id":1125356171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.55862999999999,
+    59.43364,
+    16.55862999999999,
+    59.43364
+],
+  "geometry": {"coordinates":[16.55862999999999,59.43364],"type":"Point"}
+}

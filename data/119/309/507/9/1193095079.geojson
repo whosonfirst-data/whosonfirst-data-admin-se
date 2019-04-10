@@ -1,0 +1,79 @@
+{
+  "id": 1193095079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.96667,65.73333,14.96667,65.73333",
+    "geom:latitude":65.73333,
+    "geom:longitude":14.96667,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"2421.0",
+    "gn:asciiname":"Joestrom",
+    "gn:country_code":"SE",
+    "gn:dem":517,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2703046,
+    "gn:latitude":65.73333,
+    "gn:longitude":14.96667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Joestr\u00f6m",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Joestr\u00f6m"
+    ],
+    "name:nor_x_variant":[
+        "Joestr\u00f8m"
+    ],
+    "name:und_x_variant":[
+        "Joestr\u00f6m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688465,
+        102191581,
+        1125417057,
+        85633789,
+        1159303007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2703046
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"765e957c61f5d5d1d628aa217d3210e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303007,
+            "localadmin_id":1125417057,
+            "locality_id":1193095079,
+            "region_id":85688465
+        }
+    ],
+    "wof:id":1193095079,
+    "wof:lastmodified":1537700008,
+    "wof:name":"Joestrom",
+    "wof:parent_id":1125417057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.96667,
+    65.73333000000001,
+    14.96667,
+    65.73333000000001
+],
+  "geometry": {"coordinates":[14.96667,65.73333000000001],"type":"Point"}
+}

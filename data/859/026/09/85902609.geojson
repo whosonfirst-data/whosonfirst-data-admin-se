@@ -1,0 +1,111 @@
+{
+  "id": 85902609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000088,
+    "geom:area_square_m":557047.09704,
+    "geom:bbox":"17.8396775602,59.3756613789,17.8534957722,59.3840928401",
+    "geom:latitude":59.38013,
+    "geom:longitude":17.846684,
+    "gn:latitude":59.38333,
+    "gn:longitude":17.85,
+    "iso:country":"SE",
+    "lbl:latitude":59.375391,
+    "lbl:longitude":17.848044,
+    "mps:latitude":59.3798,
+    "mps:longitude":17.846553,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":1,
+    "name:swe_x_preferred":[
+        "Vinsta"
+    ],
+    "name:unk_x_variant":[
+        "Vinsta"
+    ],
+    "qs:gn_adm0_cc":"SE",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2673730,
+    "qs:gn_namadm1":"26",
+    "qs:gn_name":"Vinsta",
+    "qs:local_max":47943,
+    "qs:local_sum":372692,
+    "qs:localhoods":300,
+    "qs:name":"Vinsta",
+    "qs:name_adm0":"Sverige",
+    "qs:name_adm1":"Stockholms L\u00e4n",
+    "qs:name_adm2":"Stockholm Kommun",
+    "qs:name_local":"Stockholm",
+    "qs:photo_max":150,
+    "qs:photo_sum":180,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":4,
+    "qs:woe_adm0":23424954,
+    "qs:woe_adm1":2347067,
+    "qs:woe_adm2":12587478,
+    "qs:woe_lau":0,
+    "qs:woe_local":906057,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        85688429,
+        102191581,
+        1125362217,
+        85633789,
+        101752307,
+        1159303035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2662777,
+        "gp:id":910060,
+        "qs:id":1159279,
+        "qs_pg:id":1159279
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"0ab913f0938fc7754848c99fe791170c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303035,
+            "localadmin_id":1125362217,
+            "locality_id":101752307,
+            "neighbourhood_id":85902609,
+            "region_id":85688429
+        }
+    ],
+    "wof:id":85902609,
+    "wof:lang":[
+        "swe"
+    ],
+    "wof:lastmodified":1529702797,
+    "wof:name":"Vinsta",
+    "wof:parent_id":101752307,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.83967756016676,
+    59.37566137891535,
+    17.85349577222217,
+    59.38409284005182
+],
+  "geometry": {"coordinates":[[[17.84612474727442,59.38409284005182],[17.84672988707473,59.38358362180016],[17.84729003910013,59.38358362180016],[17.84729003910013,59.38358367950006],[17.85278320310005,59.38358367950006],[17.85278320311255,59.38358362180016],[17.8527832031146,59.38078596150002],[17.85278320312091,59.38078590377528],[17.85349577222217,59.37938687162496],[17.852783232516,59.3779880126],[17.85278320310005,59.37798795485064],[17.85207051643971,59.37658880732523],[17.84839238173089,59.37658880732523],[17.84729003907506,59.37566137891535],[17.841796875,59.37720189094379],[17.84023853981341,59.37938700147522],[17.83972503604093,59.37994704410376],[17.83967756016676,59.38078590377528],[17.84005504507809,59.38300936993075],[17.84612474727442,59.38409284005182]]],"type":"Polygon"}
+}

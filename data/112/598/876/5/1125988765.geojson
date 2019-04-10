@@ -1,0 +1,102 @@
+{
+  "id": 1125988765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.96667,58.13333,14.96667,58.13333",
+    "geom:latitude":58.13333,
+    "geom:longitude":14.96667,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":789,
+    "gn:population":789,
+    "iso:country":"SE",
+    "lbl:latitude":58.13333,
+    "lbl:longitude":14.96667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Sommen"
+    ],
+    "name:eng_x_preferred":[
+        "Sommen"
+    ],
+    "name:ita_x_preferred":[
+        "Sommen"
+    ],
+    "name:nan_x_preferred":[
+        "Sommen"
+    ],
+    "name:nno_x_preferred":[
+        "Sommen i Sverige"
+    ],
+    "name:nob_x_preferred":[
+        "Sommen"
+    ],
+    "name:swe_x_preferred":[
+        "Sommen"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2675344,
+    "qs_pg:gn_pop":789,
+    "qs_pg:name":"Sommen",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":279108,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688395,
+        102191581,
+        1125325705,
+        85633789,
+        1159303319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2675344,
+        "qs_pg:id":279108,
+        "wd:id":"Q2454441"
+    },
+    "wof:country":"SE",
+    "wof:created":1497298941,
+    "wof:geomhash":"667e483f86e83db477ffd41a606e5170",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303319,
+            "localadmin_id":1125325705,
+            "locality_id":1125988765,
+            "region_id":85688395
+        }
+    ],
+    "wof:id":1125988765,
+    "wof:lastmodified":1529702449,
+    "wof:name":"Sommen",
+    "wof:parent_id":1125325705,
+    "wof:placetype":"locality",
+    "wof:population":789,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.96667,
+    58.13333,
+    14.96667,
+    58.13333
+],
+  "geometry": {"coordinates":[14.96667,58.13333],"type":"Point"}
+}

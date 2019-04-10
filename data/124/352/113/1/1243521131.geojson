@@ -1,0 +1,78 @@
+{
+  "id": 1243521131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.63667,59.46806,18.63667,59.46806",
+    "geom:latitude":59.46806,
+    "geom:longitude":18.63667,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Edo",
+    "gn:country_code":"SE",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2716889,
+    "gn:latitude":59.46806,
+    "gn:longitude":18.63667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ed\u00f6",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Ed\u00f6"
+    ],
+    "name:nor_x_variant":[
+        "Ed\u00f8"
+    ],
+    "name:und_x_variant":[
+        "Ed\u00f6"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688429,
+        102191581,
+        1125423245,
+        85633789,
+        1159303039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2716889
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"9d9621518b9be5e61a6f2523717a4bf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303039,
+            "localadmin_id":1125423245,
+            "locality_id":1243521131,
+            "region_id":85688429
+        }
+    ],
+    "wof:id":1243521131,
+    "wof:lastmodified":1537700091,
+    "wof:name":"Edo",
+    "wof:parent_id":1125423245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.63667,
+    59.46806,
+    18.63667,
+    59.46806
+],
+  "geometry": {"coordinates":[18.63667,59.46806],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276738049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.08333,58.66667,17.08333,58.66667",
+    "geom:latitude":58.66667,
+    "geom:longitude":17.08333,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"481.0",
+    "gn:asciiname":"Stenvik",
+    "gn:country_code":"SE",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3328317,
+    "gn:latitude":58.66667,
+    "gn:longitude":17.08333,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Stenvik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688419,
+        102191581,
+        1125356689,
+        85633789,
+        1159302909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3328317
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"4d80399cbf61a8c23d06fa48312a92d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302909,
+            "localadmin_id":1125356689,
+            "locality_id":1276738049,
+            "region_id":85688419
+        }
+    ],
+    "wof:id":1276738049,
+    "wof:lastmodified":1536733813,
+    "wof:name":"Stenvik",
+    "wof:parent_id":1125356689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.08333,
+    58.66667,
+    17.08333,
+    58.66667
+],
+  "geometry": {"coordinates":[17.08333,58.66667],"type":"Point"}
+}

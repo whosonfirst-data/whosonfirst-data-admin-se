@@ -1,0 +1,116 @@
+{
+  "id": 1126024813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.75,56.41667,12.75,56.41667",
+    "geom:latitude":56.41667,
+    "geom:longitude":12.75,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":556,
+    "gn:population":552,
+    "iso:country":"SE",
+    "lbl:latitude":56.41667,
+    "lbl:longitude":12.75,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "V\u00e4stra Karup"
+    ],
+    "name:eng_x_preferred":[
+        "V\u00e4stra Karup"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30f4\u30a7\u30b9\u30c8\u30e9\u30fb\u30ab\u30eb\u30c3\u30d7\u30b9"
+    ],
+    "name:nan_x_preferred":[
+        "V\u00e4stra Karup"
+    ],
+    "name:nno_x_preferred":[
+        "V\u00e4stra Karup"
+    ],
+    "name:nob_x_preferred":[
+        "V\u00e4stra Karup"
+    ],
+    "name:swe_x_preferred":[
+        "V\u00e4stra Karup"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2663957,
+    "qs_pg:gn_pop":556,
+    "qs_pg:name":"V\u00e4stra Karup",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"Sk\u00e5ne L\u00e4n",
+    "qs_pg:photos":156,
+    "qs_pg:photos_1k":32,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":156,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":315820,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":909540,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"Sk\u00e5ne L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688377,
+        102191581,
+        1125372745,
+        85633789,
+        1159302919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2663957,
+        "gp:id":909540,
+        "qs_pg:id":315820,
+        "wd:id":"Q3353724"
+    },
+    "wof:country":"SE",
+    "wof:created":1497301069,
+    "wof:geomhash":"e602b395f310fd9c014753a57319e873",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302919,
+            "localadmin_id":1125372745,
+            "locality_id":1126024813,
+            "region_id":85688377
+        }
+    ],
+    "wof:id":1126024813,
+    "wof:lastmodified":1529702679,
+    "wof:name":"V\u00e4stra Karup",
+    "wof:parent_id":1125372745,
+    "wof:placetype":"locality",
+    "wof:population":552,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.75,
+    56.41667,
+    12.75,
+    56.41667
+],
+  "geometry": {"coordinates":[12.75,56.41667],"type":"Point"}
+}

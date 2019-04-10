@@ -1,0 +1,70 @@
+{
+  "id": 1226198389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.9,65.83333,14.9,65.83333",
+    "geom:latitude":65.83333,
+    "geom:longitude":14.9,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"2421.0",
+    "gn:asciiname":"Tangvattnet",
+    "gn:country_code":"SE",
+    "gn:dem":475,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2669462,
+    "gn:latitude":65.83333,
+    "gn:longitude":14.9,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"T\u00e4ngvattnet",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688465,
+        102191581,
+        1125417057,
+        85633789,
+        1159303007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2669462
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"ba141cf5ee5e162d1ff0e2f3bce8d685",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303007,
+            "localadmin_id":1125417057,
+            "locality_id":1226198389,
+            "region_id":85688465
+        }
+    ],
+    "wof:id":1226198389,
+    "wof:lastmodified":1537001245,
+    "wof:name":"Tangvattnet",
+    "wof:parent_id":1125417057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.9,
+    65.83333,
+    14.9,
+    65.83333
+],
+  "geometry": {"coordinates":[14.9,65.83333],"type":"Point"}
+}

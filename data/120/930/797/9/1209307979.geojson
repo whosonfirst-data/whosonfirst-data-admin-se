@@ -1,0 +1,73 @@
+{
+  "id": 1209307979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.88333,63.36667,14.88333,63.36667",
+    "geom:latitude":63.36667,
+    "geom:longitude":14.88333,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"2380.0",
+    "gn:asciiname":"Hogbrofors",
+    "gn:cc2":"SE",
+    "gn:country_code":"SE",
+    "gn:dem":267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2705921,
+    "gn:latitude":63.36667,
+    "gn:longitude":14.88333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"H\u00f6gbrofors",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "H\u00f6gbrofors"
+    ],
+    "name:nor_x_variant":[
+        "H\u00f8gbrofors"
+    ],
+    "name:und_x_variant":[
+        "H\u00f6gfors",
+        "H\u00f6gbrofors"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2705921
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"bfe8af2fe550de8b124566d2141086ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633789,
+            "locality_id":1209307979
+        }
+    ],
+    "wof:id":1209307979,
+    "wof:lastmodified":1537700030,
+    "wof:name":"Hogbrofors",
+    "wof:parent_id":85633789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.88333,
+    63.36666999999999,
+    14.88333,
+    63.36666999999999
+],
+  "geometry": {"coordinates":[14.88333,63.36666999999999],"type":"Point"}
+}

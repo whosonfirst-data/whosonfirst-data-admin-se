@@ -1,0 +1,79 @@
+{
+  "id": 1276859787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.46667,60.6,15.46667,60.6",
+    "geom:latitude":60.6,
+    "geom:longitude":15.46667,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2080.0",
+    "gn:asciiname":"Gronbo",
+    "gn:country_code":"SE",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2710567,
+    "gn:latitude":60.6,
+    "gn:longitude":15.46667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Gr\u00f6nbo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Gr\u00f6nbo"
+    ],
+    "name:nor_x_variant":[
+        "Gr\u00f8nbo"
+    ],
+    "name:und_x_variant":[
+        "Gr\u00f6nbo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688447,
+        102191581,
+        1125421441,
+        85633789,
+        1159302903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2710567
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"8ccaa42abe6a5e2d35371edc4982c8e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302903,
+            "localadmin_id":1125421441,
+            "locality_id":1276859787,
+            "region_id":85688447
+        }
+    ],
+    "wof:id":1276859787,
+    "wof:lastmodified":1537700057,
+    "wof:name":"Gronbo",
+    "wof:parent_id":1125421441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.46667,
+    60.6,
+    15.46667,
+    60.6
+],
+  "geometry": {"coordinates":[15.46667,60.6],"type":"Point"}
+}

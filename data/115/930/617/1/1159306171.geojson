@@ -1,0 +1,68 @@
+{
+  "id": 1159306171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.050422,
+    "geom:bbox":"20.7161698034,63.5827878727,21.0338843023,63.8301449303",
+    "geom:latitude":63.722701,
+    "geom:longitude":20.848378,
+    "iso:country":"SE",
+    "lbl:latitude":63.729782,
+    "lbl:longitude":20.845352,
+    "mps:latitude":63.729782,
+    "mps:longitude":20.845352,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Holmon"
+    ],
+    "name:swe_x_preferred":[
+        "Holm\u00f6n"
+    ],
+    "se-lant:distrkod":323004,
+    "se-lant:distrnamn":"Holm\u00f6n",
+    "se-lant:gallerfran":"2016/01/01",
+    "src:geom":"se-lant",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633789,
+        85688465,
+        1159303017
+    ],
+    "wof:breaches":[],
+    "wof:concordance":{},
+    "wof:country":"SE",
+    "wof:created":1525733965,
+    "wof:geomhash":"f35ab3bcf3285d5d7736fe46e3a669cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303017,
+            "localadmin_id":1159306171,
+            "region_id":85688465
+        }
+    ],
+    "wof:id":1159306171,
+    "wof:lastmodified":1529702963,
+    "wof:name":"Holmon",
+    "wof:parent_id":1159303017,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded":[],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.71616980341009,
+    63.58278787268475,
+    21.03388430231201,
+    63.83014493025939
+],
+  "geometry": {"coordinates":[[[[20.79884176433955,63.83014493025939],[21.03388430231201,63.8217583962974],[20.96040723742932,63.69955869015153],[20.8053319156295,63.58278787268475],[20.73236951019142,63.58563010271484],[20.71616980341009,63.74223818888009],[20.75881757103151,63.78744281163925],[20.78248017944906,63.81268559956044],[20.79884176433955,63.83014493025939]]]],"type":"MultiPolygon"}
+}

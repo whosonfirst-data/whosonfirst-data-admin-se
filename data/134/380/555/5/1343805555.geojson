@@ -1,0 +1,70 @@
+{
+  "id": 1343805555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.72611,59.67389,18.72611,59.67389",
+    "geom:latitude":59.67389,
+    "geom:longitude":18.72611,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"188.0",
+    "gn:asciiname":"Batdraget",
+    "gn:country_code":"SE",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3228980,
+    "gn:latitude":59.67389,
+    "gn:longitude":18.72611,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"B\u00e5tdraget",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688429,
+        102191581,
+        1125423345,
+        85633789,
+        1159302995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3228980
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"f233ee38f9c2fa06f0dc43bf84a18f43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302995,
+            "localadmin_id":1125423345,
+            "locality_id":1343805555,
+            "region_id":85688429
+        }
+    ],
+    "wof:id":1343805555,
+    "wof:lastmodified":1536745605,
+    "wof:name":"Batdraget",
+    "wof:parent_id":1125423345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.72611,
+    59.67389,
+    18.72611,
+    59.67389
+],
+  "geometry": {"coordinates":[18.72611,59.67389],"type":"Point"}
+}

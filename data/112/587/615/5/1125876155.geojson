@@ -1,0 +1,116 @@
+{
+  "id": 1125876155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.41667,60.48333,17.41667,60.48333",
+    "geom:latitude":60.48333,
+    "geom:longitude":17.41667,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":324,
+    "iso:country":"SE",
+    "lbl:latitude":60.48333,
+    "lbl:longitude":17.41667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Marma"
+    ],
+    "name:eng_x_preferred":[
+        "Marma"
+    ],
+    "name:ita_x_preferred":[
+        "Marma"
+    ],
+    "name:nan_x_preferred":[
+        "Marma"
+    ],
+    "name:nno_x_preferred":[
+        "Marma"
+    ],
+    "name:nob_x_preferred":[
+        "Marma"
+    ],
+    "name:swe_x_preferred":[
+        "Marma"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2692554,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Marma",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"Uppsala L\u00e4n",
+    "qs_pg:photos":19,
+    "qs_pg:photos_1k":4,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":19,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":9,
+    "qs_pg:qs_id":43587,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":898257,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"Uppsala L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688439,
+        102191581,
+        1125356219,
+        85633789,
+        1159303107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2692554,
+        "gp:id":898257,
+        "qs_pg:id":43587,
+        "wd:id":"Q2678633"
+    },
+    "wof:country":"SE",
+    "wof:created":1497294546,
+    "wof:geomhash":"4e40982d2801d222808fdd2e4167b73b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303107,
+            "localadmin_id":1125356219,
+            "locality_id":1125876155,
+            "region_id":85688439
+        }
+    ],
+    "wof:id":1125876155,
+    "wof:lastmodified":1529702884,
+    "wof:name":"Marma",
+    "wof:parent_id":1125356219,
+    "wof:placetype":"locality",
+    "wof:population":324,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.41667,
+    60.48333,
+    17.41667,
+    60.48333
+],
+  "geometry": {"coordinates":[17.41667,60.48333],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1309700677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.6,60.46667,15.6,60.46667",
+    "geom:latitude":60.46667,
+    "geom:longitude":15.6,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2081.0",
+    "gn:asciiname":"Tronsjo",
+    "gn:country_code":"SE",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2667254,
+    "gn:latitude":60.46667,
+    "gn:longitude":15.6,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tronsj\u00f6",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Tronsj\u00f6"
+    ],
+    "name:nor_x_variant":[
+        "Tronsj\u00f8"
+    ],
+    "name:und_x_variant":[
+        "Tronsj\u00f6"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688447,
+        102191581,
+        1159306221,
+        85633789,
+        1159302993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2667254
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"f4d3cc033a56a5e39b395bfd52b43d8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302993,
+            "localadmin_id":1159306221,
+            "locality_id":1309700677,
+            "region_id":85688447
+        }
+    ],
+    "wof:id":1309700677,
+    "wof:lastmodified":1537699767,
+    "wof:name":"Tronsjo",
+    "wof:parent_id":1159306221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.6,
+    60.46666999999999,
+    15.6,
+    60.46666999999999
+],
+  "geometry": {"coordinates":[15.6,60.46666999999999],"type":"Point"}
+}

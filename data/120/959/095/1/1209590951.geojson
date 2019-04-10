@@ -1,0 +1,62 @@
+{
+  "id": 1209590951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.13333,59.18333,17.13333,59.18333",
+    "geom:latitude":59.18333,
+    "geom:longitude":17.13333,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"461.0",
+    "gn:asciiname":"Ekeberga",
+    "gn:country_code":"SE",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2716704,
+    "gn:latitude":59.18333,
+    "gn:longitude":17.13333,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Ekeberga",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2716704
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"633bc5b5c763202101ba716deb768912",
+    "wof:hierarchy":[
+        {
+            "country_id":85633789,
+            "locality_id":1209590951
+        }
+    ],
+    "wof:id":1209590951,
+    "wof:lastmodified":1536282481,
+    "wof:name":"Ekeberga",
+    "wof:parent_id":85633789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.133329999999994,
+    59.18333000000001,
+    17.133329999999994,
+    59.18333000000001
+],
+  "geometry": {"coordinates":[17.13332999999999,59.18333000000001],"type":"Point"}
+}

@@ -1,0 +1,93 @@
+{
+  "id": 1125869213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.72444,62.40472,17.72444,62.40472",
+    "geom:latitude":62.40472,
+    "geom:longitude":17.72444,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"SE",
+    "lbl:latitude":62.40472,
+    "lbl:longitude":17.72444,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Skeppahamn"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2677704,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Skeppshamn",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"V\u00e4sternorrlands L\u00e4n",
+    "qs_pg:photos":168,
+    "qs_pg:photos_1k":34,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":168,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1351543,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":904381,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"V\u00e4sternorrlands L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688457,
+        102191581,
+        1125398109,
+        85633789,
+        1159303091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2677704,
+        "gp:id":904381,
+        "qs_pg:id":1351543
+    },
+    "wof:country":"SE",
+    "wof:created":1497294206,
+    "wof:geomhash":"8ae8f03e18a9d0e2a6b4ee7dc5b76731",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303091,
+            "localadmin_id":1125398109,
+            "locality_id":1125869213,
+            "region_id":85688457
+        }
+    ],
+    "wof:id":1125869213,
+    "wof:lastmodified":1529703011,
+    "wof:name":"Skeppshamn",
+    "wof:parent_id":1125398109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.72444,
+    62.40472,
+    17.72444,
+    62.40472
+],
+  "geometry": {"coordinates":[17.72444,62.40472],"type":"Point"}
+}

@@ -1,0 +1,123 @@
+{
+  "id": 1125815041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.38333,57.68333,13.38333,57.68333",
+    "geom:latitude":57.68333,
+    "geom:longitude":13.38333,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":518,
+    "gn:population":575,
+    "iso:country":"SE",
+    "lbl:latitude":57.68333,
+    "lbl:longitude":13.38333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0412\u0435\u0433\u0431\u0439"
+    ],
+    "name:dut_x_preferred":[
+        "Vegby"
+    ],
+    "name:eng_x_preferred":[
+        "Vegby"
+    ],
+    "name:fre_x_preferred":[
+        "Vegby"
+    ],
+    "name:nan_x_preferred":[
+        "Vegby"
+    ],
+    "name:nno_x_preferred":[
+        "Vegby"
+    ],
+    "name:nob_x_preferred":[
+        "Vegby"
+    ],
+    "name:per_x_preferred":[
+        "\u0648\u06af\u0628\u06cc"
+    ],
+    "name:swe_x_preferred":[
+        "Vegby"
+    ],
+    "name:unk_x_variant":[
+        "V\u00e4gby"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2663444,
+    "qs_pg:gn_pop":518,
+    "qs_pg:name":"Vegby",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"V\u00e4stra G\u00f6talands L\u00e4n",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1227109,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":909757,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"V\u00e4stra G\u00f6talands L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688411,
+        102191581,
+        1159305941,
+        85633789,
+        1159303161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2663444,
+        "gp:id":909757,
+        "qs_pg:id":1227109,
+        "wd:id":"Q3354518"
+    },
+    "wof:country":"SE",
+    "wof:created":1497291806,
+    "wof:geomhash":"9b111c94489ec0c9fa74952e7f17a77b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303161,
+            "localadmin_id":1159305941,
+            "locality_id":1125815041,
+            "region_id":85688411
+        }
+    ],
+    "wof:id":1125815041,
+    "wof:lastmodified":1529702259,
+    "wof:name":"Vegby",
+    "wof:parent_id":1159305941,
+    "wof:placetype":"locality",
+    "wof:population":575,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.38333,
+    57.68333,
+    13.38333,
+    57.68333
+],
+  "geometry": {"coordinates":[13.38333,57.68333],"type":"Point"}
+}

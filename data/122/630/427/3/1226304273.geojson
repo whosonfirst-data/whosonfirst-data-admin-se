@@ -1,0 +1,76 @@
+{
+  "id": 1226304273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.43333,55.53333,13.43333,55.53333",
+    "geom:latitude":55.53333,
+    "geom:longitude":13.43333,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"1263.0",
+    "gn:asciiname":"Beddinge Lage",
+    "gn:cc2":"SE",
+    "gn:country_code":"SE",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2723128,
+    "gn:latitude":55.53333,
+    "gn:longitude":13.43333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Beddinge L\u00e4ge",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bedinge L\u00e4ge",
+        "Beddingestrand",
+        "Beddinge L\u00e4ge"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688377,
+        102191581,
+        1125382001,
+        85633789,
+        1159303449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2723128
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"2803e317c56f5ed92ab152f6eb72f69a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303449,
+            "localadmin_id":1125382001,
+            "locality_id":1226304273,
+            "region_id":85688377
+        }
+    ],
+    "wof:id":1226304273,
+    "wof:lastmodified":1537700131,
+    "wof:name":"Beddinge Lage",
+    "wof:parent_id":1125382001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.43333,
+    55.53333000000001,
+    13.43333,
+    55.53333000000001
+],
+  "geometry": {"coordinates":[13.43333,55.53333000000001],"type":"Point"}
+}

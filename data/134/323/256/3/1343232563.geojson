@@ -1,0 +1,70 @@
+{
+  "id": 1343232563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.05,65.86667,23.05,65.86667",
+    "geom:latitude":65.86667,
+    "geom:longitude":23.05,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"2514.0",
+    "gn:asciiname":"Strakanas",
+    "gn:country_code":"SE",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":602559,
+    "gn:latitude":65.86667,
+    "gn:longitude":23.05,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Str\u00e5kan\u00e4s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688471,
+        102191581,
+        1125287809,
+        85633789,
+        1159303011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":602559
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"111bb902bac39ca7764d2ab77a0931bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303011,
+            "localadmin_id":1125287809,
+            "locality_id":1343232563,
+            "region_id":85688471
+        }
+    ],
+    "wof:id":1343232563,
+    "wof:lastmodified":1537072228,
+    "wof:name":"Strakanas",
+    "wof:parent_id":1125287809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.05,
+    65.86667,
+    23.05,
+    65.86667
+],
+  "geometry": {"coordinates":[23.05,65.86667],"type":"Point"}
+}

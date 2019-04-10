@@ -1,0 +1,79 @@
+{
+  "id": 1310449359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.01667,59.88333,19.01667,59.88333",
+    "geom:latitude":59.88333,
+    "geom:longitude":19.01667,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"188.0",
+    "gn:asciiname":"Strommen",
+    "gn:country_code":"SE",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2599667,
+    "gn:latitude":59.88333,
+    "gn:longitude":19.01667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Str\u00f6mmen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Str\u00f6mmen"
+    ],
+    "name:nor_x_variant":[
+        "Str\u00f8mmen"
+    ],
+    "name:und_x_variant":[
+        "Str\u00f6mmen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688429,
+        102191581,
+        1125373747,
+        85633789,
+        1159302995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2599667
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"b9b51ed6ab7f52f5e38647a7f643582e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302995,
+            "localadmin_id":1125373747,
+            "locality_id":1310449359,
+            "region_id":85688429
+        }
+    ],
+    "wof:id":1310449359,
+    "wof:lastmodified":1537699737,
+    "wof:name":"Strommen",
+    "wof:parent_id":1125373747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.01667,
+    59.88333000000001,
+    19.01667,
+    59.88333000000001
+],
+  "geometry": {"coordinates":[19.01667,59.88333000000001],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1326608329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.33333,60.41667,15.33333,60.41667",
+    "geom:latitude":60.41667,
+    "geom:longitude":15.33333,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2081.0",
+    "gn:asciiname":"Gallsbo",
+    "gn:country_code":"SE",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2713120,
+    "gn:latitude":60.41667,
+    "gn:longitude":15.33333,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Gallsbo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688447,
+        102191581,
+        1125277915,
+        85633789,
+        1159302993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2713120
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"c6d4e4cc35c8764d4224b5980fbd55dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302993,
+            "localadmin_id":1125277915,
+            "locality_id":1326608329,
+            "region_id":85688447
+        }
+    ],
+    "wof:id":1326608329,
+    "wof:lastmodified":1536873413,
+    "wof:name":"Gallsbo",
+    "wof:parent_id":1125277915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.33333,
+    60.41667,
+    15.33333,
+    60.41667
+],
+  "geometry": {"coordinates":[15.33333,60.41667],"type":"Point"}
+}

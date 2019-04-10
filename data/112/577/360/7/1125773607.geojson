@@ -1,0 +1,122 @@
+{
+  "id": 1125773607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.83333,59.13333,11.83333,59.13333",
+    "geom:latitude":59.13333,
+    "geom:longitude":11.83333,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":210,
+    "gn:population":210,
+    "iso:country":"SE",
+    "lbl:latitude":59.13333,
+    "lbl:longitude":11.83333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dan_x_preferred":[
+        "N\u00f6ssemark"
+    ],
+    "name:dut_x_preferred":[
+        "N\u00f6ssemark"
+    ],
+    "name:eng_x_preferred":[
+        "N\u00f6ssemark"
+    ],
+    "name:fre_x_preferred":[
+        "N\u00f6ssemark"
+    ],
+    "name:ger_x_preferred":[
+        "N\u00f6ssemark"
+    ],
+    "name:nds_x_preferred":[
+        "N\u00f6ssemark"
+    ],
+    "name:nno_x_preferred":[
+        "N\u00f6ssemark"
+    ],
+    "name:nob_x_preferred":[
+        "N\u00f6ssemark"
+    ],
+    "name:swe_x_preferred":[
+        "N\u00f6ssemark"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8133192,
+    "qs_pg:gn_pop":210,
+    "qs_pg:name":"Nossemark",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"V\u00e4stra G\u00f6talands L\u00e4n",
+    "qs_pg:photos":38,
+    "qs_pg:photos_1k":8,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":38,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1159259,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":900080,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"V\u00e4stra G\u00f6talands L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688411,
+        102191581,
+        1159307065,
+        85633789,
+        1159302967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8133192,
+        "gp:id":900080,
+        "qs_pg:id":1159259,
+        "wd:id":"Q2676190"
+    },
+    "wof:country":"SE",
+    "wof:created":1497290160,
+    "wof:geomhash":"4243ac409b4b3a1268083787a1d47ee9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302967,
+            "localadmin_id":1159307065,
+            "locality_id":1125773607,
+            "region_id":85688411
+        }
+    ],
+    "wof:id":1125773607,
+    "wof:lastmodified":1529702251,
+    "wof:name":"Nossemark",
+    "wof:parent_id":1159307065,
+    "wof:placetype":"locality",
+    "wof:population":210,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.83333,
+    59.13333,
+    11.83333,
+    59.13333
+],
+  "geometry": {"coordinates":[11.83333,59.13333],"type":"Point"}
+}

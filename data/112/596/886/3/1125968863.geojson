@@ -1,0 +1,116 @@
+{
+  "id": 1125968863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.66667,56.11667,14.66667,56.11667",
+    "geom:latitude":56.11667,
+    "geom:longitude":14.66667,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":674,
+    "gn:population":814,
+    "iso:country":"SE",
+    "lbl:latitude":56.11667,
+    "lbl:longitude":14.66667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Norje"
+    ],
+    "name:eng_x_preferred":[
+        "Norje"
+    ],
+    "name:fre_x_preferred":[
+        "Norje"
+    ],
+    "name:ita_x_preferred":[
+        "Norje"
+    ],
+    "name:nan_x_preferred":[
+        "Norje"
+    ],
+    "name:nob_x_preferred":[
+        "Norje"
+    ],
+    "name:swe_x_preferred":[
+        "Norje"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2689246,
+    "qs_pg:gn_pop":674,
+    "qs_pg:name":"Norje",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"Blekinge L\u00e4n",
+    "qs_pg:photos":1153,
+    "qs_pg:photos_1k":234,
+    "qs_pg:photos_9k":5,
+    "qs_pg:photos_9r":7,
+    "qs_pg:photos_all":1153,
+    "qs_pg:photos_sr":11,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":222588,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":899567,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"Blekinge L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688383,
+        102191581,
+        1159307299,
+        85633789,
+        1159303089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2689246,
+        "gp:id":899567,
+        "qs_pg:id":222588,
+        "wd:id":"Q1799944"
+    },
+    "wof:country":"SE",
+    "wof:created":1497298083,
+    "wof:geomhash":"6815be3a1911478fd7afaaa039d2a7aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303089,
+            "localadmin_id":1159307299,
+            "locality_id":1125968863,
+            "region_id":85688383
+        }
+    ],
+    "wof:id":1125968863,
+    "wof:lastmodified":1554166228,
+    "wof:name":"Norje",
+    "wof:parent_id":1159307299,
+    "wof:placetype":"locality",
+    "wof:population":814,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.66667,
+    56.11667,
+    14.66667,
+    56.11667
+],
+  "geometry": {"coordinates":[14.66667,56.11667],"type":"Point"}
+}

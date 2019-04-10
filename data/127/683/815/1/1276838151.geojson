@@ -1,0 +1,75 @@
+{
+  "id": 1276838151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.16667,64.15,20.16667,64.15",
+    "geom:latitude":64.15,
+    "geom:longitude":20.16667,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"2480.0",
+    "gn:asciiname":"Mickeltrask",
+    "gn:cc2":"SE",
+    "gn:country_code":"SE",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":604315,
+    "gn:latitude":64.15,
+    "gn:longitude":20.16667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Mickeltr\u00e4sk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mickelstr\u00e4sk",
+        "Mickeltr\u00e4sk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688465,
+        102191581,
+        1125318723,
+        85633789,
+        1159303017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":604315
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"a252fdf44f5b26820df81056e7f69384",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303017,
+            "localadmin_id":1125318723,
+            "locality_id":1276838151,
+            "region_id":85688465
+        }
+    ],
+    "wof:id":1276838151,
+    "wof:lastmodified":1537699717,
+    "wof:name":"Mickeltrask",
+    "wof:parent_id":1125318723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.16667,
+    64.15,
+    20.16667,
+    64.15
+],
+  "geometry": {"coordinates":[20.16667,64.15000000000001],"type":"Point"}
+}

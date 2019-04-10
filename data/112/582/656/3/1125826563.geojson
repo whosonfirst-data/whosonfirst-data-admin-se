@@ -1,0 +1,116 @@
+{
+  "id": 1125826563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.3,56.43333,13.3,56.43333",
+    "geom:latitude":56.43333,
+    "geom:longitude":13.3,
+    "gn:gn_country":"SE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":356,
+    "gn:population":328,
+    "iso:country":"SE",
+    "lbl:latitude":56.43333,
+    "lbl:longitude":13.3,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Hishult"
+    ],
+    "name:eng_x_preferred":[
+        "Hishult"
+    ],
+    "name:fre_x_preferred":[
+        "Hishult"
+    ],
+    "name:nan_x_preferred":[
+        "Hishult"
+    ],
+    "name:nno_x_preferred":[
+        "Hishult"
+    ],
+    "name:nob_x_preferred":[
+        "Hishult"
+    ],
+    "name:swe_x_preferred":[
+        "Hishult"
+    ],
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2706346,
+    "qs_pg:gn_pop":356,
+    "qs_pg:name":"Hishult",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"Hallands L\u00e4n",
+    "qs_pg:photos":53,
+    "qs_pg:photos_1k":11,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":53,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1169210,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":892995,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"Hallands L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688391,
+        102191581,
+        1125421427,
+        85633789,
+        1159303423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2706346,
+        "gp:id":892995,
+        "qs_pg:id":1169210,
+        "wd:id":"Q2051243"
+    },
+    "wof:country":"SE",
+    "wof:created":1497292302,
+    "wof:geomhash":"7c7782fdefba208eebd9031043860485",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303423,
+            "localadmin_id":1125421427,
+            "locality_id":1125826563,
+            "region_id":85688391
+        }
+    ],
+    "wof:id":1125826563,
+    "wof:lastmodified":1529702351,
+    "wof:name":"Hishult",
+    "wof:parent_id":1125421427,
+    "wof:placetype":"locality",
+    "wof:population":328,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.3,
+    56.43333,
+    13.3,
+    56.43333
+],
+  "geometry": {"coordinates":[13.3,56.43333],"type":"Point"}
+}

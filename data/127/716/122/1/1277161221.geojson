@@ -1,0 +1,70 @@
+{
+  "id": 1277161221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.37343,56.48205,16.37343,56.48205",
+    "geom:latitude":56.48205,
+    "geom:longitude":16.37343,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"840.0",
+    "gn:admin3_code":"84003.0",
+    "gn:admin4_code":"849.0",
+    "gn:asciiname":"Risingehamn",
+    "gn:country_code":"SE",
+    "gn:dem":-2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2682345,
+    "gn:latitude":56.48205,
+    "gn:longitude":16.37343,
+    "gn:modification_date":"2014-03-20",
+    "gn:name":"Risingehamn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688401,
+        1125325027,
+        1159303101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2682345
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"09ea77578c21cf659c5f3e601e4a328a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "county_id":1159303101,
+            "localadmin_id":1125325027,
+            "locality_id":1277161221,
+            "region_id":85688401
+        }
+    ],
+    "wof:id":1277161221,
+    "wof:lastmodified":1536654567,
+    "wof:name":"Risingehamn",
+    "wof:parent_id":1125325027,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.37343,
+    56.48205,
+    16.37343,
+    56.48205
+],
+  "geometry": {"coordinates":[16.37343,56.48205],"type":"Point"}
+}

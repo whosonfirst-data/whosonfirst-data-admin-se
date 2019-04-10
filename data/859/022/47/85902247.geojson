@@ -1,0 +1,115 @@
+{
+  "id": 85902247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":31931913.768314,
+    "geom:bbox":"13.530743,59.394406,13.530743,59.394406",
+    "geom:latitude":59.394406,
+    "geom:longitude":13.530743,
+    "gn:latitude":59.40165,
+    "gn:longitude":13.54833,
+    "iso:country":"SE",
+    "lbl:latitude":59.394406,
+    "lbl:longitude":13.530743,
+    "mps:latitude":59.397041,
+    "mps:longitude":13.539894,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":1,
+    "name:swe_x_colloquial":[
+        "Kroppkaerr",
+        "Kroppkarr"
+    ],
+    "name:swe_x_preferred":[
+        "Kroppk\u00e4rr"
+    ],
+    "name:unk_x_variant":[
+        "Kroppk\u00e4rr"
+    ],
+    "qs:gn_adm0_cc":"SE",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2701680,
+    "qs:gn_namadm1":"22",
+    "qs:gn_name":"Kroppk\u00e4rr",
+    "qs:local_max":1425,
+    "qs:local_sum":2448,
+    "qs:localhoods":3,
+    "qs:name":"Kroppk\u00e4rr",
+    "qs:name_adm0":"Sverige",
+    "qs:name_adm1":"V\u00e4rmlands L\u00e4n",
+    "qs:name_adm2":"Karlstad",
+    "qs:name_local":"Karlstad",
+    "qs:photo_max":139,
+    "qs:photo_sum":836,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":103,
+    "qs:woe_adm0":23424954,
+    "qs:woe_adm1":2347063,
+    "qs:woe_adm2":12587421,
+    "qs:woe_lau":0,
+    "qs:woe_local":894959,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85688435,
+        102191581,
+        1125286813,
+        85633789,
+        101752311,
+        1159303443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2699023,
+        "gp:id":896031,
+        "qs:id":1083450,
+        "qs_pg:id":1083450
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"0965c88a9e3b8595d95c9800ee17d9bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303443,
+            "localadmin_id":1125286813,
+            "locality_id":101752311,
+            "neighbourhood_id":85902247,
+            "region_id":85688435
+        }
+    ],
+    "wof:id":85902247,
+    "wof:lang":[
+        "swe"
+    ],
+    "wof:lastmodified":1531935870,
+    "wof:name":"Kroppk\u00e4rr",
+    "wof:parent_id":101752311,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.530743,
+    59.394406,
+    13.530743,
+    59.394406
+],
+  "geometry": {"coordinates":[13.530743,59.394406],"type":"Point"}
+}

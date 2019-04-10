@@ -1,0 +1,123 @@
+{
+  "id": 101817007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000163,
+    "geom:area_square_m":1054519.824962,
+    "geom:bbox":"13.5633697241,58.382578813,13.587503003,58.3942975502",
+    "geom:latitude":58.387422,
+    "geom:longitude":13.575041,
+    "gn:population":1175,
+    "iso:country":"SE",
+    "lbl:latitude":58.386747,
+    "lbl:longitude":13.574218,
+    "mps:latitude":58.386747,
+    "mps:longitude":13.574218,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Axvall"
+    ],
+    "name:eng_x_preferred":[
+        "Axvall"
+    ],
+    "name:fre_x_preferred":[
+        "Axvall"
+    ],
+    "name:nan_x_preferred":[
+        "Axvall"
+    ],
+    "name:nld_x_preferred":[
+        "Axvall"
+    ],
+    "name:nno_x_preferred":[
+        "Axvall"
+    ],
+    "name:nob_x_preferred":[
+        "Axvall"
+    ],
+    "name:nor_x_preferred":[
+        "Axvall"
+    ],
+    "name:swe_x_preferred":[
+        "Axvall"
+    ],
+    "name:swe_x_variant":[
+        "Axvalls"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Axvall"
+    ],
+    "qs:a0":"Sverige",
+    "qs:a1":"*V\u00e4stra G\u00f6talands l\u00e4n",
+    "qs:a1r":"0",
+    "qs:adm0":"Sverige",
+    "qs:la":"Skara",
+    "qs:la_lc":"*SE1495",
+    "qs:level":"locality",
+    "qs:loc":"Axvall",
+    "qs:loc_alt":"Axvall",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":46,
+    "wof:belongsto":[
+        85688411,
+        102191581,
+        1125326325,
+        85633789,
+        1159303479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06d21ca4-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2724134,
+        "gp:id":885567,
+        "qs:id":1167638,
+        "qs_pg:id":1167638,
+        "wd:id":"Q1947977",
+        "wk:page":"Axvall"
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"ebe419a59dfaa3162acf0267dadf3303",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303479,
+            "localadmin_id":1125326325,
+            "locality_id":101817007,
+            "region_id":85688411
+        }
+    ],
+    "wof:id":101817007,
+    "wof:lang":[
+        "swe"
+    ],
+    "wof:lastmodified":1529702220,
+    "wof:name":"Axvall",
+    "wof:parent_id":1125326325,
+    "wof:placetype":"locality",
+    "wof:population":1175,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.56336972405984,
+    58.38257881295561,
+    13.58750300301784,
+    58.39429755021831
+],
+  "geometry": {"coordinates":[[[13.58310521073088,58.39326419382678],[13.58283655290404,58.39057028442096],[13.58113163003929,58.39061542950384],[13.58077366283891,58.38702354804934],[13.58247841600223,58.38697840807743],[13.58238889490451,58.38608043950256],[13.58750300301784,58.38594489464191],[13.58732372208374,58.38414896577723],[13.58561910823011,58.38419416630182],[13.58552951805927,58.3832962008965],[13.57871119209432,58.38347678326721],[13.57862177681449,58.38257881295561],[13.57009899111955,58.38280405166438],[13.57018819434569,58.38370202835029],[13.56336972405984,58.38388183810576],[13.56354780687838,58.38567780226964],[13.56525251528268,58.38563287948097],[13.56578714365469,58.39102076926741],[13.57431189841435,58.39079579517414],[13.57449057404295,58.39259174734121],[13.57790061762097,58.39250160233513],[13.5780794839701,58.39429755021831],[13.58148968124061,58.39420731423343],[13.58140016056336,58.39330934274392],[13.58310521073088,58.39326419382678]]],"type":"Polygon"}
+}

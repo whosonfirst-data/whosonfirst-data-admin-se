@@ -1,0 +1,79 @@
+{
+  "id": 1326820259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.61667,57.28333,14.61667,57.28333",
+    "geom:latitude":57.28333,
+    "geom:longitude":14.61667,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"684.0",
+    "gn:asciiname":"Bjornhult",
+    "gn:country_code":"SE",
+    "gn:dem":251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2721783,
+    "gn:latitude":57.28333,
+    "gn:longitude":14.61667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Bj\u00f6rnhult",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Bj\u00f6rnhult"
+    ],
+    "name:nor_x_variant":[
+        "Bj\u00f8rnhult"
+    ],
+    "name:und_x_variant":[
+        "Bj\u00f6rnhult"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688395,
+        102191581,
+        1125395777,
+        85633789,
+        1159303069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2721783
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"60dc3131a668537d8febf0381edbcfd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303069,
+            "localadmin_id":1125395777,
+            "locality_id":1326820259,
+            "region_id":85688395
+        }
+    ],
+    "wof:id":1326820259,
+    "wof:lastmodified":1537700118,
+    "wof:name":"Bjornhult",
+    "wof:parent_id":1125395777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.61667,
+    57.28333000000001,
+    14.61667,
+    57.28333000000001
+],
+  "geometry": {"coordinates":[14.61667,57.28333000000001],"type":"Point"}
+}

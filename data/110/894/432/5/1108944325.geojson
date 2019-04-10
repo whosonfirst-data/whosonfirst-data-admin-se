@@ -1,0 +1,69 @@
+{
+  "id": 1108944325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.9229361208,57.6898566233,11.9229361208,57.6898566233",
+    "geom:latitude":57.689857,
+    "geom:longitude":11.922936,
+    "iso:country":"SE",
+    "lbl:latitude":57.689857,
+    "lbl:longitude":11.922936,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_metro":30,
+    "name:swe_x_preferred":[
+        "Gr\u00e5berget"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        85688411,
+        102191581,
+        1125287157,
+        85633789,
+        101752295,
+        1159302989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"SE",
+    "wof:created":1491364324,
+    "wof:geomhash":"30587d37cc64da5f05ac2c23e6dc48d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302989,
+            "localadmin_id":1125287157,
+            "locality_id":101752295,
+            "neighbourhood_id":1108944325,
+            "region_id":85688411
+        }
+    ],
+    "wof:id":1108944325,
+    "wof:lastmodified":1529702293,
+    "wof:name":"Graberget",
+    "wof:parent_id":101752295,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.92293612084706,
+    57.68985662326003,
+    11.92293612084706,
+    57.68985662326003
+],
+  "geometry": {"coordinates":[11.92293612084706,57.68985662326003],"type":"Point"}
+}

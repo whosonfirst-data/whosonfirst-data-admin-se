@@ -1,0 +1,72 @@
+{
+  "id": 1293344617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.46388,59.07303,18.46388,59.07303",
+    "geom:latitude":59.07303,
+    "geom:longitude":18.46388,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"136.0",
+    "gn:admin3_code":"13605.0",
+    "gn:admin4_code":"66.0",
+    "gn:asciiname":"Nedre Avassa",
+    "gn:country_code":"SE",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3327516,
+    "gn:latitude":59.07303,
+    "gn:longitude":18.46388,
+    "gn:modification_date":"2014-06-26",
+    "gn:name":"Nedre \u00c5vassa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688429,
+        102191581,
+        1159307035,
+        85633789,
+        1159303483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3327516
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"7173d6bd9f1171dfb76798d5d055bdc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303483,
+            "localadmin_id":1159307035,
+            "locality_id":1293344617,
+            "region_id":85688429
+        }
+    ],
+    "wof:id":1293344617,
+    "wof:lastmodified":1536992299,
+    "wof:name":"Nedre Avassa",
+    "wof:parent_id":1159307035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.46388,
+    59.07303,
+    18.46388,
+    59.07303
+],
+  "geometry": {"coordinates":[18.46388,59.07303],"type":"Point"}
+}
