@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.172389,
+    "geom:area_square_m":1211868414.181163,
     "geom:bbox":"13.6197314279,55.1770788932,14.3873094046,55.5755687463",
     "geom:latitude":55.355063,
     "geom:longitude":13.969777,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Ystad Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Ystad Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":55.328756,
     "lbl:longitude":13.975925,
     "mps:latitude":55.328756,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303233,
-    "wof:lastmodified":1529702588,
+    "wof:lastmodified":1554325317,
     "wof:name":"Ystad",
     "wof:parent_id":85688377,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

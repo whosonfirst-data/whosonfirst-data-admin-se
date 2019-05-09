@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.393727,
+    "geom:area_square_m":2501393754.232074,
     "geom:bbox":"12.4163641238,58.7256180802,13.5899868776,59.4472644208",
     "geom:latitude":59.084084,
     "geom:longitude":13.002412,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Saffle Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "S\u00e4ffle Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":59.008425,
     "lbl:longitude":13.051166,
     "mps:latitude":59.008425,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303169,
-    "wof:lastmodified":1529702088,
+    "wof:lastmodified":1554325315,
     "wof:name":"Saffle",
     "wof:parent_id":85688435,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

@@ -10,6 +10,18 @@
     "geom:latitude":57.134327,
     "geom:longitude":15.934502,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Hogsby Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "H\u00f6gsby Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":57.152933,
     "lbl:longitude":16.021454,
     "mps:latitude":57.152933,
@@ -51,11 +63,11 @@
         }
     ],
     "wof:id":1159302955,
-    "wof:lastmodified":1554166169,
+    "wof:lastmodified":1555037184,
     "wof:name":"Hogsby",
     "wof:parent_id":85688401,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

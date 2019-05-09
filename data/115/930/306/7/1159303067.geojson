@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.067286,
+    "geom:area_square_m":455876495.84515,
     "geom:bbox":"15.0646740289,56.6016555934,15.5572857056,56.9014704785",
     "geom:latitude":56.775214,
     "geom:longitude":15.318164,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Lessebo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Lessebo Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":56.755481,
     "lbl:longitude":15.280951,
     "mps:latitude":56.755481,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303067,
-    "wof:lastmodified":1529702455,
+    "wof:lastmodified":1554325313,
     "wof:name":"Lessebo",
     "wof:parent_id":85688387,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

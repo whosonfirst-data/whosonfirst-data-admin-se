@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.855594,
+    "geom:area_square_m":4292615128.888038,
     "geom:bbox":"20.3621171217,65.6632314776,22.1460714196,66.4316629907",
     "geom:latitude":66.061361,
     "geom:longitude":21.341828,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Boden Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Boden Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":65.997586,
     "lbl:longitude":21.413899,
     "mps:latitude":65.997586,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303477,
-    "wof:lastmodified":1529702548,
+    "wof:lastmodified":1554325324,
     "wof:name":"Boden",
     "wof:parent_id":85688471,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

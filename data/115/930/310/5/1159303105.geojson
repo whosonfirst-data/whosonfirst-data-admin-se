@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022045,
+    "geom:area_square_m":139519983.009303,
     "geom:bbox":"17.8566930406,59.1415778106,18.1829307896,59.2850978862",
     "geom:latitude":59.213958,
     "geom:longitude":18.01683,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Huddinge Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Huddinge Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":59.19606,
     "lbl:longitude":18.030346,
     "mps:latitude":59.19606,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303105,
-    "wof:lastmodified":1529702705,
+    "wof:lastmodified":1554325314,
     "wof:name":"Huddinge",
     "wof:parent_id":85688429,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

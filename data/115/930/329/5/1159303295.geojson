@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.054984,
+    "geom:area_square_m":379088982.177902,
     "geom:bbox":"12.9819727291,56.0009854075,13.5226817317,56.231419209",
     "geom:latitude":56.111847,
     "geom:longitude":13.246342,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Klippan Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Klippan Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":56.106548,
     "lbl:longitude":13.227908,
     "mps:latitude":56.106548,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303295,
-    "wof:lastmodified":1529702588,
+    "wof:lastmodified":1554325319,
     "wof:name":"Klippan",
     "wof:parent_id":85688377,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

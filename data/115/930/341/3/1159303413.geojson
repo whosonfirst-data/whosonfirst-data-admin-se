@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.063457,
+    "geom:area_square_m":396459143.149487,
     "geom:bbox":"13.3440828388,59.4777980572,13.6859175378,59.8148546524",
     "geom:latitude":59.651061,
     "geom:longitude":13.508385,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Forshaga Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Forshaga Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":59.649173,
     "lbl:longitude":13.49156,
     "mps:latitude":59.649173,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303413,
-    "wof:lastmodified":1529702901,
+    "wof:lastmodified":1554325322,
     "wof:name":"Forshaga",
     "wof:parent_id":85688435,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

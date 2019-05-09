@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.042876,
+    "geom:area_square_m":282998676.299669,
     "geom:bbox":"12.4283450093,57.6185190799,12.7640212218,57.8653237873",
     "geom:latitude":57.738234,
     "geom:longitude":12.619443,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Bollebygd Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Bollebygd Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":57.724823,
     "lbl:longitude":12.616937,
     "mps:latitude":57.724823,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303339,
-    "wof:lastmodified":1529702091,
+    "wof:lastmodified":1554325320,
     "wof:name":"Bollebygd",
     "wof:parent_id":85688411,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

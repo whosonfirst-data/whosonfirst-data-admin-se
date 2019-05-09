@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.076013,
+    "geom:area_square_m":481568267.410225,
     "geom:bbox":"14.5553314259,59.0253892159,15.0543652439,59.332669283",
     "geom:latitude":59.179114,
     "geom:longitude":14.791245,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Lekeberg Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Lekeberg Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":59.185709,
     "lbl:longitude":14.829047,
     "mps:latitude":59.185709,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303175,
-    "wof:lastmodified":1529703039,
+    "wof:lastmodified":1554325316,
     "wof:name":"Lekeberg",
     "wof:parent_id":85688421,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

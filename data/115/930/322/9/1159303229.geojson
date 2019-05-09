@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.317551,
+    "geom:area_square_m":2046669982.42323,
     "geom:bbox":"15.6182677581,58.3976615322,17.5659163211,58.8533678162",
     "geom:latitude":58.583844,
     "geom:longitude":16.423014,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Norrkoping Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Norrk\u00f6ping Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":58.679578,
     "lbl:longitude":16.194214,
     "mps:latitude":58.679578,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303229,
-    "wof:lastmodified":1529702828,
+    "wof:lastmodified":1554325317,
     "wof:name":"Norrkoping",
     "wof:parent_id":85688409,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

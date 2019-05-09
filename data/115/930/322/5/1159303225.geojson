@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.53045,
+    "geom:area_square_m":3203543037.801918,
     "geom:bbox":"16.7735219342,60.2593486372,17.9616705771,61.090871115",
     "geom:latitude":60.765035,
     "geom:longitude":17.283088,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Gavle Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "G\u00e4vle Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":60.807018,
     "lbl:longitude":17.193039,
     "mps:latitude":60.807018,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303225,
-    "wof:lastmodified":1529702040,
+    "wof:lastmodified":1554325317,
     "wof:name":"Gavle",
     "wof:parent_id":85688453,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

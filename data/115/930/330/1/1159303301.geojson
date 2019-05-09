@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.513598,
+    "geom:area_square_m":2890648506.615005,
     "geom:bbox":"17.1801270798,62.5966265034,18.9868588376,63.205755085",
     "geom:latitude":62.924631,
     "geom:longitude":18.139492,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Kramfors Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Kramfors Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":62.964291,
     "lbl:longitude":18.125762,
     "mps:latitude":62.964291,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303301,
-    "wof:lastmodified":1529702986,
+    "wof:lastmodified":1554325319,
     "wof:name":"Kramfors",
     "wof:parent_id":85688457,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

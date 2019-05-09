@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.213353,
+    "geom:area_square_m":1297450579.009052,
     "geom:bbox":"16.2015913256,60.1888090025,16.9402842653,60.7912275824",
     "geom:latitude":60.540588,
     "geom:longitude":16.656711,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Sandviken Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Sandviken Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":60.609409,
     "lbl:longitude":16.693086,
     "mps:latitude":60.609409,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303303,
-    "wof:lastmodified":1529701969,
+    "wof:lastmodified":1554325319,
     "wof:name":"Sandviken",
     "wof:parent_id":85688453,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

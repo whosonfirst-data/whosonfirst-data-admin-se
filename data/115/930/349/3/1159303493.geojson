@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.076029,
+    "geom:area_square_m":478685377.942516,
     "geom:bbox":"12.8241620632,59.2361368991,13.177459155,59.5690726672",
     "geom:latitude":59.390834,
     "geom:longitude":13.015727,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Grums Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Grums Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":59.380696,
     "lbl:longitude":13.036731,
     "mps:latitude":59.380696,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303493,
-    "wof:lastmodified":1529702901,
+    "wof:lastmodified":1554325325,
     "wof:name":"Grums",
     "wof:parent_id":85688435,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

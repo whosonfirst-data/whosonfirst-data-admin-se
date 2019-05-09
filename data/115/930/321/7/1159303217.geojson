@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028358,
+    "geom:area_square_m":195448194.138819,
     "geom:bbox":"14.3807375293,56.0130969684,14.5859249999,56.2384183499",
     "geom:latitude":56.125152,
     "geom:longitude":14.495867,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Bromolla Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Brom\u00f6lla Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":56.128915,
     "lbl:longitude":14.526686,
     "mps:latitude":56.128915,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303217,
-    "wof:lastmodified":1529701941,
+    "wof:lastmodified":1554325317,
     "wof:name":"Bromolla",
     "wof:parent_id":85688377,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

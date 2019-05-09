@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.134981,
+    "geom:area_square_m":880889732.344535,
     "geom:bbox":"10.8917790118,58.04822004,11.8683755591,58.3091199772",
     "geom:latitude":58.144898,
     "geom:longitude":11.421884,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Orust Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Orust Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":58.117597,
     "lbl:longitude":11.421827,
     "mps:latitude":58.117597,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159302943,
-    "wof:lastmodified":1529702085,
+    "wof:lastmodified":1554325309,
     "wof:name":"Orust",
     "wof:parent_id":85688411,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

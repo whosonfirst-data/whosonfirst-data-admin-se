@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.239777,
+    "geom:area_square_m":1598830810.831673,
     "geom:bbox":"14.7747882627,57.1332757218,15.6542576919,57.597560145",
     "geom:latitude":57.367068,
     "geom:longitude":15.159619,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Vetlanda Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Vetlanda Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":57.370953,
     "lbl:longitude":15.167839,
     "mps:latitude":57.370953,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303157,
-    "wof:lastmodified":1529702389,
+    "wof:lastmodified":1554325315,
     "wof:name":"Vetlanda",
     "wof:parent_id":85688395,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

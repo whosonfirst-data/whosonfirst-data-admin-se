@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.185127,
+    "geom:area_square_m":1152249752.691843,
     "geom:bbox":"14.3325767165,59.4675041124,14.9526724473,60.0261589176",
     "geom:latitude":59.777614,
     "geom:longitude":14.616865,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Hallefors Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "H\u00e4llefors Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":59.837416,
     "lbl:longitude":14.612318,
     "mps:latitude":59.837416,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303071,
-    "wof:lastmodified":1529702900,
+    "wof:lastmodified":1554325313,
     "wof:name":"Hallefors",
     "wof:parent_id":85688421,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

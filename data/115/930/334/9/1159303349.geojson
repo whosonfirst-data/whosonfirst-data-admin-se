@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.198606,
+    "geom:area_square_m":1224590766.210785,
     "geom:bbox":"16.6910627966,59.8283199879,17.3754087726,60.3030602743",
     "geom:latitude":60.089193,
     "geom:longitude":17.014463,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Heby Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Heby Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":60.110147,
     "lbl:longitude":16.991162,
     "mps:latitude":60.110147,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303349,
-    "wof:lastmodified":1529701969,
+    "wof:lastmodified":1554325321,
     "wof:name":"Heby",
     "wof:parent_id":85688439,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

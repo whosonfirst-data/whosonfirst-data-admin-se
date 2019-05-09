@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.20622,
+    "geom:area_square_m":1383285966.413875,
     "geom:bbox":"13.6407776607,56.8789721164,14.442203335,57.3825595362",
     "geom:latitude":57.147556,
     "geom:longitude":14.095841,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Varnamo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "V\u00e4rnamo Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":57.167542,
     "lbl:longitude":14.135301,
     "mps:latitude":57.167542,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303313,
-    "wof:lastmodified":1529702390,
+    "wof:lastmodified":1554325319,
     "wof:name":"Varnamo",
     "wof:parent_id":85688395,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

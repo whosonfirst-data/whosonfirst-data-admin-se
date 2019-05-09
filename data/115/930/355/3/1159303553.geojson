@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.577146,
+    "geom:area_square_m":3298349019.586718,
     "geom:bbox":"14.7805877505,62.2345130099,16.5660105421,62.7128918692",
     "geom:latitude":62.472323,
     "geom:longitude":15.721533,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Ange Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "\u00c5nge Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":62.490915,
     "lbl:longitude":15.958317,
     "mps:latitude":62.490915,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303553,
-    "wof:lastmodified":1529702041,
+    "wof:lastmodified":1554325326,
     "wof:name":"Ange",
     "wof:parent_id":85688457,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

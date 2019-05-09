@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00121,
+    "geom:area_square_m":7624527.916273,
     "geom:bbox":"17.9297949785,59.3549094187,17.9844018722,59.3991315177",
     "geom:latitude":59.3767,
     "geom:longitude":17.96117,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Sundbyberg Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Sundbyberg Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":59.376066,
     "lbl:longitude":17.961583,
     "mps:latitude":59.376066,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303289,
-    "wof:lastmodified":1529702707,
+    "wof:lastmodified":1554325319,
     "wof:name":"Sundbyberg",
     "wof:parent_id":85688429,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

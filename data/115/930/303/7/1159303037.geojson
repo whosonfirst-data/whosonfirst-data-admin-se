@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.080186,
+    "geom:area_square_m":523263400.881098,
     "geom:bbox":"13.7127833893,58.0076791859,14.1508767019,58.2796805534",
     "geom:latitude":58.147009,
     "geom:longitude":13.94499,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Tidaholm Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Tidaholm Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":58.148345,
     "lbl:longitude":13.94904,
     "mps:latitude":58.148345,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303037,
-    "wof:lastmodified":1529702086,
+    "wof:lastmodified":1554325312,
     "wof:name":"Tidaholm",
     "wof:parent_id":85688411,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

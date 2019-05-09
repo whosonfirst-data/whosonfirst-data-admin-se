@@ -10,6 +10,18 @@
     "geom:latitude":57.398296,
     "geom:longitude":16.614617,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Oskarshamn Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Oskarshamn Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":57.362319,
     "lbl:longitude":16.60399,
     "mps:latitude":57.362319,
@@ -51,11 +63,11 @@
         }
     ],
     "wof:id":1159303119,
-    "wof:lastmodified":1554166170,
+    "wof:lastmodified":1555037181,
     "wof:name":"Oskarshamn",
     "wof:parent_id":85688401,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

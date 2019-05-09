@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.063641,
+    "geom:area_square_m":412036021.571493,
     "geom:bbox":"14.5206301843,58.3280069612,15.019118593,58.5361825126",
     "geom:latitude":58.425848,
     "geom:longitude":14.789533,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Vadstena Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Vadstena Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":58.424689,
     "lbl:longitude":14.79435,
     "mps:latitude":58.424689,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303411,
-    "wof:lastmodified":1529702092,
+    "wof:lastmodified":1554325322,
     "wof:name":"Vadstena",
     "wof:parent_id":85688409,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

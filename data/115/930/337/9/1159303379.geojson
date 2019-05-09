@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.070251,
+    "geom:area_square_m":493731354.847513,
     "geom:bbox":"13.4440633295,55.1643670391,13.7994717235,55.5836457687",
     "geom:latitude":55.358543,
     "geom:longitude":13.597911,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Skurup Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Skurup Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":55.358549,
     "lbl:longitude":13.597962,
     "mps:latitude":55.358549,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303379,
-    "wof:lastmodified":1529702588,
+    "wof:lastmodified":1554325321,
     "wof:name":"Skurup",
     "wof:parent_id":85688377,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

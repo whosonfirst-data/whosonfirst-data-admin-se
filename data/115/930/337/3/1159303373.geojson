@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.217298,
+    "geom:area_square_m":7148441636.804725,
     "geom:bbox":"12.1376658248,61.0314848565,14.3545984044,62.2674942768",
     "geom:latitude":61.646033,
     "geom:longitude":13.13816,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Alvdalen Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "\u00c4lvdalen Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":61.769787,
     "lbl:longitude":12.861072,
     "mps:latitude":61.769787,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303373,
-    "wof:lastmodified":1529699947,
+    "wof:lastmodified":1554325321,
     "wof:name":"Alvdalen",
     "wof:parent_id":85688447,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

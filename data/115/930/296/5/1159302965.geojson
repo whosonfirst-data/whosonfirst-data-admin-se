@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.061416,
+    "geom:area_square_m":423979721.628677,
     "geom:bbox":"12.539311084,55.9170287483,12.98958412,56.2631588277",
     "geom:latitude":56.061806,
     "geom:longitude":12.764319,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Helsingborg Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Helsingborg Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":56.066634,
     "lbl:longitude":12.748894,
     "mps:latitude":56.066634,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159302965,
-    "wof:lastmodified":1529702586,
+    "wof:lastmodified":1554325310,
     "wof:name":"Helsingborg",
     "wof:parent_id":85688377,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

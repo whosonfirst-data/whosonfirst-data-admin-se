@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.147164,
+    "geom:area_square_m":945641356.583469,
     "geom:bbox":"12.1763702371,58.5045839154,12.8717112892,58.8654937257",
     "geom:latitude":58.689995,
     "geom:longitude":12.509241,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Mellerud Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Mellerud Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":58.6892,
     "lbl:longitude":12.480178,
     "mps:latitude":58.6892,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303445,
-    "wof:lastmodified":1529702092,
+    "wof:lastmodified":1554325323,
     "wof:name":"Mellerud",
     "wof:parent_id":85688411,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

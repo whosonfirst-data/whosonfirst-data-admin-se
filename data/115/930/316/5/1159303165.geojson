@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.087642,
+    "geom:area_square_m":599469786.830201,
     "geom:bbox":"13.696169682,56.2856804505,14.514671072,56.5329764908",
     "geom:latitude":56.415786,
     "geom:longitude":14.147431,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Osby Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Osby Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":56.446823,
     "lbl:longitude":14.10739,
     "mps:latitude":56.446823,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303165,
-    "wof:lastmodified":1529701941,
+    "wof:lastmodified":1554325315,
     "wof:name":"Osby",
     "wof:parent_id":85688377,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

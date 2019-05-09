@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.251748,
+    "geom:area_square_m":1367191121.475433,
     "geom:bbox":"18.4056431542,63.7873457416,19.5294512522,64.1405799972",
     "geom:latitude":63.946497,
     "geom:longitude":18.991835,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Bjurholm Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Bjurholm Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":63.970763,
     "lbl:longitude":19.104349,
     "mps:latitude":63.970763,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303261,
-    "wof:lastmodified":1529702953,
+    "wof:lastmodified":1554325318,
     "wof:name":"Bjurholm",
     "wof:parent_id":85688465,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

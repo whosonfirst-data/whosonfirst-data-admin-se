@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.111909,
+    "geom:area_square_m":5886001693.020098,
     "geom:bbox":"17.5050101422,64.0611915051,19.3111830573,65.2424961548",
     "geom:latitude":64.653666,
     "geom:longitude":18.460157,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Lycksele Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Lycksele Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":64.612734,
     "lbl:longitude":18.596753,
     "mps:latitude":64.612734,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303117,
-    "wof:lastmodified":1529702953,
+    "wof:lastmodified":1554325314,
     "wof:name":"Lycksele",
     "wof:parent_id":85688465,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.088433,
+    "geom:area_square_m":554955797.186268,
     "geom:bbox":"18.1222627326,59.4005398777,19.0022019572,59.59998259",
     "geom:latitude":59.502048,
     "geom:longitude":18.557735,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Osteraker Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "\u00d6ster\u00e5ker Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":59.506313,
     "lbl:longitude":18.564592,
     "mps:latitude":59.506313,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303039,
-    "wof:lastmodified":1529702705,
+    "wof:lastmodified":1554325312,
     "wof:name":"Osteraker",
     "wof:parent_id":85688429,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

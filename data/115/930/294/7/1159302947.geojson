@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.065018,
+    "geom:area_square_m":407178394.527068,
     "geom:bbox":"12.9273280592,59.4719992177,13.4326011377,59.6651368938",
     "geom:latitude":59.57118,
     "geom:longitude":13.201888,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Kil Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Kil Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":59.569718,
     "lbl:longitude":13.201879,
     "mps:latitude":59.569718,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159302947,
-    "wof:lastmodified":1529702900,
+    "wof:lastmodified":1554325309,
     "wof:name":"Kil",
     "wof:parent_id":85688435,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

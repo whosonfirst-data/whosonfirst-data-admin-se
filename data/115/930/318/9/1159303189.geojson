@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.05607,
+    "geom:area_square_m":388114277.268046,
     "geom:bbox":"12.9439799728,55.8288350306,13.3397809276,56.0885616544",
     "geom:latitude":55.958728,
     "geom:longitude":13.12593,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Svalov Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Sval\u00f6v Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":55.973751,
     "lbl:longitude":13.112254,
     "mps:latitude":55.973751,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303189,
-    "wof:lastmodified":1529702587,
+    "wof:lastmodified":1554325316,
     "wof:name":"Svalov",
     "wof:parent_id":85688377,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

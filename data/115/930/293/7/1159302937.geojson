@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.120094,
+    "geom:area_square_m":781990778.322104,
     "geom:bbox":"15.7975517362,58.0611160607,16.4516489804,58.3742483449",
     "geom:latitude":58.22402,
     "geom:longitude":16.109889,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Atvidaberg Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "\u00c5tvidaberg Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":58.218095,
     "lbl:longitude":16.105035,
     "mps:latitude":58.218095,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159302937,
-    "wof:lastmodified":1529702454,
+    "wof:lastmodified":1554325309,
     "wof:name":"Atvidaberg",
     "wof:parent_id":85688409,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

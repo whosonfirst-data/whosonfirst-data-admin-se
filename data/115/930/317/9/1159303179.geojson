@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.102778,
+    "geom:area_square_m":669319255.520836,
     "geom:bbox":"14.4167063722,58.0826466477,14.9331985666,58.3548169044",
     "geom:latitude":58.217312,
     "geom:longitude":14.67383,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Odeshog Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "\u00d6desh\u00f6g Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":58.217146,
     "lbl:longitude":14.674015,
     "mps:latitude":58.217146,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303179,
-    "wof:lastmodified":1529702088,
+    "wof:lastmodified":1554325316,
     "wof:name":"Odeshog",
     "wof:parent_id":85688409,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.182073,
+    "geom:area_square_m":1217795171.933408,
     "geom:bbox":"13.0774268962,56.9721148196,13.9088167997,57.6133011694",
     "geom:latitude":57.254022,
     "geom:longitude":13.507685,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Gislaved Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Gislaved Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":57.240386,
     "lbl:longitude":13.507793,
     "mps:latitude":57.240386,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303327,
-    "wof:lastmodified":1529702090,
+    "wof:lastmodified":1554325320,
     "wof:name":"Gislaved",
     "wof:parent_id":85688395,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

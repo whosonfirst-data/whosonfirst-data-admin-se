@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.092624,
+    "geom:area_square_m":604508267.143915,
     "geom:bbox":"14.8657452082,57.9535075617,15.3825513769,58.3062317991",
     "geom:latitude":58.14235,
     "geom:longitude":15.121953,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Boxholm Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Boxholm Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":58.14863,
     "lbl:longitude":15.125812,
     "mps:latitude":58.14863,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303501,
-    "wof:lastmodified":1529702391,
+    "wof:lastmodified":1554325325,
     "wof:name":"Boxholm",
     "wof:parent_id":85688409,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.096406,
+    "geom:area_square_m":621340278.692871,
     "geom:bbox":"13.2192208185,58.4322119338,13.6763131513,58.7564284673",
     "geom:latitude":58.585506,
     "geom:longitude":13.45616,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Gotene Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "G\u00f6tene Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":58.586283,
     "lbl:longitude":13.451844,
     "mps:latitude":58.586283,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159302923,
-    "wof:lastmodified":1529702084,
+    "wof:lastmodified":1554325308,
     "wof:name":"Gotene",
     "wof:parent_id":85688411,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

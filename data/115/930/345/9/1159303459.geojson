@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.103402,
+    "geom:area_square_m":663138594.536396,
     "geom:bbox":"17.3565159831,58.4710142254,17.9509173291,58.9949740125",
     "geom:latitude":58.765462,
     "geom:longitude":17.628292,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Trosa Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Trosa Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":58.849941,
     "lbl:longitude":17.558692,
     "mps:latitude":58.849941,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303459,
-    "wof:lastmodified":1529702707,
+    "wof:lastmodified":1554325324,
     "wof:name":"Trosa",
     "wof:parent_id":85688419,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.159344,
+    "geom:area_square_m":1019113397.04253,
     "geom:bbox":"14.6274478888,58.6459929207,15.3465459761,59.0258410442",
     "geom:latitude":58.853086,
     "geom:longitude":14.953224,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Askersund Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Askersund Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":58.847861,
     "lbl:longitude":14.947921,
     "mps:latitude":58.847861,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303215,
-    "wof:lastmodified":1529702089,
+    "wof:lastmodified":1554325317,
     "wof:name":"Askersund",
     "wof:parent_id":85688421,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

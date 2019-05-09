@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005154,
+    "geom:area_square_m":32432781.025308,
     "geom:bbox":"17.991935359,59.3695052838,18.1232902415,59.4406364138",
     "geom:latitude":59.406153,
     "geom:longitude":18.054954,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Danderyd Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Danderyd Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":59.40006,
     "lbl:longitude":18.064896,
     "mps:latitude":59.40006,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159302913,
-    "wof:lastmodified":1529702704,
+    "wof:lastmodified":1554325308,
     "wof:name":"Danderyd",
     "wof:parent_id":85688429,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

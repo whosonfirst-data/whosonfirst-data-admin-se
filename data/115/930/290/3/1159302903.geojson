@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.376392,
+    "geom:area_square_m":2274006637.513699,
     "geom:bbox":"15.2543560452,60.4522228153,16.3865535821,61.0544627233",
     "geom:latitude":60.751274,
     "geom:longitude":15.839262,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Falun Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Falun Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":60.758684,
     "lbl:longitude":15.844462,
     "mps:latitude":60.758684,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159302903,
-    "wof:lastmodified":1529701967,
+    "wof:lastmodified":1554325308,
     "wof:name":"Falun",
     "wof:parent_id":85688447,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

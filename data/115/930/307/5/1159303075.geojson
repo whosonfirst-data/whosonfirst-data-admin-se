@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.313611,
+    "geom:area_square_m":1957288906.172838,
     "geom:bbox":"12.2748531253,59.384587576,13.0925380987,60.1365749967",
     "geom:latitude":59.68614,
     "geom:longitude":12.629871,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Arvika Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Arvika Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":59.631141,
     "lbl:longitude":12.636103,
     "mps:latitude":59.631141,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303075,
-    "wof:lastmodified":1529699947,
+    "wof:lastmodified":1554325313,
     "wof:name":"Arvika",
     "wof:parent_id":85688435,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

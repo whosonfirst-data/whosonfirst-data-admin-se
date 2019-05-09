@@ -10,6 +10,18 @@
     "geom:latitude":56.185929,
     "geom:longitude":14.910002,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Karlshamn Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Karlshamn Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":56.209352,
     "lbl:longitude":14.890046,
     "mps:latitude":56.209352,
@@ -51,11 +63,11 @@
         }
     ],
     "wof:id":1159302985,
-    "wof:lastmodified":1554166195,
+    "wof:lastmodified":1555037183,
     "wof:name":"Karlshamn",
     "wof:parent_id":85688383,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

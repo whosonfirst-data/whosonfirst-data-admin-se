@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.234079,
+    "geom:area_square_m":1415779262.815459,
     "geom:bbox":"14.3641005069,60.5415319608,15.636696978,60.9426981494",
     "geom:latitude":60.716159,
     "geom:longitude":14.924438,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Leksand Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Leksand Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":60.710333,
     "lbl:longitude":14.831836,
     "mps:latitude":60.710333,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303237,
-    "wof:lastmodified":1529701968,
+    "wof:lastmodified":1554325317,
     "wof:name":"Leksand",
     "wof:parent_id":85688447,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

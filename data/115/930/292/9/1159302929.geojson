@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.115479,
+    "geom:area_square_m":718336877.736542,
     "geom:bbox":"15.4220851611,59.6311319786,15.9968500667,59.9566684321",
     "geom:latitude":59.796892,
     "geom:longitude":15.721421,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Skinnskatteberg Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Skinnskatteberg Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":59.790974,
     "lbl:longitude":15.68718,
     "mps:latitude":59.790974,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159302929,
-    "wof:lastmodified":1529701967,
+    "wof:lastmodified":1554325309,
     "wof:name":"Skinnskatteberg",
     "wof:parent_id":85688425,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

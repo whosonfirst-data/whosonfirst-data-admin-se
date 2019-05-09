@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.171742,
+    "geom:area_square_m":1058987630.400784,
     "geom:bbox":"15.1253297694,59.8547471069,15.8015587303,60.2856156215",
     "geom:latitude":60.088108,
     "geom:longitude":15.455732,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Smedjebacken Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Smedjebacken Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":60.101076,
     "lbl:longitude":15.421651,
     "mps:latitude":60.101076,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303435,
-    "wof:lastmodified":1529701970,
+    "wof:lastmodified":1554325323,
     "wof:name":"Smedjebacken",
     "wof:parent_id":85688447,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

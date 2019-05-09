@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02788,
+    "geom:area_square_m":176553683.52118,
     "geom:bbox":"17.2449257842,59.120687973,17.5639003588,59.2735295243",
     "geom:latitude":59.194165,
     "geom:longitude":17.395266,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Nykvarn Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Nykvarn Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":59.186864,
     "lbl:longitude":17.397639,
     "mps:latitude":59.186864,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303199,
-    "wof:lastmodified":1529702705,
+    "wof:lastmodified":1554325316,
     "wof:name":"Nykvarn",
     "wof:parent_id":85688429,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

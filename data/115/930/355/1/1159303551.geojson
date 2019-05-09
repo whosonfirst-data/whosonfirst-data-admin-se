@@ -10,6 +10,18 @@
     "geom:latitude":56.235625,
     "geom:longitude":15.238697,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Ronneby Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Ronneby Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":56.210213,
     "lbl:longitude":15.238037,
     "mps:latitude":56.210213,
@@ -51,11 +63,11 @@
         }
     ],
     "wof:id":1159303551,
-    "wof:lastmodified":1554166196,
+    "wof:lastmodified":1555037175,
     "wof:name":"Ronneby",
     "wof:parent_id":85688383,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

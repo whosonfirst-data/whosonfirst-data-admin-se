@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.065641,
+    "geom:area_square_m":450754269.000296,
     "geom:bbox":"13.9706195532,56.1251216633,14.3421927727,56.4539063324",
     "geom:latitude":56.265303,
     "geom:longitude":14.14447,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Ostra Goinge Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "\u00d6stra G\u00f6inge Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":56.258841,
     "lbl:longitude":14.147301,
     "mps:latitude":56.258841,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303141,
-    "wof:lastmodified":1529702587,
+    "wof:lastmodified":1554325315,
     "wof:name":"Ostra Goinge",
     "wof:parent_id":85688377,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

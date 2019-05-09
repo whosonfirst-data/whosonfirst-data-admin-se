@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.524178,
+    "geom:area_square_m":16824167136.531725,
     "geom:bbox":"16.7323374942,66.2792164713,22.1984023438,68.1188120488",
     "geom:latitude":67.289138,
     "geom:longitude":20.078368,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Gallivare Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "G\u00e4llivare Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":67.277692,
     "lbl:longitude":20.305586,
     "mps:latitude":67.277692,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303507,
-    "wof:lastmodified":1529700118,
+    "wof:lastmodified":1554325325,
     "wof:name":"Gallivare",
     "wof:parent_id":85688471,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

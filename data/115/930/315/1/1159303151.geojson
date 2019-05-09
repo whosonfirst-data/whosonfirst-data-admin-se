@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.061056,
+    "geom:area_square_m":423962415.356935,
     "geom:bbox":"13.1291518699,55.6892383469,13.6415214156,56.0062938422",
     "geom:latitude":55.836118,
     "geom:longitude":13.367544,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Eslov Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Esl\u00f6v Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":55.842728,
     "lbl:longitude":13.350263,
     "mps:latitude":55.842728,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303151,
-    "wof:lastmodified":1529702587,
+    "wof:lastmodified":1554325315,
     "wof:name":"Eslov",
     "wof:parent_id":85688377,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

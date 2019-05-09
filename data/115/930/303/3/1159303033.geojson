@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.668632,
+    "geom:area_square_m":8740716130.622257,
     "geom:bbox":"14.3259863388,64.3532980132,17.7076545068,65.4446547483",
     "geom:latitude":64.935894,
     "geom:longitude":16.00651,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Vilhelmina Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Vilhelmina Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":65.009417,
     "lbl:longitude":15.97945,
     "mps:latitude":65.009417,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303033,
-    "wof:lastmodified":1529700117,
+    "wof:lastmodified":1554325312,
     "wof:name":"Vilhelmina",
     "wof:parent_id":85688465,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

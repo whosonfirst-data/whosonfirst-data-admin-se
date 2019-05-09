@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.366182,
+    "geom:area_square_m":2355019851.765695,
     "geom:bbox":"10.5920770129,58.4463867786,11.7245367505,58.9086769007",
     "geom:latitude":58.660831,
     "geom:longitude":11.139276,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Tanum Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Tanum Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":58.629228,
     "lbl:longitude":11.14048,
     "mps:latitude":58.629228,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303369,
-    "wof:lastmodified":1529700480,
+    "wof:lastmodified":1554325321,
     "wof:name":"Tanum",
     "wof:parent_id":85688411,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

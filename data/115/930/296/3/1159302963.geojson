@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.42026,
+    "geom:area_square_m":2560755756.318801,
     "geom:bbox":"17.1880243926,60.0880374981,18.4621184635,60.8554153455",
     "geom:latitude":60.475843,
     "geom:longitude":17.81163,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Tierp Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Tierp Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":60.474225,
     "lbl:longitude":17.820938,
     "mps:latitude":60.474225,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159302963,
-    "wof:lastmodified":1529702041,
+    "wof:lastmodified":1554325310,
     "wof:name":"Tierp",
     "wof:parent_id":85688439,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

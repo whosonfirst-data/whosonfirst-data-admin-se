@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.117424,
+    "geom:area_square_m":779865607.641657,
     "geom:bbox":"13.1353618902,57.2935447609,13.724776331,57.6819336343",
     "geom:latitude":57.512801,
     "geom:longitude":13.411232,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Tranemo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Tranemo Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":57.492335,
     "lbl:longitude":13.391519,
     "mps:latitude":57.492335,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303181,
-    "wof:lastmodified":1529702088,
+    "wof:lastmodified":1554325316,
     "wof:name":"Tranemo",
     "wof:parent_id":85688411,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

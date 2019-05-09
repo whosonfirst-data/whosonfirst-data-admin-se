@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.050607,
+    "geom:area_square_m":331909392.677628,
     "geom:bbox":"12.0071802637,57.8076811573,12.4344380358,58.1178965997",
     "geom:latitude":57.966797,
     "geom:longitude":12.230125,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Ale Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Ale Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":57.952358,
     "lbl:longitude":12.226769,
     "mps:latitude":57.952358,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303087,
-    "wof:lastmodified":1529702087,
+    "wof:lastmodified":1554325313,
     "wof:name":"Ale",
     "wof:parent_id":85688411,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

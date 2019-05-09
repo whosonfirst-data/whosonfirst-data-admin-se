@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.056793,
+    "geom:area_square_m":396601209.355756,
     "geom:bbox":"13.8503484182,55.4678057065,14.1668910935,55.7852751851",
     "geom:latitude":55.614768,
     "geom:longitude":14.013167,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Tomelilla Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Tomelilla Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":55.561507,
     "lbl:longitude":14.023347,
     "mps:latitude":55.561507,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159302959,
-    "wof:lastmodified":1529702586,
+    "wof:lastmodified":1554325310,
     "wof:name":"Tomelilla",
     "wof:parent_id":85688377,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.887694,
+    "geom:area_square_m":9956011030.555349,
     "geom:bbox":"19.347312534,64.1101016074,22.0991232104,65.3806620089",
     "geom:latitude":64.751897,
     "geom:longitude":20.849632,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Skelleftea Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Skellefte\u00e5 Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":64.82013,
     "lbl:longitude":20.849758,
     "mps:latitude":64.82013,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303205,
-    "wof:lastmodified":1529702547,
+    "wof:lastmodified":1554325316,
     "wof:name":"Skelleftea",
     "wof:parent_id":85688465,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

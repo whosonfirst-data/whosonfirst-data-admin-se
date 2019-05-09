@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.716957,
+    "geom:area_square_m":4313624653.610742,
     "geom:bbox":"12.6701774467,60.1749214798,14.0208987645,61.5220861155",
     "geom:latitude":60.88426,
     "geom:longitude":13.368455,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Malung-Salen Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Malung-S\u00e4len Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":60.895653,
     "lbl:longitude":13.358032,
     "mps:latitude":60.895653,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303431,
-    "wof:lastmodified":1529699947,
+    "wof:lastmodified":1554325323,
     "wof:name":"Malung-Salen",
     "wof:parent_id":85688447,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

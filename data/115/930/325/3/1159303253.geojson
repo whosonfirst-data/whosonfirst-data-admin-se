@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.361016,
+    "geom:area_square_m":2235731637.867948,
     "geom:bbox":"17.0789400379,59.7308371268,18.4749909389,60.1899116715",
     "geom:latitude":59.944884,
     "geom:longitude":17.716163,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Uppsala Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Uppsala Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":59.950009,
     "lbl:longitude":17.705836,
     "mps:latitude":59.950009,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303253,
-    "wof:lastmodified":1529702706,
+    "wof:lastmodified":1554325318,
     "wof:name":"Uppsala",
     "wof:parent_id":85688439,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

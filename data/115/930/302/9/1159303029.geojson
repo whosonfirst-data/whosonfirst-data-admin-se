@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.189687,
+    "geom:area_square_m":1214876962.877732,
     "geom:bbox":"15.4129151432,58.6014498128,16.182252561,59.0197394507",
     "geom:latitude":58.80465,
     "geom:longitude":15.77647,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Finspang Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Finsp\u00e5ng Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":58.807812,
     "lbl:longitude":15.776433,
     "mps:latitude":58.807812,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303029,
-    "wof:lastmodified":1529702827,
+    "wof:lastmodified":1554325312,
     "wof:name":"Finspang",
     "wof:parent_id":85688409,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

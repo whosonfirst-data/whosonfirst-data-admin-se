@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.063197,
+    "geom:area_square_m":440725346.450049,
     "geom:bbox":"13.1116578617,55.5243443184,13.6207421122,55.7940987635",
     "geom:latitude":55.667876,
     "geom:longitude":13.373148,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Lund Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Lund Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":55.641771,
     "lbl:longitude":13.44074,
     "mps:latitude":55.641771,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303449,
-    "wof:lastmodified":1529702589,
+    "wof:lastmodified":1554325323,
     "wof:name":"Lund",
     "wof:parent_id":85688377,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

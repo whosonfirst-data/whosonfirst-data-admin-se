@@ -10,6 +10,18 @@
     "geom:latitude":56.087184,
     "geom:longitude":15.756623,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Karlskrona Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Karlskrona Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":56.057912,
     "lbl:longitude":15.789846,
     "mps:latitude":56.057912,
@@ -51,11 +63,11 @@
         }
     ],
     "wof:id":1159303467,
-    "wof:lastmodified":1554166196,
+    "wof:lastmodified":1555037176,
     "wof:name":"Karlskrona",
     "wof:parent_id":85688383,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

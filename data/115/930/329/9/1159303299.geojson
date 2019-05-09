@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.059192,
+    "geom:area_square_m":368530013.78313,
     "geom:bbox":"15.9415518226,59.6548747278,16.3104886718,59.9102223564",
     "geom:latitude":59.76749,
     "geom:longitude":16.121438,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Surahammar Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Surahammar Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":59.763179,
     "lbl:longitude":16.117904,
     "mps:latitude":59.763179,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303299,
-    "wof:lastmodified":1529703017,
+    "wof:lastmodified":1554325319,
     "wof:name":"Surahammar",
     "wof:parent_id":85688425,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

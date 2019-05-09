@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.066919,
+    "geom:area_square_m":438165919.606572,
     "geom:bbox":"14.5931294352,57.927632242,15.0815393295,58.1510141277",
     "geom:latitude":58.026549,
     "geom:longitude":14.838207,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Tranas Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Tran\u00e5s Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":58.015399,
     "lbl:longitude":14.833529,
     "mps:latitude":58.015399,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303319,
-    "wof:lastmodified":1529702390,
+    "wof:lastmodified":1554325320,
     "wof:name":"Tranas",
     "wof:parent_id":85688395,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

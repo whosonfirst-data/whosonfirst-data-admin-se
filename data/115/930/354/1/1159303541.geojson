@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.065696,
+    "geom:area_square_m":427852945.347802,
     "geom:bbox":"12.1351566326,58.0956787384,12.5802297652,58.3407120718",
     "geom:latitude":58.217955,
     "geom:longitude":12.347071,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Trollhattan Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Trollh\u00e4ttan Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":58.2056,
     "lbl:longitude":12.298312,
     "mps:latitude":58.2056,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303541,
-    "wof:lastmodified":1529702093,
+    "wof:lastmodified":1554325326,
     "wof:name":"Trollhattan",
     "wof:parent_id":85688411,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

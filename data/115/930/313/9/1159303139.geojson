@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.198697,
+    "geom:area_square_m":1302001793.562816,
     "geom:bbox":"15.3594120498,57.788335232,16.0920309882,58.2094534914",
     "geom:latitude":57.999084,
     "geom:longitude":15.729888,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Kinda Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Kinda Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":58.022213,
     "lbl:longitude":15.796267,
     "mps:latitude":58.022213,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303139,
-    "wof:lastmodified":1529702455,
+    "wof:lastmodified":1554325314,
     "wof:name":"Kinda",
     "wof:parent_id":85688409,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

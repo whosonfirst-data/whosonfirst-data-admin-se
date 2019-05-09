@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.084046,
+    "geom:area_square_m":550913852.153619,
     "geom:bbox":"12.3403875564,57.7631234564,12.7117484215,58.1972144309",
     "geom:latitude":57.986944,
     "geom:longitude":12.535614,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Alingsas Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Alings\u00e5s Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":57.890165,
     "lbl:longitude":12.535671,
     "mps:latitude":57.890165,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303193,
-    "wof:lastmodified":1529702089,
+    "wof:lastmodified":1554325316,
     "wof:name":"Alingsas",
     "wof:parent_id":85688411,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

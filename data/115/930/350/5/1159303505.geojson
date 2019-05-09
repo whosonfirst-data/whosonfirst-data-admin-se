@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.986478,
+    "geom:area_square_m":19340898262.439919,
     "geom:bbox":"16.0898262985,65.9090080658,21.2742404677,67.9055481187",
     "geom:latitude":66.897868,
     "geom:longitude":18.648757,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Jokkmokk Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Jokkmokk Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":66.626626,
     "lbl:longitude":19.296332,
     "mps:latitude":66.626626,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303505,
-    "wof:lastmodified":1529700117,
+    "wof:lastmodified":1554325325,
     "wof:name":"Jokkmokk",
     "wof:parent_id":85688471,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

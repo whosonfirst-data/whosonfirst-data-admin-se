@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.106907,
+    "geom:area_square_m":694980001.909856,
     "geom:bbox":"10.8175518006,58.1739720025,11.6002899937,58.4957577524",
     "geom:latitude":58.282606,
     "geom:longitude":11.26943,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Lysekil Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Lysekil Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":58.233475,
     "lbl:longitude":11.269595,
     "mps:latitude":58.233475,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303273,
-    "wof:lastmodified":1529702089,
+    "wof:lastmodified":1554325318,
     "wof:name":"Lysekil",
     "wof:parent_id":85688411,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

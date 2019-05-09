@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.301567,
+    "geom:area_square_m":15242695292.112669,
     "geom:bbox":"17.5878587038,56.70070482,19.7354476169,58.5966626162",
     "geom:latitude":57.614859,
     "geom:longitude":18.687744,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Gotland Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Gotland Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":57.584383,
     "lbl:longitude":18.671508,
     "mps:latitude":57.584383,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303535,
-    "wof:lastmodified":1529702018,
+    "wof:lastmodified":1554325326,
     "wof:name":"Gotland",
     "wof:parent_id":85688405,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

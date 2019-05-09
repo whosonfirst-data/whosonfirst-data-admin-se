@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.141215,
+    "geom:area_square_m":963728213.100263,
     "geom:bbox":"12.7972664785,56.3235683167,13.4673742967,56.687880723",
     "geom:latitude":56.501648,
     "geom:longitude":13.180157,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Laholm Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Laholm Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":56.49371,
     "lbl:longitude":13.185165,
     "mps:latitude":56.49371,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303423,
-    "wof:lastmodified":1529702314,
+    "wof:lastmodified":1554325323,
     "wof:name":"Laholm",
     "wof:parent_id":85688391,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

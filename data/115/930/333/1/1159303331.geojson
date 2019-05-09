@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.181808,
+    "geom:area_square_m":1136651994.110833,
     "geom:bbox":"16.2349253254,59.4528357447,16.9649022721,59.8463755056",
     "geom:latitude":59.628254,
     "geom:longitude":16.567068,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Vasteras Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "V\u00e4ster\u00e5s Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":59.626597,
     "lbl:longitude":16.501009,
     "mps:latitude":59.626597,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303331,
-    "wof:lastmodified":1529702828,
+    "wof:lastmodified":1554325320,
     "wof:name":"Vasteras",
     "wof:parent_id":85688425,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

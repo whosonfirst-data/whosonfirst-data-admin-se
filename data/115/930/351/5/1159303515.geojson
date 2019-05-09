@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.519842,
+    "geom:area_square_m":3113141235.425229,
     "geom:bbox":"13.5426098393,60.6642428702,15.0420385501,61.6213509329",
     "geom:latitude":61.032212,
     "geom:longitude":14.260638,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Mora Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Mora Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":60.899499,
     "lbl:longitude":14.24883,
     "mps:latitude":60.899499,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303515,
-    "wof:lastmodified":1529701970,
+    "wof:lastmodified":1554325325,
     "wof:name":"Mora",
     "wof:parent_id":85688447,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.16306,
+    "geom:area_square_m":1064127669.02236,
     "geom:bbox":"13.1886317282,57.909962906,13.8909637689,58.4394216237",
     "geom:latitude":58.145016,
     "geom:longitude":13.550134,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Falkoping Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Falk\u00f6ping Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":58.15585,
     "lbl:longitude":13.573989,
     "mps:latitude":58.15585,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303137,
-    "wof:lastmodified":1529702087,
+    "wof:lastmodified":1554325314,
     "wof:name":"Falkoping",
     "wof:parent_id":85688411,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

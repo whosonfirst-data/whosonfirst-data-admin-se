@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013491,
+    "geom:area_square_m":92965349.978489,
     "geom:bbox":"12.836679602,56.0745437507,13.1065534876,56.1874095589",
     "geom:latitude":56.130755,
     "geom:longitude":12.990352,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Astorp Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "\u00c5storp Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":56.144546,
     "lbl:longitude":12.992441,
     "mps:latitude":56.144546,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303163,
-    "wof:lastmodified":1529702587,
+    "wof:lastmodified":1554325315,
     "wof:name":"Astorp",
     "wof:parent_id":85688377,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

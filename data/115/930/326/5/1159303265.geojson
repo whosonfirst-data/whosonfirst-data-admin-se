@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.055789,
+    "geom:area_square_m":348577958.1889,
     "geom:bbox":"17.572026646,59.5488156722,18.1523896065,59.7455691416",
     "geom:latitude":59.648453,
     "geom:longitude":17.891236,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Sigtuna Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Sigtuna Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":59.629858,
     "lbl:longitude":17.89113,
     "mps:latitude":59.629858,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303265,
-    "wof:lastmodified":1529702706,
+    "wof:lastmodified":1554325318,
     "wof:name":"Sigtuna",
     "wof:parent_id":85688429,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

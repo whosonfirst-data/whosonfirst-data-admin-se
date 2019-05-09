@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.129306,
+    "geom:area_square_m":883764900.50021,
     "geom:bbox":"12.184094896,56.3116195213,12.9702069292,56.5576697396",
     "geom:latitude":56.44988,
     "geom:longitude":12.597028,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Bastad Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "B\u00e5stad Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":56.433116,
     "lbl:longitude":12.643705,
     "mps:latitude":56.433116,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159302919,
-    "wof:lastmodified":1529702314,
+    "wof:lastmodified":1554325308,
     "wof:name":"Bastad",
     "wof:parent_id":85688377,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

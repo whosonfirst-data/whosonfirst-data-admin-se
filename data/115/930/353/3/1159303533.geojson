@@ -10,6 +10,18 @@
     "geom:latitude":56.63578,
     "geom:longitude":15.553777,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Emmaboda Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Emmaboda Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":56.615701,
     "lbl:longitude":15.527654,
     "mps:latitude":56.615701,
@@ -51,11 +63,11 @@
         }
     ],
     "wof:id":1159303533,
-    "wof:lastmodified":1554166173,
+    "wof:lastmodified":1555037175,
     "wof:name":"Emmaboda",
     "wof:parent_id":85688401,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

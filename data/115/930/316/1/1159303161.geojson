@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.169507,
+    "geom:area_square_m":1116551987.029807,
     "geom:bbox":"13.1063216158,57.610554468,13.7912384857,58.0107560773",
     "geom:latitude":57.811277,
     "geom:longitude":13.46251,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Ulricehamn Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Ulricehamn Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":57.797917,
     "lbl:longitude":13.428386,
     "mps:latitude":57.797917,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303161,
-    "wof:lastmodified":1529702088,
+    "wof:lastmodified":1554325315,
     "wof:name":"Ulricehamn",
     "wof:parent_id":85688411,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

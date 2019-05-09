@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.051778,
+    "geom:area_square_m":324693459.974823,
     "geom:bbox":"17.4657095536,59.4183430528,17.8346460813,59.648740716",
     "geom:latitude":59.526284,
     "geom:longitude":17.652104,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Upplands-Bro Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Upplands-Bro Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":59.530879,
     "lbl:longitude":17.666992,
     "mps:latitude":59.530879,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303115,
-    "wof:lastmodified":1529702705,
+    "wof:lastmodified":1554325314,
     "wof:name":"Upplands-Bro",
     "wof:parent_id":85688429,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

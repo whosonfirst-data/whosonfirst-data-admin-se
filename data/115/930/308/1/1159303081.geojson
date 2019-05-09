@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.434264,
+    "geom:area_square_m":2519112697.417583,
     "geom:bbox":"16.0181219085,61.8120598209,18.1156506716,62.2586867881",
     "geom:latitude":62.022612,
     "geom:longitude":17.283997,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Nordanstig Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Nordanstig Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":62.001917,
     "lbl:longitude":17.355197,
     "mps:latitude":62.001917,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303081,
-    "wof:lastmodified":1529702040,
+    "wof:lastmodified":1554325313,
     "wof:name":"Nordanstig",
     "wof:parent_id":85688453,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

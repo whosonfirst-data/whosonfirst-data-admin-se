@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.3388,
+    "geom:area_square_m":2162110495.90898,
     "geom:bbox":"17.9149522787,58.6180764845,18.940784015,59.2197120503",
     "geom:latitude":58.930966,
     "geom:longitude":18.382955,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Haninge Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Haninge Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":58.896056,
     "lbl:longitude":18.383076,
     "mps:latitude":58.896056,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303483,
-    "wof:lastmodified":1529702708,
+    "wof:lastmodified":1554325324,
     "wof:name":"Haninge",
     "wof:parent_id":85688429,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

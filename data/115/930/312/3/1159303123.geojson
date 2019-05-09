@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.314654,
+    "geom:area_square_m":2051730865.147135,
     "geom:bbox":"16.2506124041,57.9855897653,17.5470822101,58.3941969346",
     "geom:latitude":58.174731,
     "geom:longitude":16.929595,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Valdemarsvik Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Valdemarsvik Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":58.14784,
     "lbl:longitude":16.929452,
     "mps:latitude":58.14784,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303123,
-    "wof:lastmodified":1529702455,
+    "wof:lastmodified":1554325314,
     "wof:name":"Valdemarsvik",
     "wof:parent_id":85688409,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

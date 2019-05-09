@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.267941,
+    "geom:area_square_m":1647449620.652629,
     "geom:bbox":"14.1432564652,59.997158085,15.243991456,60.4201905258",
     "geom:latitude":60.181975,
     "geom:longitude":14.763299,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Ludvika Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Ludvika Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":60.21056,
     "lbl:longitude":14.955096,
     "mps:latitude":60.21056,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303345,
-    "wof:lastmodified":1529701969,
+    "wof:lastmodified":1554325320,
     "wof:name":"Ludvika",
     "wof:parent_id":85688447,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

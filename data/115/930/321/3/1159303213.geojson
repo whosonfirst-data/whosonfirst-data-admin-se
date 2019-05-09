@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002901,
+    "geom:area_square_m":20247730.914799,
     "geom:bbox":"13.0181293571,55.6019789064,13.1398545475,55.6653534438",
     "geom:latitude":55.633588,
     "geom:longitude":13.094486,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Burlov Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Burl\u00f6v Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":55.631696,
     "lbl:longitude":13.090336,
     "mps:latitude":55.631696,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303213,
-    "wof:lastmodified":1529702587,
+    "wof:lastmodified":1554325317,
     "wof:name":"Burlov",
     "wof:parent_id":85688377,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

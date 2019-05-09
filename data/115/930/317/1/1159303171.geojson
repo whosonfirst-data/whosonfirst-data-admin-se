@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.077869,
+    "geom:area_square_m":510051335.023281,
     "geom:bbox":"12.8372301436,57.8891879239,13.3742562335,58.1290235799",
     "geom:latitude":58.013489,
     "geom:longitude":13.111207,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Herrljunga Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Herrljunga Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":58.012042,
     "lbl:longitude":13.106131,
     "mps:latitude":58.012042,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303171,
-    "wof:lastmodified":1529702088,
+    "wof:lastmodified":1554325315,
     "wof:name":"Herrljunga",
     "wof:parent_id":85688411,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

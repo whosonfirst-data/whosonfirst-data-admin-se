@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.084516,
+    "geom:area_square_m":536961051.834789,
     "geom:bbox":"16.8810551292,58.9171546108,17.4112340223,59.2054864714",
     "geom:latitude":59.08205,
     "geom:longitude":17.149213,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Gnesta Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Gnesta Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":59.085099,
     "lbl:longitude":17.153294,
     "mps:latitude":59.085099,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159302949,
-    "wof:lastmodified":1529702704,
+    "wof:lastmodified":1554325309,
     "wof:name":"Gnesta",
     "wof:parent_id":85688419,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

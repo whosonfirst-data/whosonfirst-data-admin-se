@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.070119,
+    "geom:area_square_m":459827763.933534,
     "geom:bbox":"13.8562010831,57.804486596,14.313496917,58.1457457867",
     "geom:latitude":57.972381,
     "geom:longitude":14.084058,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Habo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Habo Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":57.942938,
     "lbl:longitude":14.065212,
     "mps:latitude":57.942938,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303143,
-    "wof:lastmodified":1529702087,
+    "wof:lastmodified":1554325315,
     "wof:name":"Habo",
     "wof:parent_id":85688395,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.203227,
+    "geom:area_square_m":1302312392.769472,
     "geom:bbox":"17.7075219577,58.4888599735,18.363922827,59.1213191834",
     "geom:latitude":58.783933,
     "geom:longitude":17.961659,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Nynashamn Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Nyn\u00e4shamn Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":58.729392,
     "lbl:longitude":17.929553,
     "mps:latitude":58.729392,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303285,
-    "wof:lastmodified":1529702706,
+    "wof:lastmodified":1554325319,
     "wof:name":"Nynashamn",
     "wof:parent_id":85688429,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

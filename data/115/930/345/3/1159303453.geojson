@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.143584,
+    "geom:area_square_m":893170913.428504,
     "geom:bbox":"11.839667072,59.5752924644,12.4918583309,60.0403025988",
     "geom:latitude":59.796783,
     "geom:longitude":12.192885,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Eda Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Eda Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":59.757128,
     "lbl:longitude":12.187934,
     "mps:latitude":59.757128,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303453,
-    "wof:lastmodified":1529699719,
+    "wof:lastmodified":1554325323,
     "wof:name":"Eda",
     "wof:parent_id":85688435,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

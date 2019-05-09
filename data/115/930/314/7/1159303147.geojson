@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.242111,
+    "geom:area_square_m":1569942526.343889,
     "geom:bbox":"15.2561083072,58.0632755457,16.0726612357,58.6524181229",
     "geom:latitude":58.371533,
     "geom:longitude":15.598848,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Linkoping Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Link\u00f6ping Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":58.392675,
     "lbl:longitude":15.592576,
     "mps:latitude":58.392675,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303147,
-    "wof:lastmodified":1529703071,
+    "wof:lastmodified":1554325315,
     "wof:name":"Linkoping",
     "wof:parent_id":85688409,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

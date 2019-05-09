@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.086088,
+    "geom:area_square_m":6145089957.381614,
     "geom:bbox":"12.0746887685,62.2809262693,14.9175141045,63.0983245237",
     "geom:latitude":62.769062,
     "geom:longitude":13.782736,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Berg Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Berg Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":62.695431,
     "lbl:longitude":14.279322,
     "mps:latitude":62.695431,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303129,
-    "wof:lastmodified":1529700302,
+    "wof:lastmodified":1554325314,
     "wof:name":"Berg",
     "wof:parent_id":85688461,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.105639,
+    "geom:area_square_m":683898819.780091,
     "geom:bbox":"13.6227544241,58.2474337931,14.1519010531,58.5954881224",
     "geom:latitude":58.4285,
     "geom:longitude":13.90589,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Skovde Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Sk\u00f6vde Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":58.413687,
     "lbl:longitude":13.932081,
     "mps:latitude":58.413687,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159302921,
-    "wof:lastmodified":1529702084,
+    "wof:lastmodified":1554325308,
     "wof:name":"Skovde",
     "wof:parent_id":85688411,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

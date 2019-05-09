@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.085628,
+    "geom:area_square_m":556013386.18352,
     "geom:bbox":"14.834328529,58.134647289,15.3761878319,58.4734891373",
     "geom:latitude":58.323043,
     "geom:longitude":15.167202,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Mjolby Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Mj\u00f6lby Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":58.359693,
     "lbl:longitude":15.17159,
     "mps:latitude":58.359693,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159302925,
-    "wof:lastmodified":1529703070,
+    "wof:lastmodified":1554325309,
     "wof:name":"Mjolby",
     "wof:parent_id":85688409,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

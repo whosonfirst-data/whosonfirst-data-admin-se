@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.187989,
+    "geom:area_square_m":1129633962.518746,
     "geom:bbox":"16.1311603657,60.751516771,16.9542534585,61.0905620758",
     "geom:latitude":60.924653,
     "geom:longitude":16.573329,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Ockelbo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Ockelbo Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":60.936864,
     "lbl:longitude":16.622212,
     "mps:latitude":60.936864,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303283,
-    "wof:lastmodified":1529701969,
+    "wof:lastmodified":1554325319,
     "wof:name":"Ockelbo",
     "wof:parent_id":85688453,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

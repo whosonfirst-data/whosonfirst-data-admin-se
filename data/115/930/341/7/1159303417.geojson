@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.191243,
+    "geom:area_square_m":11782894300.495836,
     "geom:bbox":"13.6542595299,63.3467922387,16.7189462995,65.1189155389",
     "geom:latitude":64.221848,
     "geom:longitude":15.225284,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Stromsund Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Str\u00f6msund Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":64.117316,
     "lbl:longitude":15.380001,
     "mps:latitude":64.117316,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303417,
-    "wof:lastmodified":1529700185,
+    "wof:lastmodified":1554325323,
     "wof:name":"Stromsund",
     "wof:parent_id":85688461,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

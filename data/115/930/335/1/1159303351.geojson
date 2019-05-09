@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.15503,
+    "geom:area_square_m":977077455.261808,
     "geom:bbox":"16.6986965757,59.1685393353,17.4260753963,59.5305119486",
     "geom:latitude":59.356253,
     "geom:longitude":17.069751,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Strangnas Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Str\u00e4ngn\u00e4s Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":59.356818,
     "lbl:longitude":17.069688,
     "mps:latitude":59.356818,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303351,
-    "wof:lastmodified":1529702707,
+    "wof:lastmodified":1554325321,
     "wof:name":"Strangnas",
     "wof:parent_id":85688419,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

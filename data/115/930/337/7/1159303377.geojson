@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.067425,
+    "geom:area_square_m":449724972.05068,
     "geom:bbox":"13.5683329916,57.234485885,14.0603105044,57.4817284112",
     "geom:latitude":57.356108,
     "geom:longitude":13.804833,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Gnosjo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Gnosj\u00f6 Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":57.348906,
     "lbl:longitude":13.788016,
     "mps:latitude":57.348906,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303377,
-    "wof:lastmodified":1529702391,
+    "wof:lastmodified":1554325321,
     "wof:name":"Gnosjo",
     "wof:parent_id":85688395,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

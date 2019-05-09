@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.03216,
+    "geom:area_square_m":211008020.150661,
     "geom:bbox":"13.6866654939,57.8294001026,13.9624662873,58.0564094388",
     "geom:latitude":57.953054,
     "geom:longitude":13.827937,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Mullsjo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Mullsj\u00f6 Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":57.976631,
     "lbl:longitude":13.837496,
     "mps:latitude":57.976631,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303051,
-    "wof:lastmodified":1529702086,
+    "wof:lastmodified":1554325312,
     "wof:name":"Mullsjo",
     "wof:parent_id":85688395,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

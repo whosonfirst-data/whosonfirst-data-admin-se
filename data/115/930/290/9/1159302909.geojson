@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.115911,
+    "geom:area_square_m":747902117.837565,
     "geom:bbox":"16.9857794242,58.3979839826,17.8122348583,58.7069530027",
     "geom:latitude":58.547754,
     "geom:longitude":17.373634,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Oxelosund Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Oxel\u00f6sund Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":58.547725,
     "lbl:longitude":17.373666,
     "mps:latitude":58.547725,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159302909,
-    "wof:lastmodified":1529702827,
+    "wof:lastmodified":1554325308,
     "wof:name":"Oxelosund",
     "wof:parent_id":85688419,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

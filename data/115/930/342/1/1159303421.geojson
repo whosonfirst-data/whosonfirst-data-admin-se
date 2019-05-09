@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.043354,
+    "geom:area_square_m":281459291.659946,
     "geom:bbox":"12.441414277,58.2186000306,12.8534436327,58.4341447404",
     "geom:latitude":58.329956,
     "geom:longitude":12.660254,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Grastorp Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Gr\u00e4storp Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":58.334872,
     "lbl:longitude":12.639973,
     "mps:latitude":58.334872,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303421,
-    "wof:lastmodified":1529702092,
+    "wof:lastmodified":1554325323,
     "wof:name":"Grastorp",
     "wof:parent_id":85688411,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

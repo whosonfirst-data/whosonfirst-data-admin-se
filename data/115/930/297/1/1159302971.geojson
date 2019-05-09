@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.04994,
+    "geom:area_square_m":309246712.234032,
     "geom:bbox":"15.6768153818,59.8510005663,16.113528977,60.0474938414",
     "geom:latitude":59.947441,
     "geom:longitude":15.886858,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Fagersta Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Fagersta Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":59.927613,
     "lbl:longitude":15.944884,
     "mps:latitude":59.927613,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159302971,
-    "wof:lastmodified":1529701967,
+    "wof:lastmodified":1554325310,
     "wof:name":"Fagersta",
     "wof:parent_id":85688425,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

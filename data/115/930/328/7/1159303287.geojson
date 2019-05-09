@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.081247,
+    "geom:area_square_m":511739524.489725,
     "geom:bbox":"14.324873362,59.2322443545,14.7884491794,59.5424653438",
     "geom:latitude":59.377351,
     "geom:longitude":14.56577,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Karlskoga Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Karlskoga Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":59.391895,
     "lbl:longitude":14.569347,
     "mps:latitude":59.391895,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303287,
-    "wof:lastmodified":1529702901,
+    "wof:lastmodified":1554325319,
     "wof:name":"Karlskoga",
     "wof:parent_id":85688421,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

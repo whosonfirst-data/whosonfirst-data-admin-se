@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.139257,
+    "geom:area_square_m":888066670.459204,
     "geom:bbox":"12.4023192341,58.7474614245,12.8987722534,59.1860615617",
     "geom:latitude":58.950526,
     "geom:longitude":12.641579,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Amal Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "\u00c5m\u00e5l Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":58.952819,
     "lbl:longitude":12.636653,
     "mps:latitude":58.952819,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303547,
-    "wof:lastmodified":1529702094,
+    "wof:lastmodified":1554325326,
     "wof:name":"Amal",
     "wof:parent_id":85688411,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

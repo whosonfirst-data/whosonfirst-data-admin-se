@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.101621,
+    "geom:area_square_m":629478814.678988,
     "geom:bbox":"14.7373996894,59.7679937995,15.2284939219,60.1104393244",
     "geom:latitude":59.937093,
     "geom:longitude":14.967989,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Ljusnarsberg Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Ljusnarsberg Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":59.915232,
     "lbl:longitude":14.987614,
     "mps:latitude":59.915232,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303323,
-    "wof:lastmodified":1529701969,
+    "wof:lastmodified":1554325320,
     "wof:name":"Ljusnarsberg",
     "wof:parent_id":85688421,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

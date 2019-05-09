@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.109304,
+    "geom:area_square_m":729615907.003302,
     "geom:bbox":"14.362949145,57.1437604923,14.8284150034,57.4904940501",
     "geom:latitude":57.327823,
     "geom:longitude":14.580966,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Savsjo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "S\u00e4vsj\u00f6 Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":57.319936,
     "lbl:longitude":14.576454,
     "mps:latitude":57.319936,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303069,
-    "wof:lastmodified":1529702389,
+    "wof:lastmodified":1554325313,
     "wof:name":"Savsjo",
     "wof:parent_id":85688395,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

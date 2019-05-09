@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.202668,
+    "geom:area_square_m":6123379191.868752,
     "geom:bbox":"18.176772094,65.1429741972,20.2165524751,66.1753259272",
     "geom:latitude":65.683974,
     "geom:longitude":19.25883,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Arvidsjaur Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Arvidsjaur Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":65.674104,
     "lbl:longitude":19.259216,
     "mps:latitude":65.674104,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303009,
-    "wof:lastmodified":1529702546,
+    "wof:lastmodified":1554325311,
     "wof:name":"Arvidsjaur",
     "wof:parent_id":85688471,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

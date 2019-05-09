@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023412,
+    "geom:area_square_m":161100714.105555,
     "geom:bbox":"13.2646543471,56.095184194,13.4687016907,56.2681976588",
     "geom:latitude":56.186896,
     "geom:longitude":13.374746,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Perstorp Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Perstorp Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":56.19448,
     "lbl:longitude":13.374729,
     "mps:latitude":56.19448,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303201,
-    "wof:lastmodified":1529702587,
+    "wof:lastmodified":1554325316,
     "wof:name":"Perstorp",
     "wof:parent_id":85688377,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.333245,
+    "geom:area_square_m":1978029045.211625,
     "geom:bbox":"15.9215582911,60.991919682,16.7477633506,61.6453263751",
     "geom:latitude":61.312563,
     "geom:longitude":16.377962,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Bollnas Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Bolln\u00e4s Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":61.275204,
     "lbl:longitude":16.411264,
     "mps:latitude":61.275204,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303465,
-    "wof:lastmodified":1529701970,
+    "wof:lastmodified":1554325324,
     "wof:name":"Bollnas",
     "wof:parent_id":85688453,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

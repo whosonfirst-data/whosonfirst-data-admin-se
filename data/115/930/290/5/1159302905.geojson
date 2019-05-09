@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017116,
+    "geom:area_square_m":107728545.474919,
     "geom:bbox":"18.1218166543,59.3526066323,18.449755436,59.4504390645",
     "geom:latitude":59.401638,
     "geom:longitude":18.304272,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Vaxholm Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Vaxholm Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":59.407914,
     "lbl:longitude":18.329121,
     "mps:latitude":59.407914,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159302905,
-    "wof:lastmodified":1529702704,
+    "wof:lastmodified":1554325308,
     "wof:name":"Vaxholm",
     "wof:parent_id":85688429,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

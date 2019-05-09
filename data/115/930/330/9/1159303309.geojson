@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.16698,
+    "geom:area_square_m":1175353237.924616,
     "geom:bbox":"12.9682953593,55.1372125579,13.5375815076,55.5108353507",
     "geom:latitude":55.301997,
     "geom:longitude":13.259645,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Trelleborg Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Trelleborg Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":55.306809,
     "lbl:longitude":13.254253,
     "mps:latitude":55.306809,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303309,
-    "wof:lastmodified":1529702588,
+    "wof:lastmodified":1554325319,
     "wof:name":"Trelleborg",
     "wof:parent_id":85688377,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.211716,
+    "geom:area_square_m":1322247739.021493,
     "geom:bbox":"16.7273502429,59.3841388628,17.5373367584,59.8847936344",
     "geom:latitude":59.66349,
     "geom:longitude":17.142719,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Enkoping Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Enk\u00f6ping Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":59.689346,
     "lbl:longitude":17.075304,
     "mps:latitude":59.689346,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303337,
-    "wof:lastmodified":1529702707,
+    "wof:lastmodified":1554325320,
     "wof:name":"Enkoping",
     "wof:parent_id":85688439,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

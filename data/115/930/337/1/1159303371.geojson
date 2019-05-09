@@ -10,6 +10,18 @@
     "geom:latitude":57.398632,
     "geom:longitude":15.801284,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Hultsfred Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Hultsfred Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":57.387344,
     "lbl:longitude":15.770037,
     "mps:latitude":57.387344,
@@ -51,11 +63,11 @@
         }
     ],
     "wof:id":1159303371,
-    "wof:lastmodified":1554166173,
+    "wof:lastmodified":1555037177,
     "wof:name":"Hultsfred",
     "wof:parent_id":85688401,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

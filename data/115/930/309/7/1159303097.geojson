@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.247126,
+    "geom:area_square_m":6814681680.639896,
     "geom:bbox":"13.276630717,63.208350369,15.1065887911,64.3982465172",
     "geom:latitude":63.773765,
     "geom:longitude":14.207687,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Krokom Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Krokom Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":63.761427,
     "lbl:longitude":14.224959,
     "mps:latitude":63.761427,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303097,
-    "wof:lastmodified":1529700184,
+    "wof:lastmodified":1554325313,
     "wof:name":"Krokom",
     "wof:parent_id":85688461,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

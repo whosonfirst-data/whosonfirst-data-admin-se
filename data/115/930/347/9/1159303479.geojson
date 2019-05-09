@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0695,
+    "geom:area_square_m":450564692.317495,
     "geom:bbox":"13.1717850723,58.2749071706,13.7892544847,58.4829865469",
     "geom:latitude":58.379306,
     "geom:longitude":13.478664,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Skara Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Skara Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":58.364964,
     "lbl:longitude":13.477883,
     "mps:latitude":58.364964,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303479,
-    "wof:lastmodified":1529702092,
+    "wof:lastmodified":1554325324,
     "wof:name":"Skara",
     "wof:parent_id":85688411,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.101727,
+    "geom:area_square_m":552461490.93481,
     "geom:bbox":"19.4180050483,63.7884456675,19.9828641947,64.0862477228",
     "geom:latitude":63.947301,
     "geom:longitude":19.715519,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Vannas Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "V\u00e4nn\u00e4s Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":63.934798,
     "lbl:longitude":19.715594,
     "mps:latitude":63.934798,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303451,
-    "wof:lastmodified":1529702954,
+    "wof:lastmodified":1554325323,
     "wof:name":"Vannas",
     "wof:parent_id":85688465,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

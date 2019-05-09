@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.36703,
+    "geom:area_square_m":1922894561.077664,
     "geom:bbox":"18.7569673554,64.6672105604,20.2177555715,65.1940276214",
     "geom:latitude":64.931148,
     "geom:longitude":19.551725,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Norsjo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Norsj\u00f6 Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":64.975237,
     "lbl:longitude":19.551849,
     "mps:latitude":64.975237,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303021,
-    "wof:lastmodified":1529702546,
+    "wof:lastmodified":1554325311,
     "wof:name":"Norsjo",
     "wof:parent_id":85688465,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

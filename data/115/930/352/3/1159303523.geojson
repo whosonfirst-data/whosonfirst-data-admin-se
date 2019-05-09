@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.218275,
+    "geom:area_square_m":1381349041.335253,
     "geom:bbox":"13.5899868776,59.0127783389,14.3396297976,59.4891364212",
     "geom:latitude":59.215193,
     "geom:longitude":14.013936,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Kristinehamn Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Kristinehamn Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":59.213171,
     "lbl:longitude":14.013946,
     "mps:latitude":59.213171,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303523,
-    "wof:lastmodified":1529702093,
+    "wof:lastmodified":1554325325,
     "wof:name":"Kristinehamn",
     "wof:parent_id":85688435,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

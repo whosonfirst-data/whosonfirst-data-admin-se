@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023077,
+    "geom:area_square_m":152862381.708227,
     "geom:bbox":"11.948495588,57.5452390198,12.2772299183,57.6797137766",
     "geom:latitude":57.608673,
     "geom:longitude":12.089701,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Molndal Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "M\u00f6lndal Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":57.597727,
     "lbl:longitude":12.048708,
     "mps:latitude":57.597727,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303503,
-    "wof:lastmodified":1529702093,
+    "wof:lastmodified":1554325325,
     "wof:name":"Molndal",
     "wof:parent_id":85688411,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

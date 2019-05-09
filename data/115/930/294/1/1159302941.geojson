@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.302508,
+    "geom:area_square_m":1795309837.812968,
     "geom:bbox":"14.3045992911,61.0502115785,15.0911753675,61.5949478157",
     "geom:latitude":61.317944,
     "geom:longitude":14.716147,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Orsa Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Orsa Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":61.269747,
     "lbl:longitude":14.716214,
     "mps:latitude":61.269747,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159302941,
-    "wof:lastmodified":1529701967,
+    "wof:lastmodified":1554325309,
     "wof:name":"Orsa",
     "wof:parent_id":85688447,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

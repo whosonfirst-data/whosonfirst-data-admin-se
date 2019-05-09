@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.06949,
+    "geom:area_square_m":477171049.421045,
     "geom:bbox":"12.6406338816,56.1251380362,13.1990257138,56.3780990254",
     "geom:latitude":56.267139,
     "geom:longitude":12.944005,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Angelholm Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "\u00c4ngelholm Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":56.255101,
     "lbl:longitude":12.901855,
     "mps:latitude":56.255101,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303025,
-    "wof:lastmodified":1529702314,
+    "wof:lastmodified":1554325311,
     "wof:name":"Angelholm",
     "wof:parent_id":85688377,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

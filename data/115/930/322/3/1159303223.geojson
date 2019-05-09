@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.048369,
+    "geom:area_square_m":331703165.834681,
     "geom:bbox":"13.1172666609,56.1924470603,13.5803572546,56.4281855685",
     "geom:latitude":56.316852,
     "geom:longitude":13.339751,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Orkelljunga Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "\u00d6rkelljunga Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":56.327176,
     "lbl:longitude":13.343221,
     "mps:latitude":56.327176,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303223,
-    "wof:lastmodified":1529702314,
+    "wof:lastmodified":1554325317,
     "wof:name":"Orkelljunga",
     "wof:parent_id":85688377,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

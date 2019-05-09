@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.263645,
+    "geom:area_square_m":1824626000.20434,
     "geom:bbox":"13.7473839536,55.755000168,14.5944246917,56.3043045836",
     "geom:latitude":55.964603,
     "geom:longitude":14.215952,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Kristianstad Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Kristianstad Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":55.947852,
     "lbl:longitude":14.222265,
     "mps:latitude":55.947852,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303497,
-    "wof:lastmodified":1529701942,
+    "wof:lastmodified":1554325325,
     "wof:name":"Kristianstad",
     "wof:parent_id":85688377,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.771704,
+    "geom:area_square_m":4520830612.41509,
     "geom:bbox":"16.0655351948,61.3719729236,18.0073328742,62.2242597703",
     "geom:latitude":61.720786,
     "geom:longitude":17.076516,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Hudiksvall Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Hudiksvall Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":61.628296,
     "lbl:longitude":17.224441,
     "mps:latitude":61.628296,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303395,
-    "wof:lastmodified":1529702040,
+    "wof:lastmodified":1554325322,
     "wof:name":"Hudiksvall",
     "wof:parent_id":85688453,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

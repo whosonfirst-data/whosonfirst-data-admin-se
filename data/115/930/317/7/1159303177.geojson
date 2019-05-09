@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.047187,
+    "geom:area_square_m":310705684.143929,
     "geom:bbox":"12.1409970956,57.7235530736,12.4909492051,57.9794712675",
     "geom:latitude":57.824955,
     "geom:longitude":12.324768,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Lerum Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Lerum Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":57.819086,
     "lbl:longitude":12.327489,
     "mps:latitude":57.819086,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303177,
-    "wof:lastmodified":1529702088,
+    "wof:lastmodified":1554325316,
     "wof:name":"Lerum",
     "wof:parent_id":85688411,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

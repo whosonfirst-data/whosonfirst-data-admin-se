@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.109933,
+    "geom:area_square_m":689210673.025285,
     "geom:bbox":"14.6249684987,59.3579671364,15.1725360592,59.7271513039",
     "geom:latitude":59.534583,
     "geom:longitude":14.8895,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Nora Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Nora Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":59.543904,
     "lbl:longitude":14.871036,
     "mps:latitude":59.543904,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303053,
-    "wof:lastmodified":1529703039,
+    "wof:lastmodified":1554325312,
     "wof:name":"Nora",
     "wof:parent_id":85688421,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

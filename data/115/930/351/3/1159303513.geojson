@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.058919,
+    "geom:area_square_m":368806314.097717,
     "geom:bbox":"17.9681767513,59.486229241,18.4379838192,59.6883937555",
     "geom:latitude":59.587625,
     "geom:longitude":18.198389,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Vallentuna Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Vallentuna Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":59.584295,
     "lbl:longitude":18.193972,
     "mps:latitude":59.584295,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303513,
-    "wof:lastmodified":1529702708,
+    "wof:lastmodified":1554325325,
     "wof:name":"Vallentuna",
     "wof:parent_id":85688429,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

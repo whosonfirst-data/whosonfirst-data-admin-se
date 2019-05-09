@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.271393,
+    "geom:area_square_m":1829321438.689387,
     "geom:bbox":"12.0134291695,56.6790263411,13.1007599903,57.3009859505",
     "geom:latitude":56.96974,
     "geom:longitude":12.576236,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Falkenberg Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Falkenberg Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":56.873345,
     "lbl:longitude":12.440682,
     "mps:latitude":56.873345,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303247,
-    "wof:lastmodified":1529702089,
+    "wof:lastmodified":1554325318,
     "wof:name":"Falkenberg",
     "wof:parent_id":85688391,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.102998,
+    "geom:area_square_m":624056537.274691,
     "geom:bbox":"17.2876857097,60.4468405373,18.109661493,60.9085223194",
     "geom:latitude":60.671276,
     "geom:longitude":17.657875,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Alvkarleby Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "\u00c4lvkarleby Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":60.628662,
     "lbl:longitude":17.527011,
     "mps:latitude":60.628662,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303107,
-    "wof:lastmodified":1529702040,
+    "wof:lastmodified":1554325314,
     "wof:name":"Alvkarleby",
     "wof:parent_id":85688439,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

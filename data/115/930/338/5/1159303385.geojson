@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.383347,
+    "geom:area_square_m":2280345033.080768,
     "geom:bbox":"16.5522191272,61.038991042,17.8388256123,61.5350851977",
     "geom:latitude":61.244688,
     "geom:longitude":17.196235,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Soderhamn Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "S\u00f6derhamn Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":61.22436,
     "lbl:longitude":17.144372,
     "mps:latitude":61.22436,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303385,
-    "wof:lastmodified":1529702040,
+    "wof:lastmodified":1554325322,
     "wof:name":"Soderhamn",
     "wof:parent_id":85688453,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

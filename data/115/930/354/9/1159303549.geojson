@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.23699,
+    "geom:area_square_m":1480707717.058615,
     "geom:bbox":"14.9057362919,59.3688067103,15.7314451226,59.9756913464",
     "geom:latitude":59.649273,
     "geom:longitude":15.331522,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Lindesberg Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Lindesberg Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":59.669021,
     "lbl:longitude":15.303577,
     "mps:latitude":59.669021,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303549,
-    "wof:lastmodified":1529701970,
+    "wof:lastmodified":1554325326,
     "wof:name":"Lindesberg",
     "wof:parent_id":85688421,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

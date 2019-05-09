@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.042035,
+    "geom:area_square_m":292393288.787825,
     "geom:bbox":"12.7594915549,55.6638659754,13.2192750985,55.8461006463",
     "geom:latitude":55.768761,
     "geom:longitude":12.973015,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Kavlinge Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "K\u00e4vlinge Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":55.747999,
     "lbl:longitude":12.918981,
     "mps:latitude":55.747999,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303543,
-    "wof:lastmodified":1529702589,
+    "wof:lastmodified":1554325326,
     "wof:name":"Kavlinge",
     "wof:parent_id":85688377,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

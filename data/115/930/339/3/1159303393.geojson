@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.105601,
+    "geom:area_square_m":684604795.287981,
     "geom:bbox":"10.6793616614,58.292179626,11.4676113489,58.5003791477",
     "geom:latitude":58.382118,
     "geom:longitude":11.086813,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Sotenas Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Soten\u00e4s Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":58.369993,
     "lbl:longitude":11.086856,
     "mps:latitude":58.369993,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303393,
-    "wof:lastmodified":1529702091,
+    "wof:lastmodified":1554325322,
     "wof:name":"Sotenas",
     "wof:parent_id":85688411,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.324672,
+    "geom:area_square_m":2002183581.656292,
     "geom:bbox":"13.1640983405,59.7671718347,14.0184915945,60.4143010441",
     "geom:latitude":60.084115,
     "geom:longitude":13.630768,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Hagfors Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Hagfors Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":60.101737,
     "lbl:longitude":13.630749,
     "mps:latitude":60.101737,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303063,
-    "wof:lastmodified":1529702900,
+    "wof:lastmodified":1554325312,
     "wof:name":"Hagfors",
     "wof:parent_id":85688435,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

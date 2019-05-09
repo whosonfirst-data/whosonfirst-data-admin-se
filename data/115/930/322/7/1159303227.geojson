@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.072685,
+    "geom:area_square_m":448339785.869533,
     "geom:bbox":"15.682179343,59.9359115899,16.2048618537,60.1864805377",
     "geom:latitude":60.07679,
     "geom:longitude":15.969151,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Norberg Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Norberg Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":60.094291,
     "lbl:longitude":15.973084,
     "mps:latitude":60.094291,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303227,
-    "wof:lastmodified":1529701968,
+    "wof:lastmodified":1554325317,
     "wof:name":"Norberg",
     "wof:parent_id":85688425,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

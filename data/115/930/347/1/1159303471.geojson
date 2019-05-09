@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.32252,
+    "geom:area_square_m":2067690843.608448,
     "geom:bbox":"16.2704892379,58.4563318548,17.8747293824,59.0300066379",
     "geom:latitude":58.76781,
     "geom:longitude":17.06622,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Nykoping Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Nyk\u00f6ping Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":58.856711,
     "lbl:longitude":17.054412,
     "mps:latitude":58.856711,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303471,
-    "wof:lastmodified":1529702829,
+    "wof:lastmodified":1554325324,
     "wof:name":"Nykoping",
     "wof:parent_id":85688419,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

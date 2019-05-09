@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011377,
+    "geom:area_square_m":71470068.648891,
     "geom:bbox":"17.9834869635,59.4121707932,18.1530284691,59.5112985984",
     "geom:latitude":59.465867,
     "geom:longitude":18.07158,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Taby Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "T\u00e4by Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":59.464346,
     "lbl:longitude":18.081678,
     "mps:latitude":59.464346,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303403,
-    "wof:lastmodified":1529702707,
+    "wof:lastmodified":1554325322,
     "wof:name":"Taby",
     "wof:parent_id":85688429,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

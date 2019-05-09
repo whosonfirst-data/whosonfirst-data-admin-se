@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008024,
+    "geom:area_square_m":50555975.797903,
     "geom:bbox":"18.0876769133,59.3238186615,18.3034854755,59.4041912405",
     "geom:latitude":59.365568,
     "geom:longitude":18.179847,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Lidingo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Liding\u00f6 Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":59.360429,
     "lbl:longitude":18.18885,
     "mps:latitude":59.360429,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303469,
-    "wof:lastmodified":1529702708,
+    "wof:lastmodified":1554325324,
     "wof:name":"Lidingo",
     "wof:parent_id":85688429,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

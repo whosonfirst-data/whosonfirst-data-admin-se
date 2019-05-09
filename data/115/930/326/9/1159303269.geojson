@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.272004,
+    "geom:area_square_m":1659020559.464272,
     "geom:bbox":"13.8997338023,60.2282885374,14.634809442,60.6924855891",
     "geom:latitude":60.444688,
     "geom:longitude":14.258993,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Vansbro Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Vansbro Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":60.467459,
     "lbl:longitude":14.258988,
     "mps:latitude":60.467459,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303269,
-    "wof:lastmodified":1529701968,
+    "wof:lastmodified":1554325318,
     "wof:name":"Vansbro",
     "wof:parent_id":85688447,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

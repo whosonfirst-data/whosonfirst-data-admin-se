@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035048,
+    "geom:area_square_m":222171923.869091,
     "geom:bbox":"17.6632505749,59.0444774324,17.9843658502,59.269195301",
     "geom:latitude":59.159292,
     "geom:longitude":17.820344,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Botkyrka Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Botkyrka Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":59.154975,
     "lbl:longitude":17.84942,
     "mps:latitude":59.154975,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303191,
-    "wof:lastmodified":1529702705,
+    "wof:lastmodified":1554325316,
     "wof:name":"Botkyrka",
     "wof:parent_id":85688429,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

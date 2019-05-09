@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011329,
+    "geom:area_square_m":71650179.388577,
     "geom:bbox":"17.5622305521,59.1787869584,17.7975935188,59.2986759596",
     "geom:latitude":59.238831,
     "geom:longitude":17.689804,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Salem Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Salem Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":59.23459,
     "lbl:longitude":17.711129,
     "mps:latitude":59.23459,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303525,
-    "wof:lastmodified":1529702708,
+    "wof:lastmodified":1554325325,
     "wof:name":"Salem",
     "wof:parent_id":85688429,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

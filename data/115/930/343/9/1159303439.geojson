@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.102959,
+    "geom:area_square_m":644723710.763587,
     "geom:bbox":"15.5128638732,59.4477897352,16.2325413027,59.712523941",
     "geom:latitude":59.574657,
     "geom:longitude":15.887856,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Koping Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "K\u00f6ping Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":59.561381,
     "lbl:longitude":15.887823,
     "mps:latitude":59.561381,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303439,
-    "wof:lastmodified":1529703017,
+    "wof:lastmodified":1554325323,
     "wof:name":"Koping",
     "wof:parent_id":85688425,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

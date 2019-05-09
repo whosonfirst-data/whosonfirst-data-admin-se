@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.294415,
+    "geom:area_square_m":1992636999.060642,
     "geom:bbox":"13.2986618549,56.6010975525,14.3028647315,57.0512116368",
     "geom:latitude":56.814318,
     "geom:longitude":13.827918,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Ljungby Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Ljungby Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":56.813604,
     "lbl:longitude":13.868543,
     "mps:latitude":56.813604,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303441,
-    "wof:lastmodified":1529702314,
+    "wof:lastmodified":1554325323,
     "wof:name":"Ljungby",
     "wof:parent_id":85688387,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

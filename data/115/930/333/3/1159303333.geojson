@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.182463,
+    "geom:area_square_m":1227475222.88765,
     "geom:bbox":"15.0647133059,56.8309938802,15.8369459299,57.238788356",
     "geom:latitude":57.040329,
     "geom:longitude":15.424834,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Uppvidinge Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Uppvidinge Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":57.060043,
     "lbl:longitude":15.392409,
     "mps:latitude":57.060043,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303333,
-    "wof:lastmodified":1529702390,
+    "wof:lastmodified":1554325320,
     "wof:name":"Uppvidinge",
     "wof:parent_id":85688387,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

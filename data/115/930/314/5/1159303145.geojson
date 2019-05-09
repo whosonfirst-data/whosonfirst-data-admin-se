@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028883,
+    "geom:area_square_m":180792725.407745,
     "geom:bbox":"16.0753272501,59.4522104854,16.3366712637,59.6797469884",
     "geom:latitude":59.587976,
     "geom:longitude":16.219717,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Hallstahammar Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Hallstahammar Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":59.594683,
     "lbl:longitude":16.241597,
     "mps:latitude":59.594683,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303145,
-    "wof:lastmodified":1529702828,
+    "wof:lastmodified":1554325315,
     "wof:name":"Hallstahammar",
     "wof:parent_id":85688425,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

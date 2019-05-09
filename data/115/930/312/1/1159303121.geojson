@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.190224,
+    "geom:area_square_m":1308403990.358535,
     "geom:bbox":"13.4170478465,55.9416082808,14.0203275414,56.424783577",
     "geom:latitude":56.202595,
     "geom:longitude":13.72472,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Hassleholm Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "H\u00e4ssleholm Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":56.210361,
     "lbl:longitude":13.730361,
     "mps:latitude":56.210361,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303121,
-    "wof:lastmodified":1529702509,
+    "wof:lastmodified":1554325314,
     "wof:name":"Hassleholm",
     "wof:parent_id":85688377,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

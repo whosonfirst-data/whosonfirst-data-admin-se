@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.062197,
+    "geom:area_square_m":431870334.846172,
     "geom:bbox":"13.5455422763,55.7218079832,13.9631570457,55.9607713533",
     "geom:latitude":55.837261,
     "geom:longitude":13.730649,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Horby Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "H\u00f6rby Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":55.837416,
     "lbl:longitude":13.713842,
     "mps:latitude":55.837416,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303277,
-    "wof:lastmodified":1529702588,
+    "wof:lastmodified":1554325318,
     "wof:name":"Horby",
     "wof:parent_id":85688377,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

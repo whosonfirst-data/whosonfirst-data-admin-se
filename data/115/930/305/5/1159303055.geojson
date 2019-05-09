@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.439472,
+    "geom:area_square_m":2370675687.277317,
     "geom:bbox":"20.3046314108,63.8458409314,21.652295315,64.4396017338",
     "geom:latitude":64.133296,
     "geom:longitude":20.959097,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Robertsfors Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Robertsfors Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":64.116158,
     "lbl:longitude":20.912939,
     "mps:latitude":64.116158,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303055,
-    "wof:lastmodified":1529702953,
+    "wof:lastmodified":1554325312,
     "wof:name":"Robertsfors",
     "wof:parent_id":85688465,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

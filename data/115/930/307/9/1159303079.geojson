@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.147986,
+    "geom:area_square_m":986142221.14108,
     "geom:bbox":"12.8093804238,57.1455126262,13.2886608125,57.6755322295",
     "geom:latitude":57.390328,
     "geom:longitude":13.062124,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Svenljunga Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Svenljunga Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":57.387662,
     "lbl:longitude":13.05865,
     "mps:latitude":57.387662,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303079,
-    "wof:lastmodified":1529702086,
+    "wof:lastmodified":1554325313,
     "wof:name":"Svenljunga",
     "wof:parent_id":85688411,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

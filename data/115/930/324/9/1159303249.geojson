@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.220754,
+    "geom:area_square_m":1470528025.222158,
     "geom:bbox":"11.4535596329,57.1424910606,12.4202986093,57.596808822",
     "geom:latitude":57.404331,
     "geom:longitude":11.952676,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Kungsbacka Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Kungsbacka Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":57.407265,
     "lbl:longitude":11.904866,
     "mps:latitude":57.407265,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303249,
-    "wof:lastmodified":1529702089,
+    "wof:lastmodified":1554325318,
     "wof:name":"Kungsbacka",
     "wof:parent_id":85688391,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.036133,
+    "geom:area_square_m":227329622.209869,
     "geom:bbox":"15.8675727622,59.3461952445,16.3064285176,59.4902443831",
     "geom:latitude":59.415466,
     "geom:longitude":16.086831,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Kungsor Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Kungs\u00f6r Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":59.412047,
     "lbl:longitude":16.08357,
     "mps:latitude":59.412047,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303173,
-    "wof:lastmodified":1529702828,
+    "wof:lastmodified":1554325316,
     "wof:name":"Kungsor",
     "wof:parent_id":85688425,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.186879,
+    "geom:area_square_m":1189680331.751767,
     "geom:bbox":"15.7615867174,58.7698156942,16.6251998207,59.2627378589",
     "geom:latitude":59.013451,
     "geom:longitude":16.26713,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Katrineholm Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Katrineholm Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":59.006142,
     "lbl:longitude":16.296558,
     "mps:latitude":59.006142,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303103,
-    "wof:lastmodified":1529702827,
+    "wof:lastmodified":1554325313,
     "wof:name":"Katrineholm",
     "wof:parent_id":85688419,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

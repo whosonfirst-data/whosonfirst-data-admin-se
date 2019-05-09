@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.04761,
+    "geom:area_square_m":332862642.177051,
     "geom:bbox":"12.7181290076,55.4802586444,13.1513504466,55.6794568471",
     "geom:latitude":55.56709,
     "geom:longitude":12.939883,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Malmo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Malm\u00f6 Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":55.581409,
     "lbl:longitude":12.954582,
     "mps:latitude":55.581409,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303367,
-    "wof:lastmodified":1529702588,
+    "wof:lastmodified":1554325321,
     "wof:name":"Malmo",
     "wof:parent_id":85688377,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.084234,
+    "geom:area_square_m":554027889.684911,
     "geom:bbox":"14.4769966145,57.7152773693,15.1295916674,58.0012810126",
     "geom:latitude":57.865073,
     "geom:longitude":14.795887,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Aneby Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Aneby Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":57.869338,
     "lbl:longitude":14.818406,
     "mps:latitude":57.869338,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303047,
-    "wof:lastmodified":1529702389,
+    "wof:lastmodified":1554325312,
     "wof:name":"Aneby",
     "wof:parent_id":85688395,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

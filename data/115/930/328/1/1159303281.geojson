@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.212918,
+    "geom:area_square_m":1373269447.361236,
     "geom:bbox":"12.6448961425,58.3156977536,13.4256158381,58.8143580156",
     "geom:latitude":58.559427,
     "geom:longitude":13.026443,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Lidkoping Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Lidk\u00f6ping Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":58.560608,
     "lbl:longitude":13.020482,
     "mps:latitude":58.560608,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303281,
-    "wof:lastmodified":1529702090,
+    "wof:lastmodified":1554325319,
     "wof:name":"Lidkoping",
     "wof:parent_id":85688411,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

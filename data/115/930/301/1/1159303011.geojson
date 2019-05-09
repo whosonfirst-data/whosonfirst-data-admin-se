@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.732806,
+    "geom:area_square_m":3718662756.331395,
     "geom:bbox":"22.3375115203,65.2885662677,23.8551744519,66.2389615797",
     "geom:latitude":65.771037,
     "geom:longitude":23.118938,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Kalix Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Kalix Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":65.729697,
     "lbl:longitude":23.233927,
     "mps:latitude":65.729697,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303011,
-    "wof:lastmodified":1529702546,
+    "wof:lastmodified":1554325311,
     "wof:name":"Kalix",
     "wof:parent_id":85688471,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

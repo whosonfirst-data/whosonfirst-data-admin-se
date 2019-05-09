@@ -10,6 +10,18 @@
     "geom:latitude":57.69133,
     "geom:longitude":15.87188,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Vimmerby Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Vimmerby Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":57.693863,
     "lbl:longitude":15.871684,
     "mps:latitude":57.693863,
@@ -51,11 +63,11 @@
         }
     ],
     "wof:id":1159303159,
-    "wof:lastmodified":1554166172,
+    "wof:lastmodified":1555037180,
     "wof:name":"Vimmerby",
     "wof:parent_id":85688401,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.197019,
+    "geom:area_square_m":1268265437.873986,
     "geom:bbox":"14.6735161081,58.4182918353,15.4985610888,58.8646429343",
     "geom:latitude":58.626868,
     "geom:longitude":15.142274,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Motala Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Motala Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":58.63867,
     "lbl:longitude":15.210693,
     "mps:latitude":58.63867,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303391,
-    "wof:lastmodified":1529702091,
+    "wof:lastmodified":1554325322,
     "wof:name":"Motala",
     "wof:parent_id":85688409,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

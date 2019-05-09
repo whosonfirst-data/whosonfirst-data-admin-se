@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.353682,
+    "geom:area_square_m":1796633639.470851,
     "geom:bbox":"20.1078926509,65.5099237945,21.3588910743,66.0143020756",
     "geom:latitude":65.7437,
     "geom:longitude":20.65809,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Alvsbyn Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "\u00c4lvsbyn Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":65.756556,
     "lbl:longitude":20.667621,
     "mps:latitude":65.756556,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303043,
-    "wof:lastmodified":1529702546,
+    "wof:lastmodified":1554325312,
     "wof:name":"Alvsbyn",
     "wof:parent_id":85688471,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

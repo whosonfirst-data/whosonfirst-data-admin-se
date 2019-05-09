@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.253899,
+    "geom:area_square_m":1702739020.574035,
     "geom:bbox":"11.7336481493,56.9643723167,12.7643375636,57.351431905",
     "geom:latitude":57.157931,
     "geom:longitude":12.24351,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Varberg Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Varberg Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":57.149133,
     "lbl:longitude":12.233785,
     "mps:latitude":57.149133,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159302939,
-    "wof:lastmodified":1529702084,
+    "wof:lastmodified":1554325309,
     "wof:name":"Varberg",
     "wof:parent_id":85688391,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

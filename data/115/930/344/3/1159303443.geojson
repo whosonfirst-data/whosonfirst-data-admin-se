@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.241368,
+    "geom:area_square_m":1516311290.601409,
     "geom:bbox":"13.1100041489,59.1667938769,14.03096731,59.7743239705",
     "geom:latitude":59.466276,
     "geom:longitude":13.609664,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Karlstad Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Karlstad Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":59.534897,
     "lbl:longitude":13.793468,
     "mps:latitude":59.534897,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303443,
-    "wof:lastmodified":1529702901,
+    "wof:lastmodified":1554325323,
     "wof:name":"Karlstad",
     "wof:parent_id":85688435,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

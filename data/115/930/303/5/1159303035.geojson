@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034156,
+    "geom:area_square_m":215485086.523925,
     "geom:bbox":"17.7605130429,59.2272840554,18.2011814732,59.4402429413",
     "geom:latitude":59.321778,
     "geom:longitude":17.997,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Stockholm Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Stockholm Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":59.298457,
     "lbl:longitude":18.011851,
     "mps:latitude":59.298457,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303035,
-    "wof:lastmodified":1529702705,
+    "wof:lastmodified":1554325312,
     "wof:name":"Stockholm",
     "wof:parent_id":85688429,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

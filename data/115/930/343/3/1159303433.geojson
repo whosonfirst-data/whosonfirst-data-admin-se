@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013316,
+    "geom:area_square_m":83515984.831357,
     "geom:bbox":"17.800154099,59.4570987317,18.0138560989,59.5753188246",
     "geom:latitude":59.521495,
     "geom:longitude":17.90503,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Upplands-Vasby Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Upplands V\u00e4sby Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":59.522205,
     "lbl:longitude":17.88887,
     "mps:latitude":59.522205,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303433,
-    "wof:lastmodified":1529702707,
+    "wof:lastmodified":1554325323,
     "wof:name":"Upplands-Vasby",
     "wof:parent_id":85688429,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

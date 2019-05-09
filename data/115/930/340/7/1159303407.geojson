@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.159003,
+    "geom:area_square_m":1075141112.331449,
     "geom:bbox":"14.2777614883,56.534587273,14.695649062,57.1635593216",
     "geom:latitude":56.849499,
     "geom:longitude":14.495308,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Alvesta Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Alvesta Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":56.829158,
     "lbl:longitude":14.436701,
     "mps:latitude":56.829158,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303407,
-    "wof:lastmodified":1529702391,
+    "wof:lastmodified":1554325322,
     "wof:name":"Alvesta",
     "wof:parent_id":85688387,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

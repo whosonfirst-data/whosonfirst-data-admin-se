@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.131848,
+    "geom:area_square_m":873117963.805367,
     "geom:bbox":"14.7880323234,57.4933751225,15.6657602753,57.7523013929",
     "geom:latitude":57.61896,
     "geom:longitude":15.209367,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Eksjo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Eksj\u00f6 Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":57.610981,
     "lbl:longitude":15.142999,
     "mps:latitude":57.610981,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303243,
-    "wof:lastmodified":1529702390,
+    "wof:lastmodified":1554325318,
     "wof:name":"Eksjo",
     "wof:parent_id":85688395,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

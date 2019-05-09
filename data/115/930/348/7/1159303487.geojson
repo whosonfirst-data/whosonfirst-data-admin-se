@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.107481,
+    "geom:area_square_m":699445620.026836,
     "geom:bbox":"12.7919701389,58.1094693524,13.4051040066,58.3881208778",
     "geom:latitude":58.245088,
     "geom:longitude":13.060309,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Vara Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Vara Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":58.227638,
     "lbl:longitude":13.060284,
     "mps:latitude":58.227638,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303487,
-    "wof:lastmodified":1529702093,
+    "wof:lastmodified":1554325324,
     "wof:name":"Vara",
     "wof:parent_id":85688411,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

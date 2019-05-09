@@ -10,6 +10,18 @@
     "geom:latitude":57.061027,
     "geom:longitude":17.043193,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Borgholm Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Borgholm Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":57.020648,
     "lbl:longitude":17.033583,
     "mps:latitude":57.020648,
@@ -51,11 +63,11 @@
         }
     ],
     "wof:id":1159303363,
-    "wof:lastmodified":1554166172,
+    "wof:lastmodified":1555037178,
     "wof:name":"Borgholm",
     "wof:parent_id":85688401,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

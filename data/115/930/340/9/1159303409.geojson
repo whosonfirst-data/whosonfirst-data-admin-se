@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.194338,
+    "geom:area_square_m":1202960927.453469,
     "geom:bbox":"16.0933758395,59.7559091523,16.8367723072,60.1957210967",
     "geom:latitude":59.960039,
     "geom:longitude":16.488586,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Sala Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Sala Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":59.978742,
     "lbl:longitude":16.532792,
     "mps:latitude":59.978742,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303409,
-    "wof:lastmodified":1529701970,
+    "wof:lastmodified":1554325322,
     "wof:name":"Sala",
     "wof:parent_id":85688425,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

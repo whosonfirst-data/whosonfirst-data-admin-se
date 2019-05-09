@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.166339,
+    "geom:area_square_m":1058274233.599729,
     "geom:bbox":"11.8296953151,58.7490273295,12.4679728431,59.2628715199",
     "geom:latitude":59.034469,
     "geom:longitude":12.202754,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Bengtsfors Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Bengtsfors Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":59.053889,
     "lbl:longitude":12.26047,
     "mps:latitude":59.053889,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303359,
-    "wof:lastmodified":1529702091,
+    "wof:lastmodified":1554325321,
     "wof:name":"Bengtsfors",
     "wof:parent_id":85688411,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

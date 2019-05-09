@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020236,
+    "geom:area_square_m":127745574.758171,
     "geom:bbox":"18.1090760445,59.231522195,18.3881504624,59.3688198387",
     "geom:latitude":59.300286,
     "geom:longitude":18.254293,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Nacka Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Nacka Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":59.306042,
     "lbl:longitude":18.256441,
     "mps:latitude":59.306042,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303219,
-    "wof:lastmodified":1529702706,
+    "wof:lastmodified":1554325317,
     "wof:name":"Nacka",
     "wof:parent_id":85688429,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

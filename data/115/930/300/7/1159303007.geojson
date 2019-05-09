@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.602164,
+    "geom:area_square_m":8234949511.167609,
     "geom:bbox":"14.4987736151,64.7326468998,17.9568766583,66.1499707571",
     "geom:latitude":65.437534,
     "geom:longitude":16.049285,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Storuman Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Storuman Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":65.681263,
     "lbl:longitude":15.303671,
     "mps:latitude":65.681263,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303007,
-    "wof:lastmodified":1529700117,
+    "wof:lastmodified":1554325311,
     "wof:name":"Storuman",
     "wof:parent_id":85688465,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

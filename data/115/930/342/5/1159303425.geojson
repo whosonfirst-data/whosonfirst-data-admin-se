@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.129304,
+    "geom:area_square_m":847855052.729442,
     "geom:bbox":"10.959572149,57.8611420797,11.7953013462,58.1067311361",
     "geom:latitude":57.976539,
     "geom:longitude":11.377271,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Tjorn Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Tj\u00f6rn Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":57.955964,
     "lbl:longitude":11.377365,
     "mps:latitude":57.955964,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303425,
-    "wof:lastmodified":1529702092,
+    "wof:lastmodified":1554325323,
     "wof:name":"Tjorn",
     "wof:parent_id":85688411,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

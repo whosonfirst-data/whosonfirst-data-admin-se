@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.066541,
+    "geom:area_square_m":419394457.599343,
     "geom:bbox":"15.5976566288,59.1979494252,15.9987881532,59.5456135344",
     "geom:latitude":59.354739,
     "geom:longitude":15.785262,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Arboga Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Arboga Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":59.330697,
     "lbl:longitude":15.782227,
     "mps:latitude":59.330697,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303195,
-    "wof:lastmodified":1529702828,
+    "wof:lastmodified":1554325316,
     "wof:name":"Arboga",
     "wof:parent_id":85688425,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

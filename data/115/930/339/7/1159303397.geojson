@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.358195,
+    "geom:area_square_m":2139279604.466344,
     "geom:bbox":"14.8711446948,60.8120978129,15.7630754238,61.5961926517",
     "geom:latitude":61.117104,
     "geom:longitude":15.296551,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Rattvik Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "R\u00e4ttvik Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":61.107528,
     "lbl:longitude":15.327913,
     "mps:latitude":61.107528,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303397,
-    "wof:lastmodified":1529701969,
+    "wof:lastmodified":1554325322,
     "wof:name":"Rattvik",
     "wof:parent_id":85688447,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

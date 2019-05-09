@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.073334,
+    "geom:area_square_m":464005287.946092,
     "geom:bbox":"13.3647806533,59.0594435813,13.7346819927,59.3689022722",
     "geom:latitude":59.228455,
     "geom:longitude":13.546106,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Hammaro Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Hammar\u00f6 Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":59.227523,
     "lbl:longitude":13.549625,
     "mps:latitude":59.227523,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303251,
-    "wof:lastmodified":1529702901,
+    "wof:lastmodified":1554325318,
     "wof:name":"Hammaro",
     "wof:parent_id":85688435,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

@@ -10,6 +10,18 @@
     "geom:latitude":55.950376,
     "geom:longitude":14.788151,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Solvesborg Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "S\u00f6lvesborg Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":55.957186,
     "lbl:longitude":14.729874,
     "mps:latitude":55.957186,
@@ -51,11 +63,11 @@
         }
     ],
     "wof:id":1159303089,
-    "wof:lastmodified":1554166195,
+    "wof:lastmodified":1555037182,
     "wof:name":"Solvesborg",
     "wof:parent_id":85688383,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

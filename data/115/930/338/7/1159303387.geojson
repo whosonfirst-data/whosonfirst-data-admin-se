@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.488524,
+    "geom:area_square_m":8236927274.564712,
     "geom:bbox":"11.9745832777,62.9029532608,14.4061874128,64.0953687996",
     "geom:latitude":63.415349,
     "geom:longitude":12.983636,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Are Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "\u00c5re Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":63.449666,
     "lbl:longitude":12.865264,
     "mps:latitude":63.449666,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303387,
-    "wof:lastmodified":1529700184,
+    "wof:lastmodified":1554325322,
     "wof:name":"Are",
     "wof:parent_id":85688461,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

@@ -10,6 +10,18 @@
     "geom:latitude":56.678306,
     "geom:longitude":16.195517,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Kalmar Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Kalmar Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":56.734774,
     "lbl:longitude":16.269402,
     "mps:latitude":56.734774,
@@ -51,11 +63,11 @@
         }
     ],
     "wof:id":1159303065,
-    "wof:lastmodified":1554166169,
+    "wof:lastmodified":1555037183,
     "wof:name":"Kalmar",
     "wof:parent_id":85688401,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

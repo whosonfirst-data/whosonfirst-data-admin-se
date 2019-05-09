@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015367,
+    "geom:area_square_m":107224972.16886,
     "geom:bbox":"13.1042829357,55.5952055845,13.3548937854,55.7047229436",
     "geom:latitude":55.645576,
     "geom:longitude":13.211111,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Staffanstorp Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Staffanstorp Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":55.646315,
     "lbl:longitude":13.209221,
     "mps:latitude":55.646315,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303125,
-    "wof:lastmodified":1529702587,
+    "wof:lastmodified":1554325314,
     "wof:name":"Staffanstorp",
     "wof:parent_id":85688377,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.109217,
+    "geom:area_square_m":693475349.161566,
     "geom:bbox":"17.3116172175,58.8155201769,17.7411865094,59.3524349881",
     "geom:latitude":59.102774,
     "geom:longitude":17.542296,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Sodertalje Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "S\u00f6dert\u00e4lje Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":59.074425,
     "lbl:longitude":17.560161,
     "mps:latitude":59.074425,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303135,
-    "wof:lastmodified":1529702705,
+    "wof:lastmodified":1554325314,
     "wof:name":"Sodertalje",
     "wof:parent_id":85688429,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

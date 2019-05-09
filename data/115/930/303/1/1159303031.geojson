@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.256734,
+    "geom:area_square_m":1622462863.167386,
     "geom:bbox":"14.7616458895,58.9565573344,15.7984500437,59.5224147925",
     "geom:latitude":59.264059,
     "geom:longitude":15.331018,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Orebro Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "\u00d6rebro Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":59.309944,
     "lbl:longitude":15.32366,
     "mps:latitude":59.309944,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303031,
-    "wof:lastmodified":1529702827,
+    "wof:lastmodified":1554325312,
     "wof:name":"Orebro",
     "wof:parent_id":85688421,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

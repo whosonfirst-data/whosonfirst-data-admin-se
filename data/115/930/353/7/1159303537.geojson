@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.149375,
+    "geom:area_square_m":989256403.987937,
     "geom:bbox":"14.3133394338,57.4029439349,14.9682055265,57.811324266",
     "geom:latitude":57.616156,
     "geom:longitude":14.654064,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Nassjo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "N\u00e4ssj\u00f6 Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":57.606675,
     "lbl:longitude":14.65391,
     "mps:latitude":57.606675,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303537,
-    "wof:lastmodified":1529702389,
+    "wof:lastmodified":1554325326,
     "wof:name":"Nassjo",
     "wof:parent_id":85688395,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

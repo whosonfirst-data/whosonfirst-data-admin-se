@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.466477,
+    "geom:area_square_m":20543605169.96817,
     "geom:bbox":"17.8997553015,67.3558575989,23.2839216444,69.0599704995",
     "geom:latitude":68.162659,
     "geom:longitude":20.710895,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Kiruna Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Kiruna Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":68.233397,
     "lbl:longitude":20.8947,
     "mps:latitude":68.233397,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159302945,
-    "wof:lastmodified":1529700116,
+    "wof:lastmodified":1554325309,
     "wof:name":"Kiruna",
     "wof:parent_id":85688471,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

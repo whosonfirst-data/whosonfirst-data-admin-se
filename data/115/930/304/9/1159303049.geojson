@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.923331,
+    "geom:area_square_m":14492024283.329844,
     "geom:bbox":"15.3772255505,65.5744163621,19.030848741,67.190236693",
     "geom:latitude":66.364602,
     "geom:longitude":17.239063,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Arjeplog Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Arjeplog Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":66.383958,
     "lbl:longitude":17.239095,
     "mps:latitude":66.383958,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303049,
-    "wof:lastmodified":1529700117,
+    "wof:lastmodified":1554325312,
     "wof:name":"Arjeplog",
     "wof:parent_id":85688471,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

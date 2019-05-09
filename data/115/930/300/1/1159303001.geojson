@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016734,
+    "geom:area_square_m":115548854.545851,
     "geom:bbox":"12.874181249,55.9743179836,13.0729098933,56.1216805569",
     "geom:latitude":56.053609,
     "geom:longitude":12.966694,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Bjuv Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Bjuv Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":56.06522,
     "lbl:longitude":12.965177,
     "mps:latitude":56.06522,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303001,
-    "wof:lastmodified":1529702586,
+    "wof:lastmodified":1554325311,
     "wof:name":"Bjuv",
     "wof:parent_id":85688377,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

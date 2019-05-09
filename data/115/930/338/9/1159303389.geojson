@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.069347,
+    "geom:area_square_m":440871854.146168,
     "geom:bbox":"15.6173928872,58.9469976657,16.1571810765,59.1837425451",
     "geom:latitude":59.059942,
     "geom:longitude":15.886433,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Vingaker Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Ving\u00e5ker Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":59.056192,
     "lbl:longitude":15.949961,
     "mps:latitude":59.056192,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303389,
-    "wof:lastmodified":1529702829,
+    "wof:lastmodified":1554325322,
     "wof:name":"Vingaker",
     "wof:parent_id":85688419,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

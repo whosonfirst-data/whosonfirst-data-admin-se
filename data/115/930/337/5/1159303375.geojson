@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.29268,
+    "geom:area_square_m":1927552947.928743,
     "geom:bbox":"13.6377532099,57.5393587811,14.653018195,58.1872385746",
     "geom:latitude":57.817396,
     "geom:longitude":14.2161,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Jonkoping Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "J\u00f6nk\u00f6ping Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":57.787765,
     "lbl:longitude":14.298921,
     "mps:latitude":57.787765,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303375,
-    "wof:lastmodified":1529702091,
+    "wof:lastmodified":1554325321,
     "wof:name":"Jonkoping",
     "wof:parent_id":85688395,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.143341,
+    "geom:area_square_m":976380060.714039,
     "geom:bbox":"13.7116194953,56.4312352499,14.6083753369,56.7585036807",
     "geom:latitude":56.573493,
     "geom:longitude":14.175013,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Almhult Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "\u00c4lmhult Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":56.607741,
     "lbl:longitude":14.293551,
     "mps:latitude":56.607741,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303481,
-    "wof:lastmodified":1529701942,
+    "wof:lastmodified":1554325324,
     "wof:name":"Almhult",
     "wof:parent_id":85688387,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.777524,
+    "geom:area_square_m":4448640269.387816,
     "geom:bbox":"16.2508996131,62.0868782267,18.2310707738,62.9464807718",
     "geom:latitude":62.437088,
     "geom:longitude":17.104455,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Sundsvall Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Sundsvall Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":62.467635,
     "lbl:longitude":16.857329,
     "mps:latitude":62.467635,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303427,
-    "wof:lastmodified":1529702041,
+    "wof:lastmodified":1554325323,
     "wof:name":"Sundsvall",
     "wof:parent_id":85688457,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

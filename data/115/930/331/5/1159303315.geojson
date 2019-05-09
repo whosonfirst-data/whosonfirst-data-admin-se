@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003425,
+    "geom:area_square_m":21580232.018904,
     "geom:bbox":"17.9632700573,59.339073095,18.0574953881,59.3998354554",
     "geom:latitude":59.368838,
     "geom:longitude":18.008341,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Solna Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Solna Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":59.367485,
     "lbl:longitude":18.009234,
     "mps:latitude":59.367485,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303315,
-    "wof:lastmodified":1529702707,
+    "wof:lastmodified":1554325319,
     "wof:name":"Solna",
     "wof:parent_id":85688429,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

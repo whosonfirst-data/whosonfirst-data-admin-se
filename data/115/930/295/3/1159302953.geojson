@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.689902,
+    "geom:area_square_m":8058273122.562301,
     "geom:bbox":"21.8451353788,66.6577745539,23.8901400898,68.1554343257",
     "geom:latitude":67.31492,
     "geom:longitude":22.89363,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Pajala Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Pajala Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":67.274224,
     "lbl:longitude":22.793035,
     "mps:latitude":67.274224,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159302953,
-    "wof:lastmodified":1529702545,
+    "wof:lastmodified":1554325309,
     "wof:name":"Pajala",
     "wof:parent_id":85688471,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

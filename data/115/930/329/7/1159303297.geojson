@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.073316,
+    "geom:area_square_m":446538598.355669,
     "geom:bbox":"16.1359474068,60.3555272103,16.6706053587,60.6146172095",
     "geom:latitude":60.491285,
     "geom:longitude":16.417192,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Hofors Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Hofors Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":60.481661,
     "lbl:longitude":16.417183,
     "mps:latitude":60.481661,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303297,
-    "wof:lastmodified":1529701969,
+    "wof:lastmodified":1554325319,
     "wof:name":"Hofors",
     "wof:parent_id":85688453,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

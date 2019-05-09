@@ -5,10 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.570798,
+    "geom:area_square_m":3489238594.309571,
     "geom:bbox":"17.7022233084,60.0227611906,19.1549255569,60.7502939762",
     "geom:latitude":60.368874,
     "geom:longitude":18.484591,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Osthammar Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:swe_x_preferred_longname":[
+        "\u00d6sthammar Kommun"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "kommun"
+    ],
     "lbl:latitude":60.446346,
     "lbl:longitude":18.534342,
     "mps:latitude":60.446346,
@@ -50,11 +63,11 @@
         }
     ],
     "wof:id":1159303415,
-    "wof:lastmodified":1529702707,
+    "wof:lastmodified":1554325323,
     "wof:name":"Osthammar",
     "wof:parent_id":85688439,
     "wof:placetype":"county",
-    "wof:placetype_local":"kommun",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],
