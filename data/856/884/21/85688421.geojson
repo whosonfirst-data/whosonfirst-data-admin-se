@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.528876,
-    "geom:area_square_m":9635201610.84794,
+    "geom:area_square_m":9635201610.847885,
     "geom:bbox":"14.286332,58.6459925,15.798456,60.1104395",
     "geom:latitude":59.357559,
     "geom:longitude":14.971926,
@@ -33,12 +33,6 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0648\u0631\u0628\u0631\u0648"
     ],
-    "name:arm_x_preferred":[
-        "\u0537\u0580\u0565\u0562\u0580\u0578\u0582"
-    ],
-    "name:baq_x_preferred":[
-        "\u00d6rebroko konderria"
-    ],
     "name:bel_x_preferred":[
         "\u041b\u0435\u043d \u042d\u0440\u044d\u0431\u0440\u0443"
     ],
@@ -54,20 +48,20 @@
     "name:cat_x_preferred":[
         "Comtat d\u00d6rebro"
     ],
-    "name:chi_x_preferred":[
-        "\u5384\u52d2\u5e03\u9c81\u7701"
+    "name:ces_x_preferred":[
+        "\u00d6rebro"
     ],
     "name:cor_x_preferred":[
         "Konteth \u00d6rebro"
     ],
-    "name:cze_x_preferred":[
-        "\u00d6rebro"
-    ],
     "name:dan_x_preferred":[
         "\u00d6rebro l\u00e4n"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "\u00d6rebro l\u00e4n"
+    ],
+    "name:ell_x_preferred":[
+        "\u038c\u03c1\u03b5\u03bc\u03c0\u03c1\u03bf"
     ],
     "name:eng_x_preferred":[
         "Orebro"
@@ -101,20 +95,11 @@
         "\u00d6rebro",
         "Comt\u00e9 d\u00d6rebro"
     ],
-    "name:fre_x_preferred":[
-        "Comt\u00e9 d'\u00d6rebro"
-    ],
-    "name:ger_x_preferred":[
-        "\u00d6rebro l\u00e4n"
-    ],
     "name:gla_x_preferred":[
         "\u00d6rebro l\u00e4n"
     ],
     "name:glg_x_preferred":[
         "Condado de \u00d6rebro"
-    ],
-    "name:gre_x_preferred":[
-        "\u038c\u03c1\u03b5\u03bc\u03c0\u03c1\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0a93\u0ab0\u0ac7\u0aac\u0acd\u0ab0\u0acb \u0a95\u0abe\u0a89\u0aa8\u0acd\u0a9f\u0ac0"
@@ -130,6 +115,9 @@
     ],
     "name:hun_x_preferred":[
         "\u00d6rebro megye"
+    ],
+    "name:hye_x_preferred":[
+        "\u0537\u0580\u0565\u0562\u0580\u0578\u0582"
     ],
     "name:ind_x_preferred":[
         "Daerah \u00d6rebro"
@@ -158,14 +146,8 @@
     "name:lit_x_preferred":[
         "Erebru l\u0117nas"
     ],
-    "name:mac_x_preferred":[
-        "\u0415\u0440\u0435\u0431\u0440\u0443"
-    ],
     "name:mar_x_preferred":[
         "\u0911\u0930\u0947\u092c\u094d\u0930\u094b \u0915\u093e\u0909\u0902\u091f\u0940"
-    ],
-    "name:may_x_preferred":[
-        "Daerah \u00d6rebro"
     ],
     "name:mkd_x_preferred":[
         "\u0415\u0440\u0435\u0431\u0440\u0443"
@@ -179,14 +161,14 @@
     "name:nds_x_preferred":[
         "Lehn \u00d6rebro"
     ],
+    "name:nld_x_preferred":[
+        "\u00d6rebro l\u00e4n"
+    ],
     "name:nno_x_preferred":[
         "\u00d6rebro l\u00e4n"
     ],
     "name:nob_x_preferred":[
         "\u00d6rebro l\u00e4n"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0627\u0648\u0631\u0628\u0631\u0648"
     ],
     "name:pol_x_preferred":[
         "\u00d6rebro"
@@ -194,7 +176,7 @@
     "name:por_x_preferred":[
         "\u00d6rebro"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "\u00d6rebro l\u00e4n"
     ],
     "name:rus_x_preferred":[
@@ -206,7 +188,7 @@
     "name:sin_x_preferred":[
         "\u0d94\u0dbb\u0dd9\u0db6\u0dca\u0dbb\u0ddd \u0db4\u0dca\u200d\u0dbb\u0dcf\u0db1\u0dca\u0dad\u0dba"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "\u00d6rebro"
     ],
     "name:sme_x_preferred":[
@@ -375,7 +357,7 @@
         "swe",
         "fin"
     ],
-    "wof:lastmodified":1553900759,
+    "wof:lastmodified":1561839934,
     "wof:name":"Orebro",
     "wof:parent_id":85633789,
     "wof:placetype":"region",

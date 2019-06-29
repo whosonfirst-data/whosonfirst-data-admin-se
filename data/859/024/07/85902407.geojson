@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":72062.551293,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.003149,55.600668,13.003149,55.600668",
     "geom:latitude":55.600668,
     "geom:longitude":13.003149,
@@ -26,9 +26,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":3,
     "mz:tier_metro":1,
-    "name:dut_x_preferred":[
-        "R\u00f6rsj\u00f6staden"
-    ],
     "name:eng_x_preferred":[
         "R\u00f6rsj\u00f6staden"
     ],
@@ -88,12 +85,12 @@
     "wd:longitude":13.015278,
     "wd:wordcount":32,
     "wof:belongsto":[
-        85688377,
         102191581,
         1159305753,
         85633789,
         101752283,
-        1159303367
+        1159303367,
+        85688377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -121,7 +118,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1531935889,
+    "wof:lastmodified":1561839930,
     "wof:name":"R\u00f6rsj\u00f6staden",
     "wof:parent_id":101752283,
     "wof:placetype":"neighbourhood",

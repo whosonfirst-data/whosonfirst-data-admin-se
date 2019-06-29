@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.629395,
-    "geom:area_square_m":16560101642.050949,
+    "geom:area_square_m":16560101642.050768,
     "geom:bbox":"17.244932,58.489857,19.992184,60.2984435",
     "geom:latitude":59.380131,
     "geom:longitude":18.587087,
@@ -33,12 +33,6 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0633\u062a\u0648\u0643\u0647\u0648\u0644\u0645"
     ],
-    "name:arm_x_preferred":[
-        "\u054d\u057f\u0578\u056f\u0570\u0578\u056c\u0574\u056b \u056c\u0565\u0576"
-    ],
-    "name:baq_x_preferred":[
-        "Stockholmgo konderria"
-    ],
     "name:bel_x_preferred":[
         "\u043b\u0435\u043d \u0421\u0442\u0430\u043a\u0433\u043e\u043b\u044c\u043c"
     ],
@@ -54,20 +48,20 @@
     "name:cat_x_preferred":[
         "Comtat d'Estocolm"
     ],
-    "name:chi_x_preferred":[
-        "\u65af\u5fb7\u54e5\u723e\u6469\u7701"
+    "name:ces_x_preferred":[
+        "Stockholm"
     ],
     "name:cor_x_preferred":[
         "Konteth Stockholm"
     ],
-    "name:cze_x_preferred":[
-        "Stockholm"
-    ],
     "name:dan_x_preferred":[
         "Stockholms l\u00e4n"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Stockholms l\u00e4n"
+    ],
+    "name:ell_x_preferred":[
+        "\u03ba\u03bf\u03bc\u03b7\u03c4\u03b5\u03af\u03b1 \u03c4\u03b7\u03c2 \u03a3\u03c4\u03bf\u03ba\u03c7\u03cc\u03bb\u03bc\u03b7\u03c2"
     ],
     "name:eng_x_preferred":[
         "Stockholm"
@@ -81,8 +75,14 @@
     "name:est_x_preferred":[
         "Stockholmi l\u00e4\u00e4n"
     ],
+    "name:eus_x_preferred":[
+        "Stockholmgo konderria"
+    ],
     "name:fao_x_preferred":[
         "Stockholms l\u00e4n"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0627\u0633\u062a\u06a9\u0647\u0644\u0645"
     ],
     "name:fin_x_preferred":[
         "Tukholman l\u00e4\u00e4ni"
@@ -91,16 +91,8 @@
         "Comt\u00e9 de Stockholm"
     ],
     "name:fra_x_variant":[
-        "Stockholm"
-    ],
-    "name:fre_x_preferred":[
+        "Stockholm",
         "comt\u00e9 de Stockholm"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10e2\u10dd\u10d9\u10f0\u10dd\u10da\u10db\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Stockholms l\u00e4n"
     ],
     "name:gla_x_preferred":[
         "Stockholms l\u00e4n"
@@ -110,9 +102,6 @@
     ],
     "name:glg_x_preferred":[
         "condado de Estocolmo"
-    ],
-    "name:gre_x_preferred":[
-        "\u03ba\u03bf\u03bc\u03b7\u03c4\u03b5\u03af\u03b1 \u03c4\u03b7\u03c2 \u03a3\u03c4\u03bf\u03ba\u03c7\u03cc\u03bb\u03bc\u03b7\u03c2"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0acd\u0a9f\u0acb\u0a95\u0ab9\u0acb\u0aae \u0a95\u0abe\u0a89\u0aa8\u0acd\u0a9f\u0ac0"
@@ -129,11 +118,14 @@
     "name:hun_x_preferred":[
         "Stockholm megye"
     ],
-    "name:ice_x_preferred":[
-        "Stokkh\u00f3lms l\u00e1n"
+    "name:hye_x_preferred":[
+        "\u054d\u057f\u0578\u056f\u0570\u0578\u056c\u0574\u056b \u056c\u0565\u0576"
     ],
     "name:ind_x_preferred":[
         "Daerah Stockholm"
+    ],
+    "name:isl_x_preferred":[
+        "Stokkh\u00f3lms l\u00e1n"
     ],
     "name:ita_x_preferred":[
         "contea di Stoccolma"
@@ -143,6 +135,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0cb8\u0ccd\u0c9f\u0cbe\u0c95\u0ccd\u0cb9\u0ccb\u0cae\u0ccd \u0c95\u0ccc\u0c82\u0c9f\u0cbf"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10e2\u10dd\u10d9\u10f0\u10dd\u10da\u10db\u10d8"
     ],
     "name:kor_x_preferred":[
         "\uc2a4\ud1a1\ud640\ub984 \uc8fc"
@@ -162,13 +157,13 @@
     "name:lit_x_preferred":[
         "Stokholmo l\u0117nas"
     ],
-    "name:mac_x_preferred":[
-        "\u0421\u0442\u043e\u043a\u0445\u043e\u043b\u043c"
-    ],
     "name:mar_x_preferred":[
         "\u0938\u094d\u091f\u0949\u0915\u0939\u094b\u092e \u0915\u093e\u0909\u0902\u091f\u0940"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u0421\u0442\u043e\u043a\u0445\u043e\u043b\u043c"
+    ],
+    "name:msa_x_preferred":[
         "Daerah Stockholm"
     ],
     "name:nan_x_preferred":[
@@ -176,6 +171,9 @@
     ],
     "name:nds_x_preferred":[
         "Lehn Stockholm"
+    ],
+    "name:nld_x_preferred":[
+        "Stockholms l\u00e4n"
     ],
     "name:nno_x_preferred":[
         "Stockholms l\u00e4n"
@@ -186,16 +184,13 @@
     "name:oci_x_preferred":[
         "Comtat d'Estoc\u00f2lme"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0627\u0633\u062a\u06a9\u0647\u0644\u0645"
-    ],
     "name:pol_x_preferred":[
         "Sztokholm"
     ],
     "name:por_x_preferred":[
         "condado de Estocolmo"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Stockholm l\u00e4n"
     ],
     "name:rus_x_preferred":[
@@ -254,6 +249,9 @@
     ],
     "name:vol_x_preferred":[
         "Stokholmi\u00e4n"
+    ],
+    "name:zho_x_preferred":[
+        "\u65af\u5fb7\u54e5\u723e\u6469\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"SWE",
@@ -374,7 +372,7 @@
         "swe",
         "fin"
     ],
-    "wof:lastmodified":1553900756,
+    "wof:lastmodified":1561839934,
     "wof:name":"Stockholm",
     "wof:parent_id":85633789,
     "wof:placetype":"region",

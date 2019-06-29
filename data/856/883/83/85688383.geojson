@@ -36,12 +36,6 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0628\u0644\u064a\u0643\u064a\u0646\u062c"
     ],
-    "name:arm_x_preferred":[
-        "\u0532\u056c\u0565\u0584\u056b\u0576\u0563\u0565"
-    ],
-    "name:baq_x_preferred":[
-        "Blekingeko konderria"
-    ],
     "name:bel_x_preferred":[
         "\u0411\u043b\u0435\u043a\u0456\u043d\u0433\u044d"
     ],
@@ -63,9 +57,6 @@
     "name:ces_x_preferred":[
         "Blekinge"
     ],
-    "name:chi_x_preferred":[
-        "\u5e03\u840a\u91d1\u5384\u7701"
-    ],
     "name:chv_x_preferred":[
         "\u0411\u043b\u0435\u043a\u0438\u043d\u0433\u0435 \u043b\u0435\u043d\u0115"
     ],
@@ -78,8 +69,11 @@
     "name:deu_x_preferred":[
         "Blekinge"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_variant":[
         "Blekinge l\u00e4n"
+    ],
+    "name:ell_x_preferred":[
+        "\u03ba\u03bf\u03bc\u03b7\u03c4\u03b5\u03af\u03b1 \u03c4\u03b7\u03c2 \u039c\u03c0\u03bb\u03b5\u03ba\u03b9\u03b3\u03b3\u03b5\u03c2"
     ],
     "name:eng_x_preferred":[
         "Blekinge"
@@ -93,11 +87,17 @@
     "name:est_x_preferred":[
         "Blekinge"
     ],
+    "name:eus_x_preferred":[
+        "Blekingeko konderria"
+    ],
     "name:fao_x_preferred":[
         "Blekinge l\u00e4n"
     ],
     "name:fas_x_preferred":[
         "\u0628\u0644\u06a9\u06cc\u0646\u06af\u0647"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0628\u0644\u06a9\u06cc\u0646\u06af\u0647"
     ],
     "name:fin_x_preferred":[
         "Blekinge"
@@ -106,22 +106,14 @@
         "Blekinge"
     ],
     "name:fra_x_variant":[
-        "Comt\u00e9 de Blekinge"
-    ],
-    "name:fre_x_preferred":[
+        "Comt\u00e9 de Blekinge",
         "comt\u00e9 de Blekinge"
-    ],
-    "name:ger_x_preferred":[
-        "Blekinge l\u00e4n"
     ],
     "name:gla_x_preferred":[
         "Blekinge l\u00e4n"
     ],
     "name:glg_x_preferred":[
         "condado de Blekinge"
-    ],
-    "name:gre_x_preferred":[
-        "\u03ba\u03bf\u03bc\u03b7\u03c4\u03b5\u03af\u03b1 \u03c4\u03b7\u03c2 \u039c\u03c0\u03bb\u03b5\u03ba\u03b9\u03b3\u03b3\u03b5\u03c2"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0acd\u0ab2\u0ac7\u0a95\u0abf\u0a82\u0a97 \u0a95\u0abe\u0a89\u0aa8\u0acd\u0a9f\u0ac0"
@@ -144,14 +136,14 @@
     "name:hye_x_preferred":[
         "\u0532\u056c\u0565\u0584\u056b\u0576\u0563\u0565"
     ],
-    "name:ice_x_preferred":[
-        "Blekinge l\u00e4n"
-    ],
     "name:ind_x_preferred":[
         "Daerah Blekinge"
     ],
     "name:isl_x_preferred":[
         "Blekinge"
+    ],
+    "name:isl_x_variant":[
+        "Blekinge l\u00e4n"
     ],
     "name:ita_x_preferred":[
         "Blekinge"
@@ -180,17 +172,14 @@
     "name:lit_x_preferred":[
         "Bleking\u0117s l\u0117nas"
     ],
-    "name:mac_x_preferred":[
-        "\u0411\u043b\u0435\u043a\u0438\u043d\u0433\u0435"
-    ],
     "name:mar_x_preferred":[
         "\u092c\u094d\u0932\u0947\u0915\u0940\u0902\u0917 \u0915\u093e\u0909\u0902\u091f\u0940"
     ],
-    "name:may_x_preferred":[
-        "Daerah Blekinge"
-    ],
     "name:mkd_x_preferred":[
         "\u0411\u043b\u0435\u043a\u0438\u043d\u0433\u0435"
+    ],
+    "name:msa_x_preferred":[
+        "Daerah Blekinge"
     ],
     "name:nan_x_preferred":[
         "Blekinge K\u014dan"
@@ -201,6 +190,9 @@
     "name:nld_x_preferred":[
         "Blekinge"
     ],
+    "name:nld_x_variant":[
+        "Blekinge l\u00e4n"
+    ],
     "name:nno_x_preferred":[
         "Blekinge"
     ],
@@ -209,9 +201,6 @@
     ],
     "name:nor_x_preferred":[
         "Blekinge"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0628\u0644\u06a9\u06cc\u0646\u06af\u0647"
     ],
     "name:pnb_x_preferred":[
         "\u0628\u0644\u06cc\u06a9\u0646\u06af"
@@ -225,7 +214,7 @@
     "name:ron_x_preferred":[
         "Blekinge"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_variant":[
         "Blekinge l\u00e4n"
     ],
     "name:rus_x_preferred":[
@@ -238,9 +227,6 @@
         "\u0db6\u0dca\u0dbd\u0dd9\u0d9a\u0dd2\u0db1\u0dca\u0da2\u0dda \u0db4\u0dca\u200d\u0dbb\u0dcf\u0db1\u0dca\u0dad\u0dba"
     ],
     "name:slk_x_preferred":[
-        "Blekinge"
-    ],
-    "name:slo_x_preferred":[
         "Blekinge"
     ],
     "name:sme_x_preferred":[
@@ -296,6 +282,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5e03\u840a\u91d1\u5384"
+    ],
+    "name:zho_x_variant":[
+        "\u5e03\u840a\u91d1\u5384\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"SWE",
@@ -417,7 +406,7 @@
         "swe",
         "fin"
     ],
-    "wof:lastmodified":1554166194,
+    "wof:lastmodified":1561839936,
     "wof:name":"Blekinge",
     "wof:parent_id":85633789,
     "wof:placetype":"region",

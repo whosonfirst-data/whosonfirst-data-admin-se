@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.247006,
-    "geom:area_square_m":14579526937.748442,
+    "geom:area_square_m":14579526937.748503,
     "geom:bbox":"14.41671,57.699737,17.561701,59.019741",
     "geom:latitude":58.349492,
     "geom:longitude":15.901679,
@@ -33,12 +33,6 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0623\u0648\u0633\u062a\u0631\u063a\u0648\u062a\u0644\u0627\u0646\u062f"
     ],
-    "name:arm_x_preferred":[
-        "\u0537\u057d\u057f\u0565\u0580\u0563\u0575\u0578\u057f\u056c\u0561\u0576\u0564"
-    ],
-    "name:baq_x_preferred":[
-        "\u00d6sterg\u00f6tlandeko konderria"
-    ],
     "name:bel_x_preferred":[
         "\u043b\u0435\u043d \u042d\u0441\u0442\u044d\u0440\u0433\u0451\u0442\u043b\u0430\u043d\u0434"
     ],
@@ -57,16 +51,13 @@
     "name:cat_x_preferred":[
         "\u00d6sterg\u00f6tland"
     ],
-    "name:chi_x_preferred":[
-        "\u4e1c\u7ea6\u7279\u5170\u7701"
+    "name:ces_x_preferred":[
+        "\u00d6sterg\u00f6tland"
     ],
     "name:cor_x_preferred":[
         "Konteth \u00d6sterg\u00f6tland"
     ],
     "name:cym_x_preferred":[
-        "\u00d6sterg\u00f6tland"
-    ],
-    "name:cze_x_preferred":[
         "\u00d6sterg\u00f6tland"
     ],
     "name:dan_x_preferred":[
@@ -75,8 +66,11 @@
     "name:deu_x_preferred":[
         "\u00d6sterg\u00f6tland"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_variant":[
         "\u00d6sterg\u00f6tlands l\u00e4n"
+    ],
+    "name:ell_x_preferred":[
+        "\u03ba\u03bf\u03bc\u03b7\u03c4\u03b5\u03af\u03b1 \u03c4\u03b7\u03c2 \u0388\u03c3\u03c4\u03b5\u03c1\u03b3\u03ad\u03c4\u03bb\u03b1\u03bd\u03b4\u03c2"
     ],
     "name:eng_x_preferred":[
         "Ostergotland"
@@ -91,11 +85,17 @@
     "name:est_x_preferred":[
         "\u00d6sterg\u00f6tland"
     ],
+    "name:eus_x_preferred":[
+        "\u00d6sterg\u00f6tlandeko konderria"
+    ],
     "name:fao_x_preferred":[
         "\u00d6sterg\u00f6tlands l\u00e4n"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0648\u0633\u062a\u0631\u06af\u0648\u062a\u0644\u0627\u0646\u062f"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0627\u0648\u0633\u062a\u0631\u06af\u0648\u062a\u0644\u0627\u0646\u062f"
     ],
     "name:fin_x_preferred":[
         "It\u00e4-G\u00f6tanmaa"
@@ -105,22 +105,14 @@
     ],
     "name:fra_x_variant":[
         "Ostrogothie",
-        "Comt\u00e9 d'\u00d6sterg\u00f6tland"
-    ],
-    "name:fre_x_preferred":[
+        "Comt\u00e9 d'\u00d6sterg\u00f6tland",
         "comt\u00e9 d'\u00d6sterg\u00f6tland"
-    ],
-    "name:ger_x_preferred":[
-        "\u00d6sterg\u00f6tlands l\u00e4n"
     ],
     "name:gla_x_preferred":[
         "\u00d6sterg\u00f6tlands l\u00e4n"
     ],
     "name:glg_x_preferred":[
         "condado de \u00d6sterg\u00f6tland"
-    ],
-    "name:gre_x_preferred":[
-        "\u03ba\u03bf\u03bc\u03b7\u03c4\u03b5\u03af\u03b1 \u03c4\u03b7\u03c2 \u0388\u03c3\u03c4\u03b5\u03c1\u03b3\u03ad\u03c4\u03bb\u03b1\u03bd\u03b4\u03c2"
     ],
     "name:guj_x_preferred":[
         "\u0a93\u0ab8\u0acd\u0a9f\u0ab0\u0a97\u0acb\u0a9f\u0ab2\u0ac7\u0a82\u0aa1 \u0a95\u0abe\u0a89\u0aa8\u0acd\u0a9f\u0ac0"
@@ -137,11 +129,14 @@
     "name:hun_x_preferred":[
         "\u00d6sterg\u00f6tland megye"
     ],
-    "name:ice_x_preferred":[
-        "\u00d6sterg\u00f6tlands l\u00e4n"
+    "name:hye_x_preferred":[
+        "\u0537\u057d\u057f\u0565\u0580\u0563\u0575\u0578\u057f\u056c\u0561\u0576\u0564"
     ],
     "name:ind_x_preferred":[
         "Daerah \u00d6sterg\u00f6tland"
+    ],
+    "name:isl_x_preferred":[
+        "\u00d6sterg\u00f6tlands l\u00e4n"
     ],
     "name:ita_x_preferred":[
         "contea di \u00d6sterg\u00f6tland"
@@ -167,13 +162,13 @@
     "name:lit_x_preferred":[
         "Esterjotlando l\u0117nas"
     ],
-    "name:mac_x_preferred":[
-        "\u0415\u0441\u0442\u0435\u0440\u0458\u0435\u0442\u043b\u0430\u043d\u0434"
-    ],
     "name:mar_x_preferred":[
         "\u0911\u0938\u094d\u091f\u0930\u0917\u094b\u091f\u0932\u0901\u0921 \u0915\u093e\u0909\u0902\u091f\u0940"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u0415\u0441\u0442\u0435\u0440\u0458\u0435\u0442\u043b\u0430\u043d\u0434"
+    ],
+    "name:msa_x_preferred":[
         "Daerah \u00d6sterg\u00f6tland"
     ],
     "name:nan_x_preferred":[
@@ -182,14 +177,14 @@
     "name:nds_x_preferred":[
         "Lehn Oostg\u00f6tland"
     ],
+    "name:nld_x_preferred":[
+        "\u00d6sterg\u00f6tlands l\u00e4n"
+    ],
     "name:nno_x_preferred":[
         "\u00d6sterg\u00f6tlands l\u00e4n"
     ],
     "name:nob_x_preferred":[
         "\u00d6sterg\u00f6tlands l\u00e4n"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0627\u0648\u0633\u062a\u0631\u06af\u0648\u062a\u0644\u0627\u0646\u062f"
     ],
     "name:pol_x_preferred":[
         "\u00d6sterg\u00f6tlands l\u00e4n"
@@ -197,7 +192,7 @@
     "name:por_x_preferred":[
         "condado da \u00d6sterg\u00f6tland"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "\u00d6sterg\u00f6tlands l\u00e4n"
     ],
     "name:rus_x_preferred":[
@@ -253,6 +248,9 @@
     ],
     "name:vol_x_preferred":[
         "Lof\u00fcda-G\u00f6tl\u00e4ni\u00e4n"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e1c\u7ea6\u7279\u5170\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"SWE",
@@ -372,7 +370,7 @@
         "swe",
         "fin"
     ],
-    "wof:lastmodified":1553900759,
+    "wof:lastmodified":1561839935,
     "wof:name":"Ostergotland",
     "wof:parent_id":85633789,
     "wof:placetype":"region",

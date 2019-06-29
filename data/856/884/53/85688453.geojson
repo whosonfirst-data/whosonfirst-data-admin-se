@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.228883,
-    "geom:area_square_m":24997028884.417664,
+    "geom:area_square_m":24997028884.417622,
     "geom:bbox":"14.4475615,60.188809,18.1156485,62.3433725",
     "geom:latitude":61.4418,
     "geom:longitude":16.569731,
@@ -33,9 +33,6 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u064a\u0627\u0641\u0644\u0628\u0648\u0631\u063a"
     ],
-    "name:baq_x_preferred":[
-        "G\u00e4vleborgeko konderria"
-    ],
     "name:bel_x_preferred":[
         "\u041b\u0435\u043d \u0415\u045e\u043b\u0435\u0431\u0430\u0440\u0433"
     ],
@@ -58,14 +55,8 @@
     "name:ces_x_preferred":[
         "G\u00e4vleborg"
     ],
-    "name:chi_x_preferred":[
-        "\u8036\u592b\u52d2\u5821\u7701"
-    ],
     "name:cor_x_preferred":[
         "Konteth G\u00e4vleborg"
-    ],
-    "name:cze_x_preferred":[
-        "G\u00e4vleborg"
     ],
     "name:dan_x_preferred":[
         "G\u00e4vleborgs l\u00e4n"
@@ -73,8 +64,8 @@
     "name:deu_x_preferred":[
         "G\u00e4vleborgs l\u00e4n"
     ],
-    "name:dut_x_preferred":[
-        "G\u00e4vleborgs l\u00e4n"
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03ac\u03b2\u03bb\u03b5\u03bc\u03c0\u03bf\u03c1\u03b3\u03ba"
     ],
     "name:eng_x_preferred":[
         "Gavleborg"
@@ -99,6 +90,9 @@
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u06cc\u0648\u0644\u0628\u0648\u0631\u06cc"
     ],
+    "name:fas_x_variant":[
+        "\u0627\u0633\u062a\u0627\u0646 \u06af\u0648\u0644\u0628\u0648\u0631\u06cc"
+    ],
     "name:fin_x_preferred":[
         "G\u00e4vleborgin l\u00e4\u00e4ni"
     ],
@@ -108,13 +102,7 @@
     "name:fra_x_variant":[
         "G\u00e4vleborg"
     ],
-    "name:fre_x_preferred":[
-        "Comt\u00e9 de G\u00e4vleborg"
-    ],
     "name:frr_x_preferred":[
-        "G\u00e4vleborgs l\u00e4n"
-    ],
-    "name:ger_x_preferred":[
         "G\u00e4vleborgs l\u00e4n"
     ],
     "name:gla_x_preferred":[
@@ -122,9 +110,6 @@
     ],
     "name:glg_x_preferred":[
         "Condado de G\u00e4vleborg"
-    ],
-    "name:gre_x_preferred":[
-        "\u0393\u03ba\u03ac\u03b2\u03bb\u03b5\u03bc\u03c0\u03bf\u03c1\u03b3\u03ba"
     ],
     "name:guj_x_preferred":[
         "\u0a97\u0ac7\u0ab5\u0acd\u0ab2\u0acb\u0aac\u0acb\u0ab0\u0acd\u0a97 \u0a95\u0abe\u0a89\u0aa8\u0acd\u0a9f\u0ac0"
@@ -171,14 +156,8 @@
     "name:lit_x_preferred":[
         "Jevleborgas"
     ],
-    "name:mac_x_preferred":[
-        "\u0408\u0435\u0432\u043b\u0435\u0431\u043e\u0440\u0433"
-    ],
     "name:mar_x_preferred":[
         "\u0917\u0949\u0932\u094d\u0932\u0947\u092c\u0949\u0930\u094d\u0917 \u0915\u093e\u0909\u0902\u091f\u0940"
-    ],
-    "name:may_x_preferred":[
-        "Daerah G\u00e4vleborg"
     ],
     "name:mkd_x_preferred":[
         "\u0408\u0435\u0432\u043b\u0435\u0431\u043e\u0440\u0433"
@@ -192,14 +171,14 @@
     "name:nds_x_preferred":[
         "Lehn G\u00e4vleborg"
     ],
+    "name:nld_x_preferred":[
+        "G\u00e4vleborgs l\u00e4n"
+    ],
     "name:nno_x_preferred":[
         "G\u00e4vleborgs l\u00e4n"
     ],
     "name:nob_x_preferred":[
         "G\u00e4vleborgs l\u00e4n"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u06af\u0648\u0644\u0628\u0648\u0631\u06cc"
     ],
     "name:pol_x_preferred":[
         "G\u00e4vleborg"
@@ -207,7 +186,7 @@
     "name:por_x_preferred":[
         "G\u00e4vleborg"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Regiunea G\u00e4vleborg"
     ],
     "name:rus_x_preferred":[
@@ -381,7 +360,7 @@
         "swe",
         "fin"
     ],
-    "wof:lastmodified":1553900753,
+    "wof:lastmodified":1561839935,
     "wof:name":"Gavleborg",
     "wof:parent_id":85633789,
     "wof:placetype":"region",

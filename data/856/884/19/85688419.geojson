@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.366755,
-    "geom:area_square_m":8706315848.60952,
+    "geom:area_square_m":8706315848.609409,
     "geom:bbox":"15.617399,58.3969845,17.955189,59.5305135",
     "geom:latitude":58.991646,
     "geom:longitude":16.843675,
@@ -33,12 +33,6 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0633\u0648\u062f\u0631\u0645\u0627\u0646\u0644\u0627\u0646\u062f"
     ],
-    "name:arm_x_preferred":[
-        "\u054d\u0575\u0578\u0564\u0565\u0580\u0574\u0561\u0576\u056c\u0561\u0576\u0564"
-    ],
-    "name:baq_x_preferred":[
-        "S\u00f6dermanlandeko konderria"
-    ],
     "name:bel_x_preferred":[
         "\u043b\u0435\u043d \u0421\u0451\u0434\u044d\u0440\u043c\u0430\u043d\u043b\u0430\u043d\u0434"
     ],
@@ -57,14 +51,11 @@
     "name:cat_x_preferred":[
         "comtat de S\u00f6dermanland"
     ],
-    "name:chi_x_preferred":[
-        "\u5357\u66fc\u5170\u7701"
+    "name:ces_x_preferred":[
+        "S\u00f6dermanland"
     ],
     "name:cor_x_preferred":[
         "Konteth S\u00f6dermanland"
-    ],
-    "name:cze_x_preferred":[
-        "S\u00f6dermanland"
     ],
     "name:dan_x_preferred":[
         "S\u00f6dermanland"
@@ -72,8 +63,11 @@
     "name:deu_x_preferred":[
         "S\u00f6dermanland"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_variant":[
         "S\u00f6dermanlands l\u00e4n"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03bf\u03bd\u03c4\u03b5\u03c1\u03bc\u03b1\u03bd\u03bb\u03ac\u03bd\u03c4"
     ],
     "name:eng_x_preferred":[
         "Sodermanland"
@@ -89,11 +83,17 @@
     "name:est_x_preferred":[
         "S\u00f6dermanland"
     ],
+    "name:eus_x_preferred":[
+        "S\u00f6dermanlandeko konderria"
+    ],
     "name:fao_x_preferred":[
         "S\u00f6dermanlands l\u00e4n"
     ],
     "name:fas_x_preferred":[
         "\u0633\u0648\u062f\u0631\u0645\u0627\u0646\u0644\u0627\u0646\u062f"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0633\u0648\u062f\u0631\u0645\u0627\u0646\u0644\u0627\u0646\u062f"
     ],
     "name:fin_x_preferred":[
         "S\u00f6dermanland"
@@ -103,22 +103,14 @@
     ],
     "name:fra_x_variant":[
         "Comt\u00e9 de S\u00f6dermanland",
-        "Sudermanie"
-    ],
-    "name:fre_x_preferred":[
+        "Sudermanie",
         "comt\u00e9 de S\u00f6dermanland"
-    ],
-    "name:ger_x_preferred":[
-        "S\u00f6dermanlands l\u00e4n"
     ],
     "name:gla_x_preferred":[
         "S\u00f6dermanlands l\u00e4n"
     ],
     "name:glg_x_preferred":[
         "condado de S\u00f6dermanland"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03bf\u03bd\u03c4\u03b5\u03c1\u03bc\u03b1\u03bd\u03bb\u03ac\u03bd\u03c4"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0acb\u0aa1\u0ab0\u0aae\u0ac7\u0aa8\u0ab2\u0ac7\u0aa8\u0acd\u0aa1 \u0a95\u0abe\u0a89\u0aa8\u0acd\u0a9f\u0ac0"
@@ -135,11 +127,14 @@
     "name:hun_x_preferred":[
         "S\u00f6dermanland tartom\u00e1ny"
     ],
-    "name:ice_x_preferred":[
-        "S\u00f6dermanlands l\u00e4n"
+    "name:hye_x_preferred":[
+        "\u054d\u0575\u0578\u0564\u0565\u0580\u0574\u0561\u0576\u056c\u0561\u0576\u0564"
     ],
     "name:ind_x_preferred":[
         "Daerah S\u00f6dermanland"
+    ],
+    "name:isl_x_preferred":[
+        "S\u00f6dermanlands l\u00e4n"
     ],
     "name:ita_x_preferred":[
         "contea di S\u00f6dermanland"
@@ -165,13 +160,13 @@
     "name:lit_x_preferred":[
         "Siodermanlandas l\u0117nas"
     ],
-    "name:mac_x_preferred":[
-        "\u0421\u0435\u0434\u0435\u0440\u043c\u0430\u043d\u043b\u0430\u043d\u0434"
-    ],
     "name:mar_x_preferred":[
         "\u0938\u094b\u0902\u0921\u0947\u0930\u092e\u0928\u0932\u0901\u0921 \u0915\u093e\u0909\u0902\u091f\u0940"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u0421\u0435\u0434\u0435\u0440\u043c\u0430\u043d\u043b\u0430\u043d\u0434"
+    ],
+    "name:msa_x_preferred":[
         "Daerah S\u00f6dermanland"
     ],
     "name:nan_x_preferred":[
@@ -180,14 +175,14 @@
     "name:nds_x_preferred":[
         "Lehn S\u00f6dermanland"
     ],
+    "name:nld_x_preferred":[
+        "S\u00f6dermanlands l\u00e4n"
+    ],
     "name:nno_x_preferred":[
         "S\u00f6dermanlands l\u00e4n"
     ],
     "name:nob_x_preferred":[
         "S\u00f6dermanlands l\u00e4n"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0633\u0648\u062f\u0631\u0645\u0627\u0646\u0644\u0627\u0646\u062f"
     ],
     "name:pol_x_preferred":[
         "S\u00f6dermanlands l\u00e4n"
@@ -195,7 +190,7 @@
     "name:por_x_preferred":[
         "condado da S\u00f6dermanland"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "S\u00f6dermanlands l\u00e4n"
     ],
     "name:rus_x_preferred":[
@@ -251,6 +246,9 @@
     ],
     "name:vol_x_preferred":[
         "S\u00f6dermanl\u00e4ni\u00e4n"
+    ],
+    "name:zho_x_preferred":[
+        "\u5357\u66fc\u5170\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"SWE",
@@ -370,7 +368,7 @@
         "swe",
         "fin"
     ],
-    "wof:lastmodified":1553900756,
+    "wof:lastmodified":1561839934,
     "wof:name":"Sodermanland",
     "wof:parent_id":85633789,
     "wof:placetype":"region",
