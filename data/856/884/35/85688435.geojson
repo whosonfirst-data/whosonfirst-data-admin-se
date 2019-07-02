@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.499892,
-    "geom:area_square_m":21785448213.765705,
+    "geom:area_square_m":21785448213.765785,
     "geom:bbox":"11.6921435,58.72562,14.4759065,61.05695",
     "geom:latitude":59.773772,
     "geom:longitude":13.152931,
@@ -33,9 +33,6 @@
     "name:ara_x_preferred":[
         "\u0641\u0627\u0631\u0645\u0644\u0627\u0646\u062f"
     ],
-    "name:baq_x_preferred":[
-        "V\u00e4rmlandeko konderria"
-    ],
     "name:bar_x_preferred":[
         "V\u00e4rmlands l\u00e4n"
     ],
@@ -60,9 +57,6 @@
     "name:ces_x_preferred":[
         "V\u00e4rmland"
     ],
-    "name:chi_x_preferred":[
-        "\u97e6\u59c6\u5170\u7701"
-    ],
     "name:cor_x_preferred":[
         "Konteth V\u00e4rmland"
     ],
@@ -72,8 +66,11 @@
     "name:deu_x_preferred":[
         "V\u00e4rmland"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_variant":[
         "V\u00e4rmlands l\u00e4n"
+    ],
+    "name:ell_x_preferred":[
+        "\u03ba\u03bf\u03bc\u03b7\u03c4\u03b5\u03af\u03b1 \u03c4\u03b7\u03c2 \u03b2\u03b5\u03c1\u03bc\u03bb\u03b1\u03bd\u03b4\u03c2"
     ],
     "name:eng_x_preferred":[
         "Varmland"
@@ -89,11 +86,17 @@
     "name:est_x_preferred":[
         "V\u00e4rmlandi l\u00e4\u00e4n"
     ],
+    "name:eus_x_preferred":[
+        "V\u00e4rmlandeko konderria"
+    ],
     "name:fao_x_preferred":[
         "V\u00e4rmlands l\u00e4n"
     ],
     "name:fas_x_preferred":[
         "\u0648\u0631\u0645\u0644\u0627\u0646\u062f"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0648\u0631\u0645\u0644\u0627\u0646\u062f"
     ],
     "name:fin_x_preferred":[
         "V\u00e4rmlanti"
@@ -103,22 +106,14 @@
     ],
     "name:fra_x_variant":[
         "Vermland",
-        "Comt\u00e9 de V\u00e4rmland"
-    ],
-    "name:fre_x_preferred":[
+        "Comt\u00e9 de V\u00e4rmland",
         "comt\u00e9 de V\u00e4rmland"
-    ],
-    "name:ger_x_preferred":[
-        "V\u00e4rmlands l\u00e4n"
     ],
     "name:gla_x_preferred":[
         "V\u00e4rmlands l\u00e4n"
     ],
     "name:glg_x_preferred":[
         "condado de V\u00e4rmland"
-    ],
-    "name:gre_x_preferred":[
-        "\u03ba\u03bf\u03bc\u03b7\u03c4\u03b5\u03af\u03b1 \u03c4\u03b7\u03c2 \u03b2\u03b5\u03c1\u03bc\u03bb\u03b1\u03bd\u03b4\u03c2"
     ],
     "name:guj_x_preferred":[
         "\u0ab5\u0ab0\u0acd\u0aae\u0ab2\u0ac7\u0aa8\u0acd\u0aa1 \u0a95\u0abe\u0a89\u0aa8\u0acd\u0a9f\u0ac0"
@@ -135,11 +130,11 @@
     "name:hun_x_preferred":[
         "V\u00e4rmland megye"
     ],
-    "name:ice_x_preferred":[
-        "V\u00e4rmlands l\u00e4n"
-    ],
     "name:ind_x_preferred":[
         "Daerah V\u00e4rmland"
+    ],
+    "name:isl_x_preferred":[
+        "V\u00e4rmlands l\u00e4n"
     ],
     "name:ita_x_preferred":[
         "contea di V\u00e4rmland"
@@ -165,13 +160,13 @@
     "name:lit_x_preferred":[
         "Vermlando l\u0117nas"
     ],
-    "name:mac_x_preferred":[
-        "\u0412\u0435\u0440\u043c\u043b\u0430\u043d\u0434"
-    ],
     "name:mar_x_preferred":[
         "\u0935\u094d\u0939\u0930\u092e\u0945\u0902\u0921 \u0915\u093e\u0909\u0902\u091f\u0940"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u0412\u0435\u0440\u043c\u043b\u0430\u043d\u0434"
+    ],
+    "name:msa_x_preferred":[
         "Daerah V\u00e4rmland"
     ],
     "name:nan_x_preferred":[
@@ -179,6 +174,9 @@
     ],
     "name:nds_x_preferred":[
         "Lehn V\u00e4rmland"
+    ],
+    "name:nld_x_preferred":[
+        "V\u00e4rmlands l\u00e4n"
     ],
     "name:nno_x_preferred":[
         "V\u00e4rmlands l\u00e4n"
@@ -189,16 +187,13 @@
     "name:oss_x_preferred":[
         "\u0412\u0435\u0440\u043c\u043b\u0430\u043d\u0434"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0648\u0631\u0645\u0644\u0627\u0646\u062f"
-    ],
     "name:pol_x_preferred":[
         "V\u00e4rmlands l\u00e4n"
     ],
     "name:por_x_preferred":[
         "condado da V\u00e4rmland"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "V\u00e4rmlands l\u00e4n"
     ],
     "name:rus_x_preferred":[
@@ -210,7 +205,7 @@
     "name:sin_x_preferred":[
         "\u0dc0\u0dcf\u0dbb\u0dca\u0db8\u0dca\u0dbd\u0db1\u0dca\u0dad \u0db4\u0dca\u200d\u0dbb\u0dcf\u0db1\u0dca\u0dad\u0dba"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "V\u00e4rmland"
     ],
     "name:sme_x_preferred":[
@@ -260,6 +255,9 @@
     ],
     "name:vol_x_preferred":[
         "V\u00e4rml\u00e4ni\u00e4n"
+    ],
+    "name:zho_x_preferred":[
+        "\u97e6\u59c6\u5170\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"SWE",
@@ -379,7 +377,7 @@
         "swe",
         "fin"
     ],
-    "wof:lastmodified":1553900757,
+    "wof:lastmodified":1561839934,
     "wof:name":"Varmland",
     "wof:parent_id":85633789,
     "wof:placetype":"region",

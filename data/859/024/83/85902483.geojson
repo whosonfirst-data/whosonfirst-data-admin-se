@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":18666758.197758,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.007886,55.586649,13.007886,55.586649",
     "geom:latitude":55.586649,
     "geom:longitude":13.007886,
@@ -26,9 +26,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":3,
     "mz:tier_metro":1,
-    "name:dut_x_preferred":[
-        "S\u00f6derv\u00e4rn"
-    ],
     "name:eng_x_preferred":[
         "S\u00f6derv\u00e4rn"
     ],
@@ -79,12 +76,12 @@
     "wd:longitude":13.008056,
     "wd:wordcount":31,
     "wof:belongsto":[
-        85688377,
         102191581,
         1159305753,
         85633789,
         101752283,
-        1159303367
+        1159303367,
+        85688377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -112,7 +109,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1531935897,
+    "wof:lastmodified":1561839930,
     "wof:name":"S\u00f6derv\u00e4rn",
     "wof:parent_id":101752283,
     "wof:placetype":"neighbourhood",
