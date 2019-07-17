@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005683,
-    "geom:area_square_m":38611398.483938,
+    "geom:area_square_m":38611398.483936,
     "geom:bbox":"12.7563915,56.6427404262,12.9500065571,56.7055395",
     "geom:latitude":56.672123,
     "geom:longitude":12.858536,
@@ -18,14 +18,30 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":5.1,
+    "name:afr_x_preferred":[
+        "Halmstad"
+    ],
     "name:ara_x_preferred":[
         "\u0647\u0627\u0644\u0645\u0633\u062a\u0627\u062f"
+    ],
+    "name:ast_x_preferred":[
+        "Halmstad"
+    ],
+    "name:bar_x_preferred":[
+        "Halmstad"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0425\u0430\u043b\u044c\u043c\u0441\u0442\u0430\u0434"
     ],
     "name:bel_x_variant":[
-        "\u0413\u0430\u043b\u044c\u043c\u0441\u0442\u0430\u0434"
+        "\u0413\u0430\u043b\u044c\u043c\u0441\u0442\u0430\u0434",
+        "\u0425\u0430\u043b\u044c\u043c\u0441\u0442\u0430\u0434"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b9\u09be\u09ae\u09b8\u09cd\u099f\u09be\u09a1"
+    ],
+    "name:bos_x_preferred":[
+        "Halmstad"
     ],
     "name:bre_x_preferred":[
         "Halmstad"
@@ -34,6 +50,9 @@
         "\u0425\u0430\u043b\u043c\u0441\u0442\u0430\u0434"
     ],
     "name:cat_x_preferred":[
+        "Halmstad"
+    ],
+    "name:ceb_x_preferred":[
         "Halmstad"
     ],
     "name:ces_x_preferred":[
@@ -45,10 +64,19 @@
     "name:cor_x_preferred":[
         "Halmstad"
     ],
+    "name:cym_x_preferred":[
+        "Halmstad"
+    ],
     "name:dan_x_preferred":[
         "Halmstad"
     ],
     "name:deu_x_preferred":[
+        "Halmstad"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03ac\u03bb\u03bc\u03c3\u03c4\u03b1\u03bd\u03c4"
+    ],
+    "name:eng_x_preferred":[
         "Halmstad"
     ],
     "name:eng_x_variant":[
@@ -84,17 +112,32 @@
     "name:gla_x_preferred":[
         "Halmstad"
     ],
+    "name:glg_x_preferred":[
+        "Halmstad"
+    ],
+    "name:gsw_x_preferred":[
+        "Halmstad"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab9\u0ab2\u0acd\u0aae\u0ab8\u0acd\u0a9f\u0aa1"
+    ],
     "name:hbs_x_preferred":[
         "Halmstad"
     ],
     "name:heb_x_preferred":[
         "\u05d4\u05d0\u05dc\u05de\u05e1\u05d8\u05d3"
     ],
+    "name:hin_x_preferred":[
+        "\u0939\u0948\u0932\u094d\u092e\u0938\u094d\u091f\u0947\u0921"
+    ],
     "name:hrv_x_preferred":[
         "Halmstad"
     ],
     "name:hun_x_preferred":[
         "Halmstad"
+    ],
+    "name:hye_x_preferred":[
+        "\u0540\u0561\u056c\u0574\u057d\u057f\u0561\u0564"
     ],
     "name:ind_x_preferred":[
         "Halmstad"
@@ -111,8 +154,14 @@
     "name:kal_x_preferred":[
         "Halmstad"
     ],
+    "name:kan_x_preferred":[
+        "\u0cb9\u0ccd\u0caf\u0cbe\u0cb2\u0ccd\u0cb8\u0ccd\u0c9f\u0cbe\u0ca1\u0ccd"
+    ],
     "name:kat_x_preferred":[
         "\u10f0\u10d0\u10da\u10db\u10e1\u10e2\u10d0\u10d3\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0425\u0430\u043b\u044c\u043c\u0441\u0442\u0430\u0434"
     ],
     "name:kor_x_preferred":[
         "\ud560\ub984\uc2a4\ud0c0\ub4dc"
@@ -123,10 +172,31 @@
     "name:lat_x_preferred":[
         "Halmostadium"
     ],
+    "name:lav_x_preferred":[
+        "Halmstade"
+    ],
+    "name:lij_x_preferred":[
+        "Halmstad"
+    ],
     "name:lit_x_preferred":[
         "Halmstadas"
     ],
+    "name:ltz_x_preferred":[
+        "Halmstad"
+    ],
+    "name:mar_x_preferred":[
+        "\u0939\u0945\u0932\u094d\u092e\u0938\u094d\u091f\u093e\u0926"
+    ],
     "name:min_x_preferred":[
+        "Halmstad"
+    ],
+    "name:msa_x_preferred":[
+        "Halmstad"
+    ],
+    "name:nan_x_preferred":[
+        "Halmstad"
+    ],
+    "name:nds_x_preferred":[
         "Halmstad"
     ],
     "name:nld_x_preferred":[
@@ -139,6 +209,9 @@
         "Halmstad"
     ],
     "name:nor_x_preferred":[
+        "Halmstad"
+    ],
+    "name:oci_x_preferred":[
         "Halmstad"
     ],
     "name:oss_x_preferred":[
@@ -162,7 +235,13 @@
     "name:sco_x_preferred":[
         "Halmstad"
     ],
+    "name:sin_x_preferred":[
+        "\u0dc4\u0dbd\u0dca\u0db8\u0dca\u0dc3\u0dca\u0da7\u0da9\u0dca"
+    ],
     "name:slk_x_preferred":[
+        "Halmstad"
+    ],
+    "name:slv_x_preferred":[
         "Halmstad"
     ],
     "name:sme_x_preferred":[
@@ -190,6 +269,18 @@
     "name:swe_x_variant":[
         "Halmstads"
     ],
+    "name:szl_x_preferred":[
+        "Halmstad"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb9\u0bbe\u0bae\u0bcd\u0bb8\u0bcd\u0b9f\u0b9f\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u04ba\u0430\u043b\u043c\u0441\u0442\u0430\u0434"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c39\u0c32\u0c4d\u0c2e\u0c38\u0c4d\u0c24\u0c3e\u0c26\u0c4d"
+    ],
     "name:tha_x_preferred":[
         "\u0e2e\u0e32\u0e25\u0e4c\u0e21\u0e2a\u0e15\u0e32"
     ],
@@ -205,6 +296,9 @@
     "name:urd_x_preferred":[
         "\u06c1\u0627\u0644\u0645\u0633\u062a\u0627"
     ],
+    "name:uzb_x_preferred":[
+        "Halmstad"
+    ],
     "name:vec_x_preferred":[
         "Halmstad"
     ],
@@ -212,6 +306,9 @@
         "Halmstad"
     ],
     "name:vol_x_preferred":[
+        "Halmstad"
+    ],
+    "name:war_x_preferred":[
         "Halmstad"
     ],
     "name:zho_min_nan_x_preferred":[
@@ -367,7 +464,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702340,
+    "wof:lastmodified":1563368590,
     "wof:name":"Halmstad",
     "wof:parent_id":1125417569,
     "wof:placetype":"locality",

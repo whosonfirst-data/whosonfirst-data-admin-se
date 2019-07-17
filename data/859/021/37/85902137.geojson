@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6951050.429303,
+    "geom:area_square_m":0.0,
     "geom:bbox":"17.701627,59.610823,17.701627,59.610823",
     "geom:latitude":59.610823,
     "geom:longitude":17.701627,
@@ -29,11 +29,59 @@
     "name:bul_x_preferred":[
         "\u0411\u043e\u043b\u0441\u0442\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "B\u00e5lsta"
+    ],
+    "name:dan_x_preferred":[
+        "B\u00e5lsta"
+    ],
+    "name:deu_x_preferred":[
+        "B\u00e5lsta"
+    ],
+    "name:eng_x_preferred":[
+        "B\u00e5lsta"
+    ],
+    "name:fao_x_preferred":[
+        "B\u00e5lsta"
+    ],
     "name:fas_x_preferred":[
         "\u0628\u0648\u0644\u0633\u062a\u0627"
     ],
+    "name:fin_x_preferred":[
+        "B\u00e5lsta"
+    ],
+    "name:fra_x_preferred":[
+        "B\u00e5lsta"
+    ],
+    "name:isl_x_preferred":[
+        "B\u00e5lsta"
+    ],
+    "name:ita_x_preferred":[
+        "B\u00e5lsta"
+    ],
     "name:lit_x_preferred":[
         "Bolsta"
+    ],
+    "name:nan_x_preferred":[
+        "B\u00e5lsta"
+    ],
+    "name:nld_x_preferred":[
+        "B\u00e5lsta"
+    ],
+    "name:nno_x_preferred":[
+        "B\u00e5lsta"
+    ],
+    "name:nob_x_preferred":[
+        "B\u00e5lsta"
+    ],
+    "name:pol_x_preferred":[
+        "B\u00e5lsta"
+    ],
+    "name:por_x_preferred":[
+        "B\u00e5lsta"
+    ],
+    "name:ron_x_preferred":[
+        "B\u00e5lsta"
     ],
     "name:srp_x_preferred":[
         "\u0411\u043e\u043b\u0441\u0442\u0430"
@@ -44,6 +92,12 @@
     ],
     "name:swe_x_preferred":[
         "H\u00e5bo"
+    ],
+    "name:swe_x_variant":[
+        "B\u00e5lsta"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043e\u043b\u044c\u0441\u0442\u0430"
     ],
     "name:unk_x_variant":[
         "H\u00e5bo"
@@ -107,7 +161,7 @@
         }
     ],
     "wof:id":85902137,
-    "wof:lastmodified":1531935860,
+    "wof:lastmodified":1563366600,
     "wof:name":"H\u00e5bo",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -26,7 +26,19 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":5,
     "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Gr\u00f6ndal"
+    ],
     "name:fin_x_preferred":[
+        "Gr\u00f6ndal"
+    ],
+    "name:fra_x_preferred":[
+        "Gr\u00f6ndal"
+    ],
+    "name:nld_x_preferred":[
+        "Gr\u00f6ndal"
+    ],
+    "name:nob_x_preferred":[
         "Gr\u00f6ndal"
     ],
     "name:nor_x_preferred":[
@@ -78,12 +90,12 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":109,
     "wof:belongsto":[
-        85688429,
         102191581,
         1125362217,
         85633789,
         101752307,
-        1159303035
+        1159303035,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -111,7 +123,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702780,
+    "wof:lastmodified":1563366595,
     "wof:name":"Gr\u00f6ndal",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

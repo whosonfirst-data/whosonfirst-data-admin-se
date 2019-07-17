@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4191902.829264,
+    "geom:area_square_m":0.0,
     "geom:bbox":"17.908261,59.477392,17.908261,59.477392",
     "geom:latitude":59.477392,
     "geom:longitude":17.908261,
@@ -28,6 +28,33 @@
     "mz:tier_metro":1,
     "name:bul_x_preferred":[
         "\u0420\u0443\u0442\u0435\u0431\u0440\u0443"
+    ],
+    "name:dan_x_preferred":[
+        "Rotebro"
+    ],
+    "name:deu_x_preferred":[
+        "Rotebro"
+    ],
+    "name:eng_x_preferred":[
+        "Rotebro"
+    ],
+    "name:fra_x_preferred":[
+        "Rotebro"
+    ],
+    "name:ita_x_preferred":[
+        "Rotebro"
+    ],
+    "name:nds_x_preferred":[
+        "Rotebro"
+    ],
+    "name:nld_x_preferred":[
+        "Rotebro"
+    ],
+    "name:nno_x_preferred":[
+        "Rotebro"
+    ],
+    "name:nob_x_preferred":[
+        "Rotebro"
     ],
     "name:nor_x_preferred":[
         "Rotebro"
@@ -73,12 +100,12 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":332,
     "wof:belongsto":[
-        85688429,
         102191581,
         1125362217,
         85633789,
         101752307,
-        1159303035
+        1159303035,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -106,7 +133,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1531935890,
+    "wof:lastmodified":1563366499,
     "wof:name":"Rotebro",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

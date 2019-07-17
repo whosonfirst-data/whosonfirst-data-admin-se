@@ -25,6 +25,15 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Skytteholm"
+    ],
+    "name:fra_x_preferred":[
+        "Skytteholm"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u044e\u0442\u0442\u0435\u0445\u043e\u043b\u044c\u043c"
+    ],
     "name:swe_x_preferred":[
         "Skytteholm"
     ],
@@ -59,12 +68,12 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":57,
     "wof:belongsto":[
-        85688429,
         102191581,
         1125362217,
         85633789,
         101752307,
-        1159303035
+        1159303035,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -90,7 +99,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702817,
+    "wof:lastmodified":1563366550,
     "wof:name":"Skytteholm",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000676,
-    "geom:area_square_m":4136825.326373,
+    "geom:area_square_m":4136825.326372,
     "geom:bbox":"17.4911312507,60.3304264138,17.5409102023,60.3643410858",
     "geom:latitude":60.34807,
     "geom:longitude":17.517012,
@@ -20,10 +20,16 @@
     "name:bul_x_preferred":[
         "\u0422\u0438\u0435\u0440\u043f"
     ],
+    "name:ceb_x_preferred":[
+        "Tierp"
+    ],
     "name:dan_x_preferred":[
         "Tierp"
     ],
     "name:deu_x_preferred":[
+        "Tierp"
+    ],
+    "name:eng_x_preferred":[
         "Tierp"
     ],
     "name:eng_x_variant":[
@@ -50,10 +56,19 @@
     "name:ita_x_preferred":[
         "Tierp"
     ],
+    "name:jpn_x_preferred":[
+        "\u30c6\u30a3\u30fc\u30a8\u30eb\u30d7\u5e02"
+    ],
+    "name:nan_x_preferred":[
+        "Tierp"
+    ],
     "name:nld_x_preferred":[
         "Tierp"
     ],
     "name:nno_x_preferred":[
+        "Tierp"
+    ],
+    "name:nob_x_preferred":[
         "Tierp"
     ],
     "name:nor_x_preferred":[
@@ -63,6 +78,9 @@
         "Tierp"
     ],
     "name:por_x_preferred":[
+        "Tierp"
+    ],
+    "name:ron_x_preferred":[
         "Tierp"
     ],
     "name:spa_x_preferred":[
@@ -76,6 +94,9 @@
     ],
     "name:zho_min_nan_x_preferred":[
         "Tierp"
+    ],
+    "name:zho_x_preferred":[
+        "\u8482\u8036\u666e"
     ],
     "qs:a0":"Sverige",
     "qs:a1":"*Uppsala l\u00e4n",
@@ -129,7 +150,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702883,
+    "wof:lastmodified":1563368645,
     "wof:name":"Tierp",
     "wof:parent_id":1125288051,
     "wof:placetype":"locality",

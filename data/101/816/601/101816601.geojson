@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000865,
-    "geom:area_square_m":5961904.761076,
+    "geom:area_square_m":5961904.761074,
     "geom:bbox":"13.3637997997,56.1197841883,13.4297877488,56.1510309088",
     "geom:latitude":56.137172,
     "geom:longitude":13.389877,
@@ -20,22 +20,40 @@
     "name:bul_x_preferred":[
         "\u041f\u0435\u0440\u0449\u043e\u0440\u043f"
     ],
+    "name:ceb_x_preferred":[
+        "Perstorp"
+    ],
     "name:dan_x_preferred":[
         "Perstorp"
     ],
     "name:deu_x_preferred":[
         "Perstorp"
     ],
+    "name:eng_x_preferred":[
+        "Perstorp"
+    ],
     "name:fao_x_preferred":[
         "Perstorp"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0631\u0633\u062a\u0648\u0631\u067e"
+    ],
     "name:fin_x_preferred":[
         "Perstorp"
+    ],
+    "name:fra_x_preferred":[
+        "Perstorp"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05e8\u05e1\u05d8\u05d5\u05e8\u05e4"
     ],
     "name:isl_x_preferred":[
         "Perstorp"
     ],
     "name:ita_x_preferred":[
+        "Perstorp"
+    ],
+    "name:nan_x_preferred":[
         "Perstorp"
     ],
     "name:nld_x_preferred":[
@@ -44,11 +62,20 @@
     "name:nno_x_preferred":[
         "Perstorp"
     ],
+    "name:nob_x_preferred":[
+        "Perstorp"
+    ],
     "name:nor_x_preferred":[
         "Perstorp"
     ],
     "name:pol_x_preferred":[
         "Perstorp"
+    ],
+    "name:ron_x_preferred":[
+        "Perstorp"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0440\u0441\u0442\u043e\u0440\u043f"
     ],
     "name:swe_x_preferred":[
         "Perstorp"
@@ -58,6 +85,9 @@
     ],
     "name:zho_min_nan_x_preferred":[
         "Perstorp"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f69\u4ec0\u6258\u666e"
     ],
     "qs:a0":"Sverige",
     "qs:a1":"*Sk\u00e5ne l\u00e4n",
@@ -111,7 +141,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702657,
+    "wof:lastmodified":1563368712,
     "wof:name":"Perstorp",
     "wof:parent_id":1125394683,
     "wof:placetype":"locality",

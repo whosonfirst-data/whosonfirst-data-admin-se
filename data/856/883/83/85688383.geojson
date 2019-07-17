@@ -39,11 +39,17 @@
     "name:bel_x_preferred":[
         "\u0411\u043b\u0435\u043a\u0456\u043d\u0433\u044d"
     ],
+    "name:bel_x_variant":[
+        "\u043b\u0435\u043d \u0411\u043b\u0435\u043a\u0456\u043d\u0433\u044d"
+    ],
     "name:ben_x_preferred":[
         "\u09ac\u09cd\u09b2\u09c7\u0995\u09bf\u099e\u09cd\u099c\u09c7 \u0995\u09be\u0989\u09a8\u09cd\u099f\u09bf"
     ],
     "name:bos_x_preferred":[
         "Blekinge"
+    ],
+    "name:bos_x_variant":[
+        "Kotar Blekinge"
     ],
     "name:bre_x_preferred":[
         "Blekinge"
@@ -51,8 +57,14 @@
     "name:bul_x_preferred":[
         "\u0411\u043b\u0435\u043a\u0438\u043d\u0433\u0435"
     ],
+    "name:bul_x_variant":[
+        "\u043e\u0431\u0449\u0438\u043d\u0430 \u0411\u043b\u0435\u043a\u0438\u043d\u0433\u0435"
+    ],
     "name:cat_x_preferred":[
         "Blekinge"
+    ],
+    "name:ceb_x_preferred":[
+        "Blekinge l\u00e4n"
     ],
     "name:ces_x_preferred":[
         "Blekinge"
@@ -65,6 +77,9 @@
     ],
     "name:dan_x_preferred":[
         "Blekinge"
+    ],
+    "name:dan_x_variant":[
+        "Blekinge l\u00e4n"
     ],
     "name:deu_x_preferred":[
         "Blekinge"
@@ -84,8 +99,14 @@
     "name:epo_x_preferred":[
         "Blekinge"
     ],
+    "name:epo_x_variant":[
+        "Blekinge l\u00e4n"
+    ],
     "name:est_x_preferred":[
         "Blekinge"
+    ],
+    "name:est_x_variant":[
+        "Blekinge l\u00e4\u00e4n"
     ],
     "name:eus_x_preferred":[
         "Blekingeko konderria"
@@ -102,12 +123,21 @@
     "name:fin_x_preferred":[
         "Blekinge"
     ],
+    "name:fin_x_variant":[
+        "Blekingen l\u00e4\u00e4ni"
+    ],
     "name:fra_x_preferred":[
         "Blekinge"
     ],
     "name:fra_x_variant":[
         "Comt\u00e9 de Blekinge",
         "comt\u00e9 de Blekinge"
+    ],
+    "name:frr_x_preferred":[
+        "Blekinge"
+    ],
+    "name:fry_x_preferred":[
+        "Blekinge l\u00e4n"
     ],
     "name:gla_x_preferred":[
         "Blekinge l\u00e4n"
@@ -130,8 +160,14 @@
     "name:hrv_x_preferred":[
         "Blekinge"
     ],
+    "name:hrv_x_variant":[
+        "\u017dupanija Blekinge"
+    ],
     "name:hun_x_preferred":[
         "Blekinge tartom\u00e1ny"
+    ],
+    "name:hun_x_variant":[
+        "Blekinge megye"
     ],
     "name:hye_x_preferred":[
         "\u0532\u056c\u0565\u0584\u056b\u0576\u0563\u0565"
@@ -151,11 +187,17 @@
     "name:jpn_x_preferred":[
         "\u30d6\u30ec\u30fc\u30ad\u30f3\u30b2\u5730\u65b9"
     ],
+    "name:jpn_x_variant":[
+        "\u30d6\u30ec\u30fc\u30ad\u30f3\u30b2\u770c"
+    ],
     "name:kan_x_preferred":[
         "\u0cac\u0ccd\u0cb2\u0cc7\u0c95\u0cbf\u0c82\u0c97\u0ccd \u0c95\u0ccc\u0c82\u0c9f\u0cbf"
     ],
     "name:kor_x_preferred":[
         "\ube14\ub808\ud0b9\uc5d0"
+    ],
+    "name:kor_x_variant":[
+        "\ube14\ub808\ud0b9\uc5d0\uc8fc"
     ],
     "name:kur_x_preferred":[
         "Blekinge l\u00e4n"
@@ -196,6 +238,9 @@
     "name:nno_x_preferred":[
         "Blekinge"
     ],
+    "name:nno_x_variant":[
+        "Blekinge l\u00e4n"
+    ],
     "name:nob_x_preferred":[
         "Blekinge l\u00e4n"
     ],
@@ -207,6 +252,9 @@
     ],
     "name:pol_x_preferred":[
         "Blekinge"
+    ],
+    "name:pol_x_variant":[
+        "Blekinge l\u00e4n"
     ],
     "name:por_x_preferred":[
         "Blekinge"
@@ -238,6 +286,9 @@
     "name:srp_x_preferred":[
         "\u0411\u043b\u0435\u043a\u0438\u043d\u0433\u0435"
     ],
+    "name:srp_x_variant":[
+        "\u0411\u043b\u0435\u045b\u0438\u043d\u0433\u0435"
+    ],
     "name:swa_x_preferred":[
         "Blekinge l\u00e4n"
     ],
@@ -262,17 +313,26 @@
     "name:ukr_x_preferred":[
         "\u0411\u043b\u0435\u043a\u0456\u043d\u0433\u0435"
     ],
+    "name:ukr_x_variant":[
+        "\u043b\u0435\u043d \u0411\u043b\u0435\u043a\u0456\u043d\u0433\u0435"
+    ],
     "name:unk_x_variant":[
         "Blekinge L\u00e4n"
     ],
     "name:urd_x_preferred":[
         "\u0628\u0644\u06cc\u06a9\u06cc\u0646\u06d2"
     ],
+    "name:urd_x_variant":[
+        "\u0628\u0644\u06cc\u06a9\u06cc\u0646\u06d2 \u06a9\u0627\u0624\u0646\u0679\u06cc"
+    ],
     "name:vec_x_preferred":[
         "Blekinge"
     ],
     "name:vie_x_preferred":[
         "Blekinge"
+    ],
+    "name:vie_x_variant":[
+        "h\u1ea1t Blekinge"
     ],
     "name:vol_x_preferred":[
         "Blekingi\u00e4n"
@@ -406,7 +466,7 @@
         "swe",
         "fin"
     ],
-    "wof:lastmodified":1561839936,
+    "wof:lastmodified":1563366642,
     "wof:name":"Blekinge",
     "wof:parent_id":85633789,
     "wof:placetype":"region",

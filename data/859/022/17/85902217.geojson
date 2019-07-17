@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000394,
-    "geom:area_square_m":2598975.145886,
+    "geom:area_square_m":2598975.145885,
     "geom:bbox":"12.0135498047,57.707630798,12.0483619067,57.7290855612",
     "geom:latitude":57.719751,
     "geom:longitude":12.029293,
@@ -26,6 +26,9 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":4,
     "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "K\u00e5lltorp"
+    ],
     "name:swe_x_colloquial":[
         "Kaalltorp",
         "Kaaltorp",
@@ -73,12 +76,12 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":25,
     "wof:belongsto":[
-        85688411,
         102191581,
         1125287157,
         85633789,
         101752295,
-        1159302989
+        1159302989,
+        85688411
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -105,7 +108,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702285,
+    "wof:lastmodified":1563366524,
     "wof:name":"K\u00e5lltorp",
     "wof:parent_id":101752295,
     "wof:placetype":"neighbourhood",

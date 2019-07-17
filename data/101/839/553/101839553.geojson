@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001445,
-    "geom:area_square_m":6940833.103617,
+    "geom:area_square_m":6940833.103622,
     "geom:bbox":"20.6256000887,67.1233870352,20.7093040259,67.1540139151",
     "geom:latitude":67.137536,
     "geom:longitude":20.665818,
@@ -35,10 +35,16 @@
     "name:deu_x_preferred":[
         "G\u00e4llivare"
     ],
+    "name:eng_x_preferred":[
+        "G\u00e4llivare"
+    ],
     "name:eng_x_variant":[
         "GEV"
     ],
     "name:est_x_preferred":[
+        "G\u00e4llivare"
+    ],
+    "name:fao_x_preferred":[
         "G\u00e4llivare"
     ],
     "name:fas_x_preferred":[
@@ -53,6 +59,21 @@
     "name:fit_x_preferred":[
         "Jellivaara"
     ],
+    "name:fra_x_preferred":[
+        "G\u00e4llivare"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d9\u05dc\u05d9\u05d5\u05d5\u05d0\u05e8\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "G\u00e4llivare"
+    ],
+    "name:isl_x_preferred":[
+        "G\u00e4llivare"
+    ],
+    "name:ita_x_preferred":[
+        "G\u00e4llivare"
+    ],
     "name:jpn_x_preferred":[
         "\u30a4\u30a7\u30ea\u30f4\u30a1\u30fc\u30ec"
     ],
@@ -65,15 +86,43 @@
     "name:lit_x_preferred":[
         "Jelivar\u0117"
     ],
+    "name:nan_x_preferred":[
+        "G\u00e4llivare"
+    ],
+    "name:nld_x_preferred":[
+        "G\u00e4llivare"
+    ],
+    "name:nno_x_preferred":[
+        "G\u00e4llivare"
+    ],
+    "name:nob_x_preferred":[
+        "G\u00e4llivare"
+    ],
+    "name:pol_x_preferred":[
+        "G\u00e4llivare"
+    ],
+    "name:por_x_preferred":[
+        "G\u00e4llivare"
+    ],
+    "name:ron_x_preferred":[
+        "G\u00e4llivare"
+    ],
     "name:rus_x_preferred":[
         "\u0415\u043b\u043b\u0438\u0432\u0430\u0440\u0435"
+    ],
+    "name:slk_x_preferred":[
+        "G\u00e4llivare"
+    ],
+    "name:slv_x_preferred":[
+        "G\u00e4llivare"
     ],
     "name:sme_x_preferred":[
         "Jiellev\u00e1rri"
     ],
     "name:sme_x_variant":[
         "V\u00e1h\u010dir",
-        "Jiellev\u00e1ri gielda"
+        "Jiellev\u00e1ri gielda",
+        "V\u00e1h\u010dira gielda"
     ],
     "name:smj_x_preferred":[
         "Jiellev\u00e1rre"
@@ -98,6 +147,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0404\u043b\u043b\u0456\u0432\u0430\u0440\u0435"
+    ],
+    "name:vol_x_preferred":[
+        "G\u00e4llivare"
     ],
     "name:zho_x_preferred":[
         "\u8036\u5229\u74e6\u52d2"
@@ -155,7 +207,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702567,
+    "wof:lastmodified":1563368942,
     "wof:name":"G\u00e4llivare",
     "wof:parent_id":1125300093,
     "wof:placetype":"locality",

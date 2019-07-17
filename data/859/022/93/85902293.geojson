@@ -26,10 +26,16 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "mz:tier_metro":1,
+    "name:ceb_x_preferred":[
+        "Lilla Essingen"
+    ],
     "name:dan_x_preferred":[
         "Lilla Essingen"
     ],
     "name:deu_x_preferred":[
+        "Lilla Essingen"
+    ],
+    "name:eng_x_preferred":[
         "Lilla Essingen"
     ],
     "name:eus_x_preferred":[
@@ -44,7 +50,16 @@
     "name:hun_x_preferred":[
         "Lilla Essingen"
     ],
+    "name:jpn_x_preferred":[
+        "\u30ea\u30e9\u30fb\u30a8\u30c3\u30b7\u30f3\u30b2\u30f3\u5cf6"
+    ],
+    "name:nld_x_preferred":[
+        "Lilla Essingen"
+    ],
     "name:nno_x_preferred":[
+        "Lilla Essingen"
+    ],
+    "name:nob_x_preferred":[
         "Lilla Essingen"
     ],
     "name:nor_x_preferred":[
@@ -89,12 +104,12 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":475,
     "wof:belongsto":[
-        85688429,
         102191581,
         1125362217,
         85633789,
         101752307,
-        1159303035
+        1159303035,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -121,7 +136,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702786,
+    "wof:lastmodified":1563366522,
     "wof:name":"Lilla Essingen",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

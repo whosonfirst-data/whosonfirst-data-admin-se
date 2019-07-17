@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000139,
-    "geom:area_square_m":873595.259573,
+    "geom:area_square_m":873595.259574,
     "geom:bbox":"17.9672745886,59.3499957674,17.985408427,59.3598452834",
     "geom:latitude":59.354837,
     "geom:longitude":17.976163,
@@ -26,6 +26,12 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":5,
     "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Lilla Alby"
+    ],
+    "name:fra_x_preferred":[
+        "Lilla Alby"
+    ],
     "name:swe_x_preferred":[
         "Lilla Alby"
     ],
@@ -62,12 +68,12 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":597,
     "wof:belongsto":[
-        85688429,
         102191581,
         1125362217,
         85633789,
         101752307,
-        1159303035
+        1159303035,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -94,7 +100,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702786,
+    "wof:lastmodified":1563366523,
     "wof:name":"Lilla Alby",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

@@ -19,6 +19,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Alster"
+    ],
     "name:deu_x_preferred":[
         "Alster"
     ],
@@ -27,6 +30,15 @@
     ],
     "name:fas_x_preferred":[
         "\u0627\u0644\u0633\u062a\u0631\u060c \u0633\u0648\u0626\u062f"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u0644\u0633\u062a\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Alster"
+    ],
+    "name:ita_x_preferred":[
+        "Alster"
     ],
     "name:nan_x_preferred":[
         "Alster"
@@ -42,6 +54,9 @@
     ],
     "name:swe_x_preferred":[
         "Alsters Bruk"
+    ],
+    "name:swe_x_variant":[
+        "Alster"
     ],
     "qs_pg:aaroncc":"SE",
     "qs_pg:gn_country":"SE",
@@ -84,7 +99,7 @@
         }
     ],
     "wof:id":1125765407,
-    "wof:lastmodified":1561840060,
+    "wof:lastmodified":1563369986,
     "wof:name":"Alster",
     "wof:parent_id":1125286813,
     "wof:placetype":"locality",

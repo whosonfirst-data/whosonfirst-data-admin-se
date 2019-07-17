@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000995,
-    "geom:area_square_m":6145948.518351,
+    "geom:area_square_m":6145948.51835,
     "geom:bbox":"13.6656278842,60.0103129884,13.7206436958,60.0563323194",
     "geom:latitude":60.034734,
     "geom:longitude":13.6913,
@@ -23,10 +23,19 @@
     "name:bul_x_preferred":[
         "\u0425\u0430\u0433\u0444\u043e\u0440\u0448"
     ],
+    "name:ceb_x_preferred":[
+        "Hagfors"
+    ],
     "name:dan_x_preferred":[
         "Hagfors"
     ],
     "name:deu_x_preferred":[
+        "Hagfors"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03ac\u03b3\u03ba\u03c6\u03bf\u03c1\u03c2"
+    ],
+    "name:eng_x_preferred":[
         "Hagfors"
     ],
     "name:eng_x_variant":[
@@ -44,6 +53,9 @@
     "name:fra_x_preferred":[
         "Hagfors"
     ],
+    "name:fry_x_preferred":[
+        "Hagfors"
+    ],
     "name:hbs_x_preferred":[
         "Hagfors"
     ],
@@ -59,10 +71,19 @@
     "name:ita_x_preferred":[
         "Hagfors"
     ],
+    "name:jpn_x_preferred":[
+        "\u30cf\u30fc\u30b0\u30d5\u30a9\u30b7\u30e5"
+    ],
+    "name:nan_x_preferred":[
+        "Hagfors"
+    ],
     "name:nld_x_preferred":[
         "Hagfors"
     ],
     "name:nno_x_preferred":[
+        "Hagfors"
+    ],
+    "name:nob_x_preferred":[
         "Hagfors"
     ],
     "name:nor_x_preferred":[
@@ -77,6 +98,9 @@
     "name:ron_x_preferred":[
         "Hagfors"
     ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u0433\u0444\u043e\u0440\u0441"
+    ],
     "name:srp_x_preferred":[
         "\u0425\u0430\u0433\u0444\u043e\u0448"
     ],
@@ -88,6 +112,9 @@
     ],
     "name:tur_x_preferred":[
         "Hagfors"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0430\u0491\u0444\u043e\u0440\u0441"
     ],
     "name:unk_x_variant":[
         "Hagsfors"
@@ -150,7 +177,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702934,
+    "wof:lastmodified":1563368810,
     "wof:name":"Hagfors",
     "wof:parent_id":1125286849,
     "wof:placetype":"locality",

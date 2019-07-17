@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001268,
-    "geom:area_square_m":8046915.280154,
+    "geom:area_square_m":8046915.280155,
     "geom:bbox":"12.8864184545,59.1158838268,12.9597028948,59.1477414903",
     "geom:latitude":59.133352,
     "geom:longitude":12.921199,
@@ -20,10 +20,16 @@
     "name:bul_x_preferred":[
         "\u0421\u0435\u0444\u043b\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "S\u00e4ffle"
+    ],
     "name:dan_x_preferred":[
         "S\u00e4ffle"
     ],
     "name:deu_x_preferred":[
+        "S\u00e4ffle"
+    ],
+    "name:eng_x_preferred":[
         "S\u00e4ffle"
     ],
     "name:fao_x_preferred":[
@@ -50,8 +56,41 @@
     "name:isl_x_preferred":[
         "S\u00e4ffle"
     ],
+    "name:ita_x_preferred":[
+        "S\u00e4ffle"
+    ],
     "name:jpn_x_preferred":[
         "\u30bb\u30d5\u30ec"
+    ],
+    "name:lit_x_preferred":[
+        "Sefl\u0117"
+    ],
+    "name:nan_x_preferred":[
+        "S\u00e4ffle"
+    ],
+    "name:nld_x_preferred":[
+        "S\u00e4ffle"
+    ],
+    "name:nno_x_preferred":[
+        "S\u00e4ffle"
+    ],
+    "name:nob_x_preferred":[
+        "S\u00e4ffle"
+    ],
+    "name:pol_x_preferred":[
+        "S\u00e4ffle"
+    ],
+    "name:por_x_preferred":[
+        "S\u00e4ffle"
+    ],
+    "name:ron_x_preferred":[
+        "S\u00e4ffle"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u0444\u0444\u043b\u0435"
+    ],
+    "name:sco_x_preferred":[
+        "S\u00e4ffle"
     ],
     "name:srp_x_preferred":[
         "\u0421\u0435\u0444\u043b\u0435"
@@ -68,8 +107,17 @@
     "name:swe_x_variant":[
         "S\u00e4ffles"
     ],
+    "name:tur_x_preferred":[
+        "S\u00e4ffle"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0435\u0444\u0444\u043b\u0435"
+    ],
     "name:urd_x_preferred":[
         "\u0633\u0641\u0641\u0644\u06d2"
+    ],
+    "name:zho_x_preferred":[
+        "\u585e\u592b\u52d2"
     ],
     "qs:a0":"Sverige",
     "qs:a1":"*V\u00e4rmlands l\u00e4n",
@@ -123,7 +171,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702934,
+    "wof:lastmodified":1563368812,
     "wof:name":"S\u00e4ffle",
     "wof:parent_id":1125417047,
     "wof:placetype":"locality",

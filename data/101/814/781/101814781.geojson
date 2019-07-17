@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00206,
-    "geom:area_square_m":11709093.782401,
+    "geom:area_square_m":11709093.782399,
     "geom:bbox":"17.8779743621,62.6145526278,17.9896865577,62.6567278914",
     "geom:latitude":62.63352,
     "geom:longitude":17.932505,
@@ -27,11 +27,20 @@
     "name:cat_x_preferred":[
         "H\u00e4rn\u00f6sand"
     ],
+    "name:ceb_x_preferred":[
+        "H\u00e4rn\u00f6sand"
+    ],
     "name:ces_x_preferred":[
         "H\u00e4rn\u00f6sand"
     ],
     "name:che_x_preferred":[
         "\u0425\u0435\u0440\u043d\u0451\u0441\u0430\u043d\u0434"
+    ],
+    "name:cor_x_preferred":[
+        "H\u00e4rn\u00f6sand"
+    ],
+    "name:cym_x_preferred":[
+        "H\u00e4rn\u00f6sand"
     ],
     "name:dan_x_preferred":[
         "H\u00e4rn\u00f6sand"
@@ -45,6 +54,12 @@
     "name:epo_x_preferred":[
         "Hernusando"
     ],
+    "name:eus_x_preferred":[
+        "H\u00e4rn\u00f6sand"
+    ],
+    "name:fao_x_preferred":[
+        "H\u00e4rn\u00f6sand"
+    ],
     "name:fas_x_preferred":[
         "\u0647\u0631\u0646\u0648\u0633\u0646\u062f"
     ],
@@ -53,6 +68,33 @@
     ],
     "name:fra_x_preferred":[
         "H\u00e4rn\u00f6sand"
+    ],
+    "name:fry_x_preferred":[
+        "H\u00e4rn\u00f6sand"
+    ],
+    "name:gla_x_preferred":[
+        "H\u00e4rn\u00f6sand"
+    ],
+    "name:glg_x_preferred":[
+        "H\u00e4rn\u00f6sand"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05e8\u05e0\u05d5\u05e1\u05d0\u05e0\u05d3"
+    ],
+    "name:hrv_x_preferred":[
+        "H\u00e4rn\u00f6sand"
+    ],
+    "name:ind_x_preferred":[
+        "H\u00e4rn\u00f6sand"
+    ],
+    "name:isl_x_preferred":[
+        "H\u00e4rn\u00f6sand"
+    ],
+    "name:ita_x_preferred":[
+        "H\u00e4rn\u00f6sand"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d8\u30fc\u30ce\u30fc\u30b5\u30f3\u30c9"
     ],
     "name:kor_x_preferred":[
         "\ud5e4\ub974\ub1cc\uc0b0\ub4dc"
@@ -63,7 +105,19 @@
     "name:lit_x_preferred":[
         "Herniosandas"
     ],
+    "name:msa_x_preferred":[
+        "H\u00e4rn\u00f6sand"
+    ],
+    "name:nan_x_preferred":[
+        "H\u00e4rn\u00f6sand"
+    ],
     "name:nld_x_preferred":[
+        "H\u00e4rn\u00f6sand"
+    ],
+    "name:nno_x_preferred":[
+        "H\u00e4rn\u00f6sand"
+    ],
+    "name:nob_x_preferred":[
         "H\u00e4rn\u00f6sand"
     ],
     "name:nor_x_preferred":[
@@ -78,14 +132,29 @@
     "name:por_x_preferred":[
         "H\u00e4rn\u00f6sand"
     ],
+    "name:ron_x_preferred":[
+        "H\u00e4rn\u00f6sand"
+    ],
     "name:rus_x_preferred":[
         "\u0425\u0435\u0440\u043d\u0451\u0441\u0430\u043d\u0434"
+    ],
+    "name:slv_x_preferred":[
+        "H\u00e4rn\u00f6sand"
+    ],
+    "name:sme_x_preferred":[
+        "H\u00e4rn\u00f6sand"
     ],
     "name:spa_x_preferred":[
         "H\u00e4rn\u00f6sand"
     ],
+    "name:sqi_x_preferred":[
+        "H\u00e4rn\u00f6sand"
+    ],
     "name:srp_x_preferred":[
         "\u0425\u0435\u0440\u043d\u0435\u0441\u0430\u043d\u0434"
+    ],
+    "name:swa_x_preferred":[
+        "H\u00e4rn\u00f6sand"
     ],
     "name:swe_x_colloquial":[
         "Haernoesand",
@@ -100,6 +169,15 @@
         "H\u00e4rn\u00f6sands",
         "H\u00e4rn\u00f8sand",
         "H\u00e4rn\u00f8sands"
+    ],
+    "name:szl_x_preferred":[
+        "H\u00e4rn\u00f6sand"
+    ],
+    "name:tur_x_preferred":[
+        "H\u00e4rn\u00f6sand"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0435\u0440\u043d\u0435\u0441\u0430\u043d\u0434"
     ],
     "name:vol_x_preferred":[
         "H\u00e4rn\u00f6sand"
@@ -251,7 +329,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529703000,
+    "wof:lastmodified":1563368933,
     "wof:name":"H\u00e4rn\u00f6sand",
     "wof:parent_id":1125286903,
     "wof:placetype":"locality",

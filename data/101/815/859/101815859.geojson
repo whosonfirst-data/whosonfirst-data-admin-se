@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000686,
-    "geom:area_square_m":4316667.752235,
+    "geom:area_square_m":4316667.752237,
     "geom:bbox":"16.0662094654,59.4080657366,16.1381723629,59.433378748",
     "geom:latitude":59.42254,
     "geom:longitude":16.103321,
@@ -20,10 +20,19 @@
     "name:bul_x_preferred":[
         "\u041a\u0443\u043d\u0433\u0441\u044c\u043e\u0440"
     ],
+    "name:cat_x_preferred":[
+        "Kungs\u00f6r"
+    ],
+    "name:ceb_x_preferred":[
+        "Kungs\u00f6r"
+    ],
     "name:dan_x_preferred":[
         "Kungs\u00f6r"
     ],
     "name:deu_x_preferred":[
+        "Kungs\u00f6r"
+    ],
+    "name:eng_x_preferred":[
         "Kungs\u00f6r"
     ],
     "name:fao_x_preferred":[
@@ -35,10 +44,22 @@
     "name:fin_x_preferred":[
         "Kungs\u00f6r"
     ],
+    "name:fra_x_preferred":[
+        "Kungs\u00f6r"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05e0\u05d2\u05e1\u05d5\u05e8"
+    ],
     "name:isl_x_preferred":[
         "Kungs\u00f6r"
     ],
     "name:ita_x_preferred":[
+        "Kungs\u00f6r"
+    ],
+    "name:lit_x_preferred":[
+        "Kungseras"
+    ],
+    "name:nan_x_preferred":[
         "Kungs\u00f6r"
     ],
     "name:nld_x_preferred":[
@@ -47,10 +68,22 @@
     "name:nno_x_preferred":[
         "Kungs\u00f6r"
     ],
+    "name:nob_x_preferred":[
+        "Kungs\u00f6r"
+    ],
     "name:nor_x_preferred":[
         "Kungs\u00f8r"
     ],
     "name:nor_x_variant":[
+        "Kungs\u00f6r"
+    ],
+    "name:oci_x_preferred":[
+        "Kungs\u00f6r"
+    ],
+    "name:pol_x_preferred":[
+        "Kungs\u00f6r"
+    ],
+    "name:ron_x_preferred":[
         "Kungs\u00f6r"
     ],
     "name:swe_x_colloquial":[
@@ -70,6 +103,9 @@
         "Kungs\u00f6rs",
         "Rungs\u00f6r",
         "Rungs\u00f6rs"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0443\u043d\u0433\u0441\u0435\u0440"
     ],
     "name:unk_x_variant":[
         "Rungs\u00f6r"
@@ -129,7 +165,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529703030,
+    "wof:lastmodified":1563368820,
     "wof:name":"Kungs\u00f6r",
     "wof:parent_id":1125381903,
     "wof:placetype":"locality",

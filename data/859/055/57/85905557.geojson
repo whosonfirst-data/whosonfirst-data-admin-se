@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000209,
-    "geom:area_square_m":1315713.117484,
+    "geom:area_square_m":1315713.117482,
     "geom:bbox":"17.8912353516,59.3900025138,17.9146319119,59.4045590638",
     "geom:latitude":59.397032,
     "geom:longitude":17.901011,
@@ -32,6 +32,12 @@
     "name:ces_x_preferred":[
         "Tensta"
     ],
+    "name:eng_x_preferred":[
+        "Tensta"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u06cc\u0646\u0633\u062a\u0627"
+    ],
     "name:fin_x_preferred":[
         "Tensta"
     ],
@@ -42,6 +48,9 @@
         "Tensta"
     ],
     "name:nld_x_preferred":[
+        "Tensta"
+    ],
+    "name:nob_x_preferred":[
         "Tensta"
     ],
     "name:nor_x_preferred":[
@@ -92,12 +101,12 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":499,
     "wof:belongsto":[
-        85688429,
         102191581,
         1125362217,
         85633789,
         101752307,
-        1159303035
+        1159303035,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -125,7 +134,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702821,
+    "wof:lastmodified":1563366569,
     "wof:name":"Tensta",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

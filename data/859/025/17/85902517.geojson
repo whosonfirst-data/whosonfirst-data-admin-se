@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000209,
-    "geom:area_square_m":1321436.769941,
+    "geom:area_square_m":1321436.769942,
     "geom:bbox":"17.9791259766,59.3134733359,18.0010986328,59.3288576551",
     "geom:latitude":59.321007,
     "geom:longitude":17.990436,
@@ -26,7 +26,13 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "mz:tier_metro":1,
+    "name:ceb_x_preferred":[
+        "Stora Essingen"
+    ],
     "name:deu_x_preferred":[
+        "Stora Essingen"
+    ],
+    "name:eng_x_preferred":[
         "Stora Essingen"
     ],
     "name:eus_x_preferred":[
@@ -41,7 +47,16 @@
     "name:hun_x_preferred":[
         "Stora Essingen"
     ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30c8\u30e9\u30fb\u30a8\u30c3\u30b7\u30f3\u30b2\u30f3\u5cf6"
+    ],
+    "name:nld_x_preferred":[
+        "Stora Essingen"
+    ],
     "name:nno_x_preferred":[
+        "Stora Essingen"
+    ],
+    "name:nob_x_preferred":[
         "Stora Essingen"
     ],
     "name:nor_x_preferred":[
@@ -86,12 +101,12 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":116,
     "wof:belongsto":[
-        85688429,
         102191581,
         1125362217,
         85633789,
         101752307,
-        1159303035
+        1159303035,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -118,7 +133,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702794,
+    "wof:lastmodified":1563366536,
     "wof:name":"Stora Essingen",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":11358321.094662,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.811288,59.988012,15.811288,59.988012",
     "geom:latitude":59.988012,
     "geom:longitude":15.811288,
@@ -25,6 +25,18 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "V\u00e4stanfors"
+    ],
+    "name:fra_x_preferred":[
+        "V\u00e4stanfors"
+    ],
+    "name:nld_x_preferred":[
+        "V\u00e4stanfors"
+    ],
+    "name:nob_x_preferred":[
+        "V\u00e4stanfors"
+    ],
     "name:nor_x_preferred":[
         "V\u00e4stanfors"
     ],
@@ -70,12 +82,12 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":33,
     "wof:belongsto":[
-        85688425,
         102191581,
         1125325033,
         85633789,
         101815885,
-        1159302971
+        1159302971,
+        85688425
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -103,7 +115,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1531935907,
+    "wof:lastmodified":1563366531,
     "wof:name":"V\u00e4stanfors",
     "wof:parent_id":101815885,
     "wof:placetype":"neighbourhood",

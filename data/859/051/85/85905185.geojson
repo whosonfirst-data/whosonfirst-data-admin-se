@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000203,
-    "geom:area_square_m":1285154.486583,
+    "geom:area_square_m":1285154.486584,
     "geom:bbox":"18.0834960938,59.2728981614,18.101348877,59.2884291214",
     "geom:latitude":59.280918,
     "geom:longitude":18.091931,
@@ -25,10 +25,19 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "mz:tier_metro":1,
+    "name:dan_x_preferred":[
+        "Gamla Enskede"
+    ],
+    "name:eng_x_preferred":[
+        "Gamla Enskede"
+    ],
     "name:fin_x_preferred":[
         "Gamla Enskede"
     ],
     "name:hun_x_preferred":[
+        "Gamla Enskede"
+    ],
+    "name:nob_x_preferred":[
         "Gamla Enskede"
     ],
     "name:nor_x_preferred":[
@@ -71,12 +80,12 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":185,
     "wof:belongsto":[
-        85688429,
         102191581,
         1125362217,
         85633789,
         101752307,
-        1159303035
+        1159303035,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -102,7 +111,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702811,
+    "wof:lastmodified":1563366617,
     "wof:name":"Gamla Enskede",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

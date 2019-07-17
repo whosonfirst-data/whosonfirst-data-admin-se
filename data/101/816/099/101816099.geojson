@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005805,
-    "geom:area_square_m":35360874.278887,
+    "geom:area_square_m":35360874.278883,
     "geom:bbox":"15.3745472084,60.4105741355,15.5384604423,60.5387398016",
     "geom:latitude":60.484123,
     "geom:longitude":15.440366,
@@ -24,10 +24,19 @@
     "name:bul_x_preferred":[
         "\u0411\u043e\u0440\u043b\u0435\u043d\u0433\u0435"
     ],
+    "name:cat_x_preferred":[
+        "Borl\u00e4nge"
+    ],
+    "name:ces_x_preferred":[
+        "Borl\u00e4nge"
+    ],
     "name:dan_x_preferred":[
         "Borl\u00e4nge"
     ],
     "name:deu_x_preferred":[
+        "Borl\u00e4nge"
+    ],
+    "name:eng_x_preferred":[
         "Borl\u00e4nge"
     ],
     "name:eng_x_variant":[
@@ -37,6 +46,9 @@
         "Borl\u00e4nge"
     ],
     "name:est_x_preferred":[
+        "Borl\u00e4nge"
+    ],
+    "name:eus_x_preferred":[
         "Borl\u00e4nge"
     ],
     "name:fao_x_preferred":[
@@ -54,7 +66,28 @@
     "name:fra_x_preferred":[
         "Borl\u00e4nge"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05e8\u05dc\u05e0\u05d9\u05d9\u05d4"
+    ],
+    "name:hrv_x_preferred":[
+        "Borl\u00e4nge"
+    ],
+    "name:hun_x_preferred":[
+        "Borl\u00e4nge"
+    ],
+    "name:ind_x_preferred":[
+        "Borl\u00e4nge"
+    ],
+    "name:isl_x_preferred":[
+        "Borl\u00e4nge"
+    ],
     "name:ita_x_preferred":[
+        "Borl\u00e4nge"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dc\u30eb\u30ec\u30f3\u30b2"
+    ],
+    "name:kal_x_preferred":[
         "Borl\u00e4nge"
     ],
     "name:kat_x_preferred":[
@@ -69,13 +102,28 @@
     "name:lit_x_preferred":[
         "Burleng\u0117"
     ],
+    "name:min_x_preferred":[
+        "Borl\u00e4nge"
+    ],
     "name:mrj_x_preferred":[
         "\u0411\u0443\u0440\u043b\u04d3\u043d\u0433\u0435"
+    ],
+    "name:nan_x_preferred":[
+        "Borl\u00e4nge"
     ],
     "name:nld_x_preferred":[
         "Borl\u00e4nge"
     ],
+    "name:nno_x_preferred":[
+        "Borl\u00e4nge"
+    ],
+    "name:nob_x_preferred":[
+        "Borl\u00e4nge"
+    ],
     "name:nor_x_preferred":[
+        "Borl\u00e4nge"
+    ],
+    "name:oci_x_preferred":[
         "Borl\u00e4nge"
     ],
     "name:pnb_x_preferred":[
@@ -84,14 +132,26 @@
     "name:pol_x_preferred":[
         "Borl\u00e4nge"
     ],
+    "name:por_x_preferred":[
+        "Borl\u00e4nge"
+    ],
+    "name:ron_x_preferred":[
+        "Borl\u00e4nge"
+    ],
     "name:rus_x_preferred":[
         "\u0411\u0443\u0440\u043b\u0435\u043d\u0433\u0435"
+    ],
+    "name:slv_x_preferred":[
+        "Borl\u00e4nge"
     ],
     "name:spa_x_preferred":[
         "Borl\u00e4nge"
     ],
     "name:srp_x_preferred":[
         "\u0411\u043e\u0440\u043b\u0435\u043d\u0433\u0435"
+    ],
+    "name:swa_x_preferred":[
+        "Borl\u00e4nge"
     ],
     "name:swe_x_colloquial":[
         "Borlaenge",
@@ -105,10 +165,19 @@
     "name:swe_x_variant":[
         "Borl\u00e4nges"
     ],
+    "name:szl_x_preferred":[
+        "Borl\u00e4nge"
+    ],
+    "name:tur_x_preferred":[
+        "Borl\u00e4nge"
+    ],
     "name:ukr_x_preferred":[
         "\u0411\u0443\u0440\u043b\u0435\u043d\u0433\u0435"
     ],
     "name:vol_x_preferred":[
+        "Borl\u00e4nge"
+    ],
+    "name:war_x_preferred":[
         "Borl\u00e4nge"
     ],
     "ne:ADM0CAP":0.0,
@@ -255,7 +324,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529701999,
+    "wof:lastmodified":1563368647,
     "wof:name":"Borl\u00e4nge",
     "wof:parent_id":1125277915,
     "wof:placetype":"locality",

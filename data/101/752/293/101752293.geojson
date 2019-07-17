@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005571,
-    "geom:area_square_m":36787686.213894,
+    "geom:area_square_m":36787686.2139,
     "geom:bbox":"12.809068634,57.6877676791,13.031739,57.7618295",
     "geom:latitude":57.722352,
     "geom:longitude":12.934318,
@@ -21,16 +21,32 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u0631\u0648\u0633"
     ],
+    "name:aze_x_preferred":[
+        "Buros"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0411\u0443\u0440\u0430\u0441"
     ],
     "name:bel_x_variant":[
-        "\u0411\u0443\u0440\u043e\u0441"
+        "\u0411\u0443\u0440\u043e\u0441",
+        "\u0411\u0443\u0440\u0430\u0441"
+    ],
+    "name:ben_x_preferred":[
+        "\u0989\u0987\u09a8\u09cd\u099a\u09c7\u09b8\u09cd\u099f\u09be\u09b0"
     ],
     "name:bul_x_preferred":[
         "\u0411\u0443\u0440\u043e\u0441"
     ],
+    "name:cat_x_preferred":[
+        "Bor\u00e5s"
+    ],
+    "name:ceb_x_preferred":[
+        "Bor\u00e5s"
+    ],
     "name:ces_x_preferred":[
+        "Bor\u00e5s"
+    ],
+    "name:cor_x_preferred":[
         "Bor\u00e5s"
     ],
     "name:csb_x_preferred":[
@@ -45,10 +61,22 @@
     "name:deu_x_preferred":[
         "Bor\u00e5s"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03bf\u03c1\u03ac\u03c2"
+    ],
     "name:eng_x_preferred":[
         "Bor\u00e5s"
     ],
     "name:epo_x_preferred":[
+        "Bor\u00e5s"
+    ],
+    "name:est_x_preferred":[
+        "Bor\u00e5s"
+    ],
+    "name:eus_x_preferred":[
+        "Bor\u00e5s"
+    ],
+    "name:fao_x_preferred":[
         "Bor\u00e5s"
     ],
     "name:fas_x_preferred":[
@@ -60,11 +88,50 @@
     "name:fra_x_preferred":[
         "Bor\u00e5s"
     ],
+    "name:frr_x_preferred":[
+        "Bor\u00e5s"
+    ],
+    "name:fry_x_preferred":[
+        "Bor\u00e5s"
+    ],
+    "name:glg_x_preferred":[
+        "Bor\u00e5s"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aac\u0acb\u0ab0\u0ab8"
+    ],
     "name:heb_x_preferred":[
         "\u05d1\u05d5\u05e8\u05d5\u05e1"
     ],
+    "name:hin_x_preferred":[
+        "\u092c\u0942\u0930\u0949\u0938"
+    ],
+    "name:hrv_x_preferred":[
+        "Bor\u00e5s"
+    ],
+    "name:hun_x_preferred":[
+        "Bor\u00e5s"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0578\u0582\u0580\u0578\u057d"
+    ],
+    "name:ind_x_preferred":[
+        "Bor\u00e5s"
+    ],
+    "name:isl_x_preferred":[
+        "Bor\u00e5s"
+    ],
+    "name:ita_x_preferred":[
+        "Bor\u00e5s"
+    ],
     "name:jpn_x_preferred":[
         "\u30dc\u30ed\u30fc\u30b9"
+    ],
+    "name:kal_x_preferred":[
+        "Bor\u00e5s"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cac\u0ccb\u0cb0\u0cbe\u0cb8\u0ccd"
     ],
     "name:kat_x_preferred":[
         "\u10d1\u10e3\u10e0\u10dd\u10e1\u10d8"
@@ -84,13 +151,34 @@
     "name:lit_x_preferred":[
         "Burosas"
     ],
+    "name:mar_x_preferred":[
+        "\u092c\u094b\u0930\u0938"
+    ],
+    "name:min_x_preferred":[
+        "Bor\u00e5s"
+    ],
     "name:mrj_x_preferred":[
         "\u0411\u0443\u0440\u043e\u0441"
+    ],
+    "name:msa_x_preferred":[
+        "Boras"
+    ],
+    "name:nan_x_preferred":[
+        "Bor\u00e5s"
     ],
     "name:nld_x_preferred":[
         "Bor\u00e5s"
     ],
+    "name:nno_x_preferred":[
+        "Bor\u00e5s"
+    ],
+    "name:nob_x_preferred":[
+        "Bor\u00e5s"
+    ],
     "name:nor_x_preferred":[
+        "Bor\u00e5s"
+    ],
+    "name:oci_x_preferred":[
         "Bor\u00e5s"
     ],
     "name:oss_x_preferred":[
@@ -102,11 +190,41 @@
     "name:pol_x_preferred":[
         "Bor\u00e5s"
     ],
+    "name:por_x_preferred":[
+        "Bor\u00e5s"
+    ],
+    "name:ron_x_preferred":[
+        "Bor\u00e5s"
+    ],
+    "name:rup_x_preferred":[
+        "Bor\u00e5s"
+    ],
     "name:rus_x_preferred":[
         "\u0411\u0443\u0440\u043e\u0441"
     ],
+    "name:sco_x_preferred":[
+        "Bor\u00e5s"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db6\u0ddd\u0dbb\u0dcf\u0dc3\u0dca"
+    ],
+    "name:slk_x_preferred":[
+        "Bor\u00e5s"
+    ],
+    "name:slv_x_preferred":[
+        "Bor\u00e5s"
+    ],
+    "name:spa_x_preferred":[
+        "Bor\u00e5s"
+    ],
+    "name:sqi_x_preferred":[
+        "Bor\u00e5s"
+    ],
     "name:srp_x_preferred":[
         "\u0411\u043e\u0440\u043e\u0441"
+    ],
+    "name:swa_x_preferred":[
+        "Bor\u00e5s"
     ],
     "name:swe_x_colloquial":[
         "Boraas",
@@ -115,8 +233,20 @@
     "name:swe_x_preferred":[
         "Bor\u00e5s"
     ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bcb\u0bb0\u0bbe\u0bb8\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u0443\u0440\u043e\u0441"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2c\u0c4b\u0c30\u0c3e\u0c38\u0c4d"
+    ],
     "name:tha_x_preferred":[
         "\u0e1a\u0e39\u0e42\u0e23\u0e2a"
+    ],
+    "name:tur_x_preferred":[
+        "Bor\u00e5s"
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0443\u0440\u043e\u0441"
@@ -124,7 +254,16 @@
     "name:unk_x_variant":[
         "Celfsborg"
     ],
+    "name:urd_x_preferred":[
+        "\u0628\u0648\u0631\u0627\u0633"
+    ],
+    "name:vie_x_preferred":[
+        "Bor\u00e5s"
+    ],
     "name:vol_x_preferred":[
+        "Bor\u00e5s"
+    ],
+    "name:war_x_preferred":[
         "Bor\u00e5s"
     ],
     "name:zho_x_preferred":[
@@ -274,7 +413,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702231,
+    "wof:lastmodified":1563368578,
     "wof:name":"Bor\u00e5s",
     "wof:parent_id":1125340375,
     "wof:placetype":"locality",

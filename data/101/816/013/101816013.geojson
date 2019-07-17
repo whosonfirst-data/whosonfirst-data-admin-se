@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000574,
-    "geom:area_square_m":3580393.02417,
+    "geom:area_square_m":3580393.024169,
     "geom:bbox":"17.7626136441,59.7135005065,17.8148872878,59.7362249654",
     "geom:latitude":59.725571,
     "geom:longitude":17.791602,
@@ -20,10 +20,16 @@
     "name:bul_x_preferred":[
         "\u041a\u043d\u0438\u0432\u0441\u0442\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Knivsta"
+    ],
     "name:dan_x_preferred":[
         "Knivsta"
     ],
     "name:deu_x_preferred":[
+        "Knivsta"
+    ],
+    "name:eng_x_preferred":[
         "Knivsta"
     ],
     "name:fao_x_preferred":[
@@ -35,16 +41,28 @@
     "name:fin_x_preferred":[
         "Knivsta"
     ],
+    "name:fra_x_preferred":[
+        "Knivsta"
+    ],
     "name:isl_x_preferred":[
         "Knivsta"
     ],
     "name:ita_x_preferred":[
         "Knivsta"
     ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30cb\u30fc\u30f4\u30b7\u30e5\u30bf\u5e02"
+    ],
+    "name:nan_x_preferred":[
+        "Knivsta"
+    ],
     "name:nld_x_preferred":[
         "Knivsta"
     ],
     "name:nno_x_preferred":[
+        "Knivsta"
+    ],
+    "name:nob_x_preferred":[
         "Knivsta"
     ],
     "name:nor_x_preferred":[
@@ -55,6 +73,12 @@
     ],
     "name:por_x_preferred":[
         "Knivsta"
+    ],
+    "name:ron_x_preferred":[
+        "Knivsta"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043d\u0438\u0432\u0441\u0442\u0430"
     ],
     "name:spa_x_preferred":[
         "Knivsta"
@@ -67,6 +91,9 @@
     ],
     "name:zho_min_nan_x_preferred":[
         "Knivsta"
+    ],
+    "name:zho_x_preferred":[
+        "\u514b\u5c3c\u592b\u65af\u5854"
     ],
     "qs:a0":"Sverige",
     "qs:a1":"*Uppsala l\u00e4n",
@@ -120,7 +147,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702882,
+    "wof:lastmodified":1563368630,
     "wof:name":"Knivsta",
     "wof:parent_id":1125394599,
     "wof:placetype":"locality",

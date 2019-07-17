@@ -28,17 +28,23 @@
     "name:bel_x_preferred":[
         "\u0421\u0442\u0430\u0440\u044b \u0433\u043e\u0440\u0430\u0434"
     ],
-    "name:bel_x_variant":[
-        "\u0421\u0442\u0430\u0440\u044b \u0433\u043e\u0440\u0430\u0434"
-    ],
     "name:cat_x_preferred":[
         "Gamla Stan"
+    ],
+    "name:ceb_x_preferred":[
+        "Gamla Stan"
+    ],
+    "name:ces_x_preferred":[
+        "Gamla stan"
     ],
     "name:dan_x_preferred":[
         "Gamla stan"
     ],
     "name:deu_x_preferred":[
         "Gamla stan"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03ac\u03bc\u03bb\u03b1 \u03a3\u03c4\u03b1\u03bd"
     ],
     "name:eng_x_preferred":[
         "Old Town"
@@ -49,7 +55,7 @@
         "Oldtown",
         "Staden",
         "Stadsholmen",
-        "Old Town"
+        "Gamla stan"
     ],
     "name:eus_x_preferred":[
         "Gamla Stan"
@@ -62,6 +68,9 @@
     ],
     "name:fra_x_preferred":[
         "Gamla stan"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05e2\u05d9\u05e8 \u05d4\u05e2\u05ea\u05d9\u05e7\u05d4 \u05e9\u05dc \u05e1\u05d8\u05d5\u05e7\u05d4\u05d5\u05dc\u05dd"
     ],
     "name:hrv_x_preferred":[
         "Gamla stan"
@@ -81,8 +90,14 @@
     "name:kat_x_preferred":[
         "\u10d2\u10d0\u10db\u10da\u10d0-\u10e1\u10e2\u10d0\u10dc\u10d8"
     ],
+    "name:kor_x_preferred":[
+        "\uac10\ub77c\uc2a4\ud0c4"
+    ],
     "name:nld_x_preferred":[
         "Gamla Stan"
+    ],
+    "name:nob_x_preferred":[
+        "Gamla stan"
     ],
     "name:nor_x_preferred":[
         "Gamla stan"
@@ -183,7 +198,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1536864512,
+    "wof:lastmodified":1563366537,
     "wof:name":"Gamla Stan",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

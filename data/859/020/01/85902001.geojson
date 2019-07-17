@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000053,
-    "geom:area_square_m":349255.53895,
+    "geom:area_square_m":349255.538949,
     "geom:bbox":"12.0016951687,57.717352082,12.014432314,57.7232193046",
     "geom:latitude":57.719924,
     "geom:longitude":12.008163,
@@ -27,6 +27,9 @@
     "mz:tier_locality":4,
     "mz:tier_metro":30,
     "name:eng_x_preferred":[
+        "Bagareg\u00e5rden"
+    ],
+    "name:nld_x_preferred":[
         "Bagareg\u00e5rden"
     ],
     "name:swe_x_colloquial":[
@@ -71,12 +74,12 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":96,
     "wof:belongsto":[
-        85688411,
         102191581,
         1125287157,
         85633789,
         101752295,
-        1159302989
+        1159302989,
+        85688411
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -104,7 +107,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702283,
+    "wof:lastmodified":1563366584,
     "wof:name":"Bagaregarden",
     "wof:parent_id":101752295,
     "wof:placetype":"neighbourhood",

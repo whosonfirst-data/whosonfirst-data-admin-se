@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000235,
-    "geom:area_square_m":1480744.251928,
+    "geom:area_square_m":1480744.251929,
     "geom:bbox":"18.0505371094,59.3289373012,18.0752563477,59.3425800502",
     "geom:latitude":59.334809,
     "geom:longitude":18.061616,
@@ -26,7 +26,19 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "mz:tier_metro":1,
+    "name:cat_x_preferred":[
+        "Norrmalm"
+    ],
     "name:dan_x_preferred":[
+        "Norrmalm"
+    ],
+    "name:deu_x_preferred":[
+        "Norrmalm"
+    ],
+    "name:eng_x_preferred":[
+        "Norrmalm"
+    ],
+    "name:est_x_preferred":[
         "Norrmalm"
     ],
     "name:fin_x_preferred":[
@@ -35,10 +47,28 @@
     "name:fra_x_preferred":[
         "Norrmalm"
     ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d5\u05e8\u05de\u05d0\u05dc\u05dd"
+    ],
+    "name:hye_x_preferred":[
+        "\u0546\u0578\u0580\u0574\u0561\u056c\u0574"
+    ],
     "name:ita_x_preferred":[
         "Norrmalm"
     ],
+    "name:jpn_x_preferred":[
+        "\u30ce\u30eb\u30de\u30eb\u30e0"
+    ],
     "name:lat_x_preferred":[
+        "Norrmalm"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041d\u043e\u0440\u043c\u0430\u043b\u043c"
+    ],
+    "name:nld_x_preferred":[
+        "Norrmalm"
+    ],
+    "name:nob_x_preferred":[
         "Norrmalm"
     ],
     "name:nor_x_preferred":[
@@ -58,6 +88,9 @@
     ],
     "name:unk_x_variant":[
         "Norrmalm"
+    ],
+    "name:zho_x_preferred":[
+        "\u65af\u5fb7\u54e5\u723e\u6469\u5317\u57ce"
     ],
     "qs:gn_adm0_cc":"SE",
     "qs:gn_fcode":"PPLX",
@@ -89,12 +122,12 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":208,
     "wof:belongsto":[
-        85688429,
         102191581,
         1125362217,
         85633789,
         101752307,
-        1159303035
+        1159303035,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -122,7 +155,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702788,
+    "wof:lastmodified":1563366518,
     "wof:name":"Norrmalm",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

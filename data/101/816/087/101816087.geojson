@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00038,
-    "geom:area_square_m":2306975.713101,
+    "geom:area_square_m":2306975.7131,
     "geom:bbox":"15.1106642047,60.5482314385,15.1559889568,60.5679227522",
     "geom:latitude":60.55825,
     "geom:longitude":15.128505,
@@ -20,11 +20,20 @@
     "name:bul_x_preferred":[
         "\u042e\u0440\u043e\u0441"
     ],
+    "name:ceb_x_preferred":[
+        "Djur\u00e5s"
+    ],
     "name:dan_x_preferred":[
         "Djur\u00e5s"
     ],
     "name:deu_x_preferred":[
         "Djur\u00e5s"
+    ],
+    "name:eng_x_preferred":[
+        "Djur\u00e5s"
+    ],
+    "name:fas_x_preferred":[
+        "\u06cc\u0648\u0631\u0648\u0633"
     ],
     "name:fin_x_preferred":[
         "Djur\u00e5s"
@@ -38,13 +47,25 @@
     "name:mkd_x_preferred":[
         "\u0408\u0443\u0440\u043e\u0441"
     ],
+    "name:nan_x_preferred":[
+        "Djur\u00e5s"
+    ],
     "name:nld_x_preferred":[
         "Djur\u00e5s"
     ],
     "name:nno_x_preferred":[
         "Djur\u00e5s"
     ],
+    "name:nob_x_preferred":[
+        "Djur\u00e5s"
+    ],
     "name:nor_x_preferred":[
+        "Djur\u00e5s"
+    ],
+    "name:por_x_preferred":[
+        "Djur\u00e5s"
+    ],
+    "name:ron_x_preferred":[
         "Djur\u00e5s"
     ],
     "name:swe_x_colloquial":[
@@ -53,6 +74,9 @@
     ],
     "name:swe_x_preferred":[
         "Djur\u00e5s"
+    ],
+    "name:swe_x_variant":[
+        "Gimo"
     ],
     "name:unk_x_variant":[
         "Djura"
@@ -109,7 +133,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529701998,
+    "wof:lastmodified":1563368693,
     "wof:name":"Djur\u00e5s",
     "wof:parent_id":1125382197,
     "wof:placetype":"locality",

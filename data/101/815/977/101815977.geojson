@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00113,
-    "geom:area_square_m":7021384.948209,
+    "geom:area_square_m":7021384.948208,
     "geom:bbox":"13.5109186944,59.8122432988,13.5661924491,59.8676826128",
     "geom:latitude":59.837796,
     "geom:longitude":13.539573,
@@ -17,8 +17,14 @@
     "mps:longitude":13.530361,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bar_x_preferred":[
+        "Munkfors"
+    ],
     "name:bul_x_preferred":[
         "\u041c\u0443\u043d\u043a\u0444\u043e\u0440\u0448"
+    ],
+    "name:ceb_x_preferred":[
+        "Munkfors"
     ],
     "name:dan_x_preferred":[
         "Munkfors"
@@ -26,10 +32,19 @@
     "name:deu_x_preferred":[
         "Munkfors"
     ],
+    "name:eng_x_preferred":[
+        "Munkfors"
+    ],
     "name:fao_x_preferred":[
         "Munkfors"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u0646\u06a9\u0641\u0648\u0634"
+    ],
     "name:fin_x_preferred":[
+        "Munkfors"
+    ],
+    "name:fra_x_preferred":[
         "Munkfors"
     ],
     "name:iku_x_preferred":[
@@ -41,20 +56,41 @@
     "name:ita_x_preferred":[
         "Munkfors"
     ],
+    "name:jpn_x_preferred":[
+        "\u30e0\u30f3\u30af\u30d5\u30a9\u30b7\u30e5"
+    ],
+    "name:nan_x_preferred":[
+        "Munkfors"
+    ],
     "name:nld_x_preferred":[
         "Munkfors"
     ],
     "name:nno_x_preferred":[
         "Munkfors"
     ],
+    "name:nob_x_preferred":[
+        "Munkfors"
+    ],
     "name:nor_x_preferred":[
+        "Munkfors"
+    ],
+    "name:ron_x_preferred":[
+        "Munkfors"
+    ],
+    "name:slv_x_preferred":[
         "Munkfors"
     ],
     "name:swe_x_preferred":[
         "Munkfors"
     ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0443\u043d\u043a\u0444\u043e\u0440\u0441"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Munkfors"
+    ],
+    "name:zho_x_preferred":[
+        "\u8499\u514b\u798f\u4ec0"
     ],
     "qs:a0":"Sverige",
     "qs:a1":"*V\u00e4rmlands l\u00e4n",
@@ -108,7 +144,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702933,
+    "wof:lastmodified":1563368825,
     "wof:name":"Munkfors",
     "wof:parent_id":1125288177,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001469,
-    "geom:area_square_m":10302985.326062,
+    "geom:area_square_m":10302985.32606,
     "geom:bbox":"13.7748046509,55.417811829,13.8930406439,55.4507205166",
     "geom:latitude":55.433204,
     "geom:longitude":13.824583,
@@ -26,7 +26,16 @@
     "name:bul_x_preferred":[
         "\u042e\u0441\u0442\u0430\u0434"
     ],
+    "name:cat_x_preferred":[
+        "Ystad"
+    ],
+    "name:ceb_x_preferred":[
+        "Ystad"
+    ],
     "name:ces_x_preferred":[
+        "Ystad"
+    ],
+    "name:cym_x_preferred":[
         "Ystad"
     ],
     "name:dan_x_preferred":[
@@ -56,6 +65,12 @@
     "name:fin_x_preferred":[
         "Ystadin kunta"
     ],
+    "name:fin_x_variant":[
+        "Ystad"
+    ],
+    "name:fit_x_preferred":[
+        "Ystad"
+    ],
     "name:fra_x_preferred":[
         "Ystad"
     ],
@@ -69,6 +84,12 @@
         "Ystad"
     ],
     "name:hun_x_preferred":[
+        "Ystad"
+    ],
+    "name:hye_x_preferred":[
+        "\u053b\u057d\u057f\u0561\u0564"
+    ],
+    "name:ile_x_preferred":[
         "Ystad"
     ],
     "name:ind_x_preferred":[
@@ -92,8 +113,14 @@
     "name:lat_x_preferred":[
         "Ystadium"
     ],
+    "name:lat_x_variant":[
+        "Istadium"
+    ],
     "name:lit_x_preferred":[
         "Istadas"
+    ],
+    "name:nan_x_preferred":[
+        "Ystad"
     ],
     "name:nld_x_preferred":[
         "Ystad"
@@ -101,7 +128,13 @@
     "name:nno_x_preferred":[
         "Ystad"
     ],
+    "name:nob_x_preferred":[
+        "Ystad"
+    ],
     "name:nor_x_preferred":[
+        "Ystad"
+    ],
+    "name:oci_x_preferred":[
         "Ystad"
     ],
     "name:oss_x_preferred":[
@@ -123,6 +156,9 @@
         "Ystad"
     ],
     "name:slk_x_preferred":[
+        "Ystad"
+    ],
+    "name:slv_x_preferred":[
         "Ystad"
     ],
     "name:spa_x_preferred":[
@@ -216,7 +252,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702663,
+    "wof:lastmodified":1563368761,
     "wof:name":"Ystad",
     "wof:parent_id":1125409935,
     "wof:placetype":"locality",

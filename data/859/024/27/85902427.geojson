@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000484,
-    "geom:area_square_m":3057165.217269,
+    "geom:area_square_m":3057165.217271,
     "geom:bbox":"17.8939819336,59.27991422,17.929971083,59.3018118835",
     "geom:latitude":59.289116,
     "geom:longitude":17.908998,
@@ -26,7 +26,16 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "S\u00e4tra"
+    ],
     "name:fin_x_preferred":[
+        "S\u00e4tra"
+    ],
+    "name:ita_x_preferred":[
+        "S\u00e4tra"
+    ],
+    "name:nob_x_preferred":[
         "S\u00e4tra"
     ],
     "name:nor_x_preferred":[
@@ -81,12 +90,12 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":35,
     "wof:belongsto":[
-        85688429,
         102191581,
         1125362217,
         85633789,
         101752307,
-        1159303035
+        1159303035,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -113,7 +122,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702791,
+    "wof:lastmodified":1563366499,
     "wof:name":"S\u00e4tra",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

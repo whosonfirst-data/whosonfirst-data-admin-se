@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000173,
-    "geom:area_square_m":1090796.988639,
+    "geom:area_square_m":1090796.98864,
     "geom:bbox":"17.9344678598,59.3695927232,17.9626464844,59.3779880126",
     "geom:latitude":59.374497,
     "geom:longitude":17.948771,
@@ -26,6 +26,15 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":5,
     "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Duvbo"
+    ],
+    "name:fra_x_preferred":[
+        "Duvbo"
+    ],
+    "name:ita_x_preferred":[
+        "Duvbo"
+    ],
     "name:swe_x_preferred":[
         "Duvbo"
     ],
@@ -62,12 +71,12 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":59,
     "wof:belongsto":[
-        85688429,
         102191581,
         1125362217,
         85633789,
         101752307,
-        1159303035
+        1159303035,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,7 +104,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702777,
+    "wof:lastmodified":1563366587,
     "wof:name":"Duvbo",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

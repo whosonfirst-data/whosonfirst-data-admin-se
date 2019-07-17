@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7189837.639465,
+    "geom:area_square_m":0.0,
     "geom:bbox":"17.162379,60.707639,17.162379,60.707639",
     "geom:latitude":60.707639,
     "geom:longitude":17.162379,
@@ -28,11 +28,23 @@
     "name:deu_x_preferred":[
         "Str\u00f6msbro IF"
     ],
+    "name:eng_x_preferred":[
+        "Str\u00f6msbro IF"
+    ],
+    "name:fra_x_preferred":[
+        "Str\u00f6msbro IF"
+    ],
+    "name:nld_x_preferred":[
+        "Str\u00f6msbro IF"
+    ],
     "name:nor_x_preferred":[
         "Str\u00f8msbro"
     ],
     "name:nor_x_variant":[
         "Str\u00f6msbro"
+    ],
+    "name:spa_x_preferred":[
+        "Str\u00f6msbro IF"
     ],
     "name:swe_x_colloquial":[
         "Stroemsbro",
@@ -77,12 +89,12 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":216,
     "wof:belongsto":[
-        85688453,
         102191581,
         1125322039,
         85633789,
         101752315,
-        1159303225
+        1159303225,
+        85688453
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -109,7 +121,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1531935902,
+    "wof:lastmodified":1563366541,
     "wof:name":"Str\u00f6msbro",
     "wof:parent_id":101752315,
     "wof:placetype":"neighbourhood",

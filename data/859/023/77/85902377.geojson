@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":20462870.495153,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.151323,58.62112,16.151323,58.62112",
     "geom:latitude":58.62112,
     "geom:longitude":16.151323,
@@ -25,6 +25,12 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
+    "name:eng_x_preferred":[
+        "\u00d6stra Eneby"
+    ],
+    "name:ltz_x_preferred":[
+        "\u00d6stra Eneby"
+    ],
     "name:nor_x_preferred":[
         "\u00d8stra Eneby"
     ],
@@ -74,12 +80,12 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":187,
     "wof:belongsto":[
-        85688409,
         102191581,
         1125384293,
         85633789,
         101752289,
-        1159303229
+        1159303229,
+        85688409
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -106,7 +112,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1531935883,
+    "wof:lastmodified":1563366516,
     "wof:name":"\u00d6stra Eneby",
     "wof:parent_id":101752289,
     "wof:placetype":"neighbourhood",

@@ -25,10 +25,22 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":5,
     "mz:tier_metro":1,
+    "name:bul_x_preferred":[
+        "\u0420\u0435\u0438\u043c\u0435\u0440\u0448\u043e\u043b\u043c\u0435"
+    ],
+    "name:ceb_x_preferred":[
+        "Reimersholme"
+    ],
+    "name:eng_x_preferred":[
+        "Reimersholme"
+    ],
     "name:eus_x_preferred":[
         "Reimersholme"
     ],
     "name:fin_x_preferred":[
+        "Reimersholme"
+    ],
+    "name:fra_x_preferred":[
         "Reimersholme"
     ],
     "name:hun_x_preferred":[
@@ -38,6 +50,9 @@
         "Reimersholme"
     ],
     "name:nno_x_preferred":[
+        "Reimersholme"
+    ],
+    "name:nob_x_preferred":[
         "Reimersholme"
     ],
     "name:nor_x_preferred":[
@@ -83,12 +98,12 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":337,
     "wof:belongsto":[
-        85688429,
         102191581,
         1125362217,
         85633789,
         101752307,
-        1159303035
+        1159303035,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -114,7 +129,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702813,
+    "wof:lastmodified":1563366547,
     "wof:name":"Reimersholme",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

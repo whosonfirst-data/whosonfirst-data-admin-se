@@ -26,7 +26,22 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "mz:tier_metro":1,
+    "name:bel_x_preferred":[
+        "\u0428\u0442\u0443\u0440\u044d\u0431\u0430"
+    ],
+    "name:dan_x_preferred":[
+        "Stureby"
+    ],
+    "name:eng_x_preferred":[
+        "Stureby"
+    ],
     "name:fin_x_preferred":[
+        "Stureby"
+    ],
+    "name:fra_x_preferred":[
+        "Stureby"
+    ],
+    "name:nob_x_preferred":[
         "Stureby"
     ],
     "name:nor_x_preferred":[
@@ -71,12 +86,12 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":343,
     "wof:belongsto":[
-        85688429,
         102191581,
         1125362217,
         85633789,
         101752307,
-        1159303035
+        1159303035,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -103,7 +118,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702794,
+    "wof:lastmodified":1563366534,
     "wof:name":"Stureby",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

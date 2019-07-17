@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000873,
-    "geom:area_square_m":5491144.879528,
+    "geom:area_square_m":5491144.879526,
     "geom:bbox":"18.0242505684,59.4073548202,18.0801355272,59.4319155688",
     "geom:latitude":59.419485,
     "geom:longitude":18.049825,
@@ -27,6 +27,9 @@
     "mz:note":"rr station",
     "mz:tier_locality":5,
     "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Djursholms Ekeby"
+    ],
     "name:swe_x_preferred":[
         "Djursholms Ekeby"
     ],
@@ -63,12 +66,12 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":122,
     "wof:belongsto":[
-        85688429,
         102191581,
         1125362217,
         85633789,
         101752307,
-        1159303035
+        1159303035,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,7 +98,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702777,
+    "wof:lastmodified":1563366585,
     "wof:name":"Djursholms Ekeby",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001076,
-    "geom:area_square_m":6943702.858294,
+    "geom:area_square_m":6943702.858292,
     "geom:bbox":"14.4748141156,58.5068496526,14.5404127062,58.5623660732",
     "geom:latitude":58.531475,
     "geom:longitude":14.509151,
@@ -17,8 +17,14 @@
     "mps:longitude":14.516854,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0627\u0631\u0644\u0633\u0628\u0648\u0631\u064a"
+    ],
     "name:bul_x_preferred":[
         "\u041a\u0430\u0440\u043b\u0441\u0431\u043e\u0440\u0438"
+    ],
+    "name:ceb_x_preferred":[
+        "Karlsborg"
     ],
     "name:dan_x_preferred":[
         "Karlsborg"
@@ -26,10 +32,19 @@
     "name:deu_x_preferred":[
         "Karlsborg"
     ],
+    "name:eng_x_preferred":[
+        "Karlsborg"
+    ],
     "name:fao_x_preferred":[
         "Karlsborg"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0627\u0631\u0644\u0633\u0646\u0628\u0648\u0631\u06cc"
+    ],
     "name:fin_x_preferred":[
+        "Karlsborg"
+    ],
+    "name:fra_x_preferred":[
         "Karlsborg"
     ],
     "name:isl_x_preferred":[
@@ -38,10 +53,22 @@
     "name:ita_x_preferred":[
         "Karlsborg"
     ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30fc\u30eb\u30b9\u30dc\u30ea"
+    ],
+    "name:lit_x_preferred":[
+        "Karlsborgas"
+    ],
+    "name:nan_x_preferred":[
+        "Karlsborg"
+    ],
     "name:nld_x_preferred":[
         "Karlsborg"
     ],
     "name:nno_x_preferred":[
+        "Karlsborg"
+    ],
+    "name:nob_x_preferred":[
         "Karlsborg"
     ],
     "name:nor_x_preferred":[
@@ -53,6 +80,12 @@
     "name:por_x_preferred":[
         "Karlsborg"
     ],
+    "name:ron_x_preferred":[
+        "Karlsborg"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u043b\u0441\u0431\u043e\u0440\u0433"
+    ],
     "name:sco_x_preferred":[
         "Karlsborg"
     ],
@@ -61,6 +94,9 @@
     ],
     "name:swe_x_variant":[
         "Karlsborgs"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u0440\u043b\u0441\u0431\u043e\u0440\u0433"
     ],
     "name:zho_min_nan_x_preferred":[
         "Karlsborg"
@@ -117,7 +153,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702225,
+    "wof:lastmodified":1563368767,
     "wof:name":"Karlsborg",
     "wof:parent_id":1125325397,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000166,
-    "geom:area_square_m":1045625.670212,
+    "geom:area_square_m":1045625.670211,
     "geom:bbox":"18.0065917969,59.3317885036,18.0313110352,59.3457949329",
     "geom:latitude":59.337195,
     "geom:longitude":18.019566,
@@ -25,10 +25,22 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":5,
     "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Stadshagen"
+    ],
     "name:fin_x_preferred":[
         "Stadshagen"
     ],
+    "name:fra_x_preferred":[
+        "Stadshagen"
+    ],
     "name:ita_x_preferred":[
+        "Stadshagen"
+    ],
+    "name:nld_x_preferred":[
+        "Stadshagen"
+    ],
+    "name:nob_x_preferred":[
         "Stadshagen"
     ],
     "name:nor_x_preferred":[
@@ -68,12 +80,12 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":67,
     "wof:belongsto":[
-        85688429,
         102191581,
         1125362217,
         85633789,
         101752307,
-        1159303035
+        1159303035,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -99,7 +111,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702823,
+    "wof:lastmodified":1563366519,
     "wof:name":"Stadshagen",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

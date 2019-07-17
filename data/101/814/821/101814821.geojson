@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000481,
-    "geom:area_square_m":2523634.972834,
+    "geom:area_square_m":2523634.972831,
     "geom:bbox":"19.4628291113,64.9004233304,19.5172917843,64.9213291384",
     "geom:latitude":64.911609,
     "geom:longitude":19.483947,
@@ -20,10 +20,16 @@
     "name:bul_x_preferred":[
         "\u041d\u043e\u0440\u0448\u044c\u043e"
     ],
+    "name:ces_x_preferred":[
+        "Norsj\u00f6"
+    ],
     "name:dan_x_preferred":[
         "Norsj\u00f6"
     ],
     "name:deu_x_preferred":[
+        "Norsj\u00f6"
+    ],
+    "name:eng_x_preferred":[
         "Norsj\u00f6"
     ],
     "name:est_x_preferred":[
@@ -32,7 +38,13 @@
     "name:fao_x_preferred":[
         "Norsj\u00f6"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0648\u0641\u0647"
+    ],
     "name:fin_x_preferred":[
+        "Norsj\u00f6"
+    ],
+    "name:fra_x_preferred":[
         "Norsj\u00f6"
     ],
     "name:gla_x_preferred":[
@@ -44,13 +56,34 @@
     "name:ita_x_preferred":[
         "Norsj\u00f6"
     ],
+    "name:jpn_x_preferred":[
+        "\u30ce\u30eb\u30b7\u30a7\u30fc"
+    ],
+    "name:nan_x_preferred":[
+        "Norsj\u00f6"
+    ],
     "name:nld_x_preferred":[
+        "Norsj\u00f6"
+    ],
+    "name:nno_x_preferred":[
+        "Norsj\u00f6"
+    ],
+    "name:nob_x_preferred":[
         "Norsj\u00f6"
     ],
     "name:nor_x_preferred":[
         "Norsj\u00f8"
     ],
     "name:nor_x_variant":[
+        "Norsj\u00f6"
+    ],
+    "name:por_x_preferred":[
+        "Norsj\u00f6"
+    ],
+    "name:ron_x_preferred":[
+        "Norsj\u00f6"
+    ],
+    "name:slk_x_preferred":[
         "Norsj\u00f6"
     ],
     "name:sme_x_preferred":[
@@ -70,6 +103,12 @@
     ],
     "name:ukr_x_preferred":[
         "\u041d\u0443\u0440\u0448\u0435"
+    ],
+    "name:ukr_x_variant":[
+        "\u041d\u043e\u0440\u0441\u044c\u043e"
+    ],
+    "name:zho_x_preferred":[
+        "\u52aa\u820d"
     ],
     "qs:a0":"Sverige",
     "qs:a1":"*V\u00e4sterbottens l\u00e4n",
@@ -122,7 +161,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702971,
+    "wof:lastmodified":1563368907,
     "wof:name":"Norsj\u00f6",
     "wof:parent_id":1125363687,
     "wof:placetype":"locality",

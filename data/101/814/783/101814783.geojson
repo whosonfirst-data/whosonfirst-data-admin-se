@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000638,
-    "geom:area_square_m":3638038.299988,
+    "geom:area_square_m":3638038.299987,
     "geom:bbox":"15.6150956663,62.5144134295,15.6952775288,62.5332800517",
     "geom:latitude":62.52299,
     "geom:longitude":15.659479,
@@ -20,16 +20,28 @@
     "name:bul_x_preferred":[
         "\u041e\u043d\u0433\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "\u00c5nge"
+    ],
     "name:dan_x_preferred":[
         "\u00c5nge"
     ],
     "name:deu_x_preferred":[
         "\u00c5nge"
     ],
+    "name:eng_x_preferred":[
+        "\u00c5nge"
+    ],
     "name:fao_x_preferred":[
         "\u00c5nge"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0646\u06cc\u0647"
+    ],
     "name:fin_x_preferred":[
+        "\u00c5nge"
+    ],
+    "name:fra_x_preferred":[
         "\u00c5nge"
     ],
     "name:isl_x_preferred":[
@@ -38,14 +50,35 @@
     "name:ita_x_preferred":[
         "\u00c5nge"
     ],
+    "name:jpn_x_preferred":[
+        "\u30aa\u30f3\u30b2"
+    ],
+    "name:nan_x_preferred":[
+        "\u00c5nge"
+    ],
     "name:nld_x_preferred":[
         "\u00c5nge"
     ],
     "name:nno_x_preferred":[
         "\u00c5nge"
     ],
+    "name:nob_x_preferred":[
+        "\u00c5nge"
+    ],
     "name:nor_x_preferred":[
         "\u00c5nge"
+    ],
+    "name:pol_x_preferred":[
+        "\u00c5nge"
+    ],
+    "name:por_x_preferred":[
+        "\u00c5nge"
+    ],
+    "name:ron_x_preferred":[
+        "\u00c5nge"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u043d\u0433\u0435"
     ],
     "name:swe_x_colloquial":[
         "Aange",
@@ -58,6 +91,12 @@
     ],
     "name:swe_x_variant":[
         "\u00c5nges"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u043d\u0433\u0435"
+    ],
+    "name:zho_x_preferred":[
+        "\u7fc1\u5384"
     ],
     "qs:a0":"Sverige",
     "qs:a1":"*V\u00e4sternorrlands l\u00e4n",
@@ -111,7 +150,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529703000,
+    "wof:lastmodified":1563368915,
     "wof:name":"\u00c5nge",
     "wof:parent_id":1159305703,
     "wof:placetype":"locality",

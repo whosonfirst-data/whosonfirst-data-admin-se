@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000369,
-    "geom:area_square_m":2323617.910651,
+    "geom:area_square_m":2323617.91065,
     "geom:bbox":"18.017578125,59.3723913646,18.0519618361,59.3891784231",
     "geom:latitude":59.38054,
     "geom:longitude":18.035118,
@@ -27,10 +27,40 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "mz:tier_metro":1,
+    "name:ceb_x_preferred":[
+        "Bergshamra"
+    ],
+    "name:dan_x_preferred":[
+        "Bergshamra"
+    ],
+    "name:deu_x_preferred":[
+        "Bergshamra"
+    ],
+    "name:eng_x_preferred":[
+        "Bergshamra"
+    ],
+    "name:fin_x_preferred":[
+        "Bergshamra"
+    ],
+    "name:fra_x_preferred":[
+        "Bergshamra"
+    ],
+    "name:ita_x_preferred":[
+        "Bergshamra"
+    ],
+    "name:nan_x_preferred":[
+        "Bergshamra"
+    ],
+    "name:nds_x_preferred":[
+        "Bergshamra"
+    ],
     "name:nld_x_preferred":[
         "Bergshamra"
     ],
     "name:nno_x_preferred":[
+        "Bergshamra"
+    ],
+    "name:nob_x_preferred":[
         "Bergshamra"
     ],
     "name:nor_x_preferred":[
@@ -41,6 +71,9 @@
     ],
     "name:swe_x_preferred":[
         "Bergshamra"
+    ],
+    "name:swe_x_variant":[
+        "Blackeberg"
     ],
     "name:unk_x_variant":[
         "Bergshamra"
@@ -79,12 +112,12 @@
     "src:population":"geonames",
     "wd:wordcount":50,
     "wof:belongsto":[
-        85688429,
         102191581,
         1125362217,
         85633789,
         101752307,
-        1159303035
+        1159303035,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -111,7 +144,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702775,
+    "wof:lastmodified":1563366586,
     "wof:name":"Bergshamra",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

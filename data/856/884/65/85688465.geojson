@@ -36,11 +36,17 @@
     "name:bel_x_preferred":[
         "\u041b\u0435\u043d \u0412\u0435\u0441\u0442\u044d\u0440\u0431\u043e\u0442\u044d\u043d"
     ],
+    "name:bel_x_variant":[
+        "\u043b\u0435\u043d \u0412\u0435\u0441\u0442\u044d\u0440\u0431\u043e\u0442\u044d\u043d"
+    ],
     "name:ben_x_preferred":[
         "\u09ad\u09cd\u09af\u09be\u09b8\u09cd\u099f\u09be\u09b0\u09ac\u099f\u09c7\u09a8 \u09ac\u09bf\u09ad\u09be\u0997"
     ],
     "name:bos_x_preferred":[
         "V\u00e4sterbotten"
+    ],
+    "name:bos_x_variant":[
+        "Kotar V\u00e4sterbotten"
     ],
     "name:bre_x_preferred":[
         "V\u00e4sterbotten"
@@ -51,6 +57,9 @@
     "name:cat_x_preferred":[
         "V\u00e4sterbotten"
     ],
+    "name:ceb_x_preferred":[
+        "V\u00e4sterbottens l\u00e4n"
+    ],
     "name:ces_x_preferred":[
         "V\u00e4sterbotten"
     ],
@@ -59,6 +68,9 @@
     ],
     "name:dan_x_preferred":[
         "V\u00e4sterbotten"
+    ],
+    "name:dan_x_variant":[
+        "V\u00e4sterbottens l\u00e4n"
     ],
     "name:deu_x_preferred":[
         "V\u00e4sterbotten"
@@ -74,11 +86,13 @@
     ],
     "name:eng_x_variant":[
         "V\u00e4sterbotten County",
-        "V\u00e4sterbotten",
-        "Vasterbotten County"
+        "V\u00e4sterbotten"
     ],
     "name:epo_x_preferred":[
         "V\u00e4sterbotten"
+    ],
+    "name:epo_x_variant":[
+        "V\u00e4sterbottens l\u00e4n"
     ],
     "name:est_x_preferred":[
         "V\u00e4sterbotteni l\u00e4\u00e4n"
@@ -98,6 +112,9 @@
     "name:fin_x_preferred":[
         "V\u00e4sterbotten"
     ],
+    "name:fin_x_variant":[
+        "V\u00e4sterbottenin l\u00e4\u00e4ni"
+    ],
     "name:fra_x_preferred":[
         "V\u00e4sterbotten"
     ],
@@ -105,6 +122,9 @@
         "Botnie occidentale",
         "Comt\u00e9 de V\u00e4sterbotten",
         "comt\u00e9 de V\u00e4sterbotten"
+    ],
+    "name:fry_x_preferred":[
+        "V\u00e4sterbottens l\u00e4n"
     ],
     "name:gla_x_preferred":[
         "V\u00e4sterbottens l\u00e4n"
@@ -141,6 +161,9 @@
     ],
     "name:kor_x_preferred":[
         "\ubca0\uc2a4\ud14c\ub974\ubcf4\ud150 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ubca0\uc2a4\ud14c\ub974\ubcf4\ud150\uc8fc"
     ],
     "name:lat_x_preferred":[
         "Botniae Occidentalis Comitatus"
@@ -362,7 +385,7 @@
         "swe",
         "fin"
     ],
-    "wof:lastmodified":1561839935,
+    "wof:lastmodified":1563366633,
     "wof:name":"Vasterbotten",
     "wof:parent_id":85633789,
     "wof:placetype":"region",

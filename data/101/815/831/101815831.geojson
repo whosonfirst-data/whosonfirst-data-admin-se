@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000946,
-    "geom:area_square_m":5887687.171378,
+    "geom:area_square_m":5887687.171379,
     "geom:bbox":"14.4860237083,59.7665269031,14.542768657,59.8004658484",
     "geom:latitude":59.783641,
     "geom:longitude":14.519744,
@@ -20,16 +20,28 @@
     "name:bul_x_preferred":[
         "\u0425\u0435\u043b\u0435\u0444\u043e\u0440\u0448"
     ],
+    "name:ceb_x_preferred":[
+        "H\u00e4llefors"
+    ],
     "name:dan_x_preferred":[
         "H\u00e4llefors"
     ],
     "name:deu_x_preferred":[
         "H\u00e4llefors"
     ],
+    "name:eng_x_preferred":[
+        "H\u00e4llefors"
+    ],
     "name:fao_x_preferred":[
         "H\u00e4llefors"
     ],
+    "name:fas_x_preferred":[
+        "\u0647\u0644\u0641\u0648\u0634"
+    ],
     "name:fin_x_preferred":[
+        "H\u00e4llefors"
+    ],
+    "name:fra_x_preferred":[
         "H\u00e4llefors"
     ],
     "name:isl_x_preferred":[
@@ -38,14 +50,32 @@
     "name:ita_x_preferred":[
         "H\u00e4llefors"
     ],
+    "name:jpn_x_preferred":[
+        "\u30d8\u30c3\u30ec\u30d5\u30a9\u30b7\u30e5"
+    ],
+    "name:nan_x_preferred":[
+        "H\u00e4llefors"
+    ],
     "name:nld_x_preferred":[
         "H\u00e4llefors"
     ],
     "name:nno_x_preferred":[
         "H\u00e4llefors"
     ],
+    "name:nob_x_preferred":[
+        "H\u00e4llefors"
+    ],
     "name:nor_x_preferred":[
         "H\u00e4llefors"
+    ],
+    "name:pol_x_preferred":[
+        "H\u00e4llefors"
+    ],
+    "name:ron_x_preferred":[
+        "H\u00e4llefors"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0435\u043b\u043b\u0435\u0444\u043e\u0440\u0441"
     ],
     "name:swe_x_colloquial":[
         "Haellefors",
@@ -53,6 +83,12 @@
     ],
     "name:swe_x_preferred":[
         "H\u00e4llefors"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0435\u043b\u043b\u0435\u0444\u043e\u0440\u0441"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d77\u52d2\u798f\u4ec0"
     ],
     "qs:a0":"Sverige",
     "qs:a1":"*\u00d6rebro l\u00e4n",
@@ -106,7 +142,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529703058,
+    "wof:lastmodified":1563368846,
     "wof:name":"H\u00e4llefors",
     "wof:parent_id":1125372551,
     "wof:placetype":"locality",

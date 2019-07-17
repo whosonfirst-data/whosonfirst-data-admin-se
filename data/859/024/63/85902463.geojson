@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000831,
-    "geom:area_square_m":5259201.564022,
+    "geom:area_square_m":5259201.564023,
     "geom:bbox":"18.1307761453,59.1975794655,18.1811972663,59.2282485813",
     "geom:latitude":59.214533,
     "geom:longitude":18.154815,
@@ -26,8 +26,14 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":5,
     "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Skog\u00e5s"
+    ],
     "name:fra_x_preferred":[
         "Skog\u00e5s"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u056f\u0578\u0563\u0561\u057d"
     ],
     "name:swe_x_colloquial":[
         "Skogaas",
@@ -69,12 +75,12 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":386,
     "wof:belongsto":[
-        85688429,
         102191581,
         1125362217,
         85633789,
         101752307,
-        1159303035
+        1159303035,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -102,7 +108,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702792,
+    "wof:lastmodified":1563366504,
     "wof:name":"Skog\u00e5s",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

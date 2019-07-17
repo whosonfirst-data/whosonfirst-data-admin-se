@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000835,
-    "geom:area_square_m":5282178.230072,
+    "geom:area_square_m":5282178.230073,
     "geom:bbox":"18.1491300389,59.2265553463,18.2103269904,59.2564401112",
     "geom:latitude":59.240644,
     "geom:longitude":18.179715,
@@ -26,7 +26,13 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":5,
     "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Skrubba"
+    ],
     "name:fin_x_preferred":[
+        "Skrubba"
+    ],
+    "name:nob_x_preferred":[
         "Skrubba"
     ],
     "name:nor_x_preferred":[
@@ -68,12 +74,12 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":129,
     "wof:belongsto":[
-        85688429,
         102191581,
         1125394711,
         85633789,
         101754077,
-        1159303219
+        1159303219,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -101,7 +107,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702792,
+    "wof:lastmodified":1563366497,
     "wof:name":"Skrubba",
     "wof:parent_id":101754077,
     "wof:placetype":"neighbourhood",

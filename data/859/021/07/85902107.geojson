@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000333,
-    "geom:area_square_m":2103802.591,
+    "geom:area_square_m":2103802.590999,
     "geom:bbox":"18.0765658158,59.2349861808,18.1109619141,59.2518409059",
     "geom:latitude":59.24236,
     "geom:longitude":18.093882,
@@ -26,6 +26,15 @@
     "mz:min_zoom":12.0,
     "mz:tier_locality":5,
     "mz:tier_metro":1,
+    "name:ceb_x_preferred":[
+        "Farsta"
+    ],
+    "name:deu_x_preferred":[
+        "Farsta"
+    ],
+    "name:eng_x_preferred":[
+        "Farsta"
+    ],
     "name:fas_x_preferred":[
         "\u0641\u0627\u0631\u0633\u062a\u0627"
     ],
@@ -38,6 +47,24 @@
     "name:ita_x_preferred":[
         "Farsta"
     ],
+    "name:ksh_x_preferred":[
+        "Farsta"
+    ],
+    "name:lat_x_preferred":[
+        "Farsta"
+    ],
+    "name:ltz_x_preferred":[
+        "Farsta"
+    ],
+    "name:nld_x_preferred":[
+        "Farsta"
+    ],
+    "name:nno_x_preferred":[
+        "Farsta"
+    ],
+    "name:nob_x_preferred":[
+        "Farsta"
+    ],
     "name:nor_x_preferred":[
         "Farsta"
     ],
@@ -47,11 +74,23 @@
     "name:por_x_preferred":[
         "Farsta"
     ],
+    "name:slv_x_preferred":[
+        "Farsta"
+    ],
+    "name:spa_x_preferred":[
+        "Farsta"
+    ],
     "name:swe_x_preferred":[
+        "Farsta"
+    ],
+    "name:tur_x_preferred":[
         "Farsta"
     ],
     "name:unk_x_variant":[
         "Farsta"
+    ],
+    "name:zho_x_preferred":[
+        "\u6cd5\u65af\u5854"
     ],
     "qs:gn_adm0_cc":"SE",
     "qs:gn_fcode":"PPLX",
@@ -83,12 +122,12 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":76,
     "wof:belongsto":[
-        85688429,
         102191581,
         1125362217,
         85633789,
         101752307,
-        1159303035
+        1159303035,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -116,7 +155,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702779,
+    "wof:lastmodified":1563366599,
     "wof:name":"Farsta",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

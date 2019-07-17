@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000327,
-    "geom:area_square_m":2059802.65935,
+    "geom:area_square_m":2059802.659352,
     "geom:bbox":"17.9241943359,59.3737905122,17.9475913663,59.3924846835",
     "geom:latitude":59.384017,
     "geom:longitude":17.935119,
@@ -29,11 +29,14 @@
     "name:ara_x_preferred":[
         "\u0631\u064a\u0646\u0643\u0628\u064a"
     ],
+    "name:dan_x_preferred":[
+        "Rinkeby"
+    ],
     "name:eng_x_preferred":[
         "Rinkoby"
     ],
     "name:eng_x_variant":[
-        "Rinkoby"
+        "Rinkeby"
     ],
     "name:est_x_preferred":[
         "Rinkeby"
@@ -47,7 +50,19 @@
     "name:fra_x_preferred":[
         "Rinkeby"
     ],
+    "name:gle_x_preferred":[
+        "Rinkeby"
+    ],
+    "name:ita_x_preferred":[
+        "Rinkeby"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ea\u30f3\u30b1\u30d3\u30e5\u30fc"
+    ],
     "name:nld_x_preferred":[
+        "Rinkeby"
+    ],
+    "name:nob_x_preferred":[
         "Rinkeby"
     ],
     "name:nor_x_preferred":[
@@ -66,6 +81,9 @@
         "Rinkeby"
     ],
     "name:spa_x_preferred":[
+        "Rinkeby"
+    ],
+    "name:sqi_x_preferred":[
         "Rinkeby"
     ],
     "name:swe_x_preferred":[
@@ -108,12 +126,12 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":322,
     "wof:belongsto":[
-        85688429,
         102191581,
         1125362217,
         85633789,
         101752307,
-        1159303035
+        1159303035,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -140,7 +158,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702790,
+    "wof:lastmodified":1563366498,
     "wof:name":"Rinkeby",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000464,
-    "geom:area_square_m":2933659.735524,
+    "geom:area_square_m":2933659.735522,
     "geom:bbox":"18.1686401367,59.2523117731,18.2169121945,59.2687154331",
     "geom:latitude":59.260821,
     "geom:longitude":18.193512,
@@ -30,14 +30,53 @@
     "name:bul_x_preferred":[
         "\u0415\u043b\u0442\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "\u00c4lta"
+    ],
+    "name:dan_x_preferred":[
+        "\u00c4lta"
+    ],
+    "name:deu_x_preferred":[
+        "\u00c4lta"
+    ],
+    "name:eng_x_preferred":[
+        "\u00c4lta"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0644\u062a\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "\u00c4lta"
+    ],
+    "name:ita_x_preferred":[
+        "\u00c4lta"
+    ],
+    "name:nan_x_preferred":[
+        "\u00c4lta"
+    ],
+    "name:nds_x_preferred":[
+        "\u00c4lta"
+    ],
+    "name:nld_x_preferred":[
+        "\u00c4lta"
+    ],
+    "name:nno_x_preferred":[
+        "\u00c4lta"
+    ],
+    "name:nob_x_preferred":[
+        "\u00c4lta"
+    ],
+    "name:pol_x_preferred":[
+        "\u00c4lta"
     ],
     "name:swe_x_colloquial":[
         "Aelta",
         "Alta"
     ],
     "name:swe_x_preferred":[
+        "\u00c4lta"
+    ],
+    "name:szl_x_preferred":[
         "\u00c4lta"
     ],
     "name:unk_x_variant":[
@@ -73,12 +112,12 @@
     "src:lbl:centroid":"mz",
     "src:population":"geonames",
     "wof:belongsto":[
-        85688429,
         102191581,
         1125394711,
         85633789,
         101754077,
-        1159303219
+        1159303219,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -106,7 +145,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702774,
+    "wof:lastmodified":1563366591,
     "wof:name":"\u00c4lta",
     "wof:parent_id":101754077,
     "wof:placetype":"neighbourhood",

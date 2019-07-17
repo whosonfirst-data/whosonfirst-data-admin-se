@@ -33,11 +33,20 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0633\u0643\u0648\u0646\u0647"
     ],
+    "name:ast_x_preferred":[
+        "provincia d'Escania"
+    ],
     "name:aze_x_preferred":[
         "Skane"
     ],
+    "name:bar_x_preferred":[
+        "Sk\u00e5ne l\u00e4n"
+    ],
     "name:bel_x_preferred":[
         "\u041b\u0435\u043d \u0421\u043a\u043e\u043d\u044d"
+    ],
+    "name:bel_x_variant":[
+        "\u043b\u0435\u043d \u0421\u043a\u043e\u043d\u044d"
     ],
     "name:ben_x_preferred":[
         "\u09b8\u09cd\u0995\u09be\u09a8 \u0995\u09be\u0989\u09a8\u09cd\u099f\u09bf"
@@ -50,6 +59,9 @@
     ],
     "name:cat_x_preferred":[
         "Comtat d'Esc\u00e0nia"
+    ],
+    "name:ceb_x_preferred":[
+        "Sk\u00e5ne l\u00e4n"
     ],
     "name:ces_x_preferred":[
         "Sk\u00e5ne"
@@ -102,6 +114,9 @@
         "Sk\u00e5ne",
         "comt\u00e9 de Scanie"
     ],
+    "name:fry_x_preferred":[
+        "Sk\u00e5ne l\u00e4n"
+    ],
     "name:gla_x_preferred":[
         "Sk\u00e5ne l\u00e4n"
     ],
@@ -140,6 +155,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc2a4\ucf54\ub124 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc2a4\ucf54\ub124\uc8fc"
     ],
     "name:lat_x_preferred":[
         "Scaniae Comitatus"
@@ -192,6 +210,9 @@
     "name:ron_x_preferred":[
         "Sk\u00e5ne l\u00e4n"
     ],
+    "name:rue_x_preferred":[
+        "\u041a\u0440\u0430\u0439 \u0421\u043a\u043e\u043d\u0435"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u043a\u043e\u043d\u0435"
     ],
@@ -230,6 +251,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e21\u0e13\u0e11\u0e25\u0e2a\u0e42\u0e01\u0e40\u0e19\u0e2d"
+    ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e17\u0e28\u0e21\u0e13\u0e11\u0e25\u0e2a\u0e01\u0e31\u0e27\u0e40\u0e19\u0e2d"
     ],
     "name:tur_x_preferred":[
         "Sk\u00e5ne ili"
@@ -372,7 +396,7 @@
         "swe",
         "fin"
     ],
-    "wof:lastmodified":1561839936,
+    "wof:lastmodified":1563366643,
     "wof:name":"Scania",
     "wof:parent_id":85633789,
     "wof:placetype":"region",

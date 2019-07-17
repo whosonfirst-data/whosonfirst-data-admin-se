@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000683,
-    "geom:area_square_m":4778085.579064,
+    "geom:area_square_m":4778085.579066,
     "geom:bbox":"14.328637944,55.5386554571,14.3614714468,55.5781387826",
     "geom:latitude":55.555316,
     "geom:longitude":14.343399,
@@ -20,10 +20,16 @@
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0421\u0456\u043c\u0440\u044b\u0441\u0445\u0430\u043c\u043d"
     ],
+    "name:bel_x_variant":[
+        "\u0421\u0456\u043c\u0440\u044b\u0441\u0445\u0430\u043c\u043d"
+    ],
     "name:bul_x_preferred":[
         "\u0421\u0438\u043c\u0440\u0438\u0441\u0445\u0430\u043c\u043d"
     ],
     "name:cat_x_preferred":[
+        "Simrishamn"
+    ],
+    "name:ceb_x_preferred":[
         "Simrishamn"
     ],
     "name:dan_x_preferred":[
@@ -74,10 +80,19 @@
     "name:lat_x_variant":[
         "Cimbrorum portus"
     ],
+    "name:lit_x_preferred":[
+        "Simrishamnas"
+    ],
+    "name:nan_x_preferred":[
+        "Simrishamn"
+    ],
     "name:nld_x_preferred":[
         "Simrishamn"
     ],
     "name:nno_x_preferred":[
+        "Simrishamn"
+    ],
+    "name:nob_x_preferred":[
         "Simrishamn"
     ],
     "name:nor_x_preferred":[
@@ -172,7 +187,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702662,
+    "wof:lastmodified":1563368782,
     "wof:name":"Simrishamn",
     "wof:parent_id":1125381787,
     "wof:placetype":"locality",

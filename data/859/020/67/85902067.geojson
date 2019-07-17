@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5162845.618815,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.441169,60.497243,15.441169,60.497243",
     "geom:latitude":60.497243,
     "geom:longitude":15.441169,
@@ -25,6 +25,12 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
+    "name:deu_x_preferred":[
+        "Domnarvet"
+    ],
+    "name:eng_x_preferred":[
+        "Domnarvet"
+    ],
     "name:fra_x_preferred":[
         "Domnarvets Jernverk"
     ],
@@ -67,12 +73,12 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":35,
     "wof:belongsto":[
-        85688447,
         102191581,
         1125277915,
         85633789,
         101816099,
-        1159302993
+        1159302993,
+        85688447
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -100,7 +106,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1531935851,
+    "wof:lastmodified":1563366579,
     "wof:name":"Domnarvet",
     "wof:parent_id":101816099,
     "wof:placetype":"neighbourhood",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002405,
-    "geom:area_square_m":15600624.908057,
+    "geom:area_square_m":15600624.908056,
     "geom:bbox":"11.8878550666,58.3307992563,12.0073798299,58.3891309828",
     "geom:latitude":58.356929,
     "geom:longitude":11.937627,
@@ -17,8 +17,20 @@
     "mps:longitude":11.928497,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0648\u062f\u064a\u0641\u0627\u0644\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u0989\u09a6\u09cd\u09a6\u09c7\u09ad\u09be\u09b2\u09be"
+    ],
     "name:bul_x_preferred":[
         "\u0423\u0434\u0435\u0432\u0430\u043b\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Uddevalla"
+    ],
+    "name:ceb_x_preferred":[
+        "Uddevalla"
     ],
     "name:ces_x_preferred":[
         "Uddevalla"
@@ -32,6 +44,9 @@
     "name:deu_x_preferred":[
         "Uddevalla"
     ],
+    "name:ell_x_preferred":[
+        "\u039f\u03c5\u03bd\u03c4\u03b5\u03b2\u03ac\u03bb\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Uddevalla"
     ],
@@ -44,6 +59,9 @@
     "name:fas_x_preferred":[
         "\u0627\u0648\u062f\u0648\u0627\u0644\u0627"
     ],
+    "name:fas_x_variant":[
+        "\u0627\u0648\u062f\u0648\u0644\u0627"
+    ],
     "name:fin_x_preferred":[
         "Uddevalla"
     ],
@@ -53,10 +71,31 @@
     "name:frr_x_preferred":[
         "Uddevalla"
     ],
+    "name:fry_x_preferred":[
+        "Uddevalla"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a93\u0aa1\u0ac7\u0ab5\u0ac7\u0ab2\u0abe"
+    ],
     "name:hbs_x_preferred":[
         "Uddevalla"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05d3\u05d1\u05dc\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0909\u0926\u0926\u0947\u0935\u0933\u093e"
+    ],
     "name:hrv_x_preferred":[
+        "Uddevalla"
+    ],
+    "name:hun_x_preferred":[
+        "Uddevalla"
+    ],
+    "name:hye_x_preferred":[
+        "\u0548\u0582\u0564\u0587\u0561\u056c\u0561"
+    ],
+    "name:ind_x_preferred":[
         "Uddevalla"
     ],
     "name:isl_x_preferred":[
@@ -65,8 +104,14 @@
     "name:ita_x_preferred":[
         "Uddevalla"
     ],
+    "name:jpn_x_preferred":[
+        "\u30a6\u30c3\u30c7\u30d0\u30e9\u5e02"
+    ],
     "name:kal_x_preferred":[
         "Uddevalla"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c89\u0ca6\u0ccd\u0ca6\u0cc7\u0cb5\u0cb2\u0ccd\u0cb2"
     ],
     "name:kat_x_preferred":[
         "\u10e3\u10d3\u10d4\u10d5\u10d0\u10da\u10d0"
@@ -74,10 +119,25 @@
     "name:kor_x_preferred":[
         "\uc6b0\ub370\ubc1c\ub77c"
     ],
+    "name:lav_x_preferred":[
+        "Udevalla"
+    ],
     "name:lit_x_preferred":[
         "Udevala"
     ],
+    "name:ltz_x_preferred":[
+        "Uddevalla"
+    ],
+    "name:mar_x_preferred":[
+        "\u0911\u0921\u0947\u0935\u093e\u0932\u093e"
+    ],
     "name:min_x_preferred":[
+        "Uddevalla"
+    ],
+    "name:msa_x_preferred":[
+        "Uddevalla"
+    ],
+    "name:nan_x_preferred":[
         "Uddevalla"
     ],
     "name:nld_x_preferred":[
@@ -86,7 +146,13 @@
     "name:nno_x_preferred":[
         "Uddevalla"
     ],
+    "name:nob_x_preferred":[
+        "Uddevalla"
+    ],
     "name:nor_x_preferred":[
+        "Uddevalla"
+    ],
+    "name:oci_x_preferred":[
         "Uddevalla"
     ],
     "name:oss_x_preferred":[
@@ -104,7 +170,16 @@
     "name:rus_x_preferred":[
         "\u0423\u0434\u0434\u0435\u0432\u0430\u043b\u043b\u0430"
     ],
+    "name:sin_x_preferred":[
+        "\u0d8b\u0da9\u0dda\u0dc0\u0dcf\u0dbd\u0dcf"
+    ],
+    "name:slv_x_preferred":[
+        "Uddevalla"
+    ],
     "name:spa_x_preferred":[
+        "Uddevalla"
+    ],
+    "name:sqi_x_preferred":[
         "Uddevalla"
     ],
     "name:srp_x_preferred":[
@@ -119,11 +194,26 @@
     "name:swe_x_variant":[
         "Uddevallas"
     ],
+    "name:tam_x_preferred":[
+        "\u0b89\u0ba4\u0bc7\u0bb5\u0bbe\u0bb2\u0bbe"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c09\u0c26\u0c4d\u0c26\u0c47\u0c35\u0c32\u0c4d\u0c32"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e39\u0e40\u0e14\u0e2d\u0e23\u0e4c\u0e27\u0e31\u0e25\u0e25\u0e32"
+    ],
     "name:tur_x_preferred":[
         "Uddevalla"
     ],
+    "name:ukr_x_preferred":[
+        "\u0423\u0434\u0434\u0435\u0432\u0430\u043b\u043b\u0430"
+    ],
     "name:urd_x_preferred":[
         "\u0627\u062f\u0648\u0627\u0644\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Uddevalla"
     ],
     "name:vol_x_preferred":[
         "Uddevalla"
@@ -188,7 +278,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702229,
+    "wof:lastmodified":1563368885,
     "wof:name":"Uddevalla",
     "wof:parent_id":1125423249,
     "wof:placetype":"locality",

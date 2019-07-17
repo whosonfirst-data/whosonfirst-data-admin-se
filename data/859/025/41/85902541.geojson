@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":13543860.551436,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.628117,58.400891,15.628117,58.400891",
     "geom:latitude":58.400891,
     "geom:longitude":15.628117,
@@ -25,6 +25,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
+    "name:eng_x_preferred":[
+        "Tannefors"
+    ],
     "name:swe_x_preferred":[
         "Tannefors"
     ],
@@ -63,12 +66,12 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":93,
     "wof:belongsto":[
-        85688409,
         102191581,
         1159307123,
         85633789,
         101752291,
-        1159303147
+        1159303147,
+        85688409
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -96,7 +99,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1531935903,
+    "wof:lastmodified":1563366540,
     "wof:name":"Tannefors",
     "wof:parent_id":101752291,
     "wof:placetype":"neighbourhood",
