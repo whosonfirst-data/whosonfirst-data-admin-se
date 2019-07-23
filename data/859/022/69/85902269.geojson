@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002827,
-    "geom:area_square_m":18694237.457144,
+    "geom:area_square_m":18694237.457143,
     "geom:bbox":"11.7920629883,57.6403077769,11.8573877715,57.7038734261",
     "geom:latitude":57.670687,
     "geom:longitude":11.821592,
@@ -26,6 +26,9 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":4,
     "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "L\u00e5ngedrag"
+    ],
     "name:swe_x_colloquial":[
         "Laangedrag",
         "Langedrag"
@@ -70,12 +73,12 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":7,
     "wof:belongsto":[
-        85688411,
         102191581,
         1125287157,
         85633789,
         101752295,
-        1159302989
+        1159302989,
+        85688411
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -103,7 +106,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702286,
+    "wof:lastmodified":1563366521,
     "wof:name":"L\u00e5ngedrag",
     "wof:parent_id":101752295,
     "wof:placetype":"neighbourhood",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000639,
-    "geom:area_square_m":4019443.974144,
+    "geom:area_square_m":4019443.974146,
     "geom:bbox":"18.0663042676,59.3821847051,18.11187558,59.4119727993",
     "geom:latitude":59.396795,
     "geom:longitude":18.088513,
@@ -25,14 +25,38 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":5,
     "mz:tier_metro":1,
+    "name:bel_x_preferred":[
+        "\u042e\u0440\u0441\u0445\u0430\u043b\u044c\u043c"
+    ],
     "name:bul_x_preferred":[
         "\u042e\u0440\u0448\u0445\u043e\u043b\u043c"
+    ],
+    "name:cat_x_preferred":[
+        "Djursholm"
+    ],
+    "name:ceb_x_preferred":[
+        "Djursholm"
+    ],
+    "name:ces_x_preferred":[
+        "Djursholm"
+    ],
+    "name:cym_x_preferred":[
+        "Djursholm"
     ],
     "name:dan_x_preferred":[
         "Djursholm"
     ],
     "name:deu_x_preferred":[
         "Djursholm"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03b9\u03bf\u03cd\u03c1\u03c3\u03c7\u03bf\u03bb\u03bc"
+    ],
+    "name:eng_x_preferred":[
+        "Djursholm"
+    ],
+    "name:fas_x_preferred":[
+        "\u06cc\u0648\u0634\u0647\u0648\u0644\u0645"
     ],
     "name:fin_x_preferred":[
         "Djursholm"
@@ -46,16 +70,28 @@
     "name:hrv_x_preferred":[
         "Djursholm"
     ],
+    "name:hun_x_preferred":[
+        "Djursholm"
+    ],
+    "name:hye_x_preferred":[
+        "\u0545\u0578\u0582\u0580\u057d\u0570\u0578\u056c\u0574"
+    ],
     "name:ind_x_preferred":[
         "Djursholm"
     ],
     "name:ita_x_preferred":[
         "Djursholm"
     ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10d8\u10e3\u10e0\u10e1\u10f0\u10dd\u10da\u10db\u10d8"
+    ],
     "name:nld_x_preferred":[
         "Djursholm"
     ],
     "name:nno_x_preferred":[
+        "Djursholm"
+    ],
+    "name:nob_x_preferred":[
         "Djursholm"
     ],
     "name:nor_x_preferred":[
@@ -70,8 +106,20 @@
     "name:ron_x_preferred":[
         "Djursholm"
     ],
+    "name:rus_x_preferred":[
+        "\u042e\u0440\u0441\u0445\u043e\u043b\u044c\u043c"
+    ],
+    "name:slv_x_preferred":[
+        "Djursholm"
+    ],
+    "name:spa_x_preferred":[
+        "Djursholm"
+    ],
     "name:swe_x_preferred":[
         "Djursholm"
+    ],
+    "name:tat_x_preferred":[
+        "\u042e\u0440\u0441\u04bb\u043e\u043b\u043c"
     ],
     "name:tur_x_preferred":[
         "Djursholm"
@@ -107,12 +155,12 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":471,
     "wof:belongsto":[
-        85688429,
         102191581,
         1125362217,
         85633789,
         101752307,
-        1159303035
+        1159303035,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -138,7 +186,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702777,
+    "wof:lastmodified":1563366577,
     "wof:name":"Djursholm",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

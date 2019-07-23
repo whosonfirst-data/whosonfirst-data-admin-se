@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000764,
-    "geom:area_square_m":4831596.072934,
+    "geom:area_square_m":4831596.072932,
     "geom:bbox":"17.7631323242,59.2376282082,17.7929993171,59.2785110285",
     "geom:latitude":59.258675,
     "geom:longitude":17.77727,
@@ -26,10 +26,37 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":5,
+    "name:ceb_x_preferred":[
+        "\u00c4ngsvik"
+    ],
+    "name:dan_x_preferred":[
+        "\u00c4ngsvik"
+    ],
+    "name:deu_x_preferred":[
+        "\u00c4ngsvik"
+    ],
+    "name:eng_x_preferred":[
+        "\u00c4ngsvik"
+    ],
+    "name:fra_x_preferred":[
+        "\u00c4ngsvik"
+    ],
+    "name:ita_x_preferred":[
+        "\u00c4ngsvik"
+    ],
+    "name:nan_x_preferred":[
+        "\u00c4ngsvik"
+    ],
+    "name:nds_x_preferred":[
+        "\u00c4ngsvik"
+    ],
     "name:nld_x_preferred":[
         "\u00c4ngsvik"
     ],
     "name:nno_x_preferred":[
+        "\u00c4ngsvik"
+    ],
+    "name:nob_x_preferred":[
         "\u00c4ngsvik"
     ],
     "name:nor_x_preferred":[
@@ -77,12 +104,12 @@
     "src:population":"geonames",
     "wd:wordcount":45,
     "wof:belongsto":[
-        85688429,
         102191581,
         1125409971,
         85633789,
         101815921,
-        1159302999
+        1159302999,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -110,7 +137,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702801,
+    "wof:lastmodified":1563366607,
     "wof:name":"Angsvik",
     "wof:parent_id":101815921,
     "wof:placetype":"neighbourhood",

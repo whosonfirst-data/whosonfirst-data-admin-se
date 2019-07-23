@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000187,
-    "geom:area_square_m":1176805.907502,
+    "geom:area_square_m":1176805.907501,
     "geom:bbox":"17.8692626953,59.3495715255,17.8912353516,59.3611954711",
     "geom:latitude":59.355112,
     "geom:longitude":17.881172,
@@ -26,16 +26,25 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":5,
     "mz:tier_metro":1,
+    "name:ceb_x_preferred":[
+        "R\u00e5cksta"
+    ],
     "name:eng_x_preferred":[
         "Rocksta"
     ],
     "name:eng_x_variant":[
-        "Rocksta"
+        "R\u00e5cksta"
     ],
     "name:fin_x_preferred":[
         "R\u00e5cksta"
     ],
     "name:fra_x_preferred":[
+        "R\u00e5cksta"
+    ],
+    "name:nld_x_preferred":[
+        "R\u00e5cksta"
+    ],
+    "name:nob_x_preferred":[
         "R\u00e5cksta"
     ],
     "name:nor_x_preferred":[
@@ -89,12 +98,12 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":58,
     "wof:belongsto":[
-        85688429,
         102191581,
         1125362217,
         85633789,
         101752307,
-        1159303035
+        1159303035,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -122,7 +131,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702789,
+    "wof:lastmodified":1563366516,
     "wof:name":"R\u00e5cksta",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

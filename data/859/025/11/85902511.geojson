@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001829,
-    "geom:area_square_m":11532867.323731,
+    "geom:area_square_m":11532867.323733,
     "geom:bbox":"17.6422827149,59.3116686234,17.7172143555,59.3529941409",
     "geom:latitude":59.334571,
     "geom:longitude":17.683359,
@@ -26,6 +26,42 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":5,
+    "name:ara_x_preferred":[
+        "\u0633\u062a\u064a\u0646\u0647\u0645\u0631\u0627"
+    ],
+    "name:dan_x_preferred":[
+        "Stenhamra"
+    ],
+    "name:deu_x_preferred":[
+        "Stenhamra"
+    ],
+    "name:eng_x_preferred":[
+        "Stenhamra"
+    ],
+    "name:fin_x_preferred":[
+        "Stenhamra"
+    ],
+    "name:fra_x_preferred":[
+        "Stenhamra"
+    ],
+    "name:ita_x_preferred":[
+        "Stenhamra"
+    ],
+    "name:nan_x_preferred":[
+        "Stenhamra"
+    ],
+    "name:nds_x_preferred":[
+        "Stenhamra"
+    ],
+    "name:nld_x_preferred":[
+        "Stenhamra"
+    ],
+    "name:nno_x_preferred":[
+        "Stenhamra"
+    ],
+    "name:nob_x_preferred":[
+        "Stenhamra"
+    ],
     "name:swe_x_preferred":[
         "Stenhamra"
     ],
@@ -62,12 +98,12 @@
     "src:lbl:centroid":"yerbashapes",
     "src:population":"geonames",
     "wof:belongsto":[
-        85688429,
         102191581,
         1125287095,
         85633789,
         101815907,
-        1159302999
+        1159302999,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,7 +131,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702794,
+    "wof:lastmodified":1563366535,
     "wof:name":"Stenhamra",
     "wof:parent_id":101815907,
     "wof:placetype":"neighbourhood",

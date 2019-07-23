@@ -26,6 +26,9 @@
     "name:deu_x_preferred":[
         "Bjuv"
     ],
+    "name:eng_x_preferred":[
+        "Bjuv"
+    ],
     "name:fao_x_preferred":[
         "Bjuv"
     ],
@@ -35,10 +38,19 @@
     "name:fin_x_preferred":[
         "Bjuvin kunta"
     ],
+    "name:fin_x_variant":[
+        "Bjuv"
+    ],
+    "name:fra_x_preferred":[
+        "Bjuv"
+    ],
     "name:isl_x_preferred":[
         "Bjuv"
     ],
     "name:ita_x_preferred":[
+        "Bjuv"
+    ],
+    "name:nan_x_preferred":[
         "Bjuv"
     ],
     "name:nld_x_preferred":[
@@ -47,11 +59,20 @@
     "name:nno_x_preferred":[
         "Bjuv"
     ],
+    "name:nob_x_preferred":[
+        "Bjuv"
+    ],
     "name:nor_x_preferred":[
         "Bjuv"
     ],
     "name:pol_x_preferred":[
         "Bjuv"
+    ],
+    "name:ron_x_preferred":[
+        "Bjuv"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u044c\u044e\u0432"
     ],
     "name:spa_x_preferred":[
         "Bjuv"
@@ -64,6 +85,9 @@
     ],
     "name:zho_min_nan_x_preferred":[
         "Bjuv"
+    ],
+    "name:zho_x_preferred":[
+        "\u6bd4\u592b"
     ],
     "qs:a0":"Sverige",
     "qs:a1":"*Sk\u00e5ne l\u00e4n",
@@ -117,7 +141,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702657,
+    "wof:lastmodified":1563368626,
     "wof:name":"Bjuv",
     "wof:parent_id":1125394673,
     "wof:placetype":"locality",

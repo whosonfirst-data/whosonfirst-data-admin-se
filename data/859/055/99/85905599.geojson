@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000567,
-    "geom:area_square_m":3578987.724501,
+    "geom:area_square_m":3578987.7245,
     "geom:bbox":"17.8527832031,59.2672841089,17.9036601838,59.2906693904",
     "geom:latitude":59.278858,
     "geom:longitude":17.875717,
@@ -24,7 +24,13 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "V\u00e5rberg"
+    ],
     "name:fin_x_preferred":[
+        "V\u00e5rberg"
+    ],
+    "name:nob_x_preferred":[
         "V\u00e5rberg"
     ],
     "name:nor_x_preferred":[
@@ -77,12 +83,12 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":193,
     "wof:belongsto":[
-        85688429,
         102191581,
         1125362217,
         85633789,
         101752307,
-        1159303035
+        1159303035,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -106,7 +112,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702821,
+    "wof:lastmodified":1563366574,
     "wof:name":"V\u00e5rberg",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

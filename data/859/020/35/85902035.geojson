@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001217,
-    "geom:area_square_m":7701329.467853,
+    "geom:area_square_m":7701329.46785,
     "geom:bbox":"17.8225708008,59.1843710696,17.8655297852,59.2518409059",
     "geom:latitude":59.206709,
     "geom:longitude":17.845252,
@@ -30,14 +30,83 @@
     "name:bul_x_preferred":[
         "\u0422\u0443\u043c\u0431\u0430"
     ],
+    "name:cat_x_preferred":[
+        "Tumba"
+    ],
+    "name:ceb_x_preferred":[
+        "Tumba"
+    ],
+    "name:dan_x_preferred":[
+        "Tumba"
+    ],
+    "name:deu_x_preferred":[
+        "Tumba"
+    ],
+    "name:eng_x_preferred":[
+        "Tumba"
+    ],
+    "name:fao_x_preferred":[
+        "Tumba"
+    ],
     "name:fas_x_preferred":[
         "\u062a\u0648\u0645\u0628\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Tumba"
+    ],
+    "name:fra_x_preferred":[
+        "Tumba"
+    ],
+    "name:gla_x_preferred":[
+        "Tumba"
+    ],
+    "name:isl_x_preferred":[
+        "Tumba"
+    ],
+    "name:ita_x_preferred":[
+        "Tumba"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bf\u30f3\u30d0"
     ],
     "name:kor_x_preferred":[
         "\ud23c\ubc14"
     ],
+    "name:lit_x_preferred":[
+        "Tumba"
+    ],
+    "name:min_x_preferred":[
+        "Tumba"
+    ],
+    "name:nan_x_preferred":[
+        "Tumba"
+    ],
+    "name:nds_x_preferred":[
+        "Tumba"
+    ],
+    "name:nld_x_preferred":[
+        "Tumba"
+    ],
+    "name:nno_x_preferred":[
+        "Tumba"
+    ],
+    "name:nob_x_preferred":[
+        "Tumba"
+    ],
+    "name:oci_x_preferred":[
+        "Tumba"
+    ],
     "name:pnb_x_preferred":[
         "\u062a\u0645\u0628\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Tumba"
+    ],
+    "name:por_x_preferred":[
+        "Tumba"
+    ],
+    "name:ron_x_preferred":[
+        "Tumba"
     ],
     "name:rus_x_preferred":[
         "\u0422\u0443\u043c\u0431\u0430"
@@ -48,8 +117,17 @@
     "name:swe_x_preferred":[
         "Botkyrka"
     ],
+    "name:swe_x_variant":[
+        "Tumba"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0443\u043c\u0431\u0430"
+    ],
     "name:unk_x_variant":[
         "Botkyrka"
+    ],
+    "name:zho_x_preferred":[
+        "\u901a\u5df4"
     ],
     "qs:gn_adm0_cc":"SE",
     "qs:gn_fcode":"PPLA2",
@@ -82,12 +160,12 @@
     "src:lbl:centroid":"yerbashapes",
     "src:population":"geonames",
     "wof:belongsto":[
-        85688429,
         102191581,
         1159305815,
         85633789,
         101847351,
-        1159303191
+        1159303191,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -116,7 +194,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702776,
+    "wof:lastmodified":1563366578,
     "wof:name":"Botkyrka",
     "wof:parent_id":101847351,
     "wof:placetype":"neighbourhood",

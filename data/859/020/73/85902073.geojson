@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6525791.649037,
+    "geom:area_square_m":0.0,
     "geom:bbox":"17.908335,59.517788,17.908335,59.517788",
     "geom:latitude":59.517788,
     "geom:longitude":17.908335,
@@ -26,8 +26,14 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
+    "name:ltz_x_preferred":[
+        "Eds f\u00f6rsamling"
+    ],
     "name:swe_x_preferred":[
         "Ed"
+    ],
+    "name:swe_x_variant":[
+        "Eds f\u00f6rsamling"
     ],
     "name:unk_x_variant":[
         "Ed"
@@ -63,12 +69,12 @@
     "src:lbl:centroid":"yerbashapes",
     "src:population":"geonames",
     "wof:belongsto":[
-        85688429,
         102191581,
         1125409989,
         85633789,
         101815895,
-        1159303433
+        1159303433,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,7 +101,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1531935852,
+    "wof:lastmodified":1563366581,
     "wof:name":"Ed",
     "wof:parent_id":101815895,
     "wof:placetype":"neighbourhood",

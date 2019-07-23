@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001,
-    "geom:area_square_m":6977861.70486,
+    "geom:area_square_m":6977861.704859,
     "geom:bbox":"13.1763081462,55.6281086504,13.2375758146,55.6596227181",
     "geom:latitude":55.643246,
     "geom:longitude":13.209693,
@@ -20,10 +20,19 @@
     "name:bul_x_preferred":[
         "\u0421\u0442\u0430\u0444\u0430\u043d\u0441\u0442\u043e\u0440\u043f"
     ],
+    "name:cat_x_preferred":[
+        "Staffanstorp"
+    ],
+    "name:ceb_x_preferred":[
+        "Staffanstorp"
+    ],
     "name:dan_x_preferred":[
         "Staffanstorp"
     ],
     "name:deu_x_preferred":[
+        "Staffanstorp"
+    ],
+    "name:eng_x_preferred":[
         "Staffanstorp"
     ],
     "name:fao_x_preferred":[
@@ -33,6 +42,9 @@
         "\u0633\u062a\u0641\u0646\u0633\u062a\u0648\u0644"
     ],
     "name:fin_x_preferred":[
+        "Staffanstorp"
+    ],
+    "name:fra_x_preferred":[
         "Staffanstorp"
     ],
     "name:hun_x_preferred":[
@@ -50,10 +62,16 @@
     "name:lit_x_preferred":[
         "Stafanstorpas"
     ],
+    "name:nan_x_preferred":[
+        "Staffanstorp"
+    ],
     "name:nld_x_preferred":[
         "Staffanstorp"
     ],
     "name:nno_x_preferred":[
+        "Staffanstorp"
+    ],
+    "name:nob_x_preferred":[
         "Staffanstorp"
     ],
     "name:nor_x_preferred":[
@@ -63,6 +81,12 @@
         "Staffanstorp"
     ],
     "name:por_x_preferred":[
+        "Staffanstorp"
+    ],
+    "name:ron_x_preferred":[
+        "Staffanstorp"
+    ],
+    "name:spa_x_preferred":[
         "Staffanstorp"
     ],
     "name:srp_x_preferred":[
@@ -77,8 +101,14 @@
     "name:swe_x_variant":[
         "Staffanstorps"
     ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0442\u0430\u0444\u0444\u0430\u043d\u0441\u0442\u043e\u0440\u043f"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Staffanstorp"
+    ],
+    "name:zho_x_preferred":[
+        "\u65af\u5854\u51e1\u65af\u6258\u666e"
     ],
     "qs:a0":"Sverige",
     "qs:a1":"*Sk\u00e5ne l\u00e4n",
@@ -132,7 +162,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702661,
+    "wof:lastmodified":1563368757,
     "wof:name":"Staffanstorp",
     "wof:parent_id":1159307207,
     "wof:placetype":"locality",

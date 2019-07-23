@@ -39,6 +39,9 @@
     "name:bel_x_preferred":[
         "\u041b\u0435\u043d \u0412\u0435\u0441\u0442\u043c\u0430\u043d\u043b\u0430\u043d\u0434"
     ],
+    "name:bel_x_variant":[
+        "\u043b\u0435\u043d \u0412\u0435\u0441\u0442\u043c\u0430\u043d\u043b\u0430\u043d\u0434"
+    ],
     "name:ben_x_preferred":[
         "\u09ad\u09cd\u09af\u09be\u09b8\u09cd\u099f\u09ae\u09cd\u09af\u09be\u09a8\u09b2\u09cd\u09af\u09be\u09a8\u09cd\u09a1 \u0995\u09be\u0989\u09a8\u09cd\u099f\u09bf"
     ],
@@ -54,6 +57,9 @@
     "name:cat_x_preferred":[
         "Comtat de V\u00e4stmanland"
     ],
+    "name:ceb_x_preferred":[
+        "V\u00e4stmanlands L\u00e4n"
+    ],
     "name:ces_x_preferred":[
         "V\u00e4stmanlan"
     ],
@@ -62,6 +68,9 @@
     ],
     "name:dan_x_preferred":[
         "V\u00e4stmanland"
+    ],
+    "name:dan_x_variant":[
+        "V\u00e4stmanlands l\u00e4n"
     ],
     "name:deu_x_preferred":[
         "V\u00e4stmanland"
@@ -83,8 +92,14 @@
     "name:epo_x_preferred":[
         "V\u00e4stmanland"
     ],
+    "name:epo_x_variant":[
+        "V\u00e4stmanlands l\u00e4n"
+    ],
     "name:est_x_preferred":[
         "V\u00e4stmanland"
+    ],
+    "name:est_x_variant":[
+        "V\u00e4stmanlandi l\u00e4\u00e4n"
     ],
     "name:eus_x_preferred":[
         "V\u00e4stmanlandeko konderria"
@@ -101,11 +116,17 @@
     "name:fin_x_preferred":[
         "V\u00e4stmanland"
     ],
+    "name:fin_x_variant":[
+        "V\u00e4stmanlandin l\u00e4\u00e4ni"
+    ],
     "name:fra_x_preferred":[
         "V\u00e4stmanland"
     ],
     "name:fra_x_variant":[
         "Comt\u00e9 de V\u00e4stmanland"
+    ],
+    "name:fry_x_preferred":[
+        "V\u00e4stmanlands l\u00e4n"
     ],
     "name:gla_x_preferred":[
         "V\u00e4stmanlands l\u00e4n"
@@ -142,6 +163,9 @@
     ],
     "name:kor_x_preferred":[
         "\ubca0\uc2a4\ud2b8\ub9cc\ub780\ub4dc \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ubca0\uc2a4\ud2b8\ub9cc\ub780\ub4dc\uc8fc"
     ],
     "name:lat_x_preferred":[
         "Vestmanniae Comitatus"
@@ -363,7 +387,7 @@
         "swe",
         "fin"
     ],
-    "wof:lastmodified":1561839935,
+    "wof:lastmodified":1563366639,
     "wof:name":"Vastmanland",
     "wof:parent_id":85633789,
     "wof:placetype":"region",

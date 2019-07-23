@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000271,
-    "geom:area_square_m":1711815.443922,
+    "geom:area_square_m":1711815.443921,
     "geom:bbox":"18.0936164773,59.2646358292,18.1246948242,59.2772051765",
     "geom:latitude":59.270917,
     "geom:longitude":18.109297,
@@ -26,6 +26,9 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":5,
     "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Pungpinan"
+    ],
     "name:swe_x_preferred":[
         "Pungpinan"
     ],
@@ -62,12 +65,12 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":40,
     "wof:belongsto":[
-        85688429,
         102191581,
         1125362217,
         85633789,
         101752307,
-        1159303035
+        1159303035,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,7 +98,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702789,
+    "wof:lastmodified":1563366515,
     "wof:name":"Pungpinan",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

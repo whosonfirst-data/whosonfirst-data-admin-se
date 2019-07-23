@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000201,
-    "geom:area_square_m":1269389.457385,
+    "geom:area_square_m":1269389.457386,
     "geom:bbox":"17.8879919132,59.3625950227,17.909140864,59.3751898329",
     "geom:latitude":59.36971,
     "geom:longitude":17.898055,
@@ -26,7 +26,16 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":5,
     "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Flysta"
+    ],
     "name:fin_x_preferred":[
+        "Flysta"
+    ],
+    "name:fra_x_preferred":[
+        "Flysta"
+    ],
+    "name:nob_x_preferred":[
         "Flysta"
     ],
     "name:nor_x_preferred":[
@@ -71,12 +80,12 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":508,
     "wof:belongsto":[
-        85688429,
         102191581,
         1125362217,
         85633789,
         101752307,
-        1159303035
+        1159303035,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -104,7 +113,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702779,
+    "wof:lastmodified":1563366604,
     "wof:name":"Flysta",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

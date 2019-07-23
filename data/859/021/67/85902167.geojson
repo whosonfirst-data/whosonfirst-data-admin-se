@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":11176714.228789,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.905849,57.724232,12.905849,57.724232",
     "geom:latitude":57.724232,
     "geom:longitude":12.905849,
@@ -25,6 +25,12 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Hestra"
+    ],
+    "name:fra_x_preferred":[
+        "Hestra"
+    ],
     "name:swe_x_preferred":[
         "Hestra",
         "Hestra-Handsken"
@@ -64,12 +70,12 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":119,
     "wof:belongsto":[
-        85688411,
         102191581,
         1125340375,
         85633789,
         101752293,
-        1159303073
+        1159303073,
+        85688411
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -96,7 +102,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1531935863,
+    "wof:lastmodified":1563366596,
     "wof:name":"Hestra",
     "wof:parent_id":101752293,
     "wof:placetype":"neighbourhood",

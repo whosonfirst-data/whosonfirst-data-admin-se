@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000312,
-    "geom:area_square_m":1965241.493931,
+    "geom:area_square_m":1965241.493932,
     "geom:bbox":"18.0253852215,59.3233818454,18.0532836914,59.3387924763",
     "geom:latitude":59.33175,
     "geom:longitude":18.039348,
@@ -26,10 +26,22 @@
     "mz:min_zoom":12.0,
     "mz:tier_locality":5,
     "mz:tier_metro":1,
+    "name:cat_x_preferred":[
+        "Kungsholmen"
+    ],
+    "name:dan_x_preferred":[
+        "Kungsholmen"
+    ],
     "name:deu_x_preferred":[
         "Kungsholmen"
     ],
     "name:eng_x_preferred":[
+        "Kungsholmen"
+    ],
+    "name:est_x_preferred":[
+        "Kungsholmen"
+    ],
+    "name:eus_x_preferred":[
         "Kungsholmen"
     ],
     "name:fin_x_preferred":[
@@ -38,13 +50,34 @@
     "name:fra_x_preferred":[
         "Kungsholmen"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05e0\u05d2\u05e1\u05d4\u05d5\u05dc\u05de\u05df"
+    ],
     "name:hun_x_preferred":[
+        "Kungsholmen"
+    ],
+    "name:ita_x_preferred":[
+        "Kungsholmen"
+    ],
+    "name:kor_x_preferred":[
+        "\ucff5\uc2a4\ud640\uba58\uc12c"
+    ],
+    "name:lat_x_preferred":[
         "Kungsholmen"
     ],
     "name:nld_x_preferred":[
         "Kungsholmen"
     ],
+    "name:nno_x_preferred":[
+        "Kungsholmen"
+    ],
+    "name:nob_x_preferred":[
+        "Kungsholmen"
+    ],
     "name:spa_x_preferred":[
+        "Kungsholmen"
+    ],
+    "name:sqi_x_preferred":[
         "Kungsholmen"
     ],
     "name:swe_x_preferred":[
@@ -52,6 +85,9 @@
     ],
     "name:unk_x_variant":[
         "Kungsholmen"
+    ],
+    "name:zho_x_preferred":[
+        "\u56fd\u738b\u5c9b"
     ],
     "qs:gn_adm0_cc":"SE",
     "qs:gn_fcode":"PPLX",
@@ -83,12 +119,12 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":774,
     "wof:belongsto":[
-        85688429,
         102191581,
         1125362217,
         85633789,
         101752307,
-        1159303035
+        1159303035,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -116,7 +152,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702784,
+    "wof:lastmodified":1563366527,
     "wof:name":"Kungsholmen",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

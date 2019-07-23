@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001254,
-    "geom:area_square_m":7626960.794964,
+    "geom:area_square_m":7626960.79496,
     "geom:bbox":"16.2590559464,60.5266231204,16.3253285777,60.5729190207",
     "geom:latitude":60.547923,
     "geom:longitude":16.293409,
@@ -23,10 +23,22 @@
     "name:bul_x_preferred":[
         "\u0425\u0443\u0444\u043e\u0440\u0448"
     ],
+    "name:cat_x_preferred":[
+        "Hofors"
+    ],
+    "name:ceb_x_preferred":[
+        "Hofors"
+    ],
+    "name:ces_x_preferred":[
+        "Hofors"
+    ],
     "name:dan_x_preferred":[
         "Hofors"
     ],
     "name:deu_x_preferred":[
+        "Hofors"
+    ],
+    "name:eng_x_preferred":[
         "Hofors"
     ],
     "name:fao_x_preferred":[
@@ -38,6 +50,9 @@
     "name:fin_x_preferred":[
         "Hofors"
     ],
+    "name:fra_x_preferred":[
+        "Hofors"
+    ],
     "name:hbs_x_preferred":[
         "Hofors"
     ],
@@ -47,23 +62,50 @@
     "name:ita_x_preferred":[
         "Hofors"
     ],
+    "name:lit_x_preferred":[
+        "Hoforsas"
+    ],
+    "name:nan_x_preferred":[
+        "Hofors"
+    ],
     "name:nld_x_preferred":[
         "Hofors"
     ],
     "name:nno_x_preferred":[
         "Hofors"
     ],
+    "name:nob_x_preferred":[
+        "Hofors"
+    ],
     "name:nor_x_preferred":[
+        "Hofors"
+    ],
+    "name:oci_x_preferred":[
         "Hofors"
     ],
     "name:pol_x_preferred":[
         "Hofors"
     ],
+    "name:ron_x_preferred":[
+        "Hofors"
+    ],
+    "name:som_x_preferred":[
+        "Hofors"
+    ],
+    "name:spa_x_preferred":[
+        "Hofors"
+    ],
     "name:swe_x_preferred":[
         "Hofors"
     ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0443\u0444\u043e\u0440\u0441"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Hofors"
+    ],
+    "name:zho_x_preferred":[
+        "\u80e1\u798f\u4ec0"
     ],
     "qs:a0":"Sverige",
     "qs:a1":"*G\u00e4vleborgs l\u00e4n",
@@ -117,7 +159,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702063,
+    "wof:lastmodified":1563368612,
     "wof:name":"Hofors",
     "wof:parent_id":1125373115,
     "wof:placetype":"locality",

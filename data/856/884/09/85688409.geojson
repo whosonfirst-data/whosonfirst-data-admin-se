@@ -33,6 +33,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0623\u0648\u0633\u062a\u0631\u063a\u0648\u062a\u0644\u0627\u0646\u062f"
     ],
+    "name:ast_x_preferred":[
+        "provincia d'\u00d6sterg\u00f6tland"
+    ],
     "name:bel_x_preferred":[
         "\u043b\u0435\u043d \u042d\u0441\u0442\u044d\u0440\u0433\u0451\u0442\u043b\u0430\u043d\u0434"
     ],
@@ -51,6 +54,12 @@
     "name:cat_x_preferred":[
         "\u00d6sterg\u00f6tland"
     ],
+    "name:cat_x_variant":[
+        "comtat d'\u00d6sterg\u00f6tland"
+    ],
+    "name:ceb_x_preferred":[
+        "\u00d6sterg\u00f6tlands l\u00e4n"
+    ],
     "name:ces_x_preferred":[
         "\u00d6sterg\u00f6tland"
     ],
@@ -62,6 +71,9 @@
     ],
     "name:dan_x_preferred":[
         "\u00d6sterg\u00f6tland"
+    ],
+    "name:dan_x_variant":[
+        "\u00d6sterg\u00f6tlands l\u00e4n"
     ],
     "name:deu_x_preferred":[
         "\u00d6sterg\u00f6tland"
@@ -82,8 +94,14 @@
     "name:epo_x_preferred":[
         "\u00d6sterg\u00f6tland"
     ],
+    "name:epo_x_variant":[
+        "\u00d6sterg\u00f6tlands l\u00e4n"
+    ],
     "name:est_x_preferred":[
         "\u00d6sterg\u00f6tland"
+    ],
+    "name:est_x_variant":[
+        "\u00d6sterg\u00f6tlandi l\u00e4\u00e4n"
     ],
     "name:eus_x_preferred":[
         "\u00d6sterg\u00f6tlandeko konderria"
@@ -100,6 +118,9 @@
     "name:fin_x_preferred":[
         "It\u00e4-G\u00f6tanmaa"
     ],
+    "name:fin_x_variant":[
+        "It\u00e4-G\u00f6tanmaan l\u00e4\u00e4ni"
+    ],
     "name:fra_x_preferred":[
         "\u00d6sterg\u00f6tland"
     ],
@@ -107,6 +128,9 @@
         "Ostrogothie",
         "Comt\u00e9 d'\u00d6sterg\u00f6tland",
         "comt\u00e9 d'\u00d6sterg\u00f6tland"
+    ],
+    "name:fry_x_preferred":[
+        "\u00d6sterg\u00f6tlands l\u00e4n"
     ],
     "name:gla_x_preferred":[
         "\u00d6sterg\u00f6tlands l\u00e4n"
@@ -149,6 +173,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc678\uc2a4\ud14c\ub974\uc608\ud2c0\ub780\ub4dc \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc678\uc2a4\ud14c\ub974\uc608\ud2c0\ub780\ub4dc\uc8fc"
     ],
     "name:lat_x_preferred":[
         "Gothiae Orientalis Comitatus"
@@ -224,6 +251,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0b86\u0bb8\u0bcd\u0b9f\u0bc6\u0bb0\u0bbf\u0b95\u0bcb\u0b9f\u0bcd\u0bb2\u0bbe\u0ba3\u0bcd\u0b9f\u0bcd  \u0b95\u0bb5\u0bc1\u0ba3\u0bcd\u0b9f\u0bbf"
+    ],
+    "name:tat_x_preferred":[
+        "\u04e8\u0441\u0442\u0435\u0440\u0433\u04e9\u0442\u043b\u0430\u043d\u0434"
     ],
     "name:tel_x_preferred":[
         "\u0c06\u0c38\u0c4d\u0c1f\u0c30\u0c4d\u200c\u0c17\u0c3e\u0c1f\u0c4d\u0c32\u0c3e\u0c02\u0c21\u0c4d \u0c15\u0c4c\u0c02\u0c1f\u0c40"
@@ -370,7 +400,7 @@
         "swe",
         "fin"
     ],
-    "wof:lastmodified":1561839935,
+    "wof:lastmodified":1563366632,
     "wof:name":"Ostergotland",
     "wof:parent_id":85633789,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001252,
-    "geom:area_square_m":7797218.824775,
+    "geom:area_square_m":7797218.824774,
     "geom:bbox":"18.6620091024,59.7451372781,18.7460326904,59.7779531715",
     "geom:latitude":59.760615,
     "geom:longitude":18.702887,
@@ -20,13 +20,22 @@
     "name:ara_x_preferred":[
         "\u0646\u0648\u0631\u062a\u0644\u064a\u0647"
     ],
+    "name:ast_x_preferred":[
+        "Norrt\u00e4lje"
+    ],
     "name:bul_x_preferred":[
         "\u041d\u043e\u0440\u0442\u0435\u043b\u0435"
+    ],
+    "name:ceb_x_preferred":[
+        "Norrt\u00e4lje"
     ],
     "name:dan_x_preferred":[
         "Norrt\u00e4lje"
     ],
     "name:deu_x_preferred":[
+        "Norrt\u00e4lje"
+    ],
+    "name:eng_x_preferred":[
         "Norrt\u00e4lje"
     ],
     "name:est_x_preferred":[
@@ -44,23 +53,74 @@
     "name:fin_x_preferred":[
         "Norrt\u00e4ljen kunta"
     ],
+    "name:fin_x_variant":[
+        "Norrt\u00e4lje"
+    ],
+    "name:fra_x_preferred":[
+        "Norrt\u00e4lje"
+    ],
+    "name:hrv_x_preferred":[
+        "Norrt\u00e4lje"
+    ],
+    "name:ind_x_preferred":[
+        "Norrt\u00e4lje"
+    ],
+    "name:isl_x_preferred":[
+        "Norrt\u00e4lje"
+    ],
+    "name:ita_x_preferred":[
+        "Norrt\u00e4lje"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ce\u30eb\u30c6\u30ea\u30a8"
+    ],
+    "name:kor_x_preferred":[
+        "\ub178\ub974\ud154\ub9ac\uc5d0"
+    ],
     "name:lat_x_preferred":[
         "Telga borealis"
     ],
     "name:lit_x_preferred":[
         "Nortelj\u0117"
     ],
+    "name:nan_x_preferred":[
+        "Norrt\u00e4lje"
+    ],
+    "name:nld_x_preferred":[
+        "Norrt\u00e4lje"
+    ],
+    "name:nno_x_preferred":[
+        "Norrt\u00e4lje"
+    ],
+    "name:nob_x_preferred":[
+        "Norrt\u00e4lje"
+    ],
     "name:oss_x_preferred":[
         "\u041d\u043e\u0440\u0440\u0442\u0435\u043b\u044c\u0435"
     ],
+    "name:pol_x_preferred":[
+        "Norrt\u00e4lje"
+    ],
+    "name:por_x_preferred":[
+        "Norrt\u00e4lje"
+    ],
+    "name:ron_x_preferred":[
+        "Norrt\u00e4lje"
+    ],
     "name:rus_x_preferred":[
         "\u041d\u043e\u0440\u0440\u0442\u0435\u043b\u044c\u0435"
+    ],
+    "name:slv_x_preferred":[
+        "Norrt\u00e4lje"
     ],
     "name:spa_x_preferred":[
         "Norrt\u00e4lje"
     ],
     "name:srp_x_preferred":[
         "\u041d\u043e\u0440\u0442\u0435\u0459\u0435"
+    ],
+    "name:swa_x_preferred":[
+        "Norrt\u00e4lje"
     ],
     "name:swe_x_colloquial":[
         "Norrtaelje",
@@ -74,11 +134,17 @@
     "name:swe_x_variant":[
         "Norrt\u00e4ljes"
     ],
+    "name:tur_x_preferred":[
+        "Norrt\u00e4lje"
+    ],
     "name:ukr_x_preferred":[
         "\u041d\u043e\u0440\u0440\u0442\u0435\u043b\u044c\u0454"
     ],
     "name:unk_x_variant":[
         "Norrtelje"
+    ],
+    "name:vol_x_preferred":[
+        "Norrt\u00e4lje"
     ],
     "name:zho_x_preferred":[
         "\u8bfa\u5c14\u6cf0\u5229\u8036"
@@ -135,7 +201,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702745,
+    "wof:lastmodified":1563368832,
     "wof:name":"Norrt\u00e4lje",
     "wof:parent_id":1125286437,
     "wof:placetype":"locality",

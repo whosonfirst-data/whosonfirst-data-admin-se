@@ -26,7 +26,16 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "K\u00e4lvesta"
+    ],
     "name:fin_x_preferred":[
+        "K\u00e4lvesta"
+    ],
+    "name:fra_x_preferred":[
+        "K\u00e4lvesta"
+    ],
+    "name:nob_x_preferred":[
         "K\u00e4lvesta"
     ],
     "name:nor_x_preferred":[
@@ -75,12 +84,12 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":135,
     "wof:belongsto":[
-        85688429,
         102191581,
         1125362217,
         85633789,
         101752307,
-        1159303035
+        1159303035,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -108,7 +117,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702783,
+    "wof:lastmodified":1563366524,
     "wof:name":"K\u00e4lvesta",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

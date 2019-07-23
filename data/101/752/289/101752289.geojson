@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006527,
-    "geom:area_square_m":42061175.164031,
+    "geom:area_square_m":42061175.164037,
     "geom:bbox":"16.0875117497,58.5504494524,16.2739888646,58.62921547",
     "geom:latitude":58.591089,
     "geom:longitude":16.179843,
@@ -25,7 +25,11 @@
         "\u0413\u043e\u0440\u0430\u0434 \u041d\u043e\u0440\u0447\u044d\u043f\u0456\u043d\u0433"
     ],
     "name:bel_x_variant":[
-        "\u041d\u0430\u0440\u0447\u044d\u043f\u0456\u043d\u0433"
+        "\u041d\u0430\u0440\u0447\u044d\u043f\u0456\u043d\u0433",
+        "\u041d\u043e\u0440\u0447\u044d\u043f\u0456\u043d\u0433"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a8\u09b0\u0995\u09aa\u09bf\u0982"
     ],
     "name:bos_x_preferred":[
         "Norrk\u00f6ping"
@@ -39,7 +43,13 @@
     "name:cat_x_preferred":[
         "Norrk\u00f6ping"
     ],
+    "name:ceb_x_preferred":[
+        "Norrk\u00f6ping"
+    ],
     "name:ces_x_preferred":[
+        "Norrk\u00f6ping"
+    ],
+    "name:cor_x_preferred":[
         "Norrk\u00f6ping"
     ],
     "name:cym_x_preferred":[
@@ -51,11 +61,32 @@
     "name:deu_x_preferred":[
         "Norrk\u00f6ping"
     ],
+    "name:ell_x_preferred":[
+        "\u039d\u03cc\u03c1\u03c3\u03b5\u03c0\u03b9\u03bd\u03b3\u03ba"
+    ],
+    "name:eng_x_preferred":[
+        "Norrk\u00f6ping"
+    ],
     "name:eng_x_variant":[
         "NRK"
     ],
+    "name:epo_x_preferred":[
+        "Norrk\u00f6ping"
+    ],
+    "name:est_x_preferred":[
+        "Norrk\u00f6ping"
+    ],
+    "name:eus_x_preferred":[
+        "Norrk\u00f6ping"
+    ],
+    "name:fao_x_preferred":[
+        "Norrk\u00f6ping"
+    ],
     "name:fas_x_preferred":[
         "\u0646\u0648\u0631\u0634\u0648\u067e\u06cc\u0646\u06af"
+    ],
+    "name:fas_x_variant":[
+        "\u0646\u0648\u0631\u06a9\u0648\u067e\u06cc\u0646\u06af"
     ],
     "name:fin_x_preferred":[
         "Norrk\u00f6ping"
@@ -63,11 +94,59 @@
     "name:fra_x_preferred":[
         "Norrk\u00f6ping"
     ],
+    "name:frr_x_preferred":[
+        "Norrk\u00f6ping"
+    ],
+    "name:fry_x_preferred":[
+        "Norrk\u00f6ping"
+    ],
+    "name:gla_x_preferred":[
+        "Norrk\u00f6ping"
+    ],
+    "name:glg_x_preferred":[
+        "Norrk\u00f6ping"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aa8\u0acb\u0ab0\u0a95\u0acb\u0aaa\u0abf\u0a82\u0a97"
+    ],
     "name:heb_x_preferred":[
         "\u05e0\u05d5\u05e8\u05e9\u05e4\u05d9\u05e0\u05d2"
     ],
+    "name:hin_x_preferred":[
+        "\u0928\u094b\u0930\u0930\u094d\u0915\u094b\u092a\u093f\u0902\u0917"
+    ],
+    "name:hrv_x_preferred":[
+        "Norrk\u00f6ping"
+    ],
+    "name:hun_x_preferred":[
+        "Norrk\u00f6ping"
+    ],
+    "name:hye_x_preferred":[
+        "\u0546\u0578\u0580\u0579\u0575\u0578\u057a\u056b\u0576\u0563"
+    ],
+    "name:ido_x_preferred":[
+        "Norrk\u00f6ping"
+    ],
+    "name:ile_x_preferred":[
+        "Norrk\u00f6ping"
+    ],
+    "name:ind_x_preferred":[
+        "Norrk\u00f6ping"
+    ],
+    "name:isl_x_preferred":[
+        "Norrk\u00f6ping"
+    ],
+    "name:ita_x_preferred":[
+        "Norrk\u00f6ping"
+    ],
     "name:jpn_x_preferred":[
         "\u30ce\u30fc\u30b7\u30e7\u30fc\u30d4\u30f3\u30b0"
+    ],
+    "name:kal_x_preferred":[
+        "Norrk\u00f6ping"
+    ],
+    "name:kan_x_preferred":[
+        "\u0ca8\u0cca\u0cb0\u0ccd\u0cb0\u0ccd\u0c95\u0cca\u0caa\u0cbf\u0c82\u0c97\u0ccd"
     ],
     "name:kat_x_preferred":[
         "\u10dc\u10dd\u10e0\u10e9\u10d4\u10de\u10d8\u10dc\u10d2\u10d8"
@@ -87,13 +166,34 @@
     "name:lit_x_preferred":[
         "Nor\u0161iopingas"
     ],
+    "name:mar_x_preferred":[
+        "\u0928\u0949\u0930\u0915\u094b\u092a\u093f\u0902\u0917"
+    ],
+    "name:min_x_preferred":[
+        "Norrk\u00f6ping"
+    ],
     "name:mkd_x_preferred":[
         "\u041d\u043e\u0440\u0448\u0435\u043f\u0438\u043d\u0433"
     ],
     "name:mon_x_preferred":[
         "\u041d\u043e\u0440\u0440\u0448\u0451\u043f\u0438\u043d"
     ],
+    "name:mri_x_preferred":[
+        "Norrk\u00f6ping"
+    ],
+    "name:msa_x_preferred":[
+        "Norrkoping"
+    ],
+    "name:nan_x_preferred":[
+        "Norrk\u00f6ping"
+    ],
     "name:nld_x_preferred":[
+        "Norrk\u00f6ping"
+    ],
+    "name:nno_x_preferred":[
+        "Norrk\u00f6ping"
+    ],
+    "name:nob_x_preferred":[
         "Norrk\u00f6ping"
     ],
     "name:nor_x_colloquial":[
@@ -103,6 +203,9 @@
         "Norrk\u00f8ping"
     ],
     "name:nor_x_variant":[
+        "Norrk\u00f6ping"
+    ],
+    "name:oci_x_preferred":[
         "Norrk\u00f6ping"
     ],
     "name:oss_x_preferred":[
@@ -120,11 +223,35 @@
     "name:por_x_variant":[
         "Norrk\u00f6ping"
     ],
+    "name:ron_x_preferred":[
+        "Norrk\u00f6ping"
+    ],
     "name:rus_x_preferred":[
         "\u041d\u043e\u0440\u0440\u0447\u0451\u043f\u0438\u043d\u0433"
     ],
+    "name:sco_x_preferred":[
+        "Norrk\u00f6ping"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db1\u0ddc\u0dbb\u0dca\u0d9a\u0ddd\u0db4\u0dd2\u0db1\u0dca"
+    ],
+    "name:slk_x_preferred":[
+        "Norrk\u00f6ping"
+    ],
+    "name:slv_x_preferred":[
+        "Norrk\u00f6ping"
+    ],
+    "name:spa_x_preferred":[
+        "Norrk\u00f6ping"
+    ],
+    "name:sqi_x_preferred":[
+        "Norrk\u00f6ping"
+    ],
     "name:srp_x_preferred":[
         "\u041d\u043e\u0440\u045b\u0435\u043f\u0438\u043d\u0433"
+    ],
+    "name:swa_x_preferred":[
+        "Norrk\u00f6ping"
     ],
     "name:swe_x_colloquial":[
         "Norrkoeping",
@@ -142,13 +269,37 @@
     "name:swe_x_variant":[
         "Norrk\u00f6pings"
     ],
+    "name:szl_x_preferred":[
+        "Norrk\u00f6ping"
+    ],
+    "name:tam_x_preferred":[
+        "\u0ba8\u0bbe\u0bb0\u0bcd\u0b95\u0bcb\u0baa\u0bbf\u0b99\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u041d\u043e\u0440\u0447\u04e9\u043f\u0438\u04a3"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c28\u0c4b\u0c30\u0c4d\u0c30\u0c4d\u0c15\u0c4b\u0c2a\u0c3f\u0c02\u0c17\u0c4d"
+    ],
     "name:tha_x_preferred":[
         "\u0e19\u0e2d\u0e23\u0e4c\u0e40\u0e0a\u0e2d\u0e1b\u0e34\u0e07"
+    ],
+    "name:tur_x_preferred":[
+        "Norrk\u00f6ping"
     ],
     "name:ukr_x_preferred":[
         "\u041d\u043e\u0440\u0440\u0447\u0435\u043f\u0456\u043d\u0433"
     ],
+    "name:urd_x_preferred":[
+        "\u0646\u0648\u0631\u06a9\u0648\u067e\u06cc\u0646\u062c"
+    ],
+    "name:vie_x_preferred":[
+        "Norrk\u00f6ping"
+    ],
     "name:vol_x_preferred":[
+        "Norrk\u00f6ping"
+    ],
+    "name:war_x_preferred":[
         "Norrk\u00f6ping"
     ],
     "name:yid_x_preferred":[
@@ -304,7 +455,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529703106,
+    "wof:lastmodified":1563368574,
     "wof:name":"Norrk\u00f6ping",
     "wof:parent_id":1125384293,
     "wof:placetype":"locality",

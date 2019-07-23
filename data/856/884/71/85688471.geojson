@@ -39,11 +39,17 @@
     "name:bel_x_preferred":[
         "\u041b\u0435\u043d \u041d\u043e\u0440\u0431\u043e\u0442\u044d\u043d"
     ],
+    "name:bel_x_variant":[
+        "\u043b\u0435\u043d \u041d\u0430\u0440\u0431\u043e\u0442\u044d\u043d"
+    ],
     "name:ben_x_preferred":[
         "\u09a8\u09b0\u09ac\u09cd\u09b0\u09cb\u099f\u09a8 \u0995\u09be\u0989\u09a8\u09cd\u099f\u09bf"
     ],
     "name:bos_x_preferred":[
         "Norrbotten"
+    ],
+    "name:bos_x_variant":[
+        "Kotar Norrbotten"
     ],
     "name:bre_x_preferred":[
         "Norrbotten"
@@ -53,6 +59,9 @@
     ],
     "name:cat_x_preferred":[
         "Norrbotten"
+    ],
+    "name:ceb_x_preferred":[
+        "Norrbottens l\u00e4n"
     ],
     "name:ces_x_preferred":[
         "Norrbotten"
@@ -65,6 +74,9 @@
     ],
     "name:dan_x_preferred":[
         "Norrbotten"
+    ],
+    "name:dan_x_variant":[
+        "Norrbottens l\u00e4n"
     ],
     "name:deu_x_preferred":[
         "Norrbotten"
@@ -84,6 +96,9 @@
     "name:epo_x_preferred":[
         "Norrbotten"
     ],
+    "name:epo_x_variant":[
+        "Norrbottens l\u00e4n"
+    ],
     "name:est_x_preferred":[
         "Norrbotteni l\u00e4\u00e4n"
     ],
@@ -102,6 +117,9 @@
     "name:fin_x_preferred":[
         "Norrbotten"
     ],
+    "name:fin_x_variant":[
+        "Norrbottenin l\u00e4\u00e4ni"
+    ],
     "name:fra_x_preferred":[
         "Norrbotten"
     ],
@@ -110,6 +128,12 @@
         "Comt\u00e9 de Norbotten",
         "Norbotten",
         "Comt\u00e9 de Norrbotten"
+    ],
+    "name:frr_x_preferred":[
+        "Norrbotten"
+    ],
+    "name:fry_x_preferred":[
+        "Norrbottens l\u00e4n"
     ],
     "name:gla_x_preferred":[
         "Norrbottens l\u00e4n"
@@ -135,6 +159,9 @@
     "name:hrv_x_preferred":[
         "Norrbotten"
     ],
+    "name:hrv_x_variant":[
+        "\u017dupanija Norrbotten"
+    ],
     "name:hun_x_preferred":[
         "Norrbotten megye"
     ],
@@ -153,11 +180,17 @@
     "name:jpn_x_preferred":[
         "\u30ce\u30fc\u30eb\u30dc\u30c3\u30c6\u30f3\u5730\u65b9"
     ],
+    "name:jpn_x_variant":[
+        "\u30ce\u30fc\u30eb\u30dc\u30c3\u30c6\u30f3\u770c"
+    ],
     "name:kan_x_preferred":[
         "\u0ca8\u0cbe\u0cb0\u0ccd\u0cac\u0cb0\u0ccd\u0c9f\u0ccc\u0ca8\u0ccd \u0c95\u0ccc\u0c82\u0c9f\u0cbf"
     ],
     "name:kor_x_preferred":[
         "\ub178\ub974\ubcf4\ud150"
+    ],
+    "name:kor_x_variant":[
+        "\ub178\ub974\ubcf4\ud150\uc8fc"
     ],
     "name:lat_x_preferred":[
         "Botnia septentrionalis"
@@ -195,6 +228,9 @@
     "name:nno_x_preferred":[
         "Norrbotten"
     ],
+    "name:nno_x_variant":[
+        "Norrbottens l\u00e4n"
+    ],
     "name:nob_x_preferred":[
         "Norrbottens l\u00e4n"
     ],
@@ -215,6 +251,9 @@
     ],
     "name:ron_x_preferred":[
         "Norrbottens l\u00e4n"
+    ],
+    "name:rue_x_preferred":[
+        "\u041a\u0440\u0430\u0439 \u041d\u043e\u0440\u0431\u043e\u0442\u0442\u0435\u043d"
     ],
     "name:rus_x_preferred":[
         "\u041d\u043e\u0440\u0440\u0431\u043e\u0442\u0442\u0435\u043d"
@@ -409,7 +448,7 @@
         "swe",
         "fin"
     ],
-    "wof:lastmodified":1561839935,
+    "wof:lastmodified":1563366637,
     "wof:name":"Norrbotten",
     "wof:parent_id":85633789,
     "wof:placetype":"region",

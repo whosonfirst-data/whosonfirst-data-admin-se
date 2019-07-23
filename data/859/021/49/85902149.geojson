@@ -26,7 +26,22 @@
     "mz:min_zoom":12.0,
     "mz:tier_locality":5,
     "mz:tier_metro":1,
+    "name:ceb_x_preferred":[
+        "H\u00e4gersten"
+    ],
+    "name:eng_x_preferred":[
+        "H\u00e4gersten"
+    ],
     "name:fin_x_preferred":[
+        "H\u00e4gersten"
+    ],
+    "name:fra_x_preferred":[
+        "H\u00e4gersten"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d8\u30fc\u30b2\u30eb\u30b9\u30c6\u30f3"
+    ],
+    "name:nob_x_preferred":[
         "H\u00e4gersten"
     ],
     "name:nor_x_preferred":[
@@ -78,12 +93,12 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":99,
     "wof:belongsto":[
-        85688429,
         102191581,
         1125362217,
         85633789,
         101752307,
-        1159303035
+        1159303035,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -111,7 +126,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702780,
+    "wof:lastmodified":1563366604,
     "wof:name":"H\u00e4gersten",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

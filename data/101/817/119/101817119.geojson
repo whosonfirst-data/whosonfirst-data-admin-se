@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002501,
-    "geom:area_square_m":16155627.740617,
+    "geom:area_square_m":16155627.740614,
     "geom:bbox":"13.0896950166,58.4759843106,13.210895954,58.5433693114",
     "geom:latitude":58.504688,
     "geom:longitude":13.145714,
@@ -17,13 +17,25 @@
     "mps:longitude":13.154974,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0644\u064a\u062f\u0634\u0648\u0628\u0646\u063a"
+    ],
+    "name:bel_x_preferred":[
+        "\u041b\u0456\u0434\u0447\u043e\u043f\u0456\u043d\u0433"
+    ],
     "name:bul_x_preferred":[
         "\u041b\u0438\u0434\u0448\u044c\u043e\u043f\u0438\u043d\u0433"
+    ],
+    "name:cat_x_preferred":[
+        "Lidk\u00f6ping"
     ],
     "name:dan_x_preferred":[
         "Lidk\u00f6ping"
     ],
     "name:deu_x_preferred":[
+        "Lidk\u00f6ping"
+    ],
+    "name:eng_x_preferred":[
         "Lidk\u00f6ping"
     ],
     "name:eng_x_variant":[
@@ -47,22 +59,67 @@
     "name:hrv_x_preferred":[
         "Lidk\u00f6ping"
     ],
+    "name:isl_x_preferred":[
+        "Lidk\u00f6ping"
+    ],
+    "name:ita_x_preferred":[
+        "Lidk\u00f6ping"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ea\u30f3\u30b7\u30e7\u30fc\u30d4\u30f3\u30b0"
+    ],
     "name:kat_x_preferred":[
         "\u10da\u10d8\u10d3\u10e9\u10d4\u10de\u10d8\u10dc\u10d2\u10d8"
     ],
     "name:kaz_x_preferred":[
         "\u041b\u0438\u0434\u0447\u0451\u043f\u0438\u043d\u0433"
     ],
+    "name:kor_x_preferred":[
+        "\ub9ac\ub4dc\uc170\ud551"
+    ],
     "name:lat_x_preferred":[
         "Lidecopia"
     ],
+    "name:lat_x_variant":[
+        "Lidcopia"
+    ],
     "name:lit_x_preferred":[
         "Lid\u0161iopingas"
+    ],
+    "name:min_x_preferred":[
+        "Lidk\u00f6ping"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041b\u0438\u0434\u0448\u0435\u043f\u0438\u043d\u0433"
+    ],
+    "name:nan_x_preferred":[
+        "Lidk\u00f6ping"
+    ],
+    "name:nld_x_preferred":[
+        "Lidk\u00f6ping"
+    ],
+    "name:nno_x_preferred":[
+        "Lidk\u00f6ping"
+    ],
+    "name:nob_x_preferred":[
+        "Lidk\u00f6ping"
     ],
     "name:nor_x_preferred":[
         "Lidk\u00f8ping"
     ],
     "name:nor_x_variant":[
+        "Lidk\u00f6ping"
+    ],
+    "name:oci_x_preferred":[
+        "Lidk\u00f6ping"
+    ],
+    "name:pol_x_preferred":[
+        "Lidk\u00f6ping"
+    ],
+    "name:por_x_preferred":[
+        "Lidk\u00f6ping"
+    ],
+    "name:ron_x_preferred":[
         "Lidk\u00f6ping"
     ],
     "name:rus_x_preferred":[
@@ -71,11 +128,20 @@
     "name:rus_x_variant":[
         "\u041b\u0438\u0434\u0447\u0451\u043f\u0438\u043d\u0433"
     ],
+    "name:sco_x_preferred":[
+        "Lidk\u00f6ping"
+    ],
+    "name:slv_x_preferred":[
+        "Lidk\u00f6ping"
+    ],
     "name:spa_x_preferred":[
         "Lidk\u00f6ping"
     ],
     "name:srp_x_preferred":[
         "\u041b\u0438\u0434\u045b\u0435\u043f\u0438\u043d\u0433"
+    ],
+    "name:swa_x_preferred":[
+        "Lidk\u00f6ping"
     ],
     "name:swe_x_colloquial":[
         "Lidkoeping",
@@ -88,6 +154,15 @@
     ],
     "name:swe_x_variant":[
         "Lidk\u00f6pings"
+    ],
+    "name:tur_x_preferred":[
+        "Lidk\u00f6ping"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0456\u0434\u0447\u0435\u043f\u0456\u043d\u0433"
+    ],
+    "name:vol_x_preferred":[
+        "Lidk\u00f6ping"
     ],
     "name:zho_x_preferred":[
         "\u5229\u5fb7\u96ea\u5e73"
@@ -144,7 +219,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702226,
+    "wof:lastmodified":1563368770,
     "wof:name":"Lidk\u00f6ping",
     "wof:parent_id":1125358121,
     "wof:placetype":"locality",

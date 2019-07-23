@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002425,
-    "geom:area_square_m":16756254.221975,
+    "geom:area_square_m":16756254.221973,
     "geom:bbox":"14.0673400157,55.9904273052,14.1843314647,56.062924134",
     "geom:latitude":56.027932,
     "geom:longitude":14.142124,
@@ -18,8 +18,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":5.6,
+    "name:ara_x_preferred":[
+        "\u0643\u0631\u064a\u0633\u062a\u064a\u0627\u0646\u0633\u062a\u0627\u062f"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041a\u0440\u044b\u0441\u0442\u044b\u044f\u043d\u0441\u0442\u0430\u0434"
+    ],
+    "name:bel_x_variant":[
+        "\u041a\u0440\u044b\u0441\u0446\u0456\u044f\u043d\u0441\u0442\u0430\u0434"
     ],
     "name:bre_x_preferred":[
         "Kristianstad"
@@ -27,7 +33,19 @@
     "name:bul_x_preferred":[
         "\u041a\u0440\u0438\u0448\u0430\u043d\u0441\u0442\u0430\u0434"
     ],
+    "name:bul_x_variant":[
+        "\u041a\u0440\u0438\u0445\u0430\u043d\u0441\u0442\u0430\u0434"
+    ],
     "name:cat_x_preferred":[
+        "Kristianstad"
+    ],
+    "name:ceb_x_preferred":[
+        "Kristianstad"
+    ],
+    "name:ces_x_preferred":[
+        "Kristianstad"
+    ],
+    "name:cym_x_preferred":[
         "Kristianstad"
     ],
     "name:dan_x_preferred":[
@@ -37,6 +55,9 @@
         "Christiansstad"
     ],
     "name:deu_x_preferred":[
+        "Kristianstad"
+    ],
+    "name:eng_x_preferred":[
         "Kristianstad"
     ],
     "name:eng_x_variant":[
@@ -57,14 +78,23 @@
     "name:fin_x_preferred":[
         "Kristianstad"
     ],
+    "name:fit_x_preferred":[
+        "Kristianstad"
+    ],
     "name:fra_x_preferred":[
         "Kristianstad"
     ],
     "name:frr_x_preferred":[
         "Kristianstad"
     ],
+    "name:glg_x_preferred":[
+        "Kristianstad"
+    ],
     "name:hbs_x_preferred":[
         "Kristianstad"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05e8\u05d9\u05e1\u05d8\u05d9\u05d0\u05e0\u05e1\u05d0\u05d3"
     ],
     "name:hrv_x_preferred":[
         "Kristianstad"
@@ -84,11 +114,17 @@
     "name:jpn_x_preferred":[
         "\u30af\u30ea\u30b7\u30e3\u30f3\u30b9\u30bf\u30fc\u30c9"
     ],
+    "name:jpn_x_variant":[
+        "\u30af\u30ea\u30b9\u30c1\u30e3\u30f3\u30b9\u30bf\u30fc\u30c9"
+    ],
     "name:kal_x_preferred":[
         "Kristianstad"
     ],
     "name:kat_x_preferred":[
         "\u10d9\u10e0\u10d8\u10e1\u10e2\u10d8\u10d0\u10dc\u10e1\u10e2\u10d0\u10d3\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u0440\u0438\u0441\u0442\u0438\u0430\u043d\u0441\u0442\u0430\u0434"
     ],
     "name:kor_x_preferred":[
         "\ud06c\ub9ac\uc2a4\ud2f0\uc548\uc2a4\ud0c0\ub4dc"
@@ -96,8 +132,14 @@
     "name:lat_x_preferred":[
         "Christianostadium"
     ],
+    "name:lat_x_variant":[
+        "Christianopolis"
+    ],
     "name:lit_x_preferred":[
         "Kristianstadas"
+    ],
+    "name:ltz_x_preferred":[
+        "Kristianstad"
     ],
     "name:min_x_preferred":[
         "Kristianstad"
@@ -105,13 +147,22 @@
     "name:mrj_x_preferred":[
         "\u041a\u0440\u0438\u0441\u0442\u0438\u0430\u043d\u0441\u0442\u0430\u0434"
     ],
+    "name:nan_x_preferred":[
+        "Kristianstad"
+    ],
     "name:nld_x_preferred":[
         "Kristianstad"
     ],
     "name:nno_x_preferred":[
         "Kristianstad"
     ],
+    "name:nob_x_preferred":[
+        "Kristianstad"
+    ],
     "name:nor_x_preferred":[
+        "Kristianstad"
+    ],
+    "name:oci_x_preferred":[
         "Kristianstad"
     ],
     "name:oss_x_preferred":[
@@ -128,6 +179,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041a\u0440\u0438\u0441\u0442\u0438\u0430\u043d\u0441\u0442\u0430\u0434"
+    ],
+    "name:sco_x_preferred":[
+        "Kristianstad"
     ],
     "name:spa_x_preferred":[
         "Kristianstad"
@@ -165,6 +219,12 @@
     ],
     "name:vol_x_preferred":[
         "Kristianstad"
+    ],
+    "name:war_x_preferred":[
+        "Kristianstad"
+    ],
+    "name:wuu_x_preferred":[
+        "\u514b\u91cc\u65af\u8482\u5b89\u65af\u5854\u5fb7"
     ],
     "name:zho_min_nan_x_preferred":[
         "Kristianstad"
@@ -316,7 +376,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702652,
+    "wof:lastmodified":1563368891,
     "wof:name":"Kristianstad",
     "wof:parent_id":1125287263,
     "wof:placetype":"locality",

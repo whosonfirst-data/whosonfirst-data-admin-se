@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002101,
-    "geom:area_square_m":11727757.64252,
+    "geom:area_square_m":11727757.642521,
     "geom:bbox":"17.2128193863,63.1475462429,17.3385668744,63.1888618222",
     "geom:latitude":63.168344,
     "geom:longitude":17.27577,
@@ -17,13 +17,25 @@
     "mps:longitude":17.274818,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0421\u043e\u043b\u0435\u0444\u0442\u0435\u0430"
+    ],
     "name:bul_x_preferred":[
         "\u0421\u043e\u043b\u0435\u0444\u0442\u0435\u043e"
+    ],
+    "name:ceb_x_preferred":[
+        "Sollefte\u00e5"
+    ],
+    "name:ces_x_preferred":[
+        "Sollefte\u00e5"
     ],
     "name:dan_x_preferred":[
         "Sollefte\u00e5"
     ],
     "name:deu_x_preferred":[
+        "Sollefte\u00e5"
+    ],
+    "name:eng_x_preferred":[
         "Sollefte\u00e5"
     ],
     "name:fao_x_preferred":[
@@ -35,8 +47,14 @@
     "name:fin_x_preferred":[
         "Sollefte\u00e5n kunta"
     ],
+    "name:fin_x_variant":[
+        "Sollefte\u00e5"
+    ],
     "name:fra_x_preferred":[
         "Sollefte\u00e5"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d5\u05dc\u05e4\u05d8\u05d0\u05d5"
     ],
     "name:hrv_x_preferred":[
         "Sollefte\u00e5"
@@ -47,8 +65,41 @@
     "name:ita_x_preferred":[
         "Sollefte\u00e5"
     ],
+    "name:jpn_x_preferred":[
+        "\u30bd\u30ec\u30d5\u30c6\u30aa\u30fc"
+    ],
+    "name:kor_x_preferred":[
+        "\uc194\ub808\ud504\ud14c\uc624"
+    ],
+    "name:nan_x_preferred":[
+        "Sollefte\u00e5"
+    ],
+    "name:nld_x_preferred":[
+        "Sollefte\u00e5"
+    ],
+    "name:nno_x_preferred":[
+        "Sollefte\u00e5"
+    ],
+    "name:nob_x_preferred":[
+        "Sollefte\u00e5"
+    ],
+    "name:pol_x_preferred":[
+        "Sollefte\u00e5"
+    ],
+    "name:por_x_preferred":[
+        "Sollefte\u00e5"
+    ],
+    "name:ron_x_preferred":[
+        "Sollefte\u00e5"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u043e\u043b\u043b\u0435\u0444\u0442\u0435\u043e"
+    ],
+    "name:slv_x_preferred":[
+        "Sollefte\u00e5"
+    ],
+    "name:sqi_x_preferred":[
+        "Sollefte\u00e5"
     ],
     "name:swe_x_colloquial":[
         "Solleftea",
@@ -61,6 +112,18 @@
     ],
     "name:swe_x_variant":[
         "Sollefte\u00e5s"
+    ],
+    "name:tur_x_preferred":[
+        "Sollefte\u00e5"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043e\u043b\u043b\u0435\u0444\u0442\u0435\u043e"
+    ],
+    "name:vol_x_preferred":[
+        "Sollefte\u00e5"
+    ],
+    "name:zho_x_preferred":[
+        "\u7d22\u840a\u592b\u7279\u5967"
     ],
     "qs:a0":"Sverige",
     "qs:a1":"*V\u00e4sternorrlands l\u00e4n",
@@ -117,7 +180,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702999,
+    "wof:lastmodified":1563368914,
     "wof:name":"Sollefte\u00e5",
     "wof:parent_id":1125423327,
     "wof:placetype":"locality",

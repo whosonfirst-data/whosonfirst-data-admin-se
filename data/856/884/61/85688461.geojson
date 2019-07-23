@@ -33,8 +33,14 @@
     "name:ara_x_preferred":[
         "\u064a\u0645\u062a\u0644\u0627\u0646\u062f"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u062d\u0627\u0641\u0638\u0629 \u064a\u0645\u062a\u0644\u0627\u0646\u062f"
+    ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u0415\u043c\u0442\u043b\u0430\u043d\u0434"
+    ],
+    "name:bel_x_variant":[
+        "\u043b\u0435\u043d \u0415\u043c\u0442\u043b\u0430\u043d\u0434"
     ],
     "name:ben_x_preferred":[
         "\u099c\u09be\u09ae\u099f\u09b2\u09cd\u09af\u09be\u09a8\u09cd\u09a1 \u0995\u09be\u0989\u09a8\u09cd\u099f\u09bf"
@@ -51,14 +57,23 @@
     "name:cat_x_preferred":[
         "J\u00e4mtland"
     ],
+    "name:ceb_x_preferred":[
+        "J\u00e4mtlands l\u00e4n"
+    ],
     "name:ces_x_preferred":[
         "J\u00e4mtland"
+    ],
+    "name:chv_x_preferred":[
+        "\u0415\u043c\u0442\u043b\u0430\u043d\u0434"
     ],
     "name:cor_x_preferred":[
         "Konteth J\u00e4mtland"
     ],
     "name:dan_x_preferred":[
         "J\u00e4mtland"
+    ],
+    "name:dan_x_variant":[
+        "J\u00e4mtlands l\u00e4n"
     ],
     "name:deu_x_preferred":[
         "J\u00e4mtland"
@@ -80,8 +95,14 @@
     "name:epo_x_preferred":[
         "J\u00e4mtland"
     ],
+    "name:epo_x_variant":[
+        "J\u00e4mtlands l\u00e4n"
+    ],
     "name:est_x_preferred":[
         "J\u00e4mtland"
+    ],
+    "name:est_x_variant":[
+        "J\u00e4mtlandi l\u00e4\u00e4n"
     ],
     "name:eus_x_preferred":[
         "J\u00e4mtlandeko konderria"
@@ -100,6 +121,12 @@
     ],
     "name:fra_x_variant":[
         "J\u00e4mtland"
+    ],
+    "name:frr_x_preferred":[
+        "J\u00e4mtland"
+    ],
+    "name:fry_x_preferred":[
+        "J\u00e4mtlands l\u00e4n"
     ],
     "name:gla_x_preferred":[
         "J\u00e4mtlands l\u00e4n"
@@ -139,6 +166,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc618\ud2c0\ub780\ub4dc \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc618\ud2c0\ub780\ub4dc\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Jemtlandes l\u0113ne"
@@ -184,6 +214,9 @@
     ],
     "name:ron_x_preferred":[
         "J\u00e4mtlands l\u00e4n"
+    ],
+    "name:rue_x_preferred":[
+        "\u041a\u0440\u0430\u0439 \u0454\u043c\u0442\u043b\u0430\u043d\u0434"
     ],
     "name:rus_x_preferred":[
         "\u0415\u043c\u0442\u043b\u0430\u043d\u0434"
@@ -355,7 +388,7 @@
         "swe",
         "fin"
     ],
-    "wof:lastmodified":1561839934,
+    "wof:lastmodified":1563366625,
     "wof:name":"Jamtland",
     "wof:parent_id":85633789,
     "wof:placetype":"region",

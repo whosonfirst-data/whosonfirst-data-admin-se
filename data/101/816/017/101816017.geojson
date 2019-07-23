@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001914,
-    "geom:area_square_m":11964664.934126,
+    "geom:area_square_m":11964664.934127,
     "geom:bbox":"17.0467724071,59.6204521281,17.1423801872,59.6561452862",
     "geom:latitude":59.639367,
     "geom:longitude":17.091294,
@@ -20,8 +20,17 @@
     "name:ara_x_preferred":[
         "\u0625\u0646\u0634\u0648\u0628\u064a\u0646\u063a"
     ],
+    "name:bel_x_preferred":[
+        "\u042d\u043d\u0447\u044d\u043f\u0456\u043d\u0433"
+    ],
     "name:bul_x_preferred":[
         "\u0415\u043d\u0448\u044c\u043e\u043f\u0438\u043d\u0433"
+    ],
+    "name:cat_x_preferred":[
+        "Enk\u00f6ping"
+    ],
+    "name:ceb_x_preferred":[
+        "Enk\u00f6ping"
     ],
     "name:cym_x_preferred":[
         "Enk\u00f6ping"
@@ -30,6 +39,9 @@
         "Enk\u00f6ping"
     ],
     "name:deu_x_preferred":[
+        "Enk\u00f6ping"
+    ],
+    "name:eng_x_preferred":[
         "Enk\u00f6ping"
     ],
     "name:est_x_preferred":[
@@ -44,8 +56,29 @@
     "name:fin_x_preferred":[
         "Enk\u00f6ping"
     ],
+    "name:fra_x_preferred":[
+        "Enk\u00f6ping"
+    ],
+    "name:frr_x_preferred":[
+        "Enk\u00f6ping"
+    ],
+    "name:hrv_x_preferred":[
+        "Enk\u00f6ping"
+    ],
+    "name:hun_x_preferred":[
+        "Enk\u00f6ping"
+    ],
+    "name:isl_x_preferred":[
+        "Enk\u00f6ping"
+    ],
+    "name:ita_x_preferred":[
+        "Enk\u00f6ping"
+    ],
     "name:jpn_x_preferred":[
         "\u30a8\u30f3\u30b7\u30a7\u30fc\u30d4\u30f3\u30b0"
+    ],
+    "name:kal_x_preferred":[
+        "Enk\u00f6ping"
     ],
     "name:lat_x_preferred":[
         "Enecopia"
@@ -53,10 +86,40 @@
     "name:lit_x_preferred":[
         "En\u0161iopingas"
     ],
+    "name:min_x_preferred":[
+        "Enk\u00f6ping"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0415\u043d\u0448\u0435\u043f\u0438\u043d\u0433"
+    ],
+    "name:nan_x_preferred":[
+        "Enk\u00f6ping"
+    ],
+    "name:nld_x_preferred":[
+        "Enk\u00f6ping"
+    ],
+    "name:nno_x_preferred":[
+        "Enk\u00f6ping"
+    ],
+    "name:nob_x_preferred":[
+        "Enk\u00f6ping"
+    ],
     "name:nor_x_preferred":[
         "Enk\u00f8ping"
     ],
     "name:nor_x_variant":[
+        "Enk\u00f6ping"
+    ],
+    "name:oci_x_preferred":[
+        "Enk\u00f6ping"
+    ],
+    "name:pol_x_preferred":[
+        "Enk\u00f6ping"
+    ],
+    "name:por_x_preferred":[
+        "Enk\u00f6ping"
+    ],
+    "name:ron_x_preferred":[
         "Enk\u00f6ping"
     ],
     "name:rus_x_preferred":[
@@ -65,8 +128,14 @@
     "name:spa_x_preferred":[
         "Enk\u00f6ping"
     ],
+    "name:sqi_x_preferred":[
+        "Enk\u00f6ping"
+    ],
     "name:srp_x_preferred":[
         "\u0415\u043d\u045b\u0435\u043f\u0438\u043d\u0433"
+    ],
+    "name:swa_x_preferred":[
+        "Enk\u00f6ping"
     ],
     "name:swe_x_colloquial":[
         "Enkoeping",
@@ -83,6 +152,18 @@
     ],
     "name:swe_x_variant":[
         "Enk\u00f6pings"
+    ],
+    "name:tur_x_preferred":[
+        "Enk\u00f6ping"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u043d\u0447\u0435\u043f\u0456\u043d\u0433"
+    ],
+    "name:vol_x_preferred":[
+        "Enk\u00f6ping"
+    ],
+    "name:zho_x_preferred":[
+        "\u6069\u96ea\u5e73"
     ],
     "qs:a0":"Sverige",
     "qs:a1":"*Uppsala l\u00e4n",
@@ -136,7 +217,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702882,
+    "wof:lastmodified":1563368701,
     "wof:name":"Enk\u00f6ping",
     "wof:parent_id":1125363611,
     "wof:placetype":"locality",

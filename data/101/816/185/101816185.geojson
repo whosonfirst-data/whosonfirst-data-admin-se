@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000524,
-    "geom:area_square_m":3242129.661253,
+    "geom:area_square_m":3242129.661254,
     "geom:bbox":"16.8349274606,59.930980452,16.8802112575,59.9639194277",
     "geom:latitude":59.944196,
     "geom:longitude":16.857864,
@@ -20,14 +20,23 @@
     "name:bul_x_preferred":[
         "\u0425\u0435\u0431\u044e"
     ],
+    "name:ceb_x_preferred":[
+        "Heby"
+    ],
     "name:dan_x_preferred":[
         "Heby"
     ],
     "name:deu_x_preferred":[
         "Heby"
     ],
+    "name:eng_x_preferred":[
+        "Heby"
+    ],
     "name:fao_x_preferred":[
         "Heby"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u06cc\u0628\u06cc"
     ],
     "name:fin_x_preferred":[
         "Heby"
@@ -44,10 +53,16 @@
     "name:mkd_x_preferred":[
         "\u0425\u0435\u0431\u0438"
     ],
+    "name:nan_x_preferred":[
+        "Heby"
+    ],
     "name:nld_x_preferred":[
         "Heby"
     ],
     "name:nno_x_preferred":[
+        "Heby"
+    ],
+    "name:nob_x_preferred":[
         "Heby"
     ],
     "name:nor_x_preferred":[
@@ -56,11 +71,17 @@
     "name:por_x_preferred":[
         "Heby"
     ],
+    "name:ron_x_preferred":[
+        "Heby"
+    ],
     "name:swe_x_preferred":[
         "Heby"
     ],
     "name:zho_min_nan_x_preferred":[
         "Heby"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d77\u6bd4"
     ],
     "qs:a0":"Sverige",
     "qs:a1":"*Uppsala l\u00e4n",
@@ -110,7 +131,7 @@
         }
     ],
     "wof:id":101816185,
-    "wof:lastmodified":1529702884,
+    "wof:lastmodified":1563368737,
     "wof:name":"Heby",
     "wof:parent_id":1125356149,
     "wof:placetype":"locality",

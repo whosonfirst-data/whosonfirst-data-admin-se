@@ -26,7 +26,19 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":5,
     "mz:tier_metro":1,
+    "name:deu_x_preferred":[
+        "Marieberg"
+    ],
+    "name:eng_x_preferred":[
+        "Marieberg"
+    ],
     "name:fin_x_preferred":[
+        "Marieberg"
+    ],
+    "name:fra_x_preferred":[
+        "Marieberg"
+    ],
+    "name:nob_x_preferred":[
         "Marieberg"
     ],
     "name:nor_x_preferred":[
@@ -68,12 +80,12 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":31,
     "wof:belongsto":[
-        85688429,
         102191581,
         1125362217,
         85633789,
         101752307,
-        1159303035
+        1159303035,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -101,7 +113,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702786,
+    "wof:lastmodified":1563366511,
     "wof:name":"Marieberg",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

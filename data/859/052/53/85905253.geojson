@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000393,
-    "geom:area_square_m":2471242.87464,
+    "geom:area_square_m":2471242.874639,
     "geom:bbox":"17.8684150176,59.3835836218,17.8926594906,59.4101499999",
     "geom:latitude":59.395942,
     "geom:longitude":17.880895,
@@ -24,7 +24,13 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Hjulsta"
+    ],
     "name:fin_x_preferred":[
+        "Hjulsta"
+    ],
+    "name:fra_x_preferred":[
         "Hjulsta"
     ],
     "name:swe_x_preferred":[
@@ -60,12 +66,12 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":116,
     "wof:belongsto":[
-        85688429,
         102191581,
         1125362217,
         85633789,
         101752307,
-        1159303035
+        1159303035,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -89,7 +95,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702810,
+    "wof:lastmodified":1563366564,
     "wof:name":"Hjulsta",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

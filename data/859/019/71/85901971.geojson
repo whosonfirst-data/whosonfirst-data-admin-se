@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000105,
-    "geom:area_square_m":663282.404155,
+    "geom:area_square_m":663282.404154,
     "geom:bbox":"17.9727675318,59.3261842914,17.9909776149,59.3364486252",
     "geom:latitude":59.331033,
     "geom:longitude":17.982265,
@@ -27,17 +27,32 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "mz:tier_metro":1,
+    "name:ceb_x_preferred":[
+        "Alvik"
+    ],
     "name:deu_x_preferred":[
+        "Alvik"
+    ],
+    "name:eng_x_preferred":[
         "Alvik"
     ],
     "name:fin_x_preferred":[
         "Alvik"
     ],
+    "name:fra_x_preferred":[
+        "Alvik"
+    ],
     "name:ita_x_preferred":[
+        "Alvik"
+    ],
+    "name:nld_x_preferred":[
         "Alvik"
     ],
     "name:nno_x_preferred":[
         "Alvik i Stockholm"
+    ],
+    "name:nob_x_preferred":[
+        "Alvik"
     ],
     "name:nor_x_preferred":[
         "Alvik"
@@ -82,12 +97,12 @@
     "src:population":"geonames",
     "wd:wordcount":48,
     "wof:belongsto":[
-        85688429,
         102191581,
         1125362217,
         85633789,
         101752307,
-        1159303035
+        1159303035,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -115,7 +130,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702774,
+    "wof:lastmodified":1563366593,
     "wof:name":"Alvik",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

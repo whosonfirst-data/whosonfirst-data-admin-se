@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001641,
-    "geom:area_square_m":10744962.451254,
+    "geom:area_square_m":10744962.451253,
     "geom:bbox":"14.9445866785,58.0058022819,15.0104761719,58.0571833727",
     "geom:latitude":58.033089,
     "geom:longitude":14.97713,
@@ -20,10 +20,16 @@
     "name:bul_x_preferred":[
         "\u0422\u0440\u0430\u043d\u043e\u0441"
     ],
+    "name:ceb_x_preferred":[
+        "Tran\u00e5s"
+    ],
     "name:dan_x_preferred":[
         "Tran\u00e5s"
     ],
     "name:deu_x_preferred":[
+        "Tran\u00e5s"
+    ],
+    "name:eng_x_preferred":[
         "Tran\u00e5s"
     ],
     "name:fao_x_preferred":[
@@ -33,6 +39,9 @@
         "\u062a\u0631\u0627\u0646\u0627\u0648\u0633"
     ],
     "name:fin_x_preferred":[
+        "Tran\u00e5s"
+    ],
+    "name:fra_x_preferred":[
         "Tran\u00e5s"
     ],
     "name:hrv_x_preferred":[
@@ -47,8 +56,32 @@
     "name:lit_x_preferred":[
         "Tranosas"
     ],
+    "name:nan_x_preferred":[
+        "Tran\u00e5s"
+    ],
+    "name:nld_x_preferred":[
+        "Tran\u00e5s"
+    ],
+    "name:nno_x_preferred":[
+        "Tran\u00e5s"
+    ],
+    "name:nob_x_preferred":[
+        "Tran\u00e5s"
+    ],
+    "name:pol_x_preferred":[
+        "Tran\u00e5s"
+    ],
+    "name:por_x_preferred":[
+        "Tran\u00e5s"
+    ],
+    "name:ron_x_preferred":[
+        "Tran\u00e5s"
+    ],
     "name:rus_x_preferred":[
         "\u0422\u0440\u0430\u043d\u043e\u0441"
+    ],
+    "name:slv_x_preferred":[
+        "Tran\u00e5s"
     ],
     "name:srp_x_preferred":[
         "\u0422\u0440\u0430\u043d\u043e\u0441"
@@ -67,6 +100,15 @@
     "name:swe_x_variant":[
         "Tran\u00e5s Kyarn",
         "Tran\u00e5s Kyarns"
+    ],
+    "name:tur_x_preferred":[
+        "Tran\u00e5s"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0440\u0430\u043d\u043e\u0441"
+    ],
+    "name:vol_x_preferred":[
+        "Tran\u00e5s"
     ],
     "qs:a0":"Sverige",
     "qs:a1":"*J\u00f6nk\u00f6pings l\u00e4n",
@@ -120,7 +162,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702439,
+    "wof:lastmodified":1563368617,
     "wof:name":"Tran\u00e5s",
     "wof:parent_id":1125325705,
     "wof:placetype":"locality",

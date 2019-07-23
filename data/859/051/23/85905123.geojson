@@ -26,7 +26,16 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Bredsand"
+    ],
+    "name:nan_x_preferred":[
+        "Bredsand"
+    ],
     "name:nld_x_preferred":[
+        "Bredsand"
+    ],
+    "name:nob_x_preferred":[
         "Bredsand"
     ],
     "name:swe_x_colloquial":[
@@ -38,7 +47,8 @@
     "name:swe_x_variant":[
         "Bredang",
         "Bred\u00e4ng",
-        "Bredsand"
+        "Bredsand",
+        "Flemingsberg"
     ],
     "name:unk_x_variant":[
         "Bredsand",
@@ -110,7 +120,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1536864514,
+    "wof:lastmodified":1563366616,
     "wof:name":"Bred\u00e4n",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

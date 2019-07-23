@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001728,
-    "geom:area_square_m":11101552.363344,
+    "geom:area_square_m":11101552.363347,
     "geom:bbox":"13.7859949546,58.6767000774,13.8759263724,58.730938217",
     "geom:latitude":58.702631,
     "geom:longitude":13.825007,
@@ -18,13 +18,34 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":7.0,
+    "name:ara_x_preferred":[
+        "\u0645\u0627\u0631\u064a\u0627\u0633\u062a\u0627\u062f"
+    ],
+    "name:bar_x_preferred":[
+        "Mariestad"
+    ],
     "name:bul_x_preferred":[
         "\u041c\u0430\u0440\u0438\u0435\u0441\u0442\u0430\u0434"
+    ],
+    "name:ceb_x_preferred":[
+        "Mariestad"
+    ],
+    "name:ces_x_preferred":[
+        "Mariestad"
+    ],
+    "name:cym_x_preferred":[
+        "Mariestad"
     ],
     "name:dan_x_preferred":[
         "Mariestad"
     ],
     "name:deu_x_preferred":[
+        "Mariestad"
+    ],
+    "name:eng_x_preferred":[
+        "Mariestad"
+    ],
+    "name:eus_x_preferred":[
         "Mariestad"
     ],
     "name:fao_x_preferred":[
@@ -45,11 +66,20 @@
     "name:hrv_x_preferred":[
         "Mariestad"
     ],
+    "name:hun_x_preferred":[
+        "Mariestad"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u0561\u0580\u056b\u0565\u057d\u057f\u0561\u0564"
+    ],
     "name:isl_x_preferred":[
         "Mariestad"
     ],
     "name:ita_x_preferred":[
         "Mariestad"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9c8\ub9ac\uc5d0\uc2a4\ud0c0\ub4dc"
     ],
     "name:lat_x_preferred":[
         "Mariaestadium"
@@ -57,10 +87,16 @@
     "name:lit_x_preferred":[
         "Mariestadas"
     ],
+    "name:nan_x_preferred":[
+        "Mariestad"
+    ],
     "name:nld_x_preferred":[
         "Mariestad"
     ],
     "name:nno_x_preferred":[
+        "Mariestad"
+    ],
+    "name:nob_x_preferred":[
         "Mariestad"
     ],
     "name:nor_x_preferred":[
@@ -255,7 +291,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702225,
+    "wof:lastmodified":1563368774,
     "wof:name":"Mariestad",
     "wof:parent_id":1159306741,
     "wof:placetype":"locality",

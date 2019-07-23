@@ -33,8 +33,14 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0648\u0631\u0628\u0631\u0648"
     ],
+    "name:ast_x_preferred":[
+        "provincia d'\u00d6rebro"
+    ],
     "name:bel_x_preferred":[
         "\u041b\u0435\u043d \u042d\u0440\u044d\u0431\u0440\u0443"
+    ],
+    "name:bel_x_variant":[
+        "\u043b\u0435\u043d \u042d\u0440\u044d\u0431\u0440\u0443"
     ],
     "name:ben_x_preferred":[
         "\u0993\u0981\u09b0\u09c7\u09ac\u09cd\u09b0\u09cb \u0995\u09be\u0989\u09a8\u09cd\u099f\u09bf"
@@ -48,11 +54,20 @@
     "name:cat_x_preferred":[
         "Comtat d\u00d6rebro"
     ],
+    "name:cat_x_variant":[
+        "comtat d'\u00d6rebro"
+    ],
+    "name:ceb_x_preferred":[
+        "\u00d6rebro L\u00e4n"
+    ],
     "name:ces_x_preferred":[
         "\u00d6rebro"
     ],
     "name:cor_x_preferred":[
         "Konteth \u00d6rebro"
+    ],
+    "name:cym_x_preferred":[
+        "Sir \u00d6rebro"
     ],
     "name:dan_x_preferred":[
         "\u00d6rebro l\u00e4n"
@@ -88,12 +103,18 @@
     "name:fin_x_preferred":[
         "\u00d6rebron l\u00e4\u00e4ni"
     ],
+    "name:fit_x_preferred":[
+        "\u00d6rebro l\u00e4n"
+    ],
     "name:fra_x_preferred":[
         "Comt\u00e9 d'\u00d6rebro"
     ],
     "name:fra_x_variant":[
         "\u00d6rebro",
         "Comt\u00e9 d\u00d6rebro"
+    ],
+    "name:fry_x_preferred":[
+        "\u00d6rebro l\u00e4n"
     ],
     "name:gla_x_preferred":[
         "\u00d6rebro l\u00e4n"
@@ -106,6 +127,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05d0\u05e8\u05d1\u05e8\u05d5"
+    ],
+    "name:heb_x_variant":[
+        "\u05de\u05d7\u05d5\u05d6 \u05d0\u05e8\u05d1\u05e8\u05d5"
     ],
     "name:hin_x_preferred":[
         "\u0913\u0930\u0947\u092c\u094d\u0930\u094b \u0932\u0948\u0928"
@@ -125,6 +149,9 @@
     "name:ita_x_preferred":[
         "Contea di \u00d6rebro"
     ],
+    "name:ita_x_variant":[
+        "\u00d6rebro"
+    ],
     "name:jpn_x_preferred":[
         "\u30a8\u30ec\u30d6\u30eb\u30fc\u770c"
     ],
@@ -133,6 +160,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc678\ub808\ube0c\ub85c \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc678\ub808\ube0c\ub85c\uc8fc"
     ],
     "name:lat_x_preferred":[
         "Orebrogiae Comitatus"
@@ -157,6 +187,9 @@
     ],
     "name:nan_x_preferred":[
         "\u00d6rebro ko\u0101n"
+    ],
+    "name:nan_x_variant":[
+        "\u00d6rebro K\u014dan"
     ],
     "name:nds_x_preferred":[
         "Lehn \u00d6rebro"
@@ -357,7 +390,7 @@
         "swe",
         "fin"
     ],
-    "wof:lastmodified":1561839934,
+    "wof:lastmodified":1563366632,
     "wof:name":"Orebro",
     "wof:parent_id":85633789,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001032,
-    "geom:area_square_m":6354660.922018,
+    "geom:area_square_m":6354660.922019,
     "geom:bbox":"12.9765244913,60.1150699817,13.0247764513,60.1652769154",
     "geom:latitude":60.136818,
     "geom:longitude":13.003476,
@@ -20,17 +20,38 @@
     "name:bul_x_preferred":[
         "\u0422\u043e\u0440\u0448\u0431\u044e"
     ],
+    "name:cym_x_preferred":[
+        "Torsby"
+    ],
     "name:dan_x_preferred":[
         "Torsby"
     ],
     "name:deu_x_preferred":[
         "Torsby"
     ],
+    "name:eng_x_preferred":[
+        "Torsby"
+    ],
+    "name:est_x_preferred":[
+        "Torsby"
+    ],
     "name:fao_x_preferred":[
         "Torsby"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0648\u0631\u0634\u0628\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Torsbyn kunta"
+    ],
+    "name:fin_x_variant":[
+        "Torsby"
+    ],
+    "name:fra_x_preferred":[
+        "Torsby"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d5\u05e8\u05e1\u05d1\u05d9"
     ],
     "name:iku_x_preferred":[
         "\u1450\u1550\u1505\u1433"
@@ -41,13 +62,28 @@
     "name:ita_x_preferred":[
         "Torsby"
     ],
+    "name:jpn_x_preferred":[
+        "\u30c8\u30fc\u30b9\u30d3\u30fc"
+    ],
+    "name:nan_x_preferred":[
+        "Torsby"
+    ],
     "name:nld_x_preferred":[
         "Torsby"
     ],
     "name:nno_x_preferred":[
         "Torsby"
     ],
+    "name:nob_x_preferred":[
+        "Torsby"
+    ],
     "name:nor_x_preferred":[
+        "Torsby"
+    ],
+    "name:pol_x_preferred":[
+        "Torsby"
+    ],
+    "name:ron_x_preferred":[
         "Torsby"
     ],
     "name:rus_x_preferred":[
@@ -62,11 +98,17 @@
     "name:swe_x_variant":[
         "Torsbys"
     ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0443\u0440\u0441\u0431\u044e"
+    ],
     "name:vol_x_preferred":[
         "Torsby"
     ],
     "name:zho_min_nan_x_preferred":[
         "Torsby"
+    ],
+    "name:zho_x_preferred":[
+        "\u6258\u65af\u6bd4"
     ],
     "qs:a0":"Sverige",
     "qs:a1":"*V\u00e4rmlands l\u00e4n",
@@ -120,7 +162,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702931,
+    "wof:lastmodified":1563368726,
     "wof:name":"Torsby",
     "wof:parent_id":1125288139,
     "wof:placetype":"locality",

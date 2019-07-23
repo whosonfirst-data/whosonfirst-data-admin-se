@@ -25,6 +25,21 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":5,
     "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Tallkrogen"
+    ],
+    "name:fin_x_preferred":[
+        "Tallkrogen"
+    ],
+    "name:ita_x_preferred":[
+        "Tallkrogen"
+    ],
+    "name:nob_x_preferred":[
+        "Tallkrogen"
+    ],
+    "name:pol_x_preferred":[
+        "Tallkrogen"
+    ],
     "name:swe_x_preferred":[
         "Tallkrogen"
     ],
@@ -61,12 +76,12 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":368,
     "wof:belongsto":[
-        85688429,
         102191581,
         1125362217,
         85633789,
         101752307,
-        1159303035
+        1159303035,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,7 +107,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702819,
+    "wof:lastmodified":1563366571,
     "wof:name":"Tallkrogen",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

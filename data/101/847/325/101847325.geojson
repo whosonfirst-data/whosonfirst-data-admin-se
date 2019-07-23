@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004374,
-    "geom:area_square_m":28432794.543864,
+    "geom:area_square_m":28432794.543868,
     "geom:bbox":"12.2490821246,58.248706718,12.3550143705,58.3262843523",
     "geom:latitude":58.288288,
     "geom:longitude":12.300699,
@@ -33,6 +33,9 @@
     "name:bel_x_variant":[
         "\u0422\u0440\u0430\u043b\u044c\u0433\u044d\u0442\u0430\u043d"
     ],
+    "name:ben_x_preferred":[
+        "\u09a4\u09cd\u09b0\u09b2\u09b9\u09c7\u09a4\u09a8"
+    ],
     "name:bre_x_preferred":[
         "Trollh\u00e4ttan"
     ],
@@ -40,6 +43,9 @@
         "\u0422\u0440\u043e\u043b\u0445\u0435\u0442\u0430\u043d"
     ],
     "name:cat_x_preferred":[
+        "Trollh\u00e4ttan"
+    ],
+    "name:ceb_x_preferred":[
         "Trollh\u00e4ttan"
     ],
     "name:ces_x_preferred":[
@@ -51,20 +57,74 @@
     "name:dan_x_preferred":[
         "Trollh\u00e4ttan"
     ],
+    "name:deu_x_preferred":[
+        "Trollh\u00e4ttan"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c1\u03bf\u03bb\u03c7\u03ac\u03c4\u03b1\u03bd"
+    ],
     "name:eng_x_preferred":[
         "Trollhattan"
     ],
     "name:eng_x_variant":[
         "Trollh\u00e4ttan"
     ],
+    "name:est_x_preferred":[
+        "Trollh\u00e4ttan"
+    ],
+    "name:eus_x_preferred":[
+        "Trollh\u00e4ttan"
+    ],
+    "name:fao_x_preferred":[
+        "Trollh\u00e4ttan"
+    ],
     "name:fas_x_preferred":[
         "\u062a\u0631\u0648\u0644\u0647\u062a\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u062a\u0631\u0648\u0644\u062a\u062a\u0627\u0646"
+    ],
+    "name:fin_x_preferred":[
+        "Trollh\u00e4ttan"
+    ],
+    "name:fra_x_preferred":[
+        "Trollh\u00e4ttan"
+    ],
+    "name:frr_x_preferred":[
+        "Trollh\u00e4ttan"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a9f\u0acd\u0ab0\u0acb\u0ab2\u0ac7\u0ab9\u0abe\u0a9f\u0aa8"
     ],
     "name:heb_x_preferred":[
         "\u05d8\u05e8\u05d5\u05dc\u05d4\u05d8\u05df"
     ],
+    "name:hin_x_preferred":[
+        "\u091f\u094d\u0930\u0949\u0932\u0939\u0948\u091f\u094d\u091f\u0928"
+    ],
+    "name:hrv_x_preferred":[
+        "Trollh\u00e4ttan"
+    ],
+    "name:hun_x_preferred":[
+        "Trollh\u00e4ttan"
+    ],
+    "name:ind_x_preferred":[
+        "Trollh\u00e4ttan"
+    ],
+    "name:isl_x_preferred":[
+        "Trollh\u00e4ttan"
+    ],
+    "name:ita_x_preferred":[
+        "Trollh\u00e4ttan"
+    ],
     "name:jpn_x_preferred":[
         "\u30c8\u30ed\u30eb\u30d8\u30c3\u30bf\u30f3"
+    ],
+    "name:kal_x_preferred":[
+        "Trollh\u00e4ttan"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c9f\u0ccd\u0cb0\u0cca\u0cb2\u0ccd\u0cb9\u0c9f\u0ccd\u0c9f\u0ca8\u0ccd"
     ],
     "name:kat_x_preferred":[
         "\u10e2\u10e0\u10dd\u10da\u10f0\u10d4\u10e2\u10d0\u10dc\u10d8"
@@ -75,20 +135,71 @@
     "name:lat_x_preferred":[
         "Trolem Excudia"
     ],
+    "name:lav_x_preferred":[
+        "Trolhetana"
+    ],
     "name:lit_x_preferred":[
         "Trolhetanas"
+    ],
+    "name:mar_x_preferred":[
+        "\u091f\u094d\u0930\u094b\u0932\u0939\u0945\u091f\u0928"
+    ],
+    "name:min_x_preferred":[
+        "Trollh\u00e4ttan"
     ],
     "name:msa_x_preferred":[
         "Trollhattan"
     ],
+    "name:nan_x_preferred":[
+        "Trollh\u00e4ttan"
+    ],
+    "name:nld_x_preferred":[
+        "Trollh\u00e4ttan"
+    ],
+    "name:nno_x_preferred":[
+        "Trollh\u00e4ttan"
+    ],
+    "name:nob_x_preferred":[
+        "Trollh\u00e4ttan"
+    ],
+    "name:oci_x_preferred":[
+        "Trollh\u00e4ttan"
+    ],
     "name:pnb_x_preferred":[
         "\u0679\u0631\u0648\u0644\u06c1\u0627\u0679\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Trollh\u00e4ttan"
+    ],
+    "name:por_x_preferred":[
+        "Trollh\u00e4ttan"
+    ],
+    "name:ron_x_preferred":[
+        "Trollh\u00e4ttan"
     ],
     "name:rus_x_preferred":[
         "\u0422\u0440\u043e\u043b\u043b\u044c\u0445\u0435\u0442\u0442\u0430\u043d"
     ],
+    "name:sco_x_preferred":[
+        "Trollh\u00e4ttan"
+    ],
+    "name:sin_x_preferred":[
+        "\u0da7\u0dca\u200d\u0dbb\u0ddc\u0dbd\u0dca\u0dc4\u0dd0\u0da7\u0db1\u0dca"
+    ],
+    "name:slk_x_preferred":[
+        "Trollh\u00e4ttan"
+    ],
+    "name:spa_x_preferred":[
+        "Trollh\u00e4ttan"
+    ],
+    "name:sqi_x_preferred":[
+        "Trollh\u00e4ttan"
+    ],
     "name:srp_x_preferred":[
         "\u0422\u0440\u043e\u043b\u0445\u0435\u0442\u0430\u043d"
+    ],
+    "name:swa_x_preferred":[
+        "Trollh\u00e4ttan"
     ],
     "name:swe_x_colloquial":[
         "Trollhaettan",
@@ -105,14 +216,47 @@
         "Trollhattens",
         "Trollh\u00e4ttans"
     ],
+    "name:szl_x_preferred":[
+        "Trollh\u00e4ttan"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9f\u0bcd\u0bb0\u0bcb\u0bb2\u0bcd\u0bb9\u0bbe\u0bb0\u0bcd\u0b9f\u0bcd\u0b9f\u0ba9\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u0422\u0440\u043e\u043b\u043b\u044c\u04bb\u0435\u0442\u0442\u0430\u043d"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c1f\u0c4d\u0c30\u0c3e\u0c32\u0c4d \u0c39\u0c1f\u0c4d\u0c1f\u0c28\u0c4d"
+    ],
     "name:tha_x_preferred":[
         "\u0e15\u0e23\u0e2d\u0e25\u0e40\u0e2e\u0e15\u0e15\u0e31\u0e19"
+    ],
+    "name:tur_x_preferred":[
+        "Trollh\u00e4ttan"
     ],
     "name:ukr_x_preferred":[
         "\u0422\u0440\u043e\u043b\u043b\u044c\u0433\u0435\u0442\u0442\u0430\u043d"
     ],
+    "name:ukr_x_variant":[
+        "\u0422\u0440\u043e\u043b\u044c\u0445\u0435\u0442\u0442\u0430\u043d"
+    ],
+    "name:urd_x_preferred":[
+        "\u0679\u0631\u0648\u0644 \u06c1\u0679\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "Trollh\u00e4ttan"
+    ],
+    "name:vol_x_preferred":[
+        "Trollh\u00e4ttan"
+    ],
+    "name:war_x_preferred":[
+        "Trollh\u00e4ttan"
+    ],
     "name:zho_x_preferred":[
         "\u7279\u7f85\u723e\u6d77\u5766"
+    ],
+    "name:zho_x_variant":[
+        "\u7279\u7f57\u5c14\u6d77\u5766"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Sweden",
@@ -258,7 +402,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702230,
+    "wof:lastmodified":1563368868,
     "wof:name":"Trollh\u00e4ttan",
     "wof:parent_id":1125340355,
     "wof:placetype":"locality",

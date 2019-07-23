@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001608,
-    "geom:area_square_m":10706546.152007,
+    "geom:area_square_m":10706546.152004,
     "geom:bbox":"15.0384186732,57.3943798239,15.1172723515,57.4468739982",
     "geom:latitude":57.421903,
     "geom:longitude":15.075953,
@@ -23,10 +23,16 @@
     "name:cat_x_preferred":[
         "Vetlanda"
     ],
+    "name:ceb_x_preferred":[
+        "Vetlanda"
+    ],
     "name:dan_x_preferred":[
         "Vetlanda"
     ],
     "name:deu_x_preferred":[
+        "Vetlanda"
+    ],
+    "name:eng_x_preferred":[
         "Vetlanda"
     ],
     "name:fao_x_preferred":[
@@ -62,13 +68,22 @@
     "name:ita_x_preferred":[
         "Vetlanda"
     ],
+    "name:jpn_x_preferred":[
+        "\u30d9\u30fc\u30c8\u30e9\u30f3\u30c0"
+    ],
     "name:lit_x_preferred":[
+        "Vetlanda"
+    ],
+    "name:nan_x_preferred":[
         "Vetlanda"
     ],
     "name:nld_x_preferred":[
         "Vetlanda"
     ],
     "name:nno_x_preferred":[
+        "Vetlanda"
+    ],
+    "name:nob_x_preferred":[
         "Vetlanda"
     ],
     "name:nor_x_preferred":[
@@ -82,6 +97,9 @@
     ],
     "name:ron_x_preferred":[
         "Vetlanda"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u0442\u043b\u0430\u043d\u0434\u0430"
     ],
     "name:sco_x_preferred":[
         "Vetlanda"
@@ -165,7 +183,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702441,
+    "wof:lastmodified":1563368653,
     "wof:name":"Vetlanda",
     "wof:parent_id":1125325681,
     "wof:placetype":"locality",

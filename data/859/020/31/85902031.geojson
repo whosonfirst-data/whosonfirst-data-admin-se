@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2361612.159153,
+    "geom:area_square_m":0.0,
     "geom:bbox":"17.950859,59.498546,17.950859,59.498546",
     "geom:latitude":59.498546,
     "geom:longitude":17.950859,
@@ -25,6 +25,18 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Bollstan\u00e4s SK"
+    ],
+    "name:fra_x_preferred":[
+        "Bollstan\u00e4s SK"
+    ],
+    "name:nld_x_preferred":[
+        "Bollstan\u00e4s SK"
+    ],
+    "name:spa_x_preferred":[
+        "Bollstan\u00e4s SK"
+    ],
     "name:swe_x_colloquial":[
         "Bollstanaes",
         "Bollstanas"
@@ -71,12 +83,12 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":356,
     "wof:belongsto":[
-        85688429,
         102191581,
         1125409989,
         85633789,
         101815895,
-        1159303433
+        1159303433,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -103,7 +115,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1531935847,
+    "wof:lastmodified":1563366583,
     "wof:name":"Bollstan\u00e4s",
     "wof:parent_id":101815895,
     "wof:placetype":"neighbourhood",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000498,
-    "geom:area_square_m":2672987.617797,
+    "geom:area_square_m":2672987.617795,
     "geom:bbox":"16.3791437553,64.2531836506,16.442851311,64.276044588",
     "geom:latitude":64.261721,
     "geom:longitude":16.415574,
@@ -20,10 +20,16 @@
     "name:bul_x_preferred":[
         "\u0414\u0443\u0440\u0443\u0442\u0435\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Dorotea"
+    ],
     "name:dan_x_preferred":[
         "Dorotea"
     ],
     "name:deu_x_preferred":[
+        "Dorotea"
+    ],
+    "name:eng_x_preferred":[
         "Dorotea"
     ],
     "name:est_x_preferred":[
@@ -32,7 +38,13 @@
     "name:fao_x_preferred":[
         "Dorotea"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0631\u0648\u062a\u06cc\u0627"
+    ],
     "name:fin_x_preferred":[
+        "Dorotea"
+    ],
+    "name:fra_x_preferred":[
         "Dorotea"
     ],
     "name:isl_x_preferred":[
@@ -44,17 +56,29 @@
     "name:kor_x_preferred":[
         "\ub3c4\ub85c\ud14c\uc544"
     ],
+    "name:nan_x_preferred":[
+        "Dorotea"
+    ],
     "name:nld_x_preferred":[
         "Dorotea"
     ],
     "name:nno_x_preferred":[
         "Tettstaden Dorotea"
     ],
+    "name:nob_x_preferred":[
+        "Dorotea"
+    ],
     "name:nor_x_preferred":[
         "Dorotea"
     ],
     "name:por_x_preferred":[
         "Dorotea"
+    ],
+    "name:ron_x_preferred":[
+        "Dorotea"
+    ],
+    "name:sma_x_preferred":[
+        "D\u00f6\u00f6rte"
     ],
     "name:sme_x_preferred":[
         "D\u00f6\u00f6rte"
@@ -64,6 +88,9 @@
     ],
     "name:swe_x_variant":[
         "Doroteas"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043e\u0440\u043e\u0442\u0435\u0430"
     ],
     "name:unk_x_variant":[
         "Bergvattnet"
@@ -123,7 +150,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702972,
+    "wof:lastmodified":1563368919,
     "wof:name":"Dorotea",
     "wof:parent_id":1125325331,
     "wof:placetype":"locality",

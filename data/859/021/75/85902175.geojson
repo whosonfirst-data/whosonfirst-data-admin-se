@@ -26,7 +26,13 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "H\u00f6gdalen"
+    ],
     "name:fin_x_preferred":[
+        "H\u00f6gdalen"
+    ],
+    "name:nob_x_preferred":[
         "H\u00f6gdalen"
     ],
     "name:nor_x_preferred":[
@@ -50,6 +56,9 @@
     ],
     "name:unk_x_variant":[
         "H\u00f6gdalen"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d6b\u683c\u9054\u502b"
     ],
     "qs:gn_adm0_cc":"SE",
     "qs:gn_fcode":"PPLX",
@@ -81,12 +90,12 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":205,
     "wof:belongsto":[
-        85688429,
         102191581,
         1125362217,
         85633789,
         101752307,
-        1159303035
+        1159303035,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -113,7 +122,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702781,
+    "wof:lastmodified":1563366598,
     "wof:name":"H\u00f6gdalen",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

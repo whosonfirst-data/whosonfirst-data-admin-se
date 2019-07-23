@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000098,
-    "geom:area_square_m":645353.867833,
+    "geom:area_square_m":645353.867834,
     "geom:bbox":"11.9641113281,57.6871756081,11.9778442383,57.6968091184",
     "geom:latitude":57.69192,
     "geom:longitude":11.970913,
@@ -26,6 +26,9 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":4,
     "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Landala"
+    ],
     "name:swe_x_preferred":[
         "Landala"
     ],
@@ -63,12 +66,12 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":118,
     "wof:belongsto":[
-        85688411,
         102191581,
         1125287157,
         85633789,
         101752295,
-        1159302989
+        1159302989,
+        85688411
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -96,7 +99,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702305,
+    "wof:lastmodified":1563366559,
     "wof:name":"Landala",
     "wof:parent_id":101752295,
     "wof:placetype":"neighbourhood",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001375,
-    "geom:area_square_m":8833489.794842,
+    "geom:area_square_m":8833489.79484,
     "geom:bbox":"15.7385461134,58.6867797593,15.8380906202,58.7203320504",
     "geom:latitude":58.705671,
     "geom:longitude":15.787997,
@@ -17,13 +17,22 @@
     "mps:longitude":15.77216,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0424\u0456\u043d\u0441\u043f\u0430\u043d\u0433"
+    ],
     "name:bul_x_preferred":[
         "\u0424\u0438\u043d\u0441\u043f\u043e\u043d\u0433"
+    ],
+    "name:ceb_x_preferred":[
+        "Finsp\u00e5ng"
     ],
     "name:dan_x_preferred":[
         "Finsp\u00e5ng"
     ],
     "name:deu_x_preferred":[
+        "Finsp\u00e5ng"
+    ],
+    "name:eng_x_preferred":[
         "Finsp\u00e5ng"
     ],
     "name:est_x_preferred":[
@@ -44,10 +53,46 @@
     "name:glg_x_preferred":[
         "Finsp\u00e5ng"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d9\u05e0\u05e1\u05e4\u05d5\u05e0\u05d2"
+    ],
+    "name:isl_x_preferred":[
+        "Finsp\u00e5ng"
+    ],
+    "name:ita_x_preferred":[
+        "Finsp\u00e5ng"
+    ],
     "name:lit_x_preferred":[
         "Finspongas"
     ],
+    "name:nan_x_preferred":[
+        "Finsp\u00e5ng"
+    ],
+    "name:nld_x_preferred":[
+        "Finsp\u00e5ng"
+    ],
+    "name:nno_x_preferred":[
+        "Finsp\u00e5ng"
+    ],
+    "name:nob_x_preferred":[
+        "Finsp\u00e5ng"
+    ],
+    "name:pol_x_preferred":[
+        "Finsp\u00e5ng"
+    ],
+    "name:por_x_preferred":[
+        "Finsp\u00e5ng"
+    ],
+    "name:ron_x_preferred":[
+        "Finsp\u00e5ng"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0438\u043d\u0441\u043f\u043e\u043d\u0433"
+    ],
     "name:spa_x_preferred":[
+        "Finsp\u00e5ng"
+    ],
+    "name:sqi_x_preferred":[
         "Finsp\u00e5ng"
     ],
     "name:srp_x_preferred":[
@@ -64,6 +109,12 @@
     ],
     "name:swe_x_variant":[
         "Finsp\u00e5ngs"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0424\u0456\u043d\u0441\u043f\u043e\u043d\u0433"
+    ],
+    "name:zho_x_preferred":[
+        "\u82ac\u65af\u84ec"
     ],
     "qs:a0":"Sverige",
     "qs:a1":"*\u00d6sterg\u00f6tlands l\u00e4n",
@@ -120,7 +171,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529703108,
+    "wof:lastmodified":1563368613,
     "wof:name":"Finsp\u00e5ng",
     "wof:parent_id":1125325861,
     "wof:placetype":"locality",

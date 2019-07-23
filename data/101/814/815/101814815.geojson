@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000501,
-    "geom:area_square_m":2563099.456451,
+    "geom:area_square_m":2563099.45645,
     "geom:bbox":"17.5023240688,65.5211169726,17.5524497754,65.5459036548",
     "geom:latitude":65.535239,
     "geom:longitude":17.529671,
@@ -20,6 +20,9 @@
     "name:bul_x_preferred":[
         "\u0421\u043e\u0440\u0448\u0435\u043b\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Sorsele"
+    ],
     "name:dan_x_preferred":[
         "Sorsele"
     ],
@@ -31,6 +34,9 @@
     ],
     "name:fao_x_preferred":[
         "Sorsele"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u0634\u0644\u0647"
     ],
     "name:fin_x_preferred":[
         "Sorselen kunta"
@@ -47,10 +53,16 @@
     "name:ita_x_preferred":[
         "Sorsele"
     ],
+    "name:nan_x_preferred":[
+        "Sorsele"
+    ],
     "name:nld_x_preferred":[
         "Sorsele"
     ],
     "name:nno_x_preferred":[
+        "Sorsele"
+    ],
+    "name:nob_x_preferred":[
         "Sorsele"
     ],
     "name:nor_x_preferred":[
@@ -58,6 +70,12 @@
     ],
     "name:por_x_preferred":[
         "Sorsele"
+    ],
+    "name:ron_x_preferred":[
+        "Sorsele"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u0440\u0441\u0435\u043b\u0435"
     ],
     "name:sme_x_preferred":[
         "Suarsa"
@@ -71,8 +89,14 @@
     "name:swe_x_variant":[
         "Sorseles"
     ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0443\u0440\u0441\u0435\u043b\u0435"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Sorsele"
+    ],
+    "name:zho_x_preferred":[
+        "\u7d22\u820d\u52d2"
     ],
     "qs:a0":"Sverige",
     "qs:a1":"*V\u00e4sterbottens l\u00e4n",
@@ -126,7 +150,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702970,
+    "wof:lastmodified":1563368922,
     "wof:name":"Sorsele",
     "wof:parent_id":1125270379,
     "wof:placetype":"locality",

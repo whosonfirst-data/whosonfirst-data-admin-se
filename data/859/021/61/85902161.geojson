@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001371,
-    "geom:area_square_m":8649772.84719,
+    "geom:area_square_m":8649772.847189,
     "geom:bbox":"18.4608137841,59.3121695868,18.5137231446,59.352287828",
     "geom:latitude":59.329365,
     "geom:longitude":18.487374,
@@ -26,6 +26,48 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
+    "name:bar_x_preferred":[
+        "Hemmesta"
+    ],
+    "name:bul_x_preferred":[
+        "\u0425\u0435\u043c\u0435\u0441\u0442\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Hemmesta"
+    ],
+    "name:dan_x_preferred":[
+        "Hemmesta"
+    ],
+    "name:deu_x_preferred":[
+        "Hemmesta"
+    ],
+    "name:eng_x_preferred":[
+        "Hemmesta"
+    ],
+    "name:fra_x_preferred":[
+        "Hemmesta"
+    ],
+    "name:ita_x_preferred":[
+        "Hemmesta"
+    ],
+    "name:nan_x_preferred":[
+        "Hemmesta"
+    ],
+    "name:nds_x_preferred":[
+        "Hemmesta"
+    ],
+    "name:nld_x_preferred":[
+        "Hemmesta"
+    ],
+    "name:nno_x_preferred":[
+        "Hemmesta"
+    ],
+    "name:nob_x_preferred":[
+        "Hemmesta"
+    ],
+    "name:spa_x_preferred":[
+        "Hemmesta"
+    ],
     "name:swe_x_preferred":[
         "Hemmesta"
     ],
@@ -62,12 +104,12 @@
     "src:lbl:centroid":"yerbashapes",
     "src:population":"geonames",
     "wof:belongsto":[
-        85688429,
         102191581,
         1125398113,
         85633789,
         101840191,
-        1159303241
+        1159303241,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,7 +137,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702781,
+    "wof:lastmodified":1563366594,
     "wof:name":"Hemmesta",
     "wof:parent_id":101840191,
     "wof:placetype":"neighbourhood",

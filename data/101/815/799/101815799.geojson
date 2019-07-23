@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000687,
-    "geom:area_square_m":4366681.325128,
+    "geom:area_square_m":4366681.325129,
     "geom:bbox":"16.5654935677,59.0470892908,16.61915177,59.0738764217",
     "geom:latitude":59.059337,
     "geom:longitude":16.59264,
@@ -17,8 +17,17 @@
     "mps:longitude":16.589048,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bar_x_preferred":[
+        "Flen"
+    ],
     "name:bul_x_preferred":[
         "\u0424\u043b\u0435\u043d"
+    ],
+    "name:cat_x_preferred":[
+        "Flen"
+    ],
+    "name:ceb_x_preferred":[
+        "Flen"
     ],
     "name:dan_x_preferred":[
         "Flen"
@@ -44,6 +53,9 @@
     "name:hbs_x_preferred":[
         "Flen"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05dc\u05df"
+    ],
     "name:hrv_x_preferred":[
         "Flen"
     ],
@@ -53,13 +65,25 @@
     "name:ita_x_preferred":[
         "Flen"
     ],
+    "name:lit_x_preferred":[
+        "Flenas"
+    ],
+    "name:nan_x_preferred":[
+        "Flen"
+    ],
     "name:nld_x_preferred":[
         "Flen"
     ],
     "name:nno_x_preferred":[
         "Flen"
     ],
+    "name:nob_x_preferred":[
+        "Flen"
+    ],
     "name:nor_x_preferred":[
+        "Flen"
+    ],
+    "name:oci_x_preferred":[
         "Flen"
     ],
     "name:pol_x_preferred":[
@@ -70,6 +94,9 @@
     ],
     "name:ron_x_preferred":[
         "Flen"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u043b\u0435\u043d"
     ],
     "name:swe_x_preferred":[
         "Flen"
@@ -138,7 +165,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702848,
+    "wof:lastmodified":1563368808,
     "wof:name":"Flen",
     "wof:parent_id":1125356691,
     "wof:placetype":"locality",

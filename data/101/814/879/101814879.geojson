@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000607,
-    "geom:area_square_m":3049613.329004,
+    "geom:area_square_m":3049613.329,
     "geom:bbox":"17.834103807,66.0351719446,17.9143221577,66.0576715404",
     "geom:latitude":66.047813,
     "geom:longitude":17.878008,
@@ -20,10 +20,19 @@
     "name:bul_x_preferred":[
         "\u0410\u0440\u0439\u0435\u043f\u043b\u043e\u0433"
     ],
+    "name:cat_x_preferred":[
+        "Arjeplog"
+    ],
+    "name:ceb_x_preferred":[
+        "Arjeplog"
+    ],
     "name:dan_x_preferred":[
         "Arjeplog"
     ],
     "name:deu_x_preferred":[
+        "Arjeplog"
+    ],
+    "name:eng_x_preferred":[
         "Arjeplog"
     ],
     "name:epo_x_preferred":[
@@ -31,6 +40,9 @@
     ],
     "name:fao_x_preferred":[
         "Arjeplog"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u0631\u06cc\u067e\u0644\u0648\u06af"
     ],
     "name:fin_x_preferred":[
         "Arjeplog"
@@ -44,10 +56,19 @@
     "name:ita_x_preferred":[
         "Arjeplog"
     ],
+    "name:nan_x_preferred":[
+        "Arjeplog"
+    ],
+    "name:nds_x_preferred":[
+        "Arjeplog"
+    ],
     "name:nld_x_preferred":[
         "Arjeplog"
     ],
     "name:nno_x_preferred":[
+        "Arjeplog"
+    ],
+    "name:nob_x_preferred":[
         "Arjeplog"
     ],
     "name:nor_x_preferred":[
@@ -56,8 +77,20 @@
     "name:por_x_preferred":[
         "Arjeplog"
     ],
+    "name:ron_x_preferred":[
+        "Arjeplog"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u0440\u044c\u0435\u043f\u043b\u0443\u0433"
+    ],
+    "name:sje_x_preferred":[
+        "\u00c1rjepluovve"
+    ],
+    "name:smj_x_preferred":[
+        "\u00c1rjepluovve"
+    ],
+    "name:sqi_x_preferred":[
+        "Arjeplog"
     ],
     "name:swe_x_preferred":[
         "Arjeplog"
@@ -123,7 +156,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702567,
+    "wof:lastmodified":1563368920,
     "wof:name":"Arjeplog",
     "wof:parent_id":1125300073,
     "wof:placetype":"locality",

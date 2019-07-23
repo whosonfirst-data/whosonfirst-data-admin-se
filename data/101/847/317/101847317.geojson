@@ -21,11 +21,15 @@
     "name:ara_x_preferred":[
         "\u0641\u064a\u0633\u0628\u064a"
     ],
+    "name:bak_x_preferred":[
+        "\u0412\u0438\u0441\u0431\u044e"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0412\u0456\u0441\u0431\u044e"
     ],
     "name:bel_x_variant":[
-        "\u0412\u0456\u0441\u044c\u0431\u044e"
+        "\u0412\u0456\u0441\u044c\u0431\u044e",
+        "\u0412\u0456\u0441\u0431\u044e"
     ],
     "name:bre_x_preferred":[
         "Visby"
@@ -34,6 +38,9 @@
         "\u0412\u0438\u0441\u0431\u044e"
     ],
     "name:cat_x_preferred":[
+        "Visby"
+    ],
+    "name:ceb_x_preferred":[
         "Visby"
     ],
     "name:ces_x_preferred":[
@@ -93,17 +100,26 @@
     "name:gla_x_preferred":[
         "Visby"
     ],
+    "name:glg_x_preferred":[
+        "Visby"
+    ],
     "name:hbs_x_preferred":[
         "Visby"
     ],
     "name:heb_x_preferred":[
         "\u05d5\u05d9\u05e1\u05d1\u05d9"
     ],
+    "name:hin_x_preferred":[
+        "\u0935\u093f\u0938\u094d\u092c\u0940"
+    ],
     "name:hrv_x_preferred":[
         "Visby"
     ],
     "name:hun_x_preferred":[
         "Visby"
+    ],
+    "name:hye_x_preferred":[
+        "\u054e\u056b\u057d\u0562\u0575\u0578\u0582"
     ],
     "name:ind_x_preferred":[
         "Visby"
@@ -152,6 +168,12 @@
     ],
     "name:lmo_x_preferred":[
         "Visby"
+    ],
+    "name:ltz_x_preferred":[
+        "Visby"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d35\u0d3f\u0d38\u0d4d\u0d2c\u0d3f"
     ],
     "name:min_x_preferred":[
         "Visby"
@@ -225,6 +247,9 @@
     "name:swe_x_variant":[
         "Visbys"
     ],
+    "name:tat_x_preferred":[
+        "\u0412\u0438\u0441\u0431\u044e"
+    ],
     "name:tur_x_preferred":[
         "Visby"
     ],
@@ -241,6 +266,9 @@
         "Visby"
     ],
     "name:vol_x_preferred":[
+        "Visby"
+    ],
+    "name:war_x_preferred":[
         "Visby"
     ],
     "name:xmf_x_preferred":[
@@ -399,7 +427,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1561839987,
+    "wof:lastmodified":1563368879,
     "wof:name":"Visby",
     "wof:parent_id":1125326347,
     "wof:placetype":"locality",

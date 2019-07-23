@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008877,
-    "geom:area_square_m":55137147.03149,
+    "geom:area_square_m":55137147.0315,
     "geom:bbox":"17.5495405903,59.7820329882,17.7168405,59.9094452335",
     "geom:latitude":59.84745,
     "geom:longitude":17.638402,
@@ -18,19 +18,55 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":5.1,
+    "name:afr_x_preferred":[
+        "Uppsala"
+    ],
+    "name:amh_x_preferred":[
+        "\u12a1\u1355\u1233\u120b"
+    ],
     "name:ara_x_preferred":[
         "\u0623\u0648\u0628\u0633\u0627\u0644\u0627"
+    ],
+    "name:arg_x_preferred":[
+        "Uppsala"
     ],
     "name:arz_x_preferred":[
         "\u0627\u0648\u0628\u0633\u0627\u0644\u0627"
     ],
+    "name:ast_x_preferred":[
+        "Uppsala"
+    ],
+    "name:aze_x_preferred":[
+        "Uppsala"
+    ],
+    "name:bak_x_preferred":[
+        "\u0423\u043f\u043f\u0441\u0430\u043b\u0430"
+    ],
+    "name:bar_x_preferred":[
+        "Uppsala"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0423\u043f\u0441\u0430\u043b\u0430"
+    ],
+    "name:bel_x_variant":[
+        "\u0423\u043f\u0441\u0430\u043b\u0430"
+    ],
+    "name:ben_x_preferred":[
+        "\u0986\u09ab\u09b8\u09be\u09b2\u09be"
+    ],
+    "name:bos_x_preferred":[
+        "Uppsala"
+    ],
+    "name:bre_x_preferred":[
+        "Uppsala"
     ],
     "name:bul_x_preferred":[
         "\u0423\u043f\u0441\u0430\u043b\u0430"
     ],
     "name:cat_x_preferred":[
+        "Uppsala"
+    ],
+    "name:ceb_x_preferred":[
         "Uppsala"
     ],
     "name:ces_x_preferred":[
@@ -42,10 +78,25 @@
     "name:chv_x_preferred":[
         "\u0423\u043f\u043f\u0441\u0430\u043b\u0430"
     ],
+    "name:cor_x_preferred":[
+        "Uppsala"
+    ],
+    "name:cos_x_preferred":[
+        "Uppsala"
+    ],
+    "name:csb_x_preferred":[
+        "Uppsala"
+    ],
+    "name:cym_x_preferred":[
+        "Uppsala"
+    ],
     "name:dan_x_preferred":[
         "Uppsala"
     ],
     "name:deu_x_preferred":[
+        "Uppsala"
+    ],
+    "name:dsb_x_preferred":[
         "Uppsala"
     ],
     "name:ell_x_preferred":[
@@ -56,6 +107,15 @@
     ],
     "name:epo_x_preferred":[
         "Upsalo"
+    ],
+    "name:est_x_preferred":[
+        "Uppsala"
+    ],
+    "name:eus_x_preferred":[
+        "Uppsala"
+    ],
+    "name:fao_x_preferred":[
+        "Uppsala"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0648\u067e\u0633\u0627\u0644\u0627"
@@ -69,11 +129,44 @@
     "name:fra_x_preferred":[
         "Uppsala"
     ],
+    "name:frp_x_preferred":[
+        "Uppsala"
+    ],
+    "name:frr_x_preferred":[
+        "Uppsala"
+    ],
+    "name:fry_x_preferred":[
+        "Uppsala"
+    ],
+    "name:fur_x_preferred":[
+        "Uppsala"
+    ],
+    "name:gla_x_preferred":[
+        "Uppsala"
+    ],
+    "name:gle_x_preferred":[
+        "Uppsala"
+    ],
+    "name:glg_x_preferred":[
+        "Uppsala"
+    ],
+    "name:gsw_x_preferred":[
+        "Uppsala"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a85\u0aaa\u0ab8\u0abe\u0ab2\u0abe"
+    ],
     "name:heb_x_preferred":[
         "\u05d0\u05d5\u05e4\u05e1\u05dc\u05d4"
     ],
     "name:hin_x_preferred":[
         "\u0909\u092a\u094d\u0938\u093e\u0932\u093e"
+    ],
+    "name:hrv_x_preferred":[
+        "Uppsala"
+    ],
+    "name:hsb_x_preferred":[
+        "Uppsala"
     ],
     "name:hun_x_preferred":[
         "Uppsala"
@@ -87,6 +180,15 @@
     "name:iku_x_preferred":[
         "\u1406\u1449\u14f4\u14da/uupsala"
     ],
+    "name:ile_x_preferred":[
+        "Uppsala"
+    ],
+    "name:ina_x_preferred":[
+        "Uppsala"
+    ],
+    "name:ind_x_preferred":[
+        "Uppsala"
+    ],
     "name:isl_x_preferred":[
         "Uppsala"
     ],
@@ -99,11 +201,23 @@
     "name:jpn_x_preferred":[
         "\u30a6\u30d7\u30b5\u30e9"
     ],
+    "name:kal_x_preferred":[
+        "Uppsala"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c89\u0caa\u0ccd\u0caa\u0cb8\u0cbe\u0cb2"
+    ],
     "name:kat_x_preferred":[
         "\u10e3\u10e4\u10e1\u10d0\u10da\u10d0"
     ],
     "name:kaz_x_preferred":[
         "\u0423\u043f\u0441\u0430\u043b\u0430"
+    ],
+    "name:kaz_x_variant":[
+        "\u0423\u043f\u043f\u0441\u0430\u043b\u0430"
+    ],
+    "name:kon_x_preferred":[
+        "Uppsala"
     ],
     "name:kor_x_preferred":[
         "\uc6c1\uc0b4\ub77c"
@@ -114,17 +228,50 @@
     "name:lav_x_preferred":[
         "Ups\u0101la"
     ],
+    "name:lij_x_preferred":[
+        "Uppsala"
+    ],
+    "name:lim_x_preferred":[
+        "Uppsala"
+    ],
     "name:lit_x_preferred":[
         "Upsala"
+    ],
+    "name:lmo_x_preferred":[
+        "Uppsala"
+    ],
+    "name:ltz_x_preferred":[
+        "Uppsala"
     ],
     "name:mar_x_preferred":[
         "\u0909\u092a\u094d\u0938\u093e\u0932\u093e"
     ],
+    "name:min_x_preferred":[
+        "Uppsala"
+    ],
     "name:mkd_x_preferred":[
         "\u0423\u043f\u0441\u0430\u043b\u0430"
     ],
+    "name:mlg_x_preferred":[
+        "Uppsala"
+    ],
     "name:mon_x_preferred":[
         "\u04e8\u043f\u0441\u0430\u043b\u0430"
+    ],
+    "name:mri_x_preferred":[
+        "Uppsala"
+    ],
+    "name:msa_x_preferred":[
+        "Uppsala"
+    ],
+    "name:nan_x_preferred":[
+        "Uppsala"
+    ],
+    "name:nap_x_preferred":[
+        "Uppsala"
+    ],
+    "name:nds_x_preferred":[
+        "Uppsala"
     ],
     "name:nep_x_preferred":[
         "\u0909\u092a\u094d\u0938\u093e\u0932\u093e"
@@ -132,7 +279,16 @@
     "name:nld_x_preferred":[
         "Uppsala"
     ],
+    "name:nno_x_preferred":[
+        "Uppsala"
+    ],
+    "name:nob_x_preferred":[
+        "Uppsala"
+    ],
     "name:nor_x_preferred":[
+        "Uppsala"
+    ],
+    "name:nrm_x_preferred":[
         "Uppsala"
     ],
     "name:oci_x_preferred":[
@@ -141,6 +297,12 @@
     "name:oss_x_preferred":[
         "\u0423\u043f\u043f\u0441\u0430\u043b\u00e6"
     ],
+    "name:pcd_x_preferred":[
+        "Uppsala"
+    ],
+    "name:pms_x_preferred":[
+        "Uppsala"
+    ],
     "name:pnb_x_preferred":[
         "\u0627\u067e\u0633\u0627\u0644\u0627"
     ],
@@ -148,6 +310,9 @@
         "Uppsala"
     ],
     "name:por_x_preferred":[
+        "Uppsala"
+    ],
+    "name:roh_x_preferred":[
         "Uppsala"
     ],
     "name:ron_x_preferred":[
@@ -166,14 +331,41 @@
         "\u0423\u043f\u0444\u0430\u043b\u0430",
         "\u0423\u0431\u0441\u0430\u043b\u0430"
     ],
+    "name:scn_x_preferred":[
+        "Uppsala"
+    ],
+    "name:sco_x_preferred":[
+        "Uppsala"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d8b\u0db4\u0dca\u0dc3\u0dbd\u0dcf"
+    ],
     "name:slk_x_preferred":[
         "Uppsala"
+    ],
+    "name:slv_x_preferred":[
+        "Uppsala"
+    ],
+    "name:sme_x_preferred":[
+        "Uppsala"
+    ],
+    "name:snd_x_preferred":[
+        "\u0627\u067e\u0633\u0627\u0644\u0627"
     ],
     "name:spa_x_preferred":[
         "Upsala"
     ],
+    "name:sqi_x_preferred":[
+        "Uppsala"
+    ],
+    "name:srd_x_preferred":[
+        "Uppsala"
+    ],
     "name:srp_x_preferred":[
         "\u0423\u043f\u0441\u0430\u043b\u0430"
+    ],
+    "name:swa_x_preferred":[
+        "Uppsala"
     ],
     "name:swe_x_preferred":[
         "Uppsala"
@@ -181,11 +373,23 @@
     "name:swe_x_variant":[
         "Uppsalas"
     ],
+    "name:szl_x_preferred":[
+        "Uppsala"
+    ],
     "name:tam_x_preferred":[
         "\u0b89\u0baa\u0bcd\u0b9a\u0bbe\u0bb2\u0bbe"
     ],
+    "name:tat_x_preferred":[
+        "\u0423\u043f\u043f\u0441\u0430\u043b\u0430"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c09\u0c2a\u0c4d\u0c2a\u0c4d\u0c38\u0c3e\u0c32"
+    ],
     "name:tha_x_preferred":[
         "\u0e2d\u0e38\u0e1b\u0e0b\u0e2d\u0e25\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "Uppsala"
     ],
     "name:ukr_x_preferred":[
         "\u0423\u043f\u043f\u0441\u0430\u043b\u0430"
@@ -193,17 +397,47 @@
     "name:urd_x_preferred":[
         "\u0627\u0648\u067e\u0633\u0627\u0644\u0627"
     ],
+    "name:uzb_x_preferred":[
+        "Upsala"
+    ],
+    "name:vec_x_preferred":[
+        "Uppsala"
+    ],
     "name:vep_x_preferred":[
         "Uppsal"
     ],
+    "name:vie_x_preferred":[
+        "Uppsala"
+    ],
+    "name:vls_x_preferred":[
+        "Uppsala"
+    ],
     "name:vol_x_preferred":[
+        "Uppsala"
+    ],
+    "name:vro_x_preferred":[
+        "Uppsala"
+    ],
+    "name:war_x_preferred":[
+        "Uppsala"
+    ],
+    "name:wln_x_preferred":[
+        "Uppsala"
+    ],
+    "name:wol_x_preferred":[
         "Uppsala"
     ],
     "name:yid_x_preferred":[
         "\u05d0\u05d5\u05e4\u05e1\u05d0\u05dc\u05d0"
     ],
+    "name:yue_x_preferred":[
+        "\u70cf\u666e\u85a9\u62c9"
+    ],
     "name:zho_x_preferred":[
         "\u4e4c\u666e\u8428\u62c9"
+    ],
+    "name:zul_x_preferred":[
+        "Uppsala"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Sweden",
@@ -356,7 +590,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702884,
+    "wof:lastmodified":1563368581,
     "wof:name":"Uppsala",
     "wof:parent_id":1159306383,
     "wof:placetype":"locality",

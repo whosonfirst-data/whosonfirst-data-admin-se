@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001642,
-    "geom:area_square_m":9803508.337386,
+    "geom:area_square_m":9803508.337387,
     "geom:bbox":"14.5828875373,61.0931119822,14.6634447408,61.1547756124",
     "geom:latitude":61.124855,
     "geom:longitude":14.624608,
@@ -20,6 +20,9 @@
     "name:bul_x_preferred":[
         "\u041e\u0440\u0448\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Orsa"
+    ],
     "name:ces_x_preferred":[
         "Orsa"
     ],
@@ -29,14 +32,23 @@
     "name:deu_x_preferred":[
         "Orsa"
     ],
+    "name:eng_x_preferred":[
+        "Orsa"
+    ],
     "name:fao_x_preferred":[
         "Orsa"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0648\u0631\u0634\u0627"
     ],
+    "name:fas_x_variant":[
+        "\u0627\u0648\u0642\u0634\u0627"
+    ],
     "name:fin_x_preferred":[
         "Orsan kunta"
+    ],
+    "name:fin_x_variant":[
+        "Orsa"
     ],
     "name:fra_x_preferred":[
         "Orsa"
@@ -50,10 +62,19 @@
     "name:ita_x_preferred":[
         "Orsa"
     ],
+    "name:lit_x_preferred":[
+        "Orsa"
+    ],
+    "name:nan_x_preferred":[
+        "Orsa"
+    ],
     "name:nld_x_preferred":[
         "Orsa"
     ],
     "name:nno_x_preferred":[
+        "Orsa"
+    ],
+    "name:nob_x_preferred":[
         "Orsa"
     ],
     "name:nor_x_preferred":[
@@ -65,10 +86,16 @@
     "name:por_x_preferred":[
         "Orsa"
     ],
+    "name:ron_x_preferred":[
+        "Orsa"
+    ],
     "name:rus_x_preferred":[
         "\u041e\u0440\u0441\u0430"
     ],
     "name:spa_x_preferred":[
+        "Orsa"
+    ],
+    "name:sqi_x_preferred":[
         "Orsa"
     ],
     "name:swe_x_preferred":[
@@ -76,6 +103,9 @@
     ],
     "name:swe_x_variant":[
         "Orsas"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0440\u0441\u0430"
     ],
     "name:vol_x_preferred":[
         "Orsa"
@@ -135,7 +165,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529701997,
+    "wof:lastmodified":1563368719,
     "wof:name":"Orsa",
     "wof:parent_id":1125382199,
     "wof:placetype":"locality",

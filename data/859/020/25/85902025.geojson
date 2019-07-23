@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":13537115.974755,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.522973,59.329817,14.522973,59.329817",
     "geom:latitude":59.329817,
     "geom:longitude":14.522973,
@@ -25,11 +25,20 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
+    "name:ces_x_preferred":[
+        "Bofors"
+    ],
     "name:dan_x_preferred":[
         "Bofors"
     ],
     "name:deu_x_preferred":[
         "Bofors"
+    ],
+    "name:eng_x_preferred":[
+        "Bofors"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0641\u0648\u0631\u0633"
     ],
     "name:fin_x_preferred":[
         "Bofors"
@@ -49,7 +58,13 @@
     "name:jpn_x_preferred":[
         "\u30dc\u30d5\u30a9\u30fc\u30b9"
     ],
+    "name:kat_x_preferred":[
+        "Bofors"
+    ],
     "name:nld_x_preferred":[
+        "Bofors"
+    ],
+    "name:nob_x_preferred":[
         "Bofors"
     ],
     "name:nor_x_preferred":[
@@ -69,6 +84,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0baa\u0bcb\u0baa\u0bb0\u0bcd\u0bb8\u0bcd"
+    ],
+    "name:tur_x_preferred":[
+        "Bofors"
     ],
     "name:ukr_x_preferred":[
         "\u0411\u043e\u0444\u043e\u0440\u0441"
@@ -111,12 +129,12 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":731,
     "wof:belongsto":[
-        85688421,
         102191581,
         1125394693,
         85633789,
         101815827,
-        1159303287
+        1159303287,
+        85688421
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -143,7 +161,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1531935845,
+    "wof:lastmodified":1563366588,
     "wof:name":"Bofors",
     "wof:parent_id":101815827,
     "wof:placetype":"neighbourhood",

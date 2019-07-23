@@ -26,7 +26,16 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "M\u00e4larh\u00f6jden"
+    ],
     "name:fin_x_preferred":[
+        "M\u00e4larh\u00f6jden"
+    ],
+    "name:fra_x_preferred":[
+        "M\u00e4larh\u00f6jden"
+    ],
+    "name:nob_x_preferred":[
         "M\u00e4larh\u00f6jden"
     ],
     "name:nor_x_preferred":[
@@ -85,12 +94,12 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":58,
     "wof:belongsto":[
-        85688429,
         102191581,
         1125362217,
         85633789,
         101752307,
-        1159303035
+        1159303035,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -117,7 +126,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702786,
+    "wof:lastmodified":1563366509,
     "wof:name":"M\u00e4larh\u00f6jden",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

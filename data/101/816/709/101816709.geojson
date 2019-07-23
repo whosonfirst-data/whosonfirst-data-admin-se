@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001783,
-    "geom:area_square_m":12061293.54026,
+    "geom:area_square_m":12061293.540261,
     "geom:bbox":"13.9034159972,56.813084041,13.9778201672,56.8548159246",
     "geom:latitude":56.832873,
     "geom:longitude":13.937087,
@@ -20,10 +20,19 @@
     "name:bul_x_preferred":[
         "\u042e\u043d\u0433\u0431\u044e"
     ],
+    "name:ceb_x_preferred":[
+        "Ljungby"
+    ],
+    "name:cym_x_preferred":[
+        "Ljungby"
+    ],
     "name:dan_x_preferred":[
         "Ljungby"
     ],
     "name:deu_x_preferred":[
+        "Ljungby"
+    ],
+    "name:eng_x_preferred":[
         "Ljungby"
     ],
     "name:fao_x_preferred":[
@@ -41,6 +50,9 @@
     "name:hbs_x_preferred":[
         "Ljungby"
     ],
+    "name:heb_x_preferred":[
+        "\u05d9\u05d5\u05e0\u05d2\u05d1\u05d9"
+    ],
     "name:hrv_x_preferred":[
         "Ljungby"
     ],
@@ -53,13 +65,22 @@
     "name:ita_x_preferred":[
         "Ljungby"
     ],
+    "name:jpn_x_preferred":[
+        "\u30e6\u30f3\u30b0\u30d3\u30e5\u30fc"
+    ],
     "name:lit_x_preferred":[
         "Jungbis"
+    ],
+    "name:nan_x_preferred":[
+        "Ljungby"
     ],
     "name:nld_x_preferred":[
         "Ljungby"
     ],
     "name:nno_x_preferred":[
+        "Ljungby"
+    ],
+    "name:nob_x_preferred":[
         "Ljungby"
     ],
     "name:nor_x_preferred":[
@@ -72,6 +93,15 @@
         "Ljungby"
     ],
     "name:ron_x_preferred":[
+        "Ljungby"
+    ],
+    "name:rup_x_preferred":[
+        "Ljungby"
+    ],
+    "name:rus_x_preferred":[
+        "\u042e\u043d\u0433\u0431\u044e"
+    ],
+    "name:slv_x_preferred":[
         "Ljungby"
     ],
     "name:sme_x_preferred":[
@@ -91,6 +121,9 @@
     ],
     "name:tur_x_preferred":[
         "Ljungby"
+    ],
+    "name:ukr_x_preferred":[
+        "\u042e\u043d\u0433\u0431\u044e"
     ],
     "name:vol_x_preferred":[
         "Ljungby"
@@ -154,7 +187,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702535,
+    "wof:lastmodified":1563368619,
     "wof:name":"Ljungby",
     "wof:parent_id":1125287747,
     "wof:placetype":"locality",

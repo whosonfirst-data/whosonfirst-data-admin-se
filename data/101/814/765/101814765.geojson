@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003959,
-    "geom:area_square_m":22003927.864436,
+    "geom:area_square_m":22003927.864433,
     "geom:bbox":"18.6432679248,63.2427179089,18.8011692765,63.324915985",
     "geom:latitude":63.286825,
     "geom:longitude":18.710571,
@@ -30,6 +30,9 @@
     "name:cat_x_preferred":[
         "\u00d6rnsk\u00f6ldsvik"
     ],
+    "name:ceb_x_preferred":[
+        "\u00d6rnsk\u00f6ldsvik"
+    ],
     "name:ces_x_preferred":[
         "\u00d6rnsk\u00f6ldsvik"
     ],
@@ -42,14 +45,59 @@
     "name:ell_x_preferred":[
         "\u038c\u03c1\u03bd\u03c3\u03ba\u03bf\u03bb\u03bd\u03c4\u03c3\u03b2\u03b9\u03ba"
     ],
+    "name:eng_x_preferred":[
+        "\u00d6rnsk\u00f6ldsvik"
+    ],
     "name:eng_x_variant":[
         "OER"
     ],
     "name:epo_x_preferred":[
         "\u00d6rnsk\u00f6ldsvik"
     ],
+    "name:est_x_preferred":[
+        "\u00d6rnsk\u00f6ldsvik"
+    ],
+    "name:eus_x_preferred":[
+        "\u00d6rnsk\u00f6ldsvik"
+    ],
+    "name:fao_x_preferred":[
+        "\u00d6rnsk\u00f6ldsvik"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0646\u0634\u0644\u062f\u0633\u0648\u06cc\u06a9"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u0648\u0646\u062e\u0644\u0645\u0633\u062f\u06cc\u06a9"
+    ],
+    "name:fin_x_preferred":[
+        "\u00d6rnsk\u00f6ldsvik"
+    ],
+    "name:fra_x_preferred":[
+        "\u00d6rnsk\u00f6ldsvik"
+    ],
+    "name:frr_x_preferred":[
+        "\u00d6rnsk\u00f6ldsvik"
+    ],
+    "name:fry_x_preferred":[
+        "\u00d6rnsk\u00f6ldsvik"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05e8\u05e0\u05e9\u05dc\u05d3\u05e1\u05d5\u05d5\u05d9\u05e7"
+    ],
+    "name:hrv_x_preferred":[
+        "\u00d6rnsk\u00f6ldsvik"
+    ],
+    "name:hun_x_preferred":[
+        "\u00d6rnsk\u00f6ldsvik"
+    ],
+    "name:ind_x_preferred":[
+        "\u00d6rnsk\u00f6ldsvik"
+    ],
+    "name:isl_x_preferred":[
+        "\u00d6rnsk\u00f6ldsvik"
+    ],
+    "name:ita_x_preferred":[
+        "\u00d6rnsk\u00f6ldsvik"
     ],
     "name:jpn_x_preferred":[
         "\u30a8\u30eb\u30f3\u30b7\u30a7\u30eb\u30c4\u30d3\u30af"
@@ -69,20 +117,56 @@
     "name:lit_x_preferred":[
         "Ern\u0161ioldsvikas"
     ],
+    "name:min_x_preferred":[
+        "\u00d6rnsk\u00f6ldsvik"
+    ],
+    "name:nan_x_preferred":[
+        "\u00d6rnsk\u00f6ldsvik"
+    ],
+    "name:nld_x_preferred":[
+        "\u00d6rnsk\u00f6ldsvik"
+    ],
+    "name:nno_x_preferred":[
+        "\u00d6rnsk\u00f6ldsvik"
+    ],
+    "name:nob_x_preferred":[
+        "\u00d6rnsk\u00f6ldsvik"
+    ],
     "name:nor_x_preferred":[
         "\u00d8rnsk\u00f8ldsvik"
     ],
     "name:nor_x_variant":[
         "\u00d6rnsk\u00f6ldsvik"
     ],
+    "name:oci_x_preferred":[
+        "\u00d6rnsk\u00f6ldsvik"
+    ],
+    "name:pol_x_preferred":[
+        "\u00d6rnsk\u00f6ldsvik"
+    ],
+    "name:por_x_preferred":[
+        "\u00d6rnsk\u00f6ldsvik"
+    ],
+    "name:ron_x_preferred":[
+        "\u00d6rnsk\u00f6ldsvik"
+    ],
     "name:rus_x_preferred":[
         "\u042d\u0440\u043d\u0448\u0451\u043b\u044c\u0434\u0441\u0432\u0438\u043a"
+    ],
+    "name:sco_x_preferred":[
+        "\u00d6rnsk\u00f6ldsvik"
+    ],
+    "name:slv_x_preferred":[
+        "\u00d6rnsk\u00f6ldsvik"
     ],
     "name:spa_x_preferred":[
         "\u00d6rnsk\u00f6ldsvik"
     ],
     "name:srp_x_preferred":[
         "\u0415\u0440\u043d\u0448\u0435\u043b\u0434\u0441\u0432\u0438\u043a"
+    ],
+    "name:swa_x_preferred":[
+        "\u00d6rnsk\u00f6ldsvik"
     ],
     "name:swe_x_colloquial":[
         "Oernskoeldsvik",
@@ -106,8 +190,17 @@
     "name:tha_x_preferred":[
         "\u0e40\u0e2d\u0e34\u0e23\u0e4c\u0e19\u0e40\u0e0a\u0e34\u0e25\u0e2a\u0e4c\u0e27\u0e35\u0e01"
     ],
+    "name:tur_x_preferred":[
+        "\u00d6rnsk\u00f6ldsvik"
+    ],
     "name:ukr_x_preferred":[
         "\u0415\u0440\u043d\u0448\u0435\u043b\u044c\u0434\u0441\u0432\u0456\u043a"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0648\u0631\u0646\u06a9\u0648\u0644\u062f\u0633\u0648\u06cc\u06a9"
+    ],
+    "name:vol_x_preferred":[
+        "\u00d6rnsk\u00f6ldsvik"
     ],
     "name:zho_x_preferred":[
         "\u6069\u820d\u5c14\u5179\u7ef4\u514b"
@@ -259,7 +352,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702999,
+    "wof:lastmodified":1563368901,
     "wof:name":"\u00d6rnsk\u00f6ldsvik",
     "wof:parent_id":1125409983,
     "wof:placetype":"locality",

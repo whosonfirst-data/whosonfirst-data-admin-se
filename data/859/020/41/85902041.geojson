@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000229,
-    "geom:area_square_m":1443707.105155,
+    "geom:area_square_m":1443707.105156,
     "geom:bbox":"18.1974247533,59.3443943276,18.2236797072,59.3611951825",
     "geom:latitude":59.351738,
     "geom:longitude":18.210037,
@@ -27,6 +27,45 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":5,
     "mz:tier_metro":1,
+    "name:bul_x_preferred":[
+        "\u0411\u0440\u0435\u0432\u0438\u043a"
+    ],
+    "name:ceb_x_preferred":[
+        "Brevik"
+    ],
+    "name:dan_x_preferred":[
+        "Brevik"
+    ],
+    "name:deu_x_preferred":[
+        "Brevik"
+    ],
+    "name:eng_x_preferred":[
+        "Brevik"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0631\u0648\u06cc\u06a9"
+    ],
+    "name:fra_x_preferred":[
+        "Brevik"
+    ],
+    "name:ita_x_preferred":[
+        "Brevik"
+    ],
+    "name:nan_x_preferred":[
+        "Brevik"
+    ],
+    "name:nds_x_preferred":[
+        "Brevik"
+    ],
+    "name:nld_x_preferred":[
+        "Brevik"
+    ],
+    "name:nno_x_preferred":[
+        "Brevik"
+    ],
+    "name:nob_x_preferred":[
+        "Brevik"
+    ],
     "name:swe_x_preferred":[
         "Brevik"
     ],
@@ -63,12 +102,12 @@
     "src:lbl:centroid":"mz",
     "src:population":"geonames",
     "wof:belongsto":[
-        85688429,
         102191581,
         1125394719,
         85633789,
         101839525,
-        1159303469
+        1159303469,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -96,7 +135,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702776,
+    "wof:lastmodified":1563366585,
     "wof:name":"Brevik",
     "wof:parent_id":101839525,
     "wof:placetype":"neighbourhood",
