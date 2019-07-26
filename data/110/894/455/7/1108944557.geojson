@@ -21,17 +21,23 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_metro":30,
+    "name:dan_x_preferred":[
+        "Glostorp"
+    ],
     "name:swe_x_preferred":[
         "Gl\u00f6storp"
     ],
+    "name:swe_x_variant":[
+        "Glostorp"
+    ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
-        85688411,
         102191581,
         1125287157,
         85633789,
         101752295,
-        1159302989
+        1159302989,
+        85688411
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -50,7 +56,7 @@
         }
     ],
     "wof:id":1108944557,
-    "wof:lastmodified":1529702280,
+    "wof:lastmodified":1564164225,
     "wof:name":"Glostorp",
     "wof:parent_id":101752295,
     "wof:placetype":"neighbourhood",

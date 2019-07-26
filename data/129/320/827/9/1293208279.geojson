@@ -25,14 +25,183 @@
     "iso:country":"SE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "Torso"
+    ],
+    "name:ara_x_preferred":[
+        "\u062c\u0630\u0639"
+    ],
+    "name:arg_x_preferred":[
+        "Tronco"
+    ],
+    "name:aym_x_preferred":[
+        "Tullu"
+    ],
+    "name:azb_x_preferred":[
+        "\u06af\u0624\u0648\u062f\u0647(\u0627\u06cc\u0646\u0633\u0627\u0646)"
+    ],
+    "name:bel_x_preferred":[
+        "\u0422\u0443\u043b\u0430\u0432\u0430"
+    ],
+    "name:bul_x_preferred":[
+        "\u0422\u0443\u043b\u043e\u0432\u0438\u0449\u0435"
+    ],
+    "name:cat_x_preferred":[
+        "Tronc"
+    ],
+    "name:ces_x_preferred":[
+        "Trup"
+    ],
+    "name:dan_x_preferred":[
+        "Torso"
+    ],
+    "name:deu_x_preferred":[
+        "Rumpf"
+    ],
+    "name:epo_x_preferred":[
+        "Torso"
+    ],
+    "name:est_x_preferred":[
+        "Kere"
+    ],
+    "name:eus_x_preferred":[
+        "Gorputz-enbor"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u06cc\u0645\u200c\u062a\u0646\u0647"
+    ],
+    "name:fin_x_preferred":[
+        "Torso"
+    ],
+    "name:fra_x_preferred":[
+        "Tronc"
+    ],
+    "name:gla_x_preferred":[
+        "Colann"
+    ],
+    "name:gle_x_preferred":[
+        "T\u00f3racs"
+    ],
+    "name:glg_x_preferred":[
+        "Tronco"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d2\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u0927\u0921\u093c"
+    ],
+    "name:hrv_x_preferred":[
+        "Torzo"
+    ],
+    "name:hun_x_preferred":[
+        "Torz\u00f3"
+    ],
+    "name:ido_x_preferred":[
+        "Torso"
+    ],
+    "name:ind_x_preferred":[
+        "Trunkus"
+    ],
+    "name:kab_x_preferred":[
+        "Igiger"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cae\u0cc1\u0c82\u0ca1"
+    ],
+    "name:kur_x_preferred":[
+        "La\u015fqolik"
+    ],
+    "name:lbe_x_preferred":[
+        "\u041b\u044f\u043b\u0430\u043b\u0443"
+    ],
+    "name:lit_x_preferred":[
+        "Liemuo"
+    ],
+    "name:ltg_x_preferred":[
+        "Vytr\u016bps"
+    ],
+    "name:nld_x_preferred":[
+        "Romp"
+    ],
+    "name:nno_x_preferred":[
+        "Bol"
+    ],
     "name:nor_x_preferred":[
         "Tors\u00f6"
     ],
     "name:nor_x_variant":[
-        "Tors\u00f8"
+        "Tors\u00f8",
+        "Torso"
+    ],
+    "name:oci_x_preferred":[
+        "Tronc"
+    ],
+    "name:pol_x_preferred":[
+        "Tu\u0142\u00f3w"
+    ],
+    "name:por_x_preferred":[
+        "Tronco"
+    ],
+    "name:pus_x_preferred":[
+        "\u0627\u062a\u0631\u0647"
+    ],
+    "name:ron_x_preferred":[
+        "Trunchi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0443\u043b\u043e\u0432\u0438\u0449\u0435"
+    ],
+    "name:sco_x_preferred":[
+        "Torso"
+    ],
+    "name:slk_x_preferred":[
+        "Trup"
+    ],
+    "name:som_x_preferred":[
+        "Ubuc"
+    ],
+    "name:spa_x_preferred":[
+        "Tronco"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u043e\u0440\u0437\u043e"
+    ],
+    "name:swa_x_preferred":[
+        "Kiwiliwili"
+    ],
+    "name:swe_x_preferred":[
+        "Torso"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2e\u0c4a\u0c02\u0c21\u0c46\u0c02"
+    ],
+    "name:tgl_x_preferred":[
+        "Punungkatawan"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e25\u0e33\u0e15\u0e31\u0e27"
+    ],
+    "name:tur_x_preferred":[
+        "G\u00f6vde"
+    ],
+    "name:uig_x_preferred":[
+        "\u06af\u06d5\u06cb\u062f\u06d5"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0443\u043b\u0443\u0431"
     ],
     "name:und_x_variant":[
         "Tors\u00f6"
+    ],
+    "name:urd_x_preferred":[
+        "\u062f\u06be\u0691"
+    ],
+    "name:vie_x_preferred":[
+        "Th\u00e2n m\u00ecnh"
+    ],
+    "name:xho_x_preferred":[
+        "Isibhukubhuku somzimba"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +226,7 @@
         }
     ],
     "wof:id":1293208279,
-    "wof:lastmodified":1537699770,
+    "wof:lastmodified":1564162855,
     "wof:name":"Torso",
     "wof:parent_id":1125373105,
     "wof:placetype":"locality",

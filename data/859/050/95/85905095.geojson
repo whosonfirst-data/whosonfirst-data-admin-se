@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000221,
-    "geom:area_square_m":1387900.512206,
+    "geom:area_square_m":1387900.512205,
     "geom:bbox":"18.0333462231,59.3958359167,18.0567419024,59.4128489525",
     "geom:latitude":59.404589,
     "geom:longitude":18.046806,
@@ -26,11 +26,110 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "mz:tier_metro":1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0631\u063a\u0627"
+    ],
+    "name:arg_x_preferred":[
+        "Berga"
+    ],
+    "name:azb_x_preferred":[
+        "\u0628\u0631\u0642\u0627"
+    ],
+    "name:cat_x_preferred":[
+        "Berga"
+    ],
+    "name:deu_x_preferred":[
+        "Berga"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03ad\u03c1\u03b3\u03b1"
+    ],
+    "name:epo_x_preferred":[
+        "Berga"
+    ],
+    "name:eus_x_preferred":[
+        "Berga"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0631\u06af\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Berga"
+    ],
+    "name:fra_x_preferred":[
+        "Berga"
+    ],
+    "name:gle_x_preferred":[
+        "Berga"
+    ],
+    "name:glg_x_preferred":[
+        "Berga"
+    ],
+    "name:hun_x_preferred":[
+        "Berga"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0565\u0580\u0563\u0561"
+    ],
+    "name:ita_x_preferred":[
+        "Berga"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d9\u30eb\u30ac"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0435\u0440\u0433\u0430"
+    ],
+    "name:lat_x_preferred":[
+        "Berga"
+    ],
+    "name:msa_x_preferred":[
+        "Berga"
+    ],
+    "name:nld_x_preferred":[
+        "Berga"
+    ],
+    "name:oci_x_preferred":[
+        "Berga"
+    ],
+    "name:pol_x_preferred":[
+        "Berga"
+    ],
+    "name:por_x_preferred":[
+        "Berga"
+    ],
+    "name:ron_x_preferred":[
+        "Berga"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0440\u0433\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Berga"
+    ],
+    "name:sqi_x_preferred":[
+        "Berga"
+    ],
     "name:swe_x_preferred":[
         "Berga"
     ],
+    "name:tah_x_preferred":[
+        "Berga"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u0440\u0491\u0430"
+    ],
     "name:unk_x_variant":[
         "Berga"
+    ],
+    "name:uzb_x_preferred":[
+        "Berga"
+    ],
+    "name:war_x_preferred":[
+        "Berga"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d1d\u5c14\u52a0"
     ],
     "qs:gn_adm0_cc":"SE",
     "qs:gn_fcode":"PPL",
@@ -61,12 +160,12 @@
     ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
-        85688429,
         102191581,
         1125362217,
         85633789,
         101752307,
-        1159303035
+        1159303035,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,7 +191,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702802,
+    "wof:lastmodified":1564162473,
     "wof:name":"Berga",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

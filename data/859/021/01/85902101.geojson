@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":21815139.366263,
+    "geom:area_square_m":0.0,
     "geom:bbox":"17.053191,59.625478,17.053191,59.625478",
     "geom:latitude":59.625478,
     "geom:longitude":17.053191,
@@ -25,6 +25,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
+    "name:azb_x_preferred":[
+        "\u0641\u0627\u0646\u0627"
+    ],
     "name:bel_x_preferred":[
         "\u0424\u0430\u043d\u0430"
     ],
@@ -32,6 +35,9 @@
         "\u0424\u0430\u043d\u0430"
     ],
     "name:cat_x_preferred":[
+        "Fanna"
+    ],
+    "name:ceb_x_preferred":[
         "Fanna"
     ],
     "name:deu_x_preferred":[
@@ -42,6 +48,9 @@
     ],
     "name:eus_x_preferred":[
         "Fanna"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0627\u0646\u0627"
     ],
     "name:fra_x_preferred":[
         "Fanna"
@@ -198,7 +207,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1531935855,
+    "wof:lastmodified":1564162471,
     "wof:name":"Fanna",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":15049759.823345,
+    "geom:area_square_m":0.0,
     "geom:bbox":"17.645303,59.513651,17.645303,59.513651",
     "geom:latitude":59.513651,
     "geom:longitude":17.645303,
@@ -24,6 +24,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
+    "name:ceb_x_preferred":[
+        "Bro"
+    ],
     "name:dan_x_preferred":[
         "Bro"
     ],
@@ -32,6 +35,12 @@
     ],
     "name:epo_x_preferred":[
         "BRO"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0631\u0648"
+    ],
+    "name:fin_x_preferred":[
+        "Bro"
     ],
     "name:fra_x_preferred":[
         "BRO"
@@ -87,12 +96,12 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":175,
     "wof:belongsto":[
-        85688429,
         102191581,
         1125345245,
         85633789,
         101815891,
-        1159303115
+        1159303115,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -117,7 +126,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1531935849,
+    "wof:lastmodified":1564162461,
     "wof:name":"Bro",
     "wof:parent_id":101815891,
     "wof:placetype":"neighbourhood",

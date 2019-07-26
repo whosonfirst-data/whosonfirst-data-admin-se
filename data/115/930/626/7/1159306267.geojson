@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005441,
+    "geom:area_square_m":35878444.487379,
     "geom:bbox":"18.3754336214,57.727033441,18.4904877388,57.8231052891",
     "geom:latitude":57.76747,
     "geom:longitude":18.433276,
@@ -15,11 +16,17 @@
     "mps:longitude":18.429343,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Lummelunda socken"
+    ],
     "name:eng_x_preferred":[
         "Lummelunda"
     ],
     "name:swe_x_preferred":[
         "Lummelunda"
+    ],
+    "name:swe_x_variant":[
+        "Lummelunda socken"
     ],
     "se-lant:distrkod":106078,
     "se-lant:distrnamn":"Lummelunda",
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":1159306267,
-    "wof:lastmodified":1529702022,
+    "wof:lastmodified":1564165526,
     "wof:name":"Lummelunda",
     "wof:parent_id":1159303535,
     "wof:placetype":"localadmin",

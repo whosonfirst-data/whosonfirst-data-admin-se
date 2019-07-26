@@ -26,6 +26,9 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":4,
     "mz:tier_metro":30,
+    "name:ceb_x_preferred":[
+        "Garda"
+    ],
     "name:ces_x_preferred":[
         "Garda"
     ],
@@ -33,6 +36,9 @@
         "Garda"
     ],
     "name:eus_x_preferred":[
+        "Garda"
+    ],
+    "name:fin_x_preferred":[
         "Garda"
     ],
     "name:fra_x_preferred":[
@@ -44,11 +50,20 @@
     "name:hun_x_preferred":[
         "Garda"
     ],
+    "name:hye_x_preferred":[
+        "\u0533\u0561\u0580\u0564\u0561"
+    ],
     "name:ita_x_preferred":[
         "Garda"
     ],
     "name:jpn_x_preferred":[
         "\u30ac\u30eb\u30c0"
+    ],
+    "name:kor_x_preferred":[
+        "\uac00\ub974\ub2e4"
+    ],
+    "name:lat_x_preferred":[
+        "Garda"
     ],
     "name:lit_x_preferred":[
         "Garda"
@@ -123,12 +138,12 @@
     ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
-        85688411,
         102191581,
         1125287157,
         85633789,
         101752295,
-        1159302989
+        1159302989,
+        85688411
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -154,7 +169,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702309,
+    "wof:lastmodified":1564162478,
     "wof:name":"Garda",
     "wof:parent_id":101752295,
     "wof:placetype":"neighbourhood",

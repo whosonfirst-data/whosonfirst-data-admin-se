@@ -26,6 +26,87 @@
     "mz:note":"municipality",
     "mz:tier_locality":5,
     "mz:tier_metro":1,
+    "name:ast_x_preferred":[
+        "Liding\u00f6"
+    ],
+    "name:bul_x_preferred":[
+        "\u041b\u0438\u0434\u0438\u043d\u0433\u044c\u043e"
+    ],
+    "name:dan_x_preferred":[
+        "Liding\u00f6"
+    ],
+    "name:deu_x_preferred":[
+        "Liding\u00f6"
+    ],
+    "name:fao_x_preferred":[
+        "Liding\u00f6"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u06cc\u062f\u06cc\u0646\u06cc\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Liding\u00f6"
+    ],
+    "name:fra_x_preferred":[
+        "Liding\u00f6"
+    ],
+    "name:hrv_x_preferred":[
+        "Liding\u00f6"
+    ],
+    "name:hun_x_preferred":[
+        "Liding\u00f6"
+    ],
+    "name:ido_x_preferred":[
+        "Liding\u00f6"
+    ],
+    "name:isl_x_preferred":[
+        "Liding\u00f6"
+    ],
+    "name:ita_x_preferred":[
+        "Liding\u00f6"
+    ],
+    "name:kat_x_preferred":[
+        "\u10da\u10d8\u10d3\u10d8\u10dc\u10d2\u10d4"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041b\u0438\u0434\u0438\u043d\u0433\u0451"
+    ],
+    "name:lit_x_preferred":[
+        "Liding\u0117"
+    ],
+    "name:min_x_preferred":[
+        "Liding\u00f6"
+    ],
+    "name:nld_x_preferred":[
+        "Liding\u00f6"
+    ],
+    "name:nno_x_preferred":[
+        "Liding\u00f6"
+    ],
+    "name:nor_x_preferred":[
+        "Liding\u00f6"
+    ],
+    "name:pol_x_preferred":[
+        "Liding\u00f6"
+    ],
+    "name:por_x_preferred":[
+        "Liding\u00f6"
+    ],
+    "name:ron_x_preferred":[
+        "Liding\u00f6"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0438\u0434\u0438\u043d\u0433\u0451"
+    ],
+    "name:spa_x_preferred":[
+        "Liding\u00f6"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0438\u0434\u0438\u043d\u0433\u0435"
+    ],
+    "name:swa_x_preferred":[
+        "Liding\u00f6"
+    ],
     "name:swe_x_colloquial":[
         "Lidingo",
         "Lidingoe"
@@ -33,11 +114,20 @@
     "name:swe_x_preferred":[
         "Liding\u00f6"
     ],
-    "name:swe_x_variant":[
+    "name:tur_x_preferred":[
         "Liding\u00f6"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0456\u0434\u0456\u043d\u0433\u0435"
     ],
     "name:unk_x_variant":[
         "Liding\u00f6"
+    ],
+    "name:vol_x_preferred":[
+        "Liding\u00f6"
+    ],
+    "name:zho_x_preferred":[
+        "\u5229\u4e01\u5384"
     ],
     "qs:gn_adm0_cc":"SE",
     "qs:gn_id":0,
@@ -66,12 +156,12 @@
     ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
-        85688429,
         102191581,
         1125394719,
         85633789,
         101839523,
-        1159303469
+        1159303469,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -96,7 +186,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702785,
+    "wof:lastmodified":1564162423,
     "wof:name":"Liding\u00f6",
     "wof:parent_id":101839523,
     "wof:placetype":"neighbourhood",

@@ -21,14 +21,29 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_metro":30,
+    "name:ceb_x_preferred":[
+        "Berghem"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0631\u062e\u0647\u0645"
+    ],
+    "name:fra_x_preferred":[
+        "Berghem"
+    ],
+    "name:ita_x_preferred":[
+        "Berghem"
+    ],
+    "name:nld_x_preferred":[
+        "Berghem"
+    ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
-        85688411,
         102191581,
         1125287157,
         85633789,
         101752295,
-        1159302989
+        1159302989,
+        85688411
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -47,7 +62,7 @@
         }
     ],
     "wof:id":1108944573,
-    "wof:lastmodified":1529702297,
+    "wof:lastmodified":1564164241,
     "wof:name":"Berghem",
     "wof:parent_id":101752295,
     "wof:placetype":"neighbourhood",

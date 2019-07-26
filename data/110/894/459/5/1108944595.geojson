@@ -21,14 +21,35 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_metro":30,
+    "name:ceb_x_preferred":[
+        "Hult"
+    ],
+    "name:deu_x_preferred":[
+        "Hult"
+    ],
+    "name:fin_x_preferred":[
+        "Hult"
+    ],
+    "name:fra_x_preferred":[
+        "Hult"
+    ],
+    "name:nld_x_preferred":[
+        "Hult"
+    ],
+    "name:swe_x_preferred":[
+        "Hult"
+    ],
+    "name:zho_x_preferred":[
+        "\u970d\u5c14\u7279"
+    ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
-        85688411,
         102191581,
         1125382051,
         85633789,
         101840187,
-        1159303503
+        1159303503,
+        85688411
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -47,7 +68,7 @@
         }
     ],
     "wof:id":1108944595,
-    "wof:lastmodified":1529702301,
+    "wof:lastmodified":1564164243,
     "wof:name":"Hult",
     "wof:parent_id":101840187,
     "wof:placetype":"neighbourhood",

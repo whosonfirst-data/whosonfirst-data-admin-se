@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0002,
-    "geom:area_square_m":1264097.669256,
+    "geom:area_square_m":1264097.669257,
     "geom:bbox":"18.0144702986,59.2786698334,18.0395507812,59.2939421453",
     "geom:latitude":59.286284,
     "geom:longitude":18.026737,
@@ -47,13 +47,22 @@
     "name:isl_x_preferred":[
         "Liseberg"
     ],
+    "name:ita_x_preferred":[
+        "Liseberg"
+    ],
     "name:jpn_x_preferred":[
         "\u30ea\u30bb\u30d9\u30ea"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9ac\uc138\ubca0\ub9ac"
     ],
     "name:mal_x_preferred":[
         "\u0d32\u0d3f\u0d38\u0d4d\u0d2c\u0d46\u0d7c\u0d17\u0d4d"
     ],
     "name:nld_x_preferred":[
+        "Liseberg"
+    ],
+    "name:nno_x_preferred":[
         "Liseberg"
     ],
     "name:nor_x_preferred":[
@@ -68,6 +77,9 @@
     "name:rus_x_preferred":[
         "\u041b\u0438\u0441\u0435\u0431\u0435\u0440\u0433"
     ],
+    "name:sna_x_preferred":[
+        "Liseberg"
+    ],
     "name:spa_x_preferred":[
         "Liseberg"
     ],
@@ -76,6 +88,9 @@
     ],
     "name:tgl_x_preferred":[
         "Liseberg"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0456\u0441\u0435\u0431\u0435\u0440\u0433"
     ],
     "name:unk_x_variant":[
         "Liseberg"
@@ -113,12 +128,12 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":1825,
     "wof:belongsto":[
-        85688429,
         102191581,
         1125362217,
         85633789,
         101752307,
-        1159303035
+        1159303035,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -144,7 +159,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702786,
+    "wof:lastmodified":1564162421,
     "wof:name":"Liseberg",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

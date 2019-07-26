@@ -18,6 +18,18 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fin_x_preferred":[
+        "Svedmyra"
+    ],
+    "name:nor_x_preferred":[
+        "Svedmyra"
+    ],
+    "name:pol_x_preferred":[
+        "Svedmyra"
+    ],
+    "name:swe_x_preferred":[
+        "Svedmyra"
+    ],
     "qs_pg:aaroncc":"SE",
     "qs_pg:gn_country":"SE",
     "qs_pg:gn_fcode":"PPLX",
@@ -45,12 +57,12 @@
     "woe:name_adm1":"Stockholms L\u00e4n",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
-        85688429,
         102191581,
         1125362217,
         85633789,
         101752307,
-        1159303035
+        1159303035,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,7 +85,7 @@
         }
     ],
     "wof:id":1126066373,
-    "wof:lastmodified":1529702822,
+    "wof:lastmodified":1564165377,
     "wof:name":"Svedmyra",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5218554.977477,
+    "geom:area_square_m":0.0,
     "geom:bbox":"18.302765,59.465767,18.302765,59.465767",
     "geom:latitude":59.465767,
     "geom:longitude":18.302765,
@@ -23,6 +23,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
+    "name:ceb_x_preferred":[
+        "N\u00e4s"
+    ],
     "name:nld_x_preferred":[
         "N\u00e4s"
     ],
@@ -67,12 +70,12 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":28,
     "wof:belongsto":[
-        85688429,
         102191581,
         1125423247,
         85633789,
         101815899,
-        1159303039
+        1159303039,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,7 +98,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1531935878,
+    "wof:lastmodified":1564162412,
     "wof:name":"N\u00e4s",
     "wof:parent_id":101815899,
     "wof:placetype":"neighbourhood",

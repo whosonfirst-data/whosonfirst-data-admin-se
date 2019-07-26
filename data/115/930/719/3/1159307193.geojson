@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006147,
+    "geom:area_square_m":41009506.00673,
     "geom:bbox":"18.4260720637,57.3092089769,18.5787129288,57.3818130123",
     "geom:latitude":57.350631,
     "geom:longitude":18.50147,
@@ -15,11 +16,17 @@
     "mps:longitude":18.508967,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Etelhem socken"
+    ],
     "name:eng_x_preferred":[
         "Etelhem"
     ],
     "name:swe_x_preferred":[
         "Etelhem"
+    ],
+    "name:swe_x_variant":[
+        "Etelhems socken"
     ],
     "se-lant:distrkod":106033,
     "se-lant:distrnamn":"Etelhem",
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":1159307193,
-    "wof:lastmodified":1529702025,
+    "wof:lastmodified":1564165724,
     "wof:name":"Etelhem",
     "wof:parent_id":1159303535,
     "wof:placetype":"localadmin",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002768,
+    "geom:area_square_m":18211800.158225,
     "geom:bbox":"13.1926719651,57.8286536664,13.2730553492,57.8818507595",
     "geom:latitude":57.855518,
     "geom:longitude":13.231392,
@@ -15,11 +16,23 @@
     "mps:longitude":13.231424,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "H\u0101rn\u0101"
+    ],
     "name:eng_x_preferred":[
+        "Harna"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u0627\u0631\u0646\u0627"
+    ],
+    "name:msa_x_preferred":[
         "Harna"
     ],
     "name:swe_x_preferred":[
         "H\u00e4rna"
+    ],
+    "name:swe_x_variant":[
+        "H\u0101rn\u0101"
     ],
     "se-lant:distrkod":107123,
     "se-lant:distrnamn":"H\u00e4rna",
@@ -48,7 +61,7 @@
         }
     ],
     "wof:id":1159306701,
-    "wof:lastmodified":1529702144,
+    "wof:lastmodified":1564165666,
     "wof:name":"Harna",
     "wof:parent_id":1159303161,
     "wof:placetype":"localadmin",

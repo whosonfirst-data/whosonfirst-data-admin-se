@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002521,
+    "geom:area_square_m":16787026.760024,
     "geom:bbox":"18.3995527729,57.3768159123,18.4712877592,57.4481791249",
     "geom:latitude":57.414829,
     "geom:longitude":18.440116,
@@ -15,11 +16,17 @@
     "mps:longitude":18.440679,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Guldrupe socken"
+    ],
     "name:eng_x_preferred":[
         "Guldrupe"
     ],
     "name:swe_x_preferred":[
         "Guldrupe"
+    ],
+    "name:swe_x_variant":[
+        "Guldrupe socken"
     ],
     "se-lant:distrkod":106032,
     "se-lant:distrnamn":"Guldrupe",
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":1159307061,
-    "wof:lastmodified":1529702025,
+    "wof:lastmodified":1564165480,
     "wof:name":"Guldrupe",
     "wof:parent_id":1159303535,
     "wof:placetype":"localadmin",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.074485,
+    "geom:area_square_m":440589176.167036,
     "geom:bbox":"15.2162702459,61.2156179855,15.6972269136,61.5801712151",
     "geom:latitude":61.420956,
     "geom:longitude":15.464482,
@@ -15,11 +16,17 @@
     "mps:longitude":15.427864,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Voxna"
+    ],
     "name:eng_x_preferred":[
         "Voxna"
     ],
     "name:swe_x_preferred":[
         "Voxna"
+    ],
+    "name:swe_x_variant":[
+        "Voxna landskommun"
     ],
     "se-lant:distrkod":318013,
     "se-lant:distrnamn":"Voxna",
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":1159307387,
-    "wof:lastmodified":1529701988,
+    "wof:lastmodified":1564165511,
     "wof:name":"Voxna",
     "wof:parent_id":1159303489,
     "wof:placetype":"localadmin",

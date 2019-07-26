@@ -26,11 +26,23 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":4,
     "mz:tier_metro":30,
+    "name:bel_x_preferred":[
+        "\u0410\u0440\u043e\u0434"
+    ],
+    "name:deu_x_preferred":[
+        "A-Rod"
+    ],
     "name:eng_x_preferred":[
+        "Ar\u00f6d"
+    ],
+    "name:fra_x_preferred":[
         "Ar\u00f6d"
     ],
     "name:nld_x_preferred":[
         "Ar\u00f6d en Timmervik"
+    ],
+    "name:nld_x_variant":[
+        "Arod"
     ],
     "name:nno_x_preferred":[
         "Ar\u00f6d och Timmervik"
@@ -41,6 +53,9 @@
     "name:nor_x_variant":[
         "Ar\u00f8d",
         "Ar\u00f6d"
+    ],
+    "name:por_x_preferred":[
+        "Arodi"
     ],
     "name:sco_x_preferred":[
         "Ar\u00f6d och Timmervik"
@@ -123,7 +138,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1536868709,
+    "wof:lastmodified":1564162465,
     "wof:name":"Arod",
     "wof:parent_id":101752295,
     "wof:placetype":"neighbourhood",

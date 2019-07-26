@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":8002031.048729,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.414948,61.362511,16.414948,61.362511",
     "geom:latitude":61.362511,
     "geom:longitude":16.414948,
@@ -37,6 +37,9 @@
     "name:ita_x_preferred":[
         "REN"
     ],
+    "name:oci_x_preferred":[
+        "Ren"
+    ],
     "name:pol_x_preferred":[
         "Ren"
     ],
@@ -63,6 +66,9 @@
     ],
     "name:unk_x_variant":[
         "Ren"
+    ],
+    "name:zho_x_preferred":[
+        "\u4efb\u6c0f"
     ],
     "qs:gn_adm0_cc":"SE",
     "qs:gn_fcode":"PPLX",
@@ -96,12 +102,12 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":398,
     "wof:belongsto":[
-        85688453,
         102191581,
         1125382105,
         85633789,
         101816135,
-        1159303465
+        1159303465,
+        85688453
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -127,7 +133,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1531935887,
+    "wof:lastmodified":1564162416,
     "wof:name":"Ren",
     "wof:parent_id":101816135,
     "wof:placetype":"neighbourhood",

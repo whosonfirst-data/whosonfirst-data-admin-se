@@ -21,17 +21,23 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_metro":30,
+    "name:deu_x_preferred":[
+        "Angas"
+    ],
+    "name:fra_x_preferred":[
+        "Angas"
+    ],
     "name:swe_x_preferred":[
         "\u00c4ng\u00e5s"
     ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
-        85688411,
         102191581,
         1125287157,
         85633789,
         101752295,
-        1159302989
+        1159302989,
+        85688411
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -50,7 +56,7 @@
         }
     ],
     "wof:id":1108944321,
-    "wof:lastmodified":1529702291,
+    "wof:lastmodified":1564164244,
     "wof:name":"Angas",
     "wof:parent_id":101752295,
     "wof:placetype":"neighbourhood",

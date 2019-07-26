@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004309,
+    "geom:area_square_m":28514157.300595,
     "geom:bbox":"18.4814651482,57.616233587,18.6199365077,57.673208793",
     "geom:latitude":57.645762,
     "geom:longitude":18.545944,
@@ -15,11 +16,17 @@
     "mps:longitude":18.550634,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Fole socken"
+    ],
     "name:eng_x_preferred":[
         "Fole"
     ],
     "name:swe_x_preferred":[
         "Fole"
+    ],
+    "name:swe_x_variant":[
+        "Fole socken"
     ],
     "se-lant:distrkod":106073,
     "se-lant:distrnamn":"Fole",
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":1159307573,
-    "wof:lastmodified":1529702026,
+    "wof:lastmodified":1564165643,
     "wof:name":"Fole",
     "wof:parent_id":1159303535,
     "wof:placetype":"localadmin",

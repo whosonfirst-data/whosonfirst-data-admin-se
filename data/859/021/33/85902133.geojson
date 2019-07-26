@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":8411987.370086,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.383153,61.330289,16.383153,61.330289",
     "geom:latitude":61.330289,
     "geom:longitude":16.383153,
@@ -25,6 +25,15 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
+    "name:dan_x_preferred":[
+        "Granberg"
+    ],
+    "name:fin_x_preferred":[
+        "Granberg"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0440\u0430\u043d\u0431\u0435\u0440\u0433"
+    ],
     "name:swe_x_preferred":[
         "Granberg"
     ],
@@ -62,12 +71,12 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
-        85688453,
         102191581,
         1125382105,
         85633789,
         101816135,
-        1159303465
+        1159303465,
+        85688453
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -93,7 +102,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1531935860,
+    "wof:lastmodified":1564162468,
     "wof:name":"Granberg",
     "wof:parent_id":101816135,
     "wof:placetype":"neighbourhood",
