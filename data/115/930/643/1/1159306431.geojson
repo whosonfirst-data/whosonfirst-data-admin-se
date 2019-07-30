@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003918,
+    "geom:area_square_m":25487311.655786,
     "geom:bbox":"13.3893408564,58.241992407,13.5469002335,58.2808412124",
     "geom:latitude":58.262449,
     "geom:longitude":13.460546,
@@ -15,11 +16,17 @@
     "mps:longitude":13.460541,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Stora Bjurum"
+    ],
     "name:eng_x_preferred":[
         "Bjurum"
     ],
     "name:swe_x_preferred":[
         "Bjurum"
+    ],
+    "name:swe_x_variant":[
+        "Stora Bjurum"
     ],
     "se-lant:distrkod":107265,
     "se-lant:distrnamn":"Bjurum",
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":1159306431,
-    "wof:lastmodified":1529702137,
+    "wof:lastmodified":1564165518,
     "wof:name":"Bjurum",
     "wof:parent_id":1159303137,
     "wof:placetype":"localadmin",

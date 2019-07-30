@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000178,
-    "geom:area_square_m":1118323.331091,
+    "geom:area_square_m":1118323.331092,
     "geom:bbox":"17.9925544649,59.3990651381,18.0135080427,59.4115481664",
     "geom:latitude":59.406057,
     "geom:longitude":18.003854,
@@ -26,6 +26,12 @@
     "mz:note":"???",
     "mz:tier_locality":5,
     "mz:tier_metro":1,
+    "name:ceb_x_preferred":[
+        "Radan"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u0627\u062f\u0627\u0646"
+    ],
     "name:swe_x_preferred":[
         "Radan"
     ],
@@ -60,12 +66,12 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":53,
     "wof:belongsto":[
-        85688429,
         102191581,
         1125362217,
         85633789,
         101752307,
-        1159303035
+        1159303035,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -90,7 +96,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702812,
+    "wof:lastmodified":1564162429,
     "wof:name":"Radan",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

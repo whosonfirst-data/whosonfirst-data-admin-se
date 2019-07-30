@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0046,
+    "geom:area_square_m":30526751.444665,
     "geom:bbox":"18.180161331,57.504484794,18.3024542772,57.5726390559",
     "geom:latitude":57.543872,
     "geom:longitude":18.240336,
@@ -15,11 +16,17 @@
     "mps:longitude":18.239431,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Stenkumla socken"
+    ],
     "name:eng_x_preferred":[
         "Stenkumla"
     ],
     "name:swe_x_preferred":[
         "Stenkumla"
+    ],
+    "name:swe_x_variant":[
+        "Stenkumla socken"
     ],
     "se-lant:distrkod":106056,
     "se-lant:distrnamn":"Stenkumla",
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":1159305695,
-    "wof:lastmodified":1529702019,
+    "wof:lastmodified":1564165472,
     "wof:name":"Stenkumla",
     "wof:parent_id":1159303535,
     "wof:placetype":"localadmin",

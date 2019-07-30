@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010095,
+    "geom:area_square_m":68038904.610654,
     "geom:bbox":"18.1469347922,56.9114620667,18.3064296104,57.0369647949",
     "geom:latitude":56.969865,
     "geom:longitude":18.227111,
@@ -15,11 +16,17 @@
     "mps:longitude":18.228335,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Vamlingbo socken"
+    ],
     "name:eng_x_preferred":[
         "Vamlingbo"
     ],
     "name:swe_x_preferred":[
         "Vamlingbo"
+    ],
+    "name:swe_x_variant":[
+        "Vamlingbo socken"
     ],
     "se-lant:distrkod":106002,
     "se-lant:distrnamn":"Vamlingbo",
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":1159305887,
-    "wof:lastmodified":1529702020,
+    "wof:lastmodified":1564165584,
     "wof:name":"Vamlingbo",
     "wof:parent_id":1159303535,
     "wof:placetype":"localadmin",

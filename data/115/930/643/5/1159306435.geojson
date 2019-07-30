@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004892,
+    "geom:area_square_m":32943217.967833,
     "geom:bbox":"14.6229164679,56.951888873,14.7249988638,57.0660434503",
     "geom:latitude":57.003366,
     "geom:longitude":14.666169,
@@ -15,11 +16,26 @@
     "mps:longitude":14.658435,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0623\u0648"
+    ],
+    "name:cat_x_preferred":[
+        "Or"
+    ],
     "name:eng_x_preferred":[
+        "Or"
+    ],
+    "name:fra_x_preferred":[
         "Or"
     ],
     "name:swe_x_preferred":[
         "\u00d6r"
+    ],
+    "name:swe_x_variant":[
+        "Or"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0431\u043e"
     ],
     "se-lant:distrkod":105104,
     "se-lant:distrnamn":"\u00d6r",
@@ -48,7 +64,7 @@
         }
     ],
     "wof:id":1159306435,
-    "wof:lastmodified":1529702522,
+    "wof:lastmodified":1564165519,
     "wof:name":"Or",
     "wof:parent_id":1159302917,
     "wof:placetype":"localadmin",

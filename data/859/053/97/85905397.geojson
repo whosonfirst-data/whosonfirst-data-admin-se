@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001032,
-    "geom:area_square_m":6809531.304605,
+    "geom:area_square_m":6809531.304606,
     "geom:bbox":"11.9185142669,57.7466788481,11.9613647461,57.7830528543",
     "geom:latitude":57.764819,
     "geom:longitude":11.940194,
@@ -27,6 +27,9 @@
     "mz:tier_metro":30,
     "name:deu_x_preferred":[
         "Norum"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0440\u0443\u043c"
     ],
     "name:swe_x_preferred":[
         "Norum"
@@ -64,12 +67,12 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":24,
     "wof:belongsto":[
-        85688411,
         102191581,
         1125287157,
         85633789,
         101752295,
-        1159302989
+        1159302989,
+        85688411
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -94,7 +97,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702307,
+    "wof:lastmodified":1564162441,
     "wof:name":"Norum",
     "wof:parent_id":101752295,
     "wof:placetype":"neighbourhood",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000388,
-    "geom:area_square_m":2444281.965221,
+    "geom:area_square_m":2444281.96522,
     "geom:bbox":"18.0057271193,59.3779879549,18.0285644531,59.4031609549",
     "geom:latitude":59.390098,
     "geom:longitude":18.016215,
@@ -26,6 +26,12 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "mz:tier_metro":1,
+    "name:dan_x_preferred":[
+        "Ulriksdal"
+    ],
+    "name:deu_x_preferred":[
+        "Ulriksdal"
+    ],
     "name:swe_x_preferred":[
         "Ulriksdal"
     ],
@@ -61,12 +67,12 @@
     ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
-        85688429,
         102191581,
         1125362217,
         85633789,
         101752307,
-        1159303035
+        1159303035,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,7 +98,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702796,
+    "wof:lastmodified":1564162424,
     "wof:name":"Ulriksdal",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

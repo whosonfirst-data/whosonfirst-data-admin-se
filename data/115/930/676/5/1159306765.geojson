@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009193,
+    "geom:area_square_m":61367333.143058,
     "geom:bbox":"18.5874299594,57.2654251327,18.7753761847,57.3891048528",
     "geom:latitude":57.326666,
     "geom:longitude":18.673204,
@@ -15,11 +16,17 @@
     "mps:longitude":18.665429,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Alskog socken"
+    ],
     "name:eng_x_preferred":[
         "Alskog"
     ],
     "name:swe_x_preferred":[
         "Alskog"
+    ],
+    "name:swe_x_variant":[
+        "Alskogs socken"
     ],
     "se-lant:distrkod":106028,
     "se-lant:distrnamn":"Alskog",
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":1159306765,
-    "wof:lastmodified":1529702023,
+    "wof:lastmodified":1564165654,
     "wof:name":"Alskog",
     "wof:parent_id":1159303535,
     "wof:placetype":"localadmin",

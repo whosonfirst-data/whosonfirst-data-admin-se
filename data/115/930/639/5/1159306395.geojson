@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004104,
+    "geom:area_square_m":27081589.797114,
     "geom:bbox":"18.4546411415,57.7195737926,18.5884128753,57.7729798496",
     "geom:latitude":57.745055,
     "geom:longitude":18.510519,
@@ -15,11 +16,17 @@
     "mps:longitude":18.515053,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Martebo socken"
+    ],
     "name:eng_x_preferred":[
         "Martebo"
     ],
     "name:swe_x_preferred":[
         "Martebo"
+    ],
+    "name:swe_x_variant":[
+        "Martebo socken"
     ],
     "se-lant:distrkod":106079,
     "se-lant:distrnamn":"Martebo",
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":1159306395,
-    "wof:lastmodified":1529702022,
+    "wof:lastmodified":1564165686,
     "wof:name":"Martebo",
     "wof:parent_id":1159303535,
     "wof:placetype":"localadmin",

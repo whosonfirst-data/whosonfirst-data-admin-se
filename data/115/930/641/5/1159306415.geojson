@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006647,
+    "geom:area_square_m":43934243.825946,
     "geom:bbox":"18.5760799153,57.6537595029,18.7128470809,57.7274088617",
     "geom:latitude":57.68945,
     "geom:longitude":18.646261,
@@ -15,11 +16,17 @@
     "mps:longitude":18.64775,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Hejnum socken"
+    ],
     "name:eng_x_preferred":[
         "Hejnum"
     ],
     "name:swe_x_preferred":[
         "Hejnum"
+    ],
+    "name:swe_x_variant":[
+        "Hejnums socken"
     ],
     "se-lant:distrkod":106081,
     "se-lant:distrnamn":"Hejnum",
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":1159306415,
-    "wof:lastmodified":1529702022,
+    "wof:lastmodified":1564165664,
     "wof:name":"Hejnum",
     "wof:parent_id":1159303535,
     "wof:placetype":"localadmin",

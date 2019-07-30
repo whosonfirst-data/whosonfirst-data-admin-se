@@ -21,14 +21,20 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_metro":30,
+    "name:aze_x_preferred":[
+        "Rud"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0443\u0434"
+    ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
-        85688411,
         102191581,
         1125287157,
         85633789,
         101752295,
-        1159302989
+        1159302989,
+        85688411
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -47,7 +53,7 @@
         }
     ],
     "wof:id":1108944277,
-    "wof:lastmodified":1529702289,
+    "wof:lastmodified":1564164233,
     "wof:name":"Rud",
     "wof:parent_id":101752295,
     "wof:placetype":"neighbourhood",

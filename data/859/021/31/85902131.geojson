@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":9830101.743013,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.552795,57.92185,12.552795,57.92185",
     "geom:latitude":57.92185,
     "geom:longitude":12.552795,
@@ -25,6 +25,30 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
+    "name:bul_x_preferred":[
+        "\u0413\u0440\u043e\u0431\u0443"
+    ],
+    "name:ceb_x_preferred":[
+        "Gr\u00e5bo"
+    ],
+    "name:fra_x_preferred":[
+        "Gr\u00e5bo"
+    ],
+    "name:ita_x_preferred":[
+        "Gr\u00e5bo"
+    ],
+    "name:nld_x_preferred":[
+        "Gr\u00e5bo"
+    ],
+    "name:nno_x_preferred":[
+        "Gr\u00e5bo"
+    ],
+    "name:nor_x_preferred":[
+        "Gr\u00e5bo"
+    ],
+    "name:sco_x_preferred":[
+        "Gr\u00e5bo"
+    ],
     "name:swe_x_colloquial":[
         "Graabo",
         "Grabo"
@@ -66,12 +90,12 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
-        85688411,
         102191581,
         1125381931,
         85633789,
         101817061,
-        1159303193
+        1159303193,
+        85688411
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -97,7 +121,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1531935859,
+    "wof:lastmodified":1564162470,
     "wof:name":"Gr\u00e5bo",
     "wof:parent_id":101817061,
     "wof:placetype":"neighbourhood",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00384,
+    "geom:area_square_m":25513084.338652,
     "geom:bbox":"18.5451750123,57.4551455011,18.641649314,57.5364463246",
     "geom:latitude":57.497848,
     "geom:longitude":18.588863,
@@ -15,11 +16,17 @@
     "mps:longitude":18.585574,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Ganthem socken"
+    ],
     "name:eng_x_preferred":[
         "Ganthem"
     ],
     "name:swe_x_preferred":[
         "Ganthem"
+    ],
+    "name:swe_x_variant":[
+        "Ganthems socken"
     ],
     "se-lant:distrkod":106050,
     "se-lant:distrnamn":"Ganthem",
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":1159307085,
-    "wof:lastmodified":1529702025,
+    "wof:lastmodified":1564165483,
     "wof:name":"Ganthem",
     "wof:parent_id":1159303535,
     "wof:placetype":"localadmin",

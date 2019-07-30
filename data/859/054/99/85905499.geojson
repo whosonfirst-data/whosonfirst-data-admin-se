@@ -26,7 +26,13 @@
     "mz:note":"hill",
     "mz:tier_locality":4,
     "mz:tier_metro":30,
+    "name:fas_x_preferred":[
+        "\u0633\u0644\u0648\u062a\u0633\u06a9\u0648\u06af\u0646"
+    ],
     "name:fra_x_preferred":[
+        "Slottsskogen"
+    ],
+    "name:ita_x_preferred":[
         "Slottsskogen"
     ],
     "name:por_x_preferred":[
@@ -67,12 +73,12 @@
     ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
-        85688411,
         102191581,
         1125287157,
         85633789,
         101752295,
-        1159302989
+        1159302989,
+        85688411
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -97,7 +103,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702310,
+    "wof:lastmodified":1564162434,
     "wof:name":"Slottsskogen",
     "wof:parent_id":101752295,
     "wof:placetype":"neighbourhood",

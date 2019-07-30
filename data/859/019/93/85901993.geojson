@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":22079356.237437,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.972459,58.346075,11.972459,58.346075",
     "geom:latitude":58.346075,
     "geom:longitude":11.972459,
@@ -25,6 +25,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
+    "name:ita_x_preferred":[
+        "\u00c4sper\u00f6d"
+    ],
     "name:nld_x_preferred":[
         "\u00c4sper\u00f6d"
     ],
@@ -79,12 +82,12 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":45,
     "wof:belongsto":[
-        85688411,
         102191581,
         1125423249,
         85633789,
         101840169,
-        1159303355
+        1159303355,
+        85688411
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -110,7 +113,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1531935841,
+    "wof:lastmodified":1564162465,
     "wof:name":"\u00c4sper\u00f6d",
     "wof:parent_id":101840169,
     "wof:placetype":"neighbourhood",

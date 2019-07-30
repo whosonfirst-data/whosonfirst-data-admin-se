@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013888,
+    "geom:area_square_m":81138477.577125,
     "geom:bbox":"16.8782749389,61.7246817094,17.0550108301,61.8885043053",
     "geom:latitude":61.804988,
     "geom:longitude":16.96932,
@@ -15,11 +16,20 @@
     "mps:longitude":16.97068,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Hog"
+    ],
+    "name:dan_x_preferred":[
+        "H\u00f8g"
+    ],
     "name:eng_x_preferred":[
         "Hog"
     ],
     "name:swe_x_preferred":[
         "H\u00f6g"
+    ],
+    "name:swe_x_variant":[
+        "Hog"
     ],
     "se-lant:distrkod":318031,
     "se-lant:distrnamn":"H\u00f6g",
@@ -48,7 +58,7 @@
         }
     ],
     "wof:id":1159307413,
-    "wof:lastmodified":1529702054,
+    "wof:lastmodified":1564165610,
     "wof:name":"Hog",
     "wof:parent_id":1159303395,
     "wof:placetype":"localadmin",

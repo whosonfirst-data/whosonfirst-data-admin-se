@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004361,
+    "geom:area_square_m":28177137.601013,
     "geom:bbox":"13.0254983939,58.4649070738,13.1342512566,58.5345742182",
     "geom:latitude":58.497981,
     "geom:longitude":13.081316,
@@ -18,8 +19,26 @@
     "name:eng_x_preferred":[
         "Rada"
     ],
+    "name:fin_x_preferred":[
+        "Rada"
+    ],
+    "name:ita_x_preferred":[
+        "Rada"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30fc\u30c0"
+    ],
+    "name:pol_x_preferred":[
+        "Rada"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0434\u0430"
+    ],
     "name:swe_x_preferred":[
         "R\u00e5da"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0430\u0434\u0430"
     ],
     "se-lant:distrkod":107372,
     "se-lant:distrnamn":"R\u00e5da",
@@ -48,7 +67,7 @@
         }
     ],
     "wof:id":1159306167,
-    "wof:lastmodified":1529702130,
+    "wof:lastmodified":1564165535,
     "wof:name":"Rada",
     "wof:parent_id":1159303281,
     "wof:placetype":"localadmin",
