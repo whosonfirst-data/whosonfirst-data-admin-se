@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000452,
-    "geom:area_square_m":2992759.839998,
+    "geom:area_square_m":2992759.839999,
     "geom:bbox":"11.9421386719,57.6415318534,11.9774529436,57.6615653143",
     "geom:latitude":57.651723,
     "geom:longitude":11.959671,
@@ -66,14 +66,14 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85688411,
         102191581,
         1125382051,
         85633789,
         101840187,
-        1159303503
+        1159303503,
+        85688411
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -98,7 +98,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702307,
+    "wof:lastmodified":1566247571,
     "wof:name":"H\u00f6gsb",
     "wof:parent_id":101840187,
     "wof:placetype":"neighbourhood",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":10661017.332303,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.948452,57.611678,11.948452,57.611678",
     "geom:latitude":57.611678,
     "geom:longitude":11.948452,
@@ -59,14 +59,14 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85688411,
         102191581,
         1125287157,
         85633789,
         101752295,
-        1159302989
+        1159302989,
+        85688411
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -91,7 +91,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1531936349,
+    "wof:lastmodified":1566247532,
     "wof:name":"Skalldalen",
     "wof:parent_id":101752295,
     "wof:placetype":"neighbourhood",

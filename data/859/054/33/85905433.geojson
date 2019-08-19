@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000041,
-    "geom:area_square_m":273954.552484,
+    "geom:area_square_m":273954.552483,
     "geom:bbox":"11.952683663,57.6975429946,11.9641113281,57.7034134875",
     "geom:latitude":57.70078,
     "geom:longitude":11.958808,
@@ -61,14 +61,14 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85688411,
         102191581,
         1125287157,
         85633789,
         101752295,
-        1159302989
+        1159302989,
+        85688411
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -93,7 +93,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702308,
+    "wof:lastmodified":1566247555,
     "wof:name":"Pustervik",
     "wof:parent_id":101752295,
     "wof:placetype":"neighbourhood",

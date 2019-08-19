@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001585,
-    "geom:area_square_m":10450297.738839,
+    "geom:area_square_m":10450297.73884,
     "geom:bbox":"11.9570137094,57.7610820455,12.0208032227,57.8094074975",
     "geom:latitude":57.781768,
     "geom:longitude":11.990227,
@@ -60,14 +60,14 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85688411,
         102191581,
         1125287157,
         85633789,
         101752295,
-        1159302989
+        1159302989,
+        85688411
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -93,7 +93,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702304,
+    "wof:lastmodified":1566247553,
     "wof:name":"Aketorp",
     "wof:parent_id":101752295,
     "wof:placetype":"neighbourhood",

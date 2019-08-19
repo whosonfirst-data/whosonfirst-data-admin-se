@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000282,
-    "geom:area_square_m":1858609.775212,
+    "geom:area_square_m":1858609.775211,
     "geom:bbox":"11.9064331055,57.7261525146,11.9327177307,57.7422811801",
     "geom:latitude":57.733681,
     "geom:longitude":11.91706,
@@ -60,14 +60,14 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85688411,
         102191581,
         1125287157,
         85633789,
         101752295,
-        1159302989
+        1159302989,
+        85688411
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -93,7 +93,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702287,
+    "wof:lastmodified":1566247553,
     "wof:name":"Tolered",
     "wof:parent_id":101752295,
     "wof:placetype":"neighbourhood",

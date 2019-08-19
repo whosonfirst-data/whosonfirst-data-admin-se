@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00009,
-    "geom:area_square_m":597635.055529,
+    "geom:area_square_m":597635.05553,
     "geom:bbox":"11.9638906616,57.7011814294,11.9805908203,57.7100166567",
     "geom:latitude":57.704918,
     "geom:longitude":11.971961,
@@ -59,14 +59,14 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85688411,
         102191581,
         1125287157,
         85633789,
         101752295,
-        1159302989
+        1159302989,
+        85688411
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -91,7 +91,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702308,
+    "wof:lastmodified":1566247554,
     "wof:name":"Inom Valgraven",
     "wof:parent_id":101752295,
     "wof:placetype":"neighbourhood",

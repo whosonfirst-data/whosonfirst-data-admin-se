@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000482,
-    "geom:area_square_m":3178071.337793,
+    "geom:area_square_m":3178071.337797,
     "geom:bbox":"11.9085806613,57.7364169889,11.9366455078,57.7684030711",
     "geom:latitude":57.750241,
     "geom:longitude":11.92244,
@@ -61,15 +61,15 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "src:population":"geonames",
     "wof:belongsto":[
-        85688411,
         102191581,
         1125287157,
         85633789,
         101752295,
-        1159302989
+        1159302989,
+        85688411
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,7 +95,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702288,
+    "wof:lastmodified":1566247553,
     "wof:name":"Tuve",
     "wof:parent_id":101752295,
     "wof:placetype":"neighbourhood",

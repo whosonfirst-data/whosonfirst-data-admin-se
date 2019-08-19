@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4450130.415308,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.926172,57.639022,11.926172,57.639022",
     "geom:latitude":57.639022,
     "geom:longitude":11.926172,
@@ -56,14 +56,14 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85688411,
         102191581,
         1125287157,
         85633789,
         101752295,
-        1159302989
+        1159302989,
+        85688411
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -88,7 +88,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1531936336,
+    "wof:lastmodified":1566247554,
     "wof:name":"Krokegerden",
     "wof:parent_id":101752295,
     "wof:placetype":"neighbourhood",
