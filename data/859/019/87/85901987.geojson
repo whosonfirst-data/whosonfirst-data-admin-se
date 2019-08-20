@@ -58,14 +58,14 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85688411,
         102191581,
         1125287157,
         85633789,
         101752295,
-        1159302989
+        1159302989,
+        85688411
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -90,7 +90,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702283,
+    "wof:lastmodified":1566247553,
     "wof:name":"Annedal",
     "wof:parent_id":101752295,
     "wof:placetype":"neighbourhood",

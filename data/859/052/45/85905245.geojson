@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002483,
-    "geom:area_square_m":16382640.968324,
+    "geom:area_square_m":16382640.968326,
     "geom:bbox":"11.8469946289,57.7289631436,11.9162369699,57.7889111044",
     "geom:latitude":57.758364,
     "geom:longitude":11.878079,
@@ -60,14 +60,14 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85688411,
         102191581,
         1125287157,
         85633789,
         101752295,
-        1159302989
+        1159302989,
+        85688411
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -93,7 +93,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702308,
+    "wof:lastmodified":1566247554,
     "wof:name":"Helgered",
     "wof:parent_id":101752295,
     "wof:placetype":"neighbourhood",

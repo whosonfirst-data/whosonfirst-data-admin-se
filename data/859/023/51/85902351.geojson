@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000364,
-    "geom:area_square_m":2407394.489661,
+    "geom:area_square_m":2407394.489662,
     "geom:bbox":"11.867588335,57.6703794407,11.9036865234,57.6881848218",
     "geom:latitude":57.679612,
     "geom:longitude":11.886745,
@@ -26,9 +26,6 @@
     "mz:tier_locality":4,
     "mz:tier_metro":30,
     "name:eng_x_preferred":[
-        "Nya Varfvet"
-    ],
-    "name:eng_x_variant":[
         "Nya Varfvet"
     ],
     "name:swe_x_preferred":[
@@ -65,14 +62,14 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85688411,
         102191581,
         1125287157,
         85633789,
         101752295,
-        1159302989
+        1159302989,
+        85688411
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -97,7 +94,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702286,
+    "wof:lastmodified":1566247553,
     "wof:name":"Nya Varvet",
     "wof:parent_id":101752295,
     "wof:placetype":"neighbourhood",

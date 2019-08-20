@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000288,
-    "geom:area_square_m":1906736.418959,
+    "geom:area_square_m":1906736.41896,
     "geom:bbox":"11.9829448485,57.6747857899,12.0142756944,57.6894695084",
     "geom:latitude":57.681988,
     "geom:longitude":11.99833,
@@ -70,14 +70,14 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85688411,
         102191581,
         1125287157,
         85633789,
         101752295,
-        1159302989
+        1159302989,
+        85688411
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -103,7 +103,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702285,
+    "wof:lastmodified":1566247553,
     "wof:name":"Krokslatt",
     "wof:parent_id":101752295,
     "wof:placetype":"neighbourhood",

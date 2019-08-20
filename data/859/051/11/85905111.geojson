@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000795,
-    "geom:area_square_m":5263247.586315,
+    "geom:area_square_m":5263247.586314,
     "geom:bbox":"11.8376502463,57.638049551,11.9048319441,57.6630346329",
     "geom:latitude":57.651191,
     "geom:longitude":11.870171,
@@ -58,14 +58,14 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85688411,
         102191581,
         1125287157,
         85633789,
         101752295,
-        1159302989
+        1159302989,
+        85688411
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -90,7 +90,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702305,
+    "wof:lastmodified":1566247554,
     "wof:name":"Bjornekulla",
     "wof:parent_id":101752295,
     "wof:placetype":"neighbourhood",

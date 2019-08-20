@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000599,
-    "geom:area_square_m":3953497.982983,
+    "geom:area_square_m":3953497.98298,
     "geom:bbox":"11.9146728516,57.7184058467,11.9641113281,57.7364169889",
     "geom:latitude":57.727449,
     "geom:longitude":11.941825,
@@ -61,14 +61,14 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85688411,
         102191581,
         1125287157,
         85633789,
         101752295,
-        1159302989
+        1159302989,
+        85688411
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -93,7 +93,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702305,
+    "wof:lastmodified":1566247554,
     "wof:name":"Kvillebacken",
     "wof:parent_id":101752295,
     "wof:placetype":"neighbourhood",
