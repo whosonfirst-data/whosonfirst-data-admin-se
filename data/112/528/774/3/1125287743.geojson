@@ -9,17 +9,19 @@
     "geom:bbox":"13.7933437614,56.8536148716,14.1889005109,57.0258435732",
     "geom:latitude":56.926068,
     "geom:longitude":14.005643,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":2762,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":2762,
     "iso:country":"SE",
     "lbl:latitude":56.901193,
     "lbl:longitude":13.969761,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":56.901193,
     "mps:longitude":13.969761,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0628\u064a\u0631\u063a\u0627"
@@ -144,7 +146,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -170,7 +172,7 @@
         }
     ],
     "wof:id":1125287743,
-    "wof:lastmodified":1564165107,
+    "wof:lastmodified":1566642647,
     "wof:name":"Berga",
     "wof:parent_id":1159303441,
     "wof:placetype":"localadmin",

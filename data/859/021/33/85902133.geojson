@@ -12,8 +12,10 @@
     "gn:latitude":61.33333,
     "gn:longitude":16.38333,
     "iso:country":"SE",
+    "lbl:bbox":"16.378153,61.325289,16.388153,61.335289",
     "lbl:latitude":61.330289,
     "lbl:longitude":16.383153,
+    "lbl:max_zoom":18.0,
     "mps:latitude":61.323811,
     "mps:longitude":16.383353,
     "mz:hierarchy_label":0,
@@ -35,9 +37,6 @@
         "\u0413\u0440\u0430\u043d\u0431\u0435\u0440\u0433"
     ],
     "name:swe_x_preferred":[
-        "Granberg"
-    ],
-    "name:unk_x_variant":[
         "Granberg"
     ],
     "qs:gn_adm0_cc":"SE",
@@ -69,7 +68,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         1125382105,
@@ -82,7 +81,6 @@
     "wof:concordances":{
         "gn:id":2711348,
         "gp:id":890941,
-        "qs:id":1318069,
         "qs_pg:id":1318069
     },
     "wof:country":"SE",
@@ -102,7 +100,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1564162468,
+    "wof:lastmodified":1566640648,
     "wof:name":"Granberg",
     "wof:parent_id":101816135,
     "wof:placetype":"neighbourhood",

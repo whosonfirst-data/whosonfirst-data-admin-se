@@ -14,6 +14,7 @@
     "iso:country":"SE",
     "lbl:latitude":59.286311,
     "lbl:longitude":18.115758,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.286764,
     "mps:longitude":18.105791,
     "mz:hierarchy_label":1,
@@ -53,9 +54,6 @@
     "name:swe_x_variant":[
         "K\u00e4rrtorp"
     ],
-    "name:unk_x_variant":[
-        "Karrtorp"
-    ],
     "qs:gn_adm0_cc":"SE",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":2673730,
@@ -83,7 +81,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":571,
     "wof:belongsto":[
         102191581,
@@ -97,7 +95,6 @@
     "wof:concordances":{
         "gn:id":7304452,
         "gp:id":20151193,
-        "qs:id":898887,
         "qs_pg:id":898887,
         "wd:id":"Q1781261",
         "wk:page":"K\u00e4rrtorp"
@@ -119,7 +116,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563366568,
+    "wof:lastmodified":1566640627,
     "wof:name":"Karrtorp",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

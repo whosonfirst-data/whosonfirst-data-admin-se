@@ -9,15 +9,18 @@
     "geom:bbox":"12.2672773769,57.0413280384,12.2995296672,57.0722181852",
     "geom:latitude":57.057545,
     "geom:longitude":12.283375,
-    "geonames:id":"2667499,3326117",
+    "gn:id":"2667499,3326117",
     "gn:population":1985,
     "iso:country":"SE",
     "lbl:latitude":57.05561,
     "lbl:longitude":12.276411,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":57.05561,
     "mps:longitude":12.276411,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Tr\u00e4sl\u00f6vsl\u00e4ge"
     ],
@@ -85,7 +88,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":326,
     "wof:belongsto":[
@@ -99,7 +102,6 @@
     "wof:concordances":{
         "gn:id":2667499,
         "gp:id":908042,
-        "qs:id":315798,
         "qs_pg:id":315798,
         "wd:id":"Q2793197"
     },
@@ -116,7 +118,7 @@
         }
     ],
     "wof:id":101816743,
-    "wof:lastmodified":1563368721,
+    "wof:lastmodified":1566642177,
     "wof:name":"Tr\u00e4sl\u00f6vsl\u00e4ge",
     "wof:parent_id":1125286329,
     "wof:placetype":"locality",

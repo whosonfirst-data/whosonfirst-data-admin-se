@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020909,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":131070128.962411,
     "geom:bbox":"11.6911292018,59.4661379285,11.9384829829,59.6224200557",
     "geom:latitude":59.539251,
     "geom:longitude":11.802349,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":1798,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":1798,
     "iso:country":"SE",
     "lbl:latitude":59.519846,
     "lbl:longitude":11.800442,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":59.519846,
     "mps:longitude":11.800442,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Tocksmark"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125288217,
-    "wof:lastmodified":1529700541,
+    "wof:lastmodified":1566642602,
     "wof:name":"Tocksmark",
     "wof:parent_id":1159302927,
     "wof:placetype":"localadmin",

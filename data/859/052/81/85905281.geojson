@@ -5,13 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000046,
-    "geom:area_square_m":290677.348071,
+    "geom:area_square_m":290677.348072,
     "geom:bbox":"18.017578125,59.3401930956,18.0313110352,59.3457949329",
     "geom:latitude":59.342623,
     "geom:longitude":18.024767,
     "iso:country":"SE",
     "lbl:latitude":59.341822,
     "lbl:longitude":18.027015,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.342294,
     "mps:longitude":18.025323,
     "mz:hierarchy_label":1,
@@ -25,9 +26,6 @@
     "mz:tier_locality":5,
     "mz:tier_metro":1,
     "name:swe_x_preferred":[
-        "Karlberg"
-    ],
-    "name:unk_x_variant":[
         "Karlberg"
     ],
     "qs:gn_adm0_cc":"SE",
@@ -56,14 +54,14 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85688429,
         102191581,
         1125362217,
         85633789,
         101752307,
-        1159303035
+        1159303035,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -88,7 +86,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702813,
+    "wof:lastmodified":1566640624,
     "wof:name":"Karlberg",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

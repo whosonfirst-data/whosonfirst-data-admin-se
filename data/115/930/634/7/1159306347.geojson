@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035769,
+    "geom:area_square_m":220069609.038284,
     "geom:bbox":"16.1417981517,60.0681751043,16.4574970063,60.2812359516",
     "geom:latitude":60.160523,
     "geom:longitude":16.304876,
     "iso:country":"SE",
     "lbl:latitude":60.151304,
     "lbl:longitude":16.328778,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":60.151304,
     "mps:longitude":16.328778,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Folkarna"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159306347,
-    "wof:lastmodified":1529701980,
+    "wof:lastmodified":1566643200,
     "wof:name":"Folkarna",
     "wof:parent_id":1159303263,
     "wof:placetype":"localadmin",

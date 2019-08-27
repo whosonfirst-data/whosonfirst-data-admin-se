@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003583,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":23309645.34788,
     "geom:bbox":"11.47247233,58.227208749,11.6022630691,58.2894604924",
     "geom:latitude":58.256323,
     "geom:longitude":11.533518,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":346,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":346,
     "iso:country":"SE",
     "lbl:latitude":58.258265,
     "lbl:longitude":11.529086,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":58.258265,
     "mps:longitude":11.529086,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Dragsmark"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125373889,
-    "wof:lastmodified":1529702181,
+    "wof:lastmodified":1566642829,
     "wof:name":"Dragsmark",
     "wof:parent_id":1159303355,
     "wof:placetype":"localadmin",

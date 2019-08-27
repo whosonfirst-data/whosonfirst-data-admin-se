@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000744,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":4916590.03957,
     "geom:bbox":"11.9383093479,57.6635448434,11.9849207018,57.6964089912",
     "geom:latitude":57.679081,
     "geom:longitude":11.959012,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":17102,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":17102,
     "iso:country":"SE",
     "lbl:latitude":57.678719,
     "lbl:longitude":11.959324,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":57.678719,
     "mps:longitude":11.959324,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Annedal"
@@ -48,7 +50,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":1125287131,
-    "wof:lastmodified":1529702202,
+    "wof:lastmodified":1566642615,
     "wof:name":"Annedal",
     "wof:parent_id":1159302989,
     "wof:placetype":"localadmin",

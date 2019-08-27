@@ -24,10 +24,13 @@
     ],
     "lbl:latitude":55.875207,
     "lbl:longitude":12.786054,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":55.875207,
     "mps:longitude":12.786054,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bel_x_preferred":[
         "\u041b\u0430\u043d\u0434\u0441\u043a\u0440\u0443\u043d\u0430"
     ],
@@ -169,7 +172,7 @@
     "se-lant:lanskod":12,
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -189,7 +192,7 @@
         }
     ],
     "wof:id":1159303531,
-    "wof:lastmodified":1564165485,
+    "wof:lastmodified":1566643153,
     "wof:name":"Landskrona",
     "wof:parent_id":85688377,
     "wof:placetype":"county",

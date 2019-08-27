@@ -9,17 +9,19 @@
     "geom:bbox":"14.0482562156,56.6622803769,14.2904857686,56.797572665",
     "geom:latitude":56.734784,
     "geom:longitude":14.173299,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":647,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":647,
     "iso:country":"SE",
     "lbl:latitude":56.731759,
     "lbl:longitude":14.170979,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":56.731759,
     "mps:longitude":14.170979,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Agunnaryd"
@@ -72,7 +74,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -98,7 +100,7 @@
         }
     ],
     "wof:id":1125381805,
-    "wof:lastmodified":1564165302,
+    "wof:lastmodified":1566642910,
     "wof:name":"Agunnaryd",
     "wof:parent_id":1159303441,
     "wof:placetype":"localadmin",

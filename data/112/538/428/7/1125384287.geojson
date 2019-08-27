@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003236,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":20842732.442939,
     "geom:bbox":"16.0730888702,58.5870781978,16.1662129344,58.6445464369",
     "geom:latitude":58.61329,
     "geom:longitude":16.118132,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":12358,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":12358,
     "iso:country":"SE",
     "lbl:latitude":58.612529,
     "lbl:longitude":16.117239,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":58.612529,
     "mps:longitude":16.117239,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Ostra Eneby"
@@ -48,7 +50,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":1125384287,
-    "wof:lastmodified":1529703094,
+    "wof:lastmodified":1566642916,
     "wof:name":"Ostra Eneby",
     "wof:parent_id":1159303229,
     "wof:placetype":"localadmin",

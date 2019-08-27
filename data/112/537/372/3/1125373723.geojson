@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019679,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":121913583.636239,
     "geom:bbox":"17.7414711096,59.8719914645,18.0299527261,59.9899102746",
     "geom:latitude":59.93385,
     "geom:longitude":17.873801,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":2196,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":2196,
     "iso:country":"SE",
     "lbl:latitude":59.92876,
     "lbl:longitude":17.899887,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":59.92876,
     "mps:longitude":17.899887,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Rasbo"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125373723,
-    "wof:lastmodified":1529702873,
+    "wof:lastmodified":1566642829,
     "wof:name":"Rasbo",
     "wof:parent_id":1159303253,
     "wof:placetype":"localadmin",

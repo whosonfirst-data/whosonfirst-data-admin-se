@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":55.473338,
     "lbl:longitude":13.02,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":55.473338,
     "mps:longitude":13.02,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0412\u0435\u043b\u0438\u043d\u0433\u0435"
     ],
@@ -109,9 +112,6 @@
         "V\u00e4llinge",
         "V\u00e4llinges"
     ],
-    "name:unk_x_variant":[
-        "V\u00e4llinge"
-    ],
     "name:zho_min_nan_x_preferred":[
         "Vellinge"
     ],
@@ -131,7 +131,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":89,
     "wof:belongsto":[
@@ -146,7 +146,6 @@
         "fct:id":"06d2278a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2663399,
         "gp:id":909778,
-        "qs:id":3933,
         "qs_pg:id":3933,
         "wd:id":"Q1013305",
         "wk:page":"Vellinge"
@@ -167,7 +166,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368777,
+    "wof:lastmodified":1566642197,
     "wof:name":"Vellinge",
     "wof:parent_id":1125421369,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":57.479897,
     "lbl:longitude":11.964776,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":57.479897,
     "mps:longitude":11.964776,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Vallda"
     ],
@@ -69,7 +72,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":71,
     "wof:belongsto":[
@@ -84,7 +87,6 @@
         "fct:id":"06d244ae-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2665487,
         "gp:id":15002556,
-        "qs:id":267108,
         "qs_pg:id":267108,
         "wd:id":"Q2417856",
         "wk:page":"Vallda"
@@ -105,7 +107,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368676,
+    "wof:lastmodified":1566642161,
     "wof:name":"Vallda",
     "wof:parent_id":1125325571,
     "wof:placetype":"locality",

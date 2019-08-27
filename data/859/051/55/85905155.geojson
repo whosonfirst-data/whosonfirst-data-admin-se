@@ -12,6 +12,7 @@
     "iso:country":"SE",
     "lbl:latitude":59.305799,
     "lbl:longitude":18.139245,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.306434,
     "mps:longitude":18.133736,
     "mz:hierarchy_label":1,
@@ -25,9 +26,6 @@
     "mz:tier_locality":5,
     "mz:tier_metro":1,
     "name:swe_x_preferred":[
-        "Ekudden"
-    ],
-    "name:unk_x_variant":[
         "Ekudden"
     ],
     "qs:gn_adm0_cc":"SE",
@@ -54,14 +52,14 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85688429,
         102191581,
         1125362217,
         85633789,
         101752307,
-        1159303035
+        1159303035,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -84,7 +82,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702806,
+    "wof:lastmodified":1566640663,
     "wof:name":"Ekudden",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

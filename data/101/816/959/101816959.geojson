@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":58.650379,
     "lbl:longitude":16.030345,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":58.650379,
     "mps:longitude":16.030345,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Sv\u00e4rtinge"
     ],
@@ -65,9 +68,6 @@
         "Sv\u00e4rtinge Villasamh\u00e4lles",
         "Sv\u00e4rtinges"
     ],
-    "name:unk_x_variant":[
-        "Sv\u00e4rtinge Villasamh\u00e4lle"
-    ],
     "name:zho_min_nan_x_preferred":[
         "Sv\u00e4rtinge"
     ],
@@ -88,7 +88,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":55,
     "wof:belongsto":[
@@ -103,7 +103,6 @@
         "fct:id":"06d035ec-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2670278,
         "gp:id":906925,
-        "qs:id":43825,
         "qs_pg:id":43825,
         "wd:id":"Q2031546",
         "wk:page":"Sv\u00e4rtinge"
@@ -124,7 +123,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368676,
+    "wof:lastmodified":1566642160,
     "wof:name":"Sv\u00e4rtinge",
     "wof:parent_id":1125288403,
     "wof:placetype":"locality",

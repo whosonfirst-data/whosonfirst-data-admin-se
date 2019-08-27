@@ -24,10 +24,13 @@
     ],
     "lbl:latitude":65.779279,
     "lbl:longitude":23.863325,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":65.779279,
     "mps:longitude":23.863325,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bul_x_preferred":[
         "\u0425\u0430\u043f\u0430\u0440\u0430\u043d\u0434\u0430"
     ],
@@ -139,7 +142,7 @@
     "se-lant:lanskod":25,
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -159,7 +162,7 @@
         }
     ],
     "wof:id":1159302911,
-    "wof:lastmodified":1564165687,
+    "wof:lastmodified":1566643333,
     "wof:name":"Haparanda",
     "wof:parent_id":85688471,
     "wof:placetype":"county",

@@ -13,6 +13,7 @@
     "iso:country":"SE",
     "lbl:latitude":59.318416,
     "lbl:longitude":18.019827,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.317015,
     "mps:longitude":18.020736,
     "mz:hierarchy_label":1,
@@ -67,9 +68,6 @@
     "name:swe_x_preferred":[
         "Reimersholme"
     ],
-    "name:unk_x_variant":[
-        "Reimersholme"
-    ],
     "qs:gn_adm0_cc":"SE",
     "qs:gn_id":0,
     "qs:gn_local":2673730,
@@ -95,7 +93,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":337,
     "wof:belongsto":[
         102191581,
@@ -108,7 +106,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20151525,
-        "qs:id":1087421,
         "qs_pg:id":1087421,
         "wd:id":"Q1043381"
     },
@@ -129,7 +126,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563366547,
+    "wof:lastmodified":1566640608,
     "wof:name":"Reimersholme",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

@@ -9,17 +9,19 @@
     "geom:bbox":"13.0496188333,57.9397924917,13.1809855543,58.0173299507",
     "geom:latitude":57.981473,
     "geom:longitude":13.117343,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":744,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":744,
     "iso:country":"SE",
     "lbl:latitude":57.986968,
     "lbl:longitude":13.116319,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":57.986968,
     "mps:longitude":13.116319,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Hov"
@@ -66,7 +68,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -92,7 +94,7 @@
         }
     ],
     "wof:id":1125423273,
-    "wof:lastmodified":1564165182,
+    "wof:lastmodified":1566642751,
     "wof:name":"Hov",
     "wof:parent_id":1159303171,
     "wof:placetype":"localadmin",

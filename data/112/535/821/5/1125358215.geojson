@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013166,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":87735647.366656,
     "geom:bbox":"12.7293227984,57.3000850747,12.8947418638,57.4601950073",
     "geom:latitude":57.391295,
     "geom:longitude":12.823506,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":946,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":946,
     "iso:country":"SE",
     "lbl:latitude":57.391632,
     "lbl:longitude":12.824779,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":57.391632,
     "mps:longitude":12.824779,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Oxaback"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125358215,
-    "wof:lastmodified":1529702211,
+    "wof:lastmodified":1566642440,
     "wof:name":"Oxaback",
     "wof:parent_id":1159302961,
     "wof:placetype":"localadmin",

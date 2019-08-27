@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01262,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":78557336.153986,
     "geom:bbox":"17.9321736432,59.7110617264,18.152965394,59.8280577478",
     "geom:latitude":59.773192,
     "geom:longitude":18.027151,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":1092,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":1092,
     "iso:country":"SE",
     "lbl:latitude":59.782056,
     "lbl:longitude":18.034634,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":59.782056,
     "mps:longitude":18.034634,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Husby-Langhundra"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125340489,
-    "wof:lastmodified":1529702718,
+    "wof:lastmodified":1566642384,
     "wof:name":"Husby-Langhundra",
     "wof:parent_id":1159303267,
     "wof:placetype":"localadmin",

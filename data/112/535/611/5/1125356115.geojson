@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006574,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":41091914.933029,
     "geom:bbox":"16.563332396,59.6000027127,16.7565658099,59.6604853337",
     "geom:latitude":59.632935,
     "geom:longitude":16.649663,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":22478,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":22478,
     "iso:country":"SE",
     "lbl:latitude":59.629389,
     "lbl:longitude":16.625609,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":59.629389,
     "mps:longitude":16.625609,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Badelunda"
@@ -48,7 +50,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":1125356115,
-    "wof:lastmodified":1529703026,
+    "wof:lastmodified":1566642443,
     "wof:name":"Badelunda",
     "wof:parent_id":1159303331,
     "wof:placetype":"localadmin",

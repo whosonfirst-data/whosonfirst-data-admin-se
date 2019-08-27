@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Stockholm",
     "iso:country":"SE",
+    "lbl:bbox":"14.69667,56.99667,14.73667,57.03667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Horda"
     ],
@@ -47,9 +51,6 @@
     ],
     "name:swe_x_preferred":[
         "Horda"
-    ],
-    "name:und_x_variant":[
-        "H\u00f6rda"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1226328853,
-    "wof:lastmodified":1564166693,
+    "wof:lastmodified":1566644060,
     "wof:name":"Horda",
     "wof:parent_id":1125325155,
     "wof:placetype":"locality",

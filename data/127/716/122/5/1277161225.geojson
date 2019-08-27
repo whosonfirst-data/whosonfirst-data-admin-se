@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Stockholm",
     "iso:country":"SE",
+    "lbl:bbox":"15.53,57.36333,15.57,57.40333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:nor_x_preferred":[
         "H\u00f6geruda"
     ],
@@ -34,8 +38,7 @@
         "H\u00f8geruda"
     ],
     "name:und_x_variant":[
-        "H\u00f6gruda",
-        "H\u00f6geruda"
+        "H\u00f6gruda"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1277161225,
-    "wof:lastmodified":1537700029,
+    "wof:lastmodified":1566641286,
     "wof:name":"Hogeruda",
     "wof:parent_id":1125287557,
     "wof:placetype":"locality",

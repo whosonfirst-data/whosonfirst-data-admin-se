@@ -14,6 +14,8 @@
     "iso:country":"SE",
     "lbl:latitude":55.59438,
     "lbl:longitude":13.029953,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":55.59438,
     "mps:longitude":13.029953,
     "mz:hierarchy_label":1,
@@ -382,9 +384,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u043b\u044c\u043c\u0435"
     ],
-    "name:unk_x_variant":[
-        "Malm\u00f6n"
-    ],
     "name:urd_x_preferred":[
         "\u0645\u0627\u0644\u0645\u0648"
     ],
@@ -527,7 +526,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":12.0,
     "wd:latitude":55.605556,
@@ -549,10 +548,12 @@
         "gp:id":898093,
         "loc:id":"n79110167",
         "nyt:id":"N38395718310308503251",
-        "qs:id":1037544,
         "qs_pg:id":39474,
         "wd:id":"Q2211",
         "wk:page":"Malm\u00f6"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1037544
     },
     "wof:country":"SE",
     "wof:geomhash":"6c1055ab24b07e7a4252aea229f27380",
@@ -570,7 +571,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368586,
+    "wof:lastmodified":1566642130,
     "wof:name":"Malm\u00f6",
     "wof:parent_id":1159305753,
     "wof:placetype":"locality",

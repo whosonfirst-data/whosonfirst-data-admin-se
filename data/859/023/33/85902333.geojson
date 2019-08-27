@@ -10,8 +10,10 @@
     "geom:latitude":59.465767,
     "geom:longitude":18.302765,
     "iso:country":"SE",
+    "lbl:bbox":"18.297765,59.460767,18.307765,59.470767",
     "lbl:latitude":59.465767,
     "lbl:longitude":18.302765,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.464058,
     "mps:longitude":18.294499,
     "mz:hierarchy_label":0,
@@ -34,9 +36,6 @@
         "Nas"
     ],
     "name:swe_x_preferred":[
-        "N\u00e4s"
-    ],
-    "name:unk_x_variant":[
         "N\u00e4s"
     ],
     "qs:gn_adm0_cc":"SE",
@@ -67,7 +66,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":28,
     "wof:belongsto":[
         102191581,
@@ -98,7 +97,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1564162412,
+    "wof:lastmodified":1566640583,
     "wof:name":"N\u00e4s",
     "wof:parent_id":101815899,
     "wof:placetype":"neighbourhood",

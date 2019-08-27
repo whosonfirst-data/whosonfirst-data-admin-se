@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":65.842231,
     "lbl:longitude":23.137964,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":65.842231,
     "mps:longitude":23.137964,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0420\u043e\u043b\u0444\u0441"
     ],
@@ -69,7 +72,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":48,
     "wof:belongsto":[
@@ -83,7 +86,6 @@
     "wof:concordances":{
         "gn:id":603291,
         "gp:id":891424,
-        "qs:id":81138,
         "qs_pg:id":81138,
         "wd:id":"Q2259583",
         "wk:page":"Rolfs"
@@ -101,7 +103,7 @@
         }
     ],
     "wof:id":101814889,
-    "wof:lastmodified":1563368904,
+    "wof:lastmodified":1566642242,
     "wof:name":"Rolfs",
     "wof:parent_id":1125287809,
     "wof:placetype":"locality",

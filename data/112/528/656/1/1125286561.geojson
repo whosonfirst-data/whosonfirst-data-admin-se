@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004589,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":30488862.258016,
     "geom:bbox":"13.6992462497,57.4585230396,13.8286570681,57.5295862494",
     "geom:latitude":57.497463,
     "geom:longitude":13.770086,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":119,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":119,
     "iso:country":"SE",
     "lbl:latitude":57.492308,
     "lbl:longitude":13.780787,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mps:latitude":57.492308,
     "mps:longitude":13.780787,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Valdshult"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125286561,
-    "wof:lastmodified":1529702429,
+    "wof:lastmodified":1566642605,
     "wof:name":"Valdshult",
     "wof:parent_id":1159303327,
     "wof:placetype":"localadmin",

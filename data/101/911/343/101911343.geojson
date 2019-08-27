@@ -12,10 +12,13 @@
     "iso:country":"SE",
     "lbl:latitude":57.379427,
     "lbl:longitude":16.583674,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":57.379427,
     "mps:longitude":16.583674,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Sverige",
     "qs:a1":"*Kalmar l\u00e4n",
     "qs:a1r":"7",
@@ -32,7 +35,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688401,
         102191581,
@@ -43,7 +46,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55873317,
-        "qs:id":1197823,
         "qs_pg:id":1197823
     },
     "wof:country":"SE",
@@ -59,7 +61,7 @@
         }
     ],
     "wof:id":101911343,
-    "wof:lastmodified":1554166244,
+    "wof:lastmodified":1566642257,
     "wof:name":"Bredviksn\u00e4s",
     "wof:parent_id":1125340203,
     "wof:placetype":"locality",

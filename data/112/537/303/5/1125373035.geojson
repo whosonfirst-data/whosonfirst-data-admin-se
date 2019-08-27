@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001679,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":10937815.302472,
     "geom:bbox":"13.773907221,58.1793407272,13.8567573831,58.2210414678",
     "geom:latitude":58.200415,
     "geom:longitude":13.814424,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":320,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":320,
     "iso:country":"SE",
     "lbl:latitude":58.200207,
     "lbl:longitude":13.814409,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":58.200207,
     "mps:longitude":13.814409,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Varv"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125373035,
-    "wof:lastmodified":1529702174,
+    "wof:lastmodified":1566642805,
     "wof:name":"Varv",
     "wof:parent_id":1159303037,
     "wof:placetype":"localadmin",

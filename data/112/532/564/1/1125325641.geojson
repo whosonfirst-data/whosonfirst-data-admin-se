@@ -9,17 +9,19 @@
     "geom:bbox":"14.2484681379,57.7626950613,14.29773238,57.8171159078",
     "geom:latitude":57.786888,
     "geom:longitude":14.270712,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":16951,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":16951,
     "iso:country":"SE",
     "lbl:latitude":57.785676,
     "lbl:longitude":14.271086,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":57.785676,
     "mps:longitude":14.271086,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0647\u0648\u0633\u0643\u0641\u0627\u0631\u0646\u0627"
@@ -129,7 +131,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -155,7 +157,7 @@
         }
     ],
     "wof:id":1125325641,
-    "wof:lastmodified":1564165005,
+    "wof:lastmodified":1566642515,
     "wof:name":"Huskvarna",
     "wof:parent_id":1159303375,
     "wof:placetype":"localadmin",

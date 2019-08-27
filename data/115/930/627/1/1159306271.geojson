@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.168591,
+    "geom:area_square_m":939984285.72799,
     "geom:bbox":"15.7377703711,62.9935988494,16.676461864,63.4185132717",
     "geom:latitude":63.198219,
     "geom:longitude":16.210434,
     "iso:country":"SE",
     "lbl:latitude":63.198255,
     "lbl:longitude":16.21036,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":63.198255,
     "mps:longitude":16.21036,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ragunda"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159306271,
-    "wof:lastmodified":1529702364,
+    "wof:lastmodified":1566643194,
     "wof:name":"Ragunda",
     "wof:parent_id":1159303013,
     "wof:placetype":"localadmin",

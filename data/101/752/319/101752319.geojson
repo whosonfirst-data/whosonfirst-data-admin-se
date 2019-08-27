@@ -13,6 +13,8 @@
     "iso:country":"SE",
     "lbl:latitude":63.81719,
     "lbl:longitude":20.287235,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":63.81719,
     "mps:longitude":20.287235,
     "mz:hierarchy_label":1,
@@ -414,7 +416,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":2182,
     "wof:belongsto":[
@@ -429,7 +431,6 @@
         "fct:id":"06d31604-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":602150,
         "gp:id":908519,
-        "qs:id":1062278,
         "qs_pg:id":1062278,
         "wd:id":"Q25579",
         "wk:page":"Ume\u00e5"
@@ -450,7 +451,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368596,
+    "wof:lastmodified":1566642133,
     "wof:name":"Ume\u00e5",
     "wof:parent_id":1125325349,
     "wof:placetype":"locality",

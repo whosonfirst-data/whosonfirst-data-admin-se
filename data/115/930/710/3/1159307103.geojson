@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004203,
+    "geom:area_square_m":27072853.386847,
     "geom:bbox":"13.738913192,58.5741921723,13.8489145341,58.6388831877",
     "geom:latitude":58.608539,
     "geom:longitude":13.788286,
     "iso:country":"SE",
     "lbl:latitude":58.607843,
     "lbl:longitude":13.787293,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":58.607843,
     "mps:longitude":13.787293,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ek"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159307103,
-    "wof:lastmodified":1529702156,
+    "wof:lastmodified":1566643367,
     "wof:name":"Ek",
     "wof:parent_id":1159303321,
     "wof:placetype":"localadmin",

@@ -14,6 +14,7 @@
     "iso:country":"SE",
     "lbl:latitude":59.361551,
     "lbl:longitude":18.00594,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.359693,
     "mps:longitude":18.015295,
     "mz:hierarchy_label":1,
@@ -44,9 +45,6 @@
     "name:swe_x_preferred":[
         "Hagalund"
     ],
-    "name:unk_x_variant":[
-        "Hagalund"
-    ],
     "qs:gn_adm0_cc":"SE",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":2673730,
@@ -74,7 +72,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":186,
     "wof:belongsto":[
         102191581,
@@ -88,7 +86,6 @@
     "wof:concordances":{
         "gn:id":2709347,
         "gp:id":891785,
-        "qs:id":1083437,
         "qs_pg:id":1083437,
         "wd:id":"Q5638527",
         "wk:page":"Hagalund"
@@ -110,7 +107,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563366597,
+    "wof:lastmodified":1566640649,
     "wof:name":"Hagalund",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

@@ -10,8 +10,10 @@
     "geom:latitude":57.768755,
     "geom:longitude":12.020354,
     "iso:country":"SE",
+    "lbl:bbox":"12.0153540013,57.7637549553,12.0253540013,57.7737549553",
     "lbl:latitude":57.768755,
     "lbl:longitude":12.020354,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -24,14 +26,14 @@
     "name:swe_x_preferred":[
         "Hj\u00e4llbo"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85688411,
         102191581,
         1125287157,
         85633789,
         101752295,
-        1159302989
+        1159302989,
+        85688411
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -50,7 +52,7 @@
         }
     ],
     "wof:id":1108944373,
-    "wof:lastmodified":1529702295,
+    "wof:lastmodified":1566641812,
     "wof:name":"Hjallbo",
     "wof:parent_id":101752295,
     "wof:placetype":"neighbourhood",

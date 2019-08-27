@@ -10,8 +10,10 @@
     "geom:latitude":57.625104,
     "geom:longitude":11.952133,
     "iso:country":"SE",
+    "lbl:bbox":"11.9471332446,57.6201039886,11.9571332446,57.6301039886",
     "lbl:latitude":57.625104,
     "lbl:longitude":11.952133,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -24,14 +26,14 @@
     "name:swe_x_preferred":[
         "Hultbotj\u00e4rn"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85688411,
         102191581,
         1125287157,
         85633789,
         101752295,
-        1159302989
+        1159302989,
+        85688411
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -50,7 +52,7 @@
         }
     ],
     "wof:id":1108944609,
-    "wof:lastmodified":1529702302,
+    "wof:lastmodified":1566641822,
     "wof:name":"Hultbotjarn",
     "wof:parent_id":101752295,
     "wof:placetype":"neighbourhood",

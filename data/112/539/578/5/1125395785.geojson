@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.143223,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":880395538.174468,
     "geom:bbox":"13.1638689797,59.9874272778,13.7749988152,60.4143895636",
     "geom:latitude":60.190015,
     "geom:longitude":13.498291,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":3427,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":3427,
     "iso:country":"SE",
     "lbl:latitude":60.195777,
     "lbl:longitude":13.528285,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":60.195777,
     "mps:longitude":13.528285,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Eksharad"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125395785,
-    "wof:lastmodified":1529702912,
+    "wof:lastmodified":1566642849,
     "wof:name":"Eksharad",
     "wof:parent_id":1159303063,
     "wof:placetype":"localadmin",

@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011364,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":74899325.538414,
     "geom:bbox":"12.3156569869,57.7297768783,12.4894795576,57.8734201087",
     "geom:latitude":57.790861,
     "geom:longitude":12.404922,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":10363,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":10363,
     "iso:country":"SE",
     "lbl:latitude":57.795346,
     "lbl:longitude":12.398996,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":57.795346,
     "mps:longitude":12.398996,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Skallsjo"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125270995,
-    "wof:lastmodified":1529702121,
+    "wof:lastmodified":1566642698,
     "wof:name":"Skallsjo",
     "wof:parent_id":1159303177,
     "wof:placetype":"localadmin",

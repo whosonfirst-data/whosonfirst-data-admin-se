@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002518,
+    "geom:area_square_m":15676317.86085,
     "geom:bbox":"18.5816681406,59.7535282604,18.6673598074,59.8020922118",
     "geom:latitude":59.773593,
     "geom:longitude":18.625216,
     "iso:country":"SE",
     "lbl:latitude":59.775256,
     "lbl:longitude":18.632971,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":59.775256,
     "mps:longitude":18.632971,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Malsta"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159307105,
-    "wof:lastmodified":1529702725,
+    "wof:lastmodified":1566643367,
     "wof:name":"Malsta",
     "wof:parent_id":1159302995,
     "wof:placetype":"localadmin",

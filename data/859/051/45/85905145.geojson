@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000309,
-    "geom:area_square_m":1943846.438703,
+    "geom:area_square_m":1943846.438702,
     "geom:bbox":"17.9070032148,59.3905768205,17.9351806641,59.4059571151",
     "geom:latitude":59.398529,
     "geom:longitude":17.922367,
@@ -13,6 +13,7 @@
     "iso:country":"SE",
     "lbl:latitude":59.39975,
     "lbl:longitude":17.921075,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.397601,
     "mps:longitude":17.922367,
     "mz:hierarchy_label":1,
@@ -26,9 +27,6 @@
     "mz:tier_locality":5,
     "mz:tier_metro":1,
     "name:swe_x_preferred":[
-        "Eggeby"
-    ],
-    "name:unk_x_variant":[
         "Eggeby"
     ],
     "qs:gn_adm0_cc":"SE",
@@ -56,19 +54,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85688429,
         102191581,
         1125362217,
         85633789,
         101752307,
-        1159303035
+        1159303035,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20150927,
-        "qs:id":212103,
         "qs_pg:id":212103
     },
     "wof:country":"SE",
@@ -88,7 +85,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702805,
+    "wof:lastmodified":1566640659,
     "wof:name":"Eggeby",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

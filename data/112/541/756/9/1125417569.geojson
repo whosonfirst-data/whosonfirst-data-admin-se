@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00421,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":28620600.272378,
     "geom:bbox":"12.826207715,56.6075175677,12.9124965713,56.6949489942",
     "geom:latitude":56.647775,
     "geom:longitude":12.874607,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":24856,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":24856,
     "iso:country":"SE",
     "lbl:latitude":56.642334,
     "lbl:longitude":12.875245,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":56.642334,
     "mps:longitude":12.875245,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Halmstads Martin Luther"
@@ -48,7 +50,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":1125417569,
-    "wof:lastmodified":1529702337,
+    "wof:lastmodified":1566643087,
     "wof:name":"Halmstads Martin Luther",
     "wof:parent_id":1159303343,
     "wof:placetype":"localadmin",

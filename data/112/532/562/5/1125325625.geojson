@@ -9,17 +9,19 @@
     "geom:bbox":"13.4503603503,57.0964741249,13.676034355,57.2682274234",
     "geom:latitude":57.178722,
     "geom:longitude":13.563552,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":1969,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":1969,
     "iso:country":"SE",
     "lbl:latitude":57.183512,
     "lbl:longitude":13.572995,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":57.183512,
     "mps:longitude":13.572995,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Reftele"
@@ -60,7 +62,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -86,7 +88,7 @@
         }
     ],
     "wof:id":1125325625,
-    "wof:lastmodified":1564165010,
+    "wof:lastmodified":1566642520,
     "wof:name":"Reftele",
     "wof:parent_id":1159303327,
     "wof:placetype":"localadmin",

@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002404,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":16598107.476663,
     "geom:bbox":"12.8004057634,56.0398317987,12.9174020446,56.0869951764",
     "geom:latitude":56.061036,
     "geom:longitude":12.862503,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":2420,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":2420,
     "iso:country":"SE",
     "lbl:latitude":56.064109,
     "lbl:longitude":12.865876,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":56.064109,
     "mps:longitude":12.865876,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Morarp"
@@ -48,7 +50,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":1125358365,
-    "wof:lastmodified":1529702644,
+    "wof:lastmodified":1566642468,
     "wof:name":"Morarp",
     "wof:parent_id":1159302965,
     "wof:placetype":"localadmin",

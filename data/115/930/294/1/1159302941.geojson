@@ -24,10 +24,13 @@
     ],
     "lbl:latitude":61.269747,
     "lbl:longitude":14.716214,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":61.269747,
     "mps:longitude":14.716214,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Orsa"
     ],
@@ -70,7 +73,7 @@
     "se-lant:lanskod":20,
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1159302941,
-    "wof:lastmodified":1564165550,
+    "wof:lastmodified":1566643214,
     "wof:name":"Orsa",
     "wof:parent_id":85688447,
     "wof:placetype":"county",

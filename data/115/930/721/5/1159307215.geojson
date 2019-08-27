@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002173,
+    "geom:area_square_m":15085975.550032,
     "geom:bbox":"12.971148533,55.8218400976,13.0590868443,55.8627140566",
     "geom:latitude":55.841989,
     "geom:longitude":13.015966,
     "iso:country":"SE",
     "lbl:latitude":55.841138,
     "lbl:longitude":13.015153,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.841138,
     "mps:longitude":13.015153,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Annelov"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159307215,
-    "wof:lastmodified":1529702622,
+    "wof:lastmodified":1566643365,
     "wof:name":"Annelov",
     "wof:parent_id":1159303531,
     "wof:placetype":"localadmin",

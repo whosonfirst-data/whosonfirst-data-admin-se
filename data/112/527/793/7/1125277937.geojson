@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025226,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":154481838.289729,
     "geom:bbox":"15.2088240326,60.241555974,15.6455273513,60.385636465",
     "geom:latitude":60.313242,
     "geom:longitude":15.475411,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":498,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":498,
     "iso:country":"SE",
     "lbl:latitude":60.305699,
     "lbl:longitude":15.387888,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":60.305699,
     "mps:longitude":15.387888,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Silvberg"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125277937,
-    "wof:lastmodified":1529701994,
+    "wof:lastmodified":1566642703,
     "wof:name":"Silvberg",
     "wof:parent_id":1159303099,
     "wof:placetype":"localadmin",

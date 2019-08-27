@@ -9,17 +9,19 @@
     "geom:bbox":"17.5048223946,64.2083716437,19.3116566765,65.0438774426",
     "geom:latitude":64.63721,
     "geom:longitude":18.429406,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":12477,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":12477,
     "iso:country":"SE",
     "lbl:latitude":64.592108,
     "lbl:longitude":18.490657,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":64.592108,
     "mps:longitude":18.490657,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u041b\u044e\u043a\u0441\u0435\u043b\u0435"
@@ -123,7 +125,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -149,7 +151,7 @@
         }
     ],
     "wof:id":1125382283,
-    "wof:lastmodified":1564165295,
+    "wof:lastmodified":1566642902,
     "wof:name":"Lycksele",
     "wof:parent_id":1159303117,
     "wof:placetype":"localadmin",

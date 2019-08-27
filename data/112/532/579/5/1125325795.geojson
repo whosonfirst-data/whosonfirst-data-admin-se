@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018747,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":123152426.081363,
     "geom:bbox":"15.8810310361,57.818000496,16.0639710701,57.9901307435",
     "geom:latitude":57.909742,
     "geom:longitude":15.973802,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":312,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":312,
     "iso:country":"SE",
     "lbl:latitude":57.91027,
     "lbl:longitude":15.972086,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":57.91027,
     "mps:longitude":15.972086,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Hycklinge"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125325795,
-    "wof:lastmodified":1529702481,
+    "wof:lastmodified":1566642542,
     "wof:name":"Hycklinge",
     "wof:parent_id":1159303139,
     "wof:placetype":"localadmin",

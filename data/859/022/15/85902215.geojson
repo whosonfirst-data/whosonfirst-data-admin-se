@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":11710953.800226,
+    "geom:area_square_m":0.0,
     "geom:bbox":"17.129779,60.69026,17.129779,60.69026",
     "geom:latitude":60.69026,
     "geom:longitude":17.129779,
     "gn:latitude":60.7,
     "gn:longitude":17.15,
     "iso:country":"SE",
+    "lbl:bbox":"17.124779,60.68526,17.134779,60.69526",
     "lbl:latitude":60.69026,
     "lbl:longitude":17.129779,
+    "lbl:max_zoom":18.0,
     "mps:latitude":60.694846,
     "mps:longitude":17.126032,
     "mz:hierarchy_label":0,
@@ -30,9 +32,6 @@
         "Kallbacken"
     ],
     "name:swe_x_preferred":[
-        "K\u00e4llbacken"
-    ],
-    "name:unk_x_variant":[
         "K\u00e4llbacken"
     ],
     "qs:gn_adm0_cc":"SE",
@@ -64,20 +63,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85688453,
         102191581,
         1125322039,
         85633789,
         101752315,
-        1159303225
+        1159303225,
+        85688453
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2702512,
         "gp:id":894613,
-        "qs:id":279034,
         "qs_pg:id":279034
     },
     "wof:country":"SE",
@@ -97,7 +95,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1531935869,
+    "wof:lastmodified":1566640595,
     "wof:name":"K\u00e4llbacken",
     "wof:parent_id":101752315,
     "wof:placetype":"neighbourhood",

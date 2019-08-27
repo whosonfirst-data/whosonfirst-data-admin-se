@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":56.457998,
     "lbl:longitude":13.595335,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":56.457998,
     "mps:longitude":13.595335,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041c\u0430\u0440\u043a\u0430\u0440\u044e\u0434"
     ],
@@ -114,7 +117,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":77,
     "wof:belongsto":[
@@ -129,7 +132,6 @@
         "fct:id":"06d297ec-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2692596,
         "gp:id":898241,
-        "qs:id":1037541,
         "qs_pg:id":1037541,
         "wd:id":"Q1639483",
         "wk:page":"Markaryd"
@@ -150,7 +152,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368631,
+    "wof:lastmodified":1566642146,
     "wof:name":"Markaryd",
     "wof:parent_id":1125381961,
     "wof:placetype":"locality",

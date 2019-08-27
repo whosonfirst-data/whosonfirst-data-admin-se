@@ -9,17 +9,19 @@
     "geom:bbox":"16.4228300307,56.6535782818,16.6176833811,56.7120586458",
     "geom:latitude":56.682368,
     "geom:longitude":16.519962,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":1371,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":1371,
     "iso:country":"SE",
     "lbl:latitude":56.682282,
     "lbl:longitude":16.518039,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":56.682282,
     "mps:longitude":16.518039,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0410\u043b\u0433\u0443\u0442\u0441\u0440\u0443\u043c"
@@ -69,7 +71,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -95,7 +97,7 @@
         }
     ],
     "wof:id":1125423235,
-    "wof:lastmodified":1564165163,
+    "wof:lastmodified":1566642737,
     "wof:name":"Algutsrum",
     "wof:parent_id":1159303101,
     "wof:placetype":"localadmin",

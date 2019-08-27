@@ -12,8 +12,10 @@
     "gn:latitude":60.70108,
     "gn:longitude":17.16382,
     "iso:country":"SE",
+    "lbl:bbox":"17.157379,60.702639,17.167379,60.712639",
     "lbl:latitude":60.707639,
     "lbl:longitude":17.162379,
+    "lbl:max_zoom":18.0,
     "mps:latitude":60.708963,
     "mps:longitude":17.171569,
     "mz:hierarchy_label":0,
@@ -54,9 +56,6 @@
         "Str\u00f6msbro",
         "Str\u00f6msbro IF"
     ],
-    "name:unk_x_variant":[
-        "Str\u00f6msbro"
-    ],
     "qs:gn_adm0_cc":"SE",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":2712414,
@@ -86,7 +85,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":216,
     "wof:belongsto":[
         102191581,
@@ -100,7 +99,6 @@
     "wof:concordances":{
         "gn:id":2671259,
         "gp:id":906565,
-        "qs:id":959495,
         "qs_pg:id":959495,
         "wd:id":"Q2357654"
     },
@@ -121,7 +119,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563366541,
+    "wof:lastmodified":1566640603,
     "wof:name":"Str\u00f6msbro",
     "wof:parent_id":101752315,
     "wof:placetype":"neighbourhood",

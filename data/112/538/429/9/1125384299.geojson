@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003941,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":25384129.466038,
     "geom:bbox":"16.1828784003,58.5805898767,16.2909410726,58.6364951042",
     "geom:latitude":58.604821,
     "geom:longitude":16.236308,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":13692,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":13692,
     "iso:country":"SE",
     "lbl:latitude":58.603854,
     "lbl:longitude":16.236324,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":58.603854,
     "mps:longitude":16.236324,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Norrkopings Hedvig"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125384299,
-    "wof:lastmodified":1529703094,
+    "wof:lastmodified":1566642920,
     "wof:name":"Norrkopings Hedvig",
     "wof:parent_id":1159303229,
     "wof:placetype":"localadmin",

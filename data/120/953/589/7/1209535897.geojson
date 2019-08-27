@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Stockholm",
     "iso:country":"SE",
+    "lbl:bbox":"14.39667,62.86333,14.43667,62.90333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633789
@@ -35,7 +39,7 @@
         "gn:id":2692342
     },
     "wof:country":"SE",
-    "wof:geomhash":"67c18687013cc6ea71601a3b0754c22e",
+    "wof:geomhash":"2f43e9c1bae92cfadc1dd04b5e3516d6",
     "wof:hierarchy":[
         {
             "country_id":85633789,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209535897,
-    "wof:lastmodified":1536284143,
+    "wof:lastmodified":1566641314,
     "wof:name":"Matnaset",
     "wof:parent_id":85633789,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    14.416670000000002,
+    14.41667,
     62.88333000000001,
-    14.416670000000002,
+    14.41667,
     62.88333000000001
 ],
   "geometry": {"coordinates":[14.41667,62.88333000000001],"type":"Point"}

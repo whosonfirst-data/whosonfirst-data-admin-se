@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":57.690323,
     "lbl:longitude":12.213242,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":57.690323,
     "mps:longitude":12.213242,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041b\u0430\u043d\u0434\u0432\u0435\u0442\u0435\u0440"
     ],
@@ -94,7 +97,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":180,
     "wof:belongsto":[
@@ -109,7 +112,6 @@
         "fct:id":"06d2d478-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2697703,
         "gp:id":896536,
-        "qs:id":1159239,
         "qs_pg:id":1159239,
         "wd:id":"Q2718041",
         "wk:page":"Landvetter"
@@ -130,7 +132,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368773,
+    "wof:lastmodified":1566642196,
     "wof:name":"Landvetter",
     "wof:parent_id":1125374443,
     "wof:placetype":"locality",

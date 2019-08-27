@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003418,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":23113584.532019,
     "geom:bbox":"14.7788263073,56.8124956791,14.8973039761,56.8677532277",
     "geom:latitude":56.842699,
     "geom:longitude":14.836788,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":11439,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":11439,
     "iso:country":"SE",
     "lbl:latitude":56.842662,
     "lbl:longitude":14.83679,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":56.842662,
     "mps:longitude":14.83679,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Teleborg"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125286789,
-    "wof:lastmodified":1529702529,
+    "wof:lastmodified":1566642631,
     "wof:name":"Teleborg",
     "wof:parent_id":1159302917,
     "wof:placetype":"localadmin",

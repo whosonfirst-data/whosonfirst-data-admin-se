@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002347,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":13458753.442373,
     "geom:bbox":"17.3142898194,62.3531065586,17.3978567111,62.3917502739",
     "geom:latitude":62.371659,
     "geom:longitude":17.358474,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":5942,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":5942,
     "iso:country":"SE",
     "lbl:latitude":62.371527,
     "lbl:longitude":17.358477,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":62.371527,
     "mps:longitude":17.358477,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Skonsmon"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125325987,
-    "wof:lastmodified":1529702993,
+    "wof:lastmodified":1566642522,
     "wof:name":"Skonsmon",
     "wof:parent_id":1159303427,
     "wof:placetype":"localadmin",

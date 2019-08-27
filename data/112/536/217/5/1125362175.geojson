@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002895,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":18068518.828831,
     "geom:bbox":"17.1269587877,59.6555638071,17.2277127409,59.7114116112",
     "geom:latitude":59.6818,
     "geom:longitude":17.178294,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":193,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":193,
     "iso:country":"SE",
     "lbl:latitude":59.68284,
     "lbl:longitude":17.183267,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mps:latitude":59.68284,
     "mps:longitude":17.183267,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Harkeberga"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125362175,
-    "wof:lastmodified":1529702870,
+    "wof:lastmodified":1566642940,
     "wof:name":"Harkeberga",
     "wof:parent_id":1159303337,
     "wof:placetype":"localadmin",

@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1729084.900999,
+    "geom:area_square_m":0.0,
     "geom:bbox":"18.098556,59.435093,18.098556,59.435093",
     "geom:latitude":59.435093,
     "geom:longitude":18.098556,
     "gn:latitude":58.85167,
     "gn:longitude":17.84444,
     "iso:country":"SE",
+    "lbl:bbox":"18.093556,59.430093,18.103556,59.440093",
     "lbl:latitude":59.435093,
     "lbl:longitude":18.098556,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.435839,
     "mps:longitude":18.114477,
     "mz:hierarchy_label":0,
@@ -27,9 +29,6 @@
     "mz:tier_locality":1,
     "mz:tier_metro":1,
     "name:swe_x_preferred":[
-        "Norskogen"
-    ],
-    "name:unk_x_variant":[
         "Norskogen"
     ],
     "qs:gn_adm0_cc":"SE",
@@ -61,20 +60,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85688429,
         102191581,
         1125398123,
         85633789,
         101752309,
-        1159303403
+        1159303403,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2688273,
         "gp:id":20151433,
-        "qs:id":1118893,
         "qs_pg:id":1118893
     },
     "wof:country":"SE",
@@ -94,7 +92,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1531936344,
+    "wof:lastmodified":1566640613,
     "wof:name":"Norskogen",
     "wof:parent_id":101752309,
     "wof:placetype":"neighbourhood",

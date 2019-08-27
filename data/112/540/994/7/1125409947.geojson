@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010276,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":70882820.046921,
     "geom:bbox":"13.8026358906,56.0357138786,14.0031437909,56.1419096514",
     "geom:latitude":56.092961,
     "geom:longitude":13.912063,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":5637,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":5637,
     "iso:country":"SE",
     "lbl:latitude":56.090065,
     "lbl:longitude":13.910513,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":56.090065,
     "mps:longitude":13.910513,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Vinslov"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125409947,
-    "wof:lastmodified":1529702647,
+    "wof:lastmodified":1566643073,
     "wof:name":"Vinslov",
     "wof:parent_id":1159303121,
     "wof:placetype":"localadmin",

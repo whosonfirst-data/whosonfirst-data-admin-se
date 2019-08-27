@@ -13,6 +13,7 @@
     "iso:country":"SE",
     "lbl:latitude":59.348273,
     "lbl:longitude":18.143979,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.339511,
     "mps:longitude":18.138639,
     "mz:hierarchy_label":1,
@@ -50,9 +51,6 @@
     "name:swe_x_variant":[
         "Liding\u00f6banan"
     ],
-    "name:unk_x_variant":[
-        "Larsberg"
-    ],
     "qs:gn_adm0_cc":"SE",
     "qs:gn_id":0,
     "qs:gn_local":2673730,
@@ -78,7 +76,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         1125394719,
@@ -90,7 +88,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20151296,
-        "qs:id":212113,
         "qs_pg:id":212113
     },
     "wof:country":"SE",
@@ -110,7 +107,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1536864514,
+    "wof:lastmodified":1566640616,
     "wof:name":"Larsberg",
     "wof:parent_id":101839523,
     "wof:placetype":"neighbourhood",

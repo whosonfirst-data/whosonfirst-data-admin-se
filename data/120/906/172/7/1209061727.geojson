@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Stockholm",
     "iso:country":"SE",
+    "lbl:bbox":"16.99422,62.32991,17.03422,62.36991",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0421\u043a\u043e\u043b\u044d"
     ],
@@ -85,9 +89,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u043a\u043e\u043b\u0435"
     ],
-    "name:und_x_variant":[
-        "Sk\u00f6le"
-    ],
     "name:vie_x_preferred":[
         "Skole"
     ],
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":1209061727,
-    "wof:lastmodified":1564163517,
+    "wof:lastmodified":1566641341,
     "wof:name":"Skole",
     "wof:parent_id":85633789,
     "wof:placetype":"locality",

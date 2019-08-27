@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":8139781.343317,
+    "geom:area_square_m":0.0,
     "geom:bbox":"18.320435,59.436975,18.320435,59.436975",
     "geom:latitude":59.436975,
     "geom:longitude":18.320435,
     "gn:latitude":59.44795,
     "gn:longitude":18.30812,
     "iso:country":"SE",
+    "lbl:bbox":"18.315435,59.431975,18.325435,59.441975",
     "lbl:latitude":59.436975,
     "lbl:longitude":18.320435,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.438591,
     "mps:longitude":18.304748,
     "mz:hierarchy_label":0,
@@ -32,9 +34,6 @@
         "Svinningehojden"
     ],
     "name:swe_x_preferred":[
-        "Svinningeudd"
-    ],
-    "name:unk_x_variant":[
         "Svinningeudd"
     ],
     "qs:gn_adm0_cc":"SE",
@@ -67,20 +66,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85688429,
         102191581,
         1125283877,
         85633789,
         101815901,
-        1159302905
+        1159302905,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2669871,
         "gp:id":907108,
-        "qs:id":1167767,
         "qs_pg:id":1167767
     },
     "wof:country":"SE",
@@ -100,7 +98,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1531935902,
+    "wof:lastmodified":1566640602,
     "wof:name":"Svinningeudd",
     "wof:parent_id":101815901,
     "wof:placetype":"neighbourhood",

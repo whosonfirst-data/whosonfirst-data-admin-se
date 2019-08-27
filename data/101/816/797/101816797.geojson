@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":57.922243,
     "lbl:longitude":13.880078,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":57.922243,
     "mps:longitude":13.880078,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041c\u0443\u043b\u0448\u044c\u043e"
     ],
@@ -138,7 +141,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":61,
     "wof:belongsto":[
@@ -153,7 +156,6 @@
         "fct:id":"06d1a2d8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2690902,
         "gp:id":898863,
-        "qs:id":916091,
         "qs_pg:id":916091,
         "wd:id":"Q1625556"
     },
@@ -173,7 +175,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368605,
+    "wof:lastmodified":1566642136,
     "wof:name":"Mullsj\u00f6",
     "wof:parent_id":1125326453,
     "wof:placetype":"locality",

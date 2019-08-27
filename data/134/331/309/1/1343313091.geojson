@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Stockholm",
     "iso:country":"SE",
+    "lbl:bbox":"12.66333,56.09667,12.70333,56.13667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Broda"
     ],
@@ -49,9 +53,6 @@
     ],
     "name:rus_x_preferred":[
         "\u0411\u0440\u043e\u0434\u0430"
-    ],
-    "name:und_x_variant":[
-        "Br\u00f6da"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1343313091,
-    "wof:lastmodified":1564161925,
+    "wof:lastmodified":1566640247,
     "wof:name":"Broda",
     "wof:parent_id":1125372751,
     "wof:placetype":"locality",

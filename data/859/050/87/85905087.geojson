@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7525606.071337,
+    "geom:area_square_m":0.0,
     "geom:bbox":"18.339671,59.304285,18.339671,59.304285",
     "geom:latitude":59.304285,
     "geom:longitude":18.339671,
     "gn:id":"",
     "iso:country":"SE",
+    "lbl:bbox":"18.334671,59.299285,18.344671,59.309285",
     "lbl:latitude":59.304285,
     "lbl:longitude":18.339671,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.301088,
     "mps:longitude":18.335226,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:swe_x_preferred":[
-        "Baggensudden"
-    ],
-    "name:unk_x_variant":[
         "Baggensudden"
     ],
     "qs:gn_adm0_cc":"SE",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         1159305775,
@@ -69,7 +68,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20150816,
-        "qs:id":937863,
         "qs_pg:id":937863
     },
     "wof:country":"SE",
@@ -89,7 +87,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1531936323,
+    "wof:lastmodified":1566640655,
     "wof:name":"Baggensudden",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

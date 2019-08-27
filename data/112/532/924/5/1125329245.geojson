@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031138,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":177536557.134609,
     "geom:bbox":"17.3684104149,62.4743199849,17.747461081,62.6251290543",
     "geom:latitude":62.541733,
     "geom:longitude":17.566604,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":3175,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":3175,
     "iso:country":"SE",
     "lbl:latitude":62.548328,
     "lbl:longitude":17.538009,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":62.548328,
     "mps:longitude":17.538009,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Hassjo"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125329245,
-    "wof:lastmodified":1529702996,
+    "wof:lastmodified":1566642504,
     "wof:name":"Hassjo",
     "wof:parent_id":1159303091,
     "wof:placetype":"localadmin",

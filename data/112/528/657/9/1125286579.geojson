@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014788,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":98042841.066843,
     "geom:bbox":"13.8250296655,57.4887153072,14.0282933713,57.6580547538",
     "geom:latitude":57.576598,
     "geom:longitude":13.939828,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":344,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":344,
     "iso:country":"SE",
     "lbl:latitude":57.576583,
     "lbl:longitude":13.941242,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":57.576583,
     "mps:longitude":13.941242,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Bondstorp"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125286579,
-    "wof:lastmodified":1529702430,
+    "wof:lastmodified":1566642611,
     "wof:name":"Bondstorp",
     "wof:parent_id":1159303517,
     "wof:placetype":"localadmin",

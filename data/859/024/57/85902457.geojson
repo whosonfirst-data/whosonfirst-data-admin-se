@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":9942651.40678,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.216755,59.27321,15.216755,59.27321",
     "geom:latitude":59.27321,
     "geom:longitude":15.216755,
     "gn:latitude":59.26667,
     "gn:longitude":15.23333,
     "iso:country":"SE",
+    "lbl:bbox":"15.211755,59.26821,15.221755,59.27821",
     "lbl:latitude":59.27321,
     "lbl:longitude":15.216755,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.28198,
     "mps:longitude":15.226903,
     "mz:hierarchy_label":0,
@@ -38,9 +40,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0432\u0430\u0440\u0442\u043e\u043d"
-    ],
-    "name:unk_x_variant":[
-        "Skeb\u00e4ck"
     ],
     "qs:gn_adm0_cc":"SE",
     "qs:gn_fcode":"PPLX",
@@ -71,20 +70,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85688421,
         102191581,
         1125372577,
         85633789,
         101752301,
-        1159303031
+        1159303031,
+        85688421
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2677828,
         "gp:id":904322,
-        "qs:id":1083471,
         "qs_pg:id":1083471
     },
     "wof:country":"SE",
@@ -104,7 +102,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1531935895,
+    "wof:lastmodified":1566640574,
     "wof:name":"Skeb\u00e4ck",
     "wof:parent_id":101752301,
     "wof:placetype":"neighbourhood",

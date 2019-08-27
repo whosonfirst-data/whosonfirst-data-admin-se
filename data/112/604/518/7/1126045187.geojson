@@ -9,15 +9,18 @@
     "geom:bbox":"22.23333,66.11667,22.23333,66.11667",
     "geom:latitude":66.11667,
     "geom:longitude":22.23333,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":536,
+    "gn:country":"SE",
+    "gn:fcode":"PPL",
     "gn:population":536,
     "iso:country":"SE",
+    "lbl:bbox":"22.21333,66.09667,22.25333,66.13667",
     "lbl:latitude":66.11667,
     "lbl:longitude":22.23333,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ita_x_preferred":[
         "L\u00e5ngvik"
@@ -34,7 +37,7 @@
     "name:swe_x_preferred":[
         "L\u00e5ngvik"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bredvik"
     ],
     "name:urd_x_preferred":[
@@ -52,7 +55,7 @@
     "qs_pg:qs_id":550230,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85688471,
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1126045187,
-    "wof:lastmodified":1564165048,
+    "wof:lastmodified":1566642572,
     "wof:name":"L\u00e5ngvik",
     "wof:parent_id":1125373631,
     "wof:placetype":"locality",

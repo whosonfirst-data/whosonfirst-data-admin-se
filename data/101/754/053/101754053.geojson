@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":56.642335,
     "lbl:longitude":12.92954,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":56.642335,
     "mps:longitude":12.92954,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0424\u0439\u043b\u0438\u043d\u0433\u0435"
     ],
@@ -79,7 +82,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":45,
     "wof:belongsto":[
@@ -94,7 +97,6 @@
         "fct:id":"06d1f47c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2713350,
         "gp:id":890188,
-        "qs:id":941431,
         "qs_pg:id":941431,
         "wd:id":"Q2012671",
         "wk:page":"Fyllinge"
@@ -115,7 +117,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368600,
+    "wof:lastmodified":1566642134,
     "wof:name":"Fyllinge",
     "wof:parent_id":1125325261,
     "wof:placetype":"locality",

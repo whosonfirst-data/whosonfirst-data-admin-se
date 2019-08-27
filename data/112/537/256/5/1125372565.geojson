@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00244,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":15405685.213817,
     "geom:bbox":"15.2003534273,59.2716670414,15.2871929376,59.3147214422",
     "geom:latitude":59.291316,
     "geom:longitude":15.244623,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":20660,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":20660,
     "iso:country":"SE",
     "lbl:latitude":59.291087,
     "lbl:longitude":15.243799,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":59.291087,
     "mps:longitude":15.243799,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Orebro Olaus Petri"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125372565,
-    "wof:lastmodified":1529703048,
+    "wof:lastmodified":1566642795,
     "wof:name":"Orebro Olaus Petri",
     "wof:parent_id":1159303031,
     "wof:placetype":"localadmin",

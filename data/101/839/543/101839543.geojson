@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":63.165614,
     "lbl:longitude":14.676,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":63.165614,
     "mps:longitude":14.676,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0625\u0648\u0633\u062a\u0631\u0633\u0648\u0646\u062f"
     ],
@@ -285,7 +288,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":7069,
     "wof:belongsto":[
@@ -300,7 +303,6 @@
         "fct:id":"06d44fec-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2685750,
         "gp:id":901163,
-        "qs:id":141213,
         "qs_pg:id":141213,
         "wd:id":"Q26515",
         "wk:page":"\u00d6stersund"
@@ -318,7 +320,7 @@
         }
     ],
     "wof:id":101839543,
-    "wof:lastmodified":1563368939,
+    "wof:lastmodified":1566642252,
     "wof:name":"\u00d6stersund",
     "wof:parent_id":1125286351,
     "wof:placetype":"locality",

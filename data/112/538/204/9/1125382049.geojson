@@ -9,17 +9,19 @@
     "geom:bbox":"15.0158092153,60.0084194496,15.2453292607,60.2735432484",
     "geom:latitude":60.152172,
     "geom:longitude":15.13961,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":17222,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":17222,
     "iso:country":"SE",
     "lbl:latitude":60.140491,
     "lbl:longitude":15.164784,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":60.140491,
     "mps:longitude":15.164784,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u041b\u0443\u0434\u0432\u0438\u043a\u0430"
@@ -135,7 +137,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -161,7 +163,7 @@
         }
     ],
     "wof:id":1125382049,
-    "wof:lastmodified":1564165298,
+    "wof:lastmodified":1566642905,
     "wof:name":"Ludvika",
     "wof:parent_id":1159303345,
     "wof:placetype":"localadmin",

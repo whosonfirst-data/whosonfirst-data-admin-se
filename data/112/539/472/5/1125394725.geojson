@@ -9,17 +9,19 @@
     "geom:bbox":"13.0183191356,55.6401254545,13.1145236379,55.7016202952",
     "geom:latitude":55.672849,
     "geom:longitude":13.074087,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":10533,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":10533,
     "iso:country":"SE",
     "lbl:latitude":55.673338,
     "lbl:longitude":13.074093,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":55.673338,
     "mps:longitude":13.074093,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u041b\u043e\u043c\u0430"
@@ -105,7 +107,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -131,7 +133,7 @@
         }
     ],
     "wof:id":1125394725,
-    "wof:lastmodified":1564165252,
+    "wof:lastmodified":1566642843,
     "wof:name":"Lomma",
     "wof:parent_id":1159302981,
     "wof:placetype":"localadmin",

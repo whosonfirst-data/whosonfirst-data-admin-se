@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":63.34919,
     "lbl:longitude":13.458637,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":63.34919,
     "mps:longitude":13.458637,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0419\u0435\u0440\u043f\u0435\u043d"
     ],
@@ -94,9 +97,6 @@
     "name:ukr_x_preferred":[
         "\u0404\u0440\u043f\u0435\u043d"
     ],
-    "name:unk_x_variant":[
-        "Hjerpen"
-    ],
     "name:urd_x_preferred":[
         "\u062c\u0627\u0631\u067e\u06cc\u0646"
     ],
@@ -116,7 +116,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":112,
     "wof:belongsto":[
@@ -131,7 +131,6 @@
         "fct:id":"06d3d49a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2703212,
         "gp:id":894348,
-        "qs:id":463047,
         "qs_pg:id":463047,
         "wd:id":"Q1714951",
         "wk:page":"J\u00e4rpen"
@@ -152,7 +151,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368899,
+    "wof:lastmodified":1566642240,
     "wof:name":"J\u00e4rpen",
     "wof:parent_id":1125287495,
     "wof:placetype":"locality",

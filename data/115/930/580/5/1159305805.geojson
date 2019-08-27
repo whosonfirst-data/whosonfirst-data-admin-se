@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012776,
+    "geom:area_square_m":83104069.254794,
     "geom:bbox":"13.1875295119,58.2070496243,13.4050888834,58.3064033961",
     "geom:latitude":58.261737,
     "geom:longitude":13.2984,
     "iso:country":"SE",
     "lbl:latitude":58.259317,
     "lbl:longitude":13.298387,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":58.259317,
     "mps:longitude":13.298387,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Norra Vanga"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159305805,
-    "wof:lastmodified":1529702121,
+    "wof:lastmodified":1566643262,
     "wof:name":"Norra Vanga",
     "wof:parent_id":1159303487,
     "wof:placetype":"localadmin",

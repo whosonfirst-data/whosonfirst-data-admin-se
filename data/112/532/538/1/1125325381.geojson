@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010478,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":67661938.535255,
     "geom:bbox":"11.9390701209,58.456125224,12.1240603256,58.5603334908",
     "geom:latitude":58.518291,
     "geom:longitude":12.03972,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":987,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":987,
     "iso:country":"SE",
     "lbl:latitude":58.513157,
     "lbl:longitude":12.038346,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":58.513157,
     "mps:longitude":12.038346,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Odeborg"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125325381,
-    "wof:lastmodified":1529702189,
+    "wof:lastmodified":1566642517,
     "wof:name":"Odeborg",
     "wof:parent_id":1159303061,
     "wof:placetype":"localadmin",

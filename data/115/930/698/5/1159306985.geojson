@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009638,
+    "geom:area_square_m":63366776.086984,
     "geom:bbox":"14.8049707152,57.8254896587,14.9974762564,57.9207607086",
     "geom:latitude":57.878079,
     "geom:longitude":14.895349,
     "iso:country":"SE",
     "lbl:latitude":57.878575,
     "lbl:longitude":14.872793,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":57.878575,
     "mps:longitude":14.872793,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Marback"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159306985,
-    "wof:lastmodified":1529702413,
+    "wof:lastmodified":1566643339,
     "wof:name":"Marback",
     "wof:parent_id":1159303047,
     "wof:placetype":"localadmin",

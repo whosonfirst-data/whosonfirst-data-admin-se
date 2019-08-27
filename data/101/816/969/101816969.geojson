@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":58.489458,
     "lbl:longitude":15.530355,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":58.489458,
     "mps:longitude":15.530355,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Berg"
     ],
@@ -78,7 +81,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688409,
@@ -92,10 +95,12 @@
         "fct:id":"06d083e4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2722967,
         "gp:id":886086,
-        "qs:id":1167640,
         "qs_pg:id":575745,
         "wd:id":"Q163918",
         "wk:page":"Berg, Link\u00f6ping"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1167640
     },
     "wof:country":"SE",
     "wof:geomhash":"c27f9fe37af1dcce6b34e2efcf83b29d",
@@ -113,7 +118,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368683,
+    "wof:lastmodified":1566642163,
     "wof:name":"Berg",
     "wof:parent_id":1125382265,
     "wof:placetype":"locality",

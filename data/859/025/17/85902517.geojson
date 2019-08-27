@@ -14,6 +14,7 @@
     "iso:country":"SE",
     "lbl:latitude":59.320945,
     "lbl:longitude":17.988655,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.321031,
     "mps:longitude":17.991322,
     "mz:hierarchy_label":1,
@@ -68,9 +69,6 @@
     "name:swe_x_preferred":[
         "Stora Essingen"
     ],
-    "name:unk_x_variant":[
-        "Stora Essingen"
-    ],
     "qs:gn_adm0_cc":"SE",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":2673730,
@@ -98,7 +96,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":116,
     "wof:belongsto":[
         102191581,
@@ -112,7 +110,6 @@
     "wof:concordances":{
         "gn:id":2673317,
         "gp:id":906153,
-        "qs:id":3822,
         "qs_pg:id":3822,
         "wd:id":"Q1043368"
     },
@@ -133,7 +130,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563366536,
+    "wof:lastmodified":1566640600,
     "wof:name":"Stora Essingen",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

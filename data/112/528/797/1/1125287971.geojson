@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004611,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":29405421.598412,
     "geom:bbox":"16.5387086246,58.9301404442,16.7091956981,58.985473134",
     "geom:latitude":58.955982,
     "geom:longitude":16.642901,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":222,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":222,
     "iso:country":"SE",
     "lbl:latitude":58.957289,
     "lbl:longitude":16.66293,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":58.957289,
     "mps:longitude":16.66293,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Blacksta"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125287971,
-    "wof:lastmodified":1529702844,
+    "wof:lastmodified":1566642588,
     "wof:name":"Blacksta",
     "wof:parent_id":1159302997,
     "wof:placetype":"localadmin",

@@ -9,17 +9,19 @@
     "geom:bbox":"14.3901512543,56.190483533,14.7467588321,56.3619632393",
     "geom:latitude":56.269449,
     "geom:longitude":14.558917,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":10609,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":10609,
     "iso:country":"SE",
     "lbl:latitude":56.269568,
     "lbl:longitude":14.514357,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":56.269568,
     "mps:longitude":14.514357,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Jamshog"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125329367,
-    "wof:lastmodified":1554166209,
+    "wof:lastmodified":1566642478,
     "wof:name":"Jamshog",
     "wof:parent_id":1159303187,
     "wof:placetype":"localadmin",

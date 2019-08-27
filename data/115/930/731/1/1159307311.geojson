@@ -12,10 +12,13 @@
     "iso:country":"SE",
     "lbl:latitude":55.961777,
     "lbl:longitude":13.035455,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.961777,
     "mps:longitude":13.035455,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0647\u0627\u0644\u0645\u0633\u062a\u0627\u062f"
     ],
@@ -225,7 +228,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -247,7 +250,7 @@
         }
     ],
     "wof:id":1159307311,
-    "wof:lastmodified":1564165509,
+    "wof:lastmodified":1566643169,
     "wof:name":"Halmstad",
     "wof:parent_id":1159303189,
     "wof:placetype":"localadmin",

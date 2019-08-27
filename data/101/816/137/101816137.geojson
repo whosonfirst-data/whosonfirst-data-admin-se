@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":61.305449,
     "lbl:longitude":17.058914,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":61.305449,
     "mps:longitude":17.058914,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:bul_x_preferred":[
         "\u0421\u044c\u043e\u0434\u0435\u0440\u0445\u0430\u043c\u043d"
     ],
@@ -144,7 +147,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":308,
     "wof:belongsto":[
@@ -160,7 +163,6 @@
         "gn:id":2676224,
         "gp:id":904980,
         "loc:id":"n83149591",
-        "qs:id":3790,
         "qs_pg:id":3790,
         "wd:id":"Q746839",
         "wk:page":"S\u00f6derhamn"
@@ -181,7 +183,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368688,
+    "wof:lastmodified":1566642164,
     "wof:name":"S\u00f6derhamn",
     "wof:parent_id":1125331817,
     "wof:placetype":"locality",

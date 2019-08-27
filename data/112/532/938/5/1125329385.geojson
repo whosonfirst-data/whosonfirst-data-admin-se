@@ -9,17 +9,19 @@
     "geom:bbox":"13.0807057535,57.1311540273,13.3737821859,57.2856141205",
     "geom:latitude":57.206863,
     "geom:longitude":13.250958,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":1402,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":1402,
     "iso:country":"SE",
     "lbl:latitude":57.209917,
     "lbl:longitude":13.238736,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":57.209917,
     "mps:longitude":13.238736,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Burseryd"
@@ -57,7 +59,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -83,7 +85,7 @@
         }
     ],
     "wof:id":1125329385,
-    "wof:lastmodified":1564164971,
+    "wof:lastmodified":1566642480,
     "wof:name":"Burseryd",
     "wof:parent_id":1159303327,
     "wof:placetype":"localadmin",

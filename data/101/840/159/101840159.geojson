@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":56.897568,
     "lbl:longitude":12.508877,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":56.897568,
     "mps:longitude":12.508877,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0641\u0627\u0644\u0643\u0646\u0628\u0631\u063a"
     ],
@@ -171,7 +174,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":698,
     "wof:belongsto":[
@@ -186,7 +189,6 @@
         "fct:id":"06d1d4ba-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2715573,
         "gp:id":889226,
-        "qs:id":460079,
         "qs_pg:id":460079,
         "wd:id":"Q54766",
         "wk:page":"Falkenberg"
@@ -207,7 +209,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368881,
+    "wof:lastmodified":1566642234,
     "wof:name":"Falkenberg",
     "wof:parent_id":1125372503,
     "wof:placetype":"locality",

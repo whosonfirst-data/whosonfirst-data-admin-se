@@ -9,14 +9,18 @@
     "geom:bbox":"13.6,58.3,13.6,58.3",
     "geom:latitude":58.3,
     "geom:longitude":13.6,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"SE",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"SE",
+    "lbl:bbox":"13.58,58.28,13.62,58.32",
     "lbl:latitude":58.3,
     "lbl:longitude":13.6,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0411\u0440\u043e\u0434\u0435\u0442\u043e\u0440\u043f"
@@ -51,7 +55,7 @@
     "name:tat_x_preferred":[
         "\u0411\u0440\u043e\u0434\u0434\u0435\u0442\u043e\u0440\u043f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Broddetorpt"
     ],
     "qs_pg:aaroncc":"SE",
@@ -75,7 +79,7 @@
     "qs_pg:woe_adm0":23424954,
     "qs_pg:woe_id":887788,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424954,
     "woe:name_adm0":"Sverige",
     "woe:name_adm1":"V\u00e4stra G\u00f6talands L\u00e4n",
@@ -108,7 +112,7 @@
         }
     ],
     "wof:id":1125920489,
-    "wof:lastmodified":1563369152,
+    "wof:lastmodified":1566642399,
     "wof:name":"Broddetorp",
     "wof:parent_id":1159307051,
     "wof:placetype":"locality",

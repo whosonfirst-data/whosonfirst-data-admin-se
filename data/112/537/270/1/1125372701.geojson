@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023449,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":159773904.2671,
     "geom:bbox":"13.7927309037,56.4966286692,14.0864270948,56.6391894113",
     "geom:latitude":56.561798,
     "geom:longitude":13.917809,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":1080,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":1080,
     "iso:country":"SE",
     "lbl:latitude":56.565485,
     "lbl:longitude":13.907769,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":56.565485,
     "mps:longitude":13.907769,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Goteryd"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125372701,
-    "wof:lastmodified":1529702524,
+    "wof:lastmodified":1566642811,
     "wof:name":"Goteryd",
     "wof:parent_id":1159303481,
     "wof:placetype":"localadmin",

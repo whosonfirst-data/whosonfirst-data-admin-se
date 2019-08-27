@@ -9,17 +9,19 @@
     "geom:bbox":"16.2507359986,58.1806305188,16.6858178685,58.3950400938",
     "geom:latitude":58.292794,
     "geom:longitude":16.468962,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":3275,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":3275,
     "iso:country":"SE",
     "lbl:latitude":58.281981,
     "lbl:longitude":16.490481,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":58.281981,
     "mps:longitude":16.490481,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Ringarum"
@@ -63,7 +65,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -89,7 +91,7 @@
         }
     ],
     "wof:id":1125282049,
-    "wof:lastmodified":1564165069,
+    "wof:lastmodified":1566642606,
     "wof:name":"Ringarum",
     "wof:parent_id":1159303123,
     "wof:placetype":"localadmin",

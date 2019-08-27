@@ -9,17 +9,19 @@
     "geom:bbox":"15.5930538241,57.3128179155,16.016684533,57.4987710459",
     "geom:latitude":57.411504,
     "geom:longitude":15.77773,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":1847,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":1847,
     "iso:country":"SE",
     "lbl:latitude":57.405227,
     "lbl:longitude":15.739408,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":57.405227,
     "mps:longitude":15.739408,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Malilla-Gardveda"
@@ -48,7 +50,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":1125326517,
-    "wof:lastmodified":1554166199,
+    "wof:lastmodified":1566642497,
     "wof:name":"Malilla-Gardveda",
     "wof:parent_id":1159303371,
     "wof:placetype":"localadmin",

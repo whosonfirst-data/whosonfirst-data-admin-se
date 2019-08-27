@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.064976,
+    "geom:area_square_m":402134044.425361,
     "geom:bbox":"12.5847070504,59.7913249733,12.9878917077,60.1091527344",
     "geom:latitude":59.96584,
     "geom:longitude":12.806288,
     "iso:country":"SE",
     "lbl:latitude":59.933759,
     "lbl:longitude":12.822388,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":59.933759,
     "mps:longitude":12.822388,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Grasmark"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159305891,
-    "wof:lastmodified":1529702914,
+    "wof:lastmodified":1566643255,
     "wof:name":"Grasmark",
     "wof:parent_id":1159303019,
     "wof:placetype":"localadmin",

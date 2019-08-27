@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00055,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":3470866.175174,
     "geom:bbox":"17.9909351367,59.3234156724,18.0370240949,59.3418012795",
     "geom:latitude":59.333025,
     "geom:longitude":18.013245,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":29977,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":29977,
     "iso:country":"SE",
     "lbl:latitude":59.33249,
     "lbl:longitude":18.013246,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":59.33249,
     "mps:longitude":18.013246,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Stockholms Sankt Goran"
@@ -48,7 +50,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":1125337325,
-    "wof:lastmodified":1529702736,
+    "wof:lastmodified":1566642382,
     "wof:name":"Stockholms Sankt Goran",
     "wof:parent_id":1159303035,
     "wof:placetype":"localadmin",

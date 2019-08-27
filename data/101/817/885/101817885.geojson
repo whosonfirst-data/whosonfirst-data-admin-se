@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":55.472345,
     "lbl:longitude":13.587045,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":55.472345,
     "mps:longitude":13.587045,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Rydsg\u00e5rd"
     ],
@@ -78,7 +81,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":45,
     "wof:belongsto":[
@@ -93,7 +96,6 @@
         "fct:id":"06d2b376-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2680959,
         "gp:id":903077,
-        "qs:id":994424,
         "qs_pg:id":994424,
         "wd:id":"Q3086631"
     },
@@ -113,7 +115,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368782,
+    "wof:lastmodified":1566642198,
     "wof:name":"Rydsg\u00e5rd",
     "wof:parent_id":1159307047,
     "wof:placetype":"locality",

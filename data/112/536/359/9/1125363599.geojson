@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019557,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":129465231.398059,
     "geom:bbox":"14.618441123,57.5246865815,14.8668439067,57.7368645044",
     "geom:latitude":57.630685,
     "geom:longitude":14.722047,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":17898,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":17898,
     "iso:country":"SE",
     "lbl:latitude":57.654076,
     "lbl:longitude":14.69956,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":57.654076,
     "mps:longitude":14.69956,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Nassjo"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125363599,
-    "wof:lastmodified":1529702419,
+    "wof:lastmodified":1566642949,
     "wof:name":"Nassjo",
     "wof:parent_id":1159303537,
     "wof:placetype":"localadmin",

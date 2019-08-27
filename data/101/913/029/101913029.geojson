@@ -12,10 +12,13 @@
     "iso:country":"SE",
     "lbl:latitude":58.310315,
     "lbl:longitude":11.704217,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":58.310315,
     "mps:longitude":11.704217,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Vind\u00f6n"
     ],
@@ -62,7 +65,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688411,
         102191581,
@@ -73,7 +76,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20151871,
-        "qs:id":1061872,
         "qs_pg:id":1061872,
         "wd:id":"Q2676602"
     },
@@ -90,7 +92,7 @@
         }
     ],
     "wof:id":101913029,
-    "wof:lastmodified":1563368804,
+    "wof:lastmodified":1566642206,
     "wof:name":"Vind\u00f6n",
     "wof:parent_id":1125326131,
     "wof:placetype":"locality",

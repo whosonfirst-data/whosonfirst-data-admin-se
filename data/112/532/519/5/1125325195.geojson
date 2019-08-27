@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021543,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":142102285.781552,
     "geom:bbox":"15.232043335,57.6996041458,15.5542418231,57.8289309726",
     "geom:latitude":57.760708,
     "geom:longitude":15.392419,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":1341,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":1341,
     "iso:country":"SE",
     "lbl:latitude":57.75893,
     "lbl:longitude":15.390035,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":57.75893,
     "mps:longitude":15.390035,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Svinhult"
@@ -48,7 +50,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":1125325195,
-    "wof:lastmodified":1529702421,
+    "wof:lastmodified":1566642502,
     "wof:name":"Svinhult",
     "wof:parent_id":1159303361,
     "wof:placetype":"localadmin",

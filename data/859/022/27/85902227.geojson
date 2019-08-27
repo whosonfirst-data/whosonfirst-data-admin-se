@@ -13,6 +13,7 @@
     "iso:country":"SE",
     "lbl:latitude":59.334091,
     "lbl:longitude":18.317418,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.327057,
     "mps:longitude":18.32565,
     "mz:hierarchy_label":1,
@@ -55,9 +56,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0456\u043b\u044c"
     ],
-    "name:unk_x_variant":[
-        "Kil"
-    ],
     "qs:gn_adm0_cc":"SE",
     "qs:gn_id":0,
     "qs:gn_local":2673730,
@@ -83,7 +81,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":138,
     "wof:belongsto":[
         102191581,
@@ -95,7 +93,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":895238,
-        "qs:id":242638,
         "qs_pg:id":242638
     },
     "wof:country":"SE",
@@ -115,7 +112,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1564162419,
+    "wof:lastmodified":1566640591,
     "wof:name":"Kil",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

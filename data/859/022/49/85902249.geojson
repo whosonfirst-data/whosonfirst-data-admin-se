@@ -12,8 +12,10 @@
     "gn:latitude":62.37583,
     "gn:longitude":17.36361,
     "iso:country":"SE",
+    "lbl:bbox":"17.353028,62.38184,17.363028,62.39184",
     "lbl:latitude":62.38684,
     "lbl:longitude":17.358028,
+    "lbl:max_zoom":18.0,
     "mps:latitude":62.378458,
     "mps:longitude":17.363614,
     "mz:hierarchy_label":0,
@@ -50,9 +52,6 @@
         "Kubikenborg",
         "Kubikenborgs IF"
     ],
-    "name:unk_x_variant":[
-        "Kubikenborg"
-    ],
     "qs:gn_adm0_cc":"SE",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":2670781,
@@ -82,7 +81,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":271,
     "wof:belongsto":[
         102191581,
@@ -95,7 +94,6 @@
     "wof:concordances":{
         "gn:id":2698961,
         "gp:id":896056,
-        "qs:id":215684,
         "qs_pg:id":215684,
         "wd:id":"Q917592"
     },
@@ -116,7 +114,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563366530,
+    "wof:lastmodified":1566640595,
     "wof:name":"Kubikenborg",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

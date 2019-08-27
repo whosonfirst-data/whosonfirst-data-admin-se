@@ -9,14 +9,18 @@
     "geom:bbox":"16.1,61.11667,16.1,61.11667",
     "geom:latitude":61.11667,
     "geom:longitude":16.1,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1691,
+    "gn:country":"SE",
+    "gn:fcode":"PPL",
+    "gn:population":1691,
     "iso:country":"SE",
+    "lbl:bbox":"16.08,61.09667,16.12,61.13667",
     "lbl:latitude":61.11667,
     "lbl:longitude":16.1,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
         "Vittsj\u00f6"
@@ -48,7 +52,7 @@
     "name:swe_x_preferred":[
         "Vittsj\u00f6"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vittsj\u00f6n"
     ],
     "qs_pg:aaroncc":"SE",
@@ -63,7 +67,7 @@
     "qs_pg:qs_id":92362,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"quattroshapes_pg",
     "wof:belongsto":[
         85688453,
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":1125861969,
-    "wof:lastmodified":1564165115,
+    "wof:lastmodified":1566642657,
     "wof:name":"Vittsj\u00f6",
     "wof:parent_id":1125382105,
     "wof:placetype":"locality",

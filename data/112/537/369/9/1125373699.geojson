@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013795,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":89651614.100733,
     "geom:bbox":"15.6561147042,58.2213639873,15.8383538062,58.3574807917",
     "geom:latitude":58.29248,
     "geom:longitude":15.74723,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":2774,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":2774,
     "iso:country":"SE",
     "lbl:latitude":58.297976,
     "lbl:longitude":15.748603,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":58.297976,
     "mps:longitude":15.748603,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Vist"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125373699,
-    "wof:lastmodified":1529703094,
+    "wof:lastmodified":1566642806,
     "wof:name":"Vist",
     "wof:parent_id":1159303147,
     "wof:placetype":"localadmin",

@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008151,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":53050671.874877,
     "geom:bbox":"12.2048571117,58.1958759022,12.3825118895,58.3016517746",
     "geom:latitude":58.241568,
     "geom:longitude":12.30586,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":3518,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":3518,
     "iso:country":"SE",
     "lbl:latitude":58.22361,
     "lbl:longitude":12.299854,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":58.22361,
     "mps:longitude":12.299854,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Gardhem"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125362579,
-    "wof:lastmodified":1529702166,
+    "wof:lastmodified":1566642943,
     "wof:name":"Gardhem",
     "wof:parent_id":1159303541,
     "wof:placetype":"localadmin",

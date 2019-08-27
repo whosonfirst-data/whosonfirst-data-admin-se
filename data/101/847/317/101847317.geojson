@@ -13,6 +13,8 @@
     "iso:country":"SE",
     "lbl:latitude":57.639707,
     "lbl:longitude":18.314506,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":57.639707,
     "mps:longitude":18.314506,
     "mz:hierarchy_label":1,
@@ -388,7 +390,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":57.633333,
     "wd:longitude":18.283333,
@@ -406,7 +408,6 @@
         "fct:id":"06d12628-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2662689,
         "gp:id":910100,
-        "qs:id":460236,
         "qs_pg:id":460236,
         "wd:id":"Q54757",
         "wk:page":"Visby"
@@ -427,7 +428,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368879,
+    "wof:lastmodified":1566642233,
     "wof:name":"Visby",
     "wof:parent_id":1125326347,
     "wof:placetype":"locality",

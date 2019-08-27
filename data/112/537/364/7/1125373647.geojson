@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0953,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":478644858.891458,
     "geom:bbox":"23.3319495248,65.9483175199,24.0564752752,66.1677932161",
     "geom:latitude":66.03478,
     "geom:longitude":23.729509,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":1070,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":1070,
     "iso:country":"SE",
     "lbl:latitude":66.056273,
     "lbl:longitude":23.84509,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":66.056273,
     "mps:longitude":23.84509,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Karl Gustav"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125373647,
-    "wof:lastmodified":1529702558,
+    "wof:lastmodified":1566642785,
     "wof:name":"Karl Gustav",
     "wof:parent_id":1159302911,
     "wof:placetype":"localadmin",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000463,
-    "geom:area_square_m":2921523.220798,
+    "geom:area_square_m":2921523.220797,
     "geom:bbox":"18.1643116098,59.2781218041,18.1909227254,59.3051602772",
     "geom:latitude":59.293065,
     "geom:longitude":18.176793,
@@ -13,6 +13,7 @@
     "iso:country":"SE",
     "lbl:latitude":59.306452,
     "lbl:longitude":18.162443,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.292156,
     "mps:longitude":18.175716,
     "mz:hierarchy_label":1,
@@ -27,9 +28,6 @@
     "mz:tier_locality":5,
     "mz:tier_metro":1,
     "name:swe_x_preferred":[
-        "Fannydal"
-    ],
-    "name:unk_x_variant":[
         "Fannydal"
     ],
     "qs:gn_adm0_cc":"SE",
@@ -57,19 +55,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85688429,
         102191581,
         1125362217,
         85633789,
         101752307,
-        1159303035
+        1159303035,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20150968,
-        "qs:id":1259191,
         "qs_pg:id":1259191
     },
     "wof:country":"SE",
@@ -89,7 +86,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702812,
+    "wof:lastmodified":1566640658,
     "wof:name":"Fannydal",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003238,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":21080581.73729,
     "geom:bbox":"13.7527500212,58.2038335914,13.8650622447,58.2512360796",
     "geom:latitude":58.227339,
     "geom:longitude":13.808728,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":258,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":258,
     "iso:country":"SE",
     "lbl:latitude":58.22724,
     "lbl:longitude":13.802068,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":58.22724,
     "mps:longitude":13.802068,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Kungslena"
@@ -48,7 +50,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":1125358181,
-    "wof:lastmodified":1529702211,
+    "wof:lastmodified":1566642431,
     "wof:name":"Kungslena",
     "wof:parent_id":1159303037,
     "wof:placetype":"localadmin",

@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":16961570.426275,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.595182,59.656497,12.595182,59.656497",
     "geom:latitude":59.656497,
     "geom:longitude":12.595182,
     "gn:latitude":59.66667,
     "gn:longitude":12.6,
     "iso:country":"SE",
+    "lbl:bbox":"12.590182,59.651497,12.600182,59.661497",
     "lbl:latitude":59.656497,
     "lbl:longitude":12.595182,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.659442,
     "mps:longitude":12.592844,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
     "name:swe_x_preferred":[
-        "Taserud"
-    ],
-    "name:unk_x_variant":[
         "Taserud"
     ],
     "qs:gn_adm0_cc":"SE",
@@ -60,20 +59,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85688435,
         102191581,
         1125286877,
         85633789,
         101815985,
-        1159303075
+        1159303075,
+        85688435
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2669315,
         "gp:id":907326,
-        "qs:id":1080967,
         "qs_pg:id":1080967
     },
     "wof:country":"SE",
@@ -93,7 +91,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1531935904,
+    "wof:lastmodified":1566640600,
     "wof:name":"Taserud",
     "wof:parent_id":101815985,
     "wof:placetype":"neighbourhood",

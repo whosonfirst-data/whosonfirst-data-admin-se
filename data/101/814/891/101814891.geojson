@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":65.676754,
     "lbl:longitude":20.997372,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":65.676754,
     "mps:longitude":20.997372,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0415\u043b\u0432\u0441\u0431\u044e\u043d"
     ],
@@ -101,7 +104,7 @@
     "name:ukr_x_preferred":[
         "\u0415\u043b\u044c\u0432\u0441\u0431\u044e\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Elfsby"
     ],
     "qs:a0":"Sverige",
@@ -120,7 +123,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":98,
     "wof:belongsto":[
@@ -135,10 +138,12 @@
         "fct:id":"06d3d33c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":606834,
         "gp:id":884675,
-        "qs:id":22824,
-        "qs_pg:id":1093519,
+        "qs_pg:id":22824,
         "wd:id":"Q255003",
         "wk:page":"\u00c4lvsbyn"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1093519
     },
     "wof:country":"SE",
     "wof:geomhash":"a90a884d828f341d2646d44deaaa8925",
@@ -156,7 +161,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368926,
+    "wof:lastmodified":1566642249,
     "wof:name":"\u00c4lvsbyn",
     "wof:parent_id":1125373611,
     "wof:placetype":"locality",

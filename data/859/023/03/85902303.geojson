@@ -14,6 +14,7 @@
     "iso:country":"SE",
     "lbl:latitude":59.300615,
     "lbl:longitude":17.944501,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.301659,
     "mps:longitude":17.951623,
     "mz:hierarchy_label":1,
@@ -60,10 +61,6 @@
         "M\u00e4larh\u00f6jde",
         "M\u00e4lerh\u00f6jden"
     ],
-    "name:unk_x_variant":[
-        "M\u00e4lerh\u00f6jden",
-        "M\u00e4larh\u00f6jden"
-    ],
     "qs:gn_adm0_cc":"SE",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":2673730,
@@ -91,7 +88,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":58,
     "wof:belongsto":[
         102191581,
@@ -105,7 +102,6 @@
     "wof:concordances":{
         "gn:id":2693131,
         "gp:id":898025,
-        "qs:id":222580,
         "qs_pg:id":222580,
         "wd:id":"Q3355068"
     },
@@ -126,7 +122,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563366509,
+    "wof:lastmodified":1566640582,
     "wof:name":"M\u00e4larh\u00f6jden",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

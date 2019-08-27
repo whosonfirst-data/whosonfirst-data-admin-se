@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031812,
+    "geom:area_square_m":205793115.881806,
     "geom:bbox":"12.3817157682,58.3631621838,12.7426582434,58.5676823038",
     "geom:latitude":58.453663,
     "geom:longitude":12.572783,
     "iso:country":"SE",
     "lbl:latitude":58.440799,
     "lbl:longitude":12.572816,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":58.440799,
     "mps:longitude":12.572816,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Vanersnas"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159307133,
-    "wof:lastmodified":1529702157,
+    "wof:lastmodified":1566643233,
     "wof:name":"Vanersnas",
     "wof:parent_id":1159303519,
     "wof:placetype":"localadmin",

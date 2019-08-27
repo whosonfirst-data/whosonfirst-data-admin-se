@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":60.501992,
     "lbl:longitude":14.956077,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":60.501992,
     "mps:longitude":14.956077,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041c\u043e\u043a\u0444\u0435\u0440\u0434"
     ],
@@ -62,9 +65,6 @@
         "Mockfj\u00e4rds Kapell",
         "Mockfj\u00e4rds Kapells"
     ],
-    "name:unk_x_variant":[
-        "Mockfj\u00e4rds Kapell"
-    ],
     "name:zho_min_nan_x_preferred":[
         "Mockfj\u00e4rd"
     ],
@@ -84,7 +84,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":56,
     "wof:belongsto":[
@@ -99,7 +99,6 @@
         "fct:id":"06d480ac-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2691602,
         "gp:id":898597,
-        "qs:id":271978,
         "qs_pg:id":271978,
         "wd:id":"Q2783875",
         "wk:page":"Mockfj\u00e4rd"
@@ -120,7 +119,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368650,
+    "wof:lastmodified":1566642152,
     "wof:name":"Mockfj\u00e4rd",
     "wof:parent_id":1125417513,
     "wof:placetype":"locality",

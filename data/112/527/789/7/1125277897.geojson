@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.152266,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":918461911.479013,
     "geom:bbox":"15.5730748932,60.6507751125,16.386154684,61.0057486864",
     "geom:latitude":60.802702,
     "geom:longitude":16.039867,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":4263,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":4263,
     "iso:country":"SE",
     "lbl:latitude":60.827847,
     "lbl:longitude":16.005996,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":60.827847,
     "mps:longitude":16.005996,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Svardsjo"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125277897,
-    "wof:lastmodified":1529701994,
+    "wof:lastmodified":1566642717,
     "wof:name":"Svardsjo",
     "wof:parent_id":1159302903,
     "wof:placetype":"localadmin",

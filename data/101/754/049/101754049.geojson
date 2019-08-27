@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":55.673848,
     "lbl:longitude":13.077594,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":55.673848,
     "mps:longitude":13.077594,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041b\u043e\u043c\u0430"
     ],
@@ -118,7 +121,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":75,
     "wof:belongsto":[
@@ -133,7 +136,6 @@
         "fct:id":"06d1c984-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2694264,
         "gp:id":897583,
-        "qs:id":1083456,
         "qs_pg:id":1083456,
         "wd:id":"Q995369",
         "wk:page":"Lomma"
@@ -154,7 +156,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368599,
+    "wof:lastmodified":1566642134,
     "wof:name":"Lomma",
     "wof:parent_id":1125394725,
     "wof:placetype":"locality",

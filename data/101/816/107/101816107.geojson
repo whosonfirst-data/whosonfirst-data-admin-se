@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":60.279543,
     "lbl:longitude":15.984031,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":60.279543,
     "mps:longitude":15.984031,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:als_x_preferred":[
         "Hedemora"
     ],
@@ -147,7 +150,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":224,
     "wof:belongsto":[
@@ -162,7 +165,6 @@
         "fct:id":"06cfdce6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2706982,
         "gp:id":892733,
-        "qs:id":894664,
         "qs_pg:id":894664,
         "wd:id":"Q1001183",
         "wk:page":"Hedemora"
@@ -183,7 +185,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368680,
+    "wof:lastmodified":1566642162,
     "wof:name":"Hedemora",
     "wof:parent_id":1125382237,
     "wof:placetype":"locality",

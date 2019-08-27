@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001035,
+    "geom:area_square_m":7243600.877521,
     "geom:bbox":"13.0463452882,55.5038170004,13.1138681762,55.5242560198",
     "geom:latitude":55.514002,
     "geom:longitude":13.081596,
     "iso:country":"SE",
     "lbl:latitude":55.513581,
     "lbl:longitude":13.081607,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.513581,
     "mps:longitude":13.081607,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Arrie"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159306237,
-    "wof:lastmodified":1529702603,
+    "wof:lastmodified":1566643308,
     "wof:name":"Arrie",
     "wof:parent_id":1159303307,
     "wof:placetype":"localadmin",

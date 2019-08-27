@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":56.010005,
     "lbl:longitude":12.799794,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":56.010005,
     "mps:longitude":12.799794,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "B\u00e5rsl\u00f6v"
     ],
@@ -78,7 +81,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":45,
     "wof:belongsto":[
@@ -93,7 +96,6 @@
         "fct:id":"06d169bc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2723350,
         "gp:id":885935,
-        "qs:id":43346,
         "qs_pg:id":43346,
         "wd:id":"Q1756003",
         "wk:page":"B\u00e5rsl\u00f6v"
@@ -114,7 +116,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368709,
+    "wof:lastmodified":1566642173,
     "wof:name":"B\u00e5rsl\u00f6v",
     "wof:parent_id":1125372757,
     "wof:placetype":"locality",

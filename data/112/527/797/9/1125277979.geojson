@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010997,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":74276539.910207,
     "geom:bbox":"15.1327768052,56.8304249755,15.285695972,56.9659169824",
     "geom:latitude":56.890732,
     "geom:longitude":15.215103,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":160,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":160,
     "iso:country":"SE",
     "lbl:latitude":56.895453,
     "lbl:longitude":15.203516,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mps:latitude":56.895453,
     "mps:longitude":15.203516,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Herrakra"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125277979,
-    "wof:lastmodified":1529702532,
+    "wof:lastmodified":1566642690,
     "wof:name":"Herrakra",
     "wof:parent_id":1159303333,
     "wof:placetype":"localadmin",

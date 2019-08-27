@@ -9,15 +9,18 @@
     "geom:bbox":"15.15,59.1,15.15,59.1",
     "geom:latitude":59.1,
     "geom:longitude":15.15,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":419,
+    "gn:country":"SE",
+    "gn:fcode":"PPL",
     "gn:population":419,
     "iso:country":"SE",
+    "lbl:bbox":"15.13,59.08,15.17,59.12",
     "lbl:latitude":59.1,
     "lbl:longitude":15.15,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0421\u0430\u043d\u0430\u0445\u0435\u0434"
@@ -58,7 +61,7 @@
     "name:swe_x_preferred":[
         "Sannahed"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sanna"
     ],
     "qs_pg:aaroncc":"SE",
@@ -80,7 +83,7 @@
     "qs_pg:woe_adm0":23424954,
     "qs_pg:woe_id":903455,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424954,
     "woe:name_adm0":"Sverige",
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":1125880901,
-    "wof:lastmodified":1563369510,
+    "wof:lastmodified":1566642683,
     "wof:name":"Sannahed",
     "wof:parent_id":1125363669,
     "wof:placetype":"locality",

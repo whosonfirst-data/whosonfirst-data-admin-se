@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":58.68839,
     "lbl:longitude":11.260755,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":58.68839,
     "mps:longitude":11.260755,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0413\u0440\u0435\u0431\u0435\u0441\u0442\u0430\u0434"
     ],
@@ -76,9 +79,6 @@
         "Gr\u00e4bbestad",
         "Gr\u00e4bbestads"
     ],
-    "name:unk_x_variant":[
-        "Gr\u00e4bbestad"
-    ],
     "name:zho_min_nan_x_preferred":[
         "Grebbestad"
     ],
@@ -98,7 +98,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":111,
     "wof:belongsto":[
@@ -113,7 +113,6 @@
         "fct:id":"06d19720-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2710797,
         "gp:id":891145,
-        "qs:id":915637,
         "qs_pg:id":915637,
         "wd:id":"Q1544485",
         "wk:page":"Grebbestad"
@@ -134,7 +133,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368740,
+    "wof:lastmodified":1566642184,
     "wof:name":"Grebbestad",
     "wof:parent_id":1125382391,
     "wof:placetype":"locality",

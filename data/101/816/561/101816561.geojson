@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":56.351822,
     "lbl:longitude":12.813684,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":56.351822,
     "mps:longitude":12.813684,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "F\u00f6rsl\u00f6v"
     ],
@@ -74,9 +77,6 @@
         "F\u00f6rsl\u00f6vsholm",
         "F\u00f6rsl\u00f6vsholms"
     ],
-    "name:unk_x_variant":[
-        "F\u00f6rsl\u00f6vsholm"
-    ],
     "name:zho_min_nan_x_preferred":[
         "F\u00f6rsl\u00f6v"
     ],
@@ -96,7 +96,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":45,
     "wof:belongsto":[
@@ -111,7 +111,6 @@
         "fct:id":"06d1ac1a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2713943,
         "gp:id":889909,
-        "qs:id":3498,
         "qs_pg:id":3498,
         "wd:id":"Q2613015",
         "wk:page":"F\u00f6rsl\u00f6v"
@@ -132,7 +131,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368616,
+    "wof:lastmodified":1566642140,
     "wof:name":"F\u00f6rsl\u00f6v",
     "wof:parent_id":1125358273,
     "wof:placetype":"locality",

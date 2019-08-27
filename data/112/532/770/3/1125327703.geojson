@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.067884,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":442338130.839337,
     "geom:bbox":"16.6063392527,58.043738558,17.0940395329,58.3104222328",
     "geom:latitude":58.198961,
     "geom:longitude":16.871032,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":850,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":850,
     "iso:country":"SE",
     "lbl:latitude":58.176335,
     "lbl:longitude":16.806339,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":58.176335,
     "mps:longitude":16.806339,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Gryt"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125327703,
-    "wof:lastmodified":1529703101,
+    "wof:lastmodified":1566642510,
     "wof:name":"Gryt",
     "wof:parent_id":1159303123,
     "wof:placetype":"localadmin",

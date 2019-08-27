@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002177,
+    "geom:area_square_m":14088182.524213,
     "geom:bbox":"15.1521341102,58.4253919736,15.2658864963,58.4733292128",
     "geom:latitude":58.450095,
     "geom:longitude":15.220316,
     "iso:country":"SE",
     "lbl:latitude":58.450479,
     "lbl:longitude":15.23454,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":58.450479,
     "mps:longitude":15.23454,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Skeppsas"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159306399,
-    "wof:lastmodified":1529703086,
+    "wof:lastmodified":1566643332,
     "wof:name":"Skeppsas",
     "wof:parent_id":1159302925,
     "wof:placetype":"localadmin",

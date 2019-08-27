@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002726,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":17124458.766931,
     "geom:bbox":"17.7687157916,59.4415882214,17.8468013018,59.5088945445",
     "geom:latitude":59.471514,
     "geom:longitude":17.811895,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":13059,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":13059,
     "iso:country":"SE",
     "lbl:latitude":59.48216,
     "lbl:longitude":17.81248,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":59.48216,
     "mps:longitude":17.81248,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Kallhall"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125270301,
-    "wof:lastmodified":1529702718,
+    "wof:lastmodified":1566642699,
     "wof:name":"Kallhall",
     "wof:parent_id":1159303475,
     "wof:placetype":"localadmin",

@@ -14,10 +14,13 @@
     "iso:country":"SE",
     "lbl:latitude":60.887546,
     "lbl:longitude":15.124131,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":60.887546,
     "mps:longitude":15.124131,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0420\u0435\u0442\u0432\u0438\u043a"
     ],
@@ -112,7 +115,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":108,
     "wof:belongsto":[
@@ -127,7 +130,6 @@
         "fct:id":"06d32ec8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2682995,
         "gp:id":902268,
-        "qs:id":909461,
         "qs_pg:id":909461,
         "wd:id":"Q1975525",
         "wk:page":"R\u00e4ttvik"
@@ -148,7 +150,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368698,
+    "wof:lastmodified":1566642169,
     "wof:name":"R\u00e4ttvik",
     "wof:parent_id":1125382227,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"SE",
     "lbl:latitude":55.494202,
     "lbl:longitude":14.04895,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.494202,
     "mps:longitude":14.04895,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0628\u0648\u0644\u0631\u0648\u067e"
     ],
@@ -42,7 +45,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1159307273,
-    "wof:lastmodified":1564165756,
+    "wof:lastmodified":1566643384,
     "wof:name":"Bollerup",
     "wof:parent_id":1159302959,
     "wof:placetype":"localadmin",

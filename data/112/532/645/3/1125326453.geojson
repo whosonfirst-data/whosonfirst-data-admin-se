@@ -9,17 +9,19 @@
     "geom:bbox":"13.7815789845,57.8932276732,13.9223080223,57.9603827576",
     "geom:latitude":57.924569,
     "geom:longitude":13.861073,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":5923,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":5923,
     "iso:country":"SE",
     "lbl:latitude":57.926062,
     "lbl:longitude":13.860037,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":57.926062,
     "mps:longitude":13.860037,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Nykyrka"
@@ -60,7 +62,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -86,7 +88,7 @@
         }
     ],
     "wof:id":1125326453,
-    "wof:lastmodified":1564164983,
+    "wof:lastmodified":1566642492,
     "wof:name":"Nykyrka",
     "wof:parent_id":1159303051,
     "wof:placetype":"localadmin",

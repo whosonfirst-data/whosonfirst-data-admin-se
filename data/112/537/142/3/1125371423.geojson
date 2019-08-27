@@ -9,17 +9,19 @@
     "geom:bbox":"17.4036859319,59.8567270272,17.5854391656,59.9287025076",
     "geom:latitude":59.891519,
     "geom:longitude":17.491424,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":1036,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":1036,
     "iso:country":"SE",
     "lbl:latitude":59.88709,
     "lbl:longitude":17.491415,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":59.88709,
     "mps:longitude":17.491415,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bos_x_preferred":[
         "Borje"
@@ -66,7 +68,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -92,7 +94,7 @@
         }
     ],
     "wof:id":1125371423,
-    "wof:lastmodified":1564165216,
+    "wof:lastmodified":1566642797,
     "wof:name":"Borje",
     "wof:parent_id":1159303253,
     "wof:placetype":"localadmin",

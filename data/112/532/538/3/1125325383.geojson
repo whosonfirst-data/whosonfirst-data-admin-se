@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007293,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":47890222.17868,
     "geom:bbox":"12.2907963957,57.8672708655,12.4120987907,57.9789363016",
     "geom:latitude":57.921795,
     "geom:longitude":12.350032,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":1358,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":1358,
     "iso:country":"SE",
     "lbl:latitude":57.917608,
     "lbl:longitude":12.34593,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":57.917608,
     "mps:longitude":12.34593,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Ostad"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125325383,
-    "wof:lastmodified":1529702189,
+    "wof:lastmodified":1566642517,
     "wof:name":"Ostad",
     "wof:parent_id":1159303177,
     "wof:placetype":"localadmin",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021802,
+    "geom:area_square_m":128256735.962994,
     "geom:bbox":"16.0375469411,61.5308717944,16.5271508585,61.6444872265",
     "geom:latitude":61.591369,
     "geom:longitude":16.272929,
     "iso:country":"SE",
     "lbl:latitude":61.60225,
     "lbl:longitude":16.293339,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":61.60225,
     "mps:longitude":16.293339,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Undersvik"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159305851,
-    "wof:lastmodified":1529702048,
+    "wof:lastmodified":1566643358,
     "wof:name":"Undersvik",
     "wof:parent_id":1159303465,
     "wof:placetype":"localadmin",

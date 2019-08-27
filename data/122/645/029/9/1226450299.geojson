@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Stockholm",
     "iso:country":"SE",
+    "lbl:bbox":"14.96333,56.13,15.00333,56.17",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Eko"
     ],
@@ -45,9 +49,6 @@
     ],
     "name:swe_x_preferred":[
         "Eko"
-    ],
-    "name:und_x_variant":[
-        "Ek\u00f6"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1226450299,
-    "wof:lastmodified":1564166587,
+    "wof:lastmodified":1566643993,
     "wof:name":"Eko",
     "wof:parent_id":1125286523,
     "wof:placetype":"locality",

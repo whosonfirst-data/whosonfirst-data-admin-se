@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":55.379144,
     "lbl:longitude":13.151762,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":55.379144,
     "mps:longitude":13.151762,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u062a\u0631\u064a\u0644\u064a\u0628\u0648\u0631\u062c"
     ],
@@ -202,9 +205,6 @@
     "name:ukr_x_preferred":[
         "\u0422\u0440\u0435\u043b\u043b\u0435\u0431\u043e\u0440\u0433"
     ],
-    "name:unk_x_variant":[
-        "Tr\u00e4lleborg"
-    ],
     "name:vol_x_preferred":[
         "Trelleborg"
     ],
@@ -230,7 +230,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":931,
     "wof:belongsto":[
@@ -245,7 +245,6 @@
         "fct:id":"06d24da0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2667402,
         "gp:id":908074,
-        "qs:id":3906,
         "qs_pg:id":3906,
         "wd:id":"Q26943",
         "wk:page":"Trelleborg"
@@ -266,7 +265,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368884,
+    "wof:lastmodified":1566642235,
     "wof:name":"Trelleborg",
     "wof:parent_id":1125325311,
     "wof:placetype":"locality",

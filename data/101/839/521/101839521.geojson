@@ -12,10 +12,13 @@
     "iso:country":"SE",
     "lbl:latitude":59.38471,
     "lbl:longitude":18.11303,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":59.38471,
     "mps:longitude":18.11303,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sticklinge"
     ],
@@ -44,7 +47,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":48,
     "wof:belongsto":[
         85688429,
@@ -57,7 +60,6 @@
     "wof:concordances":{
         "gn:id":2673851,
         "gp:id":15002545,
-        "qs:id":500531,
         "qs_pg:id":500531,
         "wd:id":"Q7616280",
         "wk:page":"Sticklinge"
@@ -75,7 +77,7 @@
         }
     ],
     "wof:id":101839521,
-    "wof:lastmodified":1563368938,
+    "wof:lastmodified":1566642252,
     "wof:name":"Sticklinge udde",
     "wof:parent_id":1125394719,
     "wof:placetype":"locality",

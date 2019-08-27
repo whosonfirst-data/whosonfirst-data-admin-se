@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00223,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":14593339.701126,
     "geom:bbox":"12.9123049447,58.0329684413,12.9910312003,58.0778504708",
     "geom:latitude":58.053105,
     "geom:longitude":12.946359,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":198,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":198,
     "iso:country":"SE",
     "lbl:latitude":58.054583,
     "lbl:longitude":12.941688,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mps:latitude":58.054583,
     "mps:longitude":12.941688,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Remmene"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125384349,
-    "wof:lastmodified":1529702183,
+    "wof:lastmodified":1566642924,
     "wof:name":"Remmene",
     "wof:parent_id":1159303171,
     "wof:placetype":"localadmin",

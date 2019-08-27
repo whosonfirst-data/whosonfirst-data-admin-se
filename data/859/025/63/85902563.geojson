@@ -15,6 +15,7 @@
     "iso:country":"SE",
     "lbl:latitude":59.375661,
     "lbl:longitude":18.087291,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.371227,
     "mps:longitude":18.085531,
     "mz:hierarchy_label":1,
@@ -69,9 +70,6 @@
     "name:swe_x_preferred":[
         "Tranholmen"
     ],
-    "name:unk_x_variant":[
-        "Tranholmen"
-    ],
     "name:zho_min_nan_x_preferred":[
         "Tranholmen"
     ],
@@ -102,7 +100,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "src:population":"geonames",
     "wd:wordcount":86,
     "wof:belongsto":[
@@ -117,7 +115,6 @@
     "wof:concordances":{
         "gn:id":2667562,
         "gp:id":908013,
-        "qs:id":315797,
         "qs_pg:id":315797,
         "wd:id":"Q1820063",
         "wk:page":"Tranholmen"
@@ -139,7 +136,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563366540,
+    "wof:lastmodified":1566640602,
     "wof:name":"Tranholmen",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

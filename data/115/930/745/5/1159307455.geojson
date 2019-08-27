@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001475,
+    "geom:area_square_m":10354405.066461,
     "geom:bbox":"13.1632964995,55.3882173316,13.2329664871,55.4284140957",
     "geom:latitude":55.406249,
     "geom:longitude":13.203589,
     "iso:country":"SE",
     "lbl:latitude":55.408974,
     "lbl:longitude":13.20702,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.408974,
     "mps:longitude":13.20702,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Gylle"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159307455,
-    "wof:lastmodified":1529702626,
+    "wof:lastmodified":1566643378,
     "wof:name":"Gylle",
     "wof:parent_id":1159303309,
     "wof:placetype":"localadmin",

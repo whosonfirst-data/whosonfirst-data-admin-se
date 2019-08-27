@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000295,
-    "geom:area_square_m":1858884.670522,
+    "geom:area_square_m":1858884.670521,
     "geom:bbox":"17.9296875,59.3358642412,17.9571533203,59.354195981",
     "geom:latitude":59.344813,
     "geom:longitude":17.941635,
@@ -13,6 +13,7 @@
     "iso:country":"SE",
     "lbl:latitude":59.346306,
     "lbl:longitude":17.939645,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.344427,
     "mps:longitude":17.941427,
     "mz:hierarchy_label":1,
@@ -30,9 +31,6 @@
     ],
     "name:swe_x_variant":[
         "Riksby"
-    ],
-    "name:unk_x_variant":[
-        "Rikspy"
     ],
     "qs:gn_adm0_cc":"SE",
     "qs:gn_id":0,
@@ -59,19 +57,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85688429,
         102191581,
         1125362217,
         85633789,
         101752307,
-        1159303035
+        1159303035,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20151531,
-        "qs:id":241460,
         "qs_pg:id":241460
     },
     "wof:country":"SE",
@@ -91,7 +88,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702815,
+    "wof:lastmodified":1566640607,
     "wof:name":"Rikspy",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

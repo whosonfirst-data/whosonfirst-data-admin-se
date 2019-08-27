@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011031,
+    "geom:area_square_m":73790336.805693,
     "geom:bbox":"15.3078985974,57.2006718529,15.528053886,57.31506405",
     "geom:latitude":57.249614,
     "geom:longitude":15.419977,
     "iso:country":"SE",
     "lbl:latitude":57.250076,
     "lbl:longitude":15.419971,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":57.250076,
     "mps:longitude":15.419971,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Nashult"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159306807,
-    "wof:lastmodified":1529702411,
+    "wof:lastmodified":1566643190,
     "wof:name":"Nashult",
     "wof:parent_id":1159303157,
     "wof:placetype":"localadmin",

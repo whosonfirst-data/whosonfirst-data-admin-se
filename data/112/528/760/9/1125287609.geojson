@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.061212,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":373822231.713973,
     "geom:bbox":"13.8992079495,60.2287574047,14.149196086,60.5875141254",
     "geom:latitude":60.403465,
     "geom:longitude":14.018545,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":941,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":941,
     "iso:country":"SE",
     "lbl:latitude":60.404381,
     "lbl:longitude":14.020879,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":60.404381,
     "mps:longitude":14.020879,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Appelbo"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125287609,
-    "wof:lastmodified":1529701992,
+    "wof:lastmodified":1566642624,
     "wof:name":"Appelbo",
     "wof:parent_id":1159303269,
     "wof:placetype":"localadmin",

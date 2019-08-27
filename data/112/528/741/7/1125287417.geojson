@@ -9,17 +9,19 @@
     "geom:bbox":"16.5510020051,61.0395061065,17.2566806243,61.2310229103",
     "geom:latitude":61.116226,
     "geom:longitude":16.900758,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":1076,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":1076,
     "iso:country":"SE",
     "lbl:latitude":61.125089,
     "lbl:longitude":16.836592,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":61.125089,
     "mps:longitude":16.836592,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Skog"
@@ -48,7 +50,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":1125287417,
-    "wof:lastmodified":1564165081,
+    "wof:lastmodified":1566642621,
     "wof:name":"Skog",
     "wof:parent_id":1159303385,
     "wof:placetype":"localadmin",

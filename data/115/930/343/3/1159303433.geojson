@@ -24,10 +24,13 @@
     ],
     "lbl:latitude":59.522205,
     "lbl:longitude":17.88887,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":59.522205,
     "mps:longitude":17.88887,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Upplands-Vasby"
     ],
@@ -43,7 +46,7 @@
     "se-lant:lanskod":1,
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1159303433,
-    "wof:lastmodified":1554325323,
+    "wof:lastmodified":1566643385,
     "wof:name":"Upplands-Vasby",
     "wof:parent_id":85688429,
     "wof:placetype":"county",

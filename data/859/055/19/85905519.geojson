@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":9645824.453221,
+    "geom:area_square_m":0.0,
     "geom:bbox":"17.981964,59.483659,17.981964,59.483659",
     "geom:latitude":59.483659,
     "geom:longitude":17.981964,
     "gn:id":"",
     "iso:country":"SE",
+    "lbl:bbox":"17.976964,59.478659,17.986964,59.488659",
     "lbl:latitude":59.483659,
     "lbl:longitude":17.981964,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.492716,
     "mps:longitude":18.01097,
     "mz:hierarchy_label":0,
@@ -50,9 +52,6 @@
         "Saint Alby",
         "St Alby"
     ],
-    "name:unk_x_variant":[
-        "St. Alby"
-    ],
     "qs:gn_adm0_cc":"SE",
     "qs:gn_id":0,
     "qs:gn_local":2666238,
@@ -81,7 +80,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         1125322089,
@@ -92,7 +91,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20151695,
-        "qs:id":499530,
         "qs_pg:id":499530
     },
     "wof:country":"SE",
@@ -112,7 +110,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1531936351,
+    "wof:lastmodified":1566640630,
     "wof:name":"Stora Alby",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

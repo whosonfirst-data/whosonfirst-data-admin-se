@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":58.80128,
     "lbl:longitude":16.785041,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":58.80128,
     "mps:longitude":16.785041,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0421\u0442\u0438\u0433\u0442\u043e\u043c\u0442\u0430"
     ],
@@ -75,7 +78,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":63,
     "wof:belongsto":[
@@ -90,7 +93,6 @@
         "fct:id":"06d07f34-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2673829,
         "gp:id":906007,
-        "qs:id":420220,
         "qs_pg:id":420220,
         "wd:id":"Q2103821",
         "wk:page":"Stigtomta"
@@ -111,7 +113,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368742,
+    "wof:lastmodified":1566642185,
     "wof:name":"Stigtomta",
     "wof:parent_id":1125325219,
     "wof:placetype":"locality",

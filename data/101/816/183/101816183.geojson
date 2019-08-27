@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":60.13273,
     "lbl:longitude":13.005121,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":60.13273,
     "mps:longitude":13.005121,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0422\u043e\u0440\u0448\u0431\u044e"
     ],
@@ -126,7 +129,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":111,
     "wof:belongsto":[
@@ -141,7 +144,6 @@
         "fct:id":"06d35d6c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2667876,
         "gp:id":907866,
-        "qs:id":686400,
         "qs_pg:id":686400,
         "wd:id":"Q3582130",
         "wk:page":"Torsby"
@@ -162,7 +164,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368726,
+    "wof:lastmodified":1566642179,
     "wof:name":"Torsby",
     "wof:parent_id":1125288139,
     "wof:placetype":"locality",

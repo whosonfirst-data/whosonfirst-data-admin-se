@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026418,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":168292347.479123,
     "geom:bbox":"15.2323008633,58.8978763562,15.4901699406,59.0671916192",
     "geom:latitude":58.98973,
     "geom:longitude":15.362225,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":1054,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":1054,
     "iso:country":"SE",
     "lbl:latitude":58.984339,
     "lbl:longitude":15.35176,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":58.984339,
     "mps:longitude":15.35176,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Svennevad"
@@ -48,7 +50,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":1125372547,
-    "wof:lastmodified":1529703048,
+    "wof:lastmodified":1566642818,
     "wof:name":"Svennevad",
     "wof:parent_id":1159303539,
     "wof:placetype":"localadmin",

@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000188,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":1313846.043699,
     "geom:bbox":"13.005534635,55.5792281344,13.0227901919,55.5982654324",
     "geom:latitude":55.589408,
     "geom:longitude":13.013535,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":35549,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":35549,
     "iso:country":"SE",
     "lbl:latitude":55.587915,
     "lbl:longitude":13.010535,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":55.587915,
     "mps:longitude":13.010535,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Mollevangen"
@@ -48,7 +50,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":1125270883,
-    "wof:lastmodified":1529702594,
+    "wof:lastmodified":1566642708,
     "wof:name":"Mollevangen",
     "wof:parent_id":1159303367,
     "wof:placetype":"localadmin",

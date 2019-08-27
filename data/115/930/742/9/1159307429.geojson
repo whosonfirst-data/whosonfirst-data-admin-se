@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003714,
+    "geom:area_square_m":25895349.077045,
     "geom:bbox":"13.3721978963,55.6465731396,13.4872495457,55.7151646129",
     "geom:latitude":55.678254,
     "geom:longitude":13.426502,
     "iso:country":"SE",
     "lbl:latitude":55.675896,
     "lbl:longitude":13.421686,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.675896,
     "mps:longitude":13.421686,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Hallestad"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159307429,
-    "wof:lastmodified":1529702626,
+    "wof:lastmodified":1566643373,
     "wof:name":"Hallestad",
     "wof:parent_id":1159303449,
     "wof:placetype":"localadmin",

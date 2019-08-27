@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":56.744672,
     "lbl:longitude":14.921343,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":56.744672,
     "mps:longitude":14.921343,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0418\u043d\u0433\u0435\u043b\u0441\u0442\u0430\u0434"
     ],
@@ -81,7 +84,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":58,
     "wof:belongsto":[
@@ -96,7 +99,6 @@
         "fct:id":"06d195ea-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2703686,
         "gp:id":894141,
-        "qs:id":1169214,
         "qs_pg:id":1169214,
         "wd:id":"Q1857569",
         "wk:page":"Ingelstad"
@@ -117,7 +119,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368704,
+    "wof:lastmodified":1566642171,
     "wof:name":"Ingelstad",
     "wof:parent_id":1125325769,
     "wof:placetype":"locality",

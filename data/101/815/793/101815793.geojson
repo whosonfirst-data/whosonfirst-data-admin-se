@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":59.253616,
     "lbl:longitude":17.103344,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":59.253616,
     "mps:longitude":17.103344,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "\u00c5kers Styckebruk"
     ],
@@ -63,9 +66,6 @@
     "name:swe_x_variant":[
         "\u00c5kers Styckebruks"
     ],
-    "name:unk_x_variant":[
-        "\u00c5kers Styckebruk"
-    ],
     "name:zho_min_nan_x_preferred":[
         "\u00c5kers styckebruk"
     ],
@@ -86,7 +86,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":46,
     "wof:belongsto":[
@@ -101,7 +101,6 @@
         "fct:id":"06d0e7bc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2727222,
         "gp:id":884306,
-        "qs:id":245904,
         "qs_pg:id":245904,
         "wd:id":"Q270945",
         "wk:page":"\u00c5kers styckebruk"
@@ -122,7 +121,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368835,
+    "wof:lastmodified":1566642217,
     "wof:name":"\u00c5kers styckebruk",
     "wof:parent_id":1125356181,
     "wof:placetype":"locality",

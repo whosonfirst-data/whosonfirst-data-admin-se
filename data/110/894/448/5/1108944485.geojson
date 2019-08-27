@@ -10,8 +10,10 @@
     "geom:latitude":57.752059,
     "geom:longitude":11.818922,
     "iso:country":"SE",
+    "lbl:bbox":"11.8139223519,57.7470594724,11.8239223519,57.7570594724",
     "lbl:latitude":57.752059,
     "lbl:longitude":11.818922,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -45,7 +47,7 @@
     "name:swe_x_preferred":[
         "Kvisljungeby"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         1125326127,
@@ -70,7 +72,7 @@
         }
     ],
     "wof:id":1108944485,
-    "wof:lastmodified":1564164218,
+    "wof:lastmodified":1566641810,
     "wof:name":"Kvisljungeby",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

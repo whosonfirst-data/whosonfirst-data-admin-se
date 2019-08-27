@@ -12,10 +12,13 @@
     "iso:country":"SE",
     "lbl:latitude":56.153204,
     "lbl:longitude":12.579927,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":56.153204,
     "mps:longitude":12.579927,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Viken"
     ],
@@ -51,7 +54,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1159305711,
-    "wof:lastmodified":1564165710,
+    "wof:lastmodified":1566643356,
     "wof:name":"Viken",
     "wof:parent_id":1159303057,
     "wof:placetype":"localadmin",

@@ -9,17 +9,19 @@
     "geom:bbox":"15.0921183175,60.9467537695,15.6084197497,61.1259187377",
     "geom:latitude":61.045001,
     "geom:longitude":15.319117,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":1154,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":1154,
     "iso:country":"SE",
     "lbl:latitude":61.031397,
     "lbl:longitude":15.214728,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":61.031397,
     "mps:longitude":15.214728,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "\u09ac\u09cb\u09a6"
@@ -84,7 +86,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -110,7 +112,7 @@
         }
     ],
     "wof:id":1125287647,
-    "wof:lastmodified":1564165054,
+    "wof:lastmodified":1566642589,
     "wof:name":"Boda",
     "wof:parent_id":1159303397,
     "wof:placetype":"localadmin",

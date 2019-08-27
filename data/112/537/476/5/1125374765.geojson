@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002536,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":16757057.631036,
     "geom:bbox":"11.9916892851,57.6731947561,12.0886665761,57.7130466693",
     "geom:latitude":57.693126,
     "geom:longitude":12.037388,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":15383,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":15383,
     "iso:country":"SE",
     "lbl:latitude":57.690746,
     "lbl:longitude":12.033479,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":57.690746,
     "mps:longitude":12.033479,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Orgryte"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125374765,
-    "wof:lastmodified":1529702188,
+    "wof:lastmodified":1566642786,
     "wof:name":"Orgryte",
     "wof:parent_id":1159302989,
     "wof:placetype":"localadmin",

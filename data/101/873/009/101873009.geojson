@@ -11,12 +11,16 @@
     "geom:longitude":17.35987,
     "gn:population":2165,
     "iso:country":"SE",
+    "lbl:bbox":"17.33987,62.343156,17.37987,62.383156",
     "lbl:latitude":62.363156,
     "lbl:longitude":17.35987,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":62.363156,
     "mps:longitude":17.35987,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Stockvik"
     ],
@@ -53,9 +57,6 @@
     "name:swe_x_variant":[
         "Stockviks"
     ],
-    "name:unk_x_variant":[
-        "Stockviksverken"
-    ],
     "name:zho_min_nan_x_preferred":[
         "Stockvik"
     ],
@@ -76,7 +77,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":45,
     "wof:belongsto":[
@@ -91,7 +92,6 @@
         "fct:id":"06d3d436-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2673693,
         "gp:id":906071,
-        "qs:id":256059,
         "qs_pg:id":256059,
         "wd:id":"Q2614751",
         "wk:page":"Stockvik"
@@ -112,7 +112,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368737,
+    "wof:lastmodified":1566642183,
     "wof:name":"Stockvik",
     "wof:parent_id":1125325987,
     "wof:placetype":"locality",

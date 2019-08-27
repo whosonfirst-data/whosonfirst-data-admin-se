@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014871,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":98799452.861967,
     "geom:bbox":"13.0093033618,57.4531549467,13.2750076123,57.5486506634",
     "geom:latitude":57.501284,
     "geom:longitude":13.151573,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":4759,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":4759,
     "iso:country":"SE",
     "lbl:latitude":57.499243,
     "lbl:longitude":13.140517,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":57.499243,
     "mps:longitude":13.140517,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Svenljunga-Ullasjo"
@@ -48,7 +50,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":1125287395,
-    "wof:lastmodified":1529702204,
+    "wof:lastmodified":1566642591,
     "wof:name":"Svenljunga-Ullasjo",
     "wof:parent_id":1159303079,
     "wof:placetype":"localadmin",

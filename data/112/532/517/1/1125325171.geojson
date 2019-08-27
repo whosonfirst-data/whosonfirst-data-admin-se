@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032184,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":164790033.569751,
     "geom:bbox":"22.1535869902,65.4636791506,22.7742724544,65.6255516581",
     "geom:latitude":65.538294,
     "geom:longitude":22.314578,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":22725,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":22725,
     "iso:country":"SE",
     "lbl:latitude":65.538618,
     "lbl:longitude":22.286787,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":65.538618,
     "mps:longitude":22.286787,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Ornaset"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125325171,
-    "wof:lastmodified":1529702560,
+    "wof:lastmodified":1566642500,
     "wof:name":"Ornaset",
     "wof:parent_id":1159303317,
     "wof:placetype":"localadmin",

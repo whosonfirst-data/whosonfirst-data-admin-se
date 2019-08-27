@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01014,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":65417549.106181,
     "geom:bbox":"12.2583276221,58.4948312896,12.4329540239,58.6131904582",
     "geom:latitude":58.550028,
     "geom:longitude":12.344955,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":2234,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":2234,
     "iso:country":"SE",
     "lbl:latitude":58.548959,
     "lbl:longitude":12.343585,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":58.548959,
     "mps:longitude":12.343585,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Bralanda"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125326137,
-    "wof:lastmodified":1529702195,
+    "wof:lastmodified":1566642523,
     "wof:name":"Bralanda",
     "wof:parent_id":1159303519,
     "wof:placetype":"localadmin",

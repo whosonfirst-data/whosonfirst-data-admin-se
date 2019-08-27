@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":57.893873,
     "lbl:longitude":16.404,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":57.893873,
     "mps:longitude":16.404,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Gamleby"
     ],
@@ -69,7 +72,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":108,
     "wof:belongsto":[
@@ -84,7 +87,6 @@
         "fct:id":"06d0197c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2712988,
         "gp:id":890323,
-        "qs:id":182169,
         "qs_pg:id":182169,
         "wd:id":"Q2670538",
         "wk:page":"Gamleby"
@@ -105,7 +107,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368710,
+    "wof:lastmodified":1566642173,
     "wof:name":"Gamleby",
     "wof:parent_id":1125356413,
     "wof:placetype":"locality",

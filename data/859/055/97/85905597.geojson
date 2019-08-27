@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":14358325.028849,
+    "geom:area_square_m":0.0,
     "geom:bbox":"18.048824,59.464703,18.048824,59.464703",
     "geom:latitude":59.464703,
     "geom:longitude":18.048824,
     "iso:country":"SE",
+    "lbl:bbox":"18.043824,59.459703,18.053824,59.469703",
     "lbl:latitude":59.464703,
     "lbl:longitude":18.048824,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.47753,
     "mps:longitude":18.056766,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:tier_locality":1,
     "mz:tier_metro":1,
     "name:swe_x_preferred":[
-        "Visinge"
-    ],
-    "name:unk_x_variant":[
         "Visinge"
     ],
     "qs:gn_adm0_cc":"SE",
@@ -58,14 +57,14 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85688429,
         102191581,
         1125398123,
         85633789,
         101752309,
-        1159303403
+        1159303403,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -88,7 +87,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1531936357,
+    "wof:lastmodified":1566640633,
     "wof:name":"Visinge",
     "wof:parent_id":101752309,
     "wof:placetype":"neighbourhood",

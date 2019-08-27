@@ -10,8 +10,10 @@
     "geom:latitude":57.707211,
     "geom:longitude":11.74053,
     "iso:country":"SE",
+    "lbl:bbox":"11.7355302836,57.7022107854,11.7455302836,57.7122107854",
     "lbl:latitude":57.707211,
     "lbl:longitude":11.74053,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -24,14 +26,14 @@
     "name:swe_x_preferred":[
         "H\u00e4llsvik"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85688411,
         102191581,
         1125410003,
         85633789,
         101840183,
-        1159302989
+        1159302989,
+        85688411
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -50,7 +52,7 @@
         }
     ],
     "wof:id":1108944503,
-    "wof:lastmodified":1529702289,
+    "wof:lastmodified":1566641824,
     "wof:name":"Hallsvik",
     "wof:parent_id":101840183,
     "wof:placetype":"neighbourhood",

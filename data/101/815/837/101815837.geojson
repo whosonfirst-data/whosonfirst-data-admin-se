@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":59.175498,
     "lbl:longitude":14.870637,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":59.175498,
     "mps:longitude":14.870637,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0424\u044e\u0433\u0435\u0441\u0442\u0430"
     ],
@@ -102,7 +105,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":118,
     "wof:belongsto":[
@@ -117,7 +120,6 @@
         "fct:id":"06d143f6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2714618,
         "gp:id":889624,
-        "qs:id":389594,
         "qs_pg:id":389594,
         "wd:id":"Q1422463",
         "wk:page":"Fjugesta"
@@ -138,7 +140,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368849,
+    "wof:lastmodified":1566642222,
     "wof:name":"Fjugesta",
     "wof:parent_id":1125287831,
     "wof:placetype":"locality",

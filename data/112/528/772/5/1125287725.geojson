@@ -9,17 +9,19 @@
     "geom:bbox":"15.4481742084,58.37757069,15.5748477855,58.4428588236",
     "geom:latitude":58.41071,
     "geom:longitude":15.513428,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":5703,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":5703,
     "iso:country":"SE",
     "lbl:latitude":58.406658,
     "lbl:longitude":15.508149,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":58.406658,
     "mps:longitude":15.508149,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:asm_x_preferred":[
         "\u0995\u09f0\u09cd\u09a3"
@@ -135,7 +137,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -161,7 +163,7 @@
         }
     ],
     "wof:id":1125287725,
-    "wof:lastmodified":1564165103,
+    "wof:lastmodified":1566642643,
     "wof:name":"Karna",
     "wof:parent_id":1159303147,
     "wof:placetype":"localadmin",

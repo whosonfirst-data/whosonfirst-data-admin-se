@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001217,
+    "geom:area_square_m":7923543.15531,
     "geom:bbox":"13.4836177626,58.1914499472,13.5477508139,58.2319758578",
     "geom:latitude":58.215209,
     "geom:longitude":13.519921,
     "iso:country":"SE",
     "lbl:latitude":58.215804,
     "lbl:longitude":13.519432,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":58.215804,
     "mps:longitude":13.519432,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ostra Tunhem"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159305959,
-    "wof:lastmodified":1529702125,
+    "wof:lastmodified":1566643158,
     "wof:name":"Ostra Tunhem",
     "wof:parent_id":1159303137,
     "wof:placetype":"localadmin",

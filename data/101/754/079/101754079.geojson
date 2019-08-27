@@ -12,10 +12,13 @@
     "iso:country":"SE",
     "lbl:latitude":59.220723,
     "lbl:longitude":18.35774,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":59.220723,
     "mps:longitude":18.35774,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "Brevikshalv\u00f6n"
     ],
@@ -69,7 +72,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":45,
     "wof:belongsto":[
         85688429,
@@ -82,7 +85,7 @@
     "wof:concordances":{
         "gn:id":2722805,
         "gp:id":886191,
-        "qs:id":43347,
+        "qs_pg:id":43347,
         "wd:id":"Q2604319"
     },
     "wof:country":"SE",
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":101754079,
-    "wof:lastmodified":1563368596,
+    "wof:lastmodified":1566642133,
     "wof:name":"Brevikshalv\u00f6n",
     "wof:parent_id":1125398119,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Stockholm",
     "iso:country":"SE",
+    "lbl:bbox":"13.19667,57.81333,13.23667,57.85333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "Tove"
     ],
@@ -50,9 +54,6 @@
     ],
     "name:swe_x_preferred":[
         "Tove"
-    ],
-    "name:und_x_variant":[
-        "T\u00f6ve"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1326781419,
-    "wof:lastmodified":1564161751,
+    "wof:lastmodified":1566640113,
     "wof:name":"Tove",
     "wof:parent_id":1159306701,
     "wof:placetype":"locality",

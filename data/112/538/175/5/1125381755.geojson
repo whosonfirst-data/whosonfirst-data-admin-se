@@ -9,17 +9,19 @@
     "geom:bbox":"20.231831856,63.6276695225,20.4948219565,63.7656177862",
     "geom:latitude":63.692437,
     "geom:longitude":20.353346,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":8569,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":8569,
     "iso:country":"SE",
     "lbl:latitude":63.690048,
     "lbl:longitude":20.350805,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":63.690048,
     "mps:longitude":20.350805,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0425\u043e\u043b\u043c\u0441\u0443\u043d\u0434"
@@ -87,7 +89,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -113,7 +115,7 @@
         }
     ],
     "wof:id":1125381755,
-    "wof:lastmodified":1564165305,
+    "wof:lastmodified":1566642913,
     "wof:name":"Holmsund",
     "wof:parent_id":1159303017,
     "wof:placetype":"localadmin",

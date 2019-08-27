@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000606,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":4233348.403494,
     "geom:bbox":"13.0294366862,55.5679117727,13.0631019497,55.5970663172",
     "geom:latitude":55.581433,
     "geom:longitude":13.045305,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":26336,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":26336,
     "iso:country":"SE",
     "lbl:latitude":55.581935,
     "lbl:longitude":13.044988,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":55.581935,
     "mps:longitude":13.044988,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Vastra Skravlinge"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125356585,
-    "wof:lastmodified":1529702639,
+    "wof:lastmodified":1566642447,
     "wof:name":"Vastra Skravlinge",
     "wof:parent_id":1159303367,
     "wof:placetype":"localadmin",

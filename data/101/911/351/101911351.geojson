@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000124,
+    "geom:area_square_m":785800.46938,
     "geom:bbox":"18.2851313969,59.1072496809,18.3160477131,59.1160186374",
     "geom:latitude":59.111549,
     "geom:longitude":18.301495,
     "iso:country":"SE",
     "lbl:latitude":59.112186,
     "lbl:longitude":18.303838,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":59.112186,
     "mps:longitude":18.303838,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Sverige",
     "qs:a1":"*Stockholms l\u00e4n",
     "qs:a1r":"7",
@@ -31,7 +35,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688429,
         102191581,
@@ -42,7 +46,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20151577,
-        "qs:id":230447,
         "qs_pg:id":230447
     },
     "wof:country":"SE",
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":101911351,
-    "wof:lastmodified":1529702747,
+    "wof:lastmodified":1566642256,
     "wof:name":"Sandemar",
     "wof:parent_id":1125326015,
     "wof:placetype":"locality",

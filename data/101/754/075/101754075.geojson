@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":59.286404,
     "lbl:longitude":18.282118,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":59.286404,
     "mps:longitude":18.282118,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0633\u0627\u0644\u062a\u0633\u062c\u0648\u0628\u0627\u062f\u0646"
     ],
@@ -141,7 +144,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688429,
@@ -155,7 +158,6 @@
         "fct:id":"06d06bf2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2680460,
         "gp:id":903260,
-        "qs:id":1083467,
         "qs_pg:id":1083467,
         "wd:id":"Q990771",
         "wk:page":"Saltsj\u00f6baden"
@@ -176,7 +178,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368602,
+    "wof:lastmodified":1566642135,
     "wof:name":"Saltsj\u00f6baden",
     "wof:parent_id":1125381943,
     "wof:placetype":"locality",

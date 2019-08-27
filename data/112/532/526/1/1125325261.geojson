@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009641,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":65485428.930152,
     "geom:bbox":"12.8950039623,56.626821311,13.0861962842,56.7305829044",
     "geom:latitude":56.681244,
     "geom:longitude":12.983624,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":13447,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":13447,
     "iso:country":"SE",
     "lbl:latitude":56.683617,
     "lbl:longitude":12.983629,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":56.683617,
     "mps:longitude":12.983629,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Snostorp"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125325261,
-    "wof:lastmodified":1529702332,
+    "wof:lastmodified":1566642501,
     "wof:name":"Snostorp",
     "wof:parent_id":1159303343,
     "wof:placetype":"localadmin",

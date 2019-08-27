@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002062,
+    "geom:area_square_m":14392960.356762,
     "geom:bbox":"13.2543107179,55.602586029,13.3546780721,55.645246875",
     "geom:latitude":55.623884,
     "geom:longitude":13.309971,
     "iso:country":"SE",
     "lbl:latitude":55.626927,
     "lbl:longitude":13.309223,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.626927,
     "mps:longitude":13.309223,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Esarp"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159305667,
-    "wof:lastmodified":1529702594,
+    "wof:lastmodified":1566643155,
     "wof:name":"Esarp",
     "wof:parent_id":1159303125,
     "wof:placetype":"localadmin",

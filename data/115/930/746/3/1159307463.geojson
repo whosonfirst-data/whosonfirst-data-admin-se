@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002568,
+    "geom:area_square_m":16673449.25358,
     "geom:bbox":"12.720639703,58.3085824178,12.7960747979,58.3614557953",
     "geom:latitude":58.331273,
     "geom:longitude":12.762103,
     "iso:country":"SE",
     "lbl:latitude":58.326799,
     "lbl:longitude":12.761382,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":58.326799,
     "mps:longitude":12.761382,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Flakeberg"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159307463,
-    "wof:lastmodified":1529702170,
+    "wof:lastmodified":1566643259,
     "wof:name":"Flakeberg",
     "wof:parent_id":1159303421,
     "wof:placetype":"localadmin",

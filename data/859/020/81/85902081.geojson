@@ -11,8 +11,10 @@
     "geom:longitude":17.746627,
     "gn:id":"",
     "iso:country":"SE",
+    "lbl:bbox":"17.741627,59.264115,17.751627,59.274115",
     "lbl:latitude":59.269115,
     "lbl:longitude":17.746627,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.271831,
     "mps:longitude":17.748356,
     "mz:hierarchy_label":0,
@@ -106,9 +108,6 @@
     "name:swe_x_preferred":[
         "Eker\u00f6"
     ],
-    "name:unk_x_variant":[
-        "Eker\u00f6"
-    ],
     "qs:gn_adm0_cc":"SE",
     "qs:gn_id":0,
     "qs:gn_local":2676176,
@@ -138,7 +137,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         1125409971,
@@ -149,7 +148,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":888821,
-        "qs:id":1094534,
         "qs_pg:id":1094534
     },
     "wof:country":"SE",
@@ -169,7 +167,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1564162460,
+    "wof:lastmodified":1566640638,
     "wof:name":"Eker\u00f6",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

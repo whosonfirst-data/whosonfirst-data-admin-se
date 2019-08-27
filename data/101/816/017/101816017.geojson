@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":59.641023,
     "lbl:longitude":17.074765,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":59.641023,
     "mps:longitude":17.074765,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0625\u0646\u0634\u0648\u0628\u064a\u0646\u063a"
     ],
@@ -181,7 +184,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":304,
     "wof:belongsto":[
@@ -196,7 +199,6 @@
         "fct:id":"06d15aee-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2716166,
         "gp:id":888985,
-        "qs:id":575699,
         "qs_pg:id":575699,
         "wd:id":"Q21167",
         "wk:page":"Enk\u00f6ping"
@@ -217,7 +219,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368701,
+    "wof:lastmodified":1566642169,
     "wof:name":"Enk\u00f6ping",
     "wof:parent_id":1125363611,
     "wof:placetype":"locality",

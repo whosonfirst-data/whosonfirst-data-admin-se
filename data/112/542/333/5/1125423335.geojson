@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.085054,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":468577675.573393,
     "geom:bbox":"18.6413405316,63.4115918522,19.1916219635,63.6740827754",
     "geom:latitude":63.542201,
     "geom:longitude":18.934298,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":1182,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":1182,
     "iso:country":"SE",
     "lbl:latitude":63.532072,
     "lbl:longitude":18.966982,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":63.532072,
     "mps:longitude":18.966982,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Gidea"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125423335,
-    "wof:lastmodified":1529702965,
+    "wof:lastmodified":1566642750,
     "wof:name":"Gidea",
     "wof:parent_id":1159303463,
     "wof:placetype":"localadmin",

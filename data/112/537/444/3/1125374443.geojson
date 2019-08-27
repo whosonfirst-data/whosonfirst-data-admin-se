@@ -9,17 +9,19 @@
     "geom:bbox":"12.1375048946,57.6058285399,12.3425765759,57.7292053064",
     "geom:latitude":57.66938,
     "geom:longitude":12.23578,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":9040,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":9040,
     "iso:country":"SE",
     "lbl:latitude":57.681105,
     "lbl:longitude":12.228828,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":57.681105,
     "mps:longitude":12.228828,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u041b\u0430\u043d\u0434\u0432\u0435\u0442\u0435\u0440"
@@ -84,7 +86,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -110,7 +112,7 @@
         }
     ],
     "wof:id":1125374443,
-    "wof:lastmodified":1564165227,
+    "wof:lastmodified":1566642813,
     "wof:name":"Landvetter",
     "wof:parent_id":1159303259,
     "wof:placetype":"localadmin",

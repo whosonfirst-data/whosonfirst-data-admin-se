@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":57.823278,
     "lbl:longitude":12.27702,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":57.823278,
     "mps:longitude":12.27702,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Olstorp"
     ],
@@ -72,7 +75,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":47,
     "wof:belongsto":[
@@ -87,7 +90,6 @@
         "fct:id":"06d270c8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":7283918,
         "gp:id":900606,
-        "qs:id":186021,
         "qs_pg:id":186021,
         "wd:id":"Q2297779",
         "wk:page":"Olstorp"
@@ -108,7 +110,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368770,
+    "wof:lastmodified":1566642195,
     "wof:name":"Olstorp",
     "wof:parent_id":1125271005,
     "wof:placetype":"locality",

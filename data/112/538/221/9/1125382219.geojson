@@ -9,17 +9,19 @@
     "geom:bbox":"14.3634154878,60.5466584863,15.6370647644,60.9073304225",
     "geom:latitude":60.727859,
     "geom:longitude":14.95287,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":10038,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":10038,
     "iso:country":"SE",
     "lbl:latitude":60.761731,
     "lbl:longitude":15.071979,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":60.761731,
     "mps:longitude":15.071979,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u041b\u0435\u043a\u0441\u0430\u043d\u0434"
@@ -105,7 +107,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -131,7 +133,7 @@
         }
     ],
     "wof:id":1125382219,
-    "wof:lastmodified":1564165291,
+    "wof:lastmodified":1566642899,
     "wof:name":"Leksand",
     "wof:parent_id":1159303237,
     "wof:placetype":"localadmin",

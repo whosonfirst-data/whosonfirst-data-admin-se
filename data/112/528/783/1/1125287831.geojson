@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012501,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":79117760.23935,
     "geom:bbox":"14.59951124,59.1587045584,14.9484420753,59.2611525627",
     "geom:latitude":59.214265,
     "geom:longitude":14.797037,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":5584,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":5584,
     "iso:country":"SE",
     "lbl:latitude":59.21561,
     "lbl:longitude":14.850532,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":59.21561,
     "mps:longitude":14.850532,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Knista"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125287831,
-    "wof:lastmodified":1529703054,
+    "wof:lastmodified":1566642620,
     "wof:name":"Knista",
     "wof:parent_id":1159303175,
     "wof:placetype":"localadmin",

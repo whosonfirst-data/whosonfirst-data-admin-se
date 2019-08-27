@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002601,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":17257335.810388,
     "geom:bbox":"13.3480364265,57.514277102,13.4297087052,57.5766357391",
     "geom:latitude":57.551493,
     "geom:longitude":13.379757,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":1480,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":1480,
     "iso:country":"SE",
     "lbl:latitude":57.557892,
     "lbl:longitude":13.375737,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":57.557892,
     "mps:longitude":13.375737,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Sodra asarp"
@@ -48,7 +50,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":1125362563,
-    "wof:lastmodified":1529702165,
+    "wof:lastmodified":1566642945,
     "wof:name":"Sodra asarp",
     "wof:parent_id":1159303181,
     "wof:placetype":"localadmin",

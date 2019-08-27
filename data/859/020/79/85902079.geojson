@@ -13,6 +13,7 @@
     "iso:country":"SE",
     "lbl:latitude":59.175111,
     "lbl:longitude":18.040893,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.160443,
     "mps:longitude":18.030592,
     "mz:hierarchy_label":1,
@@ -26,9 +27,6 @@
     "mz:tier_locality":5,
     "mz:tier_metro":1,
     "name:swe_x_preferred":[
-        "Ekedal"
-    ],
-    "name:unk_x_variant":[
         "Ekedal"
     ],
     "qs:gn_adm0_cc":"SE",
@@ -56,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         1125326009,
@@ -67,7 +65,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":888796,
-        "qs:id":980341,
         "qs_pg:id":980341
     },
     "wof:country":"SE",
@@ -87,7 +84,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702778,
+    "wof:lastmodified":1566640640,
     "wof:name":"Ekedal",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

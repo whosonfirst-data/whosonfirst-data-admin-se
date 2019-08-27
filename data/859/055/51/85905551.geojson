@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2028049.055129,
+    "geom:area_square_m":0.0,
     "geom:bbox":"18.304221,59.275895,18.304221,59.275895",
     "geom:latitude":59.275895,
     "geom:longitude":18.304221,
     "gn:id":"",
     "iso:country":"SE",
+    "lbl:bbox":"18.299221,59.270895,18.309221,59.280895",
     "lbl:latitude":59.275895,
     "lbl:longitude":18.304221,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.269074,
     "mps:longitude":18.28204,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:tier_locality":1,
     "mz:tier_metro":1,
     "name:swe_x_preferred":[
-        "Tattby"
-    ],
-    "name:unk_x_variant":[
         "Tattby"
     ],
     "qs:gn_adm0_cc":"SE",
@@ -59,19 +58,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85688429,
         102191581,
         1125381943,
         85633789,
         101754075,
-        1159303219
+        1159303219,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20151761,
-        "qs:id":995271,
         "qs_pg:id":995271
     },
     "wof:country":"SE",
@@ -91,7 +89,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1531936354,
+    "wof:lastmodified":1566640629,
     "wof:name":"Tattby",
     "wof:parent_id":101754075,
     "wof:placetype":"neighbourhood",

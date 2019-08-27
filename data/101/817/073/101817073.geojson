@@ -12,10 +12,13 @@
     "iso:country":"SE",
     "lbl:latitude":57.82071,
     "lbl:longitude":12.998893,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":57.82071,
     "mps:longitude":12.998893,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0424\u0440\u0438\u0441\u0442\u0430\u0434"
     ],
@@ -92,7 +95,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":47,
     "wof:belongsto":[
         85688411,
@@ -106,7 +109,6 @@
         "fct:id":"06d204bc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2713661,
         "gp:id":890034,
-        "qs:id":1014391,
         "qs_pg:id":1014391,
         "wd:id":"Q3291202",
         "wk:page":"Fristad"
@@ -127,7 +129,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368776,
+    "wof:lastmodified":1566642197,
     "wof:name":"Fristad",
     "wof:parent_id":1125287187,
     "wof:placetype":"locality",

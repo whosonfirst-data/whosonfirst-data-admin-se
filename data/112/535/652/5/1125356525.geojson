@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003436,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":22252381.317206,
     "geom:bbox":"15.192902592,58.3869987743,15.3107905839,58.4417084955",
     "geom:latitude":58.417039,
     "geom:longitude":15.246643,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":394,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":394,
     "iso:country":"SE",
     "lbl:latitude":58.417993,
     "lbl:longitude":15.250655,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":58.417993,
     "mps:longitude":15.250655,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Normlosa"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125356525,
-    "wof:lastmodified":1529703100,
+    "wof:lastmodified":1566642466,
     "wof:name":"Normlosa",
     "wof:parent_id":1159302925,
     "wof:placetype":"localadmin",

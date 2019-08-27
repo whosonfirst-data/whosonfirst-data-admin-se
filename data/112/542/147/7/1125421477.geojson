@@ -9,17 +9,19 @@
     "geom:bbox":"16.260549204,58.6422374154,16.5307405382,58.7795696694",
     "geom:latitude":58.693552,
     "geom:longitude":16.372255,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":5493,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":5493,
     "iso:country":"SE",
     "lbl:latitude":58.705767,
     "lbl:longitude":16.329326,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":58.705767,
     "mps:longitude":16.329326,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u041a\u0440\u0443\u043a\u0435\u043a"
@@ -69,7 +71,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -95,7 +97,7 @@
         }
     ],
     "wof:id":1125421477,
-    "wof:lastmodified":1564165193,
+    "wof:lastmodified":1566642757,
     "wof:name":"Krokek",
     "wof:parent_id":1159303229,
     "wof:placetype":"localadmin",

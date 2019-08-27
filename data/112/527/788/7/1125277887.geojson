@@ -9,17 +9,19 @@
     "geom:bbox":"15.8903407256,56.7373709434,16.130675196,56.8861950417",
     "geom:latitude":56.816761,
     "geom:longitude":16.023556,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":688,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":688,
     "iso:country":"SE",
     "lbl:latitude":56.808957,
     "lbl:longitude":16.031699,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":56.808957,
     "mps:longitude":16.031699,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Kristvalla"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125277887,
-    "wof:lastmodified":1554166208,
+    "wof:lastmodified":1566642713,
     "wof:name":"Kristvalla",
     "wof:parent_id":1159302907,
     "wof:placetype":"localadmin",

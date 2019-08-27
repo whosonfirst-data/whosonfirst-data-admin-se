@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019646,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":125340837.57892,
     "geom:bbox":"16.8575554482,58.8158258728,17.071872826,59.0305194516",
     "geom:latitude":58.938168,
     "geom:longitude":16.945501,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":2122,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":2122,
     "iso:country":"SE",
     "lbl:latitude":58.98778,
     "lbl:longitude":16.973745,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":58.98778,
     "mps:longitude":16.973745,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Raby-Rono och Ripsa"
@@ -48,7 +50,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":1125417503,
-    "wof:lastmodified":1529702843,
+    "wof:lastmodified":1566643091,
     "wof:name":"Raby-Rono och Ripsa",
     "wof:parent_id":1159303471,
     "wof:placetype":"localadmin",

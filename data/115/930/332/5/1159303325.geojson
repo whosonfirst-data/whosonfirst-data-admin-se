@@ -24,10 +24,13 @@
     ],
     "lbl:latitude":56.51863,
     "lbl:longitude":14.885083,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":56.51863,
     "mps:longitude":14.885083,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bul_x_preferred":[
         "\u0422\u0438\u043d\u0433\u0441\u0440\u044e\u0434"
     ],
@@ -88,7 +91,7 @@
     "se-lant:lanskod":7,
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":1159303325,
-    "wof:lastmodified":1564165628,
+    "wof:lastmodified":1566643277,
     "wof:name":"Tingsryd",
     "wof:parent_id":85688387,
     "wof:placetype":"county",

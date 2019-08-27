@@ -24,10 +24,13 @@
     ],
     "lbl:latitude":55.947852,
     "lbl:longitude":14.222265,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":55.947852,
     "mps:longitude":14.222265,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bel_x_preferred":[
         "\u041a\u0440\u044b\u0441\u0442\u044b\u044f\u043d\u0441\u0442\u0430\u0434"
     ],
@@ -187,7 +190,7 @@
     "se-lant:lanskod":12,
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -207,7 +210,7 @@
         }
     ],
     "wof:id":1159303497,
-    "wof:lastmodified":1564165594,
+    "wof:lastmodified":1566643248,
     "wof:name":"Kristianstad",
     "wof:parent_id":85688377,
     "wof:placetype":"county",

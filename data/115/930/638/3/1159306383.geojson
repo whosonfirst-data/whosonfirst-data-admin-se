@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004033,
+    "geom:area_square_m":25052013.220479,
     "geom:bbox":"17.5459548825,59.8100153368,17.6420638228,59.8842746383",
     "geom:latitude":59.845326,
     "geom:longitude":17.592096,
     "iso:country":"SE",
     "lbl:latitude":59.842799,
     "lbl:longitude":17.592087,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":59.842799,
     "mps:longitude":17.592087,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Uppsala Helga Trefaldighet"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159306383,
-    "wof:lastmodified":1529702868,
+    "wof:lastmodified":1566643346,
     "wof:name":"Uppsala Helga Trefaldighet",
     "wof:parent_id":1159303253,
     "wof:placetype":"localadmin",

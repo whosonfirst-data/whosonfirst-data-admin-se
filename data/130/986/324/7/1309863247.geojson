@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Stockholm",
     "iso:country":"SE",
+    "lbl:bbox":"17.86333,62.88,17.90333,62.92",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:nor_x_preferred":[
         "Svan\u00f6"
     ],
@@ -39,11 +43,6 @@
         "Svan\u00f6"
     ],
     "name:swe_x_variant":[
-        "Svan\u00f6n",
-        "Svan\u00f6bruk"
-    ],
-    "name:und_x_variant":[
-        "Svan\u00f6",
         "Svan\u00f6n",
         "Svan\u00f6bruk"
     ],
@@ -72,7 +71,7 @@
         }
     ],
     "wof:id":1309863247,
-    "wof:lastmodified":1537699782,
+    "wof:lastmodified":1566642354,
     "wof:name":"Svano",
     "wof:parent_id":1125423309,
     "wof:placetype":"locality",

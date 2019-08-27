@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031314,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":198654383.060291,
     "geom:bbox":"18.0916057096,59.0433734236,18.4127034497,59.2177481931",
     "geom:latitude":59.132969,
     "geom:longitude":18.239661,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":54573,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":54573,
     "iso:country":"SE",
     "lbl:latitude":59.132449,
     "lbl:longitude":18.23718,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":59.132449,
     "mps:longitude":18.23718,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Osterhaninge"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125326015,
-    "wof:lastmodified":1529702734,
+    "wof:lastmodified":1566642530,
     "wof:name":"Osterhaninge",
     "wof:parent_id":1159303483,
     "wof:placetype":"localadmin",

@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.03422,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":230951099.867134,
     "geom:bbox":"12.9335285898,56.8260465292,13.2804967293,57.0112049434",
     "geom:latitude":56.920276,
     "geom:longitude":13.103601,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":2361,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":2361,
     "iso:country":"SE",
     "lbl:latitude":56.930759,
     "lbl:longitude":13.072265,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":56.930759,
     "mps:longitude":13.072265,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Torup"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125381895,
-    "wof:lastmodified":1529702325,
+    "wof:lastmodified":1566642912,
     "wof:name":"Torup",
     "wof:parent_id":1159303485,
     "wof:placetype":"localadmin",

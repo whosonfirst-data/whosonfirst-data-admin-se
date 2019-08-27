@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001587,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":9853629.069383,
     "geom:bbox":"17.6065650198,59.8394188802,17.6916810947,59.8755295994",
     "geom:latitude":59.857576,
     "geom:longitude":17.648049,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":41621,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":41621,
     "iso:country":"SE",
     "lbl:latitude":59.858706,
     "lbl:longitude":17.647402,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":59.858706,
     "mps:longitude":17.647402,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Uppsala domkyrkodistrikt"
@@ -48,7 +50,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":1125340595,
-    "wof:lastmodified":1529702866,
+    "wof:lastmodified":1566642394,
     "wof:name":"Uppsala domkyrkodistrikt",
     "wof:parent_id":1159303253,
     "wof:placetype":"localadmin",

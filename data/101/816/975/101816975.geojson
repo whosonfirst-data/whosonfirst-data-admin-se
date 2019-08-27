@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":58.474203,
     "lbl:longitude":15.634672,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":58.474203,
     "mps:longitude":15.634672,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Ek\u00e4ngen"
     ],
@@ -73,7 +76,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688409,
@@ -87,7 +90,6 @@
         "fct:id":"06d02160-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2716758,
         "gp:id":888734,
-        "qs:id":1280388,
         "qs_pg:id":1280388,
         "wd:id":"Q1800347",
         "wk:page":"Ek\u00e4ngen"
@@ -108,7 +110,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368736,
+    "wof:lastmodified":1566642182,
     "wof:name":"Ek\u00e4ngen",
     "wof:parent_id":1159306069,
     "wof:placetype":"locality",

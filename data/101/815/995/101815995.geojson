@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":59.241141,
     "lbl:longitude":14.247836,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":59.241141,
     "mps:longitude":14.247836,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Bj\u00f6rneborg"
     ],
@@ -65,9 +68,6 @@
         "Bj\u00f6rneborgs bruk",
         "Bj\u00f6rneborgs bruks"
     ],
-    "name:unk_x_variant":[
-        "Bj\u00f6rneborgs bruk"
-    ],
     "qs:a0":"Sverige",
     "qs:a1":"*V\u00e4rmlands l\u00e4n",
     "qs:a1r":"0",
@@ -84,7 +84,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":52,
     "wof:belongsto":[
@@ -99,7 +99,6 @@
         "fct:id":"06d38468-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2721828,
         "gp:id":886608,
-        "qs:id":785780,
         "qs_pg:id":785780,
         "wd:id":"Q2783471",
         "wk:page":"Bj\u00f6rneborg, Sweden"
@@ -120,7 +119,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368833,
+    "wof:lastmodified":1566642216,
     "wof:name":"Bj\u00f6rneborg",
     "wof:parent_id":1125417489,
     "wof:placetype":"locality",

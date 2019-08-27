@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":59.75894,
     "lbl:longitude":18.700023,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":59.75894,
     "mps:longitude":18.700023,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0646\u0648\u0631\u062a\u0644\u064a\u0647"
     ],
@@ -140,7 +143,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u043e\u0440\u0440\u0442\u0435\u043b\u044c\u0454"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Norrtelje"
     ],
     "name:vol_x_preferred":[
@@ -165,7 +168,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":334,
     "wof:belongsto":[
@@ -180,7 +183,6 @@
         "fct:id":"06d0351a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2688250,
         "gp:id":900028,
-        "qs:id":686362,
         "qs_pg:id":686362,
         "wd:id":"Q3588743",
         "wk:page":"Norrt\u00e4lje"
@@ -201,7 +203,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368832,
+    "wof:lastmodified":1566642216,
     "wof:name":"Norrt\u00e4lje",
     "wof:parent_id":1125286437,
     "wof:placetype":"locality",

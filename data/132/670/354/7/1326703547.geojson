@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Stockholm",
     "iso:country":"SE",
+    "lbl:bbox":"20.1855,68.19596,20.2255,68.23596",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Salmi"
     ],
@@ -46,8 +50,7 @@
     ],
     "name:und_x_variant":[
         "Taloj\u00e4rvi",
-        "Tj\u00e5lme",
-        "Salmi"
+        "Tj\u00e5lme"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1326703547,
-    "wof:lastmodified":1564161762,
+    "wof:lastmodified":1566640122,
     "wof:name":"Salmi",
     "wof:parent_id":1125312209,
     "wof:placetype":"locality",

@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010276,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":52174483.818252,
     "geom:bbox":"21.6914531354,65.7115359218,21.9285770931,65.7891300187",
     "geom:latitude":65.757756,
     "geom:longitude":21.810367,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":3326,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":3326,
     "iso:country":"SE",
     "lbl:latitude":65.749425,
     "lbl:longitude":21.798734,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":65.749425,
     "mps:longitude":21.798734,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Savast"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125270797,
-    "wof:lastmodified":1529702556,
+    "wof:lastmodified":1566642693,
     "wof:name":"Savast",
     "wof:parent_id":1159303477,
     "wof:placetype":"localadmin",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0037,
+    "geom:area_square_m":25879455.929134,
     "geom:bbox":"13.1146124795,55.5106440459,13.25514089,55.5811540667",
     "geom:latitude":55.54689,
     "geom:longitude":13.174591,
     "iso:country":"SE",
     "lbl:latitude":55.545781,
     "lbl:longitude":13.161862,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.545781,
     "mps:longitude":13.161862,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Skabersjo"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159307221,
-    "wof:lastmodified":1529702622,
+    "wof:lastmodified":1566643230,
     "wof:name":"Skabersjo",
     "wof:parent_id":1159303083,
     "wof:placetype":"localadmin",

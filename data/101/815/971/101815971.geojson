@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":59.311261,
     "lbl:longitude":14.104355,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":59.311261,
     "mps:longitude":14.104355,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:amh_x_preferred":[
         "\u12ad\u122a\u1235\u1272\u1290\u1203\u121d\u1295"
     ],
@@ -169,7 +172,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":408,
     "wof:belongsto":[
@@ -184,7 +187,6 @@
         "fct:id":"06d31df2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2699282,
         "gp:id":895938,
-        "qs:id":373424,
         "qs_pg:id":373424,
         "wd:id":"Q215832",
         "wk:page":"Kristinehamn"
@@ -205,7 +207,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368828,
+    "wof:lastmodified":1566642214,
     "wof:name":"Kristinehamn",
     "wof:parent_id":1125363615,
     "wof:placetype":"locality",

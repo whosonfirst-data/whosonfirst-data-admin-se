@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026853,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":170703868.803921,
     "geom:bbox":"12.0087230643,58.9738591047,12.2747992892,59.1508322994",
     "geom:latitude":59.062685,
     "geom:longitude":12.151626,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":3885,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":3885,
     "iso:country":"SE",
     "lbl:latitude":59.058404,
     "lbl:longitude":12.164658,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":59.058404,
     "mps:longitude":12.164658,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Artemark"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125356621,
-    "wof:lastmodified":1529702199,
+    "wof:lastmodified":1566642471,
     "wof:name":"Artemark",
     "wof:parent_id":1159303359,
     "wof:placetype":"localadmin",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000321,
-    "geom:area_square_m":2024598.06489,
+    "geom:area_square_m":2024598.064889,
     "geom:bbox":"18.193359375,59.3275851567,18.2208251953,59.3457948608",
     "geom:latitude":59.336941,
     "geom:longitude":18.207282,
@@ -13,6 +13,7 @@
     "iso:country":"SE",
     "lbl:latitude":59.334862,
     "lbl:longitude":18.207113,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.336211,
     "mps:longitude":18.207022,
     "mz:hierarchy_label":1,
@@ -27,9 +28,6 @@
     "mz:tier_locality":5,
     "mz:tier_metro":1,
     "name:swe_x_preferred":[
-        "Drottningnamn"
-    ],
-    "name:unk_x_variant":[
         "Drottningnamn"
     ],
     "qs:gn_adm0_cc":"SE",
@@ -57,7 +55,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         1125394711,
@@ -68,7 +66,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20150918,
-        "qs:id":1087417,
         "qs_pg:id":1087417
     },
     "wof:country":"SE",
@@ -88,7 +85,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702807,
+    "wof:lastmodified":1566640662,
     "wof:name":"Drottningnamn",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

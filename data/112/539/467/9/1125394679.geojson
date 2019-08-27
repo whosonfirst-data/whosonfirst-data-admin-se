@@ -9,17 +9,19 @@
     "geom:bbox":"17.6782443146,59.6048505048,17.7405782112,59.6311702146",
     "geom:latitude":59.619005,
     "geom:longitude":17.708576,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":9441,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":9441,
     "iso:country":"SE",
     "lbl:latitude":59.618479,
     "lbl:longitude":17.70917,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":59.618479,
     "mps:longitude":17.70917,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:amh_x_preferred":[
         "\u1232\u130d\u1271\u1293"
@@ -171,7 +173,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -197,7 +199,7 @@
         }
     ],
     "wof:id":1125394679,
-    "wof:lastmodified":1564165253,
+    "wof:lastmodified":1566642844,
     "wof:name":"Sigtuna",
     "wof:parent_id":1159303265,
     "wof:placetype":"localadmin",

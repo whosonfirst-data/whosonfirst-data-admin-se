@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":60.56928,
     "lbl:longitude":17.447612,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":60.56928,
     "mps:longitude":17.447612,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "\u00c4lvkarleby"
     ],
@@ -93,7 +96,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":65,
     "wof:belongsto":[
@@ -108,7 +111,6 @@
         "fct:id":"06d04c3a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2726285,
         "gp:id":884660,
-        "qs:id":3280,
         "qs_pg:id":3280,
         "wd:id":"Q254953",
         "wk:page":"\u00c4lvkarleby"
@@ -129,7 +131,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368633,
+    "wof:lastmodified":1566642146,
     "wof:name":"\u00c4lvkarleby",
     "wof:parent_id":1125356219,
     "wof:placetype":"locality",

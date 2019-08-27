@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.087647,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":497078813.491707,
     "geom:bbox":"16.9466733064,62.5629367265,17.5506374251,62.8617973703",
     "geom:latitude":62.699365,
     "geom:longitude":17.241592,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":1015,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":1015,
     "iso:country":"SE",
     "lbl:latitude":62.738748,
     "lbl:longitude":17.170705,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":62.738748,
     "mps:longitude":17.170705,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Ljustorp"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125329251,
-    "wof:lastmodified":1529702996,
+    "wof:lastmodified":1566642509,
     "wof:name":"Ljustorp",
     "wof:parent_id":1159303091,
     "wof:placetype":"localadmin",

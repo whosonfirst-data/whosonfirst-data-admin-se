@@ -9,17 +9,19 @@
     "geom:bbox":"12.1896550674,61.3564860342,13.654707765,61.947394001",
     "geom:latitude":61.647844,
     "geom:longitude":13.013154,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":1063,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":1063,
     "iso:country":"SE",
     "lbl:latitude":61.689203,
     "lbl:longitude":13.206658,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":61.689203,
     "mps:longitude":13.206658,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
         "Sarna"
@@ -63,7 +65,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -89,7 +91,7 @@
         }
     ],
     "wof:id":1125417533,
-    "wof:lastmodified":1564165428,
+    "wof:lastmodified":1566643078,
     "wof:name":"Sarna",
     "wof:parent_id":1159303373,
     "wof:placetype":"localadmin",

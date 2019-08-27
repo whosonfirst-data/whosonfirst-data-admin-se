@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020147,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":126080131.887914,
     "geom:bbox":"13.3676881382,59.5346642719,13.6367756757,59.6610874341",
     "geom:latitude":59.595065,
     "geom:longitude":13.51956,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":4515,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":4515,
     "iso:country":"SE",
     "lbl:latitude":59.597128,
     "lbl:longitude":13.535578,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":59.597128,
     "mps:longitude":13.535578,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Nedre Ullerud"
@@ -48,7 +50,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":1125356095,
-    "wof:lastmodified":1529702922,
+    "wof:lastmodified":1566642475,
     "wof:name":"Nedre Ullerud",
     "wof:parent_id":1159303413,
     "wof:placetype":"localadmin",

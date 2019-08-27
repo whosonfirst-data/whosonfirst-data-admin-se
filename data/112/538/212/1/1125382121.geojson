@@ -9,17 +9,19 @@
     "geom:bbox":"18.4683819974,57.5097456758,18.5802321746,57.5812799298",
     "geom:latitude":57.550809,
     "geom:longitude":18.530013,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":1195,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":1195,
     "iso:country":"SE",
     "lbl:latitude":57.556935,
     "lbl:longitude":18.535512,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":57.556935,
     "mps:longitude":18.535512,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u062f\u0627\u0644\u0647\u064a\u0645"
@@ -123,7 +125,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -149,7 +151,7 @@
         }
     ],
     "wof:id":1125382121,
-    "wof:lastmodified":1564165309,
+    "wof:lastmodified":1566642917,
     "wof:name":"Dalhem",
     "wof:parent_id":1159303535,
     "wof:placetype":"localadmin",

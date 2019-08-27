@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":62.992346,
     "lbl:longitude":17.689218,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":62.992346,
     "mps:longitude":17.689218,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0411\u043e\u043b\u0441\u0442\u0430\u0431\u0440\u0443\u043a"
     ],
@@ -85,7 +88,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":45,
     "wof:belongsto":[
@@ -100,7 +103,6 @@
         "fct:id":"06d41a40-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2720670,
         "gp:id":887145,
-        "qs:id":941361,
         "qs_pg:id":941361,
         "wd:id":"Q1104911",
         "wk:page":"Bollstabruk"
@@ -121,7 +123,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368932,
+    "wof:lastmodified":1566642251,
     "wof:name":"Bollstabruk",
     "wof:parent_id":1125423317,
     "wof:placetype":"locality",

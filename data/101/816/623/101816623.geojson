@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":56.057224,
     "lbl:longitude":12.879095,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":56.057224,
     "mps:longitude":12.879095,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "M\u00f6rarp"
     ],
@@ -78,7 +81,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":45,
     "wof:belongsto":[
@@ -93,7 +96,6 @@
         "fct:id":"06d284a0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2691387,
         "gp:id":898687,
-        "qs:id":481290,
         "qs_pg:id":481290,
         "wd:id":"Q2309144",
         "wk:page":"M\u00f6rarp"
@@ -114,7 +116,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368697,
+    "wof:lastmodified":1566642168,
     "wof:name":"M\u00f6rarp",
     "wof:parent_id":1125358365,
     "wof:placetype":"locality",

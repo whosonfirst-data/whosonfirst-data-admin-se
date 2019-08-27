@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013079,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":84274686.621553,
     "geom:bbox":"16.5133765582,58.5320061868,16.7370536331,58.6393847853",
     "geom:latitude":58.593179,
     "geom:longitude":16.608983,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":1490,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":1490,
     "iso:country":"SE",
     "lbl:latitude":58.600139,
     "lbl:longitude":16.608992,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":58.600139,
     "mps:longitude":16.608992,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Ostra Husby"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125373703,
-    "wof:lastmodified":1529703094,
+    "wof:lastmodified":1566642797,
     "wof:name":"Ostra Husby",
     "wof:parent_id":1159303229,
     "wof:placetype":"localadmin",

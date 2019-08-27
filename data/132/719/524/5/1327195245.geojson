@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Stockholm",
     "iso:country":"SE",
+    "lbl:bbox":"13.36333,57.91333,13.40333,57.95333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041c\u043e\u043d\u0435"
     ],
@@ -53,9 +57,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u043e\u043d\u0435"
     ],
-    "name:und_x_variant":[
-        "M\u00f6ne"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85688411,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1327195245,
-    "wof:lastmodified":1564161853,
+    "wof:lastmodified":1566640191,
     "wof:name":"Mone",
     "wof:parent_id":1159306231,
     "wof:placetype":"locality",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000106,
+    "geom:area_square_m":737163.532423,
     "geom:bbox":"14.1189456641,55.6329006072,14.1364589867,55.642818904",
     "geom:latitude":55.637679,
     "geom:longitude":14.126117,
     "iso:country":"SE",
     "lbl:latitude":55.637673,
     "lbl:longitude":14.12595,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.637673,
     "mps:longitude":14.12595,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Sverige",
     "qs:a1":"*Sk\u00e5ne l\u00e4n",
     "qs:a1r":"1",
@@ -31,7 +35,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688377,
         102191581,
@@ -42,7 +46,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":903441,
-        "qs:id":1097417,
         "qs_pg:id":1097417
     },
     "wof:country":"SE",
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":101913097,
-    "wof:lastmodified":1529702659,
+    "wof:lastmodified":1566642205,
     "wof:name":"St. Olof",
     "wof:parent_id":1125358381,
     "wof:placetype":"locality",

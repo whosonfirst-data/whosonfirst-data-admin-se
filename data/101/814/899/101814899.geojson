@@ -13,6 +13,8 @@
     "iso:country":"SE",
     "lbl:latitude":65.57904,
     "lbl:longitude":22.190653,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":65.57904,
     "mps:longitude":22.190653,
     "mz:hierarchy_label":1,
@@ -400,7 +402,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":6.0,
     "wd:latitude":65.6,
@@ -418,7 +420,6 @@
         "fct:id":"06d4820a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":604490,
         "gp:id":897794,
-        "qs:id":3681,
         "qs_pg:id":3681,
         "wd:id":"Q26268",
         "wk:page":"Lule\u00e5"
@@ -439,7 +440,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368930,
+    "wof:lastmodified":1566642250,
     "wof:name":"Lule\u00e5",
     "wof:parent_id":1125325171,
     "wof:placetype":"locality",

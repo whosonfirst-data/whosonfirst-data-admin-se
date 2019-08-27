@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.03947,
+    "geom:area_square_m":245486579.416278,
     "geom:bbox":"14.6429584894,59.6943402181,14.9529868219,59.9270944133",
     "geom:latitude":59.80194,
     "geom:longitude":14.782524,
     "iso:country":"SE",
     "lbl:latitude":59.799093,
     "lbl:longitude":14.78489,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":59.799093,
     "mps:longitude":14.78489,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Hjulsjo"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159305927,
-    "wof:lastmodified":1529703046,
+    "wof:lastmodified":1566643158,
     "wof:name":"Hjulsjo",
     "wof:parent_id":1159303071,
     "wof:placetype":"localadmin",

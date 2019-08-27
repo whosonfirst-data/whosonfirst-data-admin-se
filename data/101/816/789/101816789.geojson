@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":56.984621,
     "lbl:longitude":14.310953,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":56.984621,
     "mps:longitude":14.310953,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Rydaholm"
     ],
@@ -55,9 +58,6 @@
         "Sm\u00e5lands Rydaholm",
         "Sm\u00e5lands Rydaholms"
     ],
-    "name:unk_x_variant":[
-        "Sm\u00e5lands Rydaholm"
-    ],
     "name:zho_min_nan_x_preferred":[
         "Rydaholm"
     ],
@@ -77,7 +77,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":45,
     "wof:belongsto":[
@@ -92,7 +92,6 @@
         "fct:id":"06d21268-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2680977,
         "gp:id":903067,
-        "qs:id":186065,
         "qs_pg:id":186065,
         "wd:id":"Q2577791",
         "wk:page":"Rydaholm"
@@ -113,7 +112,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368731,
+    "wof:lastmodified":1566642180,
     "wof:name":"Rydaholm",
     "wof:parent_id":1125374993,
     "wof:placetype":"locality",

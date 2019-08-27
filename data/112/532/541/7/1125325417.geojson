@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037861,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":230535948.763171,
     "geom:bbox":"16.6185605052,60.3821696734,16.9426947501,60.5930162594",
     "geom:latitude":60.499047,
     "geom:longitude":16.779872,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":2216,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":2216,
     "iso:country":"SE",
     "lbl:latitude":60.501261,
     "lbl:longitude":16.77748,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":60.501261,
     "mps:longitude":16.77748,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Arsunda"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125325417,
-    "wof:lastmodified":1529702056,
+    "wof:lastmodified":1566642541,
     "wof:name":"Arsunda",
     "wof:parent_id":1159303303,
     "wof:placetype":"localadmin",

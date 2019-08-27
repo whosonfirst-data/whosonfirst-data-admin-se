@@ -12,10 +12,13 @@
     "iso:country":"SE",
     "lbl:latitude":57.69864,
     "lbl:longitude":16.72436,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":57.69864,
     "mps:longitude":16.72436,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Sverige",
     "qs:a1":"*Kalmar l\u00e4n",
     "qs:a1r":"7",
@@ -32,7 +35,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688401,
         102191581,
@@ -43,7 +46,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20151367,
-        "qs:id":212122,
         "qs_pg:id":212122
     },
     "wof:country":"SE",
@@ -59,7 +61,7 @@
         }
     ],
     "wof:id":101911355,
-    "wof:lastmodified":1554166244,
+    "wof:lastmodified":1566642255,
     "wof:name":"M\u00e5l\u00e4ngen",
     "wof:parent_id":1159306131,
     "wof:placetype":"locality",

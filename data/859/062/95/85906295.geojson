@@ -13,6 +13,7 @@
     "iso:country":"SE",
     "lbl:latitude":59.317287,
     "lbl:longitude":18.160848,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.313396,
     "mps:longitude":18.168254,
     "mz:hierarchy_label":1,
@@ -30,9 +31,6 @@
     ],
     "name:swe_x_variant":[
         "Augustendal"
-    ],
-    "name:unk_x_variant":[
-        "Nacka Strand"
     ],
     "qs:gn_adm0_cc":"SE",
     "qs:gn_id":0,
@@ -59,19 +57,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85688429,
         102191581,
         1125362217,
         85633789,
         101752307,
-        1159303035
+        1159303035,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22656638,
-        "qs:id":249041,
         "qs_pg:id":249041
     },
     "wof:country":"SE",
@@ -91,7 +88,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702822,
+    "wof:lastmodified":1566640605,
     "wof:name":"Nacka Strand",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

@@ -12,10 +12,13 @@
     "iso:country":"SE",
     "lbl:latitude":57.387198,
     "lbl:longitude":18.242416,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":57.387198,
     "mps:longitude":18.242416,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Klinte socken"
     ],
@@ -33,7 +36,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1159306903,
-    "wof:lastmodified":1564165675,
+    "wof:lastmodified":1566643324,
     "wof:name":"Klinte",
     "wof:parent_id":1159303535,
     "wof:placetype":"localadmin",

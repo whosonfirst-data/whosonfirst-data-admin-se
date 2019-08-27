@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008134,
+    "geom:area_square_m":54070326.100177,
     "geom:bbox":"12.8398057596,57.4433446777,13.0373512706,57.526409942",
     "geom:latitude":57.47994,
     "geom:longitude":12.946028,
     "iso:country":"SE",
     "lbl:latitude":57.476336,
     "lbl:longitude":12.94608,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":57.476336,
     "mps:longitude":12.94608,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Redslared"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159306693,
-    "wof:lastmodified":1529702143,
+    "wof:lastmodified":1566643207,
     "wof:name":"Redslared",
     "wof:parent_id":1159303079,
     "wof:placetype":"localadmin",

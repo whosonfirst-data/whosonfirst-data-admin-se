@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006203,
+    "geom:area_square_m":40934580.793926,
     "geom:bbox":"18.5540974883,57.7102119977,18.6805855299,57.7890867559",
     "geom:latitude":57.747129,
     "geom:longitude":18.61446,
     "iso:country":"SE",
     "lbl:latitude":57.747701,
     "lbl:longitude":18.619567,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":57.747701,
     "mps:longitude":18.619567,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tingstade"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159306553,
-    "wof:lastmodified":1529702023,
+    "wof:lastmodified":1566643320,
     "wof:name":"Tingstade",
     "wof:parent_id":1159303535,
     "wof:placetype":"localadmin",

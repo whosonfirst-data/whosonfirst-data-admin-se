@@ -24,10 +24,13 @@
     ],
     "lbl:latitude":64.82013,
     "lbl:longitude":20.849758,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":64.82013,
     "mps:longitude":20.849758,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Skelleftea"
     ],
@@ -43,7 +46,7 @@
     "se-lant:lanskod":24,
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1159303205,
-    "wof:lastmodified":1554325316,
+    "wof:lastmodified":1566643352,
     "wof:name":"Skelleftea",
     "wof:parent_id":85688465,
     "wof:placetype":"county",

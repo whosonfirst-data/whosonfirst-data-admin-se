@@ -12,10 +12,13 @@
     "iso:country":"SE",
     "lbl:latitude":59.218185,
     "lbl:longitude":15.159572,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":59.218185,
     "mps:longitude":15.159572,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Marieberg"
     ],
@@ -62,7 +65,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":35,
     "wof:belongsto":[
         85688421,
@@ -76,7 +79,6 @@
         "fct:id":"06d0fa5e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2692647,
         "gp:id":898216,
-        "qs:id":1351398,
         "qs_pg:id":1351398,
         "wd:id":"Q2254579",
         "wk:page":"Marieberg, \u00d6rebro"
@@ -97,7 +99,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368603,
+    "wof:lastmodified":1566642135,
     "wof:name":"Marieberg",
     "wof:parent_id":1125356497,
     "wof:placetype":"locality",

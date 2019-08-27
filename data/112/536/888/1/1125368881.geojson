@@ -9,17 +9,19 @@
     "geom:bbox":"11.8404415356,58.4322106584,12.0802015848,58.5585274645",
     "geom:latitude":58.488706,
     "geom:longitude":11.946722,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":439,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":439,
     "iso:country":"SE",
     "lbl:latitude":58.485196,
     "lbl:longitude":11.936691,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":58.485196,
     "mps:longitude":11.936691,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Torp"
@@ -69,7 +71,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -95,7 +97,7 @@
         }
     ],
     "wof:id":1125368881,
-    "wof:lastmodified":1564165339,
+    "wof:lastmodified":1566642942,
     "wof:name":"Torp",
     "wof:parent_id":1159303061,
     "wof:placetype":"localadmin",

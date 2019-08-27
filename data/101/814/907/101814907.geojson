@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":65.419419,
     "lbl:longitude":21.500238,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":65.419419,
     "mps:longitude":21.500238,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Norrfj\u00e4rden"
     ],
@@ -75,7 +78,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":45,
     "wof:belongsto":[
@@ -90,7 +93,6 @@
         "fct:id":"06d36e4c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":604006,
         "gp:id":899951,
-        "qs:id":907598,
         "qs_pg:id":907598,
         "wd:id":"Q612314",
         "wk:page":"Norrfj\u00e4rden"
@@ -111,7 +113,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368898,
+    "wof:lastmodified":1566642240,
     "wof:name":"Norrfj\u00e4rden",
     "wof:parent_id":1125373637,
     "wof:placetype":"locality",

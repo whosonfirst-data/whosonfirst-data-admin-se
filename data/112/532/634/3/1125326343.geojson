@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010592,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":69931350.178882,
     "geom:bbox":"18.6601021482,57.6747933101,18.8706732074,57.7844401301",
     "geom:latitude":57.729019,
     "geom:longitude":18.75606,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":2075,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":2075,
     "iso:country":"SE",
     "lbl:latitude":57.741326,
     "lbl:longitude":18.713952,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":57.741326,
     "mps:longitude":18.713952,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Othem"
@@ -48,7 +50,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":1125326343,
-    "wof:lastmodified":1529702029,
+    "wof:lastmodified":1566642496,
     "wof:name":"Othem",
     "wof:parent_id":1159303535,
     "wof:placetype":"localadmin",

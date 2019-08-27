@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003312,
+    "geom:area_square_m":22732791.469742,
     "geom:bbox":"12.8825105751,56.2634856812,13.0018500036,56.3113153445",
     "geom:latitude":56.286922,
     "geom:longitude":12.941827,
     "iso:country":"SE",
     "lbl:latitude":56.287315,
     "lbl:longitude":12.947706,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":56.287315,
     "mps:longitude":12.947706,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tastarp"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159307149,
-    "wof:lastmodified":1529702619,
+    "wof:lastmodified":1566643234,
     "wof:name":"Tastarp",
     "wof:parent_id":1159303025,
     "wof:placetype":"localadmin",

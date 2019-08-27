@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02892,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":196054096.501126,
     "geom:bbox":"13.0683762533,56.673832852,13.3251099744,56.8530245135",
     "geom:latitude":56.752713,
     "geom:longitude":13.219565,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":1366,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":1366,
     "iso:country":"SE",
     "lbl:latitude":56.756638,
     "lbl:longitude":13.229934,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":56.756638,
     "mps:longitude":13.229934,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Breared"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125325241,
-    "wof:lastmodified":1529702331,
+    "wof:lastmodified":1566642547,
     "wof:name":"Breared",
     "wof:parent_id":1159303343,
     "wof:placetype":"localadmin",

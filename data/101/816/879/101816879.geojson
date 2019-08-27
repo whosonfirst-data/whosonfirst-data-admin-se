@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":57.039006,
     "lbl:longitude":16.439737,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":57.039006,
     "mps:longitude":16.439737,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041c\u044c\u043e\u043d\u0441\u0442\u0435\u0440\u043e\u0441"
     ],
@@ -103,7 +106,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":80,
     "wof:belongsto":[
@@ -118,7 +121,6 @@
         "fct:id":"06d13230-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2691407,
         "gp:id":898676,
-        "qs:id":1205033,
         "qs_pg:id":1205033,
         "wd:id":"Q599114",
         "wk:page":"M\u00f6nster\u00e5s"
@@ -139,7 +141,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368692,
+    "wof:lastmodified":1566642166,
     "wof:name":"M\u00f6nster\u00e5s",
     "wof:parent_id":1125294323,
     "wof:placetype":"locality",

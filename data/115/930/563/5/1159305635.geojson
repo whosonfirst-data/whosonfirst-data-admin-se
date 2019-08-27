@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006564,
+    "geom:area_square_m":42357455.151582,
     "geom:bbox":"13.5367090436,58.5020242573,13.6764050138,58.582428107",
     "geom:latitude":58.543289,
     "geom:longitude":13.608972,
     "iso:country":"SE",
     "lbl:latitude":58.546528,
     "lbl:longitude":13.613736,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":58.546528,
     "mps:longitude":13.613736,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Holmestad"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159305635,
-    "wof:lastmodified":1529702116,
+    "wof:lastmodified":1566643280,
     "wof:name":"Holmestad",
     "wof:parent_id":1159302923,
     "wof:placetype":"localadmin",

@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":62.27148,
     "lbl:longitude":17.37399,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":62.27148,
     "mps:longitude":17.37399,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Njurundabommen"
     ],
@@ -51,9 +54,6 @@
     "name:swe_x_variant":[
         "Njurundas"
     ],
-    "name:unk_x_variant":[
-        "Njurunda"
-    ],
     "name:zho_min_nan_x_preferred":[
         "Njurundabommen"
     ],
@@ -73,7 +73,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":45,
     "wof:belongsto":[
@@ -88,7 +88,6 @@
         "fct:id":"06c6a018-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2689580,
         "gp:id":899386,
-        "qs:id":229195,
         "qs_pg:id":229195,
         "wd:id":"Q2223613",
         "wk:page":"Njurundabommen"
@@ -109,7 +108,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368940,
+    "wof:lastmodified":1566642253,
     "wof:name":"Njurundabommen",
     "wof:parent_id":1125409973,
     "wof:placetype":"locality",

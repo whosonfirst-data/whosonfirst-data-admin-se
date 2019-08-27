@@ -12,10 +12,13 @@
     "iso:country":"SE",
     "lbl:latitude":64.855178,
     "lbl:longitude":20.384958,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":64.855178,
     "mps:longitude":20.384958,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0411\u0443\u043b\u0438\u0434\u0435\u043d"
     ],
@@ -57,7 +60,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1159306339,
-    "wof:lastmodified":1564165537,
+    "wof:lastmodified":1566643199,
     "wof:name":"Boliden",
     "wof:parent_id":1159303205,
     "wof:placetype":"localadmin",

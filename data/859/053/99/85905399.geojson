@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001112,
-    "geom:area_square_m":7021809.196569,
+    "geom:area_square_m":7021809.196571,
     "geom:bbox":"17.839050293,59.27991422,17.9059610371,59.3098644121",
     "geom:latitude":59.296069,
     "geom:longitude":17.87107,
@@ -14,6 +14,7 @@
     "iso:country":"SE",
     "lbl:latitude":59.288429,
     "lbl:longitude":17.884224,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.296045,
     "mps:longitude":17.868792,
     "mz:hierarchy_label":1,
@@ -29,9 +30,8 @@
     "name:swe_x_preferred":[
         "Nya Kungshatt"
     ],
-    "name:unk_x_variant":[
-        "Kungshatt",
-        "Nya Kungshatt"
+    "name:und_x_variant":[
+        "Kungshatt"
     ],
     "qs:gn_adm0_cc":"SE",
     "qs:gn_fcode":"PPL",
@@ -60,7 +60,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         1159307483,
@@ -72,7 +72,6 @@
     "wof:concordances":{
         "gn:id":2698695,
         "gp:id":20151437,
-        "qs:id":995438,
         "qs_pg:id":995438
     },
     "wof:country":"SE",
@@ -92,7 +91,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702811,
+    "wof:lastmodified":1566640617,
     "wof:name":"Nya Kungshatt",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

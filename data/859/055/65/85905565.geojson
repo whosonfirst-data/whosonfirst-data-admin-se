@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2833864.390339,
+    "geom:area_square_m":0.0,
     "geom:bbox":"17.931322,59.475613,17.931322,59.475613",
     "geom:latitude":59.475613,
     "geom:longitude":17.931322,
     "iso:country":"SE",
+    "lbl:bbox":"17.926322,59.470613,17.936322,59.480613",
     "lbl:latitude":59.475613,
     "lbl:longitude":17.931322,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.475719,
     "mps:longitude":17.933394,
     "mz:hierarchy_label":0,
@@ -29,9 +31,6 @@
     ],
     "name:swe_x_variant":[
         "T\u00f6rntorp"
-    ],
-    "name:unk_x_variant":[
-        "Torntorp"
     ],
     "qs:gn_adm0_cc":"SE",
     "qs:gn_id":0,
@@ -61,7 +60,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         1125394701,
@@ -90,7 +89,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1531936356,
+    "wof:lastmodified":1566640632,
     "wof:name":"T\u00f6rntorp",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.049925,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":308931816.000375,
     "geom:bbox":"16.0924805669,59.8514515589,16.436114822,60.0825978677",
     "geom:latitude":59.971447,
     "geom:longitude":16.271982,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":3005,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":3005,
     "iso:country":"SE",
     "lbl:latitude":59.984046,
     "lbl:longitude":16.292352,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":59.984046,
     "mps:longitude":16.292352,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Vasterfarnebo"
@@ -48,7 +50,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":1125325029,
-    "wof:lastmodified":1529701989,
+    "wof:lastmodified":1566642483,
     "wof:name":"Vasterfarnebo",
     "wof:parent_id":1159303409,
     "wof:placetype":"localadmin",

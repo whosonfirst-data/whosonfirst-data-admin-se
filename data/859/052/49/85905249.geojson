@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000338,
-    "geom:area_square_m":2132508.28622,
+    "geom:area_square_m":2132508.286219,
     "geom:bbox":"18.1329345703,59.3537198475,18.165075275,59.3709919862",
     "geom:latitude":59.362857,
     "geom:longitude":18.14995,
@@ -13,6 +13,7 @@
     "iso:country":"SE",
     "lbl:latitude":59.366563,
     "lbl:longitude":18.140686,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.361895,
     "mps:longitude":18.151551,
     "mz:hierarchy_label":1,
@@ -26,9 +27,6 @@
     "mz:tier_locality":5,
     "mz:tier_metro":1,
     "name:swe_x_preferred":[
-        "Hersby"
-    ],
-    "name:unk_x_variant":[
         "Hersby"
     ],
     "qs:gn_adm0_cc":"SE",
@@ -56,19 +54,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85688429,
         102191581,
         1125394719,
         85633789,
         101839523,
-        1159303469
+        1159303469,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20151121,
-        "qs:id":1328948,
         "qs_pg:id":1328948
     },
     "wof:country":"SE",
@@ -88,7 +85,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702809,
+    "wof:lastmodified":1566640627,
     "wof:name":"Hersby",
     "wof:parent_id":101839523,
     "wof:placetype":"neighbourhood",

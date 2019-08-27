@@ -9,15 +9,18 @@
     "geom:bbox":"21.81667,67.01667,21.81667,67.01667",
     "geom:latitude":67.01667,
     "geom:longitude":21.81667,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":230,
+    "gn:country":"SE",
+    "gn:fcode":"PPL",
     "gn:population":230,
     "iso:country":"SE",
+    "lbl:bbox":"21.79667,66.99667,21.83667,67.03667",
     "lbl:latitude":67.01667,
     "lbl:longitude":21.81667,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0423\u043b\u0430\u0442\u0438"
@@ -61,7 +64,7 @@
     "name:swe_x_preferred":[
         "Ullatti"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ulatti"
     ],
     "qs_pg:aaroncc":"SE",
@@ -83,7 +86,7 @@
     "qs_pg:woe_adm0":23424954,
     "qs_pg:woe_id":908422,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424954,
     "woe:name_adm0":"Sverige",
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":1126029803,
-    "wof:lastmodified":1563369349,
+    "wof:lastmodified":1566642564,
     "wof:name":"Ullatti",
     "wof:parent_id":1125300093,
     "wof:placetype":"locality",

@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4788031.685999,
+    "geom:area_square_m":0.0,
     "geom:bbox":"17.931061,59.22502,17.931061,59.22502",
     "geom:latitude":59.22502,
     "geom:longitude":17.931061,
     "iso:country":"SE",
+    "lbl:bbox":"17.926061,59.22002,17.936061,59.23002",
     "lbl:latitude":59.22502,
     "lbl:longitude":17.931061,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.231633,
     "mps:longitude":17.915353,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:tier_locality":1,
     "mz:tier_metro":1,
     "name:swe_x_preferred":[
-        "Kasta"
-    ],
-    "name:unk_x_variant":[
         "Kasta"
     ],
     "qs:gn_adm0_cc":"SE",
@@ -58,14 +57,14 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85688429,
         102191581,
         1125362217,
         85633789,
         101752307,
-        1159303035
+        1159303035,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -88,7 +87,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1531936335,
+    "wof:lastmodified":1566640623,
     "wof:name":"K\u00e4sta",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":59.743518,
     "lbl:longitude":18.359996,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":59.743518,
     "mps:longitude":18.359996,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0420\u0438\u043c\u0431\u0443"
     ],
@@ -84,7 +87,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":159,
     "wof:belongsto":[
@@ -99,7 +102,6 @@
         "fct:id":"06d06f26-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2682570,
         "gp:id":902420,
-        "qs:id":568991,
         "qs_pg:id":568991,
         "wd:id":"Q131882",
         "wk:page":"Rimbo"
@@ -120,7 +122,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368826,
+    "wof:lastmodified":1566642214,
     "wof:name":"Rimbo",
     "wof:parent_id":1125395871,
     "wof:placetype":"locality",

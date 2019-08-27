@@ -10,8 +10,10 @@
     "geom:latitude":57.753004,
     "geom:longitude":12.051482,
     "iso:country":"SE",
+    "lbl:bbox":"12.0464819466,57.7480043171,12.0564819466,57.7580043171",
     "lbl:latitude":57.753004,
     "lbl:longitude":12.051482,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -24,14 +26,14 @@
     "name:swe_x_preferred":[
         "G\u00e4rds\u00e5s"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85688411,
         102191581,
         1125287157,
         85633789,
         101752295,
-        1159302989
+        1159302989,
+        85688411
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -50,7 +52,7 @@
         }
     ],
     "wof:id":1108944367,
-    "wof:lastmodified":1529702294,
+    "wof:lastmodified":1566641815,
     "wof:name":"Gardsas",
     "wof:parent_id":101752295,
     "wof:placetype":"neighbourhood",

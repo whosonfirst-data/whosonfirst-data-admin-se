@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021593,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":134659461.680374,
     "geom:bbox":"12.9113355071,59.6512414672,13.2727460549,59.7751111119",
     "geom:latitude":59.712642,
     "geom:longitude":13.096743,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":1070,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":1070,
     "iso:country":"SE",
     "lbl:latitude":59.703482,
     "lbl:longitude":13.124044,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":59.703482,
     "mps:longitude":13.124044,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Vastra Amtervik"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125417487,
-    "wof:lastmodified":1529702926,
+    "wof:lastmodified":1566643084,
     "wof:name":"Vastra Amtervik",
     "wof:parent_id":1159303019,
     "wof:placetype":"localadmin",

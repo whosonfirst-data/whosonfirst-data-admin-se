@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014653,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":99096595.240187,
     "geom:bbox":"14.8578888701,56.7826712356,15.0238921808,56.9253608774",
     "geom:latitude":56.844595,
     "geom:longitude":14.944877,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":1485,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":1485,
     "iso:country":"SE",
     "lbl:latitude":56.841859,
     "lbl:longitude":14.946427,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":56.841859,
     "mps:longitude":14.946427,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Hemmesjo-Tegnaby"
@@ -48,7 +50,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":1125417495,
-    "wof:lastmodified":1529702530,
+    "wof:lastmodified":1566643083,
     "wof:name":"Hemmesjo-Tegnaby",
     "wof:parent_id":1159302917,
     "wof:placetype":"localadmin",

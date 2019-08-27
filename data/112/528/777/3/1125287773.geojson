@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01747,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":118463955.847086,
     "geom:bbox":"13.9019730664,56.6718496301,14.1110841942,56.8140788702",
     "geom:latitude":56.743046,
     "geom:longitude":14.001319,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":2192,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":2192,
     "iso:country":"SE",
     "lbl:latitude":56.734711,
     "lbl:longitude":13.994161,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":56.734711,
     "mps:longitude":13.994161,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Sodra Ljunga"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125287773,
-    "wof:lastmodified":1529702530,
+    "wof:lastmodified":1566642620,
     "wof:name":"Sodra Ljunga",
     "wof:parent_id":1159303441,
     "wof:placetype":"localadmin",

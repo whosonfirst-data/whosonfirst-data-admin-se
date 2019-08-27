@@ -12,10 +12,13 @@
     "iso:country":"SE",
     "lbl:latitude":58.380611,
     "lbl:longitude":13.95717,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":58.380611,
     "mps:longitude":13.95717,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Forsby"
     ],
@@ -39,7 +42,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1159306545,
-    "wof:lastmodified":1564165693,
+    "wof:lastmodified":1566643340,
     "wof:name":"Forsby",
     "wof:parent_id":1159302921,
     "wof:placetype":"localadmin",

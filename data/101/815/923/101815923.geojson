@@ -12,10 +12,13 @@
     "iso:country":"SE",
     "lbl:latitude":59.176188,
     "lbl:longitude":17.431343,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":59.176188,
     "mps:longitude":17.431343,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Nykvarn"
     ],
@@ -110,7 +113,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":90,
     "wof:belongsto":[
         85688429,
@@ -124,7 +127,6 @@
         "fct:id":"06d01238-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2687693,
         "gp:id":900284,
-        "qs:id":1029049,
         "qs_pg:id":1029049,
         "wd:id":"Q610146"
     },
@@ -144,7 +146,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368827,
+    "wof:lastmodified":1566642214,
     "wof:name":"Nykvarn",
     "wof:parent_id":1125362255,
     "wof:placetype":"locality",

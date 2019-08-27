@@ -9,17 +9,19 @@
     "geom:bbox":"16.6407368475,58.4136594548,16.8674199776,58.4878005864",
     "geom:latitude":58.448825,
     "geom:longitude":16.743747,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":166,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":166,
     "iso:country":"SE",
     "lbl:latitude":58.442423,
     "lbl:longitude":16.745367,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mps:latitude":58.442423,
     "mps:longitude":16.745367,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
         "Rono"
@@ -51,7 +53,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -77,7 +79,7 @@
         }
     ],
     "wof:id":1125287877,
-    "wof:lastmodified":1564165106,
+    "wof:lastmodified":1566642646,
     "wof:name":"Rono",
     "wof:parent_id":1159303229,
     "wof:placetype":"localadmin",

@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":65.818187,
     "lbl:longitude":21.688699,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":65.818187,
     "mps:longitude":21.688699,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:cat_x_preferred":[
         "Boden"
     ],
@@ -103,7 +106,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":62,
     "wof:belongsto":[
@@ -118,7 +121,6 @@
         "fct:id":"06d3b618-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":606531,
         "gp:id":886986,
-        "qs:id":980290,
         "qs_pg:id":980290,
         "wd:id":"Q74742"
     },
@@ -138,7 +140,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368864,
+    "wof:lastmodified":1566642228,
     "wof:name":"Boden",
     "wof:parent_id":1125373643,
     "wof:placetype":"locality",

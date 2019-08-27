@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012263,
+    "geom:area_square_m":78192014.783328,
     "geom:bbox":"12.9664648577,58.9033293635,13.2026161005,58.9996730173",
     "geom:latitude":58.959258,
     "geom:longitude":13.083694,
     "iso:country":"SE",
     "lbl:latitude":58.950497,
     "lbl:longitude":13.075635,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":58.950497,
     "mps:longitude":13.075635,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Millesvik"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159305649,
-    "wof:lastmodified":1529702913,
+    "wof:lastmodified":1566643275,
     "wof:name":"Millesvik",
     "wof:parent_id":1159303169,
     "wof:placetype":"localadmin",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001774,
+    "geom:area_square_m":12438264.645081,
     "geom:bbox":"13.6718615201,55.4194955462,13.7305849886,55.4824939493",
     "geom:latitude":55.45084,
     "geom:longitude":13.705683,
     "iso:country":"SE",
     "lbl:latitude":55.452935,
     "lbl:longitude":13.715049,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.452935,
     "mps:longitude":13.715049,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Balkakra"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159305911,
-    "wof:lastmodified":1529702597,
+    "wof:lastmodified":1566643293,
     "wof:name":"Balkakra",
     "wof:parent_id":1159303233,
     "wof:placetype":"localadmin",

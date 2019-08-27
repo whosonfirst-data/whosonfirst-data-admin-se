@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006687,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":46251248.903014,
     "geom:bbox":"14.0930091122,55.934370899,14.2362079849,56.0474235972",
     "geom:latitude":55.986797,
     "geom:longitude":14.162452,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":6134,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":6134,
     "iso:country":"SE",
     "lbl:latitude":55.984372,
     "lbl:longitude":14.161368,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":55.984372,
     "mps:longitude":14.161368,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Norra asum"
@@ -48,7 +50,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":1125423223,
-    "wof:lastmodified":1529702630,
+    "wof:lastmodified":1566642741,
     "wof:name":"Norra asum",
     "wof:parent_id":1159303497,
     "wof:placetype":"localadmin",

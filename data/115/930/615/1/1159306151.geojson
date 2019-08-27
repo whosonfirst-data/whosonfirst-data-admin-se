@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006606,
+    "geom:area_square_m":43382583.99086,
     "geom:bbox":"12.1904512978,57.8822758349,12.3124162693,57.9656856655",
     "geom:latitude":57.922186,
     "geom:longitude":12.252846,
     "iso:country":"SE",
     "lbl:latitude":57.917222,
     "lbl:longitude":12.245553,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":57.917222,
     "mps:longitude":12.245553,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kilanda"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159306151,
-    "wof:lastmodified":1529702130,
+    "wof:lastmodified":1566643311,
     "wof:name":"Kilanda",
     "wof:parent_id":1159303087,
     "wof:placetype":"localadmin",

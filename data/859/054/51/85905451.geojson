@@ -11,8 +11,10 @@
     "geom:longitude":18.291444,
     "gn:id":"",
     "iso:country":"SE",
+    "lbl:bbox":"18.286444,59.479059,18.296444,59.489059",
     "lbl:latitude":59.484059,
     "lbl:longitude":18.291444,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.488545,
     "mps:longitude":18.276004,
     "mz:hierarchy_label":0,
@@ -40,9 +42,6 @@
         "Runo"
     ],
     "name:swe_x_preferred":[
-        "Runo"
-    ],
-    "name:unk_x_variant":[
         "Runo"
     ],
     "qs:gn_adm0_cc":"SE",
@@ -73,7 +72,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":32,
     "wof:belongsto":[
         102191581,
@@ -86,7 +85,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20151555,
-        "qs:id":1120969,
         "qs_pg:id":1120969,
         "wd:id":"Q15558483"
     },
@@ -107,7 +105,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563366544,
+    "wof:lastmodified":1566640606,
     "wof:name":"Runo",
     "wof:parent_id":101815899,
     "wof:placetype":"neighbourhood",

@@ -14,6 +14,7 @@
     "iso:country":"SE",
     "lbl:latitude":59.381807,
     "lbl:longitude":17.894363,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.375855,
     "mps:longitude":17.913604,
     "mz:hierarchy_label":1,
@@ -54,9 +55,6 @@
     "name:swe_x_variant":[
         "Sp\u00e5nga socken"
     ],
-    "name:unk_x_variant":[
-        "Sp\u00e5nga"
-    ],
     "name:zho_x_preferred":[
         "\u65af\u6f58\u52a0"
     ],
@@ -87,7 +85,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":123,
     "wof:belongsto":[
         102191581,
@@ -101,7 +99,6 @@
     "wof:concordances":{
         "gn:id":2674908,
         "gp:id":905582,
-        "qs:id":186112,
         "qs_pg:id":186112,
         "wd:id":"Q7581833"
     },
@@ -122,7 +119,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563366534,
+    "wof:lastmodified":1566640599,
     "wof:name":"Sp\u00e5nga",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

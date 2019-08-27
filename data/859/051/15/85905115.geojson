@@ -14,6 +14,7 @@
     "iso:country":"SE",
     "lbl:latitude":57.705246,
     "lbl:longitude":11.899716,
+    "lbl:max_zoom":18.0,
     "mps:latitude":57.704881,
     "mps:longitude":11.902851,
     "mz:hierarchy_label":1,
@@ -68,9 +69,6 @@
     "name:swe_x_variant":[
         "Bracke"
     ],
-    "name:unk_x_variant":[
-        "Br\u00e4ck"
-    ],
     "qs:gn_adm0_cc":"SE",
     "qs:gn_fcode":"PPL",
     "qs:gn_local":2711537,
@@ -112,7 +110,6 @@
     "wof:concordances":{
         "gn:id":3238084,
         "gp:id":20150874,
-        "qs:id":230022,
         "qs_pg:id":230022
     },
     "wof:country":"SE",
@@ -132,7 +129,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1566247554,
+    "wof:lastmodified":1566640664,
     "wof:name":"Bracke",
     "wof:parent_id":101752295,
     "wof:placetype":"neighbourhood",

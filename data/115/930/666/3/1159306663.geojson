@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007508,
+    "geom:area_square_m":52021936.991872,
     "geom:bbox":"13.1037648141,55.8851285702,13.2987839787,55.9637710315",
     "geom:latitude":55.921072,
     "geom:longitude":13.195835,
     "iso:country":"SE",
     "lbl:latitude":55.924095,
     "lbl:longitude":13.179583,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.924095,
     "mps:longitude":13.179583,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Torrlosa"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159306663,
-    "wof:lastmodified":1529702610,
+    "wof:lastmodified":1566643222,
     "wof:name":"Torrlosa",
     "wof:parent_id":1159303189,
     "wof:placetype":"localadmin",

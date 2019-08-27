@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.056521,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":308987726.576994,
     "geom:bbox":"19.8166902392,63.6275724092,20.3271010569,63.8534985101",
     "geom:latitude":63.761358,
     "geom:longitude":20.096453,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":16271,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":16271,
     "iso:country":"SE",
     "lbl:latitude":63.785981,
     "lbl:longitude":20.07514,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":63.785981,
     "mps:longitude":20.07514,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Teg"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125372493,
-    "wof:lastmodified":1529702964,
+    "wof:lastmodified":1566642814,
     "wof:name":"Teg",
     "wof:parent_id":1159303017,
     "wof:placetype":"localadmin",

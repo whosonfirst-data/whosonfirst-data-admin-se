@@ -24,10 +24,13 @@
     ],
     "lbl:latitude":56.615701,
     "lbl:longitude":15.527654,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":56.615701,
     "mps:longitude":15.527654,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bul_x_preferred":[
         "\u0415\u043c\u0430\u0431\u0443\u0434\u0430"
     ],
@@ -91,7 +94,7 @@
     "se-lant:lanskod":8,
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":1159303533,
-    "wof:lastmodified":1564165485,
+    "wof:lastmodified":1566643153,
     "wof:name":"Emmaboda",
     "wof:parent_id":85688401,
     "wof:placetype":"county",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002668,
+    "geom:area_square_m":17310496.485941,
     "geom:bbox":"12.9486727823,58.3154584796,13.0443926328,58.3762068058",
     "geom:latitude":58.344645,
     "geom:longitude":12.997748,
     "iso:country":"SE",
     "lbl:latitude":58.342476,
     "lbl:longitude":12.996243,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":58.342476,
     "mps:longitude":12.996243,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Uvered"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159306333,
-    "wof:lastmodified":1529702111,
+    "wof:lastmodified":1566643199,
     "wof:name":"Uvered",
     "wof:parent_id":1159303281,
     "wof:placetype":"localadmin",

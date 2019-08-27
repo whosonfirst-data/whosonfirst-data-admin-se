@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000079,
+    "geom:area_square_m":507351.52025,
     "geom:bbox":"11.3196571345,58.4845309416,11.3436816869,58.4917909532",
     "geom:latitude":58.4883,
     "geom:longitude":11.331358,
     "iso:country":"SE",
     "lbl:latitude":58.488977,
     "lbl:longitude":11.33336,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":58.488977,
     "mps:longitude":11.33336,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Sverige",
     "qs:a1":"*V\u00e4stra G\u00f6talands l\u00e4n",
     "qs:a1r":"3",
@@ -31,7 +35,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688411,
         102191581,
@@ -42,7 +46,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20151573,
-        "qs:id":986089,
         "qs_pg:id":986089
     },
     "wof:country":"SE",
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":101911345,
-    "wof:lastmodified":1529702235,
+    "wof:lastmodified":1566642257,
     "wof:name":"Saltebro",
     "wof:parent_id":1125270949,
     "wof:placetype":"locality",

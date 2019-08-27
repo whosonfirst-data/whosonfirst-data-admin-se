@@ -24,10 +24,13 @@
     ],
     "lbl:latitude":68.233397,
     "lbl:longitude":20.8947,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":68.233397,
     "mps:longitude":20.8947,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0643\u064a\u0631\u0648\u0646\u0627"
     ],
@@ -205,7 +208,7 @@
     "se-lant:lanskod":25,
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -225,7 +228,7 @@
         }
     ],
     "wof:id":1159302945,
-    "wof:lastmodified":1564165551,
+    "wof:lastmodified":1566643215,
     "wof:name":"Kiruna",
     "wof:parent_id":85688471,
     "wof:placetype":"county",

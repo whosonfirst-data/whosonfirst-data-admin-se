@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002748,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":19181747.3544,
     "geom:bbox":"13.0228485617,55.6040723127,13.1365213628,55.6661166147",
     "geom:latitude":55.633329,
     "geom:longitude":13.094812,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":16230,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":16230,
     "iso:country":"SE",
     "lbl:latitude":55.630156,
     "lbl:longitude":13.090944,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":55.630156,
     "mps:longitude":13.090944,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Burlov"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125395797,
-    "wof:lastmodified":1529702633,
+    "wof:lastmodified":1566642849,
     "wof:name":"Burlov",
     "wof:parent_id":1159303213,
     "wof:placetype":"localadmin",

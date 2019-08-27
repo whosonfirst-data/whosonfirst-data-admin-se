@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002004,
+    "geom:area_square_m":14081374.561953,
     "geom:bbox":"13.0106959438,55.3597632494,13.0998024872,55.4016017662",
     "geom:latitude":55.381076,
     "geom:longitude":13.059762,
     "iso:country":"SE",
     "lbl:latitude":55.379937,
     "lbl:longitude":13.059764,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.379937,
     "mps:longitude":13.059764,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Maglarp"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159306853,
-    "wof:lastmodified":1529702614,
+    "wof:lastmodified":1566643304,
     "wof:name":"Maglarp",
     "wof:parent_id":1159303309,
     "wof:placetype":"localadmin",

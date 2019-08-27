@@ -24,10 +24,13 @@
     ],
     "lbl:latitude":66.383958,
     "lbl:longitude":17.239095,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":66.383958,
     "mps:longitude":17.239095,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bul_x_preferred":[
         "\u0410\u0440\u0439\u0435\u043f\u043b\u043e\u0433"
     ],
@@ -103,7 +106,7 @@
     "se-lant:lanskod":25,
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":1159303049,
-    "wof:lastmodified":1564165622,
+    "wof:lastmodified":1566643272,
     "wof:name":"Arjeplog",
     "wof:parent_id":85688471,
     "wof:placetype":"county",

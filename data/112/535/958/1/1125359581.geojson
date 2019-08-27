@@ -9,17 +9,19 @@
     "geom:bbox":"12.3549415177,63.397036743,13.5282101912,64.0953667892",
     "geom:latitude":63.753027,
     "geom:longitude":13.023171,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":564,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":564,
     "iso:country":"SE",
     "lbl:latitude":63.775139,
     "lbl:longitude":13.032152,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":63.775139,
     "mps:longitude":13.032152,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Kall"
@@ -60,7 +62,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -86,7 +88,7 @@
         }
     ],
     "wof:id":1125359581,
-    "wof:lastmodified":1564164945,
+    "wof:lastmodified":1566642454,
     "wof:name":"Kall",
     "wof:parent_id":1159303387,
     "wof:placetype":"localadmin",

@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001394,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":8781863.039539,
     "geom:bbox":"17.9276750637,59.3552023037,17.9849754377,59.4018013689",
     "geom:latitude":59.378255,
     "geom:longitude":17.960231,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":36079,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":36079,
     "iso:country":"SE",
     "lbl:latitude":59.37648,
     "lbl:longitude":17.959811,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":59.37648,
     "mps:longitude":17.959811,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Sundbyberg"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125283865,
-    "wof:lastmodified":1529702730,
+    "wof:lastmodified":1566642648,
     "wof:name":"Sundbyberg",
     "wof:parent_id":1159303289,
     "wof:placetype":"localadmin",

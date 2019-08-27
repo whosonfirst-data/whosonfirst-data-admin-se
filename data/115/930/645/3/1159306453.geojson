@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003956,
+    "geom:area_square_m":25589869.756498,
     "geom:bbox":"13.3018118234,58.4320319361,13.4370609581,58.4842360394",
     "geom:latitude":58.456768,
     "geom:longitude":13.362016,
     "iso:country":"SE",
     "lbl:latitude":58.461235,
     "lbl:longitude":13.359012,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":58.461235,
     "mps:longitude":13.359012,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Hangelosa"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159306453,
-    "wof:lastmodified":1529702138,
+    "wof:lastmodified":1566643187,
     "wof:name":"Hangelosa",
     "wof:parent_id":1159302923,
     "wof:placetype":"localadmin",

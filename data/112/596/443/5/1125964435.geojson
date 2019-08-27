@@ -9,14 +9,18 @@
     "geom:bbox":"15.33333,59.31667,15.33333,59.31667",
     "geom:latitude":59.31667,
     "geom:longitude":15.33333,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"SE",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"SE",
+    "lbl:bbox":"15.31333,59.29667,15.35333,59.33667",
     "lbl:latitude":59.31667,
     "lbl:longitude":15.33333,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:dan_x_preferred":[
         "Rinkaby"
@@ -45,9 +49,6 @@
     "name:swe_x_preferred":[
         "Rinkaby"
     ],
-    "name:unk_x_variant":[
-        "Rinkaby"
-    ],
     "qs_pg:aaroncc":"SE",
     "qs_pg:gn_country":"SE",
     "qs_pg:gn_fcode":"PPL",
@@ -69,7 +70,7 @@
     "qs_pg:woe_adm0":23424954,
     "qs_pg:woe_id":902439,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424954,
     "woe:name_adm0":"Sverige",
     "woe:name_adm1":"\u00d6rebro L\u00e4n",
@@ -102,7 +103,7 @@
         }
     ],
     "wof:id":1125964435,
-    "wof:lastmodified":1561840048,
+    "wof:lastmodified":1566642968,
     "wof:name":"Ringkarleby",
     "wof:parent_id":1159307403,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"SE",
     "lbl:latitude":56.912431,
     "lbl:longitude":12.43635,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":56.912431,
     "mps:longitude":12.43635,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Skogstorp"
     ],
@@ -59,7 +62,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688391,
         102191581,
@@ -72,7 +75,6 @@
         "fct:id":"06d2a890-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2677375,
         "gp:id":904506,
-        "qs:id":43793,
         "qs_pg:id":43793,
         "wd:id":"Q1937699",
         "wk:page":"Skogstorp, Falkenberg Municipality"
@@ -93,7 +95,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368892,
+    "wof:lastmodified":1566642238,
     "wof:name":"Skogstorp",
     "wof:parent_id":1125325505,
     "wof:placetype":"locality",

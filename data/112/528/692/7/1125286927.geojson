@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000271,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":1748297.164435,
     "geom:bbox":"16.1709283612,58.5772388173,16.2010723726,58.5913635751",
     "geom:latitude":58.584553,
     "geom:longitude":16.184954,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":12092,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":12092,
     "iso:country":"SE",
     "lbl:latitude":58.585227,
     "lbl:longitude":16.187969,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":58.585227,
     "mps:longitude":16.187969,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Norrkopings Sankt Olai"
@@ -48,7 +50,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":1125286927,
-    "wof:lastmodified":1529703101,
+    "wof:lastmodified":1566642609,
     "wof:name":"Norrkopings Sankt Olai",
     "wof:parent_id":1159303229,
     "wof:placetype":"localadmin",

@@ -9,17 +9,19 @@
     "geom:bbox":"13.1482405102,59.349846816,13.3396278106,59.5029878819",
     "geom:latitude":59.431983,
     "geom:longitude":13.23339,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":5148,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":5148,
     "iso:country":"SE",
     "lbl:latitude":59.441525,
     "lbl:longitude":13.234877,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":59.441525,
     "mps:longitude":13.234877,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ces_x_preferred":[
         "Nor"
@@ -63,7 +65,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -89,7 +91,7 @@
         }
     ],
     "wof:id":1125286835,
-    "wof:lastmodified":1564165092,
+    "wof:lastmodified":1566642634,
     "wof:name":"Nor",
     "wof:parent_id":1159303443,
     "wof:placetype":"localadmin",

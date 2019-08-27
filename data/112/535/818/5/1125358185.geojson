@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005434,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":35528294.784318,
     "geom:bbox":"13.2956773632,58.0467761832,13.4656655208,58.1059187083",
     "geom:latitude":58.076064,
     "geom:longitude":13.378146,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":372,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":372,
     "iso:country":"SE",
     "lbl:latitude":58.08163,
     "lbl:longitude":13.390993,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":58.08163,
     "mps:longitude":13.390993,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Grolanda"
@@ -48,7 +50,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":1125358185,
-    "wof:lastmodified":1529702210,
+    "wof:lastmodified":1566642431,
     "wof:name":"Grolanda",
     "wof:parent_id":1159303137,
     "wof:placetype":"localadmin",

@@ -27,6 +27,7 @@
     ],
     "lbl:latitude":67.032873,
     "lbl:longitude":21.043759,
+    "lbl:min_zoom":8.0,
     "mps:latitude":67.032873,
     "mps:longitude":21.043759,
     "mz:hierarchy_label":1,
@@ -295,7 +296,7 @@
         "Norrbottens l\u00e4n"
     ],
     "name:tam_x_preferred":[
-        "\u0ba8\u0bcb\u0bb1\u0bcd\u0bb1\u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bc7\u0ba9\u0bcd  \u0b95\u0bb5\u0bc1\u0ba3\u0bcd\u0b9f\u0bbf"
+        "\u0ba8\u0bcb\u0bb1\u0bcd\u0bb1\u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bc7\u0ba9\u0bcd \u0b95\u0bb5\u0bc1\u0ba3\u0bcd\u0b9f\u0bbf"
     ],
     "name:tel_x_preferred":[
         "\u0c28\u0c3e\u0c30\u0c4d\u0c2c\u0c4b\u0c1f\u0c46\u0c28\u0c4d \u0c15\u0c4c\u0c02\u0c1f\u0c40"
@@ -308,9 +309,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041d\u043e\u0440\u0440\u0431\u043e\u0442\u0442\u0435\u043d"
-    ],
-    "name:unk_x_variant":[
-        "Norbotten"
     ],
     "name:urd_x_preferred":[
         "\u0646\u0648\u0631\u0628\u0648\u062a\u0646 \u06a9\u0627\u0624\u0646\u0679\u06cc"
@@ -403,9 +401,9 @@
     "qs:type":"L\u00e4n",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-12-31",
+    "src:population_date":"2006-12-31",
     "statoids:area_km":"106,012",
     "statoids:area_mi":"40,931",
     "statoids:as_of_date":"2006-12-31",
@@ -451,11 +449,10 @@
         "swe",
         "fin"
     ],
-    "wof:lastmodified":1565736367,
+    "wof:lastmodified":1566640673,
     "wof:name":"Norrbotten",
     "wof:parent_id":85633789,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"county",
     "wof:population":251886,
     "wof:population_rank":10,

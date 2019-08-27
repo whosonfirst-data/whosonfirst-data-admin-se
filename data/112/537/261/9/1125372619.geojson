@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004169,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":29234423.563277,
     "geom:bbox":"13.2548790198,55.414683196,13.3477593365,55.4830576132",
     "geom:latitude":55.44786,
     "geom:longitude":13.305491,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":3211,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":3211,
     "iso:country":"SE",
     "lbl:latitude":55.446507,
     "lbl:longitude":13.309246,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":55.446507,
     "mps:longitude":13.309246,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Anderslov"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125372619,
-    "wof:lastmodified":1529702625,
+    "wof:lastmodified":1566642791,
     "wof:name":"Anderslov",
     "wof:parent_id":1159303309,
     "wof:placetype":"localadmin",

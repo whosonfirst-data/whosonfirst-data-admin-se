@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009686,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":63839032.542078,
     "geom:bbox":"13.4420534644,57.7295970798,13.5949659582,57.8441805408",
     "geom:latitude":57.791453,
     "geom:longitude":13.524904,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":795,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":795,
     "iso:country":"SE",
     "lbl:latitude":57.792037,
     "lbl:longitude":13.517392,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":57.792037,
     "mps:longitude":13.517392,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Hossna"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125326161,
-    "wof:lastmodified":1529702193,
+    "wof:lastmodified":1566642495,
     "wof:name":"Hossna",
     "wof:parent_id":1159303161,
     "wof:placetype":"localadmin",

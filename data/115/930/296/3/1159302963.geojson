@@ -24,10 +24,13 @@
     ],
     "lbl:latitude":60.474225,
     "lbl:longitude":17.820938,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":60.474225,
     "mps:longitude":17.820938,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bul_x_preferred":[
         "\u0422\u0438\u0435\u0440\u043f"
     ],
@@ -94,7 +97,7 @@
     "se-lant:lanskod":3,
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":1159302963,
-    "wof:lastmodified":1564165684,
+    "wof:lastmodified":1566643332,
     "wof:name":"Tierp",
     "wof:parent_id":85688439,
     "wof:placetype":"county",

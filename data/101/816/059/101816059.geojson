@@ -12,10 +12,13 @@
     "iso:country":"SE",
     "lbl:latitude":59.949097,
     "lbl:longitude":17.538373,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":59.949097,
     "mps:longitude":17.538373,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0411\u0435\u043b\u0438\u043d\u0433\u0435"
     ],
@@ -67,9 +70,6 @@
         "B\u00e4lingebys",
         "B\u00e4linges"
     ],
-    "name:unk_x_variant":[
-        "B\u00e4lingeby"
-    ],
     "qs:a0":"Sverige",
     "qs:a1":"*Uppsala l\u00e4n",
     "qs:a1r":"0",
@@ -86,7 +86,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":32,
     "wof:belongsto":[
         85688439,
@@ -100,7 +100,6 @@
         "fct:id":"06d03cd6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2723655,
         "gp:id":885811,
-        "qs:id":1036386,
         "qs_pg:id":1036386,
         "wd:id":"Q2333236"
     },
@@ -120,7 +119,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368710,
+    "wof:lastmodified":1566642173,
     "wof:name":"B\u00e4linge",
     "wof:parent_id":1125288087,
     "wof:placetype":"locality",

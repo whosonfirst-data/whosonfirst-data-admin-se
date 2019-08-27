@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007074,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":44782682.924873,
     "geom:bbox":"15.1776298974,59.1716395185,15.3565965094,59.2359792905",
     "geom:latitude":59.204449,
     "geom:longitude":15.256294,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":2261,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":2261,
     "iso:country":"SE",
     "lbl:latitude":59.205905,
     "lbl:longitude":15.256299,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":59.205905,
     "mps:longitude":15.256299,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Gallersta"
@@ -48,7 +50,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":1125372571,
-    "wof:lastmodified":1529703049,
+    "wof:lastmodified":1566642789,
     "wof:name":"Gallersta",
     "wof:parent_id":1159303031,
     "wof:placetype":"localadmin",

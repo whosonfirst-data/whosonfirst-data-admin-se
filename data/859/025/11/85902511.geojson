@@ -15,6 +15,7 @@
     "iso:country":"SE",
     "lbl:latitude":59.335675,
     "lbl:longitude":17.680723,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.335736,
     "mps:longitude":17.683359,
     "mz:hierarchy_label":1,
@@ -65,9 +66,6 @@
     "name:swe_x_preferred":[
         "Stenhamra"
     ],
-    "name:unk_x_variant":[
-        "Stenhamra"
-    ],
     "qs:gn_adm0_cc":"SE",
     "qs:gn_fcode":"PPL",
     "qs:gn_local":2673730,
@@ -95,7 +93,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -109,7 +107,6 @@
     "wof:concordances":{
         "gn:id":2674209,
         "gp:id":905887,
-        "qs:id":1169382,
         "qs_pg:id":1169382,
         "wd:id":"Q2524833",
         "wk:page":"Stenhamra"
@@ -131,7 +128,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563366535,
+    "wof:lastmodified":1566640599,
     "wof:name":"Stenhamra",
     "wof:parent_id":101815907,
     "wof:placetype":"neighbourhood",

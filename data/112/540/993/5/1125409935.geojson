@@ -9,17 +9,19 @@
     "geom:bbox":"13.765578049,55.4140923079,13.9213556052,55.4493979621",
     "geom:latitude":55.431635,
     "geom:longitude":13.836815,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":17796,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":17796,
     "iso:country":"SE",
     "lbl:latitude":55.431306,
     "lbl:longitude":13.836832,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":55.431306,
     "mps:longitude":13.836832,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u064a\u0633\u062a\u0627\u062f"
@@ -180,7 +182,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -206,7 +208,7 @@
         }
     ],
     "wof:id":1125409935,
-    "wof:lastmodified":1564165421,
+    "wof:lastmodified":1566643072,
     "wof:name":"Ystad",
     "wof:parent_id":1159303233,
     "wof:placetype":"localadmin",

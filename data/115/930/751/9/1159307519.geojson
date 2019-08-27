@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034096,
+    "geom:area_square_m":215162503.94023,
     "geom:bbox":"12.4498642891,59.2036115327,12.729905425,59.4153210593",
     "geom:latitude":59.312994,
     "geom:longitude":12.584932,
     "iso:country":"SE",
     "lbl:latitude":59.321035,
     "lbl:longitude":12.584971,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":59.321035,
     "mps:longitude":12.584971,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Langserud"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159307519,
-    "wof:lastmodified":1529702918,
+    "wof:lastmodified":1566643278,
     "wof:name":"Langserud",
     "wof:parent_id":1159303169,
     "wof:placetype":"localadmin",

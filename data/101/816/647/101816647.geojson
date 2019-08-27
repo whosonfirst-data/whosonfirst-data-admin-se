@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":56.254244,
     "lbl:longitude":15.620635,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":56.254244,
     "mps:longitude":15.620635,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "R\u00f6deby"
     ],
@@ -90,7 +93,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":45,
     "wof:belongsto":[
@@ -105,7 +108,6 @@
         "fct:id":"06d0f824-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2682155,
         "gp:id":902601,
-        "qs:id":459620,
         "qs_pg:id":459620,
         "wd:id":"Q1799716",
         "wk:page":"R\u00f6deby"
@@ -126,7 +128,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368695,
+    "wof:lastmodified":1566642167,
     "wof:name":"R\u00f6deby",
     "wof:parent_id":1125345191,
     "wof:placetype":"locality",

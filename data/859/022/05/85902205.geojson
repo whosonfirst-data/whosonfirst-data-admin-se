@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000217,
-    "geom:area_square_m":1369584.11606,
+    "geom:area_square_m":1369584.116059,
     "geom:bbox":"17.9831942964,59.3737905843,18.0120849609,59.3852816176",
     "geom:latitude":59.3795,
     "geom:longitude":17.998478,
@@ -14,6 +14,7 @@
     "iso:country":"SE",
     "lbl:latitude":59.383535,
     "lbl:longitude":17.988549,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.379387,
     "mps:longitude":17.998474,
     "mz:hierarchy_label":1,
@@ -31,9 +32,6 @@
         "Jarva"
     ],
     "name:swe_x_preferred":[
-        "J\u00e4rva"
-    ],
-    "name:unk_x_variant":[
         "J\u00e4rva"
     ],
     "qs:gn_adm0_cc":"SE",
@@ -63,20 +61,19 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85688429,
         102191581,
         1125362217,
         85633789,
         101752307,
-        1159303035
+        1159303035,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2703166,
         "gp:id":894364,
-        "qs:id":185824,
         "qs_pg:id":185824
     },
     "wof:country":"SE",
@@ -96,7 +93,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702783,
+    "wof:lastmodified":1566640591,
     "wof:name":"J\u00e4rvastaden",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":13200274.514886,
+    "geom:area_square_m":0.0,
     "geom:bbox":"17.705457,59.288461,17.705457,59.288461",
     "geom:latitude":59.288461,
     "geom:longitude":17.705457,
     "gn:latitude":59.28333,
     "gn:longitude":17.71667,
     "iso:country":"SE",
+    "lbl:bbox":"17.700457,59.283461,17.710457,59.293461",
     "lbl:latitude":59.288461,
     "lbl:longitude":17.705457,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.293937,
     "mps:longitude":17.716277,
     "mz:hierarchy_label":0,
@@ -34,9 +36,6 @@
     ],
     "name:swe_x_variant":[
         "N\u00e4rst"
-    ],
-    "name:unk_x_variant":[
-        "N\u00e4rsta"
     ],
     "qs:gn_adm0_cc":"SE",
     "qs:gn_fcode":"PPL",
@@ -67,7 +66,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         1125409971,
@@ -79,7 +78,6 @@
     "wof:concordances":{
         "gn:id":2690418,
         "gp:id":899053,
-        "qs:id":1167710,
         "qs_pg:id":1167710
     },
     "wof:country":"SE",
@@ -99,7 +97,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1531935878,
+    "wof:lastmodified":1566640585,
     "wof:name":"N\u00e4rsta",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

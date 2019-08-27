@@ -13,6 +13,7 @@
     "iso:country":"SE",
     "lbl:latitude":59.323208,
     "lbl:longitude":18.071984,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.323211,
     "mps:longitude":18.072648,
     "mz:hierarchy_label":1,
@@ -132,9 +133,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0442\u0430\u0440\u0435 \u043c\u0456\u0441\u0442\u043e"
     ],
-    "name:unk_x_variant":[
-        "Staden Mellan Broarna"
-    ],
     "name:zho_x_preferred":[
         "\u65af\u5fb7\u54e5\u723e\u6469\u8001\u57ce"
     ],
@@ -164,7 +162,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":2743,
     "wof:belongsto":[
         102191581,
@@ -177,7 +175,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":905687,
-        "qs:id":1097774,
         "qs_pg:id":1097774,
         "wd:id":"Q579854"
     },
@@ -198,7 +195,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563366537,
+    "wof:lastmodified":1566640601,
     "wof:name":"Gamla Stan",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

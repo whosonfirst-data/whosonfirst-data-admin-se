@@ -9,17 +9,19 @@
     "geom:bbox":"13.1594888339,60.1752048067,14.0204617722,60.8673467567",
     "geom:latitude":60.608989,
     "geom:longitude":13.680379,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":7025,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":7025,
     "iso:country":"SE",
     "lbl:latitude":60.632345,
     "lbl:longitude":13.673858,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":60.632345,
     "mps:longitude":13.673858,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0645\u0627\u0644\u0648\u0646\u0643"
@@ -99,7 +101,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -125,7 +127,7 @@
         }
     ],
     "wof:id":1125382181,
-    "wof:lastmodified":1564165290,
+    "wof:lastmodified":1566642897,
     "wof:name":"Malung",
     "wof:parent_id":1159303431,
     "wof:placetype":"localadmin",

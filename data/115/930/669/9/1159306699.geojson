@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015688,
+    "geom:area_square_m":98931453.828472,
     "geom:bbox":"15.7411948552,59.1979192262,15.9505328846,59.4579241641",
     "geom:latitude":59.335578,
     "geom:longitude":15.846589,
     "iso:country":"SE",
     "lbl:latitude":59.244652,
     "lbl:longitude":15.85206,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":59.244652,
     "mps:longitude":15.85206,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Arboga landsdistrikt"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159306699,
-    "wof:lastmodified":1529702835,
+    "wof:lastmodified":1566643206,
     "wof:name":"Arboga landsdistrikt",
     "wof:parent_id":1159303195,
     "wof:placetype":"localadmin",

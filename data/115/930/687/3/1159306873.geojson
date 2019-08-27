@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001789,
+    "geom:area_square_m":12389374.169187,
     "geom:bbox":"12.7432562768,55.9270423489,12.8358231948,55.9639339636",
     "geom:latitude":55.947168,
     "geom:longitude":12.792765,
     "iso:country":"SE",
     "lbl:latitude":55.944408,
     "lbl:longitude":12.792065,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.944408,
     "mps:longitude":12.792065,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Glumslov"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159306873,
-    "wof:lastmodified":1529702614,
+    "wof:lastmodified":1566643192,
     "wof:name":"Glumslov",
     "wof:parent_id":1159303531,
     "wof:placetype":"localadmin",

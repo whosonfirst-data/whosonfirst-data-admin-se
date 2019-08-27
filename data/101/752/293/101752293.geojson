@@ -13,6 +13,8 @@
     "iso:country":"SE",
     "lbl:latitude":57.724126,
     "lbl:longitude":12.94213,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":57.724126,
     "mps:longitude":12.94213,
     "mz:hierarchy_label":1,
@@ -251,7 +253,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0443\u0440\u043e\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Celfsborg"
     ],
     "name:urd_x_preferred":[
@@ -377,7 +379,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1236,
     "wof:belongsto":[
@@ -392,7 +394,6 @@
         "fct:id":"06d20052-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2720501,
         "gp:id":887229,
-        "qs:id":141231,
         "qs_pg:id":141231,
         "wd:id":"Q26040",
         "wk:page":"Bor\u00e5s"
@@ -413,7 +414,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368578,
+    "wof:lastmodified":1566642129,
     "wof:name":"Bor\u00e5s",
     "wof:parent_id":1125340375,
     "wof:placetype":"locality",

@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023673,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":131955839.299145,
     "geom:bbox":"14.7173841694,63.1417701081,15.2042166264,63.2691865519",
     "geom:latitude":63.206122,
     "geom:longitude":14.92136,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":286,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":286,
     "iso:country":"SE",
     "lbl:latitude":63.210267,
     "lbl:longitude":14.904937,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":63.210267,
     "mps:longitude":14.904937,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Kyrkas"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125356379,
-    "wof:lastmodified":1529702371,
+    "wof:lastmodified":1566642469,
     "wof:name":"Kyrkas",
     "wof:parent_id":1159303231,
     "wof:placetype":"localadmin",

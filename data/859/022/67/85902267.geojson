@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000324,
-    "geom:area_square_m":2045526.511536,
+    "geom:area_square_m":2045526.511537,
     "geom:bbox":"17.9736328125,59.2645968287,17.9970391526,59.2884291214",
     "geom:latitude":59.277935,
     "geom:longitude":17.986637,
@@ -14,6 +14,7 @@
     "iso:country":"SE",
     "lbl:latitude":59.280334,
     "lbl:longitude":17.983511,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.278332,
     "mps:longitude":17.986811,
     "mz:hierarchy_label":1,
@@ -31,9 +32,6 @@
         "Langbro"
     ],
     "name:swe_x_preferred":[
-        "L\u00e5ngbro"
-    ],
-    "name:unk_x_variant":[
         "L\u00e5ngbro"
     ],
     "qs:gn_adm0_cc":"SE",
@@ -63,20 +61,19 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85688429,
         102191581,
         1125362217,
         85633789,
         101752307,
-        1159303035
+        1159303035,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2697569,
         "gp:id":896587,
-        "qs:id":315512,
         "qs_pg:id":315512
     },
     "wof:country":"SE",
@@ -96,7 +93,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702785,
+    "wof:lastmodified":1566640590,
     "wof:name":"L\u00e5ngbro",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

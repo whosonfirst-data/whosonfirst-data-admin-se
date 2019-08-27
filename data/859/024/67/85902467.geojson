@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":23569050.096445,
+    "geom:area_square_m":0.0,
     "geom:bbox":"17.306654,62.389403,17.306654,62.389403",
     "geom:latitude":62.389403,
     "geom:longitude":17.306654,
     "gn:latitude":62.37889,
     "gn:longitude":17.34056,
     "iso:country":"SE",
+    "lbl:bbox":"17.301654,62.384403,17.311654,62.394403",
     "lbl:latitude":62.389403,
     "lbl:longitude":17.306654,
+    "lbl:max_zoom":18.0,
     "mps:latitude":62.384689,
     "mps:longitude":17.302191,
     "mz:hierarchy_label":0,
@@ -36,9 +38,6 @@
         "Skonsmon"
     ],
     "name:swe_x_preferred":[
-        "Sk\u00f6nsmon"
-    ],
-    "name:unk_x_variant":[
         "Sk\u00f6nsmon"
     ],
     "qs:gn_adm0_cc":"SE",
@@ -70,20 +69,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85688457,
         102191581,
         1125286909,
         85633789,
         101814789,
-        1159303427
+        1159303427,
+        85688457
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2677303,
         "gp:id":904535,
-        "qs:id":315740,
         "qs_pg:id":315740
     },
     "wof:country":"SE",
@@ -103,7 +101,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1531935895,
+    "wof:lastmodified":1566640575,
     "wof:name":"Sk\u00f6nsmon",
     "wof:parent_id":101814789,
     "wof:placetype":"neighbourhood",

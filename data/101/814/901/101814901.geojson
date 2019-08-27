@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":65.57441,
     "lbl:longitude":22.108633,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":65.57441,
     "mps:longitude":22.108633,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0411\u0435\u0440\u0438\u043d\u0435\u0441\u0435\u0442"
     ],
@@ -81,7 +84,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":49,
     "wof:belongsto":[
@@ -96,7 +99,6 @@
         "fct:id":"06c649ba-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":606649,
         "gp:id":886207,
-        "qs:id":550253,
         "qs_pg:id":550253,
         "wd:id":"Q820082",
         "wk:page":"Bergn\u00e4set"
@@ -117,7 +119,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368900,
+    "wof:lastmodified":1566642241,
     "wof:name":"Bergn\u00e4set",
     "wof:parent_id":1125373623,
     "wof:placetype":"locality",

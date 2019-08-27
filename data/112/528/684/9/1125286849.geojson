@@ -9,17 +9,19 @@
     "geom:bbox":"13.6174176543,59.8924521105,13.9078858904,60.071729846",
     "geom:latitude":59.977975,
     "geom:longitude":13.734086,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":6255,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":6255,
     "iso:country":"SE",
     "lbl:latitude":59.977274,
     "lbl:longitude":13.709987,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":59.977274,
     "mps:longitude":13.709987,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0647\u0627\u063a\u0641\u0648\u0631\u0633"
@@ -123,7 +125,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -149,7 +151,7 @@
         }
     ],
     "wof:id":1125286849,
-    "wof:lastmodified":1564165091,
+    "wof:lastmodified":1566642633,
     "wof:name":"Hagfors",
     "wof:parent_id":1159303063,
     "wof:placetype":"localadmin",

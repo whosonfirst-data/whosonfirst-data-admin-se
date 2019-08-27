@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Stockholm",
     "iso:country":"SE",
+    "lbl:bbox":"13.39667,58.09667,13.43667,58.13667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633789
@@ -35,7 +39,7 @@
         "gn:id":2699852
     },
     "wof:country":"SE",
-    "wof:geomhash":"4ba358521a1fd086960403e92ce95550",
+    "wof:geomhash":"94b530cdf86221df669c0f3844e48d63",
     "wof:hierarchy":[
         {
             "country_id":85633789,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209376105,
-    "wof:lastmodified":1536288945,
+    "wof:lastmodified":1566641357,
     "wof:name":"Kommevalla",
     "wof:parent_id":85633789,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    13.416670000000002,
+    13.41667,
     58.11666999999999,
-    13.416670000000002,
+    13.41667,
     58.11666999999999
 ],
   "geometry": {"coordinates":[13.41667,58.11666999999999],"type":"Point"}

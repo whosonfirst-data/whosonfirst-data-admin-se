@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019863,
+    "geom:area_square_m":124213829.453352,
     "geom:bbox":"15.8365091749,59.5533565436,16.0614303863,59.7130260751",
     "geom:latitude":59.619863,
     "geom:longitude":15.959893,
     "iso:country":"SE",
     "lbl:latitude":59.610901,
     "lbl:longitude":15.986303,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":59.610901,
     "mps:longitude":15.986303,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Odensvi"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159307443,
-    "wof:lastmodified":1529703025,
+    "wof:lastmodified":1566643353,
     "wof:name":"Odensvi",
     "wof:parent_id":1159303439,
     "wof:placetype":"localadmin",

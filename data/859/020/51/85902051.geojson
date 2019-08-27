@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":15511410.701672,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.930851,57.718138,12.930851,57.718138",
     "geom:latitude":57.718138,
     "geom:longitude":12.930851,
     "gn:latitude":57.73333,
     "gn:longitude":12.9,
     "iso:country":"SE",
+    "lbl:bbox":"12.925851,57.713138,12.935851,57.723138",
     "lbl:latitude":57.718138,
     "lbl:longitude":12.930851,
+    "lbl:max_zoom":18.0,
     "mps:latitude":57.716019,
     "mps:longitude":12.939131,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
     "name:swe_x_preferred":[
-        "Byttorp"
-    ],
-    "name:unk_x_variant":[
         "Byttorp"
     ],
     "qs:gn_adm0_cc":"SE",
@@ -60,14 +59,14 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85688411,
         102191581,
         1125340375,
         85633789,
         101752293,
-        1159303073
+        1159303073,
+        85688411
     ],
     "wof:breaches":[
         85902167
@@ -75,7 +74,6 @@
     "wof:concordances":{
         "gn:id":2718412,
         "gp:id":888111,
-        "qs:id":1083422,
         "qs_pg:id":1083422
     },
     "wof:country":"SE",
@@ -95,7 +93,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1531935850,
+    "wof:lastmodified":1566640636,
     "wof:name":"Byttorp",
     "wof:parent_id":101752293,
     "wof:placetype":"neighbourhood",

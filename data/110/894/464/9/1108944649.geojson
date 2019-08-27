@@ -10,8 +10,10 @@
     "geom:latitude":57.580405,
     "geom:longitude":11.960774,
     "iso:country":"SE",
+    "lbl:bbox":"11.9557735383,57.5754047072,11.9657735383,57.5854047072",
     "lbl:latitude":57.580405,
     "lbl:longitude":11.960774,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -24,7 +26,7 @@
     "name:swe_x_preferred":[
         "Bj\u00f6rkedal"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         1125331203,
@@ -49,7 +51,7 @@
         }
     ],
     "wof:id":1108944649,
-    "wof:lastmodified":1529702279,
+    "wof:lastmodified":1566641813,
     "wof:name":"Bjorkedal",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

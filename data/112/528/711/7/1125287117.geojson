@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000341,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":2251404.397449,
     "geom:bbox":"11.9914475701,57.7082098146,12.0228123611,57.7288187969",
     "geom:latitude":57.717888,
     "geom:longitude":12.006223,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":15838,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":15838,
     "iso:country":"SE",
     "lbl:latitude":57.716433,
     "lbl:longitude":12.004683,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":57.716433,
     "mps:longitude":12.004683,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Goteborgs Sankt Pauli"
@@ -48,7 +50,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":1125287117,
-    "wof:lastmodified":1529702203,
+    "wof:lastmodified":1566642647,
     "wof:name":"Goteborgs Sankt Pauli",
     "wof:parent_id":1159302989,
     "wof:placetype":"localadmin",

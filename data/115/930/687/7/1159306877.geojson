@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016207,
+    "geom:area_square_m":103519261.752981,
     "geom:bbox":"17.1285295697,58.8317404299,17.3923759182,58.9550286302",
     "geom:latitude":58.897895,
     "geom:longitude":17.256636,
     "iso:country":"SE",
     "lbl:latitude":58.92241,
     "lbl:longitude":17.258723,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":58.92241,
     "mps:longitude":17.258723,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lastringe"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159306877,
-    "wof:lastmodified":1529702836,
+    "wof:lastmodified":1566643192,
     "wof:name":"Lastringe",
     "wof:parent_id":1159303471,
     "wof:placetype":"localadmin",

@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":59.346043,
     "lbl:longitude":13.109496,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":59.346043,
     "mps:longitude":13.109496,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:amh_x_preferred":[
         "\u130d\u1229\u121d\u1235"
     ],
@@ -114,7 +117,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":47,
     "wof:belongsto":[
@@ -129,7 +132,6 @@
         "fct:id":"06d4684c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2710343,
         "gp:id":891343,
-        "qs:id":909186,
         "qs_pg:id":909186,
         "wd:id":"Q1550418",
         "wk:page":"Grums"
@@ -150,7 +152,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368882,
+    "wof:lastmodified":1566642234,
     "wof:name":"Grums",
     "wof:parent_id":1125423551,
     "wof:placetype":"locality",

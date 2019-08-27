@@ -24,10 +24,13 @@
     ],
     "lbl:latitude":56.849036,
     "lbl:longitude":15.939314,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":56.849036,
     "mps:longitude":15.939314,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bul_x_preferred":[
         "\u041d\u044e\u0431\u0440\u0443"
     ],
@@ -109,7 +112,7 @@
     "se-lant:lanskod":8,
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":1159302907,
-    "wof:lastmodified":1564165694,
+    "wof:lastmodified":1566643342,
     "wof:name":"Nybro",
     "wof:parent_id":85688401,
     "wof:placetype":"county",

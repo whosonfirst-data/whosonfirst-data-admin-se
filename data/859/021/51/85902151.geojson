@@ -12,8 +12,10 @@
     "gn:latitude":59.95,
     "gn:longitude":17.8,
     "iso:country":"SE",
+    "lbl:bbox":"17.939899,59.529209,17.949899,59.539209",
     "lbl:latitude":59.534209,
     "lbl:longitude":17.944899,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.560767,
     "mps:longitude":17.944929,
     "mz:hierarchy_label":0,
@@ -38,9 +40,6 @@
         "Hammarby"
     ],
     "name:swe_x_preferred":[
-        "Hammarby"
-    ],
-    "name:unk_x_variant":[
         "Hammarby"
     ],
     "qs:gn_adm0_cc":"SE",
@@ -72,7 +71,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":64,
     "wof:belongsto":[
         102191581,
@@ -87,7 +86,6 @@
     "wof:concordances":{
         "gn:id":2708213,
         "gp:id":892260,
-        "qs:id":1004398,
         "qs_pg:id":1004398
     },
     "wof:country":"SE",
@@ -107,7 +105,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1564162468,
+    "wof:lastmodified":1566640648,
     "wof:name":"Hammarby",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

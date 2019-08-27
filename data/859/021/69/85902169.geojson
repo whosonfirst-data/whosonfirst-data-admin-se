@@ -13,6 +13,7 @@
     "iso:country":"SE",
     "lbl:latitude":59.391858,
     "lbl:longitude":17.690544,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.383624,
     "mps:longitude":17.698394,
     "mz:hierarchy_label":1,
@@ -58,9 +59,6 @@
     "name:swe_x_variant":[
         "Hillesh\u00f6gby"
     ],
-    "name:unk_x_variant":[
-        "Hilleshog"
-    ],
     "qs:gn_adm0_cc":"SE",
     "qs:gn_id":0,
     "qs:gn_local":2673730,
@@ -86,7 +84,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":48,
     "wof:belongsto":[
         102191581,
@@ -98,7 +96,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":892959,
-        "qs:id":1095775,
         "qs_pg:id":1095775,
         "wd:id":"Q2186545"
     },
@@ -119,7 +116,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563366595,
+    "wof:lastmodified":1566640647,
     "wof:name":"Hilleshog",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

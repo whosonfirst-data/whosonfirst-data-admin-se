@@ -9,17 +9,19 @@
     "geom:bbox":"16.1963461645,56.6038030277,16.3446083621,56.6600194131",
     "geom:latitude":56.630999,
     "geom:longitude":16.258333,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":1758,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":1758,
     "iso:country":"SE",
     "lbl:latitude":56.633146,
     "lbl:longitude":16.25947,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":56.633146,
     "mps:longitude":16.25947,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Hossmo"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125277825,
-    "wof:lastmodified":1554166205,
+    "wof:lastmodified":1566642701,
     "wof:name":"Hossmo",
     "wof:parent_id":1159303065,
     "wof:placetype":"localadmin",

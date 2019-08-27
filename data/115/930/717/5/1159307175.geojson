@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030239,
+    "geom:area_square_m":169545320.823863,
     "geom:bbox":"17.970365467,62.9403922534,18.2858325645,63.1187524992",
     "geom:latitude":63.035787,
     "geom:longitude":18.116991,
     "iso:country":"SE",
     "lbl:latitude":63.035459,
     "lbl:longitude":18.127832,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":63.035459,
     "mps:longitude":18.127832,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ullanger"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159307175,
-    "wof:lastmodified":1529702990,
+    "wof:lastmodified":1566643366,
     "wof:name":"Ullanger",
     "wof:parent_id":1159303301,
     "wof:placetype":"localadmin",

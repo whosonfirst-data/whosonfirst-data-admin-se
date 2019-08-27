@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006869,
+    "geom:area_square_m":47833239.138376,
     "geom:bbox":"13.8896512998,55.6802917486,14.0146156683,55.7767023788",
     "geom:latitude":55.727643,
     "geom:longitude":13.956849,
     "iso:country":"SE",
     "lbl:latitude":55.726845,
     "lbl:longitude":13.95779,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.726845,
     "mps:longitude":13.95779,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Andrarum"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159306863,
-    "wof:lastmodified":1529702614,
+    "wof:lastmodified":1566643174,
     "wof:name":"Andrarum",
     "wof:parent_id":1159302959,
     "wof:placetype":"localadmin",

@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006013,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":40025523.338309,
     "geom:bbox":"13.5043003238,57.3907914911,13.6320146977,57.4787239072",
     "geom:latitude":57.428618,
     "geom:longitude":13.571262,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":1503,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":1503,
     "iso:country":"SE",
     "lbl:latitude":57.436019,
     "lbl:longitude":13.575642,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":57.436019,
     "mps:longitude":13.575642,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Norra Hestra"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125325619,
-    "wof:lastmodified":1529702191,
+    "wof:lastmodified":1566642485,
     "wof:name":"Norra Hestra",
     "wof:parent_id":1159303327,
     "wof:placetype":"localadmin",

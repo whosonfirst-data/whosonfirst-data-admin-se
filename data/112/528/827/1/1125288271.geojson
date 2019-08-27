@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035805,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":203161002.754687,
     "geom:bbox":"17.4381520361,62.5774735828,17.7680501007,62.7896044906",
     "geom:latitude":62.685049,
     "geom:longitude":17.600135,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":1111,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":1111,
     "iso:country":"SE",
     "lbl:latitude":62.682556,
     "lbl:longitude":17.588909,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":62.682556,
     "mps:longitude":17.588909,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Stigsjo"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125288271,
-    "wof:lastmodified":1529702995,
+    "wof:lastmodified":1566642596,
     "wof:name":"Stigsjo",
     "wof:parent_id":1159302975,
     "wof:placetype":"localadmin",

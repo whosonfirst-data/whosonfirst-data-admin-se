@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":57.486158,
     "lbl:longitude":15.023164,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":57.486158,
     "mps:longitude":15.023164,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Eken\u00e4ssj\u00f6n"
     ],
@@ -72,7 +75,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":45,
     "wof:belongsto":[
@@ -87,7 +90,6 @@
         "fct:id":"06d20386-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2716601,
         "gp:id":888814,
-        "qs:id":181243,
         "qs_pg:id":181243,
         "wd:id":"Q1839613",
         "wk:page":"Eken\u00e4ssj\u00f6n"
@@ -108,7 +110,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368703,
+    "wof:lastmodified":1566642170,
     "wof:name":"Eken\u00e4ssj\u00f6n",
     "wof:parent_id":1125325681,
     "wof:placetype":"locality",

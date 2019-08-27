@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":56.875792,
     "lbl:longitude":16.665357,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":56.875792,
     "mps:longitude":16.665357,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u0648\u0631\u063a\u0647\u0648\u0644\u0645"
     ],
@@ -141,7 +144,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":357,
     "wof:belongsto":[
@@ -156,7 +159,6 @@
         "fct:id":"06d136cc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2720437,
         "gp:id":887251,
-        "qs:id":915126,
         "qs_pg:id":915126,
         "wd:id":"Q893554",
         "wk:page":"Borgholm"
@@ -177,7 +179,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368629,
+    "wof:lastmodified":1566642145,
     "wof:name":"Borgholm",
     "wof:parent_id":1125287605,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":62.029579,
     "lbl:longitude":14.363423,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":62.029579,
     "mps:longitude":14.363423,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0421\u0432\u0435\u0433"
     ],
@@ -123,7 +126,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":282,
     "wof:belongsto":[
@@ -138,7 +141,6 @@
         "fct:id":"06d4332c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2670061,
         "gp:id":907014,
-        "qs:id":141206,
         "qs_pg:id":141206,
         "wd:id":"Q977073",
         "wk:page":"Sveg"
@@ -159,7 +161,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368903,
+    "wof:lastmodified":1566642242,
     "wof:name":"Sveg",
     "wof:parent_id":1125372523,
     "wof:placetype":"locality",

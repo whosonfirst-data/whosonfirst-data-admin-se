@@ -9,17 +9,19 @@
     "geom:bbox":"15.3977360553,58.3145815418,15.5014809674,58.4036608908",
     "geom:latitude":58.355892,
     "geom:longitude":15.454932,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":4729,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":4729,
     "iso:country":"SE",
     "lbl:latitude":58.34982,
     "lbl:longitude":15.459119,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":58.34982,
     "mps:longitude":15.459119,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0412\u0438\u043a\u0438\u043d\u0433\u0441\u0442\u0430\u0434"
@@ -69,7 +71,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -95,7 +97,7 @@
         }
     ],
     "wof:id":1125356359,
-    "wof:lastmodified":1564164938,
+    "wof:lastmodified":1566642448,
     "wof:name":"Vikingstad",
     "wof:parent_id":1159303147,
     "wof:placetype":"localadmin",

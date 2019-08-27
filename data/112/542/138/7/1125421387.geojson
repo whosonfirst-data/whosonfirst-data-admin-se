@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001209,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":7327542.996661,
     "geom:bbox":"17.1154376906,60.6225582833,17.1590005719,60.6673683687",
     "geom:latitude":60.645729,
     "geom:longitude":17.13353,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":10732,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":10732,
     "iso:country":"SE",
     "lbl:latitude":60.649896,
     "lbl:longitude":17.130934,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":60.649896,
     "mps:longitude":17.130934,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Gavle Tomas"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125421387,
-    "wof:lastmodified":1529702049,
+    "wof:lastmodified":1566642745,
     "wof:name":"Gavle Tomas",
     "wof:parent_id":1159303225,
     "wof:placetype":"localadmin",

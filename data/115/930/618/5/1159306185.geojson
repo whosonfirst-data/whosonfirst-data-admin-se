@@ -12,10 +12,13 @@
     "iso:country":"SE",
     "lbl:latitude":56.494214,
     "lbl:longitude":13.138273,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":56.494214,
     "mps:longitude":13.138273,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ysby"
     ],
@@ -45,7 +48,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1159306185,
-    "wof:lastmodified":1564165533,
+    "wof:lastmodified":1566643193,
     "wof:name":"Ysby",
     "wof:parent_id":1159303423,
     "wof:placetype":"localadmin",

@@ -9,15 +9,18 @@
     "geom:bbox":"12.754814445,56.2968481554,12.7980006286,56.3326690164",
     "geom:latitude":56.312497,
     "geom:longitude":12.772114,
-    "geonames:id":"2663432,3325983",
+    "gn:id":"2663432,3325983",
     "gn:population":2764,
     "iso:country":"SE",
     "lbl:latitude":56.311315,
     "lbl:longitude":12.770641,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":56.311315,
     "mps:longitude":12.770641,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Vejbystrand"
     ],
@@ -63,7 +66,7 @@
     "name:swe_x_preferred":[
         "Vejbystrand"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Salt\u00f6ren"
     ],
     "name:zho_min_nan_x_preferred":[
@@ -85,7 +88,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":100,
     "wof:belongsto":[
@@ -99,7 +102,6 @@
     "wof:concordances":{
         "gn:id":2663432,
         "gp:id":909763,
-        "qs:id":1080974,
         "qs_pg:id":1080974,
         "wd:id":"Q3006951"
     },
@@ -116,7 +118,7 @@
         }
     ],
     "wof:id":101816565,
-    "wof:lastmodified":1563368686,
+    "wof:lastmodified":1566642164,
     "wof:name":"Vejbystrand",
     "wof:parent_id":1125423359,
     "wof:placetype":"locality",

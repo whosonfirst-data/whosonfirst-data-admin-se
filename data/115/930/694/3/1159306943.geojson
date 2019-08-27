@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003461,
+    "geom:area_square_m":22402365.293587,
     "geom:bbox":"14.7507335962,58.4094897675,14.869957821,58.4552861145",
     "geom:latitude":58.432051,
     "geom:longitude":14.811234,
     "iso:country":"SE",
     "lbl:latitude":58.428437,
     "lbl:longitude":14.812314,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":58.428437,
     "mps:longitude":14.812314,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Orberga"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159306943,
-    "wof:lastmodified":1529703089,
+    "wof:lastmodified":1566643209,
     "wof:name":"Orberga",
     "wof:parent_id":1159303411,
     "wof:placetype":"localadmin",

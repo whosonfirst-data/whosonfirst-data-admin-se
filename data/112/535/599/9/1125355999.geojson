@@ -9,17 +9,19 @@
     "geom:bbox":"16.6542348595,56.7565964027,16.8055222528,56.8390526041",
     "geom:latitude":56.793497,
     "geom:longitude":16.7356,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":1283,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":1283,
     "iso:country":"SE",
     "lbl:latitude":56.798328,
     "lbl:longitude":16.735613,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":56.798328,
     "mps:longitude":16.735613,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Gardslosa"
@@ -48,7 +50,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":1125355999,
-    "wof:lastmodified":1554166197,
+    "wof:lastmodified":1566642453,
     "wof:name":"Gardslosa",
     "wof:parent_id":1159303363,
     "wof:placetype":"localadmin",

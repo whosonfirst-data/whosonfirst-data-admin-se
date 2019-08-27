@@ -12,10 +12,13 @@
     "iso:country":"SE",
     "lbl:latitude":59.225584,
     "lbl:longitude":16.082556,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":59.225584,
     "mps:longitude":16.082556,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Uddens fritidsomr\u00e5de"
     ],
@@ -47,7 +50,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688419,
         102191581,
@@ -58,7 +61,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20151810,
-        "qs:id":229935,
         "qs_pg:id":229935,
         "wd:id":"Q1820375"
     },
@@ -75,7 +77,7 @@
         }
     ],
     "wof:id":101911737,
-    "wof:lastmodified":1561839990,
+    "wof:lastmodified":1566642255,
     "wof:name":"Uddens fritidsomr\u00e5de",
     "wof:parent_id":1125287999,
     "wof:placetype":"locality",

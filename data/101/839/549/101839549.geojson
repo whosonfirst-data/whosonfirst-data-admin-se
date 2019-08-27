@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":64.712177,
     "lbl:longitude":21.15444,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":64.712177,
     "mps:longitude":21.15444,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0423\u0440\u0448\u0432\u0438\u043a\u0435\u043d"
     ],
@@ -62,9 +65,6 @@
     "name:swe_x_variant":[
         "Ursvikens"
     ],
-    "name:unk_x_variant":[
-        "Ursvik"
-    ],
     "name:zho_min_nan_x_preferred":[
         "Ursviken"
     ],
@@ -84,7 +84,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":45,
     "wof:belongsto":[
@@ -99,7 +99,6 @@
         "fct:id":"06d3dfd0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":602137,
         "gp:id":908587,
-        "qs:id":126037,
         "qs_pg:id":126037,
         "wd:id":"Q1986998",
         "wk:page":"Ursviken"
@@ -120,7 +119,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368943,
+    "wof:lastmodified":1566642254,
     "wof:name":"Ursviken",
     "wof:parent_id":1125417517,
     "wof:placetype":"locality",

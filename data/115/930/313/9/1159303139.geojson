@@ -24,10 +24,13 @@
     ],
     "lbl:latitude":58.022213,
     "lbl:longitude":15.796267,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":58.022213,
     "mps:longitude":15.796267,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Kinda"
     ],
@@ -49,7 +52,7 @@
     "se-lant:lanskod":5,
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1159303139,
-    "wof:lastmodified":1564165600,
+    "wof:lastmodified":1566643253,
     "wof:name":"Kinda",
     "wof:parent_id":85688409,
     "wof:placetype":"county",

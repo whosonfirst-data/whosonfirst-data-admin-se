@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008618,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":56756866.503128,
     "geom:bbox":"12.059970793,57.7737358262,12.2417519076,57.8660043489",
     "geom:latitude":57.819171,
     "geom:longitude":12.149366,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":4382,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":4382,
     "iso:country":"SE",
     "lbl:latitude":57.817129,
     "lbl:longitude":12.158313,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":57.817129,
     "mps:longitude":12.158313,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Bergum"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125356277,
-    "wof:lastmodified":1529702196,
+    "wof:lastmodified":1566642441,
     "wof:name":"Bergum",
     "wof:parent_id":1159302989,
     "wof:placetype":"localadmin",

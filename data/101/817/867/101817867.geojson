@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":55.585799,
     "lbl:longitude":13.599603,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":55.585799,
     "mps:longitude":13.599603,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Blentarp"
     ],
@@ -69,7 +72,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":45,
     "wof:belongsto":[
@@ -84,7 +87,6 @@
         "fct:id":"06d24fb2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2721348,
         "gp:id":886789,
-        "qs:id":575738,
         "qs_pg:id":575738,
         "wd:id":"Q2328025",
         "wk:page":"Blentarp"
@@ -105,7 +107,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368761,
+    "wof:lastmodified":1566642192,
     "wof:name":"Blentarp",
     "wof:parent_id":1125356241,
     "wof:placetype":"locality",

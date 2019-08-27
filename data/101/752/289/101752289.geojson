@@ -13,6 +13,8 @@
     "iso:country":"SE",
     "lbl:latitude":58.592978,
     "lbl:longitude":16.165555,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":58.592978,
     "mps:longitude":16.165555,
     "mz:hierarchy_label":1,
@@ -416,7 +418,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":58.6,
     "wd:longitude":16.2,
@@ -434,7 +436,6 @@
         "fct:id":"06d0a112-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2688368,
         "gp:id":899981,
-        "qs:id":804649,
         "qs_pg:id":804649,
         "wd:id":"Q25724",
         "wk:page":"Norrk\u00f6ping"
@@ -455,7 +456,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368574,
+    "wof:lastmodified":1566642129,
     "wof:name":"Norrk\u00f6ping",
     "wof:parent_id":1125384293,
     "wof:placetype":"locality",

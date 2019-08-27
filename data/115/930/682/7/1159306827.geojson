@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.092676,
+    "geom:area_square_m":519799848.672458,
     "geom:bbox":"15.0085648727,62.9069178182,15.6918274368,63.1484751645",
     "geom:latitude":63.025368,
     "geom:longitude":15.307779,
     "iso:country":"SE",
     "lbl:latitude":63.032085,
     "lbl:longitude":15.341313,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":63.032085,
     "mps:longitude":15.341313,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sundsjo"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159306827,
-    "wof:lastmodified":1529702365,
+    "wof:lastmodified":1566643302,
     "wof:name":"Sundsjo",
     "wof:parent_id":1159303529,
     "wof:placetype":"localadmin",

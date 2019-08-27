@@ -9,17 +9,19 @@
     "geom:bbox":"13.7102369206,58.2344258063,13.8617905481,58.2796853993",
     "geom:latitude":58.255829,
     "geom:longitude":13.786314,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":239,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":239,
     "iso:country":"SE",
     "lbl:latitude":58.257866,
     "lbl:longitude":13.791451,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":58.257866,
     "mps:longitude":13.791451,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Dala"
@@ -63,7 +65,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -89,7 +91,7 @@
         }
     ],
     "wof:id":1125373933,
-    "wof:lastmodified":1564165224,
+    "wof:lastmodified":1566642808,
     "wof:name":"Dala",
     "wof:parent_id":1159303137,
     "wof:placetype":"localadmin",

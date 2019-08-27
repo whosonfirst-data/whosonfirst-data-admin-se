@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018409,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":114493753.20922,
     "geom:bbox":"18.1523764295,59.7290968277,18.4238690239,59.8645133971",
     "geom:latitude":59.803114,
     "geom:longitude":18.278498,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":1218,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":1218,
     "iso:country":"SE",
     "lbl:latitude":59.812196,
     "lbl:longitude":18.291879,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":59.812196,
     "mps:longitude":18.291879,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Fasterna"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125423339,
-    "wof:lastmodified":1529702728,
+    "wof:lastmodified":1566642749,
     "wof:name":"Fasterna",
     "wof:parent_id":1159302995,
     "wof:placetype":"localadmin",

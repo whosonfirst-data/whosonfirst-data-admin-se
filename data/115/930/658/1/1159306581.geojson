@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.380165,
+    "geom:area_square_m":2220916213.476642,
     "geom:bbox":"13.2003158718,61.5639078179,14.547515403,62.0216454919",
     "geom:latitude":61.806265,
     "geom:longitude":13.928115,
     "iso:country":"SE",
     "lbl:latitude":61.812244,
     "lbl:longitude":13.928164,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":61.812244,
     "mps:longitude":13.928164,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lillhardal"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159306581,
-    "wof:lastmodified":1529701981,
+    "wof:lastmodified":1566643210,
     "wof:name":"Lillhardal",
     "wof:parent_id":1159303245,
     "wof:placetype":"localadmin",

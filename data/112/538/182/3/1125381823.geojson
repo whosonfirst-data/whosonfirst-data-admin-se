@@ -9,17 +9,19 @@
     "geom:bbox":"17.7569192987,59.4108325667,17.895555901,59.4542687667",
     "geom:latitude":59.433373,
     "geom:longitude":17.827992,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":24995,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":24995,
     "iso:country":"SE",
     "lbl:latitude":59.431792,
     "lbl:longitude":17.83269,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":59.431792,
     "mps:longitude":17.83269,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u042f\u043a\u043e\u0431\u0441\u0431\u0435\u0440\u0438"
@@ -75,7 +77,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -101,7 +103,7 @@
         }
     ],
     "wof:id":1125381823,
-    "wof:lastmodified":1564165322,
+    "wof:lastmodified":1566642930,
     "wof:name":"Jakobsberg",
     "wof:parent_id":1159303475,
     "wof:placetype":"localadmin",

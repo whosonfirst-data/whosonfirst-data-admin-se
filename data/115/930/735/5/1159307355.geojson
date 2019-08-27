@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006117,
+    "geom:area_square_m":39829319.009083,
     "geom:bbox":"13.1202441021,58.1842518801,13.3199625479,58.264914184",
     "geom:latitude":58.224377,
     "geom:longitude":13.215762,
     "iso:country":"SE",
     "lbl:latitude":58.239626,
     "lbl:longitude":13.190834,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":58.239626,
     "mps:longitude":13.190834,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Edsvara"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159307355,
-    "wof:lastmodified":1529702165,
+    "wof:lastmodified":1566643284,
     "wof:name":"Edsvara",
     "wof:parent_id":1159303487,
     "wof:placetype":"localadmin",

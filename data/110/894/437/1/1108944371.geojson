@@ -10,8 +10,10 @@
     "geom:latitude":57.750501,
     "geom:longitude":12.070708,
     "iso:country":"SE",
+    "lbl:bbox":"12.0657080305,57.7455006765,12.0757080305,57.7555006765",
     "lbl:latitude":57.750501,
     "lbl:longitude":12.070708,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -24,14 +26,14 @@
     "name:swe_x_preferred":[
         "S\u00f6dra Bergsj\u00f6n"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85688411,
         102191581,
         1125287157,
         85633789,
         101752295,
-        1159302989
+        1159302989,
+        85688411
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -50,7 +52,7 @@
         }
     ],
     "wof:id":1108944371,
-    "wof:lastmodified":1529702293,
+    "wof:lastmodified":1566641812,
     "wof:name":"Sodra Bergsjon",
     "wof:parent_id":101752295,
     "wof:placetype":"neighbourhood",

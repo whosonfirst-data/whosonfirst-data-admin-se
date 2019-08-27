@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00457,
+    "geom:area_square_m":28523951.158412,
     "geom:bbox":"16.8160600014,59.6425086933,16.9101677805,59.7244789958",
     "geom:latitude":59.68434,
     "geom:longitude":16.868462,
     "iso:country":"SE",
     "lbl:latitude":59.688369,
     "lbl:longitude":16.867554,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":59.688369,
     "mps:longitude":16.867554,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bred"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159307285,
-    "wof:lastmodified":1529702871,
+    "wof:lastmodified":1566643367,
     "wof:name":"Bred",
     "wof:parent_id":1159303337,
     "wof:placetype":"localadmin",

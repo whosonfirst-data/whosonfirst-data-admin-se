@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Stockholm",
     "iso:country":"SE",
+    "lbl:bbox":"16.54667,60.91333,16.58667,60.95333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633789
@@ -35,7 +39,7 @@
         "gn:id":2665380
     },
     "wof:country":"SE",
-    "wof:geomhash":"f44576e5a49b2cd7d433f74c96bb540c",
+    "wof:geomhash":"71f05c08f777c426c16797034457bd0b",
     "wof:hierarchy":[
         {
             "country_id":85633789,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209320997,
-    "wof:lastmodified":1536290695,
+    "wof:lastmodified":1566641471,
     "wof:name":"Vallsbo",
     "wof:parent_id":85633789,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.566670000000002,
+    16.56667,
     60.93333000000001,
-    16.566670000000002,
+    16.56667,
     60.93333000000001
 ],
   "geometry": {"coordinates":[16.56667,60.93333000000001],"type":"Point"}

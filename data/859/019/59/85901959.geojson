@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":9920632.769667,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.490519,59.314712,14.490519,59.314712",
     "geom:latitude":59.314712,
     "geom:longitude":14.490519,
     "gn:latitude":59.31667,
     "gn:longitude":14.5,
     "iso:country":"SE",
+    "lbl:bbox":"14.485519,59.309712,14.495519,59.319712",
     "lbl:latitude":59.314712,
     "lbl:longitude":14.490519,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.312775,
     "mps:longitude":14.488484,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:swe_x_preferred":[
-        "Aggerud"
-    ],
-    "name:unk_x_variant":[
         "Aggerud"
     ],
     "qs:gn_adm0_cc":"SE",
@@ -60,20 +59,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85688421,
         102191581,
         1125394693,
         85633789,
         101815827,
-        1159303287
+        1159303287,
+        85688421
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2727416,
         "gp:id":884228,
-        "qs:id":979373,
         "qs_pg:id":979373
     },
     "wof:country":"SE",
@@ -93,7 +91,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1531935839,
+    "wof:lastmodified":1566640644,
     "wof:name":"Aggerud",
     "wof:parent_id":101815827,
     "wof:placetype":"neighbourhood",

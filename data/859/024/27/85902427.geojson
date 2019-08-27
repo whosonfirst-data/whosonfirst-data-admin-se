@@ -14,6 +14,7 @@
     "iso:country":"SE",
     "lbl:latitude":59.28929,
     "lbl:longitude":17.909968,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.288424,
     "mps:longitude":17.906856,
     "mz:hierarchy_label":1,
@@ -57,9 +58,6 @@
     "name:swe_x_variant":[
         "S\u00e4tr"
     ],
-    "name:unk_x_variant":[
-        "S\u00e4tra"
-    ],
     "qs:gn_adm0_cc":"SE",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":2673730,
@@ -87,7 +85,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":35,
     "wof:belongsto":[
         102191581,
@@ -101,7 +99,6 @@
     "wof:concordances":{
         "gn:id":2679797,
         "gp:id":903519,
-        "qs:id":241119,
         "qs_pg:id":241119,
         "wd:id":"Q3315792"
     },
@@ -122,7 +119,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563366499,
+    "wof:lastmodified":1566640576,
     "wof:name":"S\u00e4tra",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

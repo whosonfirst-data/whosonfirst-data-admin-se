@@ -9,17 +9,19 @@
     "geom:bbox":"18.3360786956,57.6092562284,18.4976534243,57.653598879",
     "geom:latitude":57.633848,
     "geom:longitude":18.427738,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":171,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":171,
     "iso:country":"SE",
     "lbl:latitude":57.632422,
     "lbl:longitude":18.435657,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mps:latitude":57.632422,
     "mps:longitude":18.435657,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Hejdeby socken"
@@ -51,7 +53,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -77,7 +79,7 @@
         }
     ],
     "wof:id":1125314781,
-    "wof:lastmodified":1564165324,
+    "wof:lastmodified":1566642932,
     "wof:name":"Hejdeby",
     "wof:parent_id":1159303535,
     "wof:placetype":"localadmin",

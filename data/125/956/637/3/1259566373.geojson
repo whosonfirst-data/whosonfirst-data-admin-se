@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Stockholm",
     "iso:country":"SE",
+    "lbl:bbox":"23.91822,66.04223,23.95822,66.08223",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fit_x_preferred":[
         "Lehtikangas"
     ],
@@ -34,9 +38,6 @@
     ],
     "name:nor_x_variant":[
         "L\u00f8vheden"
-    ],
-    "name:und_x_variant":[
-        "L\u00f6vheden"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1259566373,
-    "wof:lastmodified":1537699719,
+    "wof:lastmodified":1566643886,
     "wof:name":"Lehtikangas",
     "wof:parent_id":1125373647,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":57.615488,
     "lbl:longitude":11.775664,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":57.615488,
     "mps:longitude":11.775664,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0421\u0442\u044e\u0440\u0448\u044c\u043e"
     ],
@@ -96,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":100,
     "wof:belongsto":[
@@ -110,10 +113,12 @@
     "wof:concordances":{
         "gn:id":2670995,
         "gp:id":906650,
-        "qs:id":1169390,
         "qs_pg:id":575625,
         "wd:id":"Q1015454",
         "wk:page":"Styrs\u00f6"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1169390
     },
     "wof:country":"SE",
     "wof:geomhash":"73ca6b66045c95654f26c8ca977259a8",
@@ -128,7 +133,7 @@
         }
     ],
     "wof:id":101817149,
-    "wof:lastmodified":1563368800,
+    "wof:lastmodified":1566642204,
     "wof:name":"Styrs\u00f6",
     "wof:parent_id":1159307581,
     "wof:placetype":"locality",

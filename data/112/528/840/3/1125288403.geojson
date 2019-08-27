@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008159,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":52491864.776449,
     "geom:bbox":"15.947205605,58.6016817082,16.0972919157,58.7145011288",
     "geom:latitude":58.649418,
     "geom:longitude":16.020018,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":3242,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":3242,
     "iso:country":"SE",
     "lbl:latitude":58.645754,
     "lbl:longitude":16.00864,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":58.645754,
     "mps:longitude":16.00864,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Svartinge"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125288403,
-    "wof:lastmodified":1529703104,
+    "wof:lastmodified":1566642631,
     "wof:name":"Svartinge",
     "wof:parent_id":1159303229,
     "wof:placetype":"localadmin",

@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007767,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":51958730.374712,
     "geom:bbox":"12.7628057557,57.1839690458,12.954161624,57.3011095043",
     "geom:latitude":57.245946,
     "geom:longitude":12.869626,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":610,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":610,
     "iso:country":"SE",
     "lbl:latitude":57.238698,
     "lbl:longitude":12.88697,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":57.238698,
     "mps:longitude":12.88697,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Alvsered"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125381761,
-    "wof:lastmodified":1529702139,
+    "wof:lastmodified":1566642931,
     "wof:name":"Alvsered",
     "wof:parent_id":1159303247,
     "wof:placetype":"localadmin",

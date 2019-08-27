@@ -14,6 +14,7 @@
     "iso:country":"SE",
     "lbl:latitude":59.323701,
     "lbl:longitude":18.102719,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.326534,
     "mps:longitude":18.107136,
     "mz:hierarchy_label":1,
@@ -135,9 +136,6 @@
     "name:ukr_x_preferred":[
         "\u042e\u0440\u0433\u043e\u0440\u0434\u0435\u043d"
     ],
-    "name:unk_x_variant":[
-        "Djurg\u00e5rden"
-    ],
     "name:yue_x_preferred":[
         "\u5384\u67b6\u5712"
     ],
@@ -171,7 +169,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":1361,
     "wof:belongsto":[
         102191581,
@@ -185,7 +183,6 @@
     "wof:concordances":{
         "gn:id":2717550,
         "gp:id":888407,
-        "qs:id":909123,
         "qs_pg:id":909123,
         "wd:id":"Q831527"
     },
@@ -206,7 +203,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563366578,
+    "wof:lastmodified":1566640635,
     "wof:name":"Djurg\u00e5rden",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

@@ -12,10 +12,13 @@
     "iso:country":"SE",
     "lbl:latitude":59.575373,
     "lbl:longitude":16.93705,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":59.575373,
     "mps:longitude":16.93705,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Teda"
     ],
@@ -30,7 +33,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1159307179,
-    "wof:lastmodified":1564165726,
+    "wof:lastmodified":1566643365,
     "wof:name":"Teda",
     "wof:parent_id":1159303337,
     "wof:placetype":"localadmin",

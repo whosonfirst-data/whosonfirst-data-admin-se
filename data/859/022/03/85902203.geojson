@@ -5,13 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00018,
-    "geom:area_square_m":1131685.459013,
+    "geom:area_square_m":1131685.459012,
     "geom:bbox":"17.8216938481,59.4115478781,17.8472900391,59.4228280938",
     "geom:latitude":59.418403,
     "geom:longitude":17.83496,
     "iso:country":"SE",
     "lbl:latitude":59.41931,
     "lbl:longitude":17.829193,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.418601,
     "mps:longitude":17.833924,
     "mz:hierarchy_label":1,
@@ -37,9 +38,6 @@
         "Jarfalla",
         "J\u00e4rf\u00e4lla",
         "J\u00e4rf\u00e4lla kyrka"
-    ],
-    "name:unk_x_variant":[
-        "J\u00e4rf\u00e4ll"
     ],
     "qs:gn_adm0_cc":"SE",
     "qs:gn_fcode":"PPL",
@@ -68,20 +66,19 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85688429,
         102191581,
         1125362217,
         85633789,
         101752307,
-        1159303035
+        1159303035,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6620279,
         "gp:id":894315,
-        "qs:id":229181,
         "qs_pg:id":229181
     },
     "wof:country":"SE",
@@ -101,7 +98,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702783,
+    "wof:lastmodified":1566640589,
     "wof:name":"J\u00e4rf\u00e4ll",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

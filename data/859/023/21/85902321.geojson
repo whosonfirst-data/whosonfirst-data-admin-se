@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":26311661.211065,
+    "geom:area_square_m":0.0,
     "geom:bbox":"20.974048,64.746472,20.974048,64.746472",
     "geom:latitude":64.746472,
     "geom:longitude":20.974048,
     "gn:latitude":64.75,
     "gn:longitude":21.0,
     "iso:country":"SE",
+    "lbl:bbox":"20.969048,64.741472,20.979048,64.751472",
     "lbl:latitude":64.746472,
     "lbl:longitude":20.974048,
+    "lbl:max_zoom":18.0,
     "mps:latitude":64.745659,
     "mps:longitude":20.973171,
     "mz:hierarchy_label":0,
@@ -38,9 +40,6 @@
     "name:swe_x_preferred":[
         "Mor\u00f6",
         "Mor\u00f6 Backe"
-    ],
-    "name:unk_x_variant":[
-        "Mor\u00f6"
     ],
     "qs:gn_adm0_cc":"SE",
     "qs:gn_fcode":"PPLX",
@@ -71,20 +70,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85688465,
         102191581,
         1125417515,
         85633789,
         101814827,
-        1159303205
+        1159303205,
+        85688465
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":604268,
         "gp:id":898738,
-        "qs:id":891931,
         "qs_pg:id":891931
     },
     "wof:country":"SE",
@@ -104,7 +102,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1531935877,
+    "wof:lastmodified":1566640584,
     "wof:name":"Mor\u00f6",
     "wof:parent_id":101814827,
     "wof:placetype":"neighbourhood",

@@ -13,6 +13,8 @@
     "iso:country":"SE",
     "lbl:latitude":63.297124,
     "lbl:longitude":18.718523,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":63.297124,
     "mps:longitude":18.718523,
     "mz:hierarchy_label":1,
@@ -313,7 +315,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":18.0,
     "wd:latitude":63.283333,
@@ -331,7 +333,6 @@
         "fct:id":"06d48160-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2686469,
         "gp:id":900809,
-        "qs:id":3732,
         "qs_pg:id":3732,
         "wd:id":"Q28327",
         "wk:page":"\u00d6rnsk\u00f6ldsvik"
@@ -352,7 +353,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368901,
+    "wof:lastmodified":1566642241,
     "wof:name":"\u00d6rnsk\u00f6ldsvik",
     "wof:parent_id":1125409983,
     "wof:placetype":"locality",

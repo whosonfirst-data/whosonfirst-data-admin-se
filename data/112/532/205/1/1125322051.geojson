@@ -9,17 +9,19 @@
     "geom:bbox":"18.2927928557,57.5580177059,18.4405233085,57.62670836",
     "geom:latitude":57.589733,
     "geom:longitude":18.365232,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":421,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":421,
     "iso:country":"SE",
     "lbl:latitude":57.589336,
     "lbl:longitude":18.365213,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":57.589336,
     "mps:longitude":18.365213,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Follingbo socken"
@@ -51,7 +53,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -77,7 +79,7 @@
         }
     ],
     "wof:id":1125322051,
-    "wof:lastmodified":1564164988,
+    "wof:lastmodified":1566642500,
     "wof:name":"Follingbo",
     "wof:parent_id":1159303535,
     "wof:placetype":"localadmin",

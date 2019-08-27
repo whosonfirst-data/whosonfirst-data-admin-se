@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001598,
+    "geom:area_square_m":11196767.436687,
     "geom:bbox":"13.0394975375,55.4589975539,13.0987770266,55.504359414",
     "geom:latitude":55.482915,
     "geom:longitude":13.067833,
     "iso:country":"SE",
     "lbl:latitude":55.47807,
     "lbl:longitude":13.064297,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.47807,
     "mps:longitude":13.064297,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sodra akarp"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159306111,
-    "wof:lastmodified":1529702600,
+    "wof:lastmodified":1566643198,
     "wof:name":"Sodra akarp",
     "wof:parent_id":1159303307,
     "wof:placetype":"localadmin",

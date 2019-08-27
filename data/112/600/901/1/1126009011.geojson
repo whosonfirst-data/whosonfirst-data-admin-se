@@ -9,15 +9,18 @@
     "geom:bbox":"22.66667,67.48333,22.66667,67.48333",
     "geom:latitude":67.48333,
     "geom:longitude":22.66667,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":278,
-    "gn:population":245,
+    "gn:country":"SE",
+    "gn:fcode":"PPL",
+    "gn:population":278,
     "iso:country":"SE",
+    "lbl:bbox":"22.64667,67.46333,22.68667,67.50333",
     "lbl:latitude":67.48333,
     "lbl:longitude":22.66667,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u041a\u0430\u043d\u0433\u043e\u0441"
@@ -52,7 +55,7 @@
     "name:swe_x_preferred":[
         "Kangos"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kangosfors"
     ],
     "qs_pg:aaroncc":"SE",
@@ -74,7 +77,7 @@
     "qs_pg:woe_adm0":23424954,
     "qs_pg:woe_id":894787,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424954,
     "woe:name_adm0":"Sverige",
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":1126009011,
-    "wof:lastmodified":1563369918,
+    "wof:lastmodified":1566643010,
     "wof:name":"Kangos",
     "wof:parent_id":1159306617,
     "wof:placetype":"locality",

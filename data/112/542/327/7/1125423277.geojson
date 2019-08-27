@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.038752,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":225161502.722488,
     "geom:bbox":"15.0854369688,61.8795991844,15.4634048032,62.0912688579",
     "geom:latitude":61.972761,
     "geom:longitude":15.247218,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":134,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":134,
     "iso:country":"SE",
     "lbl:latitude":61.965067,
     "lbl:longitude":15.234406,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mps:latitude":61.965067,
     "mps:longitude":15.234406,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Karbole"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125423277,
-    "wof:lastmodified":1529702054,
+    "wof:lastmodified":1566642751,
     "wof:name":"Karbole",
     "wof:parent_id":1159303353,
     "wof:placetype":"localadmin",

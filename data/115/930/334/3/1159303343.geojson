@@ -24,10 +24,13 @@
     ],
     "lbl:latitude":56.7033,
     "lbl:longitude":12.817828,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":56.7033,
     "mps:longitude":12.817828,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0647\u0627\u0644\u0645\u0633\u062a\u0627\u062f"
     ],
@@ -241,7 +244,7 @@
     "se-lant:lanskod":13,
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -261,7 +264,7 @@
         }
     ],
     "wof:id":1159303343,
-    "wof:lastmodified":1564165641,
+    "wof:lastmodified":1566643288,
     "wof:name":"Halmstad",
     "wof:parent_id":85688391,
     "wof:placetype":"county",

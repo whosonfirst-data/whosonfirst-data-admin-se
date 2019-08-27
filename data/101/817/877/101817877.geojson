@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":55.517708,
     "lbl:longitude":13.00153,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":55.517708,
     "mps:longitude":13.00153,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Tygelsj\u00f6"
     ],
@@ -84,7 +87,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688377,
@@ -98,7 +101,6 @@
         "fct:id":"06d2b65a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2666823,
         "gp:id":908308,
-        "qs:id":3911,
         "qs_pg:id":3911,
         "wd:id":"Q2744244",
         "wk:page":"Tygelsj\u00f6"
@@ -119,7 +121,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368777,
+    "wof:lastmodified":1566642197,
     "wof:name":"Tygelsj\u00f6",
     "wof:parent_id":1125270853,
     "wof:placetype":"locality",

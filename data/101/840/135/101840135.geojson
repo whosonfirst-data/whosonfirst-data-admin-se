@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":55.912378,
     "lbl:longitude":13.545581,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":55.912378,
     "mps:longitude":13.545581,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "S\u00e4tofta"
     ],
@@ -85,7 +88,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":45,
     "wof:belongsto":[
@@ -100,7 +103,6 @@
         "fct:id":"06d2c276-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2679819,
         "gp:id":903517,
-        "qs:id":43714,
         "qs_pg:id":43714,
         "wd:id":"Q181941",
         "wk:page":"S\u00e4tofta"
@@ -121,7 +123,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368881,
+    "wof:lastmodified":1566642234,
     "wof:name":"S\u00e4tofta",
     "wof:parent_id":1125363723,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"SE",
     "lbl:latitude":64.208277,
     "lbl:longitude":20.859104,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":64.208277,
     "mps:longitude":20.859104,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0420\u043e\u0431\u0435\u0440\u0442\u0441\u0444\u043e\u0440\u0448"
     ],
@@ -75,7 +78,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1159305989,
-    "wof:lastmodified":1564165648,
+    "wof:lastmodified":1566643295,
     "wof:name":"Robertsfors",
     "wof:parent_id":1159303055,
     "wof:placetype":"localadmin",

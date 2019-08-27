@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":56.160368,
     "lbl:longitude":14.092752,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":56.160368,
     "mps:longitude":14.092752,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0647\u0627\u0646\u0627\u0633\u0643\u0648\u062c"
     ],
@@ -72,7 +75,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":46,
     "wof:belongsto":[
@@ -87,7 +90,6 @@
         "fct:id":"06d2528c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2708025,
         "gp:id":892333,
-        "qs:id":1163297,
         "qs_pg:id":1163297,
         "wd:id":"Q1919351",
         "wk:page":"Hanaskog"
@@ -108,7 +110,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368687,
+    "wof:lastmodified":1566642164,
     "wof:name":"Hanaskog",
     "wof:parent_id":1125329267,
     "wof:placetype":"locality",

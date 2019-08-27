@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002775,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":17536072.165212,
     "geom:bbox":"18.0856855235,59.2296259749,18.2001739079,59.302191208",
     "geom:latitude":59.264348,
     "geom:longitude":18.140737,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":41651,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":41651,
     "iso:country":"SE",
     "lbl:latitude":59.251866,
     "lbl:longitude":18.150247,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":59.251866,
     "mps:longitude":18.150247,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Skarpnack"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125363641,
-    "wof:lastmodified":1529702729,
+    "wof:lastmodified":1566642936,
     "wof:name":"Skarpnack",
     "wof:parent_id":1159303035,
     "wof:placetype":"localadmin",

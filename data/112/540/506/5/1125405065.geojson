@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0169,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":111131603.832595,
     "geom:bbox":"11.4593573501,57.8264015871,11.7965133064,57.9390023724",
     "geom:latitude":57.873539,
     "geom:longitude":11.634914,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":1531,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":1531,
     "iso:country":"SE",
     "lbl:latitude":57.891855,
     "lbl:longitude":11.688534,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":57.891855,
     "mps:longitude":11.688534,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Lycke"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125405065,
-    "wof:lastmodified":1529702187,
+    "wof:lastmodified":1566643072,
     "wof:name":"Lycke",
     "wof:parent_id":1159303109,
     "wof:placetype":"localadmin",

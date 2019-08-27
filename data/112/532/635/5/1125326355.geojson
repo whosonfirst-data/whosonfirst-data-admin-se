@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00786,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":53410146.326831,
     "geom:bbox":"12.6651962104,56.6343027899,12.8290580469,56.7072199303",
     "geom:latitude":56.666487,
     "geom:longitude":12.750741,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":12371,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":12371,
     "iso:country":"SE",
     "lbl:latitude":56.670714,
     "lbl:longitude":12.756448,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":56.670714,
     "mps:longitude":12.756448,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Sondrum"
@@ -48,7 +50,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":1125326355,
-    "wof:lastmodified":1529702336,
+    "wof:lastmodified":1566642499,
     "wof:name":"Sondrum",
     "wof:parent_id":1159303343,
     "wof:placetype":"localadmin",

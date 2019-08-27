@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":60.17261,
     "lbl:longitude":18.178829,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":60.17261,
     "mps:longitude":18.178829,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0418\u043c\u0443"
     ],
@@ -76,7 +79,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":45,
     "wof:belongsto":[
@@ -91,7 +94,6 @@
         "fct:id":"06d00bf8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2667328,
         "gp:id":890665,
-        "qs:id":481205,
         "qs_pg:id":481205,
         "wd:id":"Q3470033",
         "wk:page":"Gimo, Sweden"
@@ -112,7 +114,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368692,
+    "wof:lastmodified":1566642166,
     "wof:name":"Gimo",
     "wof:parent_id":1125421451,
     "wof:placetype":"locality",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003076,
+    "geom:area_square_m":21211334.891879,
     "geom:bbox":"13.0821136624,56.070746552,13.1722353634,56.1279217477",
     "geom:latitude":56.100318,
     "geom:longitude":13.132408,
     "iso:country":"SE",
     "lbl:latitude":56.098211,
     "lbl:longitude":13.131547,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":56.098211,
     "mps:longitude":13.131547,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Vastra Sonnarslov"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159307203,
-    "wof:lastmodified":1529702621,
+    "wof:lastmodified":1566643384,
     "wof:name":"Vastra Sonnarslov",
     "wof:parent_id":1159303295,
     "wof:placetype":"localadmin",

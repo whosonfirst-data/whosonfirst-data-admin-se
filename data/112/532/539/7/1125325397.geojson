@@ -9,17 +9,19 @@
     "geom:bbox":"14.4615598777,58.5117740046,14.5653112618,58.5588316491",
     "geom:latitude":58.53769,
     "geom:longitude":14.514953,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":3152,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":3152,
     "iso:country":"SE",
     "lbl:latitude":58.534778,
     "lbl:longitude":14.514971,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":58.534778,
     "mps:longitude":14.514971,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0643\u0627\u0631\u0644\u0633\u0628\u0648\u0631\u064a"
@@ -99,7 +101,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -125,7 +127,7 @@
         }
     ],
     "wof:id":1125325397,
-    "wof:lastmodified":1564165003,
+    "wof:lastmodified":1566642513,
     "wof:name":"Karlsborg",
     "wof:parent_id":1159302935,
     "wof:placetype":"localadmin",

@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000465,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":3253179.144975,
     "geom:bbox":"12.9802217411,55.5640144554,13.0301162086,55.5880470926",
     "geom:latitude":55.577778,
     "geom:longitude":13.003319,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":17939,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":17939,
     "iso:country":"SE",
     "lbl:latitude":55.580869,
     "lbl:longitude":12.995361,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":55.580869,
     "mps:longitude":12.995361,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Eriksfalt"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125270859,
-    "wof:lastmodified":1529702593,
+    "wof:lastmodified":1566642694,
     "wof:name":"Eriksfalt",
     "wof:parent_id":1159303367,
     "wof:placetype":"localadmin",

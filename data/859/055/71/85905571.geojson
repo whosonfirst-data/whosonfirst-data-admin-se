@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001416,
-    "geom:area_square_m":8969073.548701,
+    "geom:area_square_m":8969073.548702,
     "geom:bbox":"17.8786676885,59.1682167829,17.9424340821,59.2014056622",
     "geom:latitude":59.185492,
     "geom:longitude":17.910712,
@@ -13,6 +13,7 @@
     "iso:country":"SE",
     "lbl:latitude":59.188587,
     "lbl:longitude":17.903251,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.183279,
     "mps:longitude":17.911345,
     "mz:hierarchy_label":1,
@@ -25,9 +26,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":0,
     "name:swe_x_preferred":[
-        "Tullinge skog"
-    ],
-    "name:unk_x_variant":[
         "Tullinge skog"
     ],
     "qs:gn_adm0_cc":"SE",
@@ -57,7 +55,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         1159305685,
@@ -68,7 +66,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20151800,
-        "qs:id":896147,
         "qs_pg:id":896147
     },
     "wof:country":"SE",
@@ -88,7 +85,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702821,
+    "wof:lastmodified":1566640634,
     "wof:name":"Tullinge skog",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

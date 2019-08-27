@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":67.158227,
     "lbl:longitude":20.635128,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":67.158227,
     "mps:longitude":20.635128,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0645\u0627\u0644\u0645\u0628\u064a\u0631\u064a\u062a"
     ],
@@ -118,7 +121,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":439,
     "wof:belongsto":[
@@ -133,7 +136,6 @@
         "fct:id":"06d3c306-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":604419,
         "gp:id":898084,
-        "qs:id":905888,
         "qs_pg:id":905888,
         "wd:id":"Q83718",
         "wk:page":"Malmberget"
@@ -154,7 +156,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368936,
+    "wof:lastmodified":1566642251,
     "wof:name":"Malmberget",
     "wof:parent_id":1125356891,
     "wof:placetype":"locality",

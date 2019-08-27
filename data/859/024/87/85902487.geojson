@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1141673.198928,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.001566,55.596375,13.001566,55.596375",
     "geom:latitude":55.596375,
     "geom:longitude":13.001566,
     "gn:latitude":55.6,
     "gn:longitude":13.0,
     "iso:country":"SE",
+    "lbl:bbox":"12.996566,55.591375,13.006566,55.601375",
     "lbl:latitude":55.596375,
     "lbl:longitude":13.001566,
+    "lbl:max_zoom":18.0,
     "mps:latitude":55.596289,
     "mps:longitude":12.99851,
     "mz:hierarchy_label":0,
@@ -37,9 +39,6 @@
         "Soedra Foerstaden"
     ],
     "name:swe_x_preferred":[
-        "S\u00f6dra F\u00f6rstaden"
-    ],
-    "name:unk_x_variant":[
         "S\u00f6dra F\u00f6rstaden"
     ],
     "qs:gn_adm0_cc":"SE",
@@ -71,20 +70,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85688377,
         102191581,
         1159305753,
         85633789,
         101752283,
-        1159303367
+        1159303367,
+        85688377
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2675993,
         "gp:id":905083,
-        "qs:id":1083477,
         "qs_pg:id":1083477
     },
     "wof:country":"SE",
@@ -104,7 +102,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1531935898,
+    "wof:lastmodified":1566640576,
     "wof:name":"S\u00f6dra F\u00f6rstaden",
     "wof:parent_id":101752283,
     "wof:placetype":"neighbourhood",

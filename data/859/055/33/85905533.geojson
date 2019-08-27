@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":8998283.920113,
+    "geom:area_square_m":0.0,
     "geom:bbox":"17.754936,59.30516,17.754936,59.30516",
     "geom:latitude":59.30516,
     "geom:longitude":17.754936,
     "gn:id":"",
     "iso:country":"SE",
+    "lbl:bbox":"17.749936,59.30016,17.759936,59.31016",
     "lbl:latitude":59.30516,
     "lbl:longitude":17.754936,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.314594,
     "mps:longitude":17.767593,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:swe_x_preferred":[
-        "Stjartnas"
-    ],
-    "name:unk_x_variant":[
         "Stjartnas"
     ],
     "qs:gn_adm0_cc":"SE",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         1125287095,
@@ -69,7 +68,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20151717,
-        "qs:id":499531,
         "qs_pg:id":499531
     },
     "wof:country":"SE",
@@ -89,7 +87,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1531936353,
+    "wof:lastmodified":1566640629,
     "wof:name":"Stjartnas",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

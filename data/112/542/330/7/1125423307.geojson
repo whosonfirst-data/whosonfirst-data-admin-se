@@ -9,17 +9,19 @@
     "geom:bbox":"17.3534401164,63.0054699906,17.6956944629,63.1142809949",
     "geom:latitude":63.062658,
     "geom:longitude":17.528816,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":351,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":351,
     "iso:country":"SE",
     "lbl:latitude":63.064878,
     "lbl:longitude":17.528885,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":63.064878,
     "mps:longitude":17.528885,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:aze_x_preferred":[
         "Dal"
@@ -138,7 +140,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -164,7 +166,7 @@
         }
     ],
     "wof:id":1125423307,
-    "wof:lastmodified":1564165156,
+    "wof:lastmodified":1566642731,
     "wof:name":"Dal",
     "wof:parent_id":1159303301,
     "wof:placetype":"localadmin",

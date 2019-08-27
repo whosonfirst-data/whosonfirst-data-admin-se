@@ -9,15 +9,18 @@
     "geom:bbox":"16.68333,61.05,16.68333,61.05",
     "geom:latitude":61.05,
     "geom:longitude":16.68333,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":421,
-    "gn:population":420,
+    "gn:country":"SE",
+    "gn:fcode":"PPL",
+    "gn:population":421,
     "iso:country":"SE",
+    "lbl:bbox":"16.66333,61.03,16.70333,61.07",
     "lbl:latitude":61.05,
     "lbl:longitude":16.68333,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u041b\u0438\u043d\u0433\u0431\u043e"
@@ -52,7 +55,7 @@
     "name:swe_x_preferred":[
         "Lingbo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lingbo Kapell"
     ],
     "qs_pg:aaroncc":"SE",
@@ -74,7 +77,7 @@
     "qs_pg:woe_adm0":23424954,
     "qs_pg:woe_id":897369,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424954,
     "woe:name_adm0":"Sverige",
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":1125828853,
-    "wof:lastmodified":1563369953,
+    "wof:lastmodified":1566643029,
     "wof:name":"Lingbo",
     "wof:parent_id":1159305985,
     "wof:placetype":"locality",

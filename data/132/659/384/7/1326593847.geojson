@@ -24,8 +24,12 @@
     "gn:population":1704,
     "gn:timezone":"Europe/Stockholm",
     "iso:country":"SE",
+    "lbl:bbox":"17.21333,60.36333,17.25333,60.40333",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "S\u00f6derfors"
     ],
@@ -48,9 +52,6 @@
         "S\u00f8derfors"
     ],
     "name:swe_x_preferred":[
-        "S\u00f6derfors"
-    ],
-    "name:und_x_variant":[
         "S\u00f6derfors"
     ],
     "src:geom":"geonames",
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1326593847,
-    "wof:lastmodified":1564161612,
+    "wof:lastmodified":1566640002,
     "wof:name":"Soederfors",
     "wof:parent_id":1125356159,
     "wof:placetype":"locality",

@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004682,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":30277695.949064,
     "geom:bbox":"13.1792319244,58.4315392693,13.3280307296,58.5041427471",
     "geom:latitude":58.46724,
     "geom:longitude":13.258018,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":6251,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":6251,
     "iso:country":"SE",
     "lbl:latitude":58.464588,
     "lbl:longitude":13.27043,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":58.464588,
     "mps:longitude":13.27043,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Savare"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125326199,
-    "wof:lastmodified":1529702194,
+    "wof:lastmodified":1566642491,
     "wof:name":"Savare",
     "wof:parent_id":1159303281,
     "wof:placetype":"localadmin",

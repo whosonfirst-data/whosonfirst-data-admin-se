@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Stockholm",
     "iso:country":"SE",
+    "lbl:bbox":"17.17103,61.73826,17.21103,61.77826",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633789
@@ -37,7 +41,7 @@
         "gn:id":2721422
     },
     "wof:country":"SE",
-    "wof:geomhash":"e2cd3f9b433ba334bfab531edfdf7764",
+    "wof:geomhash":"c5c707a09f71227ff087fd0a3efd09d7",
     "wof:hierarchy":[
         {
             "country_id":85633789,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209215783,
-    "wof:lastmodified":1536294136,
+    "wof:lastmodified":1566641564,
     "wof:name":"Blasta",
     "wof:parent_id":85633789,
     "wof:placetype":"locality",
@@ -55,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.191029999999998,
+    17.19103,
     61.75826,
-    17.191029999999998,
+    17.19103,
     61.75826
 ],
   "geometry": {"coordinates":[17.19103,61.75826],"type":"Point"}

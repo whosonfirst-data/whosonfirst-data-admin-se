@@ -27,6 +27,7 @@
     ],
     "lbl:latitude":55.785846,
     "lbl:longitude":13.534299,
+    "lbl:min_zoom":8.0,
     "mps:latitude":55.785846,
     "mps:longitude":13.534299,
     "mz:hierarchy_label":1,
@@ -264,9 +265,6 @@
     "name:ukr_x_preferred":[
         "\u043b\u0435\u043d \u0421\u043a\u043e\u043d\u0435"
     ],
-    "name:unk_x_variant":[
-        "Sk\u00e5ne l\u00e4n"
-    ],
     "name:urd_x_preferred":[
         "\u0633\u06a9\u0648\u0646\u06c1 \u06a9\u0627\u0624\u0646\u0679\u06cc"
     ],
@@ -352,9 +350,9 @@
     "qs:type":"L\u00e4n",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-12-31",
+    "src:population_date":"2006-12-31",
     "statoids:area_km":"11,369",
     "statoids:area_mi":"4,389",
     "statoids:as_of_date":"2006-12-31",
@@ -399,11 +397,10 @@
         "swe",
         "fin"
     ],
-    "wof:lastmodified":1565736368,
+    "wof:lastmodified":1566640675,
     "wof:name":"Scania",
     "wof:parent_id":85633789,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"county",
     "wof:population":1184500,
     "wof:population_rank":12,

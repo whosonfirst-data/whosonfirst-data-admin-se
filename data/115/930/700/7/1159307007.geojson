@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007342,
+    "geom:area_square_m":47447633.120181,
     "geom:bbox":"14.8608989422,58.4406760528,15.0163080596,58.5358657788",
     "geom:latitude":58.492351,
     "geom:longitude":14.940059,
     "iso:country":"SE",
     "lbl:latitude":58.502284,
     "lbl:longitude":14.934885,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":58.502284,
     "mps:longitude":14.934885,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Hagebyhoga"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159307007,
-    "wof:lastmodified":1529703090,
+    "wof:lastmodified":1566643172,
     "wof:name":"Hagebyhoga",
     "wof:parent_id":1159303411,
     "wof:placetype":"localadmin",

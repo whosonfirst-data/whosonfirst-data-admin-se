@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007151,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":43984807.117769,
     "geom:bbox":"18.0204109345,60.1251006397,18.2148746278,60.2107636654",
     "geom:latitude":60.171168,
     "geom:longitude":18.129176,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":2699,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":2699,
     "iso:country":"SE",
     "lbl:latitude":60.17224,
     "lbl:longitude":18.143918,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":60.17224,
     "mps:longitude":18.143918,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Skafthammar"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125421451,
-    "wof:lastmodified":1529702868,
+    "wof:lastmodified":1566642733,
     "wof:name":"Skafthammar",
     "wof:parent_id":1159303415,
     "wof:placetype":"localadmin",

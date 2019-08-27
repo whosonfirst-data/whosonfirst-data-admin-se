@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":59.346063,
     "lbl:longitude":15.224408,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":59.346063,
     "mps:longitude":15.224408,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0425\u043e\u0432\u0441\u0442\u0430"
     ],
@@ -84,7 +87,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":72,
     "wof:belongsto":[
@@ -99,7 +102,6 @@
         "fct:id":"06d0a3b0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2704638,
         "gp:id":893738,
-        "qs:id":1036964,
         "qs_pg:id":1036964,
         "wd:id":"Q3055207",
         "wk:page":"Hovsta"
@@ -120,7 +122,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368845,
+    "wof:lastmodified":1566642221,
     "wof:name":"Hovsta",
     "wof:parent_id":1159307545,
     "wof:placetype":"locality",

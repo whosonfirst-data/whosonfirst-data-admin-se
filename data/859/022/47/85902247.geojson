@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":31931913.768314,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.530743,59.394406,13.530743,59.394406",
     "geom:latitude":59.394406,
     "geom:longitude":13.530743,
     "gn:latitude":59.40165,
     "gn:longitude":13.54833,
     "iso:country":"SE",
+    "lbl:bbox":"13.525743,59.389406,13.535743,59.399406",
     "lbl:latitude":59.394406,
     "lbl:longitude":13.530743,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.397041,
     "mps:longitude":13.539894,
     "mz:hierarchy_label":0,
@@ -30,9 +32,6 @@
         "Kroppkarr"
     ],
     "name:swe_x_preferred":[
-        "Kroppk\u00e4rr"
-    ],
-    "name:unk_x_variant":[
         "Kroppk\u00e4rr"
     ],
     "qs:gn_adm0_cc":"SE",
@@ -63,20 +62,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85688435,
         102191581,
         1125286813,
         85633789,
         101752311,
-        1159303443
+        1159303443,
+        85688435
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2699023,
         "gp:id":896031,
-        "qs:id":1083450,
         "qs_pg:id":1083450
     },
     "wof:country":"SE",
@@ -96,7 +94,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1531935870,
+    "wof:lastmodified":1566640596,
     "wof:name":"Kroppk\u00e4rr",
     "wof:parent_id":101752311,
     "wof:placetype":"neighbourhood",

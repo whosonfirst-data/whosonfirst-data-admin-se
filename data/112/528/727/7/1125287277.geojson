@@ -9,17 +9,19 @@
     "geom:bbox":"13.8875871317,55.9554965604,14.0392829601,56.0249118023",
     "geom:latitude":55.991438,
     "geom:longitude":13.96772,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":1064,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":1064,
     "iso:country":"SE",
     "lbl:latitude":55.994992,
     "lbl:longitude":13.969163,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":55.994992,
     "mps:longitude":13.969163,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u062a\u0631\u06cc\u0646"
@@ -60,7 +62,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -86,7 +88,7 @@
         }
     ],
     "wof:id":1125287277,
-    "wof:lastmodified":1564165110,
+    "wof:lastmodified":1566642649,
     "wof:name":"Trane",
     "wof:parent_id":1159303497,
     "wof:placetype":"localadmin",

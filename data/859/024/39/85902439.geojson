@@ -12,8 +12,10 @@
     "gn:latitude":57.75,
     "gn:longitude":12.93333,
     "iso:country":"SE",
+    "lbl:bbox":"12.938901,57.735962,12.948901,57.745962",
     "lbl:latitude":57.740962,
     "lbl:longitude":12.943901,
+    "lbl:max_zoom":18.0,
     "mps:latitude":57.748158,
     "mps:longitude":12.949448,
     "mz:hierarchy_label":0,
@@ -80,9 +82,6 @@
     "name:swe_x_preferred":[
         "Sj\u00f6bo"
     ],
-    "name:unk_x_variant":[
-        "Sj\u00f6bo"
-    ],
     "qs:gn_adm0_cc":"SE",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":2720501,
@@ -112,7 +111,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         1125340375,
@@ -125,7 +124,6 @@
     "wof:concordances":{
         "gn:id":2678907,
         "gp:id":903912,
-        "qs:id":315714,
         "qs_pg:id":315714
     },
     "wof:country":"SE",
@@ -145,7 +143,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1564162407,
+    "wof:lastmodified":1566640579,
     "wof:name":"Sj\u00f6bo",
     "wof:parent_id":101752293,
     "wof:placetype":"neighbourhood",

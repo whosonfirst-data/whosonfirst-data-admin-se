@@ -9,17 +9,19 @@
     "geom:bbox":"15.433129995,56.4414691773,15.7765645779,56.6646971775",
     "geom:latitude":56.555078,
     "geom:longitude":15.616093,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":3002,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":3002,
     "iso:country":"SE",
     "lbl:latitude":56.567119,
     "lbl:longitude":15.627807,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":56.567119,
     "mps:longitude":15.627807,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Vissefjarda"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125395817,
-    "wof:lastmodified":1554166195,
+    "wof:lastmodified":1566642841,
     "wof:name":"Vissefjarda",
     "wof:parent_id":1159303533,
     "wof:placetype":"localadmin",

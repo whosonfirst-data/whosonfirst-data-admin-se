@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":60.225013,
     "lbl:longitude":17.698127,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":60.225013,
     "mps:longitude":17.698127,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "\u00d6rbyhus"
     ],
@@ -88,7 +91,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":410,
     "wof:belongsto":[
@@ -103,7 +106,6 @@
         "fct:id":"06d02bc4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2686674,
         "gp:id":900744,
-        "qs:id":1037534,
         "qs_pg:id":1037534,
         "wd:id":"Q297673",
         "wk:page":"\u00d6rbyhus"
@@ -124,7 +126,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368655,
+    "wof:lastmodified":1566642153,
     "wof:name":"\u00d6rbyhus",
     "wof:parent_id":1125368887,
     "wof:placetype":"locality",

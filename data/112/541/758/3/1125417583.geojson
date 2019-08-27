@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027357,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":181387093.90079,
     "geom:bbox":"14.3139395962,57.4871298599,14.5801824477,57.6601019926",
     "geom:latitude":57.574448,
     "geom:longitude":14.452604,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":1623,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":1623,
     "iso:country":"SE",
     "lbl:latitude":57.568095,
     "lbl:longitude":14.455124,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":57.568095,
     "mps:longitude":14.455124,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Malmback"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125417583,
-    "wof:lastmodified":1529702432,
+    "wof:lastmodified":1566643086,
     "wof:name":"Malmback",
     "wof:parent_id":1159303537,
     "wof:placetype":"localadmin",

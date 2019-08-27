@@ -9,17 +9,19 @@
     "geom:bbox":"13.1634941804,55.4688727993,13.3179602069,55.5397116893",
     "geom:latitude":55.506201,
     "geom:longitude":13.242907,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":12846,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":12846,
     "iso:country":"SE",
     "lbl:latitude":55.509304,
     "lbl:longitude":13.236479,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":55.509304,
     "mps:longitude":13.236479,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0421\u0432\u0435\u0434\u0430\u043b\u0430"
@@ -96,7 +98,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -122,7 +124,7 @@
         }
     ],
     "wof:id":1125382313,
-    "wof:lastmodified":1564165314,
+    "wof:lastmodified":1566642923,
     "wof:name":"Svedala",
     "wof:parent_id":1159303083,
     "wof:placetype":"localadmin",

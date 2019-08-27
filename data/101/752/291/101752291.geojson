@@ -13,6 +13,8 @@
     "iso:country":"SE",
     "lbl:latitude":58.414234,
     "lbl:longitude":15.610192,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":58.414234,
     "mps:longitude":15.610192,
     "mz:hierarchy_label":1,
@@ -421,7 +423,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1412,
     "wof:belongsto":[
@@ -436,7 +438,6 @@
         "fct:id":"06d09406-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2694762,
         "gp:id":897380,
-        "qs:id":3668,
         "qs_pg:id":3668,
         "wd:id":"Q25413",
         "wk:page":"Link\u00f6ping"
@@ -457,7 +458,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368592,
+    "wof:lastmodified":1566642132,
     "wof:name":"Link\u00f6ping",
     "wof:parent_id":1159307123,
     "wof:placetype":"locality",

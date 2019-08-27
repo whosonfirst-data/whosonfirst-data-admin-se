@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009608,
+    "geom:area_square_m":66377542.955089,
     "geom:bbox":"13.4298719017,55.9855755437,13.5853745636,56.088675791",
     "geom:latitude":56.032684,
     "geom:longitude":13.517786,
     "iso:country":"SE",
     "lbl:latitude":56.031745,
     "lbl:longitude":13.52699,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":56.031745,
     "mps:longitude":13.52699,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Norra Rorum"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159307369,
-    "wof:lastmodified":1529702625,
+    "wof:lastmodified":1566643168,
     "wof:name":"Norra Rorum",
     "wof:parent_id":1159303357,
     "wof:placetype":"localadmin",

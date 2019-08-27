@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4737306.76447,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.03977,57.659024,12.03977,57.659024",
     "geom:latitude":57.659024,
     "geom:longitude":12.03977,
     "gn:id":"",
     "iso:country":"SE",
+    "lbl:bbox":"12.03477,57.654024,12.04477,57.664024",
     "lbl:latitude":57.659024,
     "lbl:longitude":12.03977,
+    "lbl:max_zoom":18.0,
     "mps:latitude":57.657371,
     "mps:longitude":12.042571,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:swe_x_preferred":[
-        "Stensjohojd"
-    ],
-    "name:unk_x_variant":[
         "Stensjohojd"
     ],
     "qs:gn_adm0_cc":"SE",
@@ -58,19 +57,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85688411,
         102191581,
         1125287157,
         85633789,
         101752295,
-        1159302989
+        1159302989,
+        85688411
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20151711,
-        "qs:id":1085497,
         "qs_pg:id":1085497
     },
     "wof:country":"SE",
@@ -90,7 +88,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1531936352,
+    "wof:lastmodified":1566640629,
     "wof:name":"Stensjohojd",
     "wof:parent_id":101752295,
     "wof:placetype":"neighbourhood",

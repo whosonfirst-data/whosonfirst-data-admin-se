@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003573,
+    "geom:area_square_m":23022013.102984,
     "geom:bbox":"13.3720032704,58.551339163,13.4622791188,58.6446525613",
     "geom:latitude":58.597312,
     "geom:longitude":13.420874,
     "iso:country":"SE",
     "lbl:latitude":58.586838,
     "lbl:longitude":13.42091,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":58.586838,
     "mps:longitude":13.42091,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Osterplana"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159306269,
-    "wof:lastmodified":1529702133,
+    "wof:lastmodified":1566643185,
     "wof:name":"Osterplana",
     "wof:parent_id":1159302923,
     "wof:placetype":"localadmin",

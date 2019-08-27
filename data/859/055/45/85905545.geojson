@@ -13,6 +13,7 @@
     "iso:country":"SE",
     "lbl:latitude":59.269074,
     "lbl:longitude":18.084724,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.273516,
     "mps:longitude":18.080956,
     "mz:hierarchy_label":1,
@@ -43,9 +44,6 @@
     "name:swe_x_preferred":[
         "Tallkrogen"
     ],
-    "name:unk_x_variant":[
-        "Tallkrogen"
-    ],
     "qs:gn_adm0_cc":"SE",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":2673730,
@@ -73,7 +71,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":368,
     "wof:belongsto":[
         102191581,
@@ -86,7 +84,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20151755,
-        "qs:id":1118406,
         "qs_pg:id":1118406,
         "wd:id":"Q368886"
     },
@@ -107,7 +104,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563366571,
+    "wof:lastmodified":1566640630,
     "wof:name":"Tallkrogen",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

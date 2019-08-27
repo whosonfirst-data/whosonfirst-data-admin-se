@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":56.545848,
     "lbl:longitude":14.125234,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":56.545848,
     "mps:longitude":14.125234,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0415\u043b\u043c\u0445\u0443\u043b\u0442"
     ],
@@ -138,7 +141,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":185,
     "wof:belongsto":[
@@ -153,7 +156,6 @@
         "fct:id":"06d1c678-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2726576,
         "gp:id":884552,
-        "qs:id":915049,
         "qs_pg:id":915049,
         "wd:id":"Q122872",
         "wk:page":"\u00c4lmhult"
@@ -174,7 +176,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368702,
+    "wof:lastmodified":1566642170,
     "wof:name":"\u00c4lmhult",
     "wof:parent_id":1125270809,
     "wof:placetype":"locality",

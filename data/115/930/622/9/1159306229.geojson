@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005325,
+    "geom:area_square_m":36986156.171838,
     "geom:bbox":"13.4224436564,55.7778943215,13.5357678578,55.8783881611",
     "geom:latitude":55.827551,
     "geom:longitude":13.477247,
     "iso:country":"SE",
     "lbl:latitude":55.825759,
     "lbl:longitude":13.472574,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.825759,
     "mps:longitude":13.472574,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Gudmuntorp"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159306229,
-    "wof:lastmodified":1529702603,
+    "wof:lastmodified":1566643300,
     "wof:name":"Gudmuntorp",
     "wof:parent_id":1159303357,
     "wof:placetype":"localadmin",

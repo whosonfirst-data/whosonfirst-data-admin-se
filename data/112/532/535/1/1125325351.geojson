@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01834,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":96691531.171398,
     "geom:bbox":"20.9291334433,64.7086453133,21.3102055924,64.8030376891",
     "geom:latitude":64.762449,
     "geom:longitude":21.13529,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":19775,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":19775,
     "iso:country":"SE",
     "lbl:latitude":64.749245,
     "lbl:longitude":21.100727,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":64.749245,
     "mps:longitude":21.100727,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Skelleftea Sankt Olov"
@@ -48,7 +50,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":1125325351,
-    "wof:lastmodified":1529702966,
+    "wof:lastmodified":1566642488,
     "wof:name":"Skelleftea Sankt Olov",
     "wof:parent_id":1159303205,
     "wof:placetype":"localadmin",

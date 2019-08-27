@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001675,
+    "geom:area_square_m":11733301.715439,
     "geom:bbox":"12.9143829335,55.4783844506,13.0671981364,55.5151892648",
     "geom:latitude":55.495946,
     "geom:longitude":13.013283,
     "iso:country":"SE",
     "lbl:latitude":55.497498,
     "lbl:longitude":13.024876,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.497498,
     "mps:longitude":13.024876,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Hokopinge"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159305965,
-    "wof:lastmodified":1529702598,
+    "wof:lastmodified":1566643287,
     "wof:name":"Hokopinge",
     "wof:parent_id":1159303307,
     "wof:placetype":"localadmin",

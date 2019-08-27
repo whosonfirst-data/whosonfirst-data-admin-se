@@ -12,8 +12,10 @@
     "gn:latitude":59.3584,
     "gn:longitude":17.86935,
     "iso:country":"SE",
+    "lbl:bbox":"17.927159,59.492161,17.937159,59.502161",
     "lbl:latitude":59.497161,
     "lbl:longitude":17.932159,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.497802,
     "mps:longitude":17.929905,
     "mz:hierarchy_label":0,
@@ -65,9 +67,6 @@
     "name:ukr_x_preferred":[
         "\u0413\u0440\u0456\u043c\u0441\u0442\u0430"
     ],
-    "name:unk_x_variant":[
-        "Grimsta"
-    ],
     "qs:gn_adm0_cc":"SE",
     "qs:gn_fcode":"PPL",
     "qs:gn_local":2666238,
@@ -97,7 +96,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":71,
     "wof:belongsto":[
         102191581,
@@ -111,7 +110,6 @@
     "wof:concordances":{
         "gn:id":2710683,
         "gp:id":20151047,
-        "qs:id":234074,
         "qs_pg:id":234074,
         "wd:id":"Q591583"
     },
@@ -132,7 +130,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563366565,
+    "wof:lastmodified":1566640625,
     "wof:name":"Grimsta",
     "wof:parent_id":101815895,
     "wof:placetype":"neighbourhood",

@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020662,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":126246535.432123,
     "geom:bbox":"17.4109254763,60.3300239065,17.6905380283,60.4497032454",
     "geom:latitude":60.386688,
     "geom:longitude":17.548424,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":5812,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":5812,
     "iso:country":"SE",
     "lbl:latitude":60.386237,
     "lbl:longitude":17.548368,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":60.386237,
     "mps:longitude":17.548368,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Tolfta"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125288051,
-    "wof:lastmodified":1529702878,
+    "wof:lastmodified":1566642613,
     "wof:name":"Tolfta",
     "wof:parent_id":1159302963,
     "wof:placetype":"localadmin",

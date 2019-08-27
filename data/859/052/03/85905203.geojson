@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3843390.719338,
+    "geom:area_square_m":0.0,
     "geom:bbox":"18.065148,59.437855,18.065148,59.437855",
     "geom:latitude":59.437855,
     "geom:longitude":18.065148,
     "iso:country":"SE",
+    "lbl:bbox":"18.060148,59.432855,18.070148,59.442855",
     "lbl:latitude":59.437855,
     "lbl:longitude":18.065148,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.437427,
     "mps:longitude":18.060847,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:tier_locality":1,
     "mz:tier_metro":1,
     "name:swe_x_preferred":[
-        "Grindtopr"
-    ],
-    "name:unk_x_variant":[
         "Grindtopr"
     ],
     "qs:gn_adm0_cc":"SE",
@@ -58,14 +57,14 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85688429,
         102191581,
         1125398123,
         85633789,
         101752309,
-        1159303403
+        1159303403,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -88,7 +87,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1531936329,
+    "wof:lastmodified":1566640620,
     "wof:name":"Grindtorp",
     "wof:parent_id":101752309,
     "wof:placetype":"neighbourhood",

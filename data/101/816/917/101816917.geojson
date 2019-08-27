@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":57.606934,
     "lbl:longitude":18.245853,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":57.606934,
     "mps:longitude":18.245853,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0412\u0438\u0431\u043b\u0435"
     ],
@@ -56,7 +59,7 @@
     "name:swe_x_variant":[
         "Vibbles"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vible"
     ],
     "name:zho_min_nan_x_preferred":[
@@ -78,7 +81,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":118,
     "wof:belongsto":[
@@ -93,7 +96,6 @@
         "fct:id":"06d0c16a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2663254,
         "gp:id":909850,
-        "qs:id":979454,
         "qs_pg:id":979454,
         "wd:id":"Q2034167",
         "wk:page":"Vibble"
@@ -114,7 +116,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368731,
+    "wof:lastmodified":1566642181,
     "wof:name":"Vibble",
     "wof:parent_id":1125421413,
     "wof:placetype":"locality",

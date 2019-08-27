@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":59.020219,
     "lbl:longitude":17.829234,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":59.020219,
     "mps:longitude":17.829234,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0421\u0443\u0440\u0443\u043d\u0434\u0430"
     ],
@@ -78,7 +81,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":143,
     "wof:belongsto":[
@@ -92,7 +95,6 @@
     "wof:concordances":{
         "gn:id":8133114,
         "gp:id":905543,
-        "qs:id":247137,
         "qs_pg:id":247137,
         "wd:id":"Q2539876",
         "wk:page":"Sorunda"
@@ -110,7 +112,7 @@
         }
     ],
     "wof:id":101815931,
-    "wof:lastmodified":1563368807,
+    "wof:lastmodified":1566642207,
     "wof:name":"Sorunda",
     "wof:parent_id":1159306759,
     "wof:placetype":"locality",

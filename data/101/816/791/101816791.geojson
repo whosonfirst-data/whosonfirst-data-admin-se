@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":58.032517,
     "lbl:longitude":14.980357,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":58.032517,
     "mps:longitude":14.980357,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:bul_x_preferred":[
         "\u0422\u0440\u0430\u043d\u043e\u0441"
     ],
@@ -126,7 +129,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":134,
     "wof:belongsto":[
@@ -141,7 +144,6 @@
         "fct:id":"06d1a8aa-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2667628,
         "gp:id":907990,
-        "qs:id":1037501,
         "qs_pg:id":1037501,
         "wd:id":"Q988403",
         "wk:page":"Tran\u00e5s"
@@ -162,7 +164,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368617,
+    "wof:lastmodified":1566642140,
     "wof:name":"Tran\u00e5s",
     "wof:parent_id":1125325705,
     "wof:placetype":"locality",

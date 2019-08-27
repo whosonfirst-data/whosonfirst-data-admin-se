@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008951,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":58252784.18786,
     "geom:bbox":"13.9381622493,58.2069645218,14.1510095146,58.2799658597",
     "geom:latitude":58.24165,
     "geom:longitude":14.038593,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":586,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":586,
     "iso:country":"SE",
     "lbl:latitude":58.234457,
     "lbl:longitude":14.029614,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":58.234457,
     "mps:longitude":14.029614,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Frojered"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125362387,
-    "wof:lastmodified":1529702158,
+    "wof:lastmodified":1566642958,
     "wof:name":"Frojered",
     "wof:parent_id":1159303037,
     "wof:placetype":"localadmin",

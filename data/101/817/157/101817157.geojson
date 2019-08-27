@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":57.553351,
     "lbl:longitude":12.790554,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":57.553351,
     "mps:longitude":12.790554,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Fritsla"
     ],
@@ -59,9 +62,6 @@
     "name:swe_x_variant":[
         "Fritslas"
     ],
-    "name:unk_x_variant":[
-        "Frissla"
-    ],
     "name:zho_min_nan_x_preferred":[
         "Fritsla"
     ],
@@ -81,7 +81,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":53,
     "wof:belongsto":[
@@ -96,7 +96,6 @@
         "fct:id":"06d1d3b6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2713656,
         "gp:id":890036,
-        "qs:id":492319,
         "qs_pg:id":492319,
         "wd:id":"Q516883",
         "wk:page":"Fritsla"
@@ -117,7 +116,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368739,
+    "wof:lastmodified":1566642183,
     "wof:name":"Fritsla",
     "wof:parent_id":1125358449,
     "wof:placetype":"locality",

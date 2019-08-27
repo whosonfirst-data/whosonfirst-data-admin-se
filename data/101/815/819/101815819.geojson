@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":59.469198,
     "lbl:longitude":15.365632,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":59.469198,
     "mps:longitude":15.365632,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:aar_x_preferred":[
         "Fr\u00f6vi"
     ],
@@ -648,7 +651,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":45,
     "wof:belongsto":[
@@ -663,7 +666,6 @@
         "fct:id":"06d067ce-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2713516,
         "gp:id":890121,
-        "qs:id":406991,
         "qs_pg:id":406991,
         "wd:id":"Q2654133",
         "wk:page":"Fr\u00f6vi"
@@ -684,7 +686,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368818,
+    "wof:lastmodified":1566642211,
     "wof:name":"Fr\u00f6vi",
     "wof:parent_id":1125325783,
     "wof:placetype":"locality",

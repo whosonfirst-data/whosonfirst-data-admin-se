@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014911,
+    "geom:area_square_m":94242261.794658,
     "geom:bbox":"16.3603317231,59.1943454737,16.5401161095,59.3358168807",
     "geom:latitude":59.261473,
     "geom:longitude":16.462286,
     "iso:country":"SE",
     "lbl:latitude":59.261957,
     "lbl:longitude":16.468432,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":59.261957,
     "mps:longitude":16.468432,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Husby-Rekarne"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159306955,
-    "wof:lastmodified":1529702836,
+    "wof:lastmodified":1566643225,
     "wof:name":"Husby-Rekarne",
     "wof:parent_id":1159303207,
     "wof:placetype":"localadmin",

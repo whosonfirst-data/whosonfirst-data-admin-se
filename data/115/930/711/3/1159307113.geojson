@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008184,
+    "geom:area_square_m":51446275.191683,
     "geom:bbox":"15.8677582989,59.4043678531,16.0396243015,59.4816754607",
     "geom:latitude":59.443459,
     "geom:longitude":15.952,
     "iso:country":"SE",
     "lbl:latitude":59.44186,
     "lbl:longitude":15.952012,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":59.44186,
     "mps:longitude":15.952012,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bjorskog"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159307113,
-    "wof:lastmodified":1529703024,
+    "wof:lastmodified":1566643380,
     "wof:name":"Bjorskog",
     "wof:parent_id":1159303173,
     "wof:placetype":"localadmin",

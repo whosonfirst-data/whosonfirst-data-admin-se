@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.705439,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":7863130788.209972,
     "geom:bbox":"17.8997059287,67.6399383967,20.9723639901,68.5818554498",
     "geom:latitude":68.107063,
     "geom:longitude":19.411058,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":20080,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":20080,
     "iso:country":"SE",
     "lbl:latitude":68.151549,
     "lbl:longitude":19.382077,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":68.151549,
     "mps:longitude":19.382077,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Jukkasjarvi"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125312209,
-    "wof:lastmodified":1529700151,
+    "wof:lastmodified":1566642932,
     "wof:name":"Jukkasjarvi",
     "wof:parent_id":1159302945,
     "wof:placetype":"localadmin",

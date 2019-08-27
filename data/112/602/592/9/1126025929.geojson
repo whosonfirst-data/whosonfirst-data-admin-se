@@ -9,15 +9,18 @@
     "geom:bbox":"19.41667,65.86667,19.41667,65.86667",
     "geom:latitude":65.86667,
     "geom:longitude":19.41667,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":299,
+    "gn:country":"SE",
+    "gn:fcode":"PPL",
     "gn:population":299,
     "iso:country":"SE",
+    "lbl:bbox":"19.39667,65.84667,19.43667,65.88667",
     "lbl:latitude":65.86667,
     "lbl:longitude":19.41667,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Moskosel"
@@ -52,7 +55,7 @@
     "name:swe_x_preferred":[
         "Moskosel"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Muskossel"
     ],
     "qs_pg:aaroncc":"SE",
@@ -74,7 +77,7 @@
     "qs_pg:woe_adm0":23424954,
     "qs_pg:woe_id":898787,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424954,
     "woe:name_adm0":"Sverige",
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":1126025929,
-    "wof:lastmodified":1563369316,
+    "wof:lastmodified":1566642550,
     "wof:name":"Moskosel",
     "wof:parent_id":1125359285,
     "wof:placetype":"locality",

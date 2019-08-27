@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015077,
+    "geom:area_square_m":95744106.275284,
     "geom:bbox":"15.2679996765,59.034885,15.4682413046,59.1791201678",
     "geom:latitude":59.097617,
     "geom:longitude":15.357425,
     "iso:country":"SE",
     "lbl:latitude":59.104555,
     "lbl:longitude":15.358958,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":59.104555,
     "mps:longitude":15.358958,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Skollersta"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159307347,
-    "wof:lastmodified":1529703049,
+    "wof:lastmodified":1566643268,
     "wof:name":"Skollersta",
     "wof:parent_id":1159303539,
     "wof:placetype":"localadmin",

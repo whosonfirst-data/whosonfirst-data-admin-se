@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":57.317328,
     "lbl:longitude":12.169808,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":57.317328,
     "mps:longitude":12.169808,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Frilles\u00e5s"
     ],
@@ -73,7 +76,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":51,
     "wof:belongsto":[
@@ -88,7 +91,6 @@
         "fct:id":"06d1fa76-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2713679,
         "gp:id":890026,
-        "qs:id":915482,
         "qs_pg:id":915482,
         "wd:id":"Q1464921",
         "wk:page":"Frilles\u00e5s"
@@ -109,7 +111,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368670,
+    "wof:lastmodified":1566642158,
     "wof:name":"Frilles\u00e5s",
     "wof:parent_id":1125381877,
     "wof:placetype":"locality",

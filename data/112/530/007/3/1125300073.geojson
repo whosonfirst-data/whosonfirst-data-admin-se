@@ -9,17 +9,19 @@
     "geom:bbox":"15.3771901544,65.5744271909,19.032099908,67.1904268593",
     "geom:latitude":66.364848,
     "geom:longitude":17.23931,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":3146,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":3146,
     "iso:country":"SE",
     "lbl:latitude":66.383714,
     "lbl:longitude":17.240101,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":66.383714,
     "mps:longitude":17.240101,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0410\u0440\u0439\u0435\u043f\u043b\u043e\u0433"
@@ -105,7 +107,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -131,7 +133,7 @@
         }
     ],
     "wof:id":1125300073,
-    "wof:lastmodified":1564165241,
+    "wof:lastmodified":1566642830,
     "wof:name":"Arjeplog",
     "wof:parent_id":1159303049,
     "wof:placetype":"localadmin",

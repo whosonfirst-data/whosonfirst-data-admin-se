@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":59.728163,
     "lbl:longitude":17.794176,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":59.728163,
     "mps:longitude":17.794176,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041a\u043d\u0438\u0432\u0441\u0442\u0430"
     ],
@@ -111,7 +114,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":379,
     "wof:belongsto":[
@@ -126,7 +129,6 @@
         "fct:id":"06d0bd8c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2700199,
         "gp:id":895563,
-        "qs:id":92383,
         "qs_pg:id":92383,
         "wd:id":"Q1120927",
         "wk:page":"Knivsta"
@@ -147,7 +149,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368630,
+    "wof:lastmodified":1566642145,
     "wof:name":"Knivsta",
     "wof:parent_id":1125394599,
     "wof:placetype":"locality",

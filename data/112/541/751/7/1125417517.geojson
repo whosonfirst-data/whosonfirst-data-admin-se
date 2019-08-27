@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012428,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":65681600.928346,
     "geom:bbox":"21.1192132472,64.6379981403,21.354351927,64.7643483115",
     "geom:latitude":64.697301,
     "geom:longitude":21.243614,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":7291,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":7291,
     "iso:country":"SE",
     "lbl:latitude":64.695779,
     "lbl:longitude":21.241802,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":64.695779,
     "mps:longitude":21.241802,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Skelleftea Sankt Orjan"
@@ -48,7 +50,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":1125417517,
-    "wof:lastmodified":1529702968,
+    "wof:lastmodified":1566643088,
     "wof:name":"Skelleftea Sankt Orjan",
     "wof:parent_id":1159303205,
     "wof:placetype":"localadmin",

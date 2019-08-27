@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001263,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":8823542.801871,
     "geom:bbox":"12.9624763251,55.5951595509,13.0269097516,55.6287742015",
     "geom:latitude":55.613641,
     "geom:longitude":12.996282,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":18689,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":18689,
     "iso:country":"SE",
     "lbl:latitude":55.612904,
     "lbl:longitude":12.993108,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":55.612904,
     "mps:longitude":12.993108,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Malmo Sankt Petri"
@@ -48,7 +50,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":1125358279,
-    "wof:lastmodified":1529702643,
+    "wof:lastmodified":1566642432,
     "wof:name":"Malmo Sankt Petri",
     "wof:parent_id":1159303367,
     "wof:placetype":"localadmin",

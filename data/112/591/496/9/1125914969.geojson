@@ -9,14 +9,18 @@
     "geom:bbox":"13.21667,58.68333,13.21667,58.68333",
     "geom:latitude":58.68333,
     "geom:longitude":13.21667,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"SE",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"SE",
+    "lbl:bbox":"13.19667,58.66333,13.23667,58.70333",
     "lbl:latitude":58.68333,
     "lbl:longitude":13.21667,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:dan_x_preferred":[
         "Spiken"
@@ -48,7 +52,7 @@
     "name:swe_x_variant":[
         "Spiken"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Spikudden"
     ],
     "qs_pg:aaroncc":"SE",
@@ -72,7 +76,7 @@
     "qs_pg:woe_adm0":23424954,
     "qs_pg:woe_id":905628,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424954,
     "woe:name_adm0":"Sverige",
     "woe:name_adm1":"V\u00e4stra G\u00f6talands L\u00e4n",
@@ -105,7 +109,7 @@
         }
     ],
     "wof:id":1125914969,
-    "wof:lastmodified":1563369842,
+    "wof:lastmodified":1566642974,
     "wof:name":"Spiken",
     "wof:parent_id":1159306419,
     "wof:placetype":"locality",

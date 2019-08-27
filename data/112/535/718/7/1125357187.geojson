@@ -9,17 +9,19 @@
     "geom:bbox":"15.7957707218,56.1410106885,15.9879368514,56.3038302473",
     "geom:latitude":56.218739,
     "geom:longitude":15.871884,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":3542,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":3542,
     "iso:country":"SE",
     "lbl:latitude":56.202932,
     "lbl:longitude":15.857342,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":56.202932,
     "mps:longitude":15.857342,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Jamjo"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125357187,
-    "wof:lastmodified":1554166207,
+    "wof:lastmodified":1566642477,
     "wof:name":"Jamjo",
     "wof:parent_id":1159303467,
     "wof:placetype":"localadmin",

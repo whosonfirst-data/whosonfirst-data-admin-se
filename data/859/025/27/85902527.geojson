@@ -14,6 +14,7 @@
     "iso:country":"SE",
     "lbl:latitude":59.278285,
     "lbl:longitude":18.043115,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.276406,
     "mps:longitude":18.053654,
     "mz:hierarchy_label":1,
@@ -53,9 +54,6 @@
     "name:swe_x_preferred":[
         "Stureby"
     ],
-    "name:unk_x_variant":[
-        "Stureby"
-    ],
     "qs:gn_adm0_cc":"SE",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":2673730,
@@ -83,7 +81,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":343,
     "wof:belongsto":[
         102191581,
@@ -97,7 +95,6 @@
     "wof:concordances":{
         "gn:id":2671062,
         "gp:id":906632,
-        "qs:id":3844,
         "qs_pg:id":3844,
         "wd:id":"Q1781238"
     },
@@ -118,7 +115,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563366534,
+    "wof:lastmodified":1566640599,
     "wof:name":"Stureby",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

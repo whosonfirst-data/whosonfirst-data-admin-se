@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023649,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":142927983.355141,
     "geom:bbox":"16.386154684,60.6628685019,16.7547650271,60.7914874246",
     "geom:latitude":60.740822,
     "geom:longitude":16.596777,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":2627,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":2627,
     "iso:country":"SE",
     "lbl:latitude":60.736606,
     "lbl:longitude":16.5842,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":60.736606,
     "mps:longitude":16.5842,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Jarbo"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125325419,
-    "wof:lastmodified":1529702055,
+    "wof:lastmodified":1566642541,
     "wof:name":"Jarbo",
     "wof:parent_id":1159303303,
     "wof:placetype":"localadmin",

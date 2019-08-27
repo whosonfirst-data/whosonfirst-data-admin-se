@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006564,
+    "geom:area_square_m":42177734.521608,
     "geom:bbox":"13.7067387107,58.6366187401,13.8299499513,58.7396420943",
     "geom:latitude":58.688136,
     "geom:longitude":13.780252,
     "iso:country":"SE",
     "lbl:latitude":58.699519,
     "lbl:longitude":13.784441,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":58.699519,
     "mps:longitude":13.784441,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Leksberg"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159306741,
-    "wof:lastmodified":1529702145,
+    "wof:lastmodified":1566643190,
     "wof:name":"Leksberg",
     "wof:parent_id":1159303321,
     "wof:placetype":"localadmin",

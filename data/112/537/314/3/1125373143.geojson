@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.074435,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":419859798.866423,
     "geom:bbox":"14.947932264,62.7294131414,15.5842264726,62.9819871832",
     "geom:latitude":62.859702,
     "geom:longitude":15.21617,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":1865,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":1865,
     "iso:country":"SE",
     "lbl:latitude":62.840814,
     "lbl:longitude":15.221065,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":62.840814,
     "mps:longitude":15.221065,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Revsund"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125373143,
-    "wof:lastmodified":1529702368,
+    "wof:lastmodified":1566642802,
     "wof:name":"Revsund",
     "wof:parent_id":1159303529,
     "wof:placetype":"localadmin",

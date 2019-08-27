@@ -12,10 +12,13 @@
     "iso:country":"SE",
     "lbl:latitude":59.38375,
     "lbl:longitude":17.041762,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":59.38375,
     "mps:longitude":17.041762,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "Abborrberget"
     ],
@@ -77,7 +80,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":45,
     "wof:belongsto":[
         85688419,
@@ -90,9 +93,11 @@
     "wof:concordances":{
         "gn:id":2727731,
         "gp:id":15002504,
-        "qs:id":4,
-        "qs_pg:id":575762,
+        "qs_pg:id":4,
         "wd:id":"Q3273780"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":575762
     },
     "wof:country":"SE",
     "wof:geomhash":"c4f03975e32272574f852acda53b562f",
@@ -107,7 +112,7 @@
         }
     ],
     "wof:id":101815781,
-    "wof:lastmodified":1563368852,
+    "wof:lastmodified":1566642224,
     "wof:name":"Abborrberget",
     "wof:parent_id":1125356189,
     "wof:placetype":"locality",

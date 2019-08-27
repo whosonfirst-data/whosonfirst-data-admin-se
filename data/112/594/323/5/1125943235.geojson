@@ -9,15 +9,18 @@
     "geom:bbox":"16.17548,58.48373,16.17548,58.48373",
     "geom:latitude":58.48373,
     "geom:longitude":16.17548,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":518,
-    "gn:population":488,
+    "gn:country":"SE",
+    "gn:fcode":"PPL",
+    "gn:population":518,
     "iso:country":"SE",
+    "lbl:bbox":"16.15548,58.46373,16.19548,58.50373",
     "lbl:latitude":58.48373,
     "lbl:longitude":16.17548,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "V\u00e4stra Husby"
@@ -43,7 +46,7 @@
     "name:swe_x_preferred":[
         "V\u00e4stra Husby"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Husby"
     ],
     "qs_pg:aaroncc":"SE",
@@ -65,7 +68,7 @@
     "qs_pg:woe_adm0":23424954,
     "qs_pg:woe_id":909531,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424954,
     "woe:name_adm0":"Sverige",
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":1125943235,
-    "wof:lastmodified":1563369108,
+    "wof:lastmodified":1566642368,
     "wof:name":"V\u00e4stra Husby",
     "wof:parent_id":1125361927,
     "wof:placetype":"locality",

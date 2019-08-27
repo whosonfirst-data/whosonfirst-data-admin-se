@@ -9,17 +9,19 @@
     "geom:bbox":"12.6130564865,57.9088574658,12.7392889016,58.0099523005",
     "geom:latitude":57.966928,
     "geom:longitude":12.676137,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":1412,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":1412,
     "iso:country":"SE",
     "lbl:latitude":57.968897,
     "lbl:longitude":12.666574,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":57.968897,
     "mps:longitude":12.666574,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0647\u0648\u0644\u0626"
@@ -138,7 +140,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -164,7 +166,7 @@
         }
     ],
     "wof:id":1125421391,
-    "wof:lastmodified":1564165176,
+    "wof:lastmodified":1566642748,
     "wof:name":"Hol",
     "wof:parent_id":1159303255,
     "wof:placetype":"localadmin",

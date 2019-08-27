@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0024,
-    "geom:area_square_m":15173298.906705,
+    "geom:area_square_m":15173298.906706,
     "geom:bbox":"18.5061331639,59.2162396507,18.5851342774,59.2800913014",
     "geom:latitude":59.254085,
     "geom:longitude":18.543813,
@@ -14,6 +14,7 @@
     "iso:country":"SE",
     "lbl:latitude":59.256939,
     "lbl:longitude":18.522038,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.25439,
     "mps:longitude":18.546502,
     "mz:hierarchy_label":1,
@@ -41,9 +42,6 @@
     "name:swe_x_preferred":[
         "Sk\u00e4lsmara",
         "Lugnet och Sk\u00e4lsmara"
-    ],
-    "name:unk_x_variant":[
-        "Sk\u00e4lsmara"
     ],
     "name:zho_min_nan_x_preferred":[
         "Lugnet och Sk\u00e4lsmara"
@@ -75,7 +73,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         1159305775,
@@ -87,7 +85,6 @@
     "wof:concordances":{
         "gn:id":2678339,
         "gp:id":904118,
-        "qs:id":315715,
         "qs_pg:id":315715
     },
     "wof:country":"SE",
@@ -107,7 +104,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702791,
+    "wof:lastmodified":1566640580,
     "wof:name":"Sk\u00e4lsmara",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

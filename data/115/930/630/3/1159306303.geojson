@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006026,
+    "geom:area_square_m":41927019.115394,
     "geom:bbox":"13.5638097608,55.7217604092,13.8034334644,55.791164212",
     "geom:latitude":55.755454,
     "geom:longitude":13.69244,
     "iso:country":"SE",
     "lbl:latitude":55.762537,
     "lbl:longitude":13.732327,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.762537,
     "mps:longitude":13.732327,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ostraby"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159306303,
-    "wof:lastmodified":1529702604,
+    "wof:lastmodified":1566643330,
     "wof:name":"Ostraby",
     "wof:parent_id":1159303277,
     "wof:placetype":"localadmin",

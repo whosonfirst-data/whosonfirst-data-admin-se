@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00928,
+    "geom:area_square_m":61341295.051385,
     "geom:bbox":"13.5293967254,57.6446113895,13.7234800292,57.7295970798",
     "geom:latitude":57.685669,
     "geom:longitude":13.613949,
     "iso:country":"SE",
     "lbl:latitude":57.679027,
     "lbl:longitude":13.607323,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":57.679027,
     "mps:longitude":13.607323,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Gronahog"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159306223,
-    "wof:lastmodified":1529702131,
+    "wof:lastmodified":1566643300,
     "wof:name":"Gronahog",
     "wof:parent_id":1159303161,
     "wof:placetype":"localadmin",

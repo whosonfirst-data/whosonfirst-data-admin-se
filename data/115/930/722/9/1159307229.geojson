@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000448,
+    "geom:area_square_m":2747108.489491,
     "geom:bbox":"18.3604293161,60.2455747387,18.3999594132,60.2676602969",
     "geom:latitude":60.257078,
     "geom:longitude":18.381636,
     "iso:country":"SE",
     "lbl:latitude":60.257977,
     "lbl:longitude":18.383287,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":60.257977,
     "mps:longitude":18.383287,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Osthammar"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159307229,
-    "wof:lastmodified":1529702871,
+    "wof:lastmodified":1566643229,
     "wof:name":"Osthammar",
     "wof:parent_id":1159303415,
     "wof:placetype":"localadmin",

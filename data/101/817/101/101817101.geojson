@@ -13,6 +13,8 @@
     "iso:country":"SE",
     "lbl:latitude":58.700428,
     "lbl:longitude":13.8107,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":58.700428,
     "mps:longitude":13.8107,
     "mz:hierarchy_label":1,
@@ -255,7 +257,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":218,
     "wof:belongsto":[
@@ -270,7 +272,6 @@
         "fct:id":"06d1cfec-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2692613,
         "gp:id":898232,
-        "qs:id":279092,
         "qs_pg:id":279092,
         "wd:id":"Q948117",
         "wk:page":"Mariestad"
@@ -291,7 +292,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368774,
+    "wof:lastmodified":1566642196,
     "wof:name":"Mariestad",
     "wof:parent_id":1159306741,
     "wof:placetype":"locality",

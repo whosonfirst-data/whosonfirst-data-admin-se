@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006112,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":39488857.725364,
     "geom:bbox":"13.9069956162,58.4517813235,14.1139432356,58.5489291365",
     "geom:latitude":58.499064,
     "geom:longitude":13.996125,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":1571,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":1571,
     "iso:country":"SE",
     "lbl:latitude":58.516055,
     "lbl:longitude":13.958797,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":58.516055,
     "mps:longitude":13.958797,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Varing"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125362361,
-    "wof:lastmodified":1529702156,
+    "wof:lastmodified":1566642958,
     "wof:name":"Varing",
     "wof:parent_id":1159302921,
     "wof:placetype":"localadmin",

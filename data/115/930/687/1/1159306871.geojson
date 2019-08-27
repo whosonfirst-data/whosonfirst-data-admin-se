@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002173,
+    "geom:area_square_m":14052890.668335,
     "geom:bbox":"14.7673493669,58.4455992212,14.8645169153,58.4802586071",
     "geom:latitude":58.461305,
     "geom:longitude":14.815541,
     "iso:country":"SE",
     "lbl:latitude":58.462351,
     "lbl:longitude":14.816464,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":58.462351,
     "mps:longitude":14.816464,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Nassja"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159306871,
-    "wof:lastmodified":1529703089,
+    "wof:lastmodified":1566643192,
     "wof:name":"Nassja",
     "wof:parent_id":1159303411,
     "wof:placetype":"localadmin",

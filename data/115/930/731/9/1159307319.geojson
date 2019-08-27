@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001593,
+    "geom:area_square_m":11071582.228309,
     "geom:bbox":"13.3956770648,55.770452881,13.4783001152,55.8080613258",
     "geom:latitude":55.789505,
     "geom:longitude":13.435764,
     "iso:country":"SE",
     "lbl:latitude":55.792101,
     "lbl:longitude":13.436435,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.792101,
     "mps:longitude":13.436435,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Hurva"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159307319,
-    "wof:lastmodified":1529702624,
+    "wof:lastmodified":1566643168,
     "wof:name":"Hurva",
     "wof:parent_id":1159303151,
     "wof:placetype":"localadmin",

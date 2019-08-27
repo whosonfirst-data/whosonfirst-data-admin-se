@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":16310017.590791,
+    "geom:area_square_m":0.0,
     "geom:bbox":"18.276497,59.229902,18.276497,59.229902",
     "geom:latitude":59.229902,
     "geom:longitude":18.276497,
     "gn:id":"",
     "iso:country":"SE",
+    "lbl:bbox":"18.271497,59.224902,18.281497,59.234902",
     "lbl:latitude":59.229902,
     "lbl:longitude":18.276497,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.223478,
     "mps:longitude":18.261671,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:tier_locality":1,
     "mz:tier_metro":1,
     "name:swe_x_preferred":[
-        "Krusboda"
-    ],
-    "name:unk_x_variant":[
         "Krusboda"
     ],
     "qs:gn_adm0_cc":"SE",
@@ -59,7 +58,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         1125398119,
@@ -70,7 +69,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20151244,
-        "qs:id":1087419,
         "qs_pg:id":1087419
     },
     "wof:country":"SE",
@@ -90,7 +88,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1531936337,
+    "wof:lastmodified":1566640613,
     "wof:name":"Krusboda",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

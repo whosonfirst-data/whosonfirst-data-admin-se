@@ -9,17 +9,19 @@
     "geom:bbox":"15.6626752541,57.8033122272,15.9646380351,57.9845932545",
     "geom:latitude":57.895824,
     "geom:longitude":15.814943,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":943,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":943,
     "iso:country":"SE",
     "lbl:latitude":57.901497,
     "lbl:longitude":15.814911,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":57.901497,
     "mps:longitude":15.814911,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bos_x_preferred":[
         "Horn"
@@ -123,7 +125,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -149,7 +151,7 @@
         }
     ],
     "wof:id":1125417597,
-    "wof:lastmodified":1564165440,
+    "wof:lastmodified":1566643093,
     "wof:name":"Horn",
     "wof:parent_id":1159303139,
     "wof:placetype":"localadmin",

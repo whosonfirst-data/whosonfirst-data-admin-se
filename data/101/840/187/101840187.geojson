@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":57.606108,
     "lbl:longitude":12.052243,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":57.606108,
     "mps:longitude":12.052243,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041a\u043e\u043b\u0435\u0440\u0435\u0434"
     ],
@@ -87,7 +90,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":617,
     "wof:belongsto":[
@@ -102,7 +105,6 @@
         "fct:id":"06d2e738-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2702449,
         "gp:id":894634,
-        "qs:id":1080956,
         "qs_pg:id":1080956,
         "wd:id":"Q2682922",
         "wk:page":"K\u00e5llered"
@@ -123,7 +125,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368886,
+    "wof:lastmodified":1566642235,
     "wof:name":"K\u00e5llered",
     "wof:parent_id":1125382051,
     "wof:placetype":"locality",

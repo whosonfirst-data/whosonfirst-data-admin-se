@@ -9,17 +9,19 @@
     "geom:bbox":"13.903552383,62.5497176721,14.7728185584,62.8730804045",
     "geom:latitude":62.741097,
     "geom:longitude":14.398653,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":2362,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":2362,
     "iso:country":"SE",
     "lbl:latitude":62.758094,
     "lbl:longitude":14.434926,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":62.758094,
     "mps:longitude":14.434926,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:als_x_preferred":[
         "Berg"
@@ -138,7 +140,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -164,7 +166,7 @@
         }
     ],
     "wof:id":1125312197,
-    "wof:lastmodified":1564165326,
+    "wof:lastmodified":1566642933,
     "wof:name":"Berg",
     "wof:parent_id":1159303129,
     "wof:placetype":"localadmin",

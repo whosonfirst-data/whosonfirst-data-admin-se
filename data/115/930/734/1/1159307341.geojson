@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001908,
+    "geom:area_square_m":13376746.261646,
     "geom:bbox":"14.0736433723,55.4375875544,14.1456258691,55.4804128045",
     "geom:latitude":55.458067,
     "geom:longitude":14.111915,
     "iso:country":"SE",
     "lbl:latitude":55.45758,
     "lbl:longitude":14.112603,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.45758,
     "mps:longitude":14.112603,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Horup"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159307341,
-    "wof:lastmodified":1529702624,
+    "wof:lastmodified":1566643268,
     "wof:name":"Horup",
     "wof:parent_id":1159303233,
     "wof:placetype":"localadmin",

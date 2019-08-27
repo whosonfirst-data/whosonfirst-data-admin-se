@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":57.831325,
     "lbl:longitude":12.013077,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":57.831325,
     "mps:longitude":12.013077,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0421\u0443\u0440\u0442\u0435"
     ],
@@ -91,7 +94,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":163,
     "wof:belongsto":[
@@ -106,7 +109,6 @@
         "fct:id":"06d2c03c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2670603,
         "gp:id":906825,
-        "qs:id":3860,
         "qs_pg:id":3860,
         "wd:id":"Q287691",
         "wk:page":"Surte"
@@ -127,7 +129,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368893,
+    "wof:lastmodified":1566642238,
     "wof:name":"Surte",
     "wof:parent_id":1159307561,
     "wof:placetype":"locality",

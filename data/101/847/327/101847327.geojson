@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":58.030687,
     "lbl:longitude":12.152903,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":58.030687,
     "mps:longitude":12.152903,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041b\u044c\u043e\u0434\u044c\u043e\u0441\u0435"
     ],
@@ -99,7 +102,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":223,
     "wof:belongsto":[
@@ -114,7 +117,6 @@
         "fct:id":"06d2816c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2694366,
         "gp:id":897549,
-        "qs:id":1332362,
         "qs_pg:id":1332362,
         "wd:id":"Q1639127",
         "wk:page":"L\u00f6d\u00f6se"
@@ -135,7 +137,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368876,
+    "wof:lastmodified":1566642232,
     "wof:name":"L\u00f6d\u00f6se",
     "wof:parent_id":1125373089,
     "wof:placetype":"locality",

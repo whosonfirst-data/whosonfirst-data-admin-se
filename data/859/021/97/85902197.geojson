@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000435,
-    "geom:area_square_m":2738868.513743,
+    "geom:area_square_m":2738868.513744,
     "geom:bbox":"18.1033296314,59.3653942415,18.1391406563,59.3869573845",
     "geom:latitude":59.374443,
     "geom:longitude":18.124329,
@@ -14,6 +14,7 @@
     "iso:country":"SE",
     "lbl:latitude":59.372575,
     "lbl:longitude":18.117921,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.374227,
     "mps:longitude":18.127024,
     "mz:hierarchy_label":1,
@@ -27,9 +28,6 @@
     "mz:tier_locality":5,
     "mz:tier_metro":1,
     "name:swe_x_preferred":[
-        "Islinge"
-    ],
-    "name:unk_x_variant":[
         "Islinge"
     ],
     "qs:gn_adm0_cc":"SE",
@@ -59,20 +57,19 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85688429,
         102191581,
         1125394719,
         85633789,
         101839521,
-        1159303469
+        1159303469,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2703493,
         "gp:id":894229,
-        "qs:id":478543,
         "qs_pg:id":478543
     },
     "wof:country":"SE",
@@ -92,7 +89,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702782,
+    "wof:lastmodified":1566640652,
     "wof:name":"Islinge",
     "wof:parent_id":101839521,
     "wof:placetype":"neighbourhood",

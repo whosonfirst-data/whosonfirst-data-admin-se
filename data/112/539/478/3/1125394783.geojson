@@ -9,17 +9,19 @@
     "geom:bbox":"12.8972243657,58.2497322752,12.9957590399,58.2869379024",
     "geom:latitude":58.268463,
     "geom:longitude":12.95041,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":4939,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":4939,
     "iso:country":"SE",
     "lbl:latitude":58.268895,
     "lbl:longitude":12.945587,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":58.268895,
     "mps:longitude":12.945587,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Vara"
@@ -102,7 +104,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -128,7 +130,7 @@
         }
     ],
     "wof:id":1125394783,
-    "wof:lastmodified":1564165244,
+    "wof:lastmodified":1566642834,
     "wof:name":"Vara",
     "wof:parent_id":1159303487,
     "wof:placetype":"localadmin",

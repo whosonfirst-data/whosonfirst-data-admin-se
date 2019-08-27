@@ -9,17 +9,19 @@
     "geom:bbox":"15.6572603228,60.1663003602,16.1510463088,60.3727237554",
     "geom:latitude":60.262493,
     "geom:longitude":15.92099,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":10839,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":10839,
     "iso:country":"SE",
     "lbl:latitude":60.271537,
     "lbl:longitude":15.921018,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":60.271537,
     "mps:longitude":15.921018,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:als_x_preferred":[
         "Hedemora"
@@ -123,7 +125,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -149,7 +151,7 @@
         }
     ],
     "wof:id":1125382237,
-    "wof:lastmodified":1564165310,
+    "wof:lastmodified":1566642918,
     "wof:name":"Hedemora",
     "wof:parent_id":1159303183,
     "wof:placetype":"localadmin",

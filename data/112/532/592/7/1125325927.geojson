@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005846,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":36402540.964485,
     "geom:bbox":"17.2721481129,59.7321175104,17.409510332,59.7933289765",
     "geom:latitude":59.760668,
     "geom:longitude":17.335899,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":1418,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":1418,
     "iso:country":"SE",
     "lbl:latitude":59.761663,
     "lbl:longitude":17.335924,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":59.761663,
     "mps:longitude":17.335924,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Gryta"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125325927,
-    "wof:lastmodified":1529702875,
+    "wof:lastmodified":1566642483,
     "wof:name":"Gryta",
     "wof:parent_id":1159303337,
     "wof:placetype":"localadmin",

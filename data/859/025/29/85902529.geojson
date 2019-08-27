@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00056,
-    "geom:area_square_m":3539932.997349,
+    "geom:area_square_m":3539932.997348,
     "geom:bbox":"17.9736328125,59.2377952245,18.020324707,59.261548106",
     "geom:latitude":59.25086,
     "geom:longitude":17.997485,
@@ -14,6 +14,7 @@
     "iso:country":"SE",
     "lbl:latitude":59.250087,
     "lbl:longitude":17.993354,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.252311,
     "mps:longitude":17.992003,
     "mz:hierarchy_label":1,
@@ -27,9 +28,6 @@
     "mz:tier_locality":5,
     "mz:tier_metro":1,
     "name:swe_x_preferred":[
-        "Stuvsta"
-    ],
-    "name:unk_x_variant":[
         "Stuvsta"
     ],
     "qs:gn_adm0_cc":"SE",
@@ -59,20 +57,19 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85688429,
         102191581,
         1125362217,
         85633789,
         101752307,
-        1159303035
+        1159303035,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2671033,
         "gp:id":906642,
-        "qs:id":1169389,
         "qs_pg:id":1169389
     },
     "wof:country":"SE",
@@ -92,7 +89,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702795,
+    "wof:lastmodified":1566640599,
     "wof:name":"Stuvsta",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

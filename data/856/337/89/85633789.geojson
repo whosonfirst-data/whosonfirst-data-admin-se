@@ -19,6 +19,8 @@
     ],
     "lbl:latitude":65.859144,
     "lbl:longitude":19.017205,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":65.859144,
     "mps:longitude":19.017205,
     "mz:hierarchy_label":1,
@@ -959,14 +961,9 @@
         "Svithjod",
         "Svitjod"
     ],
-    "name:und_x_preferred":[
+    "name:und_x_variant":[
         "Souid\u00eda",
-        "Suwei-dain",
-        "Su\u00e8cia",
-        "Sv\u00ed\u00fej\u00f3\u00f0"
-    ],
-    "name:unk_x_variant":[
-        "Svezia"
+        "Suwei-dain"
     ],
     "name:urd_x_preferred":[
         "\u0633\u0648\u06cc\u0688\u0646"
@@ -1124,7 +1121,7 @@
         "quattroshapes",
         "naturalearth"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "statoids:dial":"46",
     "statoids:ds":"S",
@@ -1169,7 +1166,7 @@
         "mzb:id":"sweden",
         "ne:adm0_a3":"SWE",
         "nyt:id":"59439561369162752001",
-        "qs:id":1028997,
+        "qs_pg:id":1028997,
         "uncrt:id":"S",
         "wd:id":"Q34",
         "wk:page":"Sweden",
@@ -1192,7 +1189,7 @@
         "swe",
         "fin"
     ],
-    "wof:lastmodified":1565736364,
+    "wof:lastmodified":1566640666,
     "wof:name":"Sweden",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

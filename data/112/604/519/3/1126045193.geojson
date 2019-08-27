@@ -9,15 +9,18 @@
     "geom:bbox":"22.81667,68.38333,22.81667,68.38333",
     "geom:latitude":68.38333,
     "geom:longitude":22.81667,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":364,
-    "gn:population":218,
+    "gn:country":"SE",
+    "gn:fcode":"PPL",
+    "gn:population":364,
     "iso:country":"SE",
+    "lbl:bbox":"22.79667,68.36333,22.83667,68.40333",
     "lbl:latitude":68.38333,
     "lbl:longitude":22.81667,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u041a\u0443\u0442\u0430\u0438\u043d\u0435\u043d"
@@ -64,7 +67,7 @@
     "name:swe_x_preferred":[
         "Kuttainen"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kuttanen"
     ],
     "qs_pg:aaroncc":"SE",
@@ -79,7 +82,7 @@
     "qs_pg:qs_id":550231,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85688471,
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":1126045193,
-    "wof:lastmodified":1563369366,
+    "wof:lastmodified":1566642572,
     "wof:name":"Kuttainen",
     "wof:parent_id":1125300109,
     "wof:placetype":"locality",

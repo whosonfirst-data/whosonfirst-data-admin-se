@@ -9,17 +9,19 @@
     "geom:bbox":"15.980583277,58.503117603,16.172720382,58.6156062548",
     "geom:latitude":58.564944,
     "geom:longitude":16.078678,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":9560,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":9560,
     "iso:country":"SE",
     "lbl:latitude":58.556056,
     "lbl:longitude":16.088126,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":58.556056,
     "mps:longitude":16.088126,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bos_x_preferred":[
         "Borg"
@@ -135,7 +137,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -161,7 +163,7 @@
         }
     ],
     "wof:id":1125356321,
-    "wof:lastmodified":1564164939,
+    "wof:lastmodified":1566642448,
     "wof:name":"Borg",
     "wof:parent_id":1159303229,
     "wof:placetype":"localadmin",

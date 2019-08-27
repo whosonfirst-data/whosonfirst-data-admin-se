@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001623,
-    "geom:area_square_m":10231502.677344,
+    "geom:area_square_m":10231502.677346,
     "geom:bbox":"17.7851049805,59.3161842769,17.8393573958,59.3611951825",
     "geom:latitude":59.340237,
     "geom:longitude":17.811766,
@@ -13,6 +13,7 @@
     "iso:country":"SE",
     "lbl:latitude":59.347738,
     "lbl:longitude":17.819857,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.343669,
     "mps:longitude":17.809578,
     "mz:hierarchy_label":1,
@@ -25,9 +26,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":5,
     "name:swe_x_preferred":[
-        "Lambarudd"
-    ],
-    "name:unk_x_variant":[
         "Lambarudd"
     ],
     "qs:gn_adm0_cc":"SE",
@@ -55,7 +53,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         1159307483,
@@ -66,7 +64,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20151279,
-        "qs:id":985210,
         "qs_pg:id":985210
     },
     "wof:country":"SE",
@@ -86,7 +83,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702803,
+    "wof:lastmodified":1566640618,
     "wof:name":"Lambarudd",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

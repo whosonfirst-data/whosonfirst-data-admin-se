@@ -12,10 +12,13 @@
     "iso:country":"SE",
     "lbl:latitude":58.273462,
     "lbl:longitude":13.718371,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":58.273462,
     "mps:longitude":13.718371,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0421\u0442\u044d\u043d\u0441\u0442\u0430\u0440\u043f"
     ],
@@ -93,7 +96,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":124,
     "wof:belongsto":[
         85688411,
@@ -107,7 +110,6 @@
         "fct:id":"06d251ec-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2673953,
         "gp:id":905962,
-        "qs:id":901809,
         "qs_pg:id":901809,
         "wd:id":"Q1014060",
         "wk:page":"Stenstorp"
@@ -128,7 +130,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368681,
+    "wof:lastmodified":1566642163,
     "wof:name":"Stenstorp",
     "wof:parent_id":1125362427,
     "wof:placetype":"locality",

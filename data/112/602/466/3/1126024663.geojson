@@ -9,14 +9,18 @@
     "geom:bbox":"18.76667,59.41667,18.76667,59.41667",
     "geom:latitude":59.41667,
     "geom:longitude":18.76667,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"SE",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"SE",
+    "lbl:bbox":"18.74667,59.39667,18.78667,59.43667",
     "lbl:latitude":59.41667,
     "lbl:longitude":18.76667,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Norra Stavsudda"
@@ -33,7 +37,7 @@
     "name:swe_x_preferred":[
         "Norra Stavsudda"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Norrstavsudda"
     ],
     "qs_pg:aaroncc":"SE",
@@ -57,7 +61,7 @@
     "qs_pg:woe_adm0":23424954,
     "qs_pg:woe_id":899807,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424954,
     "woe:name_adm0":"Sverige",
     "woe:name_adm1":"Stockholms L\u00e4n",
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":1126024663,
-    "wof:lastmodified":1561840013,
+    "wof:lastmodified":1566642563,
     "wof:name":"Norra Stavsudda",
     "wof:parent_id":1159306961,
     "wof:placetype":"locality",

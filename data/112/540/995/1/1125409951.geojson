@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003716,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":24227914.823143,
     "geom:bbox":"12.9203529979,58.1553564664,13.0456828799,58.210833949",
     "geom:latitude":58.179883,
     "geom:longitude":12.974425,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":2126,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":2126,
     "iso:country":"SE",
     "lbl:latitude":58.184384,
     "lbl:longitude":12.963055,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":58.184384,
     "mps:longitude":12.963055,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Laske-Vedum"
@@ -48,7 +50,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":1125409951,
-    "wof:lastmodified":1529702217,
+    "wof:lastmodified":1566643072,
     "wof:name":"Laske-Vedum",
     "wof:parent_id":1159303487,
     "wof:placetype":"localadmin",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005551,
+    "geom:area_square_m":38651774.597078,
     "geom:bbox":"14.074756327,55.6903457986,14.2079315374,55.7665761643",
     "geom:latitude":55.730421,
     "geom:longitude":14.150456,
     "iso:country":"SE",
     "lbl:latitude":55.736842,
     "lbl:longitude":14.172686,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.736842,
     "mps:longitude":14.172686,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ravlunda"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159307023,
-    "wof:lastmodified":1529702617,
+    "wof:lastmodified":1566643267,
     "wof:name":"Ravlunda",
     "wof:parent_id":1159302931,
     "wof:placetype":"localadmin",

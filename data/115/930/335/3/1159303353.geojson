@@ -24,10 +24,13 @@
     ],
     "lbl:latitude":61.942815,
     "lbl:longitude":15.793827,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":61.942815,
     "mps:longitude":15.793827,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u064a\u0648\u0633\u062f\u0627\u0644"
     ],
@@ -106,7 +109,7 @@
     "se-lant:lanskod":21,
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":1159303353,
-    "wof:lastmodified":1564165629,
+    "wof:lastmodified":1566643278,
     "wof:name":"Ljusdal",
     "wof:parent_id":85688453,
     "wof:placetype":"county",

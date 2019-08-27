@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010673,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":70294944.132648,
     "geom:bbox":"13.1779330522,57.7687730922,13.3549783647,57.87028054",
     "geom:latitude":57.815046,
     "geom:longitude":13.27165,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":2486,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":2486,
     "iso:country":"SE",
     "lbl:latitude":57.806504,
     "lbl:longitude":13.278822,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":57.806504,
     "mps:longitude":13.278822,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Sodra Ving"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125326165,
-    "wof:lastmodified":1529702193,
+    "wof:lastmodified":1566642495,
     "wof:name":"Sodra Ving",
     "wof:parent_id":1159303161,
     "wof:placetype":"localadmin",

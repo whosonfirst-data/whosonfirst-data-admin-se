@@ -12,10 +12,13 @@
     "iso:country":"SE",
     "lbl:latitude":57.806542,
     "lbl:longitude":12.367131,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":57.806542,
     "mps:longitude":12.367131,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0424\u043b\u0443\u0434\u0430"
     ],
@@ -71,7 +74,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688411,
         102191581,
@@ -84,10 +87,12 @@
         "fct:id":"06d191ee-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2714322,
         "gp:id":889725,
-        "qs:id":460075,
-        "qs_pg:id":1280531,
+        "qs_pg:id":460075,
         "wd:id":"Q264780",
         "wk:page":"Floda, Lerum"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1280531
     },
     "wof:country":"SE",
     "wof:geomhash":"46afbc0ba200e0a9a134d37f687b9e34",
@@ -105,7 +110,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368780,
+    "wof:lastmodified":1566642197,
     "wof:name":"Floda",
     "wof:parent_id":1125270995,
     "wof:placetype":"locality",

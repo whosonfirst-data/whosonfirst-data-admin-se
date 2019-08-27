@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":60.142969,
     "lbl:longitude":16.183334,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":60.142969,
     "mps:longitude":16.183334,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:bel_x_preferred":[
         "\u0410\u0432\u0435\u0441\u0442\u0430"
     ],
@@ -153,7 +156,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688447,
@@ -167,7 +170,6 @@
         "fct:id":"06d3e098-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2724231,
         "gp:id":885530,
-        "qs:id":217857,
         "qs_pg:id":217857,
         "wd:id":"Q83682",
         "wk:page":"Avesta (locality)"
@@ -188,7 +190,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368722,
+    "wof:lastmodified":1566642177,
     "wof:name":"Avesta",
     "wof:parent_id":1125277943,
     "wof:placetype":"locality",

@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015983,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":101901574.122916,
     "geom:bbox":"14.7254392836,58.9148112826,15.0022529179,59.011495224",
     "geom:latitude":58.962022,
     "geom:longitude":14.880641,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":705,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":705,
     "iso:country":"SE",
     "lbl:latitude":58.971407,
     "lbl:longitude":14.894476,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":58.971407,
     "mps:longitude":14.894476,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Snavlunda"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125287849,
-    "wof:lastmodified":1529703054,
+    "wof:lastmodified":1566642621,
     "wof:name":"Snavlunda",
     "wof:parent_id":1159303215,
     "wof:placetype":"localadmin",

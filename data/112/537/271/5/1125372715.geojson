@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007421,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":46992889.638821,
     "geom:bbox":"17.5864972232,59.1326365616,17.7426966518,59.2567657881",
     "geom:latitude":59.1971,
     "geom:longitude":17.667479,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":21263,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":21263,
     "iso:country":"SE",
     "lbl:latitude":59.19339,
     "lbl:longitude":17.67929,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":59.19339,
     "mps:longitude":17.67929,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Ostertalje"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125372715,
-    "wof:lastmodified":1529702727,
+    "wof:lastmodified":1566642815,
     "wof:name":"Ostertalje",
     "wof:parent_id":1159303135,
     "wof:placetype":"localadmin",

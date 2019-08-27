@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000943,
+    "geom:area_square_m":6588776.912744,
     "geom:bbox":"13.1403423839,55.5948169196,13.2006733097,55.6317113907",
     "geom:latitude":55.608553,
     "geom:longitude":13.17342,
     "iso:country":"SE",
     "lbl:latitude":55.604706,
     "lbl:longitude":13.176412,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.604706,
     "mps:longitude":13.176412,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Molleberga"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159306655,
-    "wof:lastmodified":1529702610,
+    "wof:lastmodified":1566643338,
     "wof:name":"Molleberga",
     "wof:parent_id":1159303125,
     "wof:placetype":"localadmin",

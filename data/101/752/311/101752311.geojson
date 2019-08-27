@@ -13,6 +13,8 @@
     "iso:country":"SE",
     "lbl:latitude":59.391333,
     "lbl:longitude":13.523539,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":59.391333,
     "mps:longitude":13.523539,
     "mz:hierarchy_label":1,
@@ -405,7 +407,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":64.0,
     "wd:latitude":59.383333,
@@ -423,7 +425,6 @@
         "fct:id":"06d31b04-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2701680,
         "gp:id":894959,
-        "qs:id":1037559,
         "qs_pg:id":1037559,
         "wd:id":"Q25457",
         "wk:page":"Karlstad"
@@ -444,7 +445,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368594,
+    "wof:lastmodified":1566642132,
     "wof:name":"Karlstad",
     "wof:parent_id":1125286813,
     "wof:placetype":"locality",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002138,
+    "geom:area_square_m":14770866.38206,
     "geom:bbox":"12.9131032104,56.018484493,12.9963244461,56.0605913712",
     "geom:latitude":56.040035,
     "geom:longitude":12.951712,
     "iso:country":"SE",
     "lbl:latitude":56.041498,
     "lbl:longitude":12.948356,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":56.041498,
     "mps:longitude":12.948356,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Risekatslosa"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159306653,
-    "wof:lastmodified":1529702609,
+    "wof:lastmodified":1566643337,
     "wof:name":"Risekatslosa",
     "wof:parent_id":1159303001,
     "wof:placetype":"localadmin",

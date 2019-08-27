@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":9411124.186158,
+    "geom:area_square_m":0.0,
     "geom:bbox":"18.274432,59.253575,18.274432,59.253575",
     "geom:latitude":59.253575,
     "geom:longitude":18.274432,
     "gn:latitude":59.11317,
     "gn:longitude":18.45595,
     "iso:country":"SE",
+    "lbl:bbox":"18.269432,59.248575,18.279432,59.258575",
     "lbl:latitude":59.253575,
     "lbl:longitude":18.274432,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.253853,
     "mps:longitude":18.261701,
     "mz:hierarchy_label":0,
@@ -27,9 +29,6 @@
     "mz:tier_locality":1,
     "mz:tier_metro":1,
     "name:swe_x_preferred":[
-        "Oringe"
-    ],
-    "name:unk_x_variant":[
         "Oringe"
     ],
     "qs:gn_adm0_cc":"SE",
@@ -61,20 +60,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85688429,
         102191581,
         1125362217,
         85633789,
         101752307,
-        1159303035
+        1159303035,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3327558,
         "gp:id":20151460,
-        "qs:id":233524,
         "qs_pg:id":233524
     },
     "wof:country":"SE",
@@ -94,7 +92,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1531936344,
+    "wof:lastmodified":1566640608,
     "wof:name":"Oringe",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

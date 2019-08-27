@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004104,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":28636511.083649,
     "geom:bbox":"13.6531812631,55.6112163835,13.7578465183,55.6692960315",
     "geom:latitude":55.643919,
     "geom:longitude":13.705427,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":8034,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":8034,
     "iso:country":"SE",
     "lbl:latitude":55.64435,
     "lbl:longitude":13.704437,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":55.64435,
     "mps:longitude":13.704437,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Sodra asum"
@@ -48,7 +50,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":1125381957,
-    "wof:lastmodified":1529702611,
+    "wof:lastmodified":1566642893,
     "wof:name":"Sodra asum",
     "wof:parent_id":1159303197,
     "wof:placetype":"localadmin",

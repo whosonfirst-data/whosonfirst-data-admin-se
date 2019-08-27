@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004752,
+    "geom:area_square_m":30842417.210554,
     "geom:bbox":"12.790845246,58.3009339604,12.8712766317,58.3874813791",
     "geom:latitude":58.341651,
     "geom:longitude":12.829628,
     "iso:country":"SE",
     "lbl:latitude":58.341939,
     "lbl:longitude":12.826401,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":58.341939,
     "mps:longitude":12.826401,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sparlosa"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159305899,
-    "wof:lastmodified":1529702124,
+    "wof:lastmodified":1566643254,
     "wof:name":"Sparlosa",
     "wof:parent_id":1159303487,
     "wof:placetype":"localadmin",

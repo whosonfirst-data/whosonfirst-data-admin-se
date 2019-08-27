@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":62.349898,
     "lbl:longitude":17.029811,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":62.349898,
     "mps:longitude":17.029811,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041c\u0430\u0442\u0444\u043e\u0440\u0448"
     ],
@@ -69,7 +72,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":412,
     "wof:belongsto":[
@@ -84,7 +87,6 @@
         "fct:id":"06d3f27c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2692349,
         "gp:id":898326,
-        "qs:id":3692,
         "qs_pg:id":3692,
         "wd:id":"Q2489976",
         "wk:page":"Matfors"
@@ -105,7 +107,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368900,
+    "wof:lastmodified":1566642241,
     "wof:name":"Matfors",
     "wof:parent_id":1125325993,
     "wof:placetype":"locality",

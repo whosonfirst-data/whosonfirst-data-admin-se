@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019336,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":120541312.951216,
     "geom:bbox":"18.6078922132,59.670128224,18.9476115849,59.777289538",
     "geom:latitude":59.724992,
     "geom:longitude":18.781751,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":2525,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":2525,
     "iso:country":"SE",
     "lbl:latitude":59.726951,
     "lbl:longitude":18.784462,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":59.726951,
     "mps:longitude":18.784462,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Frotuna"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125423341,
-    "wof:lastmodified":1529702728,
+    "wof:lastmodified":1566642747,
     "wof:name":"Frotuna",
     "wof:parent_id":1159302995,
     "wof:placetype":"localadmin",

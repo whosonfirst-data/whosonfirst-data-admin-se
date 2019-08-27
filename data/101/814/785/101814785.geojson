@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":62.504424,
     "lbl:longitude":17.504608,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":62.504424,
     "mps:longitude":17.504608,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "S\u00f6r\u00e5ker"
     ],
@@ -81,7 +84,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":55,
     "wof:belongsto":[
@@ -96,7 +99,6 @@
         "fct:id":"06d3f718-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2675280,
         "gp:id":905407,
-        "qs:id":1169375,
         "qs_pg:id":1169375,
         "wd:id":"Q1022440",
         "wk:page":"S\u00f6r\u00e5ker"
@@ -117,7 +119,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368914,
+    "wof:lastmodified":1566642245,
     "wof:name":"S\u00f6r\u00e5ker",
     "wof:parent_id":1125329245,
     "wof:placetype":"locality",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002007,
+    "geom:area_square_m":12882555.889544,
     "geom:bbox":"13.970961569,58.7049798752,14.0492141252,58.7628563678",
     "geom:latitude":58.731895,
     "geom:longitude":14.012094,
     "iso:country":"SE",
     "lbl:latitude":58.732222,
     "lbl:longitude":14.01269,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":58.732222,
     "mps:longitude":14.01269,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Fared"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159306179,
-    "wof:lastmodified":1529702131,
+    "wof:lastmodified":1566643182,
     "wof:name":"Fared",
     "wof:parent_id":1159303321,
     "wof:placetype":"localadmin",

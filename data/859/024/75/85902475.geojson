@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4681909.576188,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.986008,55.606924,12.986008,55.606924",
     "geom:latitude":55.606924,
     "geom:longitude":12.986008,
     "gn:latitude":55.6,
     "gn:longitude":12.98333,
     "iso:country":"SE",
+    "lbl:bbox":"12.981008,55.601924,12.991008,55.611924",
     "lbl:latitude":55.606924,
     "lbl:longitude":12.986008,
+    "lbl:max_zoom":18.0,
     "mps:latitude":55.609521,
     "mps:longitude":12.981116,
     "mz:hierarchy_label":0,
@@ -59,9 +61,6 @@
     "name:swe_x_preferred":[
         "Slottsstaden"
     ],
-    "name:unk_x_variant":[
-        "Slottsstaden"
-    ],
     "qs:gn_adm0_cc":"SE",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":2692969,
@@ -91,20 +90,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85688377,
         102191581,
         1159305753,
         85633789,
         101752283,
-        1159303367
+        1159303367,
+        85688377
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2676694,
         "gp:id":904790,
-        "qs:id":1026452,
         "qs_pg:id":1026452
     },
     "wof:country":"SE",
@@ -124,7 +122,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1531935896,
+    "wof:lastmodified":1566640577,
     "wof:name":"Slottsstaden",
     "wof:parent_id":101752283,
     "wof:placetype":"neighbourhood",

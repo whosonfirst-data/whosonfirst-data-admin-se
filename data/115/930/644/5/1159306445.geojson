@@ -12,10 +12,13 @@
     "iso:country":"SE",
     "lbl:latitude":58.416876,
     "lbl:longitude":16.49015,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":58.416876,
     "mps:longitude":16.49015,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mogata"
     ],
@@ -42,7 +45,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1159306445,
-    "wof:lastmodified":1564165521,
+    "wof:lastmodified":1566643181,
     "wof:name":"Mogata",
     "wof:parent_id":1159303305,
     "wof:placetype":"localadmin",

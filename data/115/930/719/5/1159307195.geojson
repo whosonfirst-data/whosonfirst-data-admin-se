@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006535,
+    "geom:area_square_m":45287556.851368,
     "geom:bbox":"12.7850349615,55.8586509229,12.9253124065,55.9566537505",
     "geom:latitude":55.914569,
     "geom:longitude":12.867009,
     "iso:country":"SE",
     "lbl:latitude":55.917599,
     "lbl:longitude":12.879743,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.917599,
     "mps:longitude":12.879743,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Harslov"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159307195,
-    "wof:lastmodified":1529702621,
+    "wof:lastmodified":1566643364,
     "wof:name":"Harslov",
     "wof:parent_id":1159303531,
     "wof:placetype":"localadmin",

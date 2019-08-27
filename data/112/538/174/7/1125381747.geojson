@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019463,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":126177390.513907,
     "geom:bbox":"16.0357401952,58.3125330922,16.2903674871,58.4411040025",
     "geom:latitude":58.379476,
     "geom:longitude":16.173776,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":1077,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":1077,
     "iso:country":"SE",
     "lbl:latitude":58.383261,
     "lbl:longitude":16.176241,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":58.383261,
     "mps:longitude":16.176241,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Ostra Ryd"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125381747,
-    "wof:lastmodified":1529703087,
+    "wof:lastmodified":1566642909,
     "wof:name":"Ostra Ryd",
     "wof:parent_id":1159303305,
     "wof:placetype":"localadmin",

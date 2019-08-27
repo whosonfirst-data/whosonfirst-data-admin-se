@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.380308,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":2104444339.744995,
     "geom:bbox":"11.9745860509,63.1645038478,13.2891563902,63.731934504",
     "geom:latitude":63.416002,
     "geom:longitude":12.545508,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":3685,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":3685,
     "iso:country":"SE",
     "lbl:latitude":63.431631,
     "lbl:longitude":12.5355,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":63.431631,
     "mps:longitude":12.5355,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Are"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125321779,
-    "wof:lastmodified":1529700200,
+    "wof:lastmodified":1566642540,
     "wof:name":"Are",
     "wof:parent_id":1159303387,
     "wof:placetype":"localadmin",

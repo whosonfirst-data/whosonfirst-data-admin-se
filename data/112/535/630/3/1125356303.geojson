@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004335,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":30421195.168927,
     "geom:bbox":"12.8162665707,55.3824808057,12.9214780119,55.4466102438",
     "geom:latitude":55.420097,
     "geom:longitude":12.875594,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":7153,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":7153,
     "iso:country":"SE",
     "lbl:latitude":55.422322,
     "lbl:longitude":12.876582,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":55.422322,
     "mps:longitude":12.876582,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Skanor"
@@ -48,7 +50,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":1125356303,
-    "wof:lastmodified":1529702636,
+    "wof:lastmodified":1566642470,
     "wof:name":"Skanor",
     "wof:parent_id":1159303307,
     "wof:placetype":"localadmin",

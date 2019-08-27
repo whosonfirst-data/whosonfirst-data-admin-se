@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":56.077528,
     "lbl:longitude":13.226691,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":56.077528,
     "mps:longitude":13.226691,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Ljungbyhed"
     ],
@@ -75,7 +78,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":45,
     "wof:belongsto":[
@@ -90,7 +93,6 @@
         "fct:id":"06d16d5e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2694554,
         "gp:id":897467,
-        "qs:id":892398,
         "qs_pg:id":892398,
         "wd:id":"Q776830",
         "wk:page":"Ljungbyhed"
@@ -111,7 +113,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368629,
+    "wof:lastmodified":1566642145,
     "wof:name":"Ljungbyhed",
     "wof:parent_id":1125326081,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"SE",
     "lbl:latitude":58.083329,
     "lbl:longitude":13.718826,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":58.083329,
     "mps:longitude":13.718826,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0646\u0627\u0632"
     ],
@@ -156,7 +159,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -178,7 +181,7 @@
         }
     ],
     "wof:id":1159306413,
-    "wof:lastmodified":1564165664,
+    "wof:lastmodified":1566643313,
     "wof:name":"Nas",
     "wof:parent_id":1159303137,
     "wof:placetype":"localadmin",

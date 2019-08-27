@@ -14,6 +14,7 @@
     "iso:country":"SE",
     "lbl:latitude":59.336497,
     "lbl:longitude":18.123494,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.342671,
     "mps:longitude":18.104029,
     "mz:hierarchy_label":1,
@@ -45,9 +46,6 @@
     "name:swe_x_variant":[
         "G\u00e4rdet"
     ],
-    "name:unk_x_variant":[
-        "Ladug\u00e5rdsg\u00e4rdet"
-    ],
     "qs:gn_adm0_cc":"SE",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":2673730,
@@ -75,7 +73,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         1125362217,
@@ -88,7 +86,6 @@
     "wof:concordances":{
         "gn:id":2697963,
         "gp:id":896436,
-        "qs:id":235387,
         "qs_pg:id":235387
     },
     "wof:country":"SE",
@@ -108,7 +105,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1536864511,
+    "wof:lastmodified":1566640594,
     "wof:name":"Ladug\u00e5rdsg\u00e4rdet",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

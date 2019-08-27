@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":58.908726,
     "lbl:longitude":17.943603,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":58.908726,
     "mps:longitude":17.943603,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0646\u064a\u0646\u0633 \u0647\u0627\u0645\u0646"
     ],
@@ -140,9 +143,6 @@
     "name:ukr_x_preferred":[
         "\u041d\u0438\u043d\u0435\u0441\u0433\u0430\u043c\u043d"
     ],
-    "name:unk_x_variant":[
-        "Nyn\u00e4shamm"
-    ],
     "name:vol_x_preferred":[
         "Nyn\u00e4shamn"
     ],
@@ -165,7 +165,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":441,
     "wof:belongsto":[
@@ -180,7 +180,6 @@
         "fct:id":"06d47d0a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2687636,
         "gp:id":900321,
-        "qs:id":1037536,
         "qs_pg:id":1037536,
         "wd:id":"Q738338",
         "wk:page":"Nyn\u00e4shamn"
@@ -201,7 +200,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368835,
+    "wof:lastmodified":1566642217,
     "wof:name":"Nyn\u00e4shamn",
     "wof:parent_id":1125423255,
     "wof:placetype":"locality",

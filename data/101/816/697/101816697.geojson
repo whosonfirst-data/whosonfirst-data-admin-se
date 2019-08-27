@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":57.004151,
     "lbl:longitude":14.573726,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":57.004151,
     "mps:longitude":14.573726,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041c\u0443\u0445\u0435\u0434\u0430"
     ],
@@ -93,7 +96,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":60,
     "wof:belongsto":[
@@ -108,7 +111,6 @@
         "fct:id":"06d198ba-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2691542,
         "gp:id":898615,
-        "qs:id":43594,
         "qs_pg:id":43594,
         "wd:id":"Q3188859",
         "wk:page":"Moheda"
@@ -129,7 +131,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368707,
+    "wof:lastmodified":1566642172,
     "wof:name":"Moheda",
     "wof:parent_id":1125294337,
     "wof:placetype":"locality",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015675,
+    "geom:area_square_m":105141531.254442,
     "geom:bbox":"14.2028444188,57.0716793924,14.3993891784,57.2379828109",
     "geom:latitude":57.149626,
     "geom:longitude":14.304671,
     "iso:country":"SE",
     "lbl:latitude":57.145117,
     "lbl:longitude":14.303163,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":57.145117,
     "mps:longitude":14.303163,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Gallaryd"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159306077,
-    "wof:lastmodified":1529702409,
+    "wof:lastmodified":1566643345,
     "wof:name":"Gallaryd",
     "wof:parent_id":1159303313,
     "wof:placetype":"localadmin",

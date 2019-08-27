@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001578,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":8767752.24075,
     "geom:bbox":"18.6881361463,63.2705448969,18.7666305538,63.3117401017",
     "geom:latitude":63.290609,
     "geom:longitude":18.725697,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":9401,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":9401,
     "iso:country":"SE",
     "lbl:latitude":63.292586,
     "lbl:longitude":18.725699,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":63.292586,
     "mps:longitude":18.725699,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Ornskoldsvik"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125409983,
-    "wof:lastmodified":1529702996,
+    "wof:lastmodified":1566643067,
     "wof:name":"Ornskoldsvik",
     "wof:parent_id":1159303463,
     "wof:placetype":"localadmin",

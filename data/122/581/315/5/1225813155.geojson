@@ -27,8 +27,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Stockholm",
     "iso:country":"SE",
+    "lbl:bbox":"16.04583,62.46385,16.08583,62.50385",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:nor_x_preferred":[
         "S\u00f6rh\u00e5ngsta"
     ],
@@ -37,8 +41,7 @@
     ],
     "name:und_x_variant":[
         "H\u00e5ngsta",
-        "S\u00f6dra H\u00e5ngsta",
-        "S\u00f6rh\u00e5ngsta"
+        "S\u00f6dra H\u00e5ngsta"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1225813155,
-    "wof:lastmodified":1537699806,
+    "wof:lastmodified":1566644079,
     "wof:name":"Sorhangsta",
     "wof:parent_id":1125398107,
     "wof:placetype":"locality",

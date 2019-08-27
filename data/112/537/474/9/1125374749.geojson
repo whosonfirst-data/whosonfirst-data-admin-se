@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007231,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":47001599.12392,
     "geom:bbox":"13.8502206028,58.2468695648,14.0115907074,58.320043143",
     "geom:latitude":58.285134,
     "geom:longitude":13.915684,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":165,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":165,
     "iso:country":"SE",
     "lbl:latitude":58.281666,
     "lbl:longitude":13.91413,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mps:latitude":58.281666,
     "mps:longitude":13.91413,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Vreten"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125374749,
-    "wof:lastmodified":1529702189,
+    "wof:lastmodified":1566642816,
     "wof:name":"Vreten",
     "wof:parent_id":1159302921,
     "wof:placetype":"localadmin",

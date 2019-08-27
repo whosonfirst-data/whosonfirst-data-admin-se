@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.590606,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":2916017059.558578,
     "geom:bbox":"21.9467483532,66.1358125656,23.2425960703,66.843200617",
     "geom:latitude":66.465941,
     "geom:longitude":22.583803,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":3715,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":3715,
     "iso:country":"SE",
     "lbl:latitude":66.489509,
     "lbl:longitude":22.583818,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":66.489509,
     "mps:longitude":22.583818,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Overkalix"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125287801,
-    "wof:lastmodified":1529702561,
+    "wof:lastmodified":1566642646,
     "wof:name":"Overkalix",
     "wof:parent_id":1159302979,
     "wof:placetype":"localadmin",

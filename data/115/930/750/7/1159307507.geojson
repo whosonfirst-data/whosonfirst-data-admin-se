@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001035,
+    "geom:area_square_m":7251578.082859,
     "geom:bbox":"14.0733762421,55.4692294495,14.1217667188,55.5051611823",
     "geom:latitude":55.487044,
     "geom:longitude":14.098293,
     "iso:country":"SE",
     "lbl:latitude":55.48723,
     "lbl:longitude":14.098743,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.48723,
     "mps:longitude":14.098743,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Hannas"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159307507,
-    "wof:lastmodified":1529702627,
+    "wof:lastmodified":1566643290,
     "wof:name":"Hannas",
     "wof:parent_id":1159302931,
     "wof:placetype":"localadmin",

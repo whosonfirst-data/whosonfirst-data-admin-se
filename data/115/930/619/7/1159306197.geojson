@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007639,
+    "geom:area_square_m":48087806.323633,
     "geom:bbox":"17.4890657053,59.3460519694,17.6505993112,59.4421066407",
     "geom:latitude":59.396646,
     "geom:longitude":17.569042,
     "iso:country":"SE",
     "lbl:latitude":59.39865,
     "lbl:longitude":17.570232,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":59.39865,
     "mps:longitude":17.570232,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Munso"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159306197,
-    "wof:lastmodified":1529702720,
+    "wof:lastmodified":1566643184,
     "wof:name":"Munso",
     "wof:parent_id":1159302999,
     "wof:placetype":"localadmin",

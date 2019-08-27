@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":57.266064,
     "lbl:longitude":12.327934,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":57.266064,
     "mps:longitude":12.327934,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Veddige"
     ],
@@ -78,7 +81,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":123,
     "wof:belongsto":[
@@ -93,7 +96,6 @@
         "fct:id":"06d1de1a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2663482,
         "gp:id":909741,
-        "qs:id":287499,
         "qs_pg:id":287499,
         "wd:id":"Q596567",
         "wk:page":"Veddige"
@@ -114,7 +116,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368724,
+    "wof:lastmodified":1566642178,
     "wof:name":"Veddige",
     "wof:parent_id":1125300055,
     "wof:placetype":"locality",

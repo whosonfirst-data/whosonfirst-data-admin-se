@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007344,
+    "geom:area_square_m":48300155.383369,
     "geom:bbox":"13.7316618328,57.8287504233,13.870712451,57.9221610028",
     "geom:latitude":57.867749,
     "geom:longitude":13.808576,
     "iso:country":"SE",
     "lbl:latitude":57.867498,
     "lbl:longitude":13.809627,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":57.867498,
     "mps:longitude":13.809627,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bjurback"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159305731,
-    "wof:lastmodified":1529702118,
+    "wof:lastmodified":1566643263,
     "wof:name":"Bjurback",
     "wof:parent_id":1159303051,
     "wof:placetype":"localadmin",

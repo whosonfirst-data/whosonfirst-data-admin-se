@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003616,
+    "geom:area_square_m":22533958.723868,
     "geom:bbox":"16.8986277786,59.715897171,17.0302180133,59.7660818936",
     "geom:latitude":59.73663,
     "geom:longitude":16.958359,
     "iso:country":"SE",
     "lbl:latitude":59.74116,
     "lbl:longitude":16.948392,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":59.74116,
     "mps:longitude":16.948392,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Frosthult"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159306091,
-    "wof:lastmodified":1529702867,
+    "wof:lastmodified":1566643349,
     "wof:name":"Frosthult",
     "wof:parent_id":1159303337,
     "wof:placetype":"localadmin",

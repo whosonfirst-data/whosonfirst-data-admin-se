@@ -9,15 +9,18 @@
     "geom:bbox":"21.64204,67.67589,21.64204,67.67589",
     "geom:latitude":67.67589,
     "geom:longitude":21.64204,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":789,
-    "gn:population":791,
+    "gn:country":"SE",
+    "gn:fcode":"PPL",
+    "gn:population":789,
     "iso:country":"SE",
+    "lbl:bbox":"21.62204,67.65589,21.66204,67.69589",
     "lbl:latitude":67.67589,
     "lbl:longitude":21.64204,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0641\u064a\u062a\u0646\u062c\u064a"
@@ -58,7 +61,7 @@
     "name:swe_x_preferred":[
         "Vittangi"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vittangi Kapell"
     ],
     "qs_pg:aaroncc":"SE",
@@ -73,7 +76,7 @@
     "qs_pg:qs_id":550223,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85688471,
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":1125836223,
-    "wof:lastmodified":1563370121,
+    "wof:lastmodified":1566643131,
     "wof:name":"Vittangi",
     "wof:parent_id":1125312213,
     "wof:placetype":"locality",

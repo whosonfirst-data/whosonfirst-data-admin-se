@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":62.291232,
     "lbl:longitude":17.373478,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":62.291232,
     "mps:longitude":17.373478,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041a\u0432\u0438\u0441\u043b\u0435\u0431\u0439"
     ],
@@ -57,9 +60,6 @@
     "name:swe_x_variant":[
         "Kvisslebys"
     ],
-    "name:unk_x_variant":[
-        "Kvitsle"
-    ],
     "name:zho_min_nan_x_preferred":[
         "Kvissleby"
     ],
@@ -79,7 +79,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":55,
     "wof:belongsto":[
@@ -94,7 +94,6 @@
         "fct:id":"06d32c7a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2698242,
         "gp:id":896328,
-        "qs:id":905676,
         "qs_pg:id":905676,
         "wd:id":"Q2606447",
         "wk:page":"Kvissleby"
@@ -115,7 +114,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368936,
+    "wof:lastmodified":1566642251,
     "wof:name":"Kvissleby",
     "wof:parent_id":1125409973,
     "wof:placetype":"locality",

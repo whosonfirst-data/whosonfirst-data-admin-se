@@ -14,6 +14,7 @@
     "iso:country":"SE",
     "lbl:latitude":59.326378,
     "lbl:longitude":17.923406,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.328986,
     "mps:longitude":17.930495,
     "mz:hierarchy_label":1,
@@ -47,9 +48,6 @@
     "name:swe_x_preferred":[
         "Nockeby"
     ],
-    "name:unk_x_variant":[
-        "Nockeby"
-    ],
     "qs:gn_adm0_cc":"SE",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":2673730,
@@ -77,7 +75,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":34,
     "wof:belongsto":[
         102191581,
@@ -91,7 +89,6 @@
     "wof:concordances":{
         "gn:id":2689555,
         "gp:id":899402,
-        "qs:id":894693,
         "qs_pg:id":894693,
         "wd:id":"Q1781568",
         "wk:page":"Nockeby"
@@ -113,7 +110,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563366510,
+    "wof:lastmodified":1566640582,
     "wof:name":"Nockeby",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

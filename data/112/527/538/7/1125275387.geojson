@@ -9,17 +9,19 @@
     "geom:bbox":"15.6034019724,57.5724563746,15.8173717941,57.6611574376",
     "geom:latitude":57.612063,
     "geom:longitude":15.714728,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":223,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":223,
     "iso:country":"SE",
     "lbl:latitude":57.609944,
     "lbl:longitude":15.716396,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":57.609944,
     "mps:longitude":15.716396,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Pelarne"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125275387,
-    "wof:lastmodified":1554166195,
+    "wof:lastmodified":1566642704,
     "wof:name":"Pelarne",
     "wof:parent_id":1159303159,
     "wof:placetype":"localadmin",

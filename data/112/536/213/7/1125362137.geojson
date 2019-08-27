@@ -9,17 +9,19 @@
     "geom:bbox":"16.579793614,56.6115383327,16.7459203705,56.6772421683",
     "geom:latitude":56.643864,
     "geom:longitude":16.669442,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":1054,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":1054,
     "iso:country":"SE",
     "lbl:latitude":56.640559,
     "lbl:longitude":16.679336,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":56.640559,
     "mps:longitude":16.679336,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Norra Mockleby"
@@ -48,7 +50,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":1125362137,
-    "wof:lastmodified":1554166189,
+    "wof:lastmodified":1566642957,
     "wof:name":"Norra Mockleby",
     "wof:parent_id":1159303101,
     "wof:placetype":"localadmin",

@@ -14,6 +14,7 @@
     "iso:country":"SE",
     "lbl:latitude":59.177219,
     "lbl:longitude":17.845488,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.165672,
     "mps:longitude":17.875947,
     "mz:hierarchy_label":1,
@@ -26,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":0,
     "name:swe_x_preferred":[
-        "Skacklinge"
-    ],
-    "name:unk_x_variant":[
         "Skacklinge"
     ],
     "qs:gn_adm0_cc":"SE",
@@ -59,7 +57,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         1159305815,
@@ -71,7 +69,6 @@
     "wof:concordances":{
         "gn:id":2669845,
         "gp:id":20151610,
-        "qs:id":223923,
         "qs_pg:id":223923
     },
     "wof:country":"SE",
@@ -91,7 +88,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702817,
+    "wof:lastmodified":1566640611,
     "wof:name":"Skacklinge",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

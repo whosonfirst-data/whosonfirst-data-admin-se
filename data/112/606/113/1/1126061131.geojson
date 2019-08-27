@@ -9,15 +9,17 @@
     "geom:bbox":"12.8,56.29167,12.8,56.29167",
     "geom:latitude":56.29167,
     "geom:longitude":12.8,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":705,
+    "gn:country":"SE",
+    "gn:fcode":"PPLX",
     "gn:population":705,
     "iso:country":"SE",
+    "lbl:bbox":"12.795,56.28667,12.805,56.29667",
     "lbl:latitude":56.29167,
     "lbl:longitude":12.8,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Skepparkroken"
@@ -49,7 +51,7 @@
     "qs_pg:qs_id":581906,
     "qs_pg:qs_pg_placetype":"neighbourhood",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -78,7 +80,7 @@
         }
     ],
     "wof:id":1126061131,
-    "wof:lastmodified":1564165378,
+    "wof:lastmodified":1566642991,
     "wof:name":"Skepparkroken",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000422,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":2664057.385069,
     "geom:bbox":"18.0499697486,59.3198615951,18.0941584144,59.3371631713",
     "geom:latitude":59.327949,
     "geom:longitude":18.071495,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":4900,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":4900,
     "iso:country":"SE",
     "lbl:latitude":59.328984,
     "lbl:longitude":18.069989,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":59.328984,
     "mps:longitude":18.069989,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Stockholms domkyrkodistrikt"
@@ -48,7 +50,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":1125286379,
-    "wof:lastmodified":1529702735,
+    "wof:lastmodified":1566642639,
     "wof:name":"Stockholms domkyrkodistrikt",
     "wof:parent_id":1159303035,
     "wof:placetype":"localadmin",

@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":55.86741,
     "lbl:longitude":13.087259,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":55.86741,
     "mps:longitude":13.087259,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Teckomatorp"
     ],
@@ -72,7 +75,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":338,
     "wof:belongsto":[
@@ -87,7 +90,6 @@
         "fct:id":"06d18924-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2669254,
         "gp:id":907354,
-        "qs:id":1075256,
         "qs_pg:id":1075256,
         "wd:id":"Q1016384"
     },
@@ -107,7 +109,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368784,
+    "wof:lastmodified":1566642199,
     "wof:name":"Teckomatorp",
     "wof:parent_id":1159305983,
     "wof:placetype":"locality",

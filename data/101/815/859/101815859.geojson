@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":59.421969,
     "lbl:longitude":16.103867,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":59.421969,
     "mps:longitude":16.103867,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041a\u0443\u043d\u0433\u0441\u044c\u043e\u0440"
     ],
@@ -107,9 +110,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0443\u043d\u0433\u0441\u0435\u0440"
     ],
-    "name:unk_x_variant":[
-        "Rungs\u00f6r"
-    ],
     "qs:a0":"Sverige",
     "qs:a1":"*V\u00e4stmanlands l\u00e4n",
     "qs:a1r":"0",
@@ -127,7 +127,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":59.416667,
     "wd:longitude":16.083333,
@@ -144,7 +144,6 @@
         "fct:id":"06d10b34-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2698681,
         "gp:id":896181,
-        "qs:id":229188,
         "qs_pg:id":229188,
         "wd:id":"Q41992",
         "wk:page":"Kungs\u00f6r"
@@ -165,7 +164,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368820,
+    "wof:lastmodified":1566642211,
     "wof:name":"Kungs\u00f6r",
     "wof:parent_id":1125381903,
     "wof:placetype":"locality",

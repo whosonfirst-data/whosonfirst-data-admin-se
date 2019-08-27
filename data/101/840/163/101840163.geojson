@@ -12,10 +12,13 @@
     "iso:country":"SE",
     "lbl:latitude":57.846865,
     "lbl:longitude":14.14657,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":57.846865,
     "mps:longitude":14.14657,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tr\u00e5nghalla"
     ],
@@ -57,7 +60,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":35,
     "wof:belongsto":[
         85688395,
@@ -69,7 +72,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":908008,
-        "qs:id":49284,
+        "qs_pg:id":49284,
         "wd:id":"Q2374380"
     },
     "wof:country":"SE",
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":101840163,
-    "wof:lastmodified":1561839987,
+    "wof:lastmodified":1566642237,
     "wof:name":"Tr\u00e5nghalla",
     "wof:parent_id":1125394629,
     "wof:placetype":"locality",

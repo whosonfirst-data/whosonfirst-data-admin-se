@@ -12,10 +12,13 @@
     "iso:country":"SE",
     "lbl:latitude":59.439005,
     "lbl:longitude":18.283098,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":59.439005,
     "mps:longitude":18.283098,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "Svinninge"
     ],
@@ -72,7 +75,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":45,
     "wof:belongsto":[
         85688429,
@@ -83,7 +86,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q2022099"
     },
     "wof:country":"SE",
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":101815937,
-    "wof:lastmodified":1563368811,
+    "wof:lastmodified":1566642208,
     "wof:name":"Svinninge",
     "wof:parent_id":1125423247,
     "wof:placetype":"locality",

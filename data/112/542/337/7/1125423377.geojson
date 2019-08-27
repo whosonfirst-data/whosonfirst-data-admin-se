@@ -9,17 +9,19 @@
     "geom:bbox":"18.0165607949,59.3234930059,18.0576418099,59.3368091449",
     "geom:latitude":59.328656,
     "geom:longitude":18.04125,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":18679,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":18679,
     "iso:country":"SE",
     "lbl:latitude":59.330009,
     "lbl:longitude":18.040939,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":59.330009,
     "mps:longitude":18.040939,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Kungsholmen"
@@ -93,7 +95,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -119,7 +121,7 @@
         }
     ],
     "wof:id":1125423377,
-    "wof:lastmodified":1564165157,
+    "wof:lastmodified":1566642732,
     "wof:name":"Kungsholmen",
     "wof:parent_id":1159303035,
     "wof:placetype":"localadmin",

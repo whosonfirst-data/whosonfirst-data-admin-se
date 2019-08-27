@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027904,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":156755719.976148,
     "geom:bbox":"17.7689806181,62.8729577333,18.0381763111,63.0638596339",
     "geom:latitude":62.979685,
     "geom:longitude":17.906228,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":1469,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":1469,
     "iso:country":"SE",
     "lbl:latitude":62.976321,
     "lbl:longitude":17.904152,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":62.976321,
     "mps:longitude":17.904152,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Bjartra"
@@ -48,7 +50,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":1125277997,
-    "wof:lastmodified":1529702995,
+    "wof:lastmodified":1566642691,
     "wof:name":"Bjartra",
     "wof:parent_id":1159303301,
     "wof:placetype":"localadmin",

@@ -14,6 +14,7 @@
     "iso:country":"SE",
     "lbl:latitude":59.370625,
     "lbl:longitude":17.949314,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.37449,
     "mps:longitude":17.948771,
     "mz:hierarchy_label":1,
@@ -36,9 +37,6 @@
         "Duvbo"
     ],
     "name:swe_x_preferred":[
-        "Duvbo"
-    ],
-    "name:unk_x_variant":[
         "Duvbo"
     ],
     "qs:gn_adm0_cc":"SE",
@@ -68,7 +66,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":59,
     "wof:belongsto":[
         102191581,
@@ -82,7 +80,6 @@
     "wof:concordances":{
         "gn:id":2717126,
         "gp:id":888567,
-        "qs:id":478506,
         "qs_pg:id":478506,
         "wd:id":"Q5317616",
         "wk:page":"Duvbo"
@@ -104,7 +101,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563366587,
+    "wof:lastmodified":1566640641,
     "wof:name":"Duvbo",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

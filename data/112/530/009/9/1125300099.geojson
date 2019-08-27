@@ -9,17 +9,19 @@
     "geom:bbox":"20.887204812,65.0532565293,21.9089620251,65.3409610016",
     "geom:latitude":65.186982,
     "geom:longitude":21.436883,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":6388,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":6388,
     "iso:country":"SE",
     "lbl:latitude":65.213749,
     "lbl:longitude":21.403942,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":65.213749,
     "mps:longitude":21.403942,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Hortlax"
@@ -66,7 +68,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -92,7 +94,7 @@
         }
     ],
     "wof:id":1125300099,
-    "wof:lastmodified":1564165242,
+    "wof:lastmodified":1566642830,
     "wof:name":"Hortlax",
     "wof:parent_id":1159303399,
     "wof:placetype":"localadmin",

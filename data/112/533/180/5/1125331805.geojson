@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003034,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":20018350.653435,
     "geom:bbox":"12.9802694255,57.7050979186,13.0860354789,57.7725196098",
     "geom:latitude":57.746138,
     "geom:longitude":13.02707,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":4709,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":4709,
     "iso:country":"SE",
     "lbl:latitude":57.748864,
     "lbl:longitude":13.030704,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":57.748864,
     "mps:longitude":13.030704,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Bramhult"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125331805,
-    "wof:lastmodified":1529702141,
+    "wof:lastmodified":1566642380,
     "wof:name":"Bramhult",
     "wof:parent_id":1159303073,
     "wof:placetype":"localadmin",

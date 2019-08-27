@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003288,
+    "geom:area_square_m":22775737.53766,
     "geom:bbox":"12.9436930515,55.896202475,13.0346443572,55.958691675",
     "geom:latitude":55.927846,
     "geom:longitude":12.991398,
     "iso:country":"SE",
     "lbl:latitude":55.927889,
     "lbl:longitude":12.988294,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.927889,
     "mps:longitude":12.988294,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sirekopinge"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159305803,
-    "wof:lastmodified":1529702596,
+    "wof:lastmodified":1566643261,
     "wof:name":"Sirekopinge",
     "wof:parent_id":1159303189,
     "wof:placetype":"localadmin",

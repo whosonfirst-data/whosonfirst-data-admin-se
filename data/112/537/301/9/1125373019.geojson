@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005568,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":34731394.524123,
     "geom:bbox":"17.62727208,59.6605022901,17.7724293252,59.7319432767",
     "geom:latitude":59.702128,
     "geom:longitude":17.708335,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":901,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":901,
     "iso:country":"SE",
     "lbl:latitude":59.704093,
     "lbl:longitude":17.714362,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":59.704093,
     "mps:longitude":17.714362,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Vassunda"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125373019,
-    "wof:lastmodified":1529702727,
+    "wof:lastmodified":1566642783,
     "wof:name":"Vassunda",
     "wof:parent_id":1159303267,
     "wof:placetype":"localadmin",

@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":56.411367,
     "lbl:longitude":15.997908,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":56.411367,
     "mps:longitude":15.997908,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0422\u0443\u0440\u0448\u043e\u0441"
     ],
@@ -100,7 +103,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":47,
     "wof:belongsto":[
@@ -115,7 +118,6 @@
         "fct:id":"06d0d07e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2667904,
         "gp:id":907854,
-        "qs:id":279113,
         "qs_pg:id":279113,
         "wd:id":"Q1016705"
     },
@@ -135,7 +137,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368693,
+    "wof:lastmodified":1566642167,
     "wof:name":"Tors\u00e5s",
     "wof:parent_id":1125359587,
     "wof:placetype":"locality",

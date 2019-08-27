@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003004,
+    "geom:area_square_m":19545950.70816,
     "geom:bbox":"13.030525938,58.2267042899,13.1546335404,58.2873408359",
     "geom:latitude":58.251153,
     "geom:longitude":13.091816,
     "iso:country":"SE",
     "lbl:latitude":58.250439,
     "lbl:longitude":13.07727,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":58.250439,
     "mps:longitude":13.07727,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Travad"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159307219,
-    "wof:lastmodified":1529702162,
+    "wof:lastmodified":1566643365,
     "wof:name":"Travad",
     "wof:parent_id":1159303487,
     "wof:placetype":"localadmin",

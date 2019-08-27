@@ -24,10 +24,13 @@
     ],
     "lbl:latitude":59.629858,
     "lbl:longitude":17.89113,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":59.629858,
     "mps:longitude":17.89113,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:amh_x_preferred":[
         "\u1232\u130d\u1271\u1293"
     ],
@@ -169,7 +172,7 @@
     "se-lant:lanskod":1,
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -189,7 +192,7 @@
         }
     ],
     "wof:id":1159303265,
-    "wof:lastmodified":1564165743,
+    "wof:lastmodified":1566643376,
     "wof:name":"Sigtuna",
     "wof:parent_id":85688429,
     "wof:placetype":"county",

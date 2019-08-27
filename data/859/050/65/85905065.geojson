@@ -13,6 +13,7 @@
     "iso:country":"SE",
     "lbl:latitude":59.469943,
     "lbl:longitude":17.781174,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.468491,
     "mps:longitude":17.757546,
     "mz:hierarchy_label":1,
@@ -25,9 +26,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "name:swe_x_preferred":[
-        "Almare-Staket"
-    ],
-    "name:unk_x_variant":[
         "Almare-Staket"
     ],
     "qs:gn_adm0_cc":"SE",
@@ -55,7 +53,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         1125287125,
@@ -66,7 +64,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20150766,
-        "qs:id":484911,
         "qs_pg:id":484911
     },
     "wof:country":"SE",
@@ -86,7 +83,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702800,
+    "wof:lastmodified":1566640656,
     "wof:name":"Almare-Staket",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005137,
+    "geom:area_square_m":35949500.384765,
     "geom:bbox":"13.4793478717,55.4847328198,13.6132476546,55.5836613516",
     "geom:latitude":55.529316,
     "geom:longitude":13.536589,
     "iso:country":"SE",
     "lbl:latitude":55.527601,
     "lbl:longitude":13.52996,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.527601,
     "mps:longitude":13.52996,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Slimminge"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159307069,
-    "wof:lastmodified":1529702618,
+    "wof:lastmodified":1566643148,
     "wof:name":"Slimminge",
     "wof:parent_id":1159303379,
     "wof:placetype":"localadmin",

@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":56.108097,
     "lbl:longitude":15.4755,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":56.108097,
     "mps:longitude":15.4755,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Hassl\u00f6"
     ],
@@ -93,7 +96,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":157,
     "wof:belongsto":[
@@ -108,7 +111,6 @@
         "fct:id":"06d0ad4c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2707366,
         "gp:id":892591,
-        "qs:id":575701,
         "qs_pg:id":575701,
         "wd:id":"Q1958953",
         "wk:page":"Hassl\u00f6"
@@ -129,7 +131,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368695,
+    "wof:lastmodified":1566642167,
     "wof:name":"Hassl\u00f6",
     "wof:parent_id":1125417523,
     "wof:placetype":"locality",

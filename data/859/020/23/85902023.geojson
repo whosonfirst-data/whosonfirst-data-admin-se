@@ -14,6 +14,7 @@
     "iso:country":"SE",
     "lbl:latitude":59.347268,
     "lbl:longitude":17.878357,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.341798,
     "mps:longitude":17.874873,
     "mz:hierarchy_label":1,
@@ -74,9 +75,6 @@
     "name:swe_x_preferred":[
         "Blackeberg"
     ],
-    "name:unk_x_variant":[
-        "Blackeberg"
-    ],
     "qs:gn_adm0_cc":"SE",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":2673730,
@@ -104,7 +102,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":173,
     "wof:belongsto":[
         102191581,
@@ -118,7 +116,6 @@
     "wof:concordances":{
         "gn:id":2721518,
         "gp:id":886724,
-        "qs:id":1169049,
         "qs_pg:id":1169049,
         "wd:id":"Q113546",
         "wk:page":"Blackeberg"
@@ -140,7 +137,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563366586,
+    "wof:lastmodified":1566640641,
     "wof:name":"Blackeberg",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

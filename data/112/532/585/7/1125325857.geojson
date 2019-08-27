@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031199,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":199304069.039214,
     "geom:bbox":"15.5531068391,58.8083729155,15.8613766189,58.9895770461",
     "geom:latitude":58.894435,
     "geom:longitude":15.690597,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":558,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":558,
     "iso:country":"SE",
     "lbl:latitude":58.893606,
     "lbl:longitude":15.675483,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":58.893606,
     "mps:longitude":15.675483,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Regna"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125325857,
-    "wof:lastmodified":1529702840,
+    "wof:lastmodified":1566642535,
     "wof:name":"Regna",
     "wof:parent_id":1159303029,
     "wof:placetype":"localadmin",

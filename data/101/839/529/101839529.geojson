@@ -12,10 +12,13 @@
     "iso:country":"SE",
     "lbl:latitude":59.295305,
     "lbl:longitude":18.500209,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":59.295305,
     "mps:longitude":18.500209,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Skeppsdalsstr\u00f6m"
     ],
@@ -72,7 +75,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":45,
     "wof:belongsto":[
         85688429,
@@ -84,7 +87,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":892916,
-        "qs:id":5,
+        "qs_pg:id":5,
         "wd:id":"Q2684912"
     },
     "wof:country":"SE",
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":101839529,
-    "wof:lastmodified":1563368940,
+    "wof:lastmodified":1566642253,
     "wof:name":"Skeppsdalsstr\u00f6m",
     "wof:parent_id":1125398113,
     "wof:placetype":"locality",

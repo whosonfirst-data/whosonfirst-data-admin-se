@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000929,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":6467568.096899,
     "geom:bbox":"13.12719752,55.7155376326,13.1837464668,55.740329533",
     "geom:latitude":55.728267,
     "geom:longitude":13.156108,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":7411,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":7411,
     "iso:country":"SE",
     "lbl:latitude":55.727649,
     "lbl:longitude":13.156646,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":55.727649,
     "mps:longitude":13.156646,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Norra Nobbelov"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125372747,
-    "wof:lastmodified":1529702628,
+    "wof:lastmodified":1566642787,
     "wof:name":"Norra Nobbelov",
     "wof:parent_id":1159303449,
     "wof:placetype":"localadmin",

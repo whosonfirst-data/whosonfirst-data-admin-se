@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005486,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":36307591.027149,
     "geom:bbox":"13.6066235201,57.5927076783,13.7248198242,57.6818477896",
     "geom:latitude":57.639234,
     "geom:longitude":13.660955,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":200,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":200,
     "iso:country":"SE",
     "lbl:latitude":57.633101,
     "lbl:longitude":13.64708,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":57.633101,
     "mps:longitude":13.64708,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Olsremma"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125358421,
-    "wof:lastmodified":1529702212,
+    "wof:lastmodified":1566642436,
     "wof:name":"Olsremma",
     "wof:parent_id":1159303181,
     "wof:placetype":"localadmin",

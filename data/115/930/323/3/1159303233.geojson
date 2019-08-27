@@ -24,10 +24,13 @@
     ],
     "lbl:latitude":55.328756,
     "lbl:longitude":13.975925,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":55.328756,
     "mps:longitude":13.975925,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u064a\u0633\u062a\u0627\u062f"
     ],
@@ -178,7 +181,7 @@
     "se-lant:lanskod":12,
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -198,7 +201,7 @@
         }
     ],
     "wof:id":1159303233,
-    "wof:lastmodified":1564165582,
+    "wof:lastmodified":1566643240,
     "wof:name":"Ystad",
     "wof:parent_id":85688377,
     "wof:placetype":"county",

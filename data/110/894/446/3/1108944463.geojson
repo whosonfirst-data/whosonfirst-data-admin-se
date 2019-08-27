@@ -10,8 +10,10 @@
     "geom:latitude":57.81612,
     "geom:longitude":11.88793,
     "iso:country":"SE",
+    "lbl:bbox":"11.8829302601,57.8111197105,11.8929302601,57.8211197105",
     "lbl:latitude":57.81612,
     "lbl:longitude":11.88793,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -24,7 +26,7 @@
     "name:swe_x_preferred":[
         "Brunstorpsn\u00e4se"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         1125374983,
@@ -49,7 +51,7 @@
         }
     ],
     "wof:id":1108944463,
-    "wof:lastmodified":1529702282,
+    "wof:lastmodified":1566641810,
     "wof:name":"Brunstorpsnase",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

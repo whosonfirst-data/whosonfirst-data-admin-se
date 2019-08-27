@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016734,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":106383702.69594,
     "geom:bbox":"17.3120777361,58.9804573654,17.4854872506,59.1448983443",
     "geom:latitude":59.061452,
     "geom:longitude":17.388076,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":1898,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":1898,
     "iso:country":"SE",
     "lbl:latitude":59.067919,
     "lbl:longitude":17.379513,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":59.067919,
     "mps:longitude":17.379513,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Vardinge"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125326027,
-    "wof:lastmodified":1529702734,
+    "wof:lastmodified":1566642496,
     "wof:name":"Vardinge",
     "wof:parent_id":1159303135,
     "wof:placetype":"localadmin",

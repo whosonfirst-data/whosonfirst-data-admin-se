@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6775835.003542,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.01388,57.668058,12.01388,57.668058",
     "geom:latitude":57.668058,
     "geom:longitude":12.01388,
     "gn:latitude":57.66667,
     "gn:longitude":12.01667,
     "iso:country":"SE",
+    "lbl:bbox":"12.00888,57.663058,12.01888,57.673058",
     "lbl:latitude":57.668058,
     "lbl:longitude":12.01388,
+    "lbl:max_zoom":18.0,
     "mps:latitude":57.668909,
     "mps:longitude":12.016002,
     "mz:hierarchy_label":0,
@@ -30,9 +32,6 @@
         "Lackarebaeck"
     ],
     "name:swe_x_preferred":[
-        "Lackareb\u00e4ck"
-    ],
-    "name:unk_x_variant":[
         "Lackareb\u00e4ck"
     ],
     "qs:gn_adm0_cc":"SE",
@@ -64,20 +63,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85688411,
         102191581,
         1125287157,
         85633789,
         101752295,
-        1159302989
+        1159302989,
+        85688411
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2698009,
         "gp:id":896420,
-        "qs:id":185905,
         "qs_pg:id":185905
     },
     "wof:country":"SE",
@@ -97,7 +95,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1531935873,
+    "wof:lastmodified":1566640594,
     "wof:name":"Lackareb\u00e4ck",
     "wof:parent_id":101752295,
     "wof:placetype":"neighbourhood",

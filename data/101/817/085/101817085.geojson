@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":58.979181,
     "lbl:longitude":12.245643,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":58.979181,
     "mps:longitude":12.245643,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0411\u0438\u043b\u0438\u043d\u0433\u0441\u0444\u043e\u0440\u0441"
     ],
@@ -78,7 +81,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":62,
     "wof:belongsto":[
@@ -93,7 +96,6 @@
         "fct:id":"06d2a070-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2722545,
         "gp:id":886298,
-        "qs:id":414429,
         "qs_pg:id":414429,
         "wd:id":"Q2663175",
         "wk:page":"Billingsfors"
@@ -114,7 +116,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368751,
+    "wof:lastmodified":1566642188,
     "wof:name":"Billingsfors",
     "wof:parent_id":1125356639,
     "wof:placetype":"locality",

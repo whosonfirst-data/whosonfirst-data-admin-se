@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":65.869466,
     "lbl:longitude":23.13599,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":65.869466,
     "mps:longitude":23.13599,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041a\u0430\u043b\u0438\u043a\u0441"
     ],
@@ -98,7 +101,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u043b\u0456\u043a\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kaihnuu"
     ],
     "name:vol_x_preferred":[
@@ -126,7 +129,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1270,
     "wof:belongsto":[
@@ -141,7 +144,6 @@
         "fct:id":"06d31fc8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":605393,
         "gp:id":894581,
-        "qs:id":1096006,
         "qs_pg:id":1096006,
         "wd:id":"Q83681",
         "wk:page":"Kalix"
@@ -162,7 +164,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368905,
+    "wof:lastmodified":1566642242,
     "wof:name":"Kalix",
     "wof:parent_id":1125287809,
     "wof:placetype":"locality",

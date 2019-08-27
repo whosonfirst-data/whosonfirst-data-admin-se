@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002861,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":17870043.337836,
     "geom:bbox":"16.4762290122,59.6342270566,16.5899363656,59.6816657643",
     "geom:latitude":59.654224,
     "geom:longitude":16.527991,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":13683,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":13683,
     "iso:country":"SE",
     "lbl:latitude":59.657625,
     "lbl:longitude":16.512987,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":59.657625,
     "mps:longitude":16.512987,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Onsta"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125362231,
-    "wof:lastmodified":1529703023,
+    "wof:lastmodified":1566642954,
     "wof:name":"Onsta",
     "wof:parent_id":1159303331,
     "wof:placetype":"localadmin",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00349,
+    "geom:area_square_m":22498951.13849,
     "geom:bbox":"16.3707528187,58.5491238972,16.4888200064,58.6105731939",
     "geom:latitude":58.576045,
     "geom:longitude":16.416843,
     "iso:country":"SE",
     "lbl:latitude":58.577127,
     "lbl:longitude":16.407937,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":58.577127,
     "mps:longitude":16.407937,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Konungsund"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159305681,
-    "wof:lastmodified":1529703082,
+    "wof:lastmodified":1566643164,
     "wof:name":"Konungsund",
     "wof:parent_id":1159303229,
     "wof:placetype":"localadmin",

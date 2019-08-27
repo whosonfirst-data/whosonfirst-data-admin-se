@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00618,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":43386768.608423,
     "geom:bbox":"14.0932248896,55.3734471836,14.2172912246,55.4440467027",
     "geom:latitude":55.405262,
     "geom:longitude":14.145993,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":2572,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":2572,
     "iso:country":"SE",
     "lbl:latitude":55.403671,
     "lbl:longitude":14.144799,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":55.403671,
     "mps:longitude":14.144799,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Loderup"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125372613,
-    "wof:lastmodified":1529702624,
+    "wof:lastmodified":1566642792,
     "wof:name":"Loderup",
     "wof:parent_id":1159303233,
     "wof:placetype":"localadmin",

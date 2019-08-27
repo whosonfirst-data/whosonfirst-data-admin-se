@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02479,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":166055378.541703,
     "geom:bbox":"13.2921037405,57.1050255274,13.5361891205,57.2888918705",
     "geom:latitude":57.199591,
     "geom:longitude":13.416916,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":5911,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":5911,
     "iso:country":"SE",
     "lbl:latitude":57.200719,
     "lbl:longitude":13.417567,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":57.200719,
     "mps:longitude":13.417567,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Villstad"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125368841,
-    "wof:lastmodified":1529702338,
+    "wof:lastmodified":1566642952,
     "wof:name":"Villstad",
     "wof:parent_id":1159303327,
     "wof:placetype":"localadmin",

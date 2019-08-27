@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":57.368043,
     "lbl:longitude":14.899928,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":57.368043,
     "mps:longitude":14.899928,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041b\u0430\u043d\u0434\u0441\u0431\u0440\u043e"
     ],
@@ -72,7 +75,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":57,
     "wof:belongsto":[
@@ -87,7 +90,6 @@
         "fct:id":"06d2d7fc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2697727,
         "gp:id":896528,
-        "qs:id":1013254,
         "qs_pg:id":1013254,
         "wd:id":"Q3354232",
         "wk:page":"Landsbro"
@@ -108,7 +110,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368712,
+    "wof:lastmodified":1566642174,
     "wof:name":"Landsbro",
     "wof:parent_id":1125325371,
     "wof:placetype":"locality",

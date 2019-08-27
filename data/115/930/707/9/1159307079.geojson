@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000629,
+    "geom:area_square_m":4392259.905286,
     "geom:bbox":"13.109118515,55.6194153172,13.1632576741,55.6408246722",
     "geom:latitude":55.629615,
     "geom:longitude":13.133096,
     "iso:country":"SE",
     "lbl:latitude":55.62879,
     "lbl:longitude":13.126736,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.62879,
     "mps:longitude":13.126736,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Gorslov"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159307079,
-    "wof:lastmodified":1529702618,
+    "wof:lastmodified":1566643172,
     "wof:name":"Gorslov",
     "wof:parent_id":1159303125,
     "wof:placetype":"localadmin",

@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015591,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":98164872.983082,
     "geom:bbox":"15.1335129275,59.3316916965,15.3637655516,59.4463880226",
     "geom:latitude":59.390898,
     "geom:longitude":15.245301,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":10412,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":10412,
     "iso:country":"SE",
     "lbl:latitude":59.383811,
     "lbl:longitude":15.254615,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":59.383811,
     "mps:longitude":15.254615,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Axberg"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125355939,
-    "wof:lastmodified":1529703051,
+    "wof:lastmodified":1566642430,
     "wof:name":"Axberg",
     "wof:parent_id":1159303031,
     "wof:placetype":"localadmin",

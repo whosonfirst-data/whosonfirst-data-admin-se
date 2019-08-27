@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":55.723721,
     "lbl:longitude":13.018374,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":55.723721,
     "mps:longitude":13.018374,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Bj\u00e4rred"
     ],
@@ -87,7 +90,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":138,
     "wof:belongsto":[
@@ -101,9 +104,11 @@
     "wof:concordances":{
         "gn:id":2722362,
         "gp:id":886390,
-        "qs:id":1169048,
         "qs_pg:id":575743,
         "wd:id":"Q879479"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1169048
     },
     "wof:country":"SE",
     "wof:geomhash":"1982c8d88bc0924ffd50a1a3af948893",
@@ -118,7 +123,7 @@
         }
     ],
     "wof:id":101817845,
-    "wof:lastmodified":1563368745,
+    "wof:lastmodified":1566642186,
     "wof:name":"Bj\u00e4rred",
     "wof:parent_id":1159307569,
     "wof:placetype":"locality",

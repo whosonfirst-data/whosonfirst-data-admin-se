@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":59.477045,
     "lbl:longitude":18.305773,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":59.477045,
     "mps:longitude":18.305773,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bul_x_preferred":[
         "\u041e\u043a\u0435\u0440\u0448\u0431\u0435\u0440\u044f"
     ],
@@ -129,7 +132,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":245,
     "wof:belongsto":[
@@ -144,7 +147,6 @@
         "fct:id":"06d07d5e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2727234,
         "gp:id":884309,
-        "qs:id":141247,
         "qs_pg:id":141247,
         "wd:id":"Q54728",
         "wk:page":"\u00c5kersberga"
@@ -165,7 +167,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368850,
+    "wof:lastmodified":1566642223,
     "wof:name":"\u00c5kersberga",
     "wof:parent_id":1125423247,
     "wof:placetype":"locality",

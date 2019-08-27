@@ -10,8 +10,10 @@
     "geom:latitude":57.721116,
     "geom:longitude":12.030596,
     "iso:country":"SE",
+    "lbl:bbox":"12.0255964686,57.7161157453,12.0355964686,57.7261157453",
     "lbl:latitude":57.721116,
     "lbl:longitude":12.030596,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -24,14 +26,14 @@
     "name:swe_x_preferred":[
         "VIdk\u00e4rr"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85688411,
         102191581,
         1125287157,
         85633789,
         101752295,
-        1159302989
+        1159302989,
+        85688411
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -50,7 +52,7 @@
         }
     ],
     "wof:id":1108944357,
-    "wof:lastmodified":1529702293,
+    "wof:lastmodified":1566641827,
     "wof:name":"VIdkarr",
     "wof:parent_id":101752295,
     "wof:placetype":"neighbourhood",

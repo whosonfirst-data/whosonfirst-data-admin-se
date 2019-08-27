@@ -14,6 +14,7 @@
     "iso:country":"SE",
     "lbl:latitude":57.720812,
     "lbl:longitude":11.998833,
+    "lbl:max_zoom":18.0,
     "mps:latitude":57.717579,
     "mps:longitude":11.998172,
     "mz:hierarchy_label":1,
@@ -30,10 +31,6 @@
         "Olskrokens Station"
     ],
     "name:swe_x_preferred":[
-        "Olskroken"
-    ],
-    "name:unk_x_variant":[
-        "Olskrokens Station",
         "Olskroken"
     ],
     "qs:gn_adm0_cc":"SE",
@@ -78,7 +75,6 @@
     "wof:concordances":{
         "gn:id":2687008,
         "gp:id":900592,
-        "qs:id":315624,
         "qs_pg:id":315624
     },
     "wof:country":"SE",
@@ -98,7 +94,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1566247553,
+    "wof:lastmodified":1566640582,
     "wof:name":"Olskroken",
     "wof:parent_id":101752295,
     "wof:placetype":"neighbourhood",

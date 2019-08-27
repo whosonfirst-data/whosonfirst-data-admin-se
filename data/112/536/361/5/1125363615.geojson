@@ -9,17 +9,19 @@
     "geom:bbox":"13.9657515625,59.2242773201,14.3252079068,59.4459638085",
     "geom:latitude":59.313298,
     "geom:longitude":14.148937,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":19266,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":19266,
     "iso:country":"SE",
     "lbl:latitude":59.308949,
     "lbl:longitude":14.151716,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":59.308949,
     "mps:longitude":14.151716,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:amh_x_preferred":[
         "\u12ad\u122a\u1235\u1272\u1290\u1203\u121d\u1295"
@@ -150,7 +152,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -176,7 +178,7 @@
         }
     ],
     "wof:id":1125363615,
-    "wof:lastmodified":1564165346,
+    "wof:lastmodified":1566642948,
     "wof:name":"Kristinehamn",
     "wof:parent_id":1159303523,
     "wof:placetype":"localadmin",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009988,
+    "geom:area_square_m":64591868.684013,
     "geom:bbox":"15.583330086,58.4187567864,15.7675256644,58.5156805557",
     "geom:latitude":58.466829,
     "geom:longitude":15.671133,
     "iso:country":"SE",
     "lbl:latitude":58.475037,
     "lbl:longitude":15.66206,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":58.475037,
     "mps:longitude":15.66206,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Rystad"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159306069,
-    "wof:lastmodified":1529703084,
+    "wof:lastmodified":1566643331,
     "wof:name":"Rystad",
     "wof:parent_id":1159303147,
     "wof:placetype":"localadmin",

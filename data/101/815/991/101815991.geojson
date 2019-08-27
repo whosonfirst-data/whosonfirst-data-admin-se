@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":60.030634,
     "lbl:longitude":13.695885,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":60.030634,
     "mps:longitude":13.695885,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0647\u0627\u063a\u0641\u0648\u0631\u0633"
     ],
@@ -116,7 +119,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u0430\u0491\u0444\u043e\u0440\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hagsfors"
     ],
     "name:zho_min_nan_x_preferred":[
@@ -141,7 +144,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":367,
     "wof:belongsto":[
@@ -156,7 +159,6 @@
         "fct:id":"06d3718a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2709214,
         "gp:id":891831,
-        "qs:id":141228,
         "qs_pg:id":141228,
         "wd:id":"Q1012813",
         "wk:page":"Hagfors"
@@ -177,7 +179,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368810,
+    "wof:lastmodified":1566642208,
     "wof:name":"Hagfors",
     "wof:parent_id":1125286849,
     "wof:placetype":"locality",

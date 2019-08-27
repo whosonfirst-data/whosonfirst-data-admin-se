@@ -12,6 +12,7 @@
     "iso:country":"SE",
     "lbl:latitude":59.409643,
     "lbl:longitude":17.734056,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.409764,
     "mps:longitude":17.729069,
     "mz:hierarchy_label":1,
@@ -24,9 +25,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":5,
     "name:swe_x_preferred":[
-        "Vantholmen"
-    ],
-    "name:unk_x_variant":[
         "Vantholmen"
     ],
     "qs:gn_adm0_cc":"SE",
@@ -53,7 +51,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         1125287095,
@@ -82,7 +80,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702796,
+    "wof:lastmodified":1566640604,
     "wof:name":"Vantholmen",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

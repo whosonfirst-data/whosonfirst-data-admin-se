@@ -9,17 +9,19 @@
     "geom:bbox":"14.1733304098,55.8057960855,14.3559472594,55.9719492039",
     "geom:latitude":55.904629,
     "geom:longitude":14.252326,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":10704,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":10704,
     "iso:country":"SE",
     "lbl:latitude":55.914321,
     "lbl:longitude":14.24608,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":55.914321,
     "mps:longitude":14.24608,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Ahus"
@@ -48,7 +50,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":1125395791,
-    "wof:lastmodified":1564165261,
+    "wof:lastmodified":1566642849,
     "wof:name":"Ahus",
     "wof:parent_id":1159303497,
     "wof:placetype":"localadmin",

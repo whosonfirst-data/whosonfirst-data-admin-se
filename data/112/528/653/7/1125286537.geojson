@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000094,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":594345.00698,
     "geom:bbox":"18.0740056638,59.3305419934,18.0888256241,59.3431171342",
     "geom:latitude":59.337215,
     "geom:longitude":18.080996,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":10566,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":10566,
     "iso:country":"SE",
     "lbl:latitude":59.336819,
     "lbl:longitude":18.080378,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":59.336819,
     "mps:longitude":18.080378,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Stockholms Hedvig Eleonora"
@@ -48,7 +50,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":1125286537,
-    "wof:lastmodified":1529702736,
+    "wof:lastmodified":1566642641,
     "wof:name":"Stockholms Hedvig Eleonora",
     "wof:parent_id":1159303035,
     "wof:placetype":"localadmin",

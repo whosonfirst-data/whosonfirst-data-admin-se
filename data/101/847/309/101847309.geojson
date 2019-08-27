@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":57.684494,
     "lbl:longitude":14.15725,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":57.684494,
     "mps:longitude":14.15725,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Odensj\u00f6"
     ],
@@ -81,7 +84,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":45,
     "wof:belongsto":[
@@ -96,7 +99,6 @@
         "fct:id":"06d231bc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2687444,
         "gp:id":900405,
-        "qs:id":418565,
         "qs_pg:id":418565,
         "wd:id":"Q2161782",
         "wk:page":"Odensj\u00f6"
@@ -117,7 +119,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368859,
+    "wof:lastmodified":1566642226,
     "wof:name":"Odensj\u00f6",
     "wof:parent_id":1125286609,
     "wof:placetype":"locality",

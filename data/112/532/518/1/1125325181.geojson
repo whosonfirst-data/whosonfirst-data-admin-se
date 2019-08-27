@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.47457,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":2442431729.019183,
     "geom:bbox":"19.6287954408,65.1853288151,21.8606755622,65.6278617144",
     "geom:latitude":65.403915,
     "geom:longitude":20.702487,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":16455,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":16455,
     "iso:country":"SE",
     "lbl:latitude":65.415415,
     "lbl:longitude":20.626894,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":65.415415,
     "mps:longitude":20.626894,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Pitea landsdistrikt"
@@ -48,7 +50,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":1125325181,
-    "wof:lastmodified":1529702560,
+    "wof:lastmodified":1566642507,
     "wof:name":"Pitea landsdistrikt",
     "wof:parent_id":1159303399,
     "wof:placetype":"localadmin",

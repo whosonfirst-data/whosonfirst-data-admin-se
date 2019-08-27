@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.103486,
+    "geom:area_square_m":563373576.714809,
     "geom:bbox":"14.34221237,63.7670536347,15.1063750186,64.0268679145",
     "geom:latitude":63.879207,
     "geom:longitude":14.758045,
     "iso:country":"SE",
     "lbl:latitude":63.898495,
     "lbl:longitude":14.795601,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":63.898495,
     "mps:longitude":14.795601,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Laxsjo"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159306163,
-    "wof:lastmodified":1529702363,
+    "wof:lastmodified":1566643197,
     "wof:name":"Laxsjo",
     "wof:parent_id":1159303097,
     "wof:placetype":"localadmin",

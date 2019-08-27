@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020338,
+    "geom:area_square_m":129522394.805714,
     "geom:bbox":"18.0417057913,58.9231590429,18.2884833079,59.0693925969",
     "geom:latitude":59.000974,
     "geom:longitude":18.150339,
     "iso:country":"SE",
     "lbl:latitude":59.012364,
     "lbl:longitude":18.170951,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":59.012364,
     "mps:longitude":18.170951,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Musko"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159306897,
-    "wof:lastmodified":1529702723,
+    "wof:lastmodified":1566643189,
     "wof:name":"Musko",
     "wof:parent_id":1159303483,
     "wof:placetype":"localadmin",

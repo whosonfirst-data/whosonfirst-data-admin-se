@@ -9,17 +9,19 @@
     "geom:bbox":"12.6095244044,56.6742394509,12.7910270007,56.7771432329",
     "geom:latitude":56.733005,
     "geom:longitude":12.695336,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":6109,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":6109,
     "iso:country":"SE",
     "lbl:latitude":56.734246,
     "lbl:longitude":12.696704,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":56.734246,
     "mps:longitude":12.696704,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Harplinge"
@@ -69,7 +71,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -95,7 +97,7 @@
         }
     ],
     "wof:id":1125409961,
-    "wof:lastmodified":1564165414,
+    "wof:lastmodified":1566643067,
     "wof:name":"Harplinge",
     "wof:parent_id":1159303343,
     "wof:placetype":"localadmin",

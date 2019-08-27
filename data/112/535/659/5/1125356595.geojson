@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001205,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":8397249.580833,
     "geom:bbox":"13.1993744739,55.6761666028,13.2670960075,55.7066621348",
     "geom:latitude":55.68902,
     "geom:longitude":13.2347,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":5822,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":5822,
     "iso:country":"SE",
     "lbl:latitude":55.6911,
     "lbl:longitude":13.24264,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":55.6911,
     "mps:longitude":13.24264,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Stora Raby"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125356595,
-    "wof:lastmodified":1529702639,
+    "wof:lastmodified":1566642449,
     "wof:name":"Stora Raby",
     "wof:parent_id":1159303449,
     "wof:placetype":"localadmin",

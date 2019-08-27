@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":56.817534,
     "lbl:longitude":12.733309,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":56.817534,
     "mps:longitude":12.733309,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0413\u0435\u0442\u0438\u043d\u0433\u0435"
     ],
@@ -81,7 +84,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":63,
     "wof:belongsto":[
@@ -96,7 +99,6 @@
         "fct:id":"06d1caba-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2712255,
         "gp:id":890601,
-        "qs:id":3506,
         "qs_pg:id":3506,
         "wd:id":"Q282755",
         "wk:page":"Getinge"
@@ -117,7 +119,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368680,
+    "wof:lastmodified":1566642162,
     "wof:name":"Getinge",
     "wof:parent_id":1125326363,
     "wof:placetype":"locality",

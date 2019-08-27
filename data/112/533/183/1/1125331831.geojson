@@ -9,17 +9,19 @@
     "geom:bbox":"13.0008570736,55.5129071756,13.1351875682,55.5642478496",
     "geom:latitude":55.53959,
     "geom:longitude":13.069393,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":11706,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":11706,
     "iso:country":"SE",
     "lbl:latitude":55.540128,
     "lbl:longitude":13.073928,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":55.540128,
     "mps:longitude":13.073928,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:dan_x_preferred":[
         "Oxie"
@@ -87,7 +89,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -114,7 +116,7 @@
         }
     ],
     "wof:id":1125331831,
-    "wof:lastmodified":1561839997,
+    "wof:lastmodified":1566642383,
     "wof:name":"Oxie",
     "wof:parent_id":1159303367,
     "wof:placetype":"localadmin",

@@ -13,6 +13,7 @@
     "iso:country":"SE",
     "lbl:latitude":57.652007,
     "lbl:longitude":11.962171,
+    "lbl:max_zoom":18.0,
     "mps:latitude":57.652212,
     "mps:longitude":11.961772,
     "mz:hierarchy_label":1,
@@ -35,9 +36,6 @@
     "name:swe_x_variant":[
         "Hogsbo",
         "H\u00f6gsbo"
-    ],
-    "name:unk_x_variant":[
-        "H\u00f6gsb"
     ],
     "qs:gn_adm0_cc":"SE",
     "qs:gn_id":0,
@@ -78,7 +76,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20151132,
-        "qs:id":896142,
         "qs_pg:id":896142
     },
     "wof:country":"SE",
@@ -98,7 +95,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1566247571,
+    "wof:lastmodified":1566640625,
     "wof:name":"H\u00f6gsb",
     "wof:parent_id":101840187,
     "wof:placetype":"neighbourhood",

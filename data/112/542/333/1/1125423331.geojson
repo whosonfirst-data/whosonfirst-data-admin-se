@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.169435,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":927370998.176395,
     "geom:bbox":"18.1305772634,63.4793593508,18.7679080465,63.9957885598",
     "geom:latitude":63.727665,
     "geom:longitude":18.447624,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":1570,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":1570,
     "iso:country":"SE",
     "lbl:latitude":63.674537,
     "lbl:longitude":18.473986,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":63.674537,
     "mps:longitude":18.473986,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Bjorna"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125423331,
-    "wof:lastmodified":1529702965,
+    "wof:lastmodified":1566642750,
     "wof:name":"Bjorna",
     "wof:parent_id":1159303463,
     "wof:placetype":"localadmin",

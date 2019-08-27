@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005498,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":34704823.859727,
     "geom:bbox":"15.0965828231,59.2616827388,15.2016529588,59.3464959424",
     "geom:latitude":59.301407,
     "geom:longitude":15.137592,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":17305,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":17305,
     "iso:country":"SE",
     "lbl:latitude":59.311797,
     "lbl:longitude":15.128091,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":59.311797,
     "mps:longitude":15.128091,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Langbro"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125356483,
-    "wof:lastmodified":1529703052,
+    "wof:lastmodified":1566642465,
     "wof:name":"Langbro",
     "wof:parent_id":1159303031,
     "wof:placetype":"localadmin",

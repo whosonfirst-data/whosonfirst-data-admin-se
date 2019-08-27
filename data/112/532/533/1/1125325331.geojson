@@ -9,17 +9,19 @@
     "geom:bbox":"15.6180622843,63.9506775303,16.9454077004,64.743092254",
     "geom:latitude":64.374299,
     "geom:longitude":16.252225,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":2914,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":2914,
     "iso:country":"SE",
     "lbl:latitude":64.385944,
     "lbl:longitude":16.242534,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":64.385944,
     "mps:longitude":16.242534,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0414\u0443\u0440\u0443\u0442\u0435\u0430"
@@ -102,7 +104,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -128,7 +130,7 @@
         }
     ],
     "wof:id":1125325331,
-    "wof:lastmodified":1564164973,
+    "wof:lastmodified":1566642482,
     "wof:name":"Dorotea",
     "wof:parent_id":1159302983,
     "wof:placetype":"localadmin",

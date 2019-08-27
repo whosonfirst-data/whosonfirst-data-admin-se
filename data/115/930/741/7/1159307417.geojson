@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002889,
+    "geom:area_square_m":18638646.984289,
     "geom:bbox":"13.9116915053,58.4880357301,14.1250001613,58.5881253205",
     "geom:latitude":58.554153,
     "geom:longitude":13.966454,
     "iso:country":"SE",
     "lbl:latitude":58.559155,
     "lbl:longitude":13.954127,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":58.559155,
     "mps:longitude":13.954127,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Flistad"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159307417,
-    "wof:lastmodified":1529702168,
+    "wof:lastmodified":1566643264,
     "wof:name":"Flistad",
     "wof:parent_id":1159302921,
     "wof:placetype":"localadmin",

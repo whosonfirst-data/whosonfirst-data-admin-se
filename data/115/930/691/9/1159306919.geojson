@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002303,
+    "geom:area_square_m":15109356.919823,
     "geom:bbox":"13.4487827922,57.9281905065,13.5920775441,57.9739892638",
     "geom:latitude":57.950284,
     "geom:longitude":13.529593,
     "iso:country":"SE",
     "lbl:latitude":57.949331,
     "lbl:longitude":13.534516,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":57.949331,
     "mps:longitude":13.534516,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Humla"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159306919,
-    "wof:lastmodified":1529702150,
+    "wof:lastmodified":1566643336,
     "wof:name":"Humla",
     "wof:parent_id":1159303161,
     "wof:placetype":"localadmin",

@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4706381.406926,
+    "geom:area_square_m":0.0,
     "geom:bbox":"17.890206,59.504905,17.890206,59.504905",
     "geom:latitude":59.504905,
     "geom:longitude":17.890206,
     "iso:country":"SE",
+    "lbl:bbox":"17.885206,59.499905,17.895206,59.509905",
     "lbl:latitude":59.504905,
     "lbl:longitude":17.890206,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.502345,
     "mps:longitude":17.883008,
     "mz:hierarchy_label":0,
@@ -35,9 +37,6 @@
     ],
     "name:swe_x_variant":[
         "\u00c4lvsunda"
-    ],
-    "name:unk_x_variant":[
-        "Alvsunda"
     ],
     "qs:gn_adm0_cc":"SE",
     "qs:gn_id":0,
@@ -67,7 +66,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         1125327749,
@@ -96,7 +95,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1531936321,
+    "wof:lastmodified":1566640657,
     "wof:name":"Alvsunda",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

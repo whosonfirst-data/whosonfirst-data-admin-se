@@ -24,10 +24,13 @@
     ],
     "lbl:latitude":63.732594,
     "lbl:longitude":20.308748,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":63.732594,
     "mps:longitude":20.308748,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Umea"
     ],
@@ -43,7 +46,7 @@
     "se-lant:lanskod":24,
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1159303017,
-    "wof:lastmodified":1554325311,
+    "wof:lastmodified":1566643162,
     "wof:name":"Umea",
     "wof:parent_id":85688465,
     "wof:placetype":"county",

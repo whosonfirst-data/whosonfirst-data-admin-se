@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":10970912.586363,
+    "geom:area_square_m":0.0,
     "geom:bbox":"18.123677,59.471481,18.123677,59.471481",
     "geom:latitude":59.471481,
     "geom:longitude":18.123677,
     "gn:latitude":59.26667,
     "gn:longitude":18.4,
     "iso:country":"SE",
+    "lbl:bbox":"18.118677,59.466481,18.128677,59.476481",
     "lbl:latitude":59.471481,
     "lbl:longitude":18.123677,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.471274,
     "mps:longitude":18.12982,
     "mz:hierarchy_label":0,
@@ -27,9 +29,6 @@
     "mz:tier_locality":1,
     "mz:tier_metro":1,
     "name:swe_x_preferred":[
-        "Hagerneholm"
-    ],
-    "name:unk_x_variant":[
         "Hagerneholm"
     ],
     "qs:gn_adm0_cc":"SE",
@@ -61,7 +60,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         1125398123,
@@ -73,7 +72,6 @@
     "wof:concordances":{
         "gn:id":2715722,
         "gp:id":20151074,
-        "qs:id":483079,
         "qs_pg:id":483079
     },
     "wof:country":"SE",
@@ -93,7 +91,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1531936331,
+    "wof:lastmodified":1566640623,
     "wof:name":"Hagerneholm",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

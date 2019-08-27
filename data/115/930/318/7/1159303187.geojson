@@ -24,10 +24,13 @@
     ],
     "lbl:latitude":56.33635,
     "lbl:longitude":14.560115,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":56.33635,
     "mps:longitude":14.560115,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Olofstrom"
     ],
@@ -43,7 +46,7 @@
     "se-lant:lanskod":10,
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1159303187,
-    "wof:lastmodified":1555037180,
+    "wof:lastmodified":1566643355,
     "wof:name":"Olofstrom",
     "wof:parent_id":85688383,
     "wof:placetype":"county",

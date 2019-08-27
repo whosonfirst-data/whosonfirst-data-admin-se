@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.071568,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":433913860.042649,
     "geom:bbox":"16.1976445963,60.4917261855,16.7575376319,60.7867936338",
     "geom:latitude":60.638052,
     "geom:longitude":16.508816,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":9028,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":9028,
     "iso:country":"SE",
     "lbl:latitude":60.663047,
     "lbl:longitude":16.462749,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":60.663047,
     "mps:longitude":16.462749,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Ovansjo"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125325425,
-    "wof:lastmodified":1529701990,
+    "wof:lastmodified":1566642511,
     "wof:name":"Ovansjo",
     "wof:parent_id":1159303303,
     "wof:placetype":"localadmin",

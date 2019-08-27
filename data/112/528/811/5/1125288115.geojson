@@ -9,17 +9,19 @@
     "geom:bbox":"12.0518277369,59.6444263961,12.3529202155,59.8939412985",
     "geom:latitude":59.776486,
     "geom:longitude":12.20379,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":1333,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":1333,
     "iso:country":"SE",
     "lbl:latitude":59.789192,
     "lbl:longitude":12.216311,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":59.789192,
     "mps:longitude":12.216311,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:aze_x_preferred":[
         "Kola"
@@ -141,7 +143,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -167,7 +169,7 @@
         }
     ],
     "wof:id":1125288115,
-    "wof:lastmodified":1564165063,
+    "wof:lastmodified":1566642600,
     "wof:name":"Kola",
     "wof:parent_id":1159303453,
     "wof:placetype":"localadmin",

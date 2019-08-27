@@ -13,8 +13,10 @@
     "gn:longitude":17.86583,
     "gn:population":6192,
     "iso:country":"SE",
+    "lbl:bbox":"17.903335,59.512788,17.913335,59.522788",
     "lbl:latitude":59.517788,
     "lbl:longitude":17.908335,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.512008,
     "mps:longitude":17.913697,
     "mz:hierarchy_label":0,
@@ -34,9 +36,6 @@
     ],
     "name:swe_x_variant":[
         "Eds f\u00f6rsamling"
-    ],
-    "name:unk_x_variant":[
-        "Ed"
     ],
     "qs:gn_adm0_cc":"SE",
     "qs:gn_id":0,
@@ -66,7 +65,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -81,7 +80,7 @@
         "fct:id":"06e7cfb8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":8132008,
         "gp:id":888646,
-        "qs:id":109366,
+        "qs_pg:id":109366,
         "wd:id":"Q10479944"
     },
     "wof:country":"SE",
@@ -101,7 +100,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563366581,
+    "wof:lastmodified":1566640637,
     "wof:name":"Ed",
     "wof:parent_id":101815895,
     "wof:placetype":"neighbourhood",

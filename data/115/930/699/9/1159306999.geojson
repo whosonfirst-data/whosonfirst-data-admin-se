@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007303,
+    "geom:area_square_m":47674029.094518,
     "geom:bbox":"12.9127505818,58.1091135759,13.1149190071,58.1624829102",
     "geom:latitude":58.134932,
     "geom:longitude":13.007894,
     "iso:country":"SE",
     "lbl:latitude":58.136875,
     "lbl:longitude":12.989702,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":58.136875,
     "mps:longitude":12.989702,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bitterna"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159306999,
-    "wof:lastmodified":1529702153,
+    "wof:lastmodified":1566643321,
     "wof:name":"Bitterna",
     "wof:parent_id":1159303487,
     "wof:placetype":"localadmin",

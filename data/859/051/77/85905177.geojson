@@ -10,8 +10,10 @@
     "geom:latitude":59.221152,
     "geom:longitude":17.942884,
     "iso:country":"SE",
+    "lbl:bbox":"17.937884,59.216152,17.947884,59.226152",
     "lbl:latitude":59.221152,
     "lbl:longitude":17.942884,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.232347,
     "mps:longitude":17.952841,
     "mz:hierarchy_label":0,
@@ -45,9 +47,6 @@
     "name:swe_x_preferred":[
         "Flemingsberg"
     ],
-    "name:unk_x_variant":[
-        "Flemingsberg"
-    ],
     "qs:gn_adm0_cc":"SE",
     "qs:gn_id":0,
     "qs:gn_local":2667109,
@@ -76,7 +75,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":385,
     "wof:belongsto":[
         102191581,
@@ -108,7 +107,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563366616,
+    "wof:lastmodified":1566640664,
     "wof:name":"Flemingsberg",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

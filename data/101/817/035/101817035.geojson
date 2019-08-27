@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":58.130813,
     "lbl:longitude":12.128033,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":58.130813,
     "mps:longitude":12.128033,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041b\u0438\u043b\u0430 \u0415\u0434\u0435\u0442"
     ],
@@ -111,7 +114,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":266,
     "wof:belongsto":[
@@ -126,7 +129,6 @@
         "fct:id":"06d1ebb2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2696059,
         "gp:id":897090,
-        "qs:id":3667,
         "qs_pg:id":3667,
         "wd:id":"Q1016712",
         "wk:page":"Lilla Edet"
@@ -147,7 +149,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368787,
+    "wof:lastmodified":1566642200,
     "wof:name":"Lilla Edet",
     "wof:parent_id":1125373083,
     "wof:placetype":"locality",

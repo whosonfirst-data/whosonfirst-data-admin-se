@@ -9,17 +9,19 @@
     "geom:bbox":"13.4175480334,59.8098243407,13.6404599251,59.8823618132",
     "geom:latitude":59.845404,
     "geom:longitude":13.526177,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":3184,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":3184,
     "iso:country":"SE",
     "lbl:latitude":59.848857,
     "lbl:longitude":13.528294,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":59.848857,
     "mps:longitude":13.528294,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bar_x_preferred":[
         "Munkfors"
@@ -93,7 +95,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -119,7 +121,7 @@
         }
     ],
     "wof:id":1125288177,
-    "wof:lastmodified":1564165065,
+    "wof:lastmodified":1566642601,
     "wof:name":"Munkfors",
     "wof:parent_id":1159303335,
     "wof:placetype":"localadmin",

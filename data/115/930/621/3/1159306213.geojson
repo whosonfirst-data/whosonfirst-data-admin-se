@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006522,
+    "geom:area_square_m":45321922.892737,
     "geom:bbox":"13.6543102063,55.7758155097,13.8581450285,55.8392236681",
     "geom:latitude":55.806472,
     "geom:longitude":13.76766,
     "iso:country":"SE",
     "lbl:latitude":55.806254,
     "lbl:longitude":13.794724,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.806254,
     "mps:longitude":13.794724,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ostra Sallerup"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159306213,
-    "wof:lastmodified":1529702603,
+    "wof:lastmodified":1566643184,
     "wof:name":"Ostra Sallerup",
     "wof:parent_id":1159303277,
     "wof:placetype":"localadmin",

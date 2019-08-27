@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002425,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":15894969.766582,
     "geom:bbox":"13.2597743869,57.9636425022,13.3354529336,58.023380012",
     "geom:latitude":57.993486,
     "geom:longitude":13.298769,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":120,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":120,
     "iso:country":"SE",
     "lbl:latitude":57.99131,
     "lbl:longitude":13.295605,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mps:latitude":57.99131,
     "mps:longitude":13.295605,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Broddarp"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125340465,
-    "wof:lastmodified":1529702115,
+    "wof:lastmodified":1566642384,
     "wof:name":"Broddarp",
     "wof:parent_id":1159303171,
     "wof:placetype":"localadmin",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007338,
+    "geom:area_square_m":45648661.731377,
     "geom:bbox":"17.7569922921,59.7560753143,17.9444741743,59.8239864604",
     "geom:latitude":59.793557,
     "geom:longitude":17.84048,
     "iso:country":"SE",
     "lbl:latitude":59.790508,
     "lbl:longitude":17.826294,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":59.790508,
     "mps:longitude":17.826294,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lagga"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159306535,
-    "wof:lastmodified":1529702869,
+    "wof:lastmodified":1566643339,
     "wof:name":"Lagga",
     "wof:parent_id":1159303267,
     "wof:placetype":"localadmin",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003025,
+    "geom:area_square_m":20588865.767532,
     "geom:bbox":"12.8649992501,56.5837258085,12.97048638,56.6365579252",
     "geom:latitude":56.609444,
     "geom:longitude":12.919183,
     "iso:country":"SE",
     "lbl:latitude":56.607331,
     "lbl:longitude":12.919978,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":56.607331,
     "mps:longitude":12.919978,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tronninge"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159306577,
-    "wof:lastmodified":1529702324,
+    "wof:lastmodified":1566643226,
     "wof:name":"Tronninge",
     "wof:parent_id":1159303343,
     "wof:placetype":"localadmin",

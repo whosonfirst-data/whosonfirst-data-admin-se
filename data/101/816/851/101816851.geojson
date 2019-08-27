@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":57.185613,
     "lbl:longitude":14.029912,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":57.185613,
     "mps:longitude":14.029912,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:bul_x_preferred":[
         "\u0412\u0435\u0440\u043d\u0430\u043c\u0443"
     ],
@@ -144,7 +147,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":57.183333,
     "wd:longitude":14.033333,
@@ -162,7 +165,6 @@
         "fct:id":"06d1e842-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2664855,
         "gp:id":909106,
-        "qs:id":492525,
         "qs_pg:id":492525,
         "wd:id":"Q54771"
     },
@@ -182,7 +184,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368647,
+    "wof:lastmodified":1566642151,
     "wof:name":"V\u00e4rnamo",
     "wof:parent_id":1125396617,
     "wof:placetype":"locality",

@@ -9,17 +9,19 @@
     "geom:bbox":"13.6404510023,57.1212147387,13.8020821539,57.2494534764",
     "geom:latitude":57.189938,
     "geom:longitude":13.717929,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":2049,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":2049,
     "iso:country":"SE",
     "lbl:latitude":57.202527,
     "lbl:longitude":13.719183,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":57.202527,
     "mps:longitude":13.719183,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Bredaryd"
@@ -60,7 +62,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -86,7 +88,7 @@
         }
     ],
     "wof:id":1125325291,
-    "wof:lastmodified":1564164996,
+    "wof:lastmodified":1566642508,
     "wof:name":"Bredaryd",
     "wof:parent_id":1159303313,
     "wof:placetype":"localadmin",

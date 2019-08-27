@@ -10,8 +10,10 @@
     "geom:latitude":57.633804,
     "geom:longitude":11.94252,
     "iso:country":"SE",
+    "lbl:bbox":"11.9375202027,57.6288044508,11.9475202027,57.6388044508",
     "lbl:latitude":57.633804,
     "lbl:longitude":11.94252,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -24,14 +26,14 @@
     "name:swe_x_preferred":[
         "Kobbeg\u00e5rden"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85688411,
         102191581,
         1125287157,
         85633789,
         101752295,
-        1159302989
+        1159302989,
+        85688411
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -50,7 +52,7 @@
         }
     ],
     "wof:id":1108944601,
-    "wof:lastmodified":1529702279,
+    "wof:lastmodified":1566641822,
     "wof:name":"Kobbegarden",
     "wof:parent_id":101752295,
     "wof:placetype":"neighbourhood",

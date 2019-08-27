@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":34937903.407323,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.636159,60.604128,15.636159,60.604128",
     "geom:latitude":60.604128,
     "geom:longitude":15.636159,
     "gn:latitude":60.6,
     "gn:longitude":15.65,
     "iso:country":"SE",
+    "lbl:bbox":"15.631159,60.599128,15.641159,60.609128",
     "lbl:latitude":60.604128,
     "lbl:longitude":15.636159,
+    "lbl:max_zoom":18.0,
     "mps:latitude":60.601109,
     "mps:longitude":15.638712,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
     "name:swe_x_preferred":[
-        "Norslund"
-    ],
-    "name:unk_x_variant":[
         "Norslund"
     ],
     "qs:gn_adm0_cc":"SE",
@@ -59,20 +58,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85688447,
         102191581,
         1125356435,
         85633789,
         101847359,
-        1159302903
+        1159302903,
+        85688447
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2688160,
         "gp:id":900065,
-        "qs:id":891932,
         "qs_pg:id":891932
     },
     "wof:country":"SE",
@@ -92,7 +90,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1531935880,
+    "wof:lastmodified":1566640588,
     "wof:name":"Norslund",
     "wof:parent_id":101847359,
     "wof:placetype":"neighbourhood",

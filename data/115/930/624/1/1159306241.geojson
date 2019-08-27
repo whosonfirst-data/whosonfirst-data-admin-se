@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0024,
+    "geom:area_square_m":15534278.826889,
     "geom:bbox":"12.8931573703,58.4184942015,12.9855036674,58.4564684116",
     "geom:latitude":58.439083,
     "geom:longitude":12.945296,
     "iso:country":"SE",
     "lbl:latitude":58.438948,
     "lbl:longitude":12.945312,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":58.438948,
     "mps:longitude":12.945312,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Gillstad"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159306241,
-    "wof:lastmodified":1529702132,
+    "wof:lastmodified":1566643309,
     "wof:name":"Gillstad",
     "wof:parent_id":1159303281,
     "wof:placetype":"localadmin",

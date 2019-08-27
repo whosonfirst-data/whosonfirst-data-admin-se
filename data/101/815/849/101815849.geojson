@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":58.98426,
     "lbl:longitude":14.626858,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":58.98426,
     "mps:longitude":14.626858,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0644\u0627\u0643\u0633\u0648"
     ],
@@ -123,7 +126,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":159,
     "wof:belongsto":[
@@ -138,7 +141,6 @@
         "fct:id":"06d0adf6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2696804,
         "gp:id":896831,
-        "qs:id":1220742,
         "qs_pg:id":1220742,
         "wd:id":"Q1076290",
         "wk:page":"Lax\u00e5"
@@ -159,7 +161,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368843,
+    "wof:lastmodified":1566642220,
     "wof:name":"Lax\u00e5",
     "wof:parent_id":1125287839,
     "wof:placetype":"locality",

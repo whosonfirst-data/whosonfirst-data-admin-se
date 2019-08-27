@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007222,
+    "geom:area_square_m":45570115.537211,
     "geom:bbox":"17.7754984149,59.2862212711,17.954825889,59.3581767685",
     "geom:latitude":59.318209,
     "geom:longitude":17.853058,
     "iso:country":"SE",
     "lbl:latitude":59.320713,
     "lbl:longitude":17.836738,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":59.320713,
     "mps:longitude":17.836738,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lovo"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159307483,
-    "wof:lastmodified":1529702726,
+    "wof:lastmodified":1566643253,
     "wof:name":"Lovo",
     "wof:parent_id":1159302999,
     "wof:placetype":"localadmin",

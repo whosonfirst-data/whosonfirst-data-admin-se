@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":66.607497,
     "lbl:longitude":19.841555,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":66.607497,
     "mps:longitude":19.841555,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0419\u043e\u043a\u043c\u043e\u043a"
     ],
@@ -112,9 +115,6 @@
     "name:ukr_x_preferred":[
         "\u0419\u043e\u043a\u043a\u043c\u043e\u043a\u043a"
     ],
-    "name:unk_x_variant":[
-        "Jockmock"
-    ],
     "name:zho_min_nan_x_preferred":[
         "Jokkmokk"
     ],
@@ -134,7 +134,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":233,
     "wof:belongsto":[
@@ -149,7 +149,6 @@
         "fct:id":"06d37e46-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2702997,
         "gp:id":894415,
-        "qs:id":92390,
         "qs_pg:id":92390,
         "wd:id":"Q3335533",
         "wk:page":"Jokkmokk"
@@ -170,7 +169,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368908,
+    "wof:lastmodified":1566642243,
     "wof:name":"Jokkmokk",
     "wof:parent_id":1125300079,
     "wof:placetype":"locality",

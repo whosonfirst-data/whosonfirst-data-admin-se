@@ -9,15 +9,18 @@
     "geom:bbox":"18.55,63.3,18.55,63.3",
     "geom:latitude":63.3,
     "geom:longitude":18.55,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":602,
+    "gn:country":"SE",
+    "gn:fcode":"PPL",
     "gn:population":602,
     "iso:country":"SE",
+    "lbl:bbox":"18.53,63.28,18.57,63.32",
     "lbl:latitude":63.3,
     "lbl:longitude":18.55,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "\u00d6verh\u00f6rn\u00e4s"
@@ -46,7 +49,7 @@
     "name:swe_x_preferred":[
         "\u00d6verh\u00f6rn\u00e4s"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "H\u00f6rn\u00e4s"
     ],
     "qs_pg:aaroncc":"SE",
@@ -68,7 +71,7 @@
     "qs_pg:woe_adm0":23424954,
     "qs_pg:woe_id":901504,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424954,
     "woe:name_adm0":"Sverige",
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":1125775739,
-    "wof:lastmodified":1563370097,
+    "wof:lastmodified":1566643119,
     "wof:name":"\u00d6verh\u00f6rn\u00e4s",
     "wof:parent_id":1125409985,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000574,
-    "geom:area_square_m":3605241.027403,
+    "geom:area_square_m":3605241.027402,
     "geom:bbox":"17.9722127816,59.4321640088,18.0083520508,59.4676391095",
     "geom:latitude":59.450866,
     "geom:longitude":17.991177,
@@ -13,6 +13,7 @@
     "iso:country":"SE",
     "lbl:latitude":59.420705,
     "lbl:longitude":18.001003,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.458779,
     "mps:longitude":17.998433,
     "mz:hierarchy_label":1,
@@ -27,9 +28,6 @@
     "mz:tier_locality":5,
     "mz:tier_metro":1,
     "name:swe_x_preferred":[
-        "Sodersatra"
-    ],
-    "name:unk_x_variant":[
         "Sodersatra"
     ],
     "qs:gn_adm0_cc":"SE",
@@ -57,7 +55,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         1125363647,
@@ -68,7 +66,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20151668,
-        "qs:id":987141,
         "qs_pg:id":987141
     },
     "wof:country":"SE",
@@ -88,7 +85,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702818,
+    "wof:lastmodified":1566640628,
     "wof:name":"Sodersatra",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

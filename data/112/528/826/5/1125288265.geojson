@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.045194,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":279797410.642449,
     "geom:bbox":"13.3312908362,59.8515808546,13.668826796,60.0683388528",
     "geom:latitude":59.954762,
     "geom:longitude":13.516863,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":2442,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":2442,
     "iso:country":"SE",
     "lbl:latitude":59.94547,
     "lbl:longitude":13.530566,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":59.94547,
     "mps:longitude":13.530566,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Norra Rada"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125288265,
-    "wof:lastmodified":1529702929,
+    "wof:lastmodified":1566642603,
     "wof:name":"Norra Rada",
     "wof:parent_id":1159303063,
     "wof:placetype":"localadmin",

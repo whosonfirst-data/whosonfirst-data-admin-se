@@ -9,17 +9,19 @@
     "geom:bbox":"13.298157308,56.7561702559,13.5190375006,56.8805268314",
     "geom:latitude":56.821998,
     "geom:longitude":13.404115,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":889,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":889,
     "iso:country":"SE",
     "lbl:latitude":56.822493,
     "lbl:longitude":13.402062,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":56.822493,
     "mps:longitude":13.402062,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
         "Lidhult"
@@ -63,7 +65,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -89,7 +91,7 @@
         }
     ],
     "wof:id":1125356235,
-    "wof:lastmodified":1564164949,
+    "wof:lastmodified":1566642461,
     "wof:name":"Lidhult",
     "wof:parent_id":1159303441,
     "wof:placetype":"localadmin",

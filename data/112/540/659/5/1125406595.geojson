@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035673,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":230754453.362017,
     "geom:bbox":"12.0711440829,58.3798964049,12.3817157682,58.5495580916",
     "geom:latitude":58.457997,
     "geom:longitude":12.222204,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":3394,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":3394,
     "iso:country":"SE",
     "lbl:latitude":58.460663,
     "lbl:longitude":12.19115,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":58.460663,
     "mps:longitude":12.19115,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Frandefors"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125406595,
-    "wof:lastmodified":1529702201,
+    "wof:lastmodified":1566643070,
     "wof:name":"Frandefors",
     "wof:parent_id":1159303519,
     "wof:placetype":"localadmin",

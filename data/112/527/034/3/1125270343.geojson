@@ -9,17 +9,19 @@
     "geom:bbox":"18.8007099108,63.3906133655,19.8142122591,63.8682105672",
     "geom:latitude":63.642196,
     "geom:longitude":19.41271,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":7276,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":7276,
     "iso:country":"SE",
     "lbl:latitude":63.610966,
     "lbl:longitude":19.420437,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":63.610966,
     "mps:longitude":19.420437,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u041d\u043e\u0440\u0434\u043c\u0430\u043b\u0438\u043d\u0433"
@@ -93,7 +95,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -119,7 +121,7 @@
         }
     ],
     "wof:id":1125270343,
-    "wof:lastmodified":1564165145,
+    "wof:lastmodified":1566642711,
     "wof:name":"Nordmaling",
     "wof:parent_id":1159303093,
     "wof:placetype":"localadmin",

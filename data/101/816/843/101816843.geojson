@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":57.317786,
     "lbl:longitude":14.592174,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":57.317786,
     "mps:longitude":14.592174,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Stockaryd"
     ],
@@ -75,7 +78,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":45,
     "wof:belongsto":[
@@ -90,7 +93,6 @@
         "fct:id":"06d2a796-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2673758,
         "gp:id":906035,
-        "qs:id":941765,
         "qs_pg:id":941765,
         "wd:id":"Q1016852",
         "wk:page":"Stockaryd"
@@ -111,7 +113,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368637,
+    "wof:lastmodified":1566642148,
     "wof:name":"Stockaryd",
     "wof:parent_id":1125395777,
     "wof:placetype":"locality",

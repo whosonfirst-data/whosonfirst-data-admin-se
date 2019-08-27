@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006159,
+    "geom:area_square_m":38366807.445624,
     "geom:bbox":"16.6473346646,59.7144105903,16.784447378,59.7913086742",
     "geom:latitude":59.749884,
     "geom:longitude":16.71661,
     "iso:country":"SE",
     "lbl:latitude":59.752121,
     "lbl:longitude":16.710933,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":59.752121,
     "mps:longitude":16.710933,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sevalla"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159305647,
-    "wof:lastmodified":1529702866,
+    "wof:lastmodified":1566643275,
     "wof:name":"Sevalla",
     "wof:parent_id":1159303331,
     "wof:placetype":"localadmin",

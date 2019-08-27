@@ -16,6 +16,7 @@
     "iso:country":"SE",
     "lbl:latitude":59.205605,
     "lbl:longitude":17.837081,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.202976,
     "mps:longitude":17.847857,
     "mz:hierarchy_label":1,
@@ -123,9 +124,6 @@
     "name:ukr_x_preferred":[
         "\u0422\u0443\u043c\u0431\u0430"
     ],
-    "name:unk_x_variant":[
-        "Botkyrka"
-    ],
     "name:zho_x_preferred":[
         "\u901a\u5df4"
     ],
@@ -157,7 +155,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -172,7 +170,6 @@
         "fct:id":"06e7ccb6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2667094,
         "gp:id":887371,
-        "qs:id":1093889,
         "qs_pg:id":1093889,
         "wd:id":"Q83715",
         "wk:page":"Tumba, Sweden"
@@ -194,7 +191,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563366578,
+    "wof:lastmodified":1566640636,
     "wof:name":"Botkyrka",
     "wof:parent_id":101847351,
     "wof:placetype":"neighbourhood",

@@ -9,17 +9,19 @@
     "geom:bbox":"12.0673450908,57.6821676497,12.2249140828,57.7759798091",
     "geom:latitude":57.732429,
     "geom:longitude":12.133263,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":22154,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":22154,
     "iso:country":"SE",
     "lbl:latitude":57.73494,
     "lbl:longitude":12.134453,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":57.73494,
     "mps:longitude":12.134453,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u041f\u0430\u0440\u0442\u0438\u043b\u0435"
@@ -75,7 +77,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -101,7 +103,7 @@
         }
     ],
     "wof:id":1125270905,
-    "wof:lastmodified":1564165133,
+    "wof:lastmodified":1566642698,
     "wof:name":"Partille",
     "wof:parent_id":1159303085,
     "wof:placetype":"localadmin",

@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007306,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":40781750.89547,
     "geom:bbox":"14.2647111606,63.1188018958,14.3998882119,63.212080272",
     "geom:latitude":63.163116,
     "geom:longitude":14.335463,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":122,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":122,
     "iso:country":"SE",
     "lbl:latitude":63.159613,
     "lbl:longitude":14.340071,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mps:latitude":63.159613,
     "mps:longitude":14.340071,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Nordero"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125356397,
-    "wof:lastmodified":1529702371,
+    "wof:lastmodified":1566642470,
     "wof:name":"Nordero",
     "wof:parent_id":1159303231,
     "wof:placetype":"localadmin",

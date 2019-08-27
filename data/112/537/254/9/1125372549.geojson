@@ -9,17 +9,19 @@
     "geom:bbox":"14.3064359468,59.2013204866,14.615094485,59.3181855928",
     "geom:latitude":59.25748,
     "geom:longitude":14.443378,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":9839,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":9839,
     "iso:country":"SE",
     "lbl:latitude":59.255202,
     "lbl:longitude":14.428168,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":59.255202,
     "mps:longitude":14.428168,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u062f\u063a\u0631\u0641\u0648\u0634"
@@ -102,7 +104,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -128,7 +130,7 @@
         }
     ],
     "wof:id":1125372549,
-    "wof:lastmodified":1564165231,
+    "wof:lastmodified":1566642818,
     "wof:name":"Degerfors",
     "wof:parent_id":1159302977,
     "wof:placetype":"localadmin",

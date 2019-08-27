@@ -9,17 +9,19 @@
     "geom:bbox":"15.519280797,56.7806718898,15.7991970282,56.9297033871",
     "geom:latitude":56.865501,
     "geom:longitude":15.66664,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":1303,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":1303,
     "iso:country":"SE",
     "lbl:latitude":56.858197,
     "lbl:longitude":15.701647,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":56.858197,
     "mps:longitude":15.701647,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Halleberga"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125277869,
-    "wof:lastmodified":1554166206,
+    "wof:lastmodified":1566642715,
     "wof:name":"Halleberga",
     "wof:parent_id":1159302907,
     "wof:placetype":"localadmin",

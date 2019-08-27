@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":57.699342,
     "lbl:longitude":16.333781,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":57.699342,
     "mps:longitude":16.333781,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0410\u043d\u043a\u0430\u0440\u0441\u0440\u0443\u043c"
     ],
@@ -81,7 +84,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":45,
     "wof:belongsto":[
@@ -96,7 +99,6 @@
         "fct:id":"06d09c4e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2725722,
         "gp:id":884884,
-        "qs:id":39415,
         "qs_pg:id":39415,
         "wd:id":"Q556590",
         "wk:page":"Ankarsrum"
@@ -117,7 +119,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368720,
+    "wof:lastmodified":1566642177,
     "wof:name":"Ankarsrum",
     "wof:parent_id":1125277755,
     "wof:placetype":"locality",

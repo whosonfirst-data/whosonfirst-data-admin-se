@@ -24,10 +24,13 @@
     ],
     "lbl:latitude":64.612734,
     "lbl:longitude":18.596753,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":64.612734,
     "mps:longitude":18.596753,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bul_x_preferred":[
         "\u041b\u044e\u043a\u0441\u0435\u043b\u0435"
     ],
@@ -121,7 +124,7 @@
     "se-lant:lanskod":24,
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -141,7 +144,7 @@
         }
     ],
     "wof:id":1159303117,
-    "wof:lastmodified":1564165717,
+    "wof:lastmodified":1566643359,
     "wof:name":"Lycksele",
     "wof:parent_id":85688465,
     "wof:placetype":"county",

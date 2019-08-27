@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007612,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":48905843.357453,
     "geom:bbox":"11.9068805282,58.6468300886,12.0473711415,58.747254036",
     "geom:latitude":58.693433,
     "geom:longitude":11.97147,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":185,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":185,
     "iso:country":"SE",
     "lbl:latitude":58.694974,
     "lbl:longitude":11.970393,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mps:latitude":58.694974,
     "mps:longitude":11.970393,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Rannelanda"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125368875,
-    "wof:lastmodified":1529702216,
+    "wof:lastmodified":1566642939,
     "wof:name":"Rannelanda",
     "wof:parent_id":1159303061,
     "wof:placetype":"localadmin",

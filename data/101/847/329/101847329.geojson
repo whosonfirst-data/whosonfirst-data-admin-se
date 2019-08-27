@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":58.026312,
     "lbl:longitude":11.756321,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":58.026312,
     "mps:longitude":11.756321,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "H\u00f6viksn\u00e4s"
     ],
@@ -60,9 +63,6 @@
     "name:swe_x_variant":[
         "H\u00f6viks"
     ],
-    "name:unk_x_variant":[
-        "H\u00f6vik"
-    ],
     "name:zho_min_nan_x_preferred":[
         "H\u00f6viksn\u00e4s"
     ],
@@ -82,7 +82,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":46,
     "wof:belongsto":[
@@ -97,7 +97,6 @@
         "fct:id":"06d2014c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2704662,
         "gp:id":893727,
-        "qs:id":804478,
         "qs_pg:id":804478,
         "wd:id":"Q2559865",
         "wk:page":"H\u00f6viksn\u00e4s"
@@ -118,7 +117,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368876,
+    "wof:lastmodified":1566642232,
     "wof:name":"H\u00f6viksn\u00e4s",
     "wof:parent_id":1125270933,
     "wof:placetype":"locality",

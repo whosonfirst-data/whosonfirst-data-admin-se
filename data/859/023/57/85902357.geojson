@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":37202793.631734,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.645382,63.175347,14.645382,63.175347",
     "geom:latitude":63.175347,
     "geom:longitude":14.645382,
     "gn:latitude":63.16667,
     "gn:longitude":14.65,
     "iso:country":"SE",
+    "lbl:bbox":"14.640382,63.170347,14.650382,63.180347",
     "lbl:latitude":63.175347,
     "lbl:longitude":14.645382,
+    "lbl:max_zoom":18.0,
     "mps:latitude":63.174366,
     "mps:longitude":14.654725,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:swe_x_preferred":[
-        "Odenslund"
-    ],
-    "name:unk_x_variant":[
         "Odenslund"
     ],
     "qs:gn_adm0_cc":"SE",
@@ -60,20 +59,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85688461,
         102191581,
         1125286351,
         85633789,
         101839543,
-        1159303231
+        1159303231,
+        85688461
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2687439,
         "gp:id":900408,
-        "qs:id":898166,
         "qs_pg:id":898166
     },
     "wof:country":"SE",
@@ -93,7 +91,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1531935881,
+    "wof:lastmodified":1566640582,
     "wof:name":"Odenslund",
     "wof:parent_id":101839543,
     "wof:placetype":"neighbourhood",

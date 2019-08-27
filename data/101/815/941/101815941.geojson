@@ -12,10 +12,13 @@
     "iso:country":"SE",
     "lbl:latitude":59.283951,
     "lbl:longitude":18.453053,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":59.283951,
     "mps:longitude":18.453053,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "F\u00e5gelviksh\u00f6jden"
     ],
@@ -66,7 +69,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":45,
     "wof:belongsto":[
         85688429,
@@ -77,7 +80,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":5,
+        "qs_pg:id":5,
         "wd:id":"Q2434665"
     },
     "wof:country":"SE",
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":101815941,
-    "wof:lastmodified":1563368825,
+    "wof:lastmodified":1566642214,
     "wof:name":"F\u00e5gelviksh\u00f6jden",
     "wof:parent_id":1159305775,
     "wof:placetype":"locality",

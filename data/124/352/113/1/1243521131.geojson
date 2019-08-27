@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Stockholm",
     "iso:country":"SE",
+    "lbl:bbox":"18.61667,59.44806,18.65667,59.48806",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0625\u064a\u062f\u0648"
     ],
@@ -125,9 +129,6 @@
     "name:ukr_x_preferred":[
         "\u0415\u0434\u043e"
     ],
-    "name:und_x_variant":[
-        "Ed\u00f6"
-    ],
     "name:urd_x_preferred":[
         "\u0627\u062f\u0648"
     ],
@@ -159,7 +160,7 @@
         }
     ],
     "wof:id":1243521131,
-    "wof:lastmodified":1564165806,
+    "wof:lastmodified":1566643420,
     "wof:name":"Edo",
     "wof:parent_id":1125423245,
     "wof:placetype":"locality",

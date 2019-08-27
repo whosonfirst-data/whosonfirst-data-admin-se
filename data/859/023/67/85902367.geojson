@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":19825144.285331,
+    "geom:area_square_m":0.0,
     "geom:bbox":"18.071848,59.553936,18.071848,59.553936",
     "geom:latitude":59.553936,
     "geom:longitude":18.071848,
     "gn:latitude":59.55,
     "gn:longitude":18.08333,
     "iso:country":"SE",
+    "lbl:bbox":"18.066848,59.548936,18.076848,59.558936",
     "lbl:latitude":59.553936,
     "lbl:longitude":18.071848,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.554557,
     "mps:longitude":18.080563,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:swe_x_preferred":[
-        "Ormsta"
-    ],
-    "name:unk_x_variant":[
         "Ormsta"
     ],
     "qs:gn_adm0_cc":"SE",
@@ -60,7 +59,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         1125322097,
@@ -72,7 +71,6 @@
     "wof:concordances":{
         "gn:id":2686514,
         "gp:id":900795,
-        "qs:id":241115,
         "qs_pg:id":241115
     },
     "wof:country":"SE",
@@ -92,7 +90,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1531935882,
+    "wof:lastmodified":1566640582,
     "wof:name":"Ormsta",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

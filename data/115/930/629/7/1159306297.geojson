@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00188,
+    "geom:area_square_m":12240284.023557,
     "geom:bbox":"13.4406218264,58.2011945952,13.5338070049,58.259440082",
     "geom:latitude":58.235704,
     "geom:longitude":13.497794,
     "iso:country":"SE",
     "lbl:latitude":58.235958,
     "lbl:longitude":13.499018,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":58.235958,
     "mps:longitude":13.499018,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ugglum"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159306297,
-    "wof:lastmodified":1529702134,
+    "wof:lastmodified":1566643196,
     "wof:name":"Ugglum",
     "wof:parent_id":1159303137,
     "wof:placetype":"localadmin",

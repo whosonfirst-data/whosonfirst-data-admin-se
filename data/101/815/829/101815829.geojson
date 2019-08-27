@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":59.307066,
     "lbl:longitude":14.944015,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":59.307066,
     "mps:longitude":14.944015,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0413\u0430\u0440\u043f\u0445\u0439\u0442\u0430\u043d"
     ],
@@ -72,7 +75,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":56,
     "wof:belongsto":[
@@ -87,7 +90,6 @@
         "fct:id":"06d0743a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2712642,
         "gp:id":890470,
-        "qs:id":1219890,
         "qs_pg:id":1219890,
         "wd:id":"Q3098445",
         "wk:page":"Garphyttan"
@@ -108,7 +110,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368814,
+    "wof:lastmodified":1566642210,
     "wof:name":"Garphyttan",
     "wof:parent_id":1125356509,
     "wof:placetype":"locality",

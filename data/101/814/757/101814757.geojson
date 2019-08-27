@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":61.830167,
     "lbl:longitude":16.09678,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":61.830167,
     "mps:longitude":16.09678,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u064a\u0648\u0633\u062f\u0627\u0644"
     ],
@@ -124,7 +127,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":123,
     "wof:belongsto":[
@@ -139,7 +142,6 @@
         "fct:id":"06d4038e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2694503,
         "gp:id":897495,
-        "qs:id":3674,
         "qs_pg:id":3674,
         "wd:id":"Q1019575",
         "wk:page":"Ljusdal"
@@ -160,7 +162,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368918,
+    "wof:lastmodified":1566642246,
     "wof:name":"Ljusdal",
     "wof:parent_id":1125421381,
     "wof:placetype":"locality",

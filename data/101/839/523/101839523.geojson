@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":59.362507,
     "lbl:longitude":18.146041,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":59.362507,
     "mps:longitude":18.146041,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:ast_x_preferred":[
         "Liding\u00f6"
     ],
@@ -149,7 +152,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0456\u0434\u0456\u043d\u0433\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Liding\u00f6 Villastad"
     ],
     "name:vol_x_preferred":[
@@ -174,7 +177,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688429,
@@ -186,7 +189,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2696334,
-        "qs:id":279099,
         "qs_pg:id":279099,
         "wd:id":"Q54349",
         "wk:page":"Liding\u00f6"
@@ -204,7 +206,7 @@
         }
     ],
     "wof:id":101839523,
-    "wof:lastmodified":1563368946,
+    "wof:lastmodified":1566642254,
     "wof:name":"Liding\u00f6",
     "wof:parent_id":1125394719,
     "wof:placetype":"locality",

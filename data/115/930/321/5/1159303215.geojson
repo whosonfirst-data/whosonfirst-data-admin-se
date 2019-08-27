@@ -24,10 +24,13 @@
     ],
     "lbl:latitude":58.847861,
     "lbl:longitude":14.947921,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":58.847861,
     "mps:longitude":14.947921,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bul_x_preferred":[
         "\u0410\u0441\u043a\u0435\u0440\u0448\u0443\u043d\u0434"
     ],
@@ -106,7 +109,7 @@
     "se-lant:lanskod":18,
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":1159303215,
-    "wof:lastmodified":1564165745,
+    "wof:lastmodified":1566643376,
     "wof:name":"Askersund",
     "wof:parent_id":85688421,
     "wof:placetype":"county",

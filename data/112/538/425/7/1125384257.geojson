@@ -9,17 +9,19 @@
     "geom:bbox":"15.4222387466,59.7264368672,15.8154420961,59.9571618476",
     "geom:latitude":59.844859,
     "geom:longitude":15.61465,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":4622,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":4622,
     "iso:country":"SE",
     "lbl:latitude":59.843588,
     "lbl:longitude":15.610986,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":59.843588,
     "mps:longitude":15.610986,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0428\u0438\u043d\u0441\u043a\u0430\u0442\u0435\u0431\u0435\u0440\u0438"
@@ -90,7 +92,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -116,7 +118,7 @@
         }
     ],
     "wof:id":1125384257,
-    "wof:lastmodified":1564165291,
+    "wof:lastmodified":1566642898,
     "wof:name":"Skinnskatteberg",
     "wof:parent_id":1159302929,
     "wof:placetype":"localadmin",

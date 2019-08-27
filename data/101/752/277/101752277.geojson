@@ -13,6 +13,8 @@
     "iso:country":"SE",
     "lbl:latitude":56.030087,
     "lbl:longitude":12.724343,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":56.030087,
     "mps:longitude":12.724343,
     "mz:hierarchy_label":1,
@@ -405,7 +407,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":56.05,
     "wd:longitude":12.7,
@@ -422,7 +424,6 @@
         "fct:id":"06d26d94-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2706767,
         "gp:id":892828,
-        "qs:id":239942,
         "qs_pg:id":239942,
         "wd:id":"Q25411",
         "wk:page":"Helsingborg"
@@ -443,7 +444,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368587,
+    "wof:lastmodified":1566642131,
     "wof:name":"Helsingborg",
     "wof:parent_id":1125358345,
     "wof:placetype":"locality",

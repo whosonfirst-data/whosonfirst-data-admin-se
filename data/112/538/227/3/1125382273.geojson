@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019666,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":124783664.788916,
     "geom:bbox":"16.4580420407,59.0620242891,16.6979462818,59.2009020784",
     "geom:latitude":59.127118,
     "geom:longitude":16.557635,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":2893,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":2893,
     "iso:country":"SE",
     "lbl:latitude":59.140744,
     "lbl:longitude":16.51932,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":59.140744,
     "mps:longitude":16.51932,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Mellosa"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125382273,
-    "wof:lastmodified":1529702837,
+    "wof:lastmodified":1566642897,
     "wof:name":"Mellosa",
     "wof:parent_id":1159302997,
     "wof:placetype":"localadmin",

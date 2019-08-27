@@ -27,8 +27,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Stockholm",
     "iso:country":"SE",
+    "lbl:bbox":"18.075,62.785,18.115,62.825",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:nor_x_preferred":[
         "Norra L\u00f6vvik"
     ],
@@ -38,8 +42,7 @@
     "name:und_x_variant":[
         "L\u00f6vvik",
         "L\u00f6fvik",
-        "Lovviken",
-        "Norra L\u00f6vvik"
+        "Lovviken"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1310272779,
-    "wof:lastmodified":1537699967,
+    "wof:lastmodified":1566641947,
     "wof:name":"Norra Lovvik",
     "wof:parent_id":1125286921,
     "wof:placetype":"locality",

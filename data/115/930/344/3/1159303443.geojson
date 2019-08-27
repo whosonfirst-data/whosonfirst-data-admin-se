@@ -24,10 +24,13 @@
     ],
     "lbl:latitude":59.534897,
     "lbl:longitude":13.793468,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":59.534897,
     "mps:longitude":13.793468,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:amh_x_preferred":[
         "\u12ab\u122d\u120d\u1235\u1273\u12f5"
     ],
@@ -256,7 +259,7 @@
     "se-lant:lanskod":17,
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -276,7 +279,7 @@
         }
     ],
     "wof:id":1159303443,
-    "wof:lastmodified":1564165753,
+    "wof:lastmodified":1566643382,
     "wof:name":"Karlstad",
     "wof:parent_id":85688435,
     "wof:placetype":"county",

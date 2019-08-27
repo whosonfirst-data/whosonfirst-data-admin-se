@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":57.718635,
     "lbl:longitude":12.831872,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":57.718635,
     "mps:longitude":12.831872,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0428'\u0451\u043c\u0430\u0440\u043a\u0435\u043d"
     ],
@@ -106,7 +109,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":363,
     "wof:belongsto":[
@@ -121,7 +124,6 @@
         "fct:id":"06d204f8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2678804,
         "gp:id":903958,
-        "qs:id":3774,
         "qs_pg:id":3774,
         "wd:id":"Q5035",
         "wk:page":"Sj\u00f6marken"
@@ -142,7 +144,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368602,
+    "wof:lastmodified":1566642135,
     "wof:name":"Sj\u00f6marken",
     "wof:parent_id":1125372653,
     "wof:placetype":"locality",

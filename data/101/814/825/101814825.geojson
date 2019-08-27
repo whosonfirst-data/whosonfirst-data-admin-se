@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":64.836928,
     "lbl:longitude":20.98287,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":64.836928,
     "mps:longitude":20.98287,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041a\u043e\u0433\u0435"
     ],
@@ -93,7 +96,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":45,
     "wof:belongsto":[
@@ -108,7 +111,6 @@
         "fct:id":"06d3eb60-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":605428,
         "gp:id":894545,
-        "qs:id":481241,
         "qs_pg:id":481241,
         "wd:id":"Q616561",
         "wk:page":"K\u00e5ge"
@@ -129,7 +131,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368924,
+    "wof:lastmodified":1566642248,
     "wof:name":"K\u00e5ge",
     "wof:parent_id":1125325315,
     "wof:placetype":"locality",

@@ -12,8 +12,10 @@
     "gn:latitude":59.33333,
     "gn:longitude":14.53333,
     "iso:country":"SE",
+    "lbl:bbox":"14.517973,59.324817,14.527973,59.334817",
     "lbl:latitude":59.329817,
     "lbl:longitude":14.522973,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.328775,
     "mps:longitude":14.527151,
     "mz:hierarchy_label":0,
@@ -91,9 +93,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u043e\u0444\u043e\u0440\u0441"
     ],
-    "name:unk_x_variant":[
-        "Bofors"
-    ],
     "name:zho_x_preferred":[
         "\u6ce2\u4f5b\u65af\u516c\u53f8"
     ],
@@ -126,7 +125,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":731,
     "wof:belongsto":[
         102191581,
@@ -140,7 +139,6 @@
     "wof:concordances":{
         "gn:id":2720912,
         "gp:id":887014,
-        "qs:id":1083413,
         "qs_pg:id":1083413,
         "wd:id":"Q890353"
     },
@@ -161,7 +159,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563366588,
+    "wof:lastmodified":1566640642,
     "wof:name":"Bofors",
     "wof:parent_id":101815827,
     "wof:placetype":"neighbourhood",

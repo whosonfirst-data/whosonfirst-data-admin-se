@@ -12,10 +12,13 @@
     "iso:country":"SE",
     "lbl:latitude":59.71334,
     "lbl:longitude":16.407161,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":59.71334,
     "mps:longitude":16.407161,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Skultuna"
     ],
@@ -51,7 +54,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1159307191,
-    "wof:lastmodified":1564165724,
+    "wof:lastmodified":1566643364,
     "wof:name":"Skultuna",
     "wof:parent_id":1159303331,
     "wof:placetype":"localadmin",

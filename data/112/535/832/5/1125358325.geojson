@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000808,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":5622874.924724,
     "geom:bbox":"13.1826814053,55.7190517703,13.2400824184,55.7418825689",
     "geom:latitude":55.729396,
     "geom:longitude":13.211228,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":12043,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":12043,
     "iso:country":"SE",
     "lbl:latitude":55.728513,
     "lbl:longitude":13.211221,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":55.728513,
     "mps:longitude":13.211221,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Lunds Sankt Hans"
@@ -48,7 +50,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":1125358325,
-    "wof:lastmodified":1529702644,
+    "wof:lastmodified":1566642447,
     "wof:name":"Lunds Sankt Hans",
     "wof:parent_id":1159303449,
     "wof:placetype":"localadmin",

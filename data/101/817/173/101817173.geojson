@@ -13,6 +13,8 @@
     "iso:country":"SE",
     "lbl:latitude":58.757769,
     "lbl:longitude":17.019816,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":58.757769,
     "mps:longitude":17.019816,
     "mz:hierarchy_label":1,
@@ -329,7 +331,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1939,
     "wof:belongsto":[
@@ -344,7 +346,6 @@
         "fct:id":"06d004fa-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2687700,
         "gp:id":900279,
-        "qs:id":3725,
         "qs_pg:id":3725,
         "wd:id":"Q54356",
         "wk:page":"Nyk\u00f6ping"
@@ -365,7 +366,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368765,
+    "wof:lastmodified":1566642193,
     "wof:name":"Nyk\u00f6ping",
     "wof:parent_id":1125358143,
     "wof:placetype":"locality",

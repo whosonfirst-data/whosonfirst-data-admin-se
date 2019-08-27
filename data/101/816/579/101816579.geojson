@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":56.257745,
     "lbl:longitude":12.971442,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":56.257745,
     "mps:longitude":12.971442,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Munka-Ljungby"
     ],
@@ -66,7 +69,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":46,
     "wof:belongsto":[
@@ -81,7 +84,6 @@
         "fct:id":"06d27cb2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2690866,
         "gp:id":898872,
-        "qs:id":185988,
         "qs_pg:id":185988,
         "wd:id":"Q2126314",
         "wk:page":"Munka-Ljungby"
@@ -102,7 +104,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368730,
+    "wof:lastmodified":1566642180,
     "wof:name":"Munka-Ljungby",
     "wof:parent_id":1125382083,
     "wof:placetype":"locality",

@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001951,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":13403668.149687,
     "geom:bbox":"12.8072287663,56.2229694286,12.8916895273,56.2657157746",
     "geom:latitude":56.246223,
     "geom:longitude":12.844442,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":12636,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":12636,
     "iso:country":"SE",
     "lbl:latitude":56.24512,
     "lbl:longitude":12.840308,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":56.24512,
     "mps:longitude":12.840308,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Angelholm"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125326415,
-    "wof:lastmodified":1529702638,
+    "wof:lastmodified":1566642527,
     "wof:name":"Angelholm",
     "wof:parent_id":1159303025,
     "wof:placetype":"localadmin",

@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001341,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":8736808.753088,
     "geom:bbox":"13.5749286605,58.1889934295,13.6405654759,58.2279633089",
     "geom:latitude":58.211284,
     "geom:longitude":13.61174,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":559,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":559,
     "iso:country":"SE",
     "lbl:latitude":58.212177,
     "lbl:longitude":13.613992,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":58.212177,
     "mps:longitude":13.613992,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Torbjorntorp"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125358221,
-    "wof:lastmodified":1529702211,
+    "wof:lastmodified":1566642465,
     "wof:name":"Torbjorntorp",
     "wof:parent_id":1159303137,
     "wof:placetype":"localadmin",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.048041,
+    "geom:area_square_m":294525478.457326,
     "geom:bbox":"18.1563972159,60.1656750103,18.6966472859,60.3794484932",
     "geom:latitude":60.277058,
     "geom:longitude":18.421477,
     "iso:country":"SE",
     "lbl:latitude":60.313671,
     "lbl:longitude":18.335577,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":60.313671,
     "mps:longitude":18.335577,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Borstil"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159307373,
-    "wof:lastmodified":1529702726,
+    "wof:lastmodified":1566643154,
     "wof:name":"Borstil",
     "wof:parent_id":1159303415,
     "wof:placetype":"localadmin",

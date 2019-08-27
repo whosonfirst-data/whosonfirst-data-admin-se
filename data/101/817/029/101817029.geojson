@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":58.170213,
     "lbl:longitude":13.557692,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":58.170213,
     "mps:longitude":13.557692,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0641\u0627\u0644\u0634\u0648\u0628\u0646\u063a"
     ],
@@ -184,7 +187,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":845,
     "wof:belongsto":[
@@ -199,7 +202,6 @@
         "fct:id":"06d1c6e6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2715568,
         "gp:id":889227,
-        "qs:id":229688,
         "qs_pg:id":229688,
         "wd:id":"Q21165",
         "wk:page":"Falk\u00f6ping"
@@ -220,7 +222,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368780,
+    "wof:lastmodified":1566642197,
     "wof:name":"Falk\u00f6ping",
     "wof:parent_id":1125287017,
     "wof:placetype":"locality",

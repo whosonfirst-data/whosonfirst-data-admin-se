@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":59.412518,
     "lbl:longitude":13.674545,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":59.412518,
     "mps:longitude":13.674545,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Skattk\u00e4rr"
     ],
@@ -72,7 +75,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":45,
     "wof:belongsto":[
@@ -87,7 +90,6 @@
         "fct:id":"06d43aa2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2677869,
         "gp:id":904301,
-        "qs:id":315725,
         "qs_pg:id":315725,
         "wd:id":"Q2737723",
         "wk:page":"Skattk\u00e4rr"
@@ -108,7 +110,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368812,
+    "wof:lastmodified":1566642209,
     "wof:name":"Skattk\u00e4rr",
     "wof:parent_id":1159307095,
     "wof:placetype":"locality",

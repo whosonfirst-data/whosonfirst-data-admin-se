@@ -9,17 +9,19 @@
     "geom:bbox":"15.6775116535,56.0967897423,15.870396557,56.3253893863",
     "geom:latitude":56.199156,
     "geom:longitude":15.777272,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":2294,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":2294,
     "iso:country":"SE",
     "lbl:latitude":56.174263,
     "lbl:longitude":15.759253,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":56.174263,
     "mps:longitude":15.759253,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Ramdala"
@@ -51,7 +53,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -77,7 +79,7 @@
         }
     ],
     "wof:id":1125357193,
-    "wof:lastmodified":1564164967,
+    "wof:lastmodified":1566642475,
     "wof:name":"Ramdala",
     "wof:parent_id":1159303467,
     "wof:placetype":"localadmin",

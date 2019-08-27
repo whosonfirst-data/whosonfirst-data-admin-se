@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003856,
+    "geom:area_square_m":26581117.961563,
     "geom:bbox":"13.9925245867,56.082020118,14.0707038726,56.1563843135",
     "geom:latitude":56.116851,
     "geom:longitude":14.029435,
     "iso:country":"SE",
     "lbl:latitude":56.11734,
     "lbl:longitude":14.026258,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":56.11734,
     "mps:longitude":14.026258,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Norra Stro"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159306135,
-    "wof:lastmodified":1529702601,
+    "wof:lastmodified":1566643298,
     "wof:name":"Norra Stro",
     "wof:parent_id":1159303497,
     "wof:placetype":"localadmin",

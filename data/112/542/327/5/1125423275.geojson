@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.156098,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":911741835.427022,
     "geom:bbox":"15.2444146355,61.6067210988,15.9707973485,62.0248003223",
     "geom:latitude":61.812415,
     "geom:longitude":15.584954,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":3299,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":3299,
     "iso:country":"SE",
     "lbl:latitude":61.703942,
     "lbl:longitude":15.565307,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":61.703942,
     "mps:longitude":15.565307,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Farila"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125423275,
-    "wof:lastmodified":1529702054,
+    "wof:lastmodified":1566642752,
     "wof:name":"Farila",
     "wof:parent_id":1159303353,
     "wof:placetype":"localadmin",

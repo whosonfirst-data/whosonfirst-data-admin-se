@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.048383,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":270862594.455153,
     "geom:bbox":"18.0027489895,63.0006422026,18.6010708721,63.1762415561",
     "geom:latitude":63.079998,
     "geom:longitude":18.316141,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":895,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":895,
     "iso:country":"SE",
     "lbl:latitude":63.068113,
     "lbl:longitude":18.311578,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":63.068113,
     "mps:longitude":18.311578,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Vibyggera"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125423313,
-    "wof:lastmodified":1529702990,
+    "wof:lastmodified":1566642730,
     "wof:name":"Vibyggera",
     "wof:parent_id":1159303301,
     "wof:placetype":"localadmin",

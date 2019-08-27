@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002358,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":14835845.903869,
     "geom:bbox":"17.732110244,59.3905070272,17.839612207,59.4286183455",
     "geom:latitude":59.409765,
     "geom:longitude":17.786029,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":15083,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":15083,
     "iso:country":"SE",
     "lbl:latitude":59.409669,
     "lbl:longitude":17.794149,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":59.409669,
     "mps:longitude":17.794149,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Viksjo"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125409967,
-    "wof:lastmodified":1529702739,
+    "wof:lastmodified":1566643067,
     "wof:name":"Viksjo",
     "wof:parent_id":1159303475,
     "wof:placetype":"localadmin",

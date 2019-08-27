@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005323,
+    "geom:area_square_m":34565424.494851,
     "geom:bbox":"13.238911558,58.2931490551,13.3830744011,58.3532975103",
     "geom:latitude":58.322918,
     "geom:longitude":13.315434,
     "iso:country":"SE",
     "lbl:latitude":58.327212,
     "lbl:longitude":13.3213,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":58.327212,
     "mps:longitude":13.3213,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Vinkol"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159306783,
-    "wof:lastmodified":1529702146,
+    "wof:lastmodified":1566643307,
     "wof:name":"Vinkol",
     "wof:parent_id":1159303479,
     "wof:placetype":"localadmin",

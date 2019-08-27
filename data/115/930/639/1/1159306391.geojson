@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003074,
+    "geom:area_square_m":19911764.886082,
     "geom:bbox":"13.0300511514,58.3776470407,13.1248002495,58.437748179",
     "geom:latitude":58.407984,
     "geom:longitude":13.078982,
     "iso:country":"SE",
     "lbl:latitude":58.408064,
     "lbl:longitude":13.082929,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":58.408064,
     "mps:longitude":13.082929,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Trassberg"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159306391,
-    "wof:lastmodified":1529702136,
+    "wof:lastmodified":1566643333,
     "wof:name":"Trassberg",
     "wof:parent_id":1159303281,
     "wof:placetype":"localadmin",
