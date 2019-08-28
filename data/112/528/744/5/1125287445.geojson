@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003384,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":22505599.567234,
     "geom:bbox":"18.2410772244,57.4346050395,18.3341375228,57.4969433445",
     "geom:latitude":57.467916,
     "geom:longitude":18.287478,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":202,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":202,
     "iso:country":"SE",
     "lbl:latitude":57.468569,
     "lbl:longitude":18.286788,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":57.468569,
     "mps:longitude":18.286788,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Masterby"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125287445,
-    "wof:lastmodified":1529702031,
+    "wof:lastmodified":1566642642,
     "wof:name":"Masterby",
     "wof:parent_id":1159303535,
     "wof:placetype":"localadmin",

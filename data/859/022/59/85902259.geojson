@@ -14,6 +14,7 @@
     "iso:country":"SE",
     "lbl:latitude":59.31631,
     "lbl:longitude":18.13926,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.320855,
     "mps:longitude":18.137846,
     "mz:hierarchy_label":1,
@@ -36,9 +37,6 @@
         "Kvarnholmen"
     ],
     "name:swe_x_preferred":[
-        "Kvarnholmen"
-    ],
-    "name:unk_x_variant":[
         "Kvarnholmen"
     ],
     "qs:gn_adm0_cc":"SE",
@@ -68,7 +66,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         1125362217,
@@ -81,7 +79,6 @@
     "wof:concordances":{
         "gn:id":2698432,
         "gp:id":896262,
-        "qs:id":1083454,
         "qs_pg:id":1083454,
         "wd:id":"Q10550913",
         "wk:page":"Kvarnholmen (Nacka)"
@@ -103,7 +100,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563366520,
+    "wof:lastmodified":1566640589,
     "wof:name":"Kvarnholmen",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

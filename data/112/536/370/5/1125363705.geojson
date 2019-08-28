@@ -9,17 +9,19 @@
     "geom:bbox":"14.3258977024,64.353515697,17.7080938671,65.4447085432",
     "geom:latitude":64.936067,
     "geom:longitude":16.006611,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":7220,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":7220,
     "iso:country":"SE",
     "lbl:latitude":65.008233,
     "lbl:longitude":15.9802,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":65.008233,
     "mps:longitude":15.9802,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0412\u0438\u043b\u0445\u0435\u043b\u043c\u0438\u043d\u0430"
@@ -93,7 +95,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -119,7 +121,7 @@
         }
     ],
     "wof:id":1125363705,
-    "wof:lastmodified":1564165344,
+    "wof:lastmodified":1566642947,
     "wof:name":"Vilhelmina",
     "wof:parent_id":1159303033,
     "wof:placetype":"localadmin",

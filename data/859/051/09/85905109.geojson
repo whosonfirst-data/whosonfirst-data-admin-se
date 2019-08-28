@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2831907.038079,
+    "geom:area_square_m":0.0,
     "geom:bbox":"18.176961,59.365147,18.176961,59.365147",
     "geom:latitude":59.365147,
     "geom:longitude":18.176961,
     "gn:id":"",
     "iso:country":"SE",
+    "lbl:bbox":"18.171961,59.360147,18.181961,59.370147",
     "lbl:latitude":59.365147,
     "lbl:longitude":18.176961,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.3658,
     "mps:longitude":18.174035,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:tier_locality":1,
     "mz:tier_metro":1,
     "name:swe_x_preferred":[
-        "Bjornbo"
-    ],
-    "name:unk_x_variant":[
         "Bjornbo"
     ],
     "qs:gn_adm0_cc":"SE",
@@ -59,7 +58,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         1125394719,
@@ -70,7 +69,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20150851,
-        "qs:id":260213,
         "qs_pg:id":260213
     },
     "wof:country":"SE",
@@ -90,7 +88,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1531936323,
+    "wof:lastmodified":1566640661,
     "wof:name":"Bjornbo",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

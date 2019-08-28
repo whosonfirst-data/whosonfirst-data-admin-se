@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":64.622097,
     "lbl:longitude":16.659196,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":64.622097,
     "mps:longitude":16.659196,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0412\u0438\u043b\u0445\u0435\u043b\u043c\u0438\u043d\u0430"
     ],
@@ -111,7 +114,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":134,
     "wof:belongsto":[
@@ -126,7 +129,6 @@
         "fct:id":"06d4085c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2662935,
         "gp:id":910000,
-        "qs:id":1037923,
         "qs_pg:id":1037923,
         "wd:id":"Q1760456"
     },
@@ -146,7 +148,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368913,
+    "wof:lastmodified":1566642245,
     "wof:name":"Vilhelmina",
     "wof:parent_id":1125363705,
     "wof:placetype":"locality",

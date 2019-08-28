@@ -24,10 +24,13 @@
     ],
     "lbl:latitude":58.0587,
     "lbl:longitude":11.905243,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":58.0587,
     "mps:longitude":11.905243,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bul_x_preferred":[
         "\u0421\u0442\u0435\u043d\u0443\u043d\u0433\u0441\u0443\u043d\u0434"
     ],
@@ -97,7 +100,7 @@
     "se-lant:lanskod":14,
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":1159303155,
-    "wof:lastmodified":1564165587,
+    "wof:lastmodified":1566643244,
     "wof:name":"Stenungsund",
     "wof:parent_id":85688411,
     "wof:placetype":"county",

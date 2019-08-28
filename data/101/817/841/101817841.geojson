@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":55.77583,
     "lbl:longitude":13.512125,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":55.77583,
     "mps:longitude":13.512125,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "L\u00f6ber\u00f6d"
     ],
@@ -78,7 +81,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":50,
     "wof:belongsto":[
@@ -92,7 +95,6 @@
     "wof:concordances":{
         "gn:id":2694417,
         "gp:id":897524,
-        "qs:id":1029047,
         "qs_pg:id":1029047,
         "wd:id":"Q2222483",
         "wk:page":"L\u00f6ber\u00f6d"
@@ -110,7 +112,7 @@
         }
     ],
     "wof:id":101817841,
-    "wof:lastmodified":1563368774,
+    "wof:lastmodified":1566642196,
     "wof:name":"L\u00f6ber\u00f6d",
     "wof:parent_id":1159305657,
     "wof:placetype":"locality",

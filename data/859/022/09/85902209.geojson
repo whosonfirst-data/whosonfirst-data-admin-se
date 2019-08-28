@@ -14,6 +14,7 @@
     "iso:country":"SE",
     "lbl:latitude":59.290555,
     "lbl:longitude":18.078545,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.295585,
     "mps:longitude":18.07919,
     "mz:hierarchy_label":1,
@@ -59,9 +60,6 @@
     "name:swe_x_preferred":[
         "Johanneshov"
     ],
-    "name:unk_x_variant":[
-        "Johanneshov"
-    ],
     "qs:gn_adm0_cc":"SE",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":2673730,
@@ -89,7 +87,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":63,
     "wof:belongsto":[
         102191581,
@@ -103,7 +101,6 @@
     "wof:concordances":{
         "gn:id":2703024,
         "gp:id":894403,
-        "qs:id":460123,
         "qs_pg:id":460123,
         "wd:id":"Q2756084",
         "wk:page":"Johanneshov"
@@ -125,7 +122,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563366526,
+    "wof:lastmodified":1566640593,
     "wof:name":"Johanneshov",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

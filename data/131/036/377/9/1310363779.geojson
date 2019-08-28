@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Stockholm",
     "iso:country":"SE",
+    "lbl:bbox":"13.34667,59.33,13.38667,59.37",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:nor_x_preferred":[
         "S\u00f6dra Bomstad"
     ],
@@ -33,8 +37,7 @@
         "S\u00f8dra Bomstad"
     ],
     "name:und_x_variant":[
-        "Bomstad",
-        "S\u00f6dra Bomstad"
+        "Bomstad"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1310363779,
-    "wof:lastmodified":1537700108,
+    "wof:lastmodified":1566641899,
     "wof:name":"Sodra Bomstad",
     "wof:parent_id":1125356107,
     "wof:placetype":"locality",

@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.07095,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":442518875.059544,
     "geom:bbox":"18.8766250075,59.6085682175,19.5271195379,59.7909262264",
     "geom:latitude":59.707647,
     "geom:longitude":19.218713,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":2021,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":2021,
     "iso:country":"SE",
     "lbl:latitude":59.69849,
     "lbl:longitude":19.283813,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":59.69849,
     "mps:longitude":19.283813,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Radmanso"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125423349,
-    "wof:lastmodified":1529702728,
+    "wof:lastmodified":1566642746,
     "wof:name":"Radmanso",
     "wof:parent_id":1159302995,
     "wof:placetype":"localadmin",

@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":64.618956,
     "lbl:longitude":21.206209,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":64.618956,
     "mps:longitude":21.206209,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0411\u044e\u0440\u0435\u043e"
     ],
@@ -87,7 +90,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":54,
     "wof:belongsto":[
@@ -102,7 +105,6 @@
         "fct:id":"06d36ab4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":606370,
         "gp:id":887977,
-        "qs:id":1280289,
         "qs_pg:id":1280289,
         "wd:id":"Q1010630",
         "wk:page":"Bure\u00e5"
@@ -123,7 +125,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368911,
+    "wof:lastmodified":1566642244,
     "wof:name":"Bure\u00e5",
     "wof:parent_id":1125345207,
     "wof:placetype":"locality",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02211,
+    "geom:area_square_m":137811505.308933,
     "geom:bbox":"13.1448141864,59.6615346743,13.3855788846,59.795584341",
     "geom:latitude":59.730006,
     "geom:longitude":13.274316,
     "iso:country":"SE",
     "lbl:latitude":59.724045,
     "lbl:longitude":13.272008,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":59.724045,
     "mps:longitude":13.272008,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ostra Amtervik"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159306867,
-    "wof:lastmodified":1529702917,
+    "wof:lastmodified":1566643173,
     "wof:name":"Ostra Amtervik",
     "wof:parent_id":1159303019,
     "wof:placetype":"localadmin",

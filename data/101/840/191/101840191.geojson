@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":59.326104,
     "lbl:longitude":18.484586,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":59.326104,
     "mps:longitude":18.484586,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bar_x_preferred":[
         "Hemmesta"
     ],
@@ -82,7 +85,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688429,
@@ -94,7 +97,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2706713,
-        "qs:id":7,
+        "qs_pg:id":7,
         "wd:id":"Q2273941",
         "wk:page":"Hemmesta"
     },
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":101840191,
-    "wof:lastmodified":1563368890,
+    "wof:lastmodified":1566642237,
     "wof:name":"Hemmesta",
     "wof:parent_id":1125398113,
     "wof:placetype":"locality",

@@ -12,8 +12,10 @@
     "gn:latitude":61.36667,
     "gn:longitude":16.41667,
     "iso:country":"SE",
+    "lbl:bbox":"16.409948,61.357511,16.419948,61.367511",
     "lbl:latitude":61.362511,
     "lbl:longitude":16.414948,
+    "lbl:max_zoom":18.0,
     "mps:latitude":61.373657,
     "mps:longitude":16.41608,
     "mz:hierarchy_label":0,
@@ -64,9 +66,6 @@
     "name:ukr_x_preferred":[
         "\u0416\u0435\u043d\u044c"
     ],
-    "name:unk_x_variant":[
-        "Ren"
-    ],
     "name:zho_x_preferred":[
         "\u4efb\u6c0f"
     ],
@@ -99,7 +98,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":398,
     "wof:belongsto":[
         102191581,
@@ -113,7 +112,6 @@
     "wof:concordances":{
         "gn:id":2682776,
         "gp:id":902343,
-        "qs:id":58305,
         "qs_pg:id":58305
     },
     "wof:country":"SE",
@@ -133,7 +131,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1564162416,
+    "wof:lastmodified":1566640586,
     "wof:name":"Ren",
     "wof:parent_id":101816135,
     "wof:placetype":"neighbourhood",

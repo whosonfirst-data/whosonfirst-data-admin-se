@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":59.483405,
     "lbl:longitude":17.740863,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":59.483405,
     "mps:longitude":17.740863,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041a\u0443\u043d\u0433\u0441\u0435\u043d\u0433\u0435\u043d"
     ],
@@ -114,7 +117,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":48,
     "wof:belongsto":[
@@ -129,7 +132,6 @@
         "fct:id":"06d03ed4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2698733,
         "gp:id":896156,
-        "qs:id":1037568,
         "qs_pg:id":1037568,
         "wd:id":"Q1632006",
         "wk:page":"Kungs\u00e4ngen"
@@ -150,7 +152,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368938,
+    "wof:lastmodified":1566642252,
     "wof:name":"Kungs\u00e4ngen",
     "wof:parent_id":1125287125,
     "wof:placetype":"locality",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000788,
+    "geom:area_square_m":5493414.265626,
     "geom:bbox":"13.1826544049,55.6578596701,13.2351486687,55.6829764717",
     "geom:latitude":55.669324,
     "geom:longitude":13.206108,
     "iso:country":"SE",
     "lbl:latitude":55.671222,
     "lbl:longitude":13.200371,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.671222,
     "mps:longitude":13.200371,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Knastorp"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159306139,
-    "wof:lastmodified":1529702601,
+    "wof:lastmodified":1566643298,
     "wof:name":"Knastorp",
     "wof:parent_id":1159303125,
     "wof:placetype":"localadmin",

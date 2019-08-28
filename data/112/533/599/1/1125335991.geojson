@@ -9,17 +9,19 @@
     "geom:bbox":"15.5421201835,57.6431200306,15.8617708266,57.8598941374",
     "geom:latitude":57.764035,
     "geom:longitude":15.716469,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":2892,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":2892,
     "iso:country":"SE",
     "lbl:latitude":57.766469,
     "lbl:longitude":15.732231,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":57.766469,
     "mps:longitude":15.732231,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Sodra Vi"
@@ -48,7 +50,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":1125335991,
-    "wof:lastmodified":1554166196,
+    "wof:lastmodified":1566642382,
     "wof:name":"Sodra Vi",
     "wof:parent_id":1159303159,
     "wof:placetype":"localadmin",

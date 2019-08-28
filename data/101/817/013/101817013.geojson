@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":58.382464,
     "lbl:longitude":13.426608,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":58.382464,
     "mps:longitude":13.426608,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0633\u0643\u0627\u0631\u0627"
     ],
@@ -174,7 +177,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":58.383333,
     "wd:longitude":13.433333,
@@ -191,7 +194,6 @@
         "fct:id":"06d25124-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2678210,
         "gp:id":904179,
-        "qs:id":1037506,
         "qs_pg:id":1037506,
         "wd:id":"Q939389",
         "wk:page":"Skara"
@@ -212,7 +214,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368749,
+    "wof:lastmodified":1566642187,
     "wof:name":"Skara",
     "wof:parent_id":1125374793,
     "wof:placetype":"locality",

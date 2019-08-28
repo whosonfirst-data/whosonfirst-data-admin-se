@@ -9,17 +9,19 @@
     "geom:bbox":"13.7905173449,58.4158027089,13.8974213567,58.4541087975",
     "geom:latitude":58.432937,
     "geom:longitude":13.856444,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":5964,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":5964,
     "iso:country":"SE",
     "lbl:latitude":58.431031,
     "lbl:longitude":13.857072,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":58.431031,
     "mps:longitude":13.857072,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Ryd"
@@ -57,7 +59,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -83,7 +85,7 @@
         }
     ],
     "wof:id":1125362451,
-    "wof:lastmodified":1564165335,
+    "wof:lastmodified":1566642938,
     "wof:name":"Ryd",
     "wof:parent_id":1159302921,
     "wof:placetype":"localadmin",

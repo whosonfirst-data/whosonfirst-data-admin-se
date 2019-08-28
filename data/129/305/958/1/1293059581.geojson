@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Stockholm",
     "iso:country":"SE",
+    "lbl:bbox":"12.74667,59.28,12.78667,59.32",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Nys\u00e4ter"
     ],
@@ -33,9 +37,6 @@
         "Nys\u00e4ter"
     ],
     "name:swe_x_preferred":[
-        "Nys\u00e4ter"
-    ],
-    "name:und_x_variant":[
         "Nys\u00e4ter"
     ],
     "src:geom":"geonames",
@@ -64,7 +65,7 @@
         }
     ],
     "wof:id":1293059581,
-    "wof:lastmodified":1564162811,
+    "wof:lastmodified":1566640884,
     "wof:name":"Nysater",
     "wof:parent_id":1159306367,
     "wof:placetype":"locality",

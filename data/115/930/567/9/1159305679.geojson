@@ -12,10 +12,13 @@
     "iso:country":"SE",
     "lbl:latitude":59.482357,
     "lbl:longitude":17.554935,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":59.482357,
     "mps:longitude":17.554935,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Lassa"
     ],
@@ -48,7 +51,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1159305679,
-    "wof:lastmodified":1564165477,
+    "wof:lastmodified":1566643144,
     "wof:name":"Lassa",
     "wof:parent_id":1159303115,
     "wof:placetype":"localadmin",

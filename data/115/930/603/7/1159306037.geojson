@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016403,
+    "geom:area_square_m":92972518.027038,
     "geom:bbox":"17.9903316111,62.6681093536,18.2109008866,62.7725117038",
     "geom:latitude":62.717062,
     "geom:longitude":18.088488,
     "iso:country":"SE",
     "lbl:latitude":62.721976,
     "lbl:longitude":18.066431,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":62.721976,
     "mps:longitude":18.066431,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Hemso"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159306037,
-    "wof:lastmodified":1529702989,
+    "wof:lastmodified":1566643216,
     "wof:name":"Hemso",
     "wof:parent_id":1159302975,
     "wof:placetype":"localadmin",

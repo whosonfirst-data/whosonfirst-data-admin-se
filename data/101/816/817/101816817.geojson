@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":57.614212,
     "lbl:longitude":15.577577,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":57.614212,
     "mps:longitude":15.577577,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041c\u0430\u0440\u0438\u0430\u043d\u0435\u043b\u0443\u043d\u0434"
     ],
@@ -78,7 +81,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":350,
     "wof:belongsto":[
@@ -93,7 +96,6 @@
         "fct:id":"06d1c8b2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2692661,
         "gp:id":898208,
-        "qs:id":1037555,
         "qs_pg:id":1037555,
         "wd:id":"Q2384321",
         "wk:page":"Mariannelund"
@@ -114,7 +116,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368632,
+    "wof:lastmodified":1566642146,
     "wof:name":"Mariannelund",
     "wof:parent_id":1125281063,
     "wof:placetype":"locality",

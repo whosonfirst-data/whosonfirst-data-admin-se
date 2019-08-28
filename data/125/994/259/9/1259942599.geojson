@@ -26,8 +26,12 @@
     "gn:population":492,
     "gn:timezone":"Europe/Stockholm",
     "iso:country":"SE",
+    "lbl:bbox":"16.44087,59.43589,16.48087,59.47589",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Torsh\u00e4lla Huvud"
     ],
@@ -45,9 +49,6 @@
     ],
     "name:swe_x_preferred":[
         "Torsh\u00e4lla huvud"
-    ],
-    "name:und_x_variant":[
-        "Torsh\u00e4lla Huvud"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1259942599,
-    "wof:lastmodified":1564166430,
+    "wof:lastmodified":1566643875,
     "wof:name":"Torshaella Huvud",
     "wof:parent_id":1125288017,
     "wof:placetype":"locality",

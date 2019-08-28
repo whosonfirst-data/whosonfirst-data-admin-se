@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004244,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":27983190.006739,
     "geom:bbox":"14.026977527,57.7455236544,14.1698336973,57.8216349883",
     "geom:latitude":57.776991,
     "geom:longitude":14.120383,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":28266,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":28266,
     "iso:country":"SE",
     "lbl:latitude":57.766658,
     "lbl:longitude":14.115534,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":57.766658,
     "mps:longitude":14.115534,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Jonkopings Sofia"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125362117,
-    "wof:lastmodified":1529702412,
+    "wof:lastmodified":1566642937,
     "wof:name":"Jonkopings Sofia",
     "wof:parent_id":1159303375,
     "wof:placetype":"localadmin",

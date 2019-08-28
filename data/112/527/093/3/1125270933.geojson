@@ -9,17 +9,19 @@
     "geom:bbox":"11.5980157224,57.971641983,11.7951278321,58.1058672236",
     "geom:latitude":58.048292,
     "geom:longitude":11.714921,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":4676,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":4676,
     "iso:country":"SE",
     "lbl:latitude":58.042465,
     "lbl:longitude":11.732854,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":58.042465,
     "mps:longitude":11.732854,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Valla"
@@ -78,7 +80,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -104,7 +106,7 @@
         }
     ],
     "wof:id":1125270933,
-    "wof:lastmodified":1564165146,
+    "wof:lastmodified":1566642713,
     "wof:name":"Valla",
     "wof:parent_id":1159303425,
     "wof:placetype":"localadmin",

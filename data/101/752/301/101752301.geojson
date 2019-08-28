@@ -13,6 +13,8 @@
     "iso:country":"SE",
     "lbl:latitude":59.278638,
     "lbl:longitude":15.193617,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":59.278638,
     "mps:longitude":15.193617,
     "mz:hierarchy_label":1,
@@ -417,7 +419,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688421,
@@ -431,7 +433,6 @@
         "fct:id":"06d1621e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2686657,
         "gp:id":900751,
-        "qs:id":3735,
         "qs_pg:id":3735,
         "wd:id":"Q25732",
         "wk:page":"\u00d6rebro"
@@ -452,7 +453,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368572,
+    "wof:lastmodified":1566642129,
     "wof:name":"\u00d6rebro",
     "wof:parent_id":1125372577,
     "wof:placetype":"locality",

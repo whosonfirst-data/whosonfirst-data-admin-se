@@ -9,17 +9,19 @@
     "geom:bbox":"13.5547861697,61.7836618171,14.6065550163,62.3312867693",
     "geom:latitude":62.087533,
     "geom:longitude":14.227889,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":5298,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":5298,
     "iso:country":"SE",
     "lbl:latitude":62.120946,
     "lbl:longitude":14.263908,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":62.120946,
     "mps:longitude":14.263908,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0421\u0432\u0435\u0433"
@@ -111,7 +113,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -137,7 +139,7 @@
         }
     ],
     "wof:id":1125372523,
-    "wof:lastmodified":1564165234,
+    "wof:lastmodified":1566642823,
     "wof:name":"Sveg",
     "wof:parent_id":1159303245,
     "wof:placetype":"localadmin",

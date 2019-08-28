@@ -9,17 +9,19 @@
     "geom:bbox":"17.8904069061,60.0228122146,18.223817383,60.1540490964",
     "geom:latitude":60.086099,
     "geom:longitude":18.066656,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":3778,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":3778,
     "iso:country":"SE",
     "lbl:latitude":60.096847,
     "lbl:longitude":18.077969,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":60.096847,
     "mps:longitude":18.077969,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Alunda"
@@ -60,7 +62,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -86,7 +88,7 @@
         }
     ],
     "wof:id":1125395845,
-    "wof:lastmodified":1564165261,
+    "wof:lastmodified":1566642849,
     "wof:name":"Alunda",
     "wof:parent_id":1159303415,
     "wof:placetype":"localadmin",

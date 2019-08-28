@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000095,
-    "geom:area_square_m":599526.304853,
+    "geom:area_square_m":599526.304852,
     "geom:bbox":"18.10546875,59.3023560827,18.1219482422,59.3111918483",
     "geom:latitude":59.306909,
     "geom:longitude":18.113871,
@@ -13,6 +13,7 @@
     "iso:country":"SE",
     "lbl:latitude":59.311006,
     "lbl:longitude":18.11483,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.307263,
     "mps:longitude":18.113715,
     "mz:hierarchy_label":1,
@@ -26,9 +27,6 @@
     "mz:tier_locality":5,
     "mz:tier_metro":1,
     "name:swe_x_preferred":[
-        "Henriksdal"
-    ],
-    "name:unk_x_variant":[
         "Henriksdal"
     ],
     "qs:gn_adm0_cc":"SE",
@@ -56,19 +54,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85688429,
         102191581,
         1125362217,
         85633789,
         101752307,
-        1159303035
+        1159303035,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20151118,
-        "qs:id":896141,
         "qs_pg:id":896141
     },
     "wof:country":"SE",
@@ -88,7 +85,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702809,
+    "wof:lastmodified":1566640627,
     "wof:name":"Henriksdal",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

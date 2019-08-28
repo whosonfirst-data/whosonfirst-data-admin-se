@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00763,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":50806277.623142,
     "geom:bbox":"12.4051170239,57.3863681344,12.5949854956,57.4613737479",
     "geom:latitude":57.418001,
     "geom:longitude":12.494699,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":1014,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":1014,
     "iso:country":"SE",
     "lbl:latitude":57.422515,
     "lbl:longitude":12.504014,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":57.422515,
     "mps:longitude":12.504014,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Surteby-Kattunga"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125340437,
-    "wof:lastmodified":1529702114,
+    "wof:lastmodified":1566642391,
     "wof:name":"Surteby-Kattunga",
     "wof:parent_id":1159302961,
     "wof:placetype":"localadmin",

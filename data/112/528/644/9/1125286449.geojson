@@ -9,17 +9,19 @@
     "geom:bbox":"17.7875227102,58.716836416,18.0953256592,59.0610607803",
     "geom:latitude":58.894799,
     "geom:longitude":17.955035,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":6622,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":6622,
     "iso:country":"SE",
     "lbl:latitude":58.783525,
     "lbl:longitude":17.991166,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":58.783525,
     "mps:longitude":17.991166,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Osmo"
@@ -54,7 +56,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -80,7 +82,7 @@
         }
     ],
     "wof:id":1125286449,
-    "wof:lastmodified":1564165062,
+    "wof:lastmodified":1566642599,
     "wof:name":"Osmo",
     "wof:parent_id":1159303285,
     "wof:placetype":"localadmin",

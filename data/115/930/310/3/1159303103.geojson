@@ -24,10 +24,13 @@
     ],
     "lbl:latitude":59.006142,
     "lbl:longitude":16.296558,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":59.006142,
     "mps:longitude":16.296558,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bul_x_preferred":[
         "\u041a\u0430\u0442\u0440\u0438\u043d\u0435\u0445\u043e\u043b\u043c"
     ],
@@ -148,7 +151,7 @@
     "se-lant:lanskod":4,
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -168,7 +171,7 @@
         }
     ],
     "wof:id":1159303103,
-    "wof:lastmodified":1564165733,
+    "wof:lastmodified":1566643371,
     "wof:name":"Katrineholm",
     "wof:parent_id":85688419,
     "wof:placetype":"county",

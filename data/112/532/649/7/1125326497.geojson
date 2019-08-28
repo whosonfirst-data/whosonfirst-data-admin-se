@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001762,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":11613187.583955,
     "geom:bbox":"14.1687932356,57.7587970791,14.2566228513,57.798308841",
     "geom:latitude":57.780563,
     "geom:longitude":14.221884,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":29160,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":29160,
     "iso:country":"SE",
     "lbl:latitude":57.780403,
     "lbl:longitude":14.232181,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":57.780403,
     "mps:longitude":14.232181,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Jonkopings Kristina"
@@ -48,7 +50,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":1125326497,
-    "wof:lastmodified":1529702429,
+    "wof:lastmodified":1566642524,
     "wof:name":"Jonkopings Kristina",
     "wof:parent_id":1159303375,
     "wof:placetype":"localadmin",

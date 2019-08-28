@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":55.455623,
     "lbl:longitude":13.935137,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":55.455623,
     "mps:longitude":13.935137,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "K\u00f6pingebro"
     ],
@@ -91,7 +94,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":45,
     "wof:belongsto":[
@@ -106,7 +109,6 @@
         "fct:id":"06d19388-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2699786,
         "gp:id":895729,
-        "qs:id":905882,
         "qs_pg:id":905882,
         "wd:id":"Q176280",
         "wk:page":"K\u00f6pingebro"
@@ -127,7 +129,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368748,
+    "wof:lastmodified":1566642187,
     "wof:name":"K\u00f6pingebro",
     "wof:parent_id":1125378705,
     "wof:placetype":"locality",

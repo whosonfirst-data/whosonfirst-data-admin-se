@@ -12,8 +12,10 @@
     "gn:latitude":59.49731,
     "gn:longitude":17.94728,
     "iso:country":"SE",
+    "lbl:bbox":"17.945859,59.493546,17.955859,59.503546",
     "lbl:latitude":59.498546,
     "lbl:longitude":17.950859,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.499357,
     "mps:longitude":17.960915,
     "mz:hierarchy_label":0,
@@ -48,9 +50,6 @@
     "name:swe_x_variant":[
         "Bollstan\u00e4"
     ],
-    "name:unk_x_variant":[
-        "Bollstan\u00e4s"
-    ],
     "qs:gn_adm0_cc":"SE",
     "qs:gn_fcode":"PPL",
     "qs:gn_local":2666238,
@@ -80,7 +79,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":356,
     "wof:belongsto":[
         102191581,
@@ -94,7 +93,6 @@
     "wof:concordances":{
         "gn:id":2720667,
         "gp:id":887146,
-        "qs:id":1175032,
         "qs_pg:id":1175032,
         "wd:id":"Q4939818"
     },
@@ -115,7 +113,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563366583,
+    "wof:lastmodified":1566640639,
     "wof:name":"Bollstan\u00e4s",
     "wof:parent_id":101815895,
     "wof:placetype":"neighbourhood",

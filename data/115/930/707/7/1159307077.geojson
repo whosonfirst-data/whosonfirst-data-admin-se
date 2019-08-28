@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00758,
+    "geom:area_square_m":47971987.378258,
     "geom:bbox":"17.2436708974,59.1643414069,17.3651620757,59.2735992499",
     "geom:latitude":59.215204,
     "geom:longitude":17.307249,
     "iso:country":"SE",
     "lbl:latitude":59.207674,
     "lbl:longitude":17.301272,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":59.207674,
     "mps:longitude":17.301272,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Taxinge"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159307077,
-    "wof:lastmodified":1529702725,
+    "wof:lastmodified":1566643172,
     "wof:name":"Taxinge",
     "wof:parent_id":1159303199,
     "wof:placetype":"localadmin",

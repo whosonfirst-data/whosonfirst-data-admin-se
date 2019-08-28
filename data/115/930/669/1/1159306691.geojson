@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.067332,
+    "geom:area_square_m":377717298.84738,
     "geom:bbox":"15.6918274368,62.9317632829,16.445705145,63.0902136525",
     "geom:latitude":63.020262,
     "geom:longitude":16.107527,
     "iso:country":"SE",
     "lbl:latitude":63.028695,
     "lbl:longitude":16.019047,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":63.028695,
     "mps:longitude":16.019047,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Hasjo"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159306691,
-    "wof:lastmodified":1529702365,
+    "wof:lastmodified":1566643207,
     "wof:name":"Hasjo",
     "wof:parent_id":1159303529,
     "wof:placetype":"localadmin",

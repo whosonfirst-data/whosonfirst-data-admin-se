@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000245,
+    "geom:area_square_m":1615882.218732,
     "geom:bbox":"12.0349120667,57.7074061091,12.0664556679,57.7217034977",
     "geom:latitude":57.714414,
     "geom:longitude":12.050487,
     "iso:country":"SE",
     "lbl:latitude":57.713199,
     "lbl:longitude":12.049416,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":57.713199,
     "mps:longitude":12.049416,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bjorkekarr"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159306923,
-    "wof:lastmodified":1529702151,
+    "wof:lastmodified":1566643221,
     "wof:name":"Bjorkekarr",
     "wof:parent_id":1159302989,
     "wof:placetype":"localadmin",

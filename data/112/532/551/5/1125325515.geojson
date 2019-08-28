@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002527,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":16882954.378016,
     "geom:bbox":"12.1444014092,57.2850625105,12.2685062078,57.3223936173",
     "geom:latitude":57.30194,
     "geom:longitude":12.207959,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":655,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":655,
     "iso:country":"SE",
     "lbl:latitude":57.301938,
     "lbl:longitude":12.203728,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":57.301938,
     "mps:longitude":12.203728,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Stravalla"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125325515,
-    "wof:lastmodified":1529702335,
+    "wof:lastmodified":1566642478,
     "wof:name":"Stravalla",
     "wof:parent_id":1159302939,
     "wof:placetype":"localadmin",

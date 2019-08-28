@@ -13,6 +13,7 @@
     "iso:country":"SE",
     "lbl:latitude":59.307884,
     "lbl:longitude":18.207525,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.309552,
     "mps:longitude":18.217151,
     "mz:hierarchy_label":1,
@@ -30,9 +31,6 @@
     ],
     "name:swe_x_variant":[
         "Salt\u00e4ngen"
-    ],
-    "name:unk_x_variant":[
-        "Saltangen"
     ],
     "qs:gn_adm0_cc":"SE",
     "qs:gn_id":0,
@@ -59,7 +57,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":43,
     "wof:belongsto":[
         102191581,
@@ -72,7 +70,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20151572,
-        "qs:id":888092,
         "qs_pg:id":888092
     },
     "wof:country":"SE",
@@ -92,7 +89,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1536864515,
+    "wof:lastmodified":1566640611,
     "wof:name":"Saltangen",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008475,
+    "geom:area_square_m":56782686.30219,
     "geom:bbox":"12.4063247459,57.1528102178,12.5991031063,57.2313140701",
     "geom:latitude":57.189856,
     "geom:longitude":12.500286,
     "iso:country":"SE",
     "lbl:latitude":57.196193,
     "lbl:longitude":12.5003,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":57.196193,
     "mps:longitude":12.5003,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Skallinge"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159307137,
-    "wof:lastmodified":1529702326,
+    "wof:lastmodified":1566643232,
     "wof:name":"Skallinge",
     "wof:parent_id":1159302939,
     "wof:placetype":"localadmin",

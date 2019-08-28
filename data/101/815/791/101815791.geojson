@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":59.262446,
     "lbl:longitude":17.20947,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":59.262446,
     "mps:longitude":17.20947,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0645\u0627\u0631\u064a\u0641\u0631\u064a\u062f"
     ],
@@ -132,7 +135,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":251,
     "wof:belongsto":[
@@ -147,7 +150,6 @@
         "fct:id":"06d0fa90-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2692633,
         "gp:id":898222,
-        "qs:id":1037553,
         "qs_pg:id":1037553,
         "wd:id":"Q194359",
         "wk:page":"Mariefred"
@@ -168,7 +170,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368811,
+    "wof:lastmodified":1566642208,
     "wof:name":"Mariefred",
     "wof:parent_id":1125363739,
     "wof:placetype":"locality",

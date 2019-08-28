@@ -13,6 +13,7 @@
     "iso:country":"SE",
     "lbl:latitude":59.360009,
     "lbl:longitude":17.9654,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.357611,
     "mps:longitude":17.964005,
     "mz:hierarchy_label":1,
@@ -27,9 +28,6 @@
     "mz:tier_locality":5,
     "mz:tier_metro":1,
     "name:swe_x_preferred":[
-        "L. Alby"
-    ],
-    "name:unk_x_variant":[
         "L. Alby"
     ],
     "qs:gn_adm0_cc":"SE",
@@ -57,19 +55,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85688429,
         102191581,
         1125362217,
         85633789,
         101752307,
-        1159303035
+        1159303035,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20151274,
-        "qs:id":896146,
         "qs_pg:id":896146
     },
     "wof:country":"SE",
@@ -89,7 +86,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702803,
+    "wof:lastmodified":1566640615,
     "wof:name":"L. Alby",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

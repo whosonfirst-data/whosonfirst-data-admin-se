@@ -9,17 +9,19 @@
     "geom:bbox":"12.5861060596,56.1463562253,12.7025921057,56.2647784333",
     "geom:latitude":56.222267,
     "geom:longitude":12.650465,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":3360,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":3360,
     "iso:country":"SE",
     "lbl:latitude":56.233282,
     "lbl:longitude":12.644808,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":56.233282,
     "mps:longitude":12.644808,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Jonstorp"
@@ -60,7 +62,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -86,7 +88,7 @@
         }
     ],
     "wof:id":1125358373,
-    "wof:lastmodified":1564164962,
+    "wof:lastmodified":1566642470,
     "wof:name":"Jonstorp",
     "wof:parent_id":1159303057,
     "wof:placetype":"localadmin",

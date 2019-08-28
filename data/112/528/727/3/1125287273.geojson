@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007541,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":46515816.10821,
     "geom:bbox":"14.8365284713,60.0391839057,15.0476275843,60.1044931834",
     "geom:latitude":60.075152,
     "geom:longitude":14.949499,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":3604,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":3604,
     "iso:country":"SE",
     "lbl:latitude":60.069725,
     "lbl:longitude":14.947925,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":60.069725,
     "mps:longitude":14.947925,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Grangesberg"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125287273,
-    "wof:lastmodified":1529701991,
+    "wof:lastmodified":1566642649,
     "wof:name":"Grangesberg",
     "wof:parent_id":1159303345,
     "wof:placetype":"localadmin",

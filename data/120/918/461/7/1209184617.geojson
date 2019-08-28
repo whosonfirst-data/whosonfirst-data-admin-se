@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Stockholm",
     "iso:country":"SE",
+    "lbl:bbox":"19.34667,65.19667,19.38667,65.23667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633789
@@ -35,7 +39,7 @@
         "gn:id":2674283
     },
     "wof:country":"SE",
-    "wof:geomhash":"b21fdb92d7e4f1cc1c8a9103c7553a14",
+    "wof:geomhash":"edd92730a0038089ec5ef51eec8f42af",
     "wof:hierarchy":[
         {
             "country_id":85633789,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209184617,
-    "wof:lastmodified":1536295143,
+    "wof:lastmodified":1566641538,
     "wof:name":"Stenbacken",
     "wof:parent_id":85633789,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    19.366670000000006,
+    19.36667000000001,
     65.21667,
-    19.366670000000006,
+    19.36667000000001,
     65.21667
 ],
   "geometry": {"coordinates":[19.36667000000001,65.21666999999999],"type":"Point"}

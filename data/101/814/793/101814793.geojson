@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":63.855051,
     "lbl:longitude":15.562183,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":63.855051,
     "mps:longitude":15.562183,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0421\u0442\u0440\u044c\u043e\u043c\u0441\u0443\u043d\u0434"
     ],
@@ -120,7 +123,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":95,
     "wof:belongsto":[
@@ -135,7 +138,6 @@
         "fct:id":"06d42e2c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2671221,
         "gp:id":906588,
-        "qs:id":1037492,
         "qs_pg:id":1037492,
         "wd:id":"Q1805554",
         "wk:page":"Str\u00f6msund"
@@ -156,7 +158,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368917,
+    "wof:lastmodified":1566642246,
     "wof:name":"Str\u00f6msund",
     "wof:parent_id":1125287477,
     "wof:placetype":"locality",

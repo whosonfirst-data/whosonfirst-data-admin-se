@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004524,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":29277131.520459,
     "geom:bbox":"16.0091206046,58.4044722876,16.1439452467,58.4745793599",
     "geom:latitude":58.439044,
     "geom:longitude":16.080334,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":329,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":329,
     "iso:country":"SE",
     "lbl:latitude":58.440842,
     "lbl:longitude":16.080382,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":58.440842,
     "mps:longitude":16.080382,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Gardeby"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125361535,
-    "wof:lastmodified":1529703085,
+    "wof:lastmodified":1566642948,
     "wof:name":"Gardeby",
     "wof:parent_id":1159303305,
     "wof:placetype":"localadmin",

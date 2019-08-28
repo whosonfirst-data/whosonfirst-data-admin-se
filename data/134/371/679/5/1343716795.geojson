@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Stockholm",
     "iso:country":"SE",
+    "lbl:bbox":"15.91333,59.66333,15.95333,59.70333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Rolo"
     ],
@@ -43,9 +47,6 @@
     ],
     "name:tur_x_preferred":[
         "Rolo"
-    ],
-    "name:und_x_variant":[
-        "R\u00f6l\u00f6"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -72,7 +73,7 @@
         }
     ],
     "wof:id":1343716795,
-    "wof:lastmodified":1564162144,
+    "wof:lastmodified":1566640397,
     "wof:name":"Rolo",
     "wof:parent_id":1159307317,
     "wof:placetype":"locality",

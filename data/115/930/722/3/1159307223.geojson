@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01,
+    "geom:area_square_m":62765690.595581,
     "geom:bbox":"17.1415405037,59.4376808629,17.321477322,59.5529922341",
     "geom:latitude":59.496722,
     "geom:longitude":17.237405,
     "iso:country":"SE",
     "lbl:latitude":59.503287,
     "lbl:longitude":17.246272,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":59.503287,
     "mps:longitude":17.246272,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kungs-Husby"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159307223,
-    "wof:lastmodified":1529702837,
+    "wof:lastmodified":1566643230,
     "wof:name":"Kungs-Husby",
     "wof:parent_id":1159303337,
     "wof:placetype":"localadmin",

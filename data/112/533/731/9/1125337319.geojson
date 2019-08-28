@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000539,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":3401563.854874,
     "geom:bbox":"18.0100529595,59.3045181032,18.0616926481,59.3239629384",
     "geom:latitude":59.316822,
     "geom:longitude":18.039979,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":30102,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":30102,
     "iso:country":"SE",
     "lbl:latitude":59.316312,
     "lbl:longitude":18.044282,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":59.316312,
     "mps:longitude":18.044282,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Hogalid"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125337319,
-    "wof:lastmodified":1529702736,
+    "wof:lastmodified":1566642380,
     "wof:name":"Hogalid",
     "wof:parent_id":1159303035,
     "wof:placetype":"localadmin",

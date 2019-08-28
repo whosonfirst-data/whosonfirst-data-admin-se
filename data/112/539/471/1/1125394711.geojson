@@ -9,17 +9,19 @@
     "geom:bbox":"18.1054349564,59.2461349194,18.2803167712,59.3386202924",
     "geom:latitude":59.28844,
     "geom:longitude":18.195579,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":48113,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":48113,
     "iso:country":"SE",
     "lbl:latitude":59.286934,
     "lbl:longitude":18.194256,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":59.286934,
     "mps:longitude":18.194256,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u041d\u0430\u043a\u0430"
@@ -120,7 +122,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -146,7 +148,7 @@
         }
     ],
     "wof:id":1125394711,
-    "wof:lastmodified":1564165245,
+    "wof:lastmodified":1566642834,
     "wof:name":"Nacka",
     "wof:parent_id":1159303219,
     "wof:placetype":"localadmin",

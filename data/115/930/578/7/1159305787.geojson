@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003731,
+    "geom:area_square_m":25913700.03159,
     "geom:bbox":"13.5526752643,55.7993897765,13.6575934119,55.8474501552",
     "geom:latitude":55.822473,
     "geom:longitude":13.608687,
     "iso:country":"SE",
     "lbl:latitude":55.822663,
     "lbl:longitude":13.6087,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.822663,
     "mps:longitude":13.6087,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lyby"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159305787,
-    "wof:lastmodified":1529702596,
+    "wof:lastmodified":1566643358,
     "wof:name":"Lyby",
     "wof:parent_id":1159303277,
     "wof:placetype":"localadmin",

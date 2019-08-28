@@ -12,8 +12,10 @@
     "gn:latitude":55.6,
     "gn:longitude":13.0,
     "iso:country":"SE",
+    "lbl:bbox":"12.993,55.599885,13.003,55.609885",
     "lbl:latitude":55.604885,
     "lbl:longitude":12.998,
+    "lbl:max_zoom":18.0,
     "mps:latitude":55.61916,
     "mps:longitude":12.998647,
     "mz:hierarchy_label":0,
@@ -43,10 +45,6 @@
     ],
     "name:swe_x_variant":[
         "Gamla staden"
-    ],
-    "name:unk_x_variant":[
-        "Old City",
-        "Gamla Staden"
     ],
     "qs:gn_adm0_cc":"SE",
     "qs:gn_fcode":"PPLX",
@@ -78,7 +76,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         1159305753,
@@ -91,7 +89,6 @@
     "wof:concordances":{
         "gn:id":2712995,
         "gp:id":890313,
-        "qs:id":1247226,
         "qs_pg:id":1247226,
         "wd:id":"Q5520239",
         "wk:page":"Gamla staden, Malm\u00f6"
@@ -113,7 +110,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1561839931,
+    "wof:lastmodified":1566640653,
     "wof:name":"Gamla Staden",
     "wof:parent_id":101752283,
     "wof:placetype":"neighbourhood",

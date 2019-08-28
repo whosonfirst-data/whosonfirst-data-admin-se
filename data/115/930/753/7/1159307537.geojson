@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009372,
+    "geom:area_square_m":61831695.416329,
     "geom:bbox":"13.6026556095,57.7057440849,13.7538829955,57.8170671719",
     "geom:latitude":57.752828,
     "geom:longitude":13.683212,
     "iso:country":"SE",
     "lbl:latitude":57.746282,
     "lbl:longitude":13.67805,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":57.746282,
     "mps:longitude":13.67805,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Strangsered"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159307537,
-    "wof:lastmodified":1529702171,
+    "wof:lastmodified":1566643160,
     "wof:name":"Strangsered",
     "wof:parent_id":1159303161,
     "wof:placetype":"localadmin",

@@ -27,6 +27,7 @@
     ],
     "lbl:latitude":57.584347,
     "lbl:longitude":18.671514,
+    "lbl:min_zoom":8.0,
     "mps:latitude":57.584347,
     "mps:longitude":18.671514,
     "mz:hierarchy_label":1,
@@ -401,7 +402,7 @@
     "name:ukr_x_variant":[
         "\u0490\u043e\u0442\u043b\u0430\u043d\u0434"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gotlands L\u00e4n"
     ],
     "name:urd_x_preferred":[
@@ -498,9 +499,9 @@
     "qs:type":"L\u00e4n",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-12-31",
+    "src:population_date":"2006-12-31",
     "statoids:area_km":"3,184",
     "statoids:area_mi":"1,229",
     "statoids:as_of_date":"2006-12-31",
@@ -546,11 +547,10 @@
         "swe",
         "fin"
     ],
-    "wof:lastmodified":1565736366,
+    "wof:lastmodified":1566640671,
     "wof:name":"Gotland",
     "wof:parent_id":85633789,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"county",
     "wof:population":57297,
     "wof:population_rank":8,

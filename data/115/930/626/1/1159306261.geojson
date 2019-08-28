@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004143,
+    "geom:area_square_m":27140147.241908,
     "geom:bbox":"13.6335352826,57.9761669437,13.7411772312,58.0398106731",
     "geom:latitude":58.006973,
     "geom:longitude":13.690215,
     "iso:country":"SE",
     "lbl:latitude":58.00321,
     "lbl:longitude":13.691224,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":58.00321,
     "mps:longitude":13.691224,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Vistorp"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159306261,
-    "wof:lastmodified":1529702133,
+    "wof:lastmodified":1566643186,
     "wof:name":"Vistorp",
     "wof:parent_id":1159303137,
     "wof:placetype":"localadmin",

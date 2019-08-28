@@ -10,8 +10,10 @@
     "geom:latitude":57.774646,
     "geom:longitude":11.84387,
     "iso:country":"SE",
+    "lbl:bbox":"11.8388704845,57.7696460506,11.8488704845,57.7796460506",
     "lbl:latitude":57.774646,
     "lbl:longitude":11.84387,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -21,7 +23,7 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_metro":30,
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         1125326127,
@@ -46,7 +48,7 @@
         }
     ],
     "wof:id":1108944471,
-    "wof:lastmodified":1529702294,
+    "wof:lastmodified":1566641808,
     "wof:name":"Skogen",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

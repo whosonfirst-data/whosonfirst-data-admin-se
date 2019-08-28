@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":57.041092,
     "lbl:longitude":12.401074,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":57.041092,
     "mps:longitude":12.401074,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Tv\u00e5\u00e5ker"
     ],
@@ -85,7 +88,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":187,
     "wof:belongsto":[
@@ -100,7 +103,6 @@
         "fct:id":"06d20322-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2666950,
         "gp:id":908258,
-        "qs:id":979450,
         "qs_pg:id":979450,
         "wd:id":"Q2394008",
         "wk:page":"Tv\u00e5\u00e5ker"
@@ -121,7 +123,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368732,
+    "wof:lastmodified":1566642181,
     "wof:name":"Tv\u00e5\u00e5ker",
     "wof:parent_id":1125381871,
     "wof:placetype":"locality",

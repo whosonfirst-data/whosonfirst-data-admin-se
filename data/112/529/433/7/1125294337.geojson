@@ -9,17 +9,19 @@
     "geom:bbox":"14.5062386888,56.961262234,14.6475766388,57.115149182",
     "geom:latitude":57.03834,
     "geom:longitude":14.576858,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":2889,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":2889,
     "iso:country":"SE",
     "lbl:latitude":57.040503,
     "lbl:longitude":14.578195,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":57.040503,
     "mps:longitude":14.578195,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u041c\u0443\u0445\u0435\u0434\u0430"
@@ -75,7 +77,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -101,7 +103,7 @@
         }
     ],
     "wof:id":1125294337,
-    "wof:lastmodified":1564165149,
+    "wof:lastmodified":1566642717,
     "wof:name":"Moheda",
     "wof:parent_id":1159303407,
     "wof:placetype":"localadmin",

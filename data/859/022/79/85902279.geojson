@@ -5,13 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000351,
-    "geom:area_square_m":2222220.933516,
+    "geom:area_square_m":2222220.933514,
     "geom:bbox":"18.10546875,59.2392006143,18.1467929958,59.2546492553",
     "geom:latitude":59.247093,
     "geom:longitude":18.124905,
     "iso:country":"SE",
     "lbl:latitude":59.239796,
     "lbl:longitude":18.115064,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.245264,
     "mps:longitude":18.121148,
     "mz:hierarchy_label":1,
@@ -25,9 +26,6 @@
     "mz:tier_locality":5,
     "mz:tier_metro":1,
     "name:swe_x_preferred":[
-        "Larsboda"
-    ],
-    "name:unk_x_variant":[
         "Larsboda"
     ],
     "qs:gn_adm0_cc":"SE",
@@ -54,14 +52,14 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85688429,
         102191581,
         1125362217,
         85633789,
         101752307,
-        1159303035
+        1159303035,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -84,7 +82,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702785,
+    "wof:lastmodified":1566640594,
     "wof:name":"Larsboda",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

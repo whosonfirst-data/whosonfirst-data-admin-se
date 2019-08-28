@@ -13,6 +13,8 @@
     "iso:country":"SE",
     "lbl:latitude":60.670124,
     "lbl:longitude":17.152752,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":60.670124,
     "mps:longitude":17.152752,
     "mz:hierarchy_label":1,
@@ -401,7 +403,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:elevation":8.0,
     "wd:latitude":60.683333,
@@ -420,7 +422,6 @@
         "fct:id":"06d3f10a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2712414,
         "gp:id":890545,
-        "qs:id":3505,
         "qs_pg:id":3505,
         "wd:id":"Q25748",
         "wk:page":"G\u00e4vle"
@@ -441,7 +442,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368579,
+    "wof:lastmodified":1566642129,
     "wof:name":"G\u00e4vle",
     "wof:parent_id":1125322039,
     "wof:placetype":"locality",

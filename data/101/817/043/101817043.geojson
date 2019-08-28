@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":58.06054,
     "lbl:longitude":11.748835,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":58.06054,
     "mps:longitude":11.748835,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Myggen\u00e4s"
     ],
@@ -77,7 +80,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":46,
     "wof:belongsto":[
@@ -92,7 +95,6 @@
         "fct:id":"06d2f818-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2690713,
         "gp:id":898931,
-        "qs:id":1159250,
         "qs_pg:id":1159250,
         "wd:id":"Q2184908",
         "wk:page":"Myggen\u00e4s"
@@ -113,7 +115,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368783,
+    "wof:lastmodified":1566642198,
     "wof:name":"Myggen\u00e4s",
     "wof:parent_id":1125270933,
     "wof:placetype":"locality",

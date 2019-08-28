@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006764,
+    "geom:area_square_m":43925068.392156,
     "geom:bbox":"14.6964653476,58.2705954998,14.8810907187,58.3549613465",
     "geom:latitude":58.317377,
     "geom:longitude":14.800779,
     "iso:country":"SE",
     "lbl:latitude":58.326598,
     "lbl:longitude":14.807101,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":58.326598,
     "mps:longitude":14.807101,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Svanshals"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159305933,
-    "wof:lastmodified":1529703084,
+    "wof:lastmodified":1566643143,
     "wof:name":"Svanshals",
     "wof:parent_id":1159303179,
     "wof:placetype":"localadmin",

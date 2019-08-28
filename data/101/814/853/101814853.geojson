@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":63.906659,
     "lbl:longitude":19.752176,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":63.906659,
     "mps:longitude":19.752176,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0412\u0435\u043d\u0435\u0441"
     ],
@@ -107,7 +110,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":311,
     "wof:belongsto":[
@@ -122,7 +125,6 @@
         "fct:id":"06d3b3ac-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2665093,
         "gp:id":909012,
-        "qs:id":1171280,
         "qs_pg:id":1171280,
         "wd:id":"Q1272709",
         "wk:page":"V\u00e4nn\u00e4s"
@@ -143,7 +145,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368926,
+    "wof:lastmodified":1566642249,
     "wof:name":"V\u00e4nn\u00e4s",
     "wof:parent_id":1125363695,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000277,
-    "geom:area_square_m":1749146.59067,
+    "geom:area_square_m":1749146.590669,
     "geom:bbox":"17.8191081151,59.288331403,17.839050293,59.3053445852",
     "geom:latitude":59.297044,
     "geom:longitude":17.830062,
@@ -13,6 +13,7 @@
     "iso:country":"SE",
     "lbl:latitude":59.293323,
     "lbl:longitude":17.827624,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.297275,
     "mps:longitude":17.830251,
     "mz:hierarchy_label":1,
@@ -25,9 +26,6 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":5,
     "name:swe_x_preferred":[
-        "Malmvik"
-    ],
-    "name:unk_x_variant":[
         "Malmvik"
     ],
     "qs:gn_adm0_cc":"SE",
@@ -57,7 +55,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         1159307483,
@@ -68,7 +66,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20151369,
-        "qs:id":985213,
         "qs_pg:id":985213
     },
     "wof:country":"SE",
@@ -88,7 +85,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702804,
+    "wof:lastmodified":1566640618,
     "wof:name":"Malmvik",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.03357,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":207585846.905783,
     "geom:bbox":"18.6901032161,59.8823863545,19.0233352332,60.1289546117",
     "geom:latitude":59.991228,
     "geom:longitude":18.842096,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":3244,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":3244,
     "iso:country":"SE",
     "lbl:latitude":59.988295,
     "lbl:longitude":18.830769,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":59.988295,
     "mps:longitude":18.830769,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Vaddo"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125382287,
-    "wof:lastmodified":1529702725,
+    "wof:lastmodified":1566642902,
     "wof:name":"Vaddo",
     "wof:parent_id":1159302995,
     "wof:placetype":"localadmin",

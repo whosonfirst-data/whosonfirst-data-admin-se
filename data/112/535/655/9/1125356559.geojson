@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010124,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":63012496.203597,
     "geom:bbox":"17.1009178287,59.7422220219,17.2947120268,59.8329351927",
     "geom:latitude":59.778698,
     "geom:longitude":17.201061,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":503,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":503,
     "iso:country":"SE",
     "lbl:latitude":59.783343,
     "lbl:longitude":17.202551,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":59.783343,
     "mps:longitude":17.202551,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Nysatra"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125356559,
-    "wof:lastmodified":1529702878,
+    "wof:lastmodified":1566642465,
     "wof:name":"Nysatra",
     "wof:parent_id":1159303337,
     "wof:placetype":"localadmin",

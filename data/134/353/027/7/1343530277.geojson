@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Stockholm",
     "iso:country":"SE",
+    "lbl:bbox":"16.78,60.14667,16.82,60.18667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Osta"
     ],
@@ -33,9 +37,6 @@
     ],
     "name:nor_x_variant":[
         "\u00d8sta"
-    ],
-    "name:und_x_variant":[
-        "\u00d6sta"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +63,7 @@
         }
     ],
     "wof:id":1343530277,
-    "wof:lastmodified":1564161974,
+    "wof:lastmodified":1566640279,
     "wof:name":"Osta",
     "wof:parent_id":1125423383,
     "wof:placetype":"locality",

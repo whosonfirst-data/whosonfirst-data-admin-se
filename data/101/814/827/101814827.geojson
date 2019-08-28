@@ -13,6 +13,8 @@
     "iso:country":"SE",
     "lbl:latitude":64.746236,
     "lbl:longitude":20.96403,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":64.746236,
     "mps:longitude":20.96403,
     "mz:hierarchy_label":1,
@@ -291,7 +293,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":64.75,
     "wd:longitude":20.95,
@@ -308,7 +310,6 @@
         "fct:id":"06d3be06-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":602913,
         "gp:id":904350,
-        "qs:id":460179,
         "qs_pg:id":460179,
         "wd:id":"Q54344",
         "wk:page":"Skellefte\u00e5"
@@ -329,7 +330,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368902,
+    "wof:lastmodified":1566642241,
     "wof:name":"Skellefte\u00e5",
     "wof:parent_id":1125417515,
     "wof:placetype":"locality",

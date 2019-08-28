@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001018,
-    "geom:area_square_m":6423243.013404,
+    "geom:area_square_m":6423243.013401,
     "geom:bbox":"17.8180639649,59.3077762256,17.8714062294,59.3513958386",
     "geom:latitude":59.328031,
     "geom:longitude":17.841944,
@@ -14,6 +14,7 @@
     "iso:country":"SE",
     "lbl:latitude":59.330831,
     "lbl:longitude":17.848322,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.333814,
     "mps:longitude":17.848207,
     "mz:hierarchy_label":1,
@@ -32,10 +33,6 @@
         "H\u00f6gsta"
     ],
     "name:swe_x_preferred":[
-        "Hogsta"
-    ],
-    "name:unk_x_variant":[
-        "H\u00f6gsta",
         "Hogsta"
     ],
     "qs:gn_adm0_cc":"SE",
@@ -65,7 +62,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         1159307483,
@@ -77,7 +74,6 @@
     "wof:concordances":{
         "gn:id":2705676,
         "gp:id":20151134,
-        "qs:id":1330105,
         "qs_pg:id":1330105
     },
     "wof:country":"SE",
@@ -97,7 +93,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702807,
+    "wof:lastmodified":1566640620,
     "wof:name":"Hogsta",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

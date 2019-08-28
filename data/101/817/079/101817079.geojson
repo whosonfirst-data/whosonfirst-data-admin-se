@@ -12,10 +12,13 @@
     "iso:country":"SE",
     "lbl:latitude":57.800845,
     "lbl:longitude":12.16557,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":57.800845,
     "mps:longitude":12.16557,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Olofstorp"
     ],
@@ -68,7 +71,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":87,
     "wof:belongsto":[
         85688411,
@@ -82,7 +85,6 @@
         "fct:id":"06d1ea4a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2687066,
         "gp:id":900567,
-        "qs:id":58296,
         "qs_pg:id":58296,
         "wd:id":"Q2626816",
         "wk:page":"Olofstorp"
@@ -103,7 +105,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368745,
+    "wof:lastmodified":1566642186,
     "wof:name":"Olofstorp",
     "wof:parent_id":1125356277,
     "wof:placetype":"locality",

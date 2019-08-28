@@ -12,8 +12,10 @@
     "gn:latitude":58.58333,
     "gn:longitude":16.15,
     "iso:country":"SE",
+    "lbl:bbox":"16.165793,58.583734,16.175793,58.593734",
     "lbl:latitude":58.588734,
     "lbl:longitude":16.170793,
+    "lbl:max_zoom":18.0,
     "mps:latitude":58.580526,
     "mps:longitude":16.145298,
     "mz:hierarchy_label":0,
@@ -64,9 +66,6 @@
     "name:swe_x_preferred":[
         "Skarphagen"
     ],
-    "name:unk_x_variant":[
-        "Skarphagen"
-    ],
     "qs:gn_adm0_cc":"SE",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":2688368,
@@ -96,7 +95,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":119,
     "wof:belongsto":[
         102191581,
@@ -110,7 +109,6 @@
     "wof:concordances":{
         "gn:id":2678060,
         "gp:id":904234,
-        "qs:id":287446,
         "qs_pg:id":287446,
         "wd:id":"Q11974122"
     },
@@ -131,7 +129,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563366507,
+    "wof:lastmodified":1566640581,
     "wof:name":"Skarphagen",
     "wof:parent_id":101752289,
     "wof:placetype":"neighbourhood",

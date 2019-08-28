@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014358,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":95291933.274946,
     "geom:bbox":"13.7172542237,57.4645632975,13.9106131693,57.6141519915",
     "geom:latitude":57.537734,
     "geom:longitude":13.831624,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":144,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":144,
     "iso:country":"SE",
     "lbl:latitude":57.540747,
     "lbl:longitude":13.846142,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mps:latitude":57.540747,
     "mps:longitude":13.846142,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Stengardshult"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125286545,
-    "wof:lastmodified":1529702430,
+    "wof:lastmodified":1566642641,
     "wof:name":"Stengardshult",
     "wof:parent_id":1159303327,
     "wof:placetype":"localadmin",

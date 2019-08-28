@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":57.168031,
     "lbl:longitude":15.348391,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":57.168031,
     "mps:longitude":15.348391,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041e\u0441\u0435\u0434\u0430"
     ],
@@ -109,7 +112,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":57,
     "wof:belongsto":[
@@ -124,7 +127,6 @@
         "fct:id":"06d2b308-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2724962,
         "gp:id":885215,
-        "qs:id":915080,
         "qs_pg:id":915080,
         "wd:id":"Q271255",
         "wk:page":"\u00c5seda"
@@ -145,7 +147,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368727,
+    "wof:lastmodified":1566642179,
     "wof:name":"\u00c5seda",
     "wof:parent_id":1125277971,
     "wof:placetype":"locality",

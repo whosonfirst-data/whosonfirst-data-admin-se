@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":59.620912,
     "lbl:longitude":17.72476,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":59.620912,
     "mps:longitude":17.72476,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:amh_x_preferred":[
         "\u1232\u130d\u1271\u1293"
     ],
@@ -189,7 +192,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":706,
     "wof:belongsto":[
@@ -204,7 +207,6 @@
         "fct:id":"06d00a22-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2679302,
         "gp:id":903751,
-        "qs:id":1097452,
         "qs_pg:id":1097452,
         "wd:id":"Q3183470",
         "wk:page":"Sigtuna"
@@ -225,7 +227,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368858,
+    "wof:lastmodified":1566642225,
     "wof:name":"Sigtuna",
     "wof:parent_id":1125394679,
     "wof:placetype":"locality",

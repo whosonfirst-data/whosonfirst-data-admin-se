@@ -27,8 +27,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Stockholm",
     "iso:country":"SE",
+    "lbl:bbox":"17.16674,62.38477,17.20674,62.42477",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hov"
     ],
@@ -54,8 +58,7 @@
         "Hov"
     ],
     "name:und_x_variant":[
-        "Hof",
-        "Hov"
+        "Hof"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1343815547,
-    "wof:lastmodified":1564162369,
+    "wof:lastmodified":1566640555,
     "wof:name":"Hov",
     "wof:parent_id":1125325975,
     "wof:placetype":"locality",

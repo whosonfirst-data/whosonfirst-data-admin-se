@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":57.679759,
     "lbl:longitude":14.092128,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":57.679759,
     "mps:longitude":14.092128,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0422\u0430\u0431\u0435\u0440\u0438"
     ],
@@ -61,9 +64,6 @@
         "Sm\u00e5lands Tabergs",
         "Tabergs"
     ],
-    "name:unk_x_variant":[
-        "Sm\u00e5lands Taberg"
-    ],
     "name:zho_min_nan_x_preferred":[
         "Taberg"
     ],
@@ -86,7 +86,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":45,
     "wof:belongsto":[
@@ -101,7 +101,6 @@
         "fct:id":"06d29ea4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2669788,
         "gp:id":907135,
-        "qs:id":229199,
         "qs_pg:id":229199,
         "wd:id":"Q2745396",
         "wk:page":"Taberg"
@@ -122,7 +121,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368708,
+    "wof:lastmodified":1566642172,
     "wof:name":"Taberg",
     "wof:parent_id":1125325279,
     "wof:placetype":"locality",

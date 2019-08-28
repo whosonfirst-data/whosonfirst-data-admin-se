@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":56.508351,
     "lbl:longitude":13.044618,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":56.508351,
     "mps:longitude":13.044618,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041b\u0430\u0445\u043e\u043b\u043c"
     ],
@@ -150,7 +153,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":342,
     "wof:belongsto":[
@@ -165,7 +168,6 @@
         "fct:id":"06d27c1c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2697861,
         "gp:id":896474,
-        "qs:id":1037567,
         "qs_pg:id":1037567,
         "wd:id":"Q503050",
         "wk:page":"Laholm"
@@ -186,7 +188,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368683,
+    "wof:lastmodified":1566642163,
     "wof:name":"Laholm",
     "wof:parent_id":1125394645,
     "wof:placetype":"locality",

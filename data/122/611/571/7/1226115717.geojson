@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Stockholm",
     "iso:country":"SE",
+    "lbl:bbox":"17.50869,66.58918,17.54869,66.62918",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:nor_x_preferred":[
         "\u00d6rnvik"
     ],
@@ -34,9 +38,6 @@
     ],
     "name:smj_x_preferred":[
         "Aleldis"
-    ],
-    "name:und_x_variant":[
-        "\u00d6rnvik"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1226115717,
-    "wof:lastmodified":1537699915,
+    "wof:lastmodified":1566644023,
     "wof:name":"Aleldis",
     "wof:parent_id":1125300073,
     "wof:placetype":"locality",

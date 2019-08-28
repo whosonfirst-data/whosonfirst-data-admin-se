@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":59.999374,
     "lbl:longitude":15.810226,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":59.999374,
     "mps:longitude":15.810226,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:bul_x_preferred":[
         "\u0424\u0430\u0433\u0435\u0440\u0449\u0430"
     ],
@@ -101,7 +104,7 @@
     "name:ukr_x_preferred":[
         "\u0424\u0430\u0433\u0435\u0440\u0441\u0442\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Fagersta Bruk"
     ],
     "name:urd_x_preferred":[
@@ -130,7 +133,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":102.0,
     "wd:latitude":60.0,
@@ -148,7 +151,6 @@
         "fct:id":"06d12524-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2715656,
         "gp:id":889185,
-        "qs:id":141229,
         "qs_pg:id":141229,
         "wd:id":"Q985617",
         "wk:page":"Fagersta"
@@ -169,7 +171,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368844,
+    "wof:lastmodified":1566642221,
     "wof:name":"Fagersta",
     "wof:parent_id":1125325033,
     "wof:placetype":"locality",

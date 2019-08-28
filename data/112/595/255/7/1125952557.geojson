@@ -9,14 +9,18 @@
     "geom:bbox":"12.5,57.45,12.5,57.45",
     "geom:latitude":57.45,
     "geom:longitude":12.5,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"SE",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"SE",
+    "lbl:bbox":"12.48,57.43,12.52,57.47",
     "lbl:latitude":57.45,
     "lbl:longitude":12.5,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Torestorp"
@@ -54,9 +58,6 @@
     "name:swe_x_preferred":[
         "Torestorp"
     ],
-    "name:unk_x_variant":[
-        "T\u00f6restorp"
-    ],
     "qs_pg:aaroncc":"SE",
     "qs_pg:gn_country":"SE",
     "qs_pg:gn_fcode":"PPL",
@@ -78,7 +79,7 @@
     "qs_pg:woe_adm0":23424954,
     "qs_pg:woe_id":907714,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424954,
     "woe:name_adm0":"Sverige",
     "woe:name_adm1":"V\u00e4stra G\u00f6talands L\u00e4n",
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":1125952557,
-    "wof:lastmodified":1563369212,
+    "wof:lastmodified":1566642427,
     "wof:name":"Torestorp",
     "wof:parent_id":1125340437,
     "wof:placetype":"locality",

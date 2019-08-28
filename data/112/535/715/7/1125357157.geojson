@@ -9,17 +9,19 @@
     "geom:bbox":"13.5439644152,57.4934446016,13.6885717568,57.6093249713",
     "geom:latitude":57.556903,
     "geom:longitude":13.611826,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":408,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":408,
     "iso:country":"SE",
     "lbl:latitude":57.559239,
     "lbl:longitude":13.610493,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":57.559239,
     "mps:longitude":13.610493,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Ljungsarp"
@@ -63,7 +65,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -89,7 +91,7 @@
         }
     ],
     "wof:id":1125357157,
-    "wof:lastmodified":1564164943,
+    "wof:lastmodified":1566642452,
     "wof:name":"Ljungsarp",
     "wof:parent_id":1159303181,
     "wof:placetype":"localadmin",

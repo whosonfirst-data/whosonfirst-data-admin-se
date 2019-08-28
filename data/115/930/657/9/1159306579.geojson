@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001607,
+    "geom:area_square_m":10386995.730036,
     "geom:bbox":"13.2529110098,58.4748817014,13.3410619409,58.5055679762",
     "geom:latitude":58.492197,
     "geom:longitude":13.301398,
     "iso:country":"SE",
     "lbl:latitude":58.490307,
     "lbl:longitude":13.304974,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":58.490307,
     "mps:longitude":13.304974,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Skeby"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159306579,
-    "wof:lastmodified":1529702141,
+    "wof:lastmodified":1566643226,
     "wof:name":"Skeby",
     "wof:parent_id":1159302923,
     "wof:placetype":"localadmin",

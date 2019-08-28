@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034395,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":235342578.989023,
     "geom:bbox":"14.2046202533,56.2868691925,14.5144670004,56.4985997559",
     "geom:latitude":56.402257,
     "geom:longitude":14.345719,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":2895,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":2895,
     "iso:country":"SE",
     "lbl:latitude":56.41606,
     "lbl:longitude":14.345705,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":56.41606,
     "mps:longitude":14.345705,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Orkened"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125326075,
-    "wof:lastmodified":1529701951,
+    "wof:lastmodified":1566642532,
     "wof:name":"Orkened",
     "wof:parent_id":1159303165,
     "wof:placetype":"localadmin",

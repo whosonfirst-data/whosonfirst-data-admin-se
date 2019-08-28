@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":59.324958,
     "lbl:longitude":13.490334,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":59.324958,
     "mps:longitude":13.490334,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bul_x_preferred":[
         "\u0421\u043a\u0443\u0433\u0445\u0430\u043b"
     ],
@@ -109,7 +112,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":96,
     "wof:belongsto":[
@@ -124,7 +127,6 @@
         "fct:id":"06d42170-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2677456,
         "gp:id":904469,
-        "qs:id":916352,
         "qs_pg:id":916352,
         "wd:id":"Q576644",
         "wk:page":"Skoghall"
@@ -145,7 +147,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368837,
+    "wof:lastmodified":1566642218,
     "wof:name":"Skoghall",
     "wof:parent_id":1125423547,
     "wof:placetype":"locality",

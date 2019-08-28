@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004951,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":32815740.352365,
     "geom:bbox":"18.1435246576,57.5576874507,18.2979129514,57.6175445328",
     "geom:latitude":57.586594,
     "geom:longitude":18.228387,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":2237,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":2237,
     "iso:country":"SE",
     "lbl:latitude":57.593494,
     "lbl:longitude":18.233642,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":57.593494,
     "mps:longitude":18.233642,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Vasterhejde"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125421413,
-    "wof:lastmodified":1529702021,
+    "wof:lastmodified":1566642754,
     "wof:name":"Vasterhejde",
     "wof:parent_id":1159303535,
     "wof:placetype":"localadmin",

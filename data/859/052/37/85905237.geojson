@@ -11,8 +11,10 @@
     "geom:longitude":18.09598,
     "gn:id":"",
     "iso:country":"SE",
+    "lbl:bbox":"18.09098,59.449469,18.10098,59.459469",
     "lbl:latitude":59.454469,
     "lbl:longitude":18.09598,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.456242,
     "mps:longitude":18.105019,
     "mz:hierarchy_label":0,
@@ -39,9 +41,6 @@
     ],
     "name:swe_x_variant":[
         "Annel\u00f6v"
-    ],
-    "name:unk_x_variant":[
-        "Hastangen"
     ],
     "name:zho_min_nan_x_preferred":[
         "Annel\u00f6v"
@@ -74,7 +73,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         1125398123,
@@ -86,7 +85,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20151107,
-        "qs:id":908872,
         "qs_pg:id":908872
     },
     "wof:country":"SE",
@@ -106,7 +104,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1536864514,
+    "wof:lastmodified":1566640625,
     "wof:name":"Hastangen",
     "wof:parent_id":101752309,
     "wof:placetype":"neighbourhood",

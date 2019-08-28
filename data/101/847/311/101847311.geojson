@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":57.312187,
     "lbl:longitude":13.883965,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":57.312187,
     "mps:longitude":13.883965,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0425\u0438\u043b\u0435\u0440\u0441\u0442\u043e\u0440\u043f"
     ],
@@ -78,7 +81,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":128,
     "wof:belongsto":[
@@ -93,7 +96,6 @@
         "fct:id":"06d29954-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2706435,
         "gp:id":892957,
-        "qs:id":1250420,
         "qs_pg:id":1250420,
         "wd:id":"Q1016846"
     },
@@ -113,7 +115,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368876,
+    "wof:lastmodified":1566642232,
     "wof:name":"Hillerstorp",
     "wof:parent_id":1125325603,
     "wof:placetype":"locality",

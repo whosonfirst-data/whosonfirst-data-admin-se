@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":56.546587,
     "lbl:longitude":13.727086,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":56.546587,
     "mps:longitude":13.727086,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Str\u00f6msn\u00e4sbruk"
     ],
@@ -75,7 +78,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":99,
     "wof:belongsto":[
@@ -90,7 +93,6 @@
         "fct:id":"06d20d90-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2671230,
         "gp:id":906582,
-        "qs:id":211586,
         "qs_pg:id":211586,
         "wd:id":"Q3056196",
         "wk:page":"Str\u00f6msn\u00e4sbruk"
@@ -111,7 +113,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368624,
+    "wof:lastmodified":1566642143,
     "wof:name":"Str\u00f6msn\u00e4sbruk",
     "wof:parent_id":1125358163,
     "wof:placetype":"locality",

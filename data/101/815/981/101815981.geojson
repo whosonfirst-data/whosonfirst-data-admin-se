@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":59.710648,
     "lbl:longitude":14.162846,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":59.710648,
     "mps:longitude":14.162846,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0424\u0438\u043b\u0438\u043f\u0441\u0442\u0430\u0434"
     ],
@@ -141,7 +144,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688435,
@@ -155,7 +158,6 @@
         "fct:id":"06d38350-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2715081,
         "gp:id":889429,
-        "qs:id":222571,
         "qs_pg:id":222571,
         "wd:id":"Q847769",
         "wk:page":"Filipstad"
@@ -176,7 +178,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368859,
+    "wof:lastmodified":1566642226,
     "wof:name":"Filipstad",
     "wof:parent_id":1125394611,
     "wof:placetype":"locality",

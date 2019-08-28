@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000232,
-    "geom:area_square_m":1453268.158803,
+    "geom:area_square_m":1453268.158804,
     "geom:bbox":"17.5324194336,59.4978486021,17.5514758169,59.5170935504",
     "geom:latitude":59.506275,
     "geom:longitude":17.540847,
@@ -13,6 +13,7 @@
     "iso:country":"SE",
     "lbl:latitude":59.507847,
     "lbl:longitude":17.542419,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.505447,
     "mps:longitude":17.540665,
     "mz:hierarchy_label":1,
@@ -25,9 +26,6 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":5,
     "name:swe_x_preferred":[
-        "Stora Ekeby"
-    ],
-    "name:unk_x_variant":[
         "Stora Ekeby"
     ],
     "qs:gn_adm0_cc":"SE",
@@ -55,7 +53,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         1159305679,
@@ -66,7 +64,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":906150,
-        "qs:id":1097869,
         "qs_pg:id":1097869
     },
     "wof:country":"SE",
@@ -86,7 +83,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702794,
+    "wof:lastmodified":1566640603,
     "wof:name":"Stora Ekeby",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

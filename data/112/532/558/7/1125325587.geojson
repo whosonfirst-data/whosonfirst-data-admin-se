@@ -9,17 +9,19 @@
     "geom:bbox":"15.9306250221,63.8453080794,16.7187177236,64.1738331892",
     "geom:latitude":64.007699,
     "geom:longitude":16.321422,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":629,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":629,
     "iso:country":"SE",
     "lbl:latitude":63.97542,
     "lbl:longitude":16.315529,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":63.97542,
     "mps:longitude":16.315529,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:dan_x_preferred":[
         "Bodum"
@@ -69,7 +71,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -95,7 +97,7 @@
         }
     ],
     "wof:id":1125325587,
-    "wof:lastmodified":1564164973,
+    "wof:lastmodified":1566642481,
     "wof:name":"Bodum",
     "wof:parent_id":1159303417,
     "wof:placetype":"localadmin",

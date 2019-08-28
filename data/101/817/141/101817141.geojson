@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":57.673044,
     "lbl:longitude":12.567787,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":57.673044,
     "mps:longitude":12.567787,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0411\u043e\u043b\u0435\u0431\u044e\u0433\u0434"
     ],
@@ -108,7 +111,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":76,
     "wof:belongsto":[
@@ -123,7 +126,6 @@
         "fct:id":"06d1a878-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2720689,
         "gp:id":887137,
-        "qs:id":909096,
         "qs_pg:id":909096,
         "wd:id":"Q632092",
         "wk:page":"Bollebygd"
@@ -144,7 +146,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368797,
+    "wof:lastmodified":1566642203,
     "wof:name":"Bollebygd",
     "wof:parent_id":1125357175,
     "wof:placetype":"locality",

@@ -13,6 +13,8 @@
     "iso:country":"SE",
     "lbl:latitude":62.396011,
     "lbl:longitude":17.291662,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":62.396011,
     "mps:longitude":17.291662,
     "mz:hierarchy_label":1,
@@ -384,7 +386,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":62.390833,
     "wd:longitude":17.306944,
@@ -401,7 +403,6 @@
         "fct:id":"06d3e908-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2670781,
         "gp:id":906742,
-        "qs:id":141212,
         "qs_pg:id":141212,
         "wd:id":"Q26476",
         "wk:page":"Sundsvall"
@@ -422,7 +423,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368935,
+    "wof:lastmodified":1566642251,
     "wof:name":"Sundsvall",
     "wof:parent_id":1125286909,
     "wof:placetype":"locality",

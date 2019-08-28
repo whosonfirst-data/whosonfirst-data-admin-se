@@ -9,17 +9,19 @@
     "geom:bbox":"16.198397378,57.6554670195,16.3954795578,57.9178022236",
     "geom:latitude":57.791491,
     "geom:longitude":16.301504,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":1835,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":1835,
     "iso:country":"SE",
     "lbl:latitude":57.79291,
     "lbl:longitude":16.319433,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":57.79291,
     "mps:longitude":16.319433,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Hallingeberg"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125277755,
-    "wof:lastmodified":1554166205,
+    "wof:lastmodified":1566642714,
     "wof:name":"Hallingeberg",
     "wof:parent_id":1159303209,
     "wof:placetype":"localadmin",

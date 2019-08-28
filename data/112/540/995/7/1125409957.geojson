@@ -9,17 +9,19 @@
     "geom:bbox":"18.4478133143,57.3953676359,18.585562353,57.4746031119",
     "geom:latitude":57.440381,
     "geom:longitude":18.515036,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":1168,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":1168,
     "iso:country":"SE",
     "lbl:latitude":57.443211,
     "lbl:longitude":18.525475,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":57.443211,
     "mps:longitude":18.525475,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Vange"
@@ -51,7 +53,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -77,7 +79,7 @@
         }
     ],
     "wof:id":1125409957,
-    "wof:lastmodified":1564165420,
+    "wof:lastmodified":1566643071,
     "wof:name":"Vange",
     "wof:parent_id":1159303535,
     "wof:placetype":"localadmin",

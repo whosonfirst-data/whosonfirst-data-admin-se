@@ -9,17 +9,19 @@
     "geom:bbox":"14.4987176712,65.3008160936,16.7289550258,66.1500175777",
     "geom:latitude":65.696295,
     "geom:longitude":15.203631,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":1533,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":1533,
     "iso:country":"SE",
     "lbl:latitude":65.764361,
     "lbl:longitude":15.000689,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":65.764361,
     "mps:longitude":15.000689,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ast_x_preferred":[
         "Tarna"
@@ -51,7 +53,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -77,7 +79,7 @@
         }
     ],
     "wof:id":1125417057,
-    "wof:lastmodified":1564165432,
+    "wof:lastmodified":1566643084,
     "wof:name":"Tarna",
     "wof:parent_id":1159303007,
     "wof:placetype":"localadmin",

@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006057,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":41947959.556401,
     "geom:bbox":"14.0619839248,55.8988097902,14.2149235278,55.9777970362",
     "geom:latitude":55.937916,
     "geom:longitude":14.14094,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":1501,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":1501,
     "iso:country":"SE",
     "lbl:latitude":55.936266,
     "lbl:longitude":14.135729,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":55.936266,
     "mps:longitude":14.135729,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Kopinge"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125373769,
-    "wof:lastmodified":1529702632,
+    "wof:lastmodified":1566642800,
     "wof:name":"Kopinge",
     "wof:parent_id":1159303497,
     "wof:placetype":"localadmin",

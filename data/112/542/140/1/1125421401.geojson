@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.156846,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":885209487.304532,
     "geom:bbox":"15.7424850216,62.6912123374,16.4943619733,63.0215793139",
     "geom:latitude":62.843186,
     "geom:longitude":16.126209,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":1459,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":1459,
     "iso:country":"SE",
     "lbl:latitude":62.834843,
     "lbl:longitude":16.133311,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":62.834843,
     "mps:longitude":16.133311,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Hallesjo"
@@ -48,7 +50,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":1125421401,
-    "wof:lastmodified":1529702363,
+    "wof:lastmodified":1566642759,
     "wof:name":"Hallesjo",
     "wof:parent_id":1159303529,
     "wof:placetype":"localadmin",

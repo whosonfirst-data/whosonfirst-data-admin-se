@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":56.982261,
     "lbl:longitude":16.33011,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":56.982261,
     "mps:longitude":16.33011,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Blomsterm\u00e5la"
     ],
@@ -72,7 +75,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":52,
     "wof:belongsto":[
@@ -87,7 +90,6 @@
         "fct:id":"06d038d0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2721285,
         "gp:id":886823,
-        "qs:id":3327,
         "qs_pg:id":3327,
         "wd:id":"Q2861150",
         "wk:page":"Blomsterm\u00e5la"
@@ -108,7 +110,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368635,
+    "wof:lastmodified":1566642147,
     "wof:name":"Blomsterm\u00e5la",
     "wof:parent_id":1125394643,
     "wof:placetype":"locality",

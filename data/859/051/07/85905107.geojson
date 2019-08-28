@@ -14,6 +14,7 @@
     "iso:country":"SE",
     "lbl:latitude":59.469092,
     "lbl:longitude":17.82939,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.471742,
     "mps:longitude":17.829612,
     "mz:hierarchy_label":1,
@@ -33,10 +34,6 @@
         "Bj\u00f6rkliden"
     ],
     "name:swe_x_preferred":[
-        "Bjorklinden"
-    ],
-    "name:unk_x_variant":[
-        "Bj\u00f6rkliden",
         "Bjorklinden"
     ],
     "qs:gn_adm0_cc":"SE",
@@ -66,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         1125394701,
@@ -78,7 +75,6 @@
     "wof:concordances":{
         "gn:id":2722072,
         "gp:id":20150848,
-        "qs:id":985421,
         "qs_pg:id":985421
     },
     "wof:country":"SE",
@@ -98,7 +94,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702804,
+    "wof:lastmodified":1566640661,
     "wof:name":"Bjorklinden",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

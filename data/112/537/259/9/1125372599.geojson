@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037539,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":232328691.749873,
     "geom:bbox":"14.1869960613,59.8384384314,14.4565528243,60.0957402034",
     "geom:latitude":59.965304,
     "geom:longitude":14.318235,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":199,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":199,
     "iso:country":"SE",
     "lbl:latitude":60.001485,
     "lbl:longitude":14.304951,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mps:latitude":60.001485,
     "mps:longitude":14.304951,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Gasborn"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125372599,
-    "wof:lastmodified":1529701987,
+    "wof:lastmodified":1566642791,
     "wof:name":"Gasborn",
     "wof:parent_id":1159303211,
     "wof:placetype":"localadmin",

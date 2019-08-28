@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":58.141919,
     "lbl:longitude":11.821941,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":58.141919,
     "mps:longitude":11.821941,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Svanesund"
     ],
@@ -66,7 +69,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":83,
     "wof:belongsto":[
@@ -80,7 +83,6 @@
     "wof:concordances":{
         "gn:id":2670478,
         "gp:id":906867,
-        "qs:id":340050,
         "qs_pg:id":340050,
         "wd:id":"Q2466808",
         "wk:page":"Svanesund"
@@ -98,7 +100,7 @@
         }
     ],
     "wof:id":101817031,
-    "wof:lastmodified":1563368758,
+    "wof:lastmodified":1566642191,
     "wof:name":"Svanesund",
     "wof:parent_id":1125270937,
     "wof:placetype":"locality",

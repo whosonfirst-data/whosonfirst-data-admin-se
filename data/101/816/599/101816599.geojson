@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":56.134965,
     "lbl:longitude":13.04816,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":56.134965,
     "mps:longitude":13.04816,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Kvidinge"
     ],
@@ -66,7 +69,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":131,
     "wof:belongsto":[
@@ -81,7 +84,6 @@
         "fct:id":"06d2a476-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2698293,
         "gp:id":896304,
-        "qs:id":227411,
         "qs_pg:id":227411,
         "wd:id":"Q2509589",
         "wk:page":"Kvidinge"
@@ -102,7 +104,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368678,
+    "wof:lastmodified":1566642161,
     "wof:name":"Kvidinge",
     "wof:parent_id":1125331825,
     "wof:placetype":"locality",

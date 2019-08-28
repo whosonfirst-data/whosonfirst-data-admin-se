@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":60.336353,
     "lbl:longitude":18.444127,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":60.336353,
     "mps:longitude":18.444127,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0419\u043e\u0440\u0435\u0433\u0440\u0443\u043d\u0434"
     ],
@@ -117,7 +120,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":476,
     "wof:belongsto":[
@@ -132,7 +135,6 @@
         "fct:id":"06d0b1f2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2686649,
         "gp:id":900752,
-        "qs:id":3729,
         "qs_pg:id":3729,
         "wd:id":"Q297790",
         "wk:page":"\u00d6regrund"
@@ -153,7 +155,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368713,
+    "wof:lastmodified":1566642174,
     "wof:name":"\u00d6regrund",
     "wof:parent_id":1125286797,
     "wof:placetype":"locality",

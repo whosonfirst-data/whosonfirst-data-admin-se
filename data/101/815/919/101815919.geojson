@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":59.627533,
     "lbl:longitude":17.848858,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":59.627533,
     "mps:longitude":17.848858,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:bul_x_preferred":[
         "\u041c\u0435\u0440\u0449\u0430"
     ],
@@ -129,7 +132,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1376,
     "wof:belongsto":[
@@ -143,7 +146,6 @@
     "wof:concordances":{
         "gn:id":2692475,
         "gp:id":898275,
-        "qs:id":1037540,
         "qs_pg:id":1037540,
         "wd:id":"Q54748",
         "wk:page":"M\u00e4rsta"
@@ -161,7 +163,7 @@
         }
     ],
     "wof:id":101815919,
-    "wof:lastmodified":1563368855,
+    "wof:lastmodified":1566642225,
     "wof:name":"M\u00e4rsta",
     "wof:parent_id":1125423253,
     "wof:placetype":"locality",

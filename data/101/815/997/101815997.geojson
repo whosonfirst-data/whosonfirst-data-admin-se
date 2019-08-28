@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":59.134208,
     "lbl:longitude":12.921754,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":59.134208,
     "mps:longitude":12.921754,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0421\u0435\u0444\u043b\u0435"
     ],
@@ -135,7 +138,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":378,
     "wof:belongsto":[
@@ -150,7 +153,6 @@
         "fct:id":"06d390f2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2680764,
         "gp:id":903140,
-        "qs:id":916285,
         "qs_pg:id":916285,
         "wd:id":"Q368574",
         "wk:page":"S\u00e4ffle"
@@ -171,7 +173,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368812,
+    "wof:lastmodified":1566642209,
     "wof:name":"S\u00e4ffle",
     "wof:parent_id":1125417047,
     "wof:placetype":"locality",

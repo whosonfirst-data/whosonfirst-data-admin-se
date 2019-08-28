@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":64.867366,
     "lbl:longitude":20.381029,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":64.867366,
     "mps:longitude":20.381029,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0411\u0443\u043b\u0438\u0434\u0435\u043d"
     ],
@@ -81,7 +84,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":89,
     "wof:belongsto":[
@@ -96,7 +99,6 @@
         "fct:id":"06d31366-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":606507,
         "gp:id":887132,
-        "qs:id":126041,
         "qs_pg:id":126041,
         "wd:id":"Q891347",
         "wk:page":"Boliden"
@@ -117,7 +119,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368921,
+    "wof:lastmodified":1566642248,
     "wof:name":"Boliden",
     "wof:parent_id":1159306339,
     "wof:placetype":"locality",

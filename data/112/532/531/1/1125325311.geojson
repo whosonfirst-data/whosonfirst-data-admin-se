@@ -9,17 +9,19 @@
     "geom:bbox":"13.0934583582,55.3465019148,13.2029354065,55.3964378029",
     "geom:latitude":55.370744,
     "geom:longitude":13.148412,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":23729,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":23729,
     "iso:country":"SE",
     "lbl:latitude":55.373047,
     "lbl:longitude":13.149469,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":55.373047,
     "mps:longitude":13.149469,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0422\u0440\u0435\u043b\u0435\u0431\u043e\u0440\u0438"
@@ -180,7 +182,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -206,7 +208,7 @@
         }
     ],
     "wof:id":1125325311,
-    "wof:lastmodified":1564165008,
+    "wof:lastmodified":1566642518,
     "wof:name":"Trelleborg",
     "wof:parent_id":1159303309,
     "wof:placetype":"localadmin",

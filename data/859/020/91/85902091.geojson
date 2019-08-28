@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3380498.193408,
+    "geom:area_square_m":0.0,
     "geom:bbox":"18.054612,59.455681,18.054612,59.455681",
     "geom:latitude":59.455681,
     "geom:longitude":18.054612,
     "iso:country":"SE",
+    "lbl:bbox":"18.049612,59.450681,18.059612,59.460681",
     "lbl:latitude":59.455681,
     "lbl:longitude":18.054612,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.455215,
     "mps:longitude":18.072759,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:tier_locality":1,
     "mz:tier_metro":1,
     "name:swe_x_preferred":[
-        "Ensta"
-    ],
-    "name:unk_x_variant":[
         "Ensta"
     ],
     "qs:gn_adm0_cc":"SE",
@@ -58,14 +57,14 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85688429,
         102191581,
         1125398123,
         85633789,
         101752309,
-        1159303403
+        1159303403,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -88,7 +87,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1531935854,
+    "wof:lastmodified":1566640639,
     "wof:name":"Ensta",
     "wof:parent_id":101752309,
     "wof:placetype":"neighbourhood",

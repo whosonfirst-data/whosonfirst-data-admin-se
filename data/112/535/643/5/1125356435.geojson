@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026828,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":162531278.688905,
     "geom:bbox":"15.3751368478,60.5745758986,15.714345148,60.7385704996",
     "geom:latitude":60.66353,
     "geom:longitude":15.578684,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":17280,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":17280,
     "iso:country":"SE",
     "lbl:latitude":60.670941,
     "lbl:longitude":15.609358,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":60.670941,
     "mps:longitude":15.609358,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Stora Kopparberg"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125356435,
-    "wof:lastmodified":1529701991,
+    "wof:lastmodified":1566642433,
     "wof:name":"Stora Kopparberg",
     "wof:parent_id":1159302903,
     "wof:placetype":"localadmin",

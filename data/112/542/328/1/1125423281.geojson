@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008229,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":55246163.206717,
     "geom:bbox":"18.2948197332,57.0807527034,18.5281379866,57.1526590788",
     "geom:latitude":57.118445,
     "geom:longitude":18.395123,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":234,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":234,
     "iso:country":"SE",
     "lbl:latitude":57.113456,
     "lbl:longitude":18.373985,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":57.113456,
     "mps:longitude":18.373985,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Grotlingbo"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125423281,
-    "wof:lastmodified":1529702027,
+    "wof:lastmodified":1566642756,
     "wof:name":"Grotlingbo",
     "wof:parent_id":1159303535,
     "wof:placetype":"localadmin",

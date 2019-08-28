@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001002,
+    "geom:area_square_m":6548136.061661,
     "geom:bbox":"13.6665608564,58.0912584209,13.7496378809,58.1156830797",
     "geom:latitude":58.10239,
     "geom:longitude":13.714592,
     "iso:country":"SE",
     "lbl:latitude":58.100991,
     "lbl:longitude":13.721537,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":58.100991,
     "mps:longitude":13.721537,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kalvene"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159306321,
-    "wof:lastmodified":1529702135,
+    "wof:lastmodified":1566643219,
     "wof:name":"Kalvene",
     "wof:parent_id":1159303137,
     "wof:placetype":"localadmin",

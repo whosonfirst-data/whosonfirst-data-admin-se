@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023975,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":150195168.163358,
     "geom:bbox":"13.0406660098,59.4724500995,13.2615229671,59.6529427523",
     "geom:latitude":59.560617,
     "geom:longitude":13.16118,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":1698,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":1698,
     "iso:country":"SE",
     "lbl:latitude":59.537773,
     "lbl:longitude":13.148038,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":59.537773,
     "mps:longitude":13.148038,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Frykerud"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125421453,
-    "wof:lastmodified":1529702915,
+    "wof:lastmodified":1566642734,
     "wof:name":"Frykerud",
     "wof:parent_id":1159302947,
     "wof:placetype":"localadmin",

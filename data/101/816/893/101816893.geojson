@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":57.753092,
     "lbl:longitude":16.628829,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":57.753092,
     "mps:longitude":16.628829,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:bul_x_preferred":[
         "\u0412\u0435\u0441\u0442\u0435\u0440\u0432\u0438\u043a"
     ],
@@ -180,7 +183,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:elevation":6.0,
     "wd:latitude":57.755556,
@@ -199,7 +202,6 @@
         "fct:id":"06d47e68-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2664203,
         "gp:id":909434,
-        "qs:id":222610,
         "qs_pg:id":222610,
         "wd:id":"Q54764",
         "wk:page":"V\u00e4stervik"
@@ -220,7 +222,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368651,
+    "wof:lastmodified":1566642152,
     "wof:name":"V\u00e4stervik",
     "wof:parent_id":1125363625,
     "wof:placetype":"locality",

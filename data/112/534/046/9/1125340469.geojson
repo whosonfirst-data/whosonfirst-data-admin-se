@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004961,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":32550509.009411,
     "geom:bbox":"12.9262575696,57.9132745611,13.072517064,57.9777167022",
     "geom:latitude":57.949664,
     "geom:longitude":12.995544,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":294,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":294,
     "iso:country":"SE",
     "lbl:latitude":57.950836,
     "lbl:longitude":12.994462,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":57.950836,
     "mps:longitude":12.994462,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Vesene"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125340469,
-    "wof:lastmodified":1529702115,
+    "wof:lastmodified":1566642383,
     "wof:name":"Vesene",
     "wof:parent_id":1159303171,
     "wof:placetype":"localadmin",

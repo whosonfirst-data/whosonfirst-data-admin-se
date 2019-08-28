@@ -10,8 +10,10 @@
     "geom:latitude":59.367163,
     "geom:longitude":18.193793,
     "iso:country":"SE",
+    "lbl:bbox":"18.188793,59.362163,18.198793,59.372163",
     "lbl:latitude":59.367163,
     "lbl:longitude":18.193793,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.370564,
     "mps:longitude":18.194873,
     "mz:hierarchy_label":0,
@@ -31,9 +33,6 @@
         "Rudboda"
     ],
     "name:swe_x_preferred":[
-        "Rudboda"
-    ],
-    "name:unk_x_variant":[
         "Rudboda"
     ],
     "qs:gn_adm0_cc":"SE",
@@ -64,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":72,
     "wof:belongsto":[
         102191581,
@@ -95,7 +94,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563366551,
+    "wof:lastmodified":1566640612,
     "wof:name":"Rudboda",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

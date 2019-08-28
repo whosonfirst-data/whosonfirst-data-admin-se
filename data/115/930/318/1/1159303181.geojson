@@ -24,10 +24,13 @@
     ],
     "lbl:latitude":57.492335,
     "lbl:longitude":13.391519,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":57.492335,
     "mps:longitude":13.391519,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Tranemo"
     ],
@@ -85,7 +88,7 @@
     "se-lant:lanskod":14,
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":1159303181,
-    "wof:lastmodified":1564165709,
+    "wof:lastmodified":1566643355,
     "wof:name":"Tranemo",
     "wof:parent_id":85688411,
     "wof:placetype":"county",

@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":58.887288,
     "lbl:longitude":14.911651,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":58.887288,
     "mps:longitude":14.911651,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0410\u0441\u043a\u0435\u0440\u0448\u0443\u043d\u0434"
     ],
@@ -132,7 +135,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":261,
     "wof:belongsto":[
@@ -148,7 +151,6 @@
         "gn:id":2724778,
         "gp:id":885303,
         "loc:id":"n95097666",
-        "qs:id":1037603,
         "qs_pg:id":1037603,
         "wd:id":"Q731441",
         "wk:page":"Askersund"
@@ -169,7 +171,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368768,
+    "wof:lastmodified":1566642194,
     "wof:name":"Askersund",
     "wof:parent_id":1125381739,
     "wof:placetype":"locality",

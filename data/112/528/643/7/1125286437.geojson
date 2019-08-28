@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00303,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":18866972.461622,
     "geom:bbox":"18.6445490451,59.7412809996,18.7785408598,59.7819517351",
     "geom:latitude":59.761155,
     "geom:longitude":18.706326,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":17123,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":17123,
     "iso:country":"SE",
     "lbl:latitude":59.762477,
     "lbl:longitude":18.700723,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":59.762477,
     "mps:longitude":18.700723,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Norrtalje"
@@ -48,7 +50,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":1125286437,
-    "wof:lastmodified":1529702735,
+    "wof:lastmodified":1566642598,
     "wof:name":"Norrtalje",
     "wof:parent_id":1159302995,
     "wof:placetype":"localadmin",

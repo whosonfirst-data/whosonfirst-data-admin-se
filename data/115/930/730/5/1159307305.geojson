@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004203,
+    "geom:area_square_m":26296829.810554,
     "geom:bbox":"18.0067660326,59.5612481153,18.0843531096,59.6378447304",
     "geom:latitude":59.603927,
     "geom:longitude":18.045603,
     "iso:country":"SE",
     "lbl:latitude":59.603132,
     "lbl:longitude":18.045619,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":59.603132,
     "mps:longitude":18.045619,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Markim"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159307305,
-    "wof:lastmodified":1529702726,
+    "wof:lastmodified":1566643150,
     "wof:name":"Markim",
     "wof:parent_id":1159303513,
     "wof:placetype":"localadmin",

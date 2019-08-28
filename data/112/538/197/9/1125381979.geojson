@@ -9,17 +9,19 @@
     "geom:bbox":"13.5321023886,55.3845916462,13.6174315826,55.4449198516",
     "geom:latitude":55.412775,
     "geom:longitude":13.575387,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":3339,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":3339,
     "iso:country":"SE",
     "lbl:latitude":55.412966,
     "lbl:longitude":13.58186,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":55.412966,
     "mps:longitude":13.58186,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Skivarp"
@@ -63,7 +65,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -89,7 +91,7 @@
         }
     ],
     "wof:id":1125381979,
-    "wof:lastmodified":1564165307,
+    "wof:lastmodified":1566642915,
     "wof:name":"Skivarp",
     "wof:parent_id":1159303379,
     "wof:placetype":"localadmin",

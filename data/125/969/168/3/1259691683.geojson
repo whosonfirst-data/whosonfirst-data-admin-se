@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Stockholm",
     "iso:country":"SE",
+    "lbl:bbox":"15.56333,56.44667,15.60333,56.48667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0641\u0631\u0648"
     ],
@@ -168,10 +172,6 @@
     "name:ukr_x_preferred":[
         "\u0428\u0435\u0440\u0441\u0442\u044c"
     ],
-    "name:und_x_variant":[
-        "Furo",
-        "Fur"
-    ],
     "name:urd_x_preferred":[
         "\u0633\u0645\u0648\u0631"
     ],
@@ -201,7 +201,7 @@
         }
     ],
     "wof:id":1259691683,
-    "wof:lastmodified":1564166447,
+    "wof:lastmodified":1566643887,
     "wof:name":"Fur",
     "wof:parent_id":1125417525,
     "wof:placetype":"locality",

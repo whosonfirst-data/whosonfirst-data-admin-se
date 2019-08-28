@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":57.432848,
     "lbl:longitude":14.095005,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":57.432848,
     "mps:longitude":14.095005,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0633\u0643\u064a\u0644\u064a\u0646\u063a\u0627\u0631\u064a\u062f"
     ],
@@ -96,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":326,
     "wof:belongsto":[
@@ -111,7 +114,6 @@
         "fct:id":"06d1b016-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2677644,
         "gp:id":904401,
-        "qs:id":1169353,
         "qs_pg:id":1169353,
         "wd:id":"Q1565387",
         "wk:page":"Skillingaryd"
@@ -132,7 +134,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368706,
+    "wof:lastmodified":1566642172,
     "wof:name":"Skillingaryd",
     "wof:parent_id":1125286597,
     "wof:placetype":"locality",

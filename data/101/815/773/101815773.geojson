@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":59.025393,
     "lbl:longitude":12.222626,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":59.025393,
     "mps:longitude":12.222626,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0411\u0435\u043d\u0433\u0442\u0441\u0444\u043e\u0440\u0448"
     ],
@@ -111,7 +114,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":54,
     "wof:belongsto":[
@@ -126,7 +129,6 @@
         "fct:id":"06d287a2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2723079,
         "gp:id":886041,
-        "qs:id":1086064,
         "qs_pg:id":1086064,
         "wd:id":"Q817252",
         "wk:page":"Bengtsfors"
@@ -147,7 +149,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368855,
+    "wof:lastmodified":1566642225,
     "wof:name":"Bengtsfors",
     "wof:parent_id":1125356621,
     "wof:placetype":"locality",

@@ -10,8 +10,10 @@
     "geom:latitude":57.573256,
     "geom:longitude":11.940174,
     "iso:country":"SE",
+    "lbl:bbox":"11.9351741627,57.5682563127,11.9451741627,57.5782563127",
     "lbl:latitude":57.573256,
     "lbl:longitude":11.940174,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -204,7 +206,7 @@
     "name:war_x_preferred":[
         "Hagen"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         1159307161,
@@ -230,7 +232,7 @@
         }
     ],
     "wof:id":1108944637,
-    "wof:lastmodified":1564164223,
+    "wof:lastmodified":1566641812,
     "wof:name":"Hagen",
     "wof:parent_id":101816759,
     "wof:placetype":"neighbourhood",

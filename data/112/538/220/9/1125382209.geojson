@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.072347,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":429808439.42177,
     "geom:bbox":"14.0497154696,61.0845423503,14.5505887069,61.5492514821",
     "geom:latitude":61.284946,
     "geom:longitude":14.30877,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":1236,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":1236,
     "iso:country":"SE",
     "lbl:latitude":61.207937,
     "lbl:longitude":14.369437,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":61.207937,
     "mps:longitude":14.369437,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Vamhus"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125382209,
-    "wof:lastmodified":1529701984,
+    "wof:lastmodified":1566642897,
     "wof:name":"Vamhus",
     "wof:parent_id":1159303515,
     "wof:placetype":"localadmin",

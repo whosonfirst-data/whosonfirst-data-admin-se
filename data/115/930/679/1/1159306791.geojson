@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004977,
+    "geom:area_square_m":32548954.63447,
     "geom:bbox":"11.3794350084,58.04893517,11.4988817219,58.1005956041",
     "geom:latitude":58.071557,
     "geom:longitude":11.438842,
     "iso:country":"SE",
     "lbl:latitude":58.073622,
     "lbl:longitude":11.428138,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":58.073622,
     "mps:longitude":11.428138,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mollosund"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159306791,
-    "wof:lastmodified":1529702146,
+    "wof:lastmodified":1566643314,
     "wof:name":"Mollosund",
     "wof:parent_id":1159302943,
     "wof:placetype":"localadmin",

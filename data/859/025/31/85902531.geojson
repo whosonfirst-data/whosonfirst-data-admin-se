@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000136,
-    "geom:area_square_m":858531.794184,
+    "geom:area_square_m":858531.794185,
     "geom:bbox":"17.9617815569,59.3589470921,17.9846191406,59.3696921209",
     "geom:latitude":59.364202,
     "geom:longitude":17.973046,
@@ -13,6 +13,7 @@
     "iso:country":"SE",
     "lbl:latitude":59.363592,
     "lbl:longitude":17.962905,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.363294,
     "mps:longitude":17.974168,
     "mz:hierarchy_label":1,
@@ -27,9 +28,6 @@
     "mz:tier_locality":5,
     "mz:tier_metro":1,
     "name:swe_x_preferred":[
-        "Sundbyberg"
-    ],
-    "name:unk_x_variant":[
         "Sundbyberg"
     ],
     "qs:gn_adm0_cc":"SE",
@@ -57,19 +55,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85688429,
         102191581,
         1125362217,
         85633789,
         101752307,
-        1159303035
+        1159303035,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":906702,
-        "qs:id":1097951,
         "qs_pg:id":1097951
     },
     "wof:country":"SE",
@@ -89,7 +86,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702795,
+    "wof:lastmodified":1566640601,
     "wof:name":"Sundbyberg",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

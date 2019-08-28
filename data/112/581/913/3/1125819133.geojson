@@ -9,14 +9,18 @@
     "geom:bbox":"14.01667,55.45,14.01667,55.45",
     "geom:latitude":55.45,
     "geom:longitude":14.01667,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"SE",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"SE",
+    "lbl:bbox":"13.99667,55.43,14.03667,55.47",
     "lbl:latitude":55.45,
     "lbl:longitude":14.01667,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
         "Glemmingebro"
@@ -45,9 +49,6 @@
     "name:swe_x_preferred":[
         "Glemmingebro"
     ],
-    "name:unk_x_variant":[
-        "Glemmingebro"
-    ],
     "qs_pg:aaroncc":"SE",
     "qs_pg:gn_country":"SE",
     "qs_pg:gn_fcode":"PPL",
@@ -69,7 +70,7 @@
     "qs_pg:woe_adm0":23424954,
     "qs_pg:woe_id":890725,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424954,
     "woe:name_adm0":"Sverige",
     "woe:name_adm1":"Sk\u00e5ne L\u00e4n",
@@ -102,7 +103,7 @@
         }
     ],
     "wof:id":1125819133,
-    "wof:lastmodified":1563369487,
+    "wof:lastmodified":1566642671,
     "wof:name":"Glemminge",
     "wof:parent_id":1159306651,
     "wof:placetype":"locality",

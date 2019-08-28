@@ -9,17 +9,19 @@
     "geom:bbox":"14.4818116849,60.9775287168,14.6068559215,61.044225526",
     "geom:latitude":61.009817,
     "geom:longitude":14.543442,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"PPLA2",
-    "gn:gn_pop":10940,
+    "gn:country":"SE",
+    "gn:fcode":"PPLA2",
     "gn:population":10940,
     "iso:country":"SE",
     "lbl:latitude":61.002902,
     "lbl:longitude":14.531282,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":61.002902,
     "mps:longitude":14.531282,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0645\u0648\u0631\u0627"
     ],
@@ -143,7 +145,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0443\u0440\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Moraby"
     ],
     "name:vol_x_preferred":[
@@ -189,7 +191,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688447,
@@ -203,7 +205,6 @@
         "fct:id":"06d35830-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2691401,
         "gp:id":898677,
-        "qs:id":484431,
         "qs_pg:id":39475,
         "wd:id":"Q849874"
     },
@@ -228,7 +229,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368717,
+    "wof:lastmodified":1566642175,
     "wof:name":"Mora",
     "wof:parent_id":1125382233,
     "wof:placetype":"locality",

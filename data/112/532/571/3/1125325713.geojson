@@ -9,17 +9,19 @@
     "geom:bbox":"15.0147379565,61.0592468081,15.6573666849,61.5957633539",
     "geom:latitude":61.272787,
     "geom:longitude":15.263671,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":1170,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":1170,
     "iso:country":"SE",
     "lbl:latitude":61.266079,
     "lbl:longitude":15.241829,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":61.266079,
     "mps:longitude":15.241829,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u062e\u0627\u0645"
@@ -228,7 +230,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -254,7 +256,7 @@
         }
     ],
     "wof:id":1125325713,
-    "wof:lastmodified":1564165026,
+    "wof:lastmodified":1566642535,
     "wof:name":"Ore",
     "wof:parent_id":1159303397,
     "wof:placetype":"localadmin",

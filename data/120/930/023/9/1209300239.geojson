@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Stockholm",
     "iso:country":"SE",
+    "lbl:bbox":"14.14667,63.68,14.18667,63.72",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633789
@@ -35,7 +39,7 @@
         "gn:id":2665385
     },
     "wof:country":"SE",
-    "wof:geomhash":"ca747b538491d4dc907c02ff0aff827b",
+    "wof:geomhash":"7543191bf8820782876e0ba2dab11261",
     "wof:hierarchy":[
         {
             "country_id":85633789,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209300239,
-    "wof:lastmodified":1536291384,
+    "wof:lastmodified":1566641345,
     "wof:name":"Vallrun",
     "wof:parent_id":85633789,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    14.166670000000002,
+    14.16667,
     63.7,
-    14.166670000000002,
+    14.16667,
     63.7
 ],
   "geometry": {"coordinates":[14.16667,63.7],"type":"Point"}

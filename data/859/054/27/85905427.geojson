@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000354,
-    "geom:area_square_m":2230733.759958,
+    "geom:area_square_m":2230733.75996,
     "geom:bbox":"17.9783819022,59.383159133,18.0065917969,59.3975688075",
     "geom:latitude":59.390435,
     "geom:longitude":17.992366,
@@ -13,6 +13,7 @@
     "iso:country":"SE",
     "lbl:latitude":59.388845,
     "lbl:longitude":17.99639,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.389877,
     "mps:longitude":17.993306,
     "mz:hierarchy_label":1,
@@ -26,9 +27,6 @@
     "mz:tier_locality":5,
     "mz:tier_metro":1,
     "name:swe_x_preferred":[
-        "Overjarva"
-    ],
-    "name:unk_x_variant":[
         "Overjarva"
     ],
     "qs:gn_adm0_cc":"SE",
@@ -56,19 +54,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85688429,
         102191581,
         1125362217,
         85633789,
         101752307,
-        1159303035
+        1159303035,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20151483,
-        "qs:id":342138,
         "qs_pg:id":342138
     },
     "wof:country":"SE",
@@ -88,7 +85,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702814,
+    "wof:lastmodified":1566640607,
     "wof:name":"Overjarva",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

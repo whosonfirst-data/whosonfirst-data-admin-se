@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007441,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":48689380.281306,
     "geom:bbox":"14.2697848361,57.9949822477,14.4264126192,58.1126151318",
     "geom:latitude":58.052088,
     "geom:longitude":14.345733,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":741,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":741,
     "iso:country":"SE",
     "lbl:latitude":58.051216,
     "lbl:longitude":14.34692,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":58.051216,
     "mps:longitude":14.34692,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Visingso"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125382157,
-    "wof:lastmodified":1529702414,
+    "wof:lastmodified":1566642917,
     "wof:name":"Visingso",
     "wof:parent_id":1159303375,
     "wof:placetype":"localadmin",

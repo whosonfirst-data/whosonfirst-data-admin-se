@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":8592912.660569,
+    "geom:area_square_m":0.0,
     "geom:bbox":"18.224429,59.234789,18.224429,59.234789",
     "geom:latitude":59.234789,
     "geom:longitude":18.224429,
     "gn:id":"",
     "iso:country":"SE",
+    "lbl:bbox":"18.219429,59.229789,18.229429,59.239789",
     "lbl:latitude":59.234789,
     "lbl:longitude":18.224429,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.216979,
     "mps:longitude":18.218726,
     "mz:hierarchy_label":0,
@@ -27,9 +29,6 @@
     "mz:tier_locality":1,
     "mz:tier_metro":1,
     "name:swe_x_preferred":[
-        "Njupkarr"
-    ],
-    "name:unk_x_variant":[
         "Njupkarr"
     ],
     "qs:gn_adm0_cc":"SE",
@@ -60,19 +59,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85688429,
         102191581,
         1125362217,
         85633789,
         101752307,
-        1159303035
+        1159303035,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20151419,
-        "qs:id":1085496,
         "qs_pg:id":1085496
     },
     "wof:country":"SE",
@@ -92,7 +90,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1531936343,
+    "wof:lastmodified":1566640616,
     "wof:name":"Njupkarr",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

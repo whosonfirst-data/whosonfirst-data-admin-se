@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":59.385935,
     "lbl:longitude":12.133246,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":59.385935,
     "mps:longitude":12.133246,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041e\u0440\u0435\u043d\u0433"
     ],
@@ -104,9 +107,6 @@
     "name:ukr_x_preferred":[
         "\u041e\u0440'\u0454\u043d\u0433"
     ],
-    "name:unk_x_variant":[
-        "\u00c5rj\u00e4nge"
-    ],
     "qs:a0":"Sverige",
     "qs:a1":"*V\u00e4rmlands l\u00e4n",
     "qs:a1r":"0",
@@ -123,7 +123,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":145,
     "wof:belongsto":[
@@ -138,7 +138,6 @@
         "fct:id":"06d47472-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2725379,
         "gp:id":885027,
-        "qs:id":915081,
         "qs_pg:id":915081,
         "wd:id":"Q271180",
         "wk:page":"\u00c5rj\u00e4ng"
@@ -159,7 +158,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368837,
+    "wof:lastmodified":1566642218,
     "wof:name":"\u00c5rj\u00e4ng",
     "wof:parent_id":1125286669,
     "wof:placetype":"locality",

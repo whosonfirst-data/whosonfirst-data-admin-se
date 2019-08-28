@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00516,
+    "geom:area_square_m":33359372.080999,
     "geom:bbox":"13.9267372229,58.4432207776,14.099484276,58.5023570871",
     "geom:latitude":58.474178,
     "geom:longitude":13.996991,
     "iso:country":"SE",
     "lbl:latitude":58.468265,
     "lbl:longitude":13.965029,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":58.468265,
     "mps:longitude":13.965029,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Locketorp"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159306665,
-    "wof:lastmodified":1529702143,
+    "wof:lastmodified":1566643223,
     "wof:name":"Locketorp",
     "wof:parent_id":1159302921,
     "wof:placetype":"localadmin",

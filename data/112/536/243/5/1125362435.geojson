@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000594,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":4138556.022606,
     "geom:bbox":"13.1837095357,55.6985074958,13.2233821666,55.7208905592",
     "geom:latitude":55.711462,
     "geom:longitude":13.204753,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":8939,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":8939,
     "iso:country":"SE",
     "lbl:latitude":55.709387,
     "lbl:longitude":13.21033,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":55.709387,
     "mps:longitude":13.21033,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Lunds Allhelgona"
@@ -48,7 +50,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":1125362435,
-    "wof:lastmodified":1529702622,
+    "wof:lastmodified":1566642941,
     "wof:name":"Lunds Allhelgona",
     "wof:parent_id":1159303449,
     "wof:placetype":"localadmin",

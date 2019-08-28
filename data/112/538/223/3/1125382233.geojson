@@ -9,17 +9,19 @@
     "geom:bbox":"13.946110377,60.8391463467,15.0415545136,61.621401003",
     "geom:latitude":61.097192,
     "geom:longitude":14.349651,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":16665,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":16665,
     "iso:country":"SE",
     "lbl:latitude":60.974456,
     "lbl:longitude":14.286569,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":60.974456,
     "mps:longitude":14.286569,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0645\u0648\u0631\u0627"
@@ -159,7 +161,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -185,7 +187,7 @@
         }
     ],
     "wof:id":1125382233,
-    "wof:lastmodified":1564165311,
+    "wof:lastmodified":1566642918,
     "wof:name":"Mora",
     "wof:parent_id":1159303515,
     "wof:placetype":"localadmin",

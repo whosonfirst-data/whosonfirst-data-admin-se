@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.09087,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":517523996.61249,
     "geom:bbox":"13.8352821791,62.3939460815,14.430695452,62.7212767105",
     "geom:latitude":62.575176,
     "geom:longitude":14.139978,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":610,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":610,
     "iso:country":"SE",
     "lbl:latitude":62.577588,
     "lbl:longitude":14.144503,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":62.577588,
     "mps:longitude":14.144503,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Klovsjo"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125287501,
-    "wof:lastmodified":1529702372,
+    "wof:lastmodified":1566642627,
     "wof:name":"Klovsjo",
     "wof:parent_id":1159303129,
     "wof:placetype":"localadmin",

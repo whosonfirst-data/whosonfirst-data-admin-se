@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019071,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":126956850.700395,
     "geom:bbox":"14.0296730791,57.3600585497,14.263183863,57.4876569696",
     "geom:latitude":57.42726,
     "geom:longitude":14.150686,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":4459,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":4459,
     "iso:country":"SE",
     "lbl:latitude":57.427371,
     "lbl:longitude":14.150696,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":57.427371,
     "mps:longitude":14.150696,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Tofteryd"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125286597,
-    "wof:lastmodified":1529702431,
+    "wof:lastmodified":1566642609,
     "wof:name":"Tofteryd",
     "wof:parent_id":1159303517,
     "wof:placetype":"localadmin",

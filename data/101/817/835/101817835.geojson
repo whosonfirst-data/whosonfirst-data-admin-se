@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":55.827976,
     "lbl:longitude":14.08915,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":55.827976,
     "mps:longitude":14.08915,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Degeberga"
     ],
@@ -78,7 +81,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":100,
     "wof:belongsto":[
@@ -93,7 +96,6 @@
         "fct:id":"06d2f26e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2717898,
         "gp:id":888274,
-        "qs:id":1032441,
         "qs_pg:id":1032441,
         "wd:id":"Q1182804",
         "wk:page":"Degeberga"
@@ -114,7 +116,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368758,
+    "wof:lastmodified":1566642191,
     "wof:name":"Degeberga",
     "wof:parent_id":1125373763,
     "wof:placetype":"locality",

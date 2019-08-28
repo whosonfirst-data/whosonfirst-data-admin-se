@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034493,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":215290644.917002,
     "geom:bbox":"13.7804154657,59.5537881597,14.1179112791,59.7929972853",
     "geom:latitude":59.684303,
     "geom:longitude":13.958857,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":469,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":469,
     "iso:country":"SE",
     "lbl:latitude":59.672554,
     "lbl:longitude":13.975424,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":59.672554,
     "mps:longitude":13.975424,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Brattfors"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125288253,
-    "wof:lastmodified":1529702929,
+    "wof:lastmodified":1566642634,
     "wof:name":"Brattfors",
     "wof:parent_id":1159303211,
     "wof:placetype":"localadmin",

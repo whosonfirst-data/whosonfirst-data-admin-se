@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003417,
+    "geom:area_square_m":22700947.105422,
     "geom:bbox":"18.2424299065,57.4665803896,18.3527991957,57.5352843044",
     "geom:latitude":57.504737,
     "geom:longitude":18.305352,
     "iso:country":"SE",
     "lbl:latitude":57.510811,
     "lbl:longitude":18.297005,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":57.510811,
     "mps:longitude":18.297005,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Hogran"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159306233,
-    "wof:lastmodified":1529702021,
+    "wof:lastmodified":1566643308,
     "wof:name":"Hogran",
     "wof:parent_id":1159303535,
     "wof:placetype":"localadmin",

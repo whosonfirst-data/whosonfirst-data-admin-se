@@ -24,8 +24,12 @@
     "gn:population":2846,
     "gn:timezone":"Europe/Stockholm",
     "iso:country":"SE",
+    "lbl:bbox":"11.81333,57.99667,11.85333,58.03667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0421\u0442\u0443\u0440\u0430 \u0425\u044c\u043e\u0433\u0430"
     ],
@@ -56,9 +60,6 @@
     "name:swe_x_preferred":[
         "Stora H\u00f6ga"
     ],
-    "name:und_x_variant":[
-        "Stora H\u00f6ga"
-    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -86,7 +87,7 @@
         }
     ],
     "wof:id":1276277721,
-    "wof:lastmodified":1564163106,
+    "wof:lastmodified":1566641072,
     "wof:name":"Stora Hoega",
     "wof:parent_id":1125270913,
     "wof:placetype":"locality",

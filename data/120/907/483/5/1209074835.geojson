@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Stockholm",
     "iso:country":"SE",
+    "lbl:bbox":"13.41333,59.54667,13.45333,59.58667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633789
@@ -35,7 +39,7 @@
         "gn:id":2725299
     },
     "wof:country":"SE",
-    "wof:geomhash":"75430c9a1ee28cc574f88ff391b1e122",
+    "wof:geomhash":"ad60fd1817291cc46ccd6c7c843b04cc",
     "wof:hierarchy":[
         {
             "country_id":85633789,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209074835,
-    "wof:lastmodified":1536298529,
+    "wof:lastmodified":1566641306,
     "wof:name":"Arnastorp",
     "wof:parent_id":85633789,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    13.433329999999998,
+    13.43333,
     59.56667,
-    13.433329999999998,
+    13.43333,
     59.56667
 ],
   "geometry": {"coordinates":[13.43333,59.56667],"type":"Point"}

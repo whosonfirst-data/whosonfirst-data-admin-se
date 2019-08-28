@@ -12,8 +12,10 @@
     "gn:latitude":59.47569,
     "gn:longitude":17.90969,
     "iso:country":"SE",
+    "lbl:bbox":"17.903261,59.472392,17.913261,59.482392",
     "lbl:latitude":59.477392,
     "lbl:longitude":17.908261,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.471593,
     "mps:longitude":17.912464,
     "mz:hierarchy_label":0,
@@ -65,9 +67,6 @@
     "name:swe_x_preferred":[
         "Rotebro"
     ],
-    "name:unk_x_variant":[
-        "Rotebro"
-    ],
     "qs:gn_adm0_cc":"SE",
     "qs:gn_fcode":"PPL",
     "qs:gn_local":2666238,
@@ -97,7 +96,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":332,
     "wof:belongsto":[
         102191581,
@@ -111,7 +110,6 @@
     "wof:concordances":{
         "gn:id":2681414,
         "gp:id":902877,
-        "qs:id":3759,
         "qs_pg:id":3759,
         "wd:id":"Q3354585",
         "wk:page":"Rotebro"
@@ -133,7 +131,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563366499,
+    "wof:lastmodified":1566640576,
     "wof:name":"Rotebro",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

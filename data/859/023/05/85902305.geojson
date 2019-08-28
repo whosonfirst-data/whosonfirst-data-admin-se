@@ -14,6 +14,7 @@
     "iso:country":"SE",
     "lbl:latitude":59.328849,
     "lbl:longitude":18.015806,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.327854,
     "mps:longitude":18.019775,
     "mz:hierarchy_label":1,
@@ -47,9 +48,6 @@
     "name:swe_x_preferred":[
         "Marieberg"
     ],
-    "name:unk_x_variant":[
-        "Marieberg"
-    ],
     "qs:gn_adm0_cc":"SE",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":2673730,
@@ -77,7 +75,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":31,
     "wof:belongsto":[
         102191581,
@@ -91,7 +89,6 @@
     "wof:concordances":{
         "gn:id":2692644,
         "gp:id":898217,
-        "qs:id":898555,
         "qs_pg:id":898555,
         "wd:id":"Q3355046",
         "wk:page":"Marieberg, Stockholm"
@@ -113,7 +110,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563366511,
+    "wof:lastmodified":1566640583,
     "wof:name":"Marieberg",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

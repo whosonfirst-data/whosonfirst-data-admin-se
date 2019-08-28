@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007727,
+    "geom:area_square_m":51591644.830184,
     "geom:bbox":"15.3545723465,57.2706906822,15.5217573662,57.3597373037",
     "geom:latitude":57.318257,
     "geom:longitude":15.44222,
     "iso:country":"SE",
     "lbl:latitude":57.309491,
     "lbl:longitude":15.436547,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":57.309491,
     "mps:longitude":15.436547,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Stenberga"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159306837,
-    "wof:lastmodified":1529702412,
+    "wof:lastmodified":1566643317,
     "wof:name":"Stenberga",
     "wof:parent_id":1159303157,
     "wof:placetype":"localadmin",

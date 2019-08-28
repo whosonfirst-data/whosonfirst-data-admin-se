@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":61.717363,
     "lbl:longitude":16.968137,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":61.717363,
     "mps:longitude":16.968137,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "S\u00f6rforsa"
     ],
@@ -75,7 +78,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":190,
     "wof:belongsto":[
@@ -90,7 +93,6 @@
         "fct:id":"06d46086-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2675146,
         "gp:id":905492,
-        "qs:id":968015,
         "qs_pg:id":968015,
         "wd:id":"Q781256",
         "wk:page":"S\u00f6rforsa"
@@ -111,7 +113,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368668,
+    "wof:lastmodified":1566642157,
     "wof:name":"S\u00f6rforsa",
     "wof:parent_id":1125286941,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":56.730388,
     "lbl:longitude":12.662062,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":56.730388,
     "mps:longitude":12.662062,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0425\u0430\u0432\u0435\u0440\u0434\u0430\u043b"
     ],
@@ -78,7 +81,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":144,
     "wof:belongsto":[
@@ -93,7 +96,6 @@
         "fct:id":"06d1cef2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2707138,
         "gp:id":892659,
-        "qs:id":1169176,
         "qs_pg:id":1169176,
         "wd:id":"Q2322515",
         "wk:page":"Haverdal"
@@ -114,7 +116,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368658,
+    "wof:lastmodified":1566642154,
     "wof:name":"Haverdal",
     "wof:parent_id":1125409961,
     "wof:placetype":"locality",

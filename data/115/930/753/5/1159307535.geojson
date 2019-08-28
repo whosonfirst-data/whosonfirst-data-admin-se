@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0084,
+    "geom:area_square_m":54094369.16082,
     "geom:bbox":"16.2740491944,58.5623354503,16.4203275188,58.6579795667",
     "geom:latitude":58.614899,
     "geom:longitude":16.342803,
     "iso:country":"SE",
     "lbl:latitude":58.620613,
     "lbl:longitude":16.335464,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":58.620613,
     "mps:longitude":16.335464,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Dagsberg"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159307535,
-    "wof:lastmodified":1529703092,
+    "wof:lastmodified":1566643160,
     "wof:name":"Dagsberg",
     "wof:parent_id":1159303229,
     "wof:placetype":"localadmin",

@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002577,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":16869995.914637,
     "geom:bbox":"12.1372234715,58.0075987383,12.422475001,58.0565666825",
     "geom:latitude":58.030503,
     "geom:longitude":12.216111,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":1675,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":1675,
     "iso:country":"SE",
     "lbl:latitude":58.030093,
     "lbl:longitude":12.173486,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":58.030093,
     "mps:longitude":12.173486,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Sankt Peder"
@@ -48,7 +50,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":1125373089,
-    "wof:lastmodified":1529702175,
+    "wof:lastmodified":1566642783,
     "wof:name":"Sankt Peder",
     "wof:parent_id":1159303279,
     "wof:placetype":"localadmin",

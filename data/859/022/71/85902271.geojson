@@ -14,6 +14,7 @@
     "iso:country":"SE",
     "lbl:latitude":59.320711,
     "lbl:longitude":18.029495,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.320773,
     "mps:longitude":18.028495,
     "mz:hierarchy_label":1,
@@ -84,9 +85,6 @@
     "name:swe_x_variant":[
         "L\u00e5ngholme"
     ],
-    "name:unk_x_variant":[
-        "L\u00e5ngholmen"
-    ],
     "qs:gn_adm0_cc":"SE",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":2673730,
@@ -114,7 +112,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":463,
     "wof:belongsto":[
         102191581,
@@ -128,7 +126,6 @@
     "wof:concordances":{
         "gn:id":2697438,
         "gp:id":896628,
-        "qs:id":235389,
         "qs_pg:id":235389,
         "wd:id":"Q780785"
     },
@@ -149,7 +146,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563366530,
+    "wof:lastmodified":1566640595,
     "wof:name":"L\u00e5ngholmen",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

@@ -9,17 +9,19 @@
     "geom:bbox":"16.2772461643,56.6667279936,16.4303649393,56.6955790411",
     "geom:latitude":56.679724,
     "geom:longitude":16.363348,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":4861,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":4861,
     "iso:country":"SE",
     "lbl:latitude":56.680527,
     "lbl:longitude":16.396395,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":56.680527,
     "mps:longitude":16.396395,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Kalmar Heliga Korset"
@@ -48,7 +50,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":1125421725,
-    "wof:lastmodified":1554166187,
+    "wof:lastmodified":1566642740,
     "wof:name":"Kalmar Heliga Korset",
     "wof:parent_id":1159303065,
     "wof:placetype":"localadmin",

@@ -9,17 +9,19 @@
     "geom:bbox":"17.6065052641,62.558693811,18.1212327585,62.7850861247",
     "geom:latitude":62.679076,
     "geom:longitude":17.838789,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":5564,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":5564,
     "iso:country":"SE",
     "lbl:latitude":62.673466,
     "lbl:longitude":17.838766,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":62.673466,
     "mps:longitude":17.838766,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Sabra"
@@ -84,7 +86,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -110,7 +112,7 @@
         }
     ],
     "wof:id":1125403955,
-    "wof:lastmodified":1564165420,
+    "wof:lastmodified":1566643071,
     "wof:name":"Sabra",
     "wof:parent_id":1159302975,
     "wof:placetype":"localadmin",

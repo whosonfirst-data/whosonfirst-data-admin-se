@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022547,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":149786571.15038,
     "geom:bbox":"14.6584341688,57.4033135193,14.8612873524,57.6059707008",
     "geom:latitude":57.503608,
     "geom:longitude":14.762858,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":3305,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":3305,
     "iso:country":"SE",
     "lbl:latitude":57.50944,
     "lbl:longitude":14.755972,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":57.50944,
     "mps:longitude":14.755972,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Norra Sandsjo"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125373513,
-    "wof:lastmodified":1529702417,
+    "wof:lastmodified":1566642808,
     "wof:name":"Norra Sandsjo",
     "wof:parent_id":1159303537,
     "wof:placetype":"localadmin",

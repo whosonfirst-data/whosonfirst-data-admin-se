@@ -9,14 +9,18 @@
     "geom:bbox":"18.2,59.2,18.2,59.2",
     "geom:latitude":59.2,
     "geom:longitude":18.2,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"SE",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"SE",
+    "lbl:bbox":"18.18,59.18,18.22,59.22",
     "lbl:latitude":59.2,
     "lbl:longitude":18.2,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:nor_x_preferred":[
         "Vendels\u00f8"
@@ -24,7 +28,7 @@
     "name:nor_x_variant":[
         "Vendels\u00f6"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "V\u00e4ndels\u00f6"
     ],
     "qs_pg:aaroncc":"SE",
@@ -46,7 +50,7 @@
     "qs_pg:woe_adm0":23424954,
     "qs_pg:woe_id":20151862,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424954,
     "woe:name_adm0":"Sverige",
     "woe:name_adm1":"Stockholms L\u00e4n",
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1125855483,
-    "wof:lastmodified":1529702762,
+    "wof:lastmodified":1566643060,
     "wof:name":"Vendelsomalm",
     "wof:parent_id":1125326015,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000511,
-    "geom:area_square_m":3223288.812485,
+    "geom:area_square_m":3223288.812484,
     "geom:bbox":"17.9129267031,59.3044548177,17.9516601562,59.3275854455",
     "geom:latitude":59.314874,
     "geom:longitude":17.934793,
@@ -14,6 +14,7 @@
     "iso:country":"SE",
     "lbl:latitude":59.323782,
     "lbl:longitude":17.936447,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.314433,
     "mps:longitude":17.939341,
     "mz:hierarchy_label":1,
@@ -35,9 +36,6 @@
     ],
     "name:swe_x_variant":[
         "H\u00f6glande"
-    ],
-    "name:unk_x_variant":[
-        "H\u00f6glandet"
     ],
     "qs:gn_adm0_cc":"SE",
     "qs:gn_fcode":"PPLX",
@@ -66,20 +64,19 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85688429,
         102191581,
         1125362217,
         85633789,
         101752307,
-        1159303035
+        1159303035,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2705777,
         "gp:id":893251,
-        "qs:id":983864,
         "qs_pg:id":983864
     },
     "wof:country":"SE",
@@ -99,7 +96,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702782,
+    "wof:lastmodified":1566640653,
     "wof:name":"H\u00f6glandet",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

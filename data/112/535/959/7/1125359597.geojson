@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013354,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":84956450.89772,
     "geom:bbox":"16.2596593208,58.9953940125,16.570342569,59.0897040434",
     "geom:latitude":59.035233,
     "geom:longitude":16.447037,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":2967,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":2967,
     "iso:country":"SE",
     "lbl:latitude":59.04582,
     "lbl:longitude":16.45768,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":59.04582,
     "mps:longitude":16.45768,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Skoldinge"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125359597,
-    "wof:lastmodified":1529702845,
+    "wof:lastmodified":1566642453,
     "wof:name":"Skoldinge",
     "wof:parent_id":1159303103,
     "wof:placetype":"localadmin",

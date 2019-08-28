@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034148,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":214369460.894506,
     "geom:bbox":"18.121185645,59.4120794682,18.5361662877,59.5663654941",
     "geom:latitude":59.489637,
     "geom:longitude":18.339805,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":36382,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":36382,
     "iso:country":"SE",
     "lbl:latitude":59.493177,
     "lbl:longitude":18.353924,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":59.493177,
     "mps:longitude":18.353924,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Osteraker-Ostra Ryd"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125423247,
-    "wof:lastmodified":1529702727,
+    "wof:lastmodified":1566642736,
     "wof:name":"Osteraker-Ostra Ryd",
     "wof:parent_id":1159303039,
     "wof:placetype":"localadmin",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Stockholm",
     "iso:country":"SE",
+    "lbl:bbox":"23.48,67.16333,23.52,67.20333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fin_x_preferred":[
         "K\u00f6ng\u00e4ksen ruukki"
     ],
@@ -40,8 +44,7 @@
         "Kengis bruk"
     ],
     "name:und_x_variant":[
-        "Kengisfors",
-        "Kengis"
+        "Kengisfors"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1242946289,
-    "wof:lastmodified":1564165876,
+    "wof:lastmodified":1566643476,
     "wof:name":"Kengis",
     "wof:parent_id":1125300089,
     "wof:placetype":"locality",

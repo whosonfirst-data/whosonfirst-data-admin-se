@@ -14,6 +14,7 @@
     "iso:country":"SE",
     "lbl:latitude":59.358818,
     "lbl:longitude":17.968696,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.354903,
     "mps:longitude":17.97599,
     "mz:hierarchy_label":1,
@@ -33,9 +34,6 @@
         "Lilla Alby"
     ],
     "name:swe_x_preferred":[
-        "Lilla Alby"
-    ],
-    "name:unk_x_variant":[
         "Lilla Alby"
     ],
     "qs:gn_adm0_cc":"SE",
@@ -65,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":597,
     "wof:belongsto":[
         102191581,
@@ -79,7 +77,6 @@
     "wof:concordances":{
         "gn:id":2696245,
         "gp:id":897056,
-        "qs:id":894682,
         "qs_pg:id":894682,
         "wd:id":"Q10561690"
     },
@@ -100,7 +97,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563366523,
+    "wof:lastmodified":1566640591,
     "wof:name":"Lilla Alby",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

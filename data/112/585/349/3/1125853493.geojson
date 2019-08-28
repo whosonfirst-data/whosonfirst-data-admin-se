@@ -9,15 +9,18 @@
     "geom:bbox":"11.81667,57.78333,11.81667,57.78333",
     "geom:latitude":57.78333,
     "geom:longitude":11.81667,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":987,
+    "gn:country":"SE",
+    "gn:fcode":"PPL",
     "gn:population":987,
     "iso:country":"SE",
+    "lbl:bbox":"11.79667,57.76333,11.83667,57.80333",
     "lbl:latitude":57.78333,
     "lbl:longitude":11.81667,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u041d\u043e\u043b\u0432\u0438\u043a"
@@ -52,7 +55,7 @@
     "name:swe_x_preferred":[
         "Nolvik"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nohlvik"
     ],
     "qs_pg:aaroncc":"SE",
@@ -67,7 +70,7 @@
     "qs_pg:qs_id":575664,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85688411,
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":1125853493,
-    "wof:lastmodified":1563370001,
+    "wof:lastmodified":1566643053,
     "wof:name":"Nolvik",
     "wof:parent_id":1125326127,
     "wof:placetype":"locality",

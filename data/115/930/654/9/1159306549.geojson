@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003138,
+    "geom:area_square_m":20522710.960077,
     "geom:bbox":"13.7453611775,58.0412033406,13.8707248508,58.0983912112",
     "geom:latitude":58.068052,
     "geom:longitude":13.805201,
     "iso:country":"SE",
     "lbl:latitude":58.07062,
     "lbl:longitude":13.795818,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":58.07062,
     "mps:longitude":13.795818,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kymbo"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159306549,
-    "wof:lastmodified":1529702140,
+    "wof:lastmodified":1566643340,
     "wof:name":"Kymbo",
     "wof:parent_id":1159303037,
     "wof:placetype":"localadmin",

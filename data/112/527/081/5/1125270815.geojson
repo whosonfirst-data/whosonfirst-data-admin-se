@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000821,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":5731915.44372,
     "geom:bbox":"12.9324708936,55.5864823345,12.983531056,55.6148998332",
     "geom:latitude":55.60069,
     "geom:longitude":12.960761,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":20787,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":20787,
     "iso:country":"SE",
     "lbl:latitude":55.601427,
     "lbl:longitude":12.961166,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":55.601427,
     "mps:longitude":12.961166,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Slottsstaden"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125270815,
-    "wof:lastmodified":1529702592,
+    "wof:lastmodified":1566642707,
     "wof:name":"Slottsstaden",
     "wof:parent_id":1159303367,
     "wof:placetype":"localadmin",

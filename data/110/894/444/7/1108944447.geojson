@@ -10,8 +10,10 @@
     "geom:latitude":57.813072,
     "geom:longitude":11.985548,
     "iso:country":"SE",
+    "lbl:bbox":"11.9805484123,57.8080718,11.9905484123,57.8180718",
     "lbl:latitude":57.813072,
     "lbl:longitude":11.985548,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -45,7 +47,7 @@
     "name:urd_x_preferred":[
         "\u0645\u0633\u0679\u0631\u0646\u0627"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         1159306621,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1108944447,
-    "wof:lastmodified":1564164231,
+    "wof:lastmodified":1566641818,
     "wof:name":"Mysterna",
     "wof:parent_id":101841915,
     "wof:placetype":"neighbourhood",

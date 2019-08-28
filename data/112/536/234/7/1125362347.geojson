@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025734,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":149863530.959607,
     "geom:bbox":"17.0422714193,61.8489729516,17.3814193886,61.9615515369",
     "geom:latitude":61.903536,
     "geom:longitude":17.21289,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":3103,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":3103,
     "iso:country":"SE",
     "lbl:latitude":61.909412,
     "lbl:longitude":17.175805,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":61.909412,
     "mps:longitude":17.175805,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Harmanger"
@@ -48,7 +50,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":1125362347,
-    "wof:lastmodified":1529702052,
+    "wof:lastmodified":1566642946,
     "wof:name":"Harmanger",
     "wof:parent_id":1159303081,
     "wof:placetype":"localadmin",

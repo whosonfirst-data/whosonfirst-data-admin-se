@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0041,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":26711433.28407,
     "geom:bbox":"13.8384240328,58.1749165106,13.9743922495,58.2297721839",
     "geom:latitude":58.203185,
     "geom:longitude":13.898904,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":329,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":329,
     "iso:country":"SE",
     "lbl:latitude":58.199273,
     "lbl:longitude":13.898897,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":58.199273,
     "mps:longitude":13.898897,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Acklinga"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125326247,
-    "wof:lastmodified":1529702195,
+    "wof:lastmodified":1566642526,
     "wof:name":"Acklinga",
     "wof:parent_id":1159303037,
     "wof:placetype":"localadmin",

@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":63.886254,
     "lbl:longitude":20.316956,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":63.886254,
     "mps:longitude":20.316956,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0415\u0440\u0448\u043c\u0430\u0440\u043a"
     ],
@@ -72,7 +75,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688465,
@@ -86,7 +89,6 @@
         "fct:id":"06d40690-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":606249,
         "gp:id":889046,
-        "qs:id":550247,
         "qs_pg:id":550247,
         "wd:id":"Q2439435",
         "wk:page":"Ersmark, Ume\u00e5 Municipality"
@@ -107,7 +109,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368880,
+    "wof:lastmodified":1566642233,
     "wof:name":"Ersmark",
     "wof:parent_id":1125325349,
     "wof:placetype":"locality",

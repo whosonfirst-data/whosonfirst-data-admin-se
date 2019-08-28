@@ -12,10 +12,13 @@
     "iso:country":"SE",
     "lbl:latitude":57.084889,
     "lbl:longitude":16.901665,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":57.084889,
     "mps:longitude":16.901665,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Persnas"
     ],
@@ -27,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1159306265,
-    "wof:lastmodified":1554166185,
+    "wof:lastmodified":1566643186,
     "wof:name":"Persnas",
     "wof:parent_id":1159303363,
     "wof:placetype":"localadmin",

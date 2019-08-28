@@ -14,6 +14,7 @@
     "iso:country":"SE",
     "lbl:latitude":59.429324,
     "lbl:longitude":17.864153,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.433965,
     "mps:longitude":17.869303,
     "mz:hierarchy_label":1,
@@ -44,9 +45,8 @@
     "name:swe_x_variant":[
         "Bj\u00e4rka-S\u00e4by slott"
     ],
-    "name:unk_x_variant":[
-        "Sk\u00e5-S\u00e4by",
-        "Saby"
+    "name:und_x_variant":[
+        "Sk\u00e5-S\u00e4by"
     ],
     "qs:gn_adm0_cc":"SE",
     "qs:gn_fcode":"PPL",
@@ -75,7 +75,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         1125381823,
@@ -87,7 +87,6 @@
     "wof:concordances":{
         "gn:id":2680816,
         "gp:id":20151566,
-        "qs:id":1190456,
         "qs_pg:id":1190456
     },
     "wof:country":"SE",
@@ -107,7 +106,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1536864515,
+    "wof:lastmodified":1566640605,
     "wof:name":"S\u00e4by",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

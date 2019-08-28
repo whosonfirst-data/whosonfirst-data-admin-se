@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002048,
+    "geom:area_square_m":13371102.973764,
     "geom:bbox":"13.8221800362,58.109909136,13.9021427193,58.1510302288",
     "geom:latitude":58.130849,
     "geom:longitude":13.867192,
     "iso:country":"SE",
     "lbl:latitude":58.128466,
     "lbl:longitude":13.875954,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":58.128466,
     "mps:longitude":13.875954,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Suntak"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159307045,
-    "wof:lastmodified":1529702155,
+    "wof:lastmodified":1566643287,
     "wof:name":"Suntak",
     "wof:parent_id":1159303037,
     "wof:placetype":"localadmin",

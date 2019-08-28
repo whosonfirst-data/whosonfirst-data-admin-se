@@ -9,17 +9,19 @@
     "geom:bbox":"14.4960174967,60.5418630296,15.0456439286,60.6758934293",
     "geom:latitude":60.593014,
     "geom:longitude":14.855122,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":668,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":668,
     "iso:country":"SE",
     "lbl:latitude":60.602688,
     "lbl:longitude":14.962301,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":60.602688,
     "mps:longitude":14.962301,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Djura"
@@ -60,7 +62,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -86,7 +88,7 @@
         }
     ],
     "wof:id":1125287635,
-    "wof:lastmodified":1564165054,
+    "wof:lastmodified":1566642589,
     "wof:name":"Djura",
     "wof:parent_id":1159303237,
     "wof:placetype":"localadmin",

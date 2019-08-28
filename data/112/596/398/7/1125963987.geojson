@@ -9,15 +9,18 @@
     "geom:bbox":"17.81667,60.18333,17.81667,60.18333",
     "geom:latitude":60.18333,
     "geom:longitude":17.81667,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":238,
+    "gn:country":"SE",
+    "gn:fcode":"PPL",
     "gn:population":238,
     "iso:country":"SE",
+    "lbl:bbox":"17.79667,60.16333,17.83667,60.20333",
     "lbl:latitude":60.18333,
     "lbl:longitude":17.81667,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Dannemora"
@@ -46,7 +49,7 @@
     "name:swe_x_preferred":[
         "Dannemora"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dann"
     ],
     "qs_pg:aaroncc":"SE",
@@ -70,7 +73,7 @@
     "qs_pg:woe_adm0":23424954,
     "qs_pg:woe_id":888248,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424954,
     "woe:name_adm0":"Sverige",
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":1125963987,
-    "wof:lastmodified":1563369816,
+    "wof:lastmodified":1566642962,
     "wof:name":"Dannemora",
     "wof:parent_id":1125421447,
     "wof:placetype":"locality",

@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006203,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":39091498.766985,
     "geom:bbox":"16.3503671345,59.3199019659,16.5201630782,59.3954499688",
     "geom:latitude":59.358999,
     "geom:longitude":16.443585,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":27640,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":27640,
     "iso:country":"SE",
     "lbl:latitude":59.357292,
     "lbl:longitude":16.456441,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":59.357292,
     "mps:longitude":16.456441,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Eskilstuna Fors"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125421363,
-    "wof:lastmodified":1529702833,
+    "wof:lastmodified":1566642743,
     "wof:name":"Eskilstuna Fors",
     "wof:parent_id":1159303207,
     "wof:placetype":"localadmin",

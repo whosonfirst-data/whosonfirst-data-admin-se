@@ -5,13 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000817,
-    "geom:area_square_m":5132641.71105,
+    "geom:area_square_m":5132641.711051,
     "geom:bbox":"17.9104614258,59.4437696858,17.9598999023,59.4701977611",
     "geom:latitude":59.456693,
     "geom:longitude":17.937813,
     "iso:country":"SE",
     "lbl:latitude":59.451193,
     "lbl:longitude":17.933208,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.456242,
     "mps:longitude":17.939814,
     "mz:hierarchy_label":1,
@@ -25,9 +26,6 @@
     "mz:tier_locality":5,
     "mz:tier_metro":1,
     "name:swe_x_preferred":[
-        "Vaderholmen"
-    ],
-    "name:unk_x_variant":[
         "Vaderholmen"
     ],
     "qs:gn_adm0_cc":"SE",
@@ -54,14 +52,14 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85688429,
         102191581,
         1125362217,
         85633789,
         101752307,
-        1159303035
+        1159303035,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -84,7 +82,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702820,
+    "wof:lastmodified":1566640633,
     "wof:name":"V\u00e4derholmen",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

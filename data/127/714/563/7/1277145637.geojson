@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Stockholm",
     "iso:country":"SE",
+    "lbl:bbox":"12.78,60.23,12.82,60.27",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Rona"
     ],
@@ -62,9 +66,6 @@
     "name:tur_x_preferred":[
         "Rona"
     ],
-    "name:und_x_variant":[
-        "R\u00f6na"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85688435,
@@ -90,7 +91,7 @@
         }
     ],
     "wof:id":1277145637,
-    "wof:lastmodified":1564163217,
+    "wof:lastmodified":1566641143,
     "wof:name":"Rona",
     "wof:parent_id":1125286645,
     "wof:placetype":"locality",

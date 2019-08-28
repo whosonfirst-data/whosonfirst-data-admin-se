@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002771,
+    "geom:area_square_m":18755639.00069,
     "geom:bbox":"14.7522414121,56.7803712373,14.8235012872,56.8494023833",
     "geom:latitude":56.81007,
     "geom:longitude":14.789028,
     "iso:country":"SE",
     "lbl:latitude":56.809235,
     "lbl:longitude":14.791455,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":56.809235,
     "mps:longitude":14.791455,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Danningelanda"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159306067,
-    "wof:lastmodified":1529702522,
+    "wof:lastmodified":1566643331,
     "wof:name":"Danningelanda",
     "wof:parent_id":1159302917,
     "wof:placetype":"localadmin",

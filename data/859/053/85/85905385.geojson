@@ -10,8 +10,10 @@
     "geom:latitude":59.287755,
     "geom:longitude":18.290994,
     "iso:country":"SE",
+    "lbl:bbox":"18.285994,59.282755,18.295994,59.292755",
     "lbl:latitude":59.287755,
     "lbl:longitude":18.290994,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.289032,
     "mps:longitude":18.29186,
     "mz:hierarchy_label":0,
@@ -45,9 +47,6 @@
     "name:swe_x_variant":[
         "Saltsj\u00f6banan"
     ],
-    "name:unk_x_variant":[
-        "Neglinge"
-    ],
     "qs:gn_adm0_cc":"SE",
     "qs:gn_id":0,
     "qs:gn_local":2680460,
@@ -76,7 +75,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         1125381943,
@@ -106,7 +105,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1536864515,
+    "wof:lastmodified":1566640618,
     "wof:name":"Neglinge",
     "wof:parent_id":101754075,
     "wof:placetype":"neighbourhood",

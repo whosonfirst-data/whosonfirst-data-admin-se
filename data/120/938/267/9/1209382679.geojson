@@ -24,8 +24,12 @@
     "gn:population":255,
     "gn:timezone":"Europe/Stockholm",
     "iso:country":"SE",
+    "lbl:bbox":"18.94667,63.46333,18.98667,63.50333",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "Gide\u00e5"
     ],
@@ -47,9 +51,6 @@
     "name:swe_x_preferred":[
         "Gide\u00e5"
     ],
-    "name:und_x_variant":[
-        "Gide\u00e5"
-    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -69,7 +70,7 @@
         }
     ],
     "wof:id":1209382679,
-    "wof:lastmodified":1564163470,
+    "wof:lastmodified":1566641303,
     "wof:name":"Gidea",
     "wof:parent_id":85633789,
     "wof:placetype":"locality",

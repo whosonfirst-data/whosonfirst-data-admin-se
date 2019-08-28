@@ -14,6 +14,7 @@
     "iso:country":"SE",
     "lbl:latitude":59.411765,
     "lbl:longitude":18.125467,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.412798,
     "mps:longitude":18.129735,
     "mz:hierarchy_label":1,
@@ -40,9 +41,6 @@
     ],
     "name:swe_x_variant":[
         "Sk\u00e4rg\u00e5rdsslaget vid Sand\u00f6str\u00f6m"
-    ],
-    "name:unk_x_variant":[
-        "Tallholmen"
     ],
     "qs:gn_adm0_cc":"SE",
     "qs:gn_fcode":"PPL",
@@ -71,7 +69,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         1125283877,
@@ -83,7 +81,6 @@
     "wof:concordances":{
         "gn:id":2726767,
         "gp:id":20151754,
-        "qs:id":1190461,
         "qs_pg:id":1190461
     },
     "wof:country":"SE",
@@ -103,7 +100,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1536864515,
+    "wof:lastmodified":1566640631,
     "wof:name":"Tallholmen",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

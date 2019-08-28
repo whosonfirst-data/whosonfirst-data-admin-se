@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":59.404627,
     "lbl:longitude":18.333544,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":59.404627,
     "mps:longitude":18.333544,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0412\u0430\u043a\u0441\u0445\u043e\u043b\u043c"
     ],
@@ -137,7 +140,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0430\u043a\u0441\u0433\u043e\u043b\u044c\u043c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Waxholm"
     ],
     "name:vol_x_preferred":[
@@ -165,7 +168,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":276,
     "wof:belongsto":[
@@ -180,7 +183,6 @@
         "fct:id":"06d0334e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2663540,
         "gp:id":909710,
-        "qs:id":1169486,
         "qs_pg:id":1169486,
         "wd:id":"Q1001109",
         "wk:page":"Vaxholm"
@@ -201,7 +203,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368839,
+    "wof:lastmodified":1566642218,
     "wof:name":"Vaxholm",
     "wof:parent_id":1125283877,
     "wof:placetype":"locality",

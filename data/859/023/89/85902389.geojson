@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":20603033.562266,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.998099,58.535183,14.998099,58.535183",
     "geom:latitude":58.535183,
     "geom:longitude":14.998099,
     "gn:latitude":58.53301,
     "gn:longitude":14.9914,
     "iso:country":"SE",
+    "lbl:bbox":"14.993099,58.530183,15.003099,58.540183",
     "lbl:latitude":58.535183,
     "lbl:longitude":14.998099,
+    "lbl:max_zoom":18.0,
     "mps:latitude":58.536737,
     "mps:longitude":15.001027,
     "mz:hierarchy_label":0,
@@ -30,9 +32,6 @@
         "Rassnas"
     ],
     "name:swe_x_preferred":[
-        "R\u00e5ssn\u00e4s"
-    ],
-    "name:unk_x_variant":[
         "R\u00e5ssn\u00e4s"
     ],
     "qs:gn_adm0_cc":"SE",
@@ -64,20 +63,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85688409,
         102191581,
         1125287893,
         85633789,
         101816965,
-        1159303391
+        1159303391,
+        85688409
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2683065,
         "gp:id":902246,
-        "qs:id":1037403,
         "qs_pg:id":1037403
     },
     "wof:country":"SE",
@@ -97,7 +95,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1531935885,
+    "wof:lastmodified":1566640584,
     "wof:name":"R\u00e5ssn\u00e4s",
     "wof:parent_id":101816965,
     "wof:placetype":"neighbourhood",

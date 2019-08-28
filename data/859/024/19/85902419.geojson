@@ -12,8 +12,10 @@
     "gn:latitude":56.16667,
     "gn:longitude":15.56667,
     "iso:country":"SE",
+    "lbl:bbox":"15.580791,56.157705,15.590791,56.167705",
     "lbl:latitude":56.162705,
     "lbl:longitude":15.585791,
+    "lbl:max_zoom":18.0,
     "mps:latitude":56.156133,
     "mps:longitude":15.596451,
     "mz:hierarchy_label":0,
@@ -50,9 +52,6 @@
     "name:swe_x_preferred":[
         "Salt\u00f6"
     ],
-    "name:unk_x_variant":[
-        "Salt\u00f6"
-    ],
     "qs:gn_adm0_cc":"SE",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":2701713,
@@ -82,7 +81,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":83,
     "wof:belongsto":[
         102191581,
@@ -96,7 +95,6 @@
     "wof:concordances":{
         "gn:id":2680467,
         "gp:id":903256,
-        "qs:id":1291468,
         "qs_pg:id":1291468,
         "wd:id":"Q7406259"
     },
@@ -117,7 +115,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563366500,
+    "wof:lastmodified":1566640576,
     "wof:name":"Salt\u00f6",
     "wof:parent_id":101816657,
     "wof:placetype":"neighbourhood",

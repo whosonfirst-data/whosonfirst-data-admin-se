@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":58.261144,
     "lbl:longitude":12.961601,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":58.261144,
     "mps:longitude":12.961601,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Vara"
     ],
@@ -74,7 +77,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0430\u0440\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Wara"
     ],
     "qs:a0":"Sverige",
@@ -93,7 +96,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688411,
@@ -107,7 +110,6 @@
         "fct:id":"06d18afa-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2665018,
         "gp:id":909048,
-        "qs:id":229201,
         "qs_pg:id":229201
     },
     "wof:country":"SE",
@@ -126,7 +128,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1564164696,
+    "wof:lastmodified":1566642160,
     "wof:name":"Vara",
     "wof:parent_id":1125394783,
     "wof:placetype":"locality",

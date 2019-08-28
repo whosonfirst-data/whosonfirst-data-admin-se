@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022858,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":156666913.525215,
     "geom:bbox":"14.0669902686,56.2633523648,14.3139949307,56.4541156914",
     "geom:latitude":56.337958,
     "geom:longitude":14.187893,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":2326,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":2326,
     "iso:country":"SE",
     "lbl:latitude":56.333159,
     "lbl:longitude":14.169296,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":56.333159,
     "mps:longitude":14.169296,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Glimakra"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125382295,
-    "wof:lastmodified":1529702619,
+    "wof:lastmodified":1566642896,
     "wof:name":"Glimakra",
     "wof:parent_id":1159303141,
     "wof:placetype":"localadmin",

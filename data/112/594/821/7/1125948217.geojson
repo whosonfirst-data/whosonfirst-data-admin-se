@@ -9,14 +9,18 @@
     "geom:bbox":"15.2,57.9,15.2,57.9",
     "geom:latitude":57.9,
     "geom:longitude":15.2,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"SE",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"SE",
+    "lbl:bbox":"15.18,57.88,15.22,57.92",
     "lbl:latitude":57.9,
     "lbl:longitude":15.2,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:dan_x_preferred":[
         "Asby"
@@ -45,7 +49,7 @@
     "name:swe_x_preferred":[
         "Asby"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Asbysand"
     ],
     "qs_pg:aaroncc":"SE",
@@ -67,7 +71,7 @@
     "qs_pg:woe_adm0":23424954,
     "qs_pg:woe_id":885203,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424954,
     "woe:name_adm0":"Sverige",
     "woe:name_adm1":"\u00d6sterg\u00f6tlands L\u00e4n",
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":1125948217,
-    "wof:lastmodified":1561839994,
+    "wof:lastmodified":1566642363,
     "wof:name":"Asby",
     "wof:parent_id":1159307445,
     "wof:placetype":"locality",

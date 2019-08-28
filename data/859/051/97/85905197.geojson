@@ -12,6 +12,7 @@
     "iso:country":"SE",
     "lbl:latitude":59.170269,
     "lbl:longitude":18.063812,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.173296,
     "mps:longitude":18.065777,
     "mz:hierarchy_label":1,
@@ -66,9 +67,6 @@
     "name:ukr_x_preferred":[
         "\u0413\u0440\u0435\u043d\u0431\u0456"
     ],
-    "name:unk_x_variant":[
-        "Granby"
-    ],
     "name:vol_x_preferred":[
         "Granby"
     ],
@@ -99,7 +97,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         1125326009,
@@ -128,7 +126,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1564162480,
+    "wof:lastmodified":1566640663,
     "wof:name":"Granby",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

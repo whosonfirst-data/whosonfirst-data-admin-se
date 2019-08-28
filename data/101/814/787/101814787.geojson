@@ -12,10 +12,13 @@
     "iso:country":"SE",
     "lbl:latitude":62.426629,
     "lbl:longitude":17.415297,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":62.426629,
     "mps:longitude":17.415297,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0412\u0438"
     ],
@@ -58,7 +61,7 @@
         "Vi Aln\u00f6",
         "Vis"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Viforsen"
     ],
     "name:zho_min_nan_x_preferred":[
@@ -80,7 +83,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":47,
     "wof:belongsto":[
         85688457,
@@ -94,10 +97,12 @@
         "fct:id":"06d3b866-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2663161,
         "gp:id":55949522,
-        "qs:id":1025556,
         "qs_pg:id":1009506,
         "wd:id":"Q1193840",
         "wk:page":"Vi, Sweden"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1025556
     },
     "wof:country":"SE",
     "wof:geomhash":"5d36a78aa055c1075764cdf9188c9dee",
@@ -115,7 +120,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1561839989,
+    "wof:lastmodified":1566642251,
     "wof:name":"Vi",
     "wof:parent_id":1125363709,
     "wof:placetype":"locality",

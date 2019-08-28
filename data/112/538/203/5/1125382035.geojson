@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032084,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":215408087.487682,
     "geom:bbox":"15.0637062801,57.0122796718,15.4227243873,57.2385580894",
     "geom:latitude":57.114148,
     "geom:longitude":15.217374,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":1811,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":1811,
     "iso:country":"SE",
     "lbl:latitude":57.100422,
     "lbl:longitude":15.214654,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":57.100422,
     "mps:longitude":15.214654,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Notteback"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125382035,
-    "wof:lastmodified":1529702412,
+    "wof:lastmodified":1566642906,
     "wof:name":"Notteback",
     "wof:parent_id":1159303333,
     "wof:placetype":"localadmin",

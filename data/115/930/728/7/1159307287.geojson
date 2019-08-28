@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000874,
+    "geom:area_square_m":6136232.383055,
     "geom:bbox":"13.0898224208,55.3796161361,13.1522517448,55.4073309221",
     "geom:latitude":55.395111,
     "geom:longitude":13.114963,
     "iso:country":"SE",
     "lbl:latitude":55.393937,
     "lbl:longitude":13.107607,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.393937,
     "mps:longitude":13.107607,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Vastra Tommarp"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159307287,
-    "wof:lastmodified":1529702624,
+    "wof:lastmodified":1566643366,
     "wof:name":"Vastra Tommarp",
     "wof:parent_id":1159303309,
     "wof:placetype":"localadmin",

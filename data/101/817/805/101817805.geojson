@@ -12,10 +12,13 @@
     "iso:country":"SE",
     "lbl:latitude":56.000202,
     "lbl:longitude":12.96472,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":56.000202,
     "mps:longitude":12.96472,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ekeby"
     ],
@@ -77,7 +80,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":107,
     "wof:belongsto":[
         85688377,
@@ -91,9 +94,11 @@
         "fct:id":"06d2e36e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2716662,
         "gp:id":888791,
-        "qs:id":253573,
-        "qs_pg:id":983841,
+        "qs_pg:id":253573,
         "wd:id":"Q83647"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":983841
     },
     "wof:country":"SE",
     "wof:geomhash":"2be3c097485b919f81214ff1faca8367",
@@ -111,7 +116,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368764,
+    "wof:lastmodified":1566642193,
     "wof:name":"Ekeby",
     "wof:parent_id":1125382307,
     "wof:placetype":"locality",

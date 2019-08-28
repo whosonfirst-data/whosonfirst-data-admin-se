@@ -9,17 +9,19 @@
     "geom:bbox":"17.7970690302,60.1712208041,18.019422625,60.3297958688",
     "geom:latitude":60.25168,
     "geom:longitude":17.911399,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":2698,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":2698,
     "iso:country":"SE",
     "lbl:latitude":60.249453,
     "lbl:longitude":17.911404,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":60.249453,
     "mps:longitude":17.911404,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Rolprent"
@@ -477,7 +479,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -503,7 +505,7 @@
         }
     ],
     "wof:id":1125356019,
-    "wof:lastmodified":1564164961,
+    "wof:lastmodified":1566642470,
     "wof:name":"Film",
     "wof:parent_id":1159303415,
     "wof:placetype":"localadmin",

@@ -9,17 +9,19 @@
     "geom:bbox":"16.313793672,56.6823764975,16.4319330023,56.7031173952",
     "geom:latitude":56.692741,
     "geom:longitude":16.36545,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":8221,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":8221,
     "iso:country":"SE",
     "lbl:latitude":56.691031,
     "lbl:longitude":16.346663,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":56.691031,
     "mps:longitude":16.346663,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Kalmar Sankta Birgitta"
@@ -48,7 +50,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":1125359797,
-    "wof:lastmodified":1554166209,
+    "wof:lastmodified":1566642451,
     "wof:name":"Kalmar Sankta Birgitta",
     "wof:parent_id":1159303065,
     "wof:placetype":"localadmin",

@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.053925,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":328675971.444171,
     "geom:bbox":"16.243773247,60.3554952975,16.6691493015,60.5942900003",
     "geom:latitude":60.467006,
     "geom:longitude":16.470936,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":2733,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":2733,
     "iso:country":"SE",
     "lbl:latitude":60.467527,
     "lbl:longitude":16.470903,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":60.467527,
     "mps:longitude":16.470903,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Torsaker"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125373123,
-    "wof:lastmodified":1529701988,
+    "wof:lastmodified":1566642799,
     "wof:name":"Torsaker",
     "wof:parent_id":1159303297,
     "wof:placetype":"localadmin",

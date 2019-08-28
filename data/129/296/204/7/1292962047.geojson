@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Stockholm",
     "iso:country":"SE",
+    "lbl:bbox":"11.91333,58.86333,11.95333,58.90333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Skotterud"
     ],
@@ -57,9 +61,6 @@
     "name:swe_x_preferred":[
         "Skotterud"
     ],
-    "name:und_x_variant":[
-        "Sk\u00f6tterud"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85688411,
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1292962047,
-    "wof:lastmodified":1564162827,
+    "wof:lastmodified":1566640897,
     "wof:name":"Skotterud",
     "wof:parent_id":1125270955,
     "wof:placetype":"locality",

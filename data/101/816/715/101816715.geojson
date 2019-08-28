@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":56.754767,
     "lbl:longitude":15.271983,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":56.754767,
     "mps:longitude":15.271983,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041b\u0435\u0441\u0435\u0431\u0443"
     ],
@@ -99,7 +102,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":116,
     "wof:belongsto":[
@@ -114,7 +117,6 @@
         "fct:id":"06d1774a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2696473,
         "gp:id":896962,
-        "qs:id":229187,
         "qs_pg:id":229187,
         "wd:id":"Q1820923",
         "wk:page":"Lessebo"
@@ -135,7 +137,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368664,
+    "wof:lastmodified":1566642156,
     "wof:name":"Lessebo",
     "wof:parent_id":1125356439,
     "wof:placetype":"locality",

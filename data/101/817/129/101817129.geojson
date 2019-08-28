@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":57.722534,
     "lbl:longitude":13.101217,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":57.722534,
     "mps:longitude":13.101217,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bar_x_preferred":[
         "Dalsj\u00f6fors"
     ],
@@ -85,7 +88,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":47,
     "wof:belongsto":[
@@ -100,7 +103,6 @@
         "fct:id":"06d2ecf6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2718144,
         "gp:id":888217,
-        "qs:id":271910,
         "qs_pg:id":271910,
         "wd:id":"Q1158083",
         "wk:page":"Dalsj\u00f6fors"
@@ -121,7 +123,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368766,
+    "wof:lastmodified":1566642194,
     "wof:name":"Dalsj\u00f6fors",
     "wof:parent_id":1125417561,
     "wof:placetype":"locality",

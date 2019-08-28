@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012251,
+    "geom:area_square_m":83774319.132342,
     "geom:bbox":"13.6963512095,56.3820262069,14.0175158828,56.4703478978",
     "geom:latitude":56.426112,
     "geom:longitude":13.846012,
     "iso:country":"SE",
     "lbl:latitude":56.412827,
     "lbl:longitude":13.816845,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":56.412827,
     "mps:longitude":13.816845,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Visseltofta"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159307521,
-    "wof:lastmodified":1529702525,
+    "wof:lastmodified":1566643140,
     "wof:name":"Visseltofta",
     "wof:parent_id":1159303165,
     "wof:placetype":"localadmin",

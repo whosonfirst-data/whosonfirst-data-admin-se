@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":15830499.93951,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.461063,60.472427,15.461063,60.472427",
     "geom:latitude":60.472427,
     "geom:longitude":15.461063,
     "gn:latitude":60.48333,
     "gn:longitude":15.46667,
     "iso:country":"SE",
+    "lbl:bbox":"15.456063,60.467427,15.466063,60.477427",
     "lbl:latitude":60.472427,
     "lbl:longitude":15.461063,
+    "lbl:max_zoom":18.0,
     "mps:latitude":60.467369,
     "mps:longitude":15.450602,
     "mz:hierarchy_label":0,
@@ -36,10 +38,6 @@
     ],
     "name:swe_x_variant":[
         "K\u00e4larfvet"
-    ],
-    "name:unk_x_variant":[
-        "K\u00e4larfvet",
-        "K\u00e4larvet"
     ],
     "qs:gn_adm0_cc":"SE",
     "qs:gn_fcode":"PPLX",
@@ -70,20 +68,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85688447,
         102191581,
         1125277915,
         85633789,
         101816099,
-        1159302993
+        1159302993,
+        85688447
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2702617,
         "gp:id":894568,
-        "qs:id":315456,
         "qs_pg:id":315456
     },
     "wof:country":"SE",
@@ -103,7 +100,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1531935868,
+    "wof:lastmodified":1566640596,
     "wof:name":"K\u00e4larvet",
     "wof:parent_id":101816099,
     "wof:placetype":"neighbourhood",

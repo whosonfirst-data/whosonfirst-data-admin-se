@@ -9,17 +9,19 @@
     "geom:bbox":"12.4533595351,56.945353728,12.6592019291,57.0414477297",
     "geom:latitude":56.993385,
     "geom:longitude":12.567202,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":1066,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":1066,
     "iso:country":"SE",
     "lbl:latitude":56.990583,
     "lbl:longitude":12.565657,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":56.990583,
     "mps:longitude":12.565657,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u042e\u043d\u0433\u0431\u044e"
@@ -120,7 +122,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -146,7 +148,7 @@
         }
     ],
     "wof:id":1125325495,
-    "wof:lastmodified":1564165024,
+    "wof:lastmodified":1566642534,
     "wof:name":"Ljungby",
     "wof:parent_id":1159303247,
     "wof:placetype":"localadmin",

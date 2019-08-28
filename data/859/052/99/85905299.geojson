@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000859,
-    "geom:area_square_m":5430192.202252,
+    "geom:area_square_m":5430192.20225,
     "geom:bbox":"17.9214477539,59.2404369047,17.9587336242,59.2768571277",
     "geom:latitude":59.255853,
     "geom:longitude":17.9414,
@@ -13,6 +13,7 @@
     "iso:country":"SE",
     "lbl:latitude":59.268746,
     "lbl:longitude":17.956672,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.256028,
     "mps:longitude":17.941395,
     "mz:hierarchy_label":1,
@@ -26,9 +27,6 @@
     "mz:tier_locality":5,
     "mz:tier_metro":1,
     "name:swe_x_preferred":[
-        "Krakvik"
-    ],
-    "name:unk_x_variant":[
         "Krakvik"
     ],
     "qs:gn_adm0_cc":"SE",
@@ -56,19 +54,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85688429,
         102191581,
         1125362217,
         85633789,
         101752307,
-        1159303035
+        1159303035,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20151237,
-        "qs:id":1310016,
         "qs_pg:id":1310016
     },
     "wof:country":"SE",
@@ -88,7 +85,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702811,
+    "wof:lastmodified":1566640625,
     "wof:name":"Krakvik",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

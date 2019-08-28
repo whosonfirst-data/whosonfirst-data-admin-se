@@ -14,6 +14,7 @@
     "iso:country":"SE",
     "lbl:latitude":59.262265,
     "lbl:longitude":18.051566,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.260312,
     "mps:longitude":18.050138,
     "mz:hierarchy_label":1,
@@ -54,9 +55,6 @@
     "name:swe_x_variant":[
         "H\u00f6gdale"
     ],
-    "name:unk_x_variant":[
-        "H\u00f6gdalen"
-    ],
     "name:zho_x_preferred":[
         "\u8d6b\u683c\u9054\u502b"
     ],
@@ -87,7 +85,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":205,
     "wof:belongsto":[
         102191581,
@@ -101,7 +99,6 @@
     "wof:concordances":{
         "gn:id":2705904,
         "gp:id":893197,
-        "qs:id":1169208,
         "qs_pg:id":1169208,
         "wd:id":"Q1783543"
     },
@@ -122,7 +119,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563366598,
+    "wof:lastmodified":1566640649,
     "wof:name":"H\u00f6gdalen",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

@@ -9,15 +9,18 @@
     "geom:bbox":"17.4,60.53333,17.4,60.53333",
     "geom:latitude":60.53333,
     "geom:longitude":17.4,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":214,
+    "gn:country":"SE",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"SE",
+    "lbl:bbox":"17.38,60.51333,17.42,60.55333",
     "lbl:latitude":60.53333,
     "lbl:longitude":17.4,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:dan_x_preferred":[
         "\u00c4lvkarle\u00f6"
@@ -52,7 +55,7 @@
     "name:swe_x_preferred":[
         "\u00c4lvkarle\u00f6"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Elfkarle\u00f6"
     ],
     "qs_pg:aaroncc":"SE",
@@ -74,7 +77,7 @@
     "qs_pg:woe_adm0":23424954,
     "qs_pg:woe_id":884661,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424954,
     "woe:name_adm0":"Sverige",
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":1126014377,
-    "wof:lastmodified":1561840053,
+    "wof:lastmodified":1566642998,
     "wof:name":"\u00c4lvkarle\u00f6",
     "wof:parent_id":1125356219,
     "wof:placetype":"locality",

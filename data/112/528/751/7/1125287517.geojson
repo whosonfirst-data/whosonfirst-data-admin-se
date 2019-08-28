@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.137412,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":786094848.752983,
     "geom:bbox":"14.1612826868,62.2808009569,14.8504223784,62.609707544",
     "geom:latitude":62.441936,
     "geom:longitude":14.531863,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":690,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":690,
     "iso:country":"SE",
     "lbl:latitude":62.444385,
     "lbl:longitude":14.559637,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":62.444385,
     "mps:longitude":14.559637,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Ratan"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125287517,
-    "wof:lastmodified":1529702373,
+    "wof:lastmodified":1566642626,
     "wof:name":"Ratan",
     "wof:parent_id":1159303129,
     "wof:placetype":"localadmin",

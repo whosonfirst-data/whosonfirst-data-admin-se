@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013888,
+    "geom:area_square_m":91507173.075375,
     "geom:bbox":"14.4954279591,57.7341177947,14.6535567515,57.8734252481",
     "geom:latitude":57.800914,
     "geom:longitude":14.566306,
     "iso:country":"SE",
     "lbl:latitude":57.799603,
     "lbl:longitude":14.566278,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":57.799603,
     "mps:longitude":14.566278,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Jarsnas"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159307107,
-    "wof:lastmodified":1529702414,
+    "wof:lastmodified":1566643367,
     "wof:name":"Jarsnas",
     "wof:parent_id":1159303375,
     "wof:placetype":"localadmin",

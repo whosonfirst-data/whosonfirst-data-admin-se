@@ -13,6 +13,7 @@
     "iso:country":"SE",
     "lbl:latitude":59.188944,
     "lbl:longitude":17.994919,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.185952,
     "mps:longitude":17.995795,
     "mz:hierarchy_label":1,
@@ -39,9 +40,6 @@
     ],
     "name:swe_x_variant":[
         "Glad\u00f6 kvarn"
-    ],
-    "name:unk_x_variant":[
-        "Glado industriom"
     ],
     "name:zho_min_nan_x_preferred":[
         "Glad\u00f6 kvarn"
@@ -71,7 +69,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         1125326009,
@@ -82,7 +80,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20151025,
-        "qs:id":1099510,
         "qs_pg:id":1099510
     },
     "wof:country":"SE",
@@ -102,7 +99,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1536864514,
+    "wof:lastmodified":1566640657,
     "wof:name":"Glado",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

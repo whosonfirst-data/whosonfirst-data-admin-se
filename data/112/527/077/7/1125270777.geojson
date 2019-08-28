@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018615,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":126643535.511673,
     "geom:bbox":"14.8157073507,56.5378809989,15.0613465705,56.6895875325",
     "geom:latitude":56.618524,
     "geom:longitude":14.944014,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":1593,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":1593,
     "iso:country":"SE",
     "lbl:latitude":56.62737,
     "lbl:longitude":14.945829,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":56.62737,
     "mps:longitude":14.945829,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Vackelsang"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125270777,
-    "wof:lastmodified":1529702521,
+    "wof:lastmodified":1566642693,
     "wof:name":"Vackelsang",
     "wof:parent_id":1159303325,
     "wof:placetype":"localadmin",

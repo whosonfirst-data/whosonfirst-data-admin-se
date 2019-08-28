@@ -12,8 +12,10 @@
     "gn:latitude":55.58333,
     "gn:longitude":13.0,
     "iso:country":"SE",
+    "lbl:bbox":"13.002886,55.581649,13.012886,55.591649",
     "lbl:latitude":55.586649,
     "lbl:longitude":13.007886,
+    "lbl:max_zoom":18.0,
     "mps:latitude":55.57264,
     "mps:longitude":13.001473,
     "mz:hierarchy_label":0,
@@ -37,9 +39,6 @@
         "Soedervaern"
     ],
     "name:swe_x_preferred":[
-        "S\u00f6derv\u00e4rn"
-    ],
-    "name:unk_x_variant":[
         "S\u00f6derv\u00e4rn"
     ],
     "qs:gn_adm0_cc":"SE",
@@ -71,7 +70,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:latitude":55.586944,
     "wd:longitude":13.008056,
     "wd:wordcount":31,
@@ -87,7 +86,6 @@
     "wof:concordances":{
         "gn:id":2676164,
         "gp:id":905003,
-        "qs:id":1037552,
         "qs_pg:id":1037552,
         "wd:id":"Q7666357",
         "wk:page":"S\u00f6derv\u00e4rn"
@@ -109,7 +107,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1561839930,
+    "wof:lastmodified":1566640580,
     "wof:name":"S\u00f6derv\u00e4rn",
     "wof:parent_id":101752283,
     "wof:placetype":"neighbourhood",

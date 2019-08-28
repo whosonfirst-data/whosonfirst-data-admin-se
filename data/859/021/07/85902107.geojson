@@ -14,6 +14,7 @@
     "iso:country":"SE",
     "lbl:latitude":59.248546,
     "lbl:longitude":18.085947,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.244117,
     "mps:longitude":18.098442,
     "mz:hierarchy_label":1,
@@ -86,9 +87,6 @@
     "name:tur_x_preferred":[
         "Farsta"
     ],
-    "name:unk_x_variant":[
-        "Farsta"
-    ],
     "name:zho_x_preferred":[
         "\u6cd5\u65af\u5854"
     ],
@@ -119,7 +117,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":76,
     "wof:belongsto":[
         102191581,
@@ -133,7 +131,6 @@
     "wof:concordances":{
         "gn:id":2715264,
         "gp:id":889359,
-        "qs:id":241113,
         "qs_pg:id":241113,
         "wd:id":"Q153305",
         "wk:page":"Farsta"
@@ -155,7 +152,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563366599,
+    "wof:lastmodified":1566640650,
     "wof:name":"Farsta",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

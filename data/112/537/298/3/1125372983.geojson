@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018006,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":115397012.588943,
     "geom:bbox":"12.1892450494,58.7071128804,12.3918038108,58.8541072527",
     "geom:latitude":58.781173,
     "geom:longitude":12.29522,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":398,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":398,
     "iso:country":"SE",
     "lbl:latitude":58.786419,
     "lbl:longitude":12.307311,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":58.786419,
     "mps:longitude":12.307311,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Dalskog"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125372983,
-    "wof:lastmodified":1529702173,
+    "wof:lastmodified":1566642817,
     "wof:name":"Dalskog",
     "wof:parent_id":1159303445,
     "wof:placetype":"localadmin",

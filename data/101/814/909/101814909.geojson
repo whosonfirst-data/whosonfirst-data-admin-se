@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":65.308714,
     "lbl:longitude":21.388369,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":65.308714,
     "mps:longitude":21.388369,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0411\u0435\u0440\u0438\u0441\u0432\u0438\u043a\u0435\u043d"
     ],
@@ -75,7 +78,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":45,
     "wof:belongsto":[
@@ -90,7 +93,6 @@
         "fct:id":"06d48278-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":606638,
         "gp:id":886247,
-        "qs:id":1290901,
         "qs_pg:id":1290901,
         "wd:id":"Q820330",
         "wk:page":"Bergsviken"
@@ -111,7 +113,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368897,
+    "wof:lastmodified":1566642240,
     "wof:name":"Bergsviken",
     "wof:parent_id":1125300099,
     "wof:placetype":"locality",

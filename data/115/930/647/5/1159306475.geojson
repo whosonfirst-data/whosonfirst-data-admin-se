@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004809,
+    "geom:area_square_m":33454952.617026,
     "geom:bbox":"13.2764874311,55.7384090433,13.4967634382,55.7954329457",
     "geom:latitude":55.763875,
     "geom:longitude":13.370417,
     "iso:country":"SE",
     "lbl:latitude":55.760384,
     "lbl:longitude":13.38212,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.760384,
     "mps:longitude":13.38212,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Gardstanga-Holmby"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159306475,
-    "wof:lastmodified":1529702606,
+    "wof:lastmodified":1566643306,
     "wof:name":"Gardstanga-Holmby",
     "wof:parent_id":1159303151,
     "wof:placetype":"localadmin",

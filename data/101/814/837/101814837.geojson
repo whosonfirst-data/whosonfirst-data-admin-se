@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":64.589602,
     "lbl:longitude":18.686368,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":64.589602,
     "mps:longitude":18.686368,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041b\u044e\u043a\u0441\u0435\u043b\u0435"
     ],
@@ -125,7 +128,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0438\u043a\u0441\u0435\u043b\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lyoksele"
     ],
     "name:vol_x_preferred":[
@@ -153,7 +156,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":200,
     "wof:belongsto":[
@@ -168,7 +171,6 @@
         "fct:id":"06d45d20-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2693347,
         "gp:id":897946,
-        "qs:id":874551,
         "qs_pg:id":874551,
         "wd:id":"Q983893",
         "wk:page":"Lycksele"
@@ -189,7 +191,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368927,
+    "wof:lastmodified":1566642249,
     "wof:name":"Lycksele",
     "wof:parent_id":1125382283,
     "wof:placetype":"locality",

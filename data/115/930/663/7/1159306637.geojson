@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007464,
+    "geom:area_square_m":49961851.156233,
     "geom:bbox":"15.0009548506,57.1746061512,15.1565625992,57.2801886943",
     "geom:latitude":57.225396,
     "geom:longitude":15.079205,
     "iso:country":"SE",
     "lbl:latitude":57.221085,
     "lbl:longitude":15.079217,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":57.221085,
     "mps:longitude":15.079217,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sodra Solberga"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159306637,
-    "wof:lastmodified":1529702411,
+    "wof:lastmodified":1566643326,
     "wof:name":"Sodra Solberga",
     "wof:parent_id":1159303157,
     "wof:placetype":"localadmin",

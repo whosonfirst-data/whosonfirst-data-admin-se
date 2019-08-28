@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004303,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":28129488.843694,
     "geom:bbox":"13.135435497,58.0308549205,13.21934683,58.1293643755",
     "geom:latitude":58.081745,
     "geom:longitude":13.178927,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":174,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":174,
     "iso:country":"SE",
     "lbl:latitude":58.084187,
     "lbl:longitude":13.181762,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mps:latitude":58.084187,
     "mps:longitude":13.181762,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Kallunga"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125384333,
-    "wof:lastmodified":1529702112,
+    "wof:lastmodified":1566642925,
     "wof:name":"Kallunga",
     "wof:parent_id":1159303171,
     "wof:placetype":"localadmin",

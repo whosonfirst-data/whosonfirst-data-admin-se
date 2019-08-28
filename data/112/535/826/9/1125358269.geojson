@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002429,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":16731790.470772,
     "geom:bbox":"12.9089990279,56.1137312829,12.9957110245,56.1742447315",
     "geom:latitude":56.138708,
     "geom:longitude":12.956712,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":11952,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":11952,
     "iso:country":"SE",
     "lbl:latitude":56.137889,
     "lbl:longitude":12.960894,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":56.137889,
     "mps:longitude":12.960894,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Bjornekulla"
@@ -48,7 +50,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":1125358269,
-    "wof:lastmodified":1529702643,
+    "wof:lastmodified":1566642441,
     "wof:name":"Bjornekulla",
     "wof:parent_id":1159303163,
     "wof:placetype":"localadmin",

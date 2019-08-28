@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012828,
+    "geom:area_square_m":83472934.710905,
     "geom:bbox":"14.1446059043,58.1901010509,14.34876397,58.2917209604",
     "geom:latitude":58.249275,
     "geom:longitude":14.243008,
     "iso:country":"SE",
     "lbl:latitude":58.246732,
     "lbl:longitude":14.244974,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":58.246732,
     "mps:longitude":14.244974,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Norra Fagelas"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159306055,
-    "wof:lastmodified":1529702127,
+    "wof:lastmodified":1566643204,
     "wof:name":"Norra Fagelas",
     "wof:parent_id":1159303153,
     "wof:placetype":"localadmin",

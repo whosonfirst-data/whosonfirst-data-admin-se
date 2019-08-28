@@ -9,17 +9,19 @@
     "geom:bbox":"15.6937772441,56.5852488254,15.9395196548,56.6690266263",
     "geom:latitude":56.627442,
     "geom:longitude":15.82544,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":329,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":329,
     "iso:country":"SE",
     "lbl:latitude":56.624413,
     "lbl:longitude":15.847751,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":56.624413,
     "mps:longitude":15.847751,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Oskar"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125327763,
-    "wof:lastmodified":1554166204,
+    "wof:lastmodified":1566642505,
     "wof:name":"Oskar",
     "wof:parent_id":1159302907,
     "wof:placetype":"localadmin",

@@ -12,10 +12,13 @@
     "iso:country":"SE",
     "lbl:latitude":59.454839,
     "lbl:longitude":16.462323,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":59.454839,
     "mps:longitude":16.462323,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Torsh\u00e4lla Huvud"
     ],
@@ -74,7 +77,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":46,
     "wof:belongsto":[
         85688419,
@@ -86,7 +89,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20150688,
-        "qs:id":1154186,
         "qs_pg:id":1154186,
         "wd:id":"Q2120039"
     },
@@ -103,7 +105,7 @@
         }
     ],
     "wof:id":101911325,
-    "wof:lastmodified":1563368947,
+    "wof:lastmodified":1566642256,
     "wof:name":"Torsh\u00e4lla huvud",
     "wof:parent_id":1125288017,
     "wof:placetype":"locality",

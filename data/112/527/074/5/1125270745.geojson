@@ -9,17 +9,19 @@
     "geom:bbox":"15.065322302,56.6939592277,15.2597726052,56.8356308733",
     "geom:latitude":56.765961,
     "geom:longitude":15.164451,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":3237,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":3237,
     "iso:country":"SE",
     "lbl:latitude":56.764031,
     "lbl:longitude":15.162617,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":56.764031,
     "mps:longitude":15.162617,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0425\u043e\u0432\u043c\u0430\u043d\u0442\u043e\u0440\u043f"
@@ -75,7 +77,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -101,7 +103,7 @@
         }
     ],
     "wof:id":1125270745,
-    "wof:lastmodified":1564165142,
+    "wof:lastmodified":1566642707,
     "wof:name":"Hovmantorp",
     "wof:parent_id":1159303067,
     "wof:placetype":"localadmin",

@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.049968,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":292463057.453918,
     "geom:bbox":"17.1233905778,61.6094925911,17.5446543387,61.8707576696",
     "geom:latitude":61.748983,
     "geom:longitude":17.349139,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":1427,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":1427,
     "iso:country":"SE",
     "lbl:latitude":61.787823,
     "lbl:longitude":17.328413,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":61.787823,
     "mps:longitude":17.328413,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Rogsta"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125362471,
-    "wof:lastmodified":1529702053,
+    "wof:lastmodified":1566642955,
     "wof:name":"Rogsta",
     "wof:parent_id":1159303395,
     "wof:placetype":"localadmin",

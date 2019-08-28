@@ -9,17 +9,19 @@
     "geom:bbox":"18.4064371019,63.7876857583,19.5282206072,64.1408982599",
     "geom:latitude":63.946394,
     "geom:longitude":18.99147,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":2516,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":2516,
     "iso:country":"SE",
     "lbl:latitude":63.967156,
     "lbl:longitude":19.114293,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":63.967156,
     "mps:longitude":19.114293,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0411\u044e\u0440\u0445\u043e\u043b\u043c"
@@ -93,7 +95,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -119,7 +121,7 @@
         }
     ],
     "wof:id":1125270353,
-    "wof:lastmodified":1564165143,
+    "wof:lastmodified":1566642709,
     "wof:name":"Bjurholm",
     "wof:parent_id":1159303261,
     "wof:placetype":"localadmin",

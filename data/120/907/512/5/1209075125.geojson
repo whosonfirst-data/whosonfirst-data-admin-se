@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Stockholm",
     "iso:country":"SE",
+    "lbl:bbox":"17.86333,59.93,17.90333,59.97",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633789
@@ -35,7 +39,7 @@
         "gn:id":2683132
     },
     "wof:country":"SE",
-    "wof:geomhash":"09c91e430cb70dcaeb7b556887306f36",
+    "wof:geomhash":"4e2210c8dc4779f04f21a6cfc5e50c0f",
     "wof:hierarchy":[
         {
             "country_id":85633789,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209075125,
-    "wof:lastmodified":1536298520,
+    "wof:lastmodified":1566641314,
     "wof:name":"Rasbo",
     "wof:parent_id":85633789,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.883329999999994,
+    17.88332999999999,
     59.95,
-    17.883329999999994,
+    17.88332999999999,
     59.95
 ],
   "geometry": {"coordinates":[17.88332999999999,59.95],"type":"Point"}

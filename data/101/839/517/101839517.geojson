@@ -12,10 +12,13 @@
     "iso:country":"SE",
     "lbl:latitude":59.504634,
     "lbl:longitude":17.748024,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":59.504634,
     "mps:longitude":17.748024,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "Brunna"
     ],
@@ -77,7 +80,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":52,
     "wof:belongsto":[
         85688429,
@@ -91,10 +94,12 @@
         "fct:id":"06c721c8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2718975,
         "gp:id":887874,
-        "qs:id":941383,
         "qs_pg:id":575734,
         "wd:id":"Q1987306",
         "wk:page":"Brunna"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":941383
     },
     "wof:country":"SE",
     "wof:geomhash":"b52645da927e109bd22f2e1065b6e595",
@@ -112,7 +117,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368937,
+    "wof:lastmodified":1566642252,
     "wof:name":"Brunna",
     "wof:parent_id":1125287125,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":56.80472,
     "lbl:longitude":12.965144,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":56.80472,
     "mps:longitude":12.965144,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Oskarstr\u00f6m"
     ],
@@ -77,9 +80,6 @@
         "Oskarsstr\u00f6ms",
         "Oskarstr\u00f6ms"
     ],
-    "name:unk_x_variant":[
-        "Oskarsstr\u00f6m"
-    ],
     "name:zho_min_nan_x_preferred":[
         "Oskarstr\u00f6m"
     ],
@@ -99,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":334,
     "wof:belongsto":[
@@ -114,7 +114,6 @@
         "fct:id":"06d2c794-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2686160,
         "gp:id":900925,
-        "qs:id":1169301,
         "qs_pg:id":1169301,
         "wd:id":"Q1019572",
         "wk:page":"Oskarstr\u00f6m"
@@ -135,7 +134,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368616,
+    "wof:lastmodified":1566642140,
     "wof:name":"Oskarstr\u00f6m",
     "wof:parent_id":1125372473,
     "wof:placetype":"locality",

@@ -9,17 +9,19 @@
     "geom:bbox":"12.7968699105,55.8461073382,12.8791296407,55.9127819483",
     "geom:latitude":55.875457,
     "geom:longitude":12.829947,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":655,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":655,
     "iso:country":"SE",
     "lbl:latitude":55.871385,
     "lbl:longitude":12.829218,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":55.871385,
     "mps:longitude":12.829218,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bel_x_preferred":[
         "\u041b\u0430\u043d\u0434\u0441\u043a\u0440\u0443\u043d\u0430"
@@ -174,7 +176,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -200,7 +202,7 @@
         }
     ],
     "wof:id":1125326333,
-    "wof:lastmodified":1564164986,
+    "wof:lastmodified":1566642495,
     "wof:name":"Landskrona",
     "wof:parent_id":1159303531,
     "wof:placetype":"localadmin",

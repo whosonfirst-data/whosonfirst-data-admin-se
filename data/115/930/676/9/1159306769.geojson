@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002995,
+    "geom:area_square_m":20812286.477348,
     "geom:bbox":"13.2800907449,55.7753855571,13.3691714554,55.8474719436",
     "geom:latitude":55.804543,
     "geom:longitude":13.331685,
     "iso:country":"SE",
     "lbl:latitude":55.800917,
     "lbl:longitude":13.331015,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.800917,
     "mps:longitude":13.331015,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Borlunda-Skeglinge"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159306769,
-    "wof:lastmodified":1529702611,
+    "wof:lastmodified":1566643300,
     "wof:name":"Borlunda-Skeglinge",
     "wof:parent_id":1159303151,
     "wof:placetype":"localadmin",

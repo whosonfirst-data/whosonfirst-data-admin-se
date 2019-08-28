@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":59.371742,
     "lbl:longitude":17.020214,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":59.371742,
     "mps:longitude":17.020214,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0633\u062a\u0631\u064a\u0646\u063a\u0646\u0633"
     ],
@@ -167,9 +170,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0442\u0440\u0435\u043d\u0433\u043d\u0435\u0441"
     ],
-    "name:unk_x_variant":[
-        "Str\u00e4ngn\u00e4ss"
-    ],
     "name:vol_x_preferred":[
         "Str\u00e4ngn\u00e4s"
     ],
@@ -192,7 +192,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":387,
     "wof:belongsto":[
@@ -207,7 +207,6 @@
         "fct:id":"06d47e2c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2671392,
         "gp:id":906493,
-        "qs:id":1235826,
         "qs_pg:id":1235826,
         "wd:id":"Q106909",
         "wk:page":"Str\u00e4ngn\u00e4s"
@@ -228,7 +227,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368830,
+    "wof:lastmodified":1566642215,
     "wof:name":"Str\u00e4ngn\u00e4s",
     "wof:parent_id":1125356189,
     "wof:placetype":"locality",

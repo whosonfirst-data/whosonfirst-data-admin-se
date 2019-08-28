@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012914,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":81022349.263207,
     "geom:bbox":"15.7508349435,59.4476285638,15.9398640313,59.5721226356",
     "geom:latitude":59.50998,
     "geom:longitude":15.847292,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":768,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":768,
     "iso:country":"SE",
     "lbl:latitude":59.507484,
     "lbl:longitude":15.84585,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":59.507484,
     "mps:longitude":15.84585,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Himmeta-Bro"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125287061,
-    "wof:lastmodified":1529703027,
+    "wof:lastmodified":1566642592,
     "wof:name":"Himmeta-Bro",
     "wof:parent_id":1159303439,
     "wof:placetype":"localadmin",

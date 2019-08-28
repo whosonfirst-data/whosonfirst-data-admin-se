@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001608,
-    "geom:area_square_m":10083738.356744,
+    "geom:area_square_m":10083738.356745,
     "geom:bbox":"18.2630102539,59.4980907709,18.3315056744,59.5401399793",
     "geom:latitude":59.51562,
     "geom:longitude":18.295142,
@@ -13,6 +13,7 @@
     "iso:country":"SE",
     "lbl:latitude":59.509568,
     "lbl:longitude":18.299073,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.512743,
     "mps:longitude":18.291769,
     "mz:hierarchy_label":1,
@@ -25,9 +26,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":5,
     "name:swe_x_preferred":[
-        "Osteraker"
-    ],
-    "name:unk_x_variant":[
         "Osteraker"
     ],
     "qs:gn_adm0_cc":"SE",
@@ -55,7 +53,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":18,
     "wof:belongsto":[
         102191581,
@@ -67,7 +65,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":901045,
-        "qs:id":520494,
         "qs_pg:id":520494
     },
     "wof:country":"SE",
@@ -87,7 +84,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702789,
+    "wof:lastmodified":1566640584,
     "wof:name":"Osteraker",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

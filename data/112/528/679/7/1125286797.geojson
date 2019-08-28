@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001715,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":10500606.345057,
     "geom:bbox":"18.4132691268,60.3117725833,18.5143716903,60.3470884338",
     "geom:latitude":60.327891,
     "geom:longitude":18.458469,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":2324,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":2324,
     "iso:country":"SE",
     "lbl:latitude":60.329943,
     "lbl:longitude":18.454277,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":60.329943,
     "mps:longitude":18.454277,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Oregrund"
@@ -48,7 +50,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":1125286797,
-    "wof:lastmodified":1529702878,
+    "wof:lastmodified":1566642633,
     "wof:name":"Oregrund",
     "wof:parent_id":1159303415,
     "wof:placetype":"localadmin",

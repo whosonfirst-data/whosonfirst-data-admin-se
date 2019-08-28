@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":60.613284,
     "lbl:longitude":16.770487,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":60.613284,
     "mps:longitude":16.770487,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:bel_x_preferred":[
         "\u0421\u0430\u043d\u0434\u0432\u0456\u043a\u0435\u043d"
     ],
@@ -183,7 +186,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688453,
@@ -197,7 +200,6 @@
         "fct:id":"06d38936-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2680075,
         "gp:id":903424,
-        "qs:id":916313,
         "qs_pg:id":916313,
         "wd:id":"Q54756",
         "wk:page":"Sandviken"
@@ -218,7 +220,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368684,
+    "wof:lastmodified":1566642163,
     "wof:name":"Sandviken",
     "wof:parent_id":1125325429,
     "wof:placetype":"locality",

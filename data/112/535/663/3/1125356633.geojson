@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031889,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":202562879.188859,
     "geom:bbox":"12.2354024908,58.9768896949,12.4684875676,59.194475657",
     "geom:latitude":59.088497,
     "geom:longitude":12.350065,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":855,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":855,
     "iso:country":"SE",
     "lbl:latitude":59.092109,
     "lbl:longitude":12.347805,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":59.092109,
     "mps:longitude":12.347805,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Laxarby"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125356633,
-    "wof:lastmodified":1529702200,
+    "wof:lastmodified":1566642468,
     "wof:name":"Laxarby",
     "wof:parent_id":1159303359,
     "wof:placetype":"localadmin",

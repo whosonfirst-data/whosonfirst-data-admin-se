@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Stockholm",
     "iso:country":"SE",
+    "lbl:bbox":"19.19667,63.63,19.23667,63.67",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lav_x_preferred":[
         "Kloze"
     ],
@@ -34,9 +38,6 @@
     ],
     "name:nor_x_variant":[
         "Kl\u00f8se"
-    ],
-    "name:und_x_variant":[
-        "Kl\u00f6se"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1242832397,
-    "wof:lastmodified":1564166103,
+    "wof:lastmodified":1566643640,
     "wof:name":"Klose",
     "wof:parent_id":1125270343,
     "wof:placetype":"locality",

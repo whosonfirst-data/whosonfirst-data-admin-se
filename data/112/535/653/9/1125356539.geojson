@@ -9,17 +9,19 @@
     "geom:bbox":"15.2041137964,58.2948204389,15.2823668346,58.3507295005",
     "geom:latitude":58.320705,
     "geom:longitude":15.242446,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":531,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":531,
     "iso:country":"SE",
     "lbl:latitude":58.322448,
     "lbl:longitude":15.245123,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":58.322448,
     "mps:longitude":15.245123,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Sya"
@@ -60,7 +62,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -86,7 +88,7 @@
         }
     ],
     "wof:id":1125356539,
-    "wof:lastmodified":1564164964,
+    "wof:lastmodified":1566642472,
     "wof:name":"Sya",
     "wof:parent_id":1159302925,
     "wof:placetype":"localadmin",

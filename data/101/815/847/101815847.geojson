@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":59.065442,
     "lbl:longitude":15.33394,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":59.065442,
     "mps:longitude":15.33394,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "P\u00e5lsboda"
     ],
@@ -72,7 +75,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":129,
     "wof:belongsto":[
@@ -87,7 +90,6 @@
         "fct:id":"06d04aa0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2684485,
         "gp:id":901710,
-        "qs:id":874590,
         "qs_pg:id":874590,
         "wd:id":"Q1963133",
         "wk:page":"P\u00e5lsboda"
@@ -108,7 +110,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368844,
+    "wof:lastmodified":1566642221,
     "wof:name":"P\u00e5lsboda",
     "wof:parent_id":1159307347,
     "wof:placetype":"locality",

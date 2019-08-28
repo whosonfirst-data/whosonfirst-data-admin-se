@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":57.924903,
     "lbl:longitude":12.026735,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":57.924903,
     "mps:longitude":12.026735,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Diser\u00f6d"
     ],
@@ -81,7 +84,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":47,
     "wof:belongsto":[
@@ -96,7 +99,6 @@
         "fct:id":"06d2ea26-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2717720,
         "gp:id":888345,
-        "qs:id":112162,
         "qs_pg:id":112162,
         "wd:id":"Q404977",
         "wk:page":"Diser\u00f6d"
@@ -117,7 +119,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368860,
+    "wof:lastmodified":1566642226,
     "wof:name":"Diser\u00f6d",
     "wof:parent_id":1125373859,
     "wof:placetype":"locality",

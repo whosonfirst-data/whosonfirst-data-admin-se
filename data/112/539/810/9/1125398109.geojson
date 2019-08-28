@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018907,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":108177975.060071,
     "geom:bbox":"17.4937494108,62.3794158436,17.7599512767,62.4949625135",
     "geom:latitude":62.4374,
     "geom:longitude":17.633495,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":765,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":765,
     "iso:country":"SE",
     "lbl:latitude":62.429521,
     "lbl:longitude":17.662628,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":62.429521,
     "mps:longitude":17.662628,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Tyndero"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125398109,
-    "wof:lastmodified":1529702995,
+    "wof:lastmodified":1566642836,
     "wof:name":"Tyndero",
     "wof:parent_id":1159303091,
     "wof:placetype":"localadmin",

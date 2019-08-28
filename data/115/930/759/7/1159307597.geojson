@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006022,
+    "geom:area_square_m":39347323.04447,
     "geom:bbox":"12.4239711287,58.0616848846,12.569152497,58.1402007136",
     "geom:latitude":58.101349,
     "geom:longitude":12.499581,
     "iso:country":"SE",
     "lbl:latitude":58.101861,
     "lbl:longitude":12.504541,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":58.101861,
     "mps:longitude":12.504541,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Erska"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159307597,
-    "wof:lastmodified":1529702172,
+    "wof:lastmodified":1566643296,
     "wof:name":"Erska",
     "wof:parent_id":1159303193,
     "wof:placetype":"localadmin",

@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.213443,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":1083525770.854555,
     "geom:bbox":"23.4729220161,65.5347758951,24.1776156345,65.9707056218",
     "geom:latitude":65.762194,
     "geom:longitude":23.857872,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":9103,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":9103,
     "iso:country":"SE",
     "lbl:latitude":65.757685,
     "lbl:longitude":23.857922,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":65.757685,
     "mps:longitude":23.857922,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Nedertornea-Haparanda"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125325185,
-    "wof:lastmodified":1529702560,
+    "wof:lastmodified":1566642507,
     "wof:name":"Nedertornea-Haparanda",
     "wof:parent_id":1159302911,
     "wof:placetype":"localadmin",

@@ -24,10 +24,13 @@
     ],
     "lbl:latitude":60.333033,
     "lbl:longitude":15.657947,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":60.333033,
     "mps:longitude":15.657947,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "Sater"
     ],
@@ -46,7 +49,7 @@
     "se-lant:lanskod":20,
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1159303099,
-    "wof:lastmodified":1564165475,
+    "wof:lastmodified":1566643142,
     "wof:name":"Sater",
     "wof:parent_id":85688447,
     "wof:placetype":"county",

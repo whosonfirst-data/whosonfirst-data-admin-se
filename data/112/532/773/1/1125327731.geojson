@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022578,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":139487834.801464,
     "geom:bbox":"15.9692288437,59.9366498689,16.2062511724,60.0946135386",
     "geom:latitude":60.024703,
     "geom:longitude":16.09549,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":537,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":537,
     "iso:country":"SE",
     "lbl:latitude":60.029429,
     "lbl:longitude":16.097767,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":60.029429,
     "mps:longitude":16.097767,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Karbenning"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125327731,
-    "wof:lastmodified":1529701991,
+    "wof:lastmodified":1566642542,
     "wof:name":"Karbenning",
     "wof:parent_id":1159303227,
     "wof:placetype":"localadmin",

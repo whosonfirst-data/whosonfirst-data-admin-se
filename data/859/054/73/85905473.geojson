@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000308,
-    "geom:area_square_m":1945301.705307,
+    "geom:area_square_m":1945301.705309,
     "geom:bbox":"18.1411743164,59.2278845996,18.1715151934,59.2444056158",
     "geom:latitude":59.234808,
     "geom:longitude":18.155162,
@@ -14,6 +14,7 @@
     "iso:country":"SE",
     "lbl:latitude":59.233145,
     "lbl:longitude":18.156555,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.234986,
     "mps:longitude":18.155158,
     "mz:hierarchy_label":1,
@@ -59,9 +60,6 @@
     "name:swe_x_preferred":[
         "Sjoangen"
     ],
-    "name:unk_x_variant":[
-        "Sjoangen"
-    ],
     "qs:gn_adm0_cc":"SE",
     "qs:gn_fcode":"PPL",
     "qs:gn_local":2673730,
@@ -89,20 +87,19 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85688429,
         102191581,
         1125362217,
         85633789,
         101752307,
-        1159303035
+        1159303035,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3327393,
         "gp:id":20151603,
-        "qs:id":1190458,
         "qs_pg:id":1190458
     },
     "wof:country":"SE",
@@ -122,7 +119,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702815,
+    "wof:lastmodified":1566640608,
     "wof:name":"Sjoangen",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

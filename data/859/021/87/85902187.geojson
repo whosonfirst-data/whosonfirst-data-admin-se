@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7384036.208852,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.408899,60.496034,15.408899,60.496034",
     "geom:latitude":60.496034,
     "geom:longitude":15.408899,
     "gn:latitude":60.5,
     "gn:longitude":15.41667,
     "iso:country":"SE",
+    "lbl:bbox":"15.403899,60.491034,15.413899,60.501034",
     "lbl:latitude":60.496034,
     "lbl:longitude":15.408899,
+    "lbl:max_zoom":18.0,
     "mps:latitude":60.487833,
     "mps:longitude":15.415789,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:swe_x_preferred":[
-        "Hushagen"
-    ],
-    "name:unk_x_variant":[
         "Hushagen"
     ],
     "qs:gn_adm0_cc":"SE",
@@ -60,20 +59,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85688447,
         102191581,
         1125277915,
         85633789,
         101816099,
-        1159302993
+        1159302993,
+        85688447
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2704145,
         "gp:id":893955,
-        "qs:id":874494,
         "qs_pg:id":874494
     },
     "wof:country":"SE",
@@ -93,7 +91,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1531935865,
+    "wof:lastmodified":1566640649,
     "wof:name":"Hushagen",
     "wof:parent_id":101816099,
     "wof:placetype":"neighbourhood",

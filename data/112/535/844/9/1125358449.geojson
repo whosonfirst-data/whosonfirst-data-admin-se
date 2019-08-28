@@ -9,17 +9,19 @@
     "geom:bbox":"12.7342254385,57.5261373112,12.8688726147,57.5910648081",
     "geom:latitude":57.557087,
     "geom:longitude":12.802975,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":2538,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":2538,
     "iso:country":"SE",
     "lbl:latitude":57.559305,
     "lbl:longitude":12.803007,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":57.559305,
     "mps:longitude":12.803007,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Fritsla"
@@ -66,7 +68,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -92,7 +94,7 @@
         }
     ],
     "wof:id":1125358449,
-    "wof:lastmodified":1564164932,
+    "wof:lastmodified":1566642443,
     "wof:name":"Fritsla",
     "wof:parent_id":1159302961,
     "wof:placetype":"localadmin",

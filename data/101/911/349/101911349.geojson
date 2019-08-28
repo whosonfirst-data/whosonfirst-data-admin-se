@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000146,
+    "geom:area_square_m":915026.340908,
     "geom:bbox":"18.368265951,59.4870791469,18.3927681845,59.5006307079",
     "geom:latitude":59.494403,
     "geom:longitude":18.379571,
     "iso:country":"SE",
     "lbl:latitude":59.495688,
     "lbl:longitude":18.377529,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":59.495688,
     "mps:longitude":18.377529,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Sverige",
     "qs:a1":"*Stockholms l\u00e4n",
     "qs:a1r":"5",
@@ -31,7 +35,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688429,
         102191581,
@@ -42,7 +46,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20151445,
-        "qs:id":996560,
         "qs_pg:id":996560
     },
     "wof:country":"SE",
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":101911349,
-    "wof:lastmodified":1529702747,
+    "wof:lastmodified":1566642255,
     "wof:name":"Nyhagen",
     "wof:parent_id":1125423247,
     "wof:placetype":"locality",

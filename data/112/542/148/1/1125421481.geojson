@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007028,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":45290068.864043,
     "geom:bbox":"15.8596056221,58.5546721669,16.0274804136,58.6225183758",
     "geom:latitude":58.588026,
     "geom:longitude":15.936821,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":4153,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":4153,
     "iso:country":"SE",
     "lbl:latitude":58.592626,
     "lbl:longitude":15.930017,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":58.592626,
     "mps:longitude":15.930017,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Kullerstad"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125421481,
-    "wof:lastmodified":1529703086,
+    "wof:lastmodified":1566642753,
     "wof:name":"Kullerstad",
     "wof:parent_id":1159303229,
     "wof:placetype":"localadmin",

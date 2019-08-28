@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003623,
+    "geom:area_square_m":25435507.476694,
     "geom:bbox":"13.4738512108,55.3768477085,13.5801240973,55.4386109468",
     "geom:latitude":55.404177,
     "geom:longitude":13.520066,
     "iso:country":"SE",
     "lbl:latitude":55.406367,
     "lbl:longitude":13.516455,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.406367,
     "mps:longitude":13.516455,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ostra Vemmenhog"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159306593,
-    "wof:lastmodified":1529702609,
+    "wof:lastmodified":1566643220,
     "wof:name":"Ostra Vemmenhog",
     "wof:parent_id":1159303379,
     "wof:placetype":"localadmin",

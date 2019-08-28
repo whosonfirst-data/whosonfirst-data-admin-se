@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.167319,
+    "geom:area_square_m":889386300.01909,
     "geom:bbox":"18.9750118199,64.3167977556,19.8080625093,64.7777570567",
     "geom:latitude":64.540168,
     "geom:longitude":19.365419,
     "iso:country":"SE",
     "lbl:latitude":64.545709,
     "lbl:longitude":19.302605,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":64.545709,
     "mps:longitude":19.302605,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Amsele"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159307473,
-    "wof:lastmodified":1529702965,
+    "wof:lastmodified":1566643241,
     "wof:name":"Amsele",
     "wof:parent_id":1159303511,
     "wof:placetype":"localadmin",

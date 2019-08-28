@@ -24,10 +24,13 @@
     ],
     "lbl:latitude":60.710333,
     "lbl:longitude":14.831836,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":60.710333,
     "mps:longitude":14.831836,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bul_x_preferred":[
         "\u041b\u0435\u043a\u0441\u0430\u043d\u0434"
     ],
@@ -103,7 +106,7 @@
     "se-lant:lanskod":20,
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":1159303237,
-    "wof:lastmodified":1564165582,
+    "wof:lastmodified":1566643239,
     "wof:name":"Leksand",
     "wof:parent_id":85688447,
     "wof:placetype":"county",

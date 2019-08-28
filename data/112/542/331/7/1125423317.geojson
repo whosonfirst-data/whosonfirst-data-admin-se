@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.04427,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":248679542.851462,
     "geom:bbox":"17.2105796452,62.9118920545,17.8017347834,63.0501599912",
     "geom:latitude":62.981438,
     "geom:longitude":17.500195,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":3499,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":3499,
     "iso:country":"SE",
     "lbl:latitude":62.967625,
     "lbl:longitude":17.504826,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":62.967625,
     "mps:longitude":17.504826,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Ytterlannas"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125423317,
-    "wof:lastmodified":1529702991,
+    "wof:lastmodified":1566642729,
     "wof:name":"Ytterlannas",
     "wof:parent_id":1159303301,
     "wof:placetype":"localadmin",

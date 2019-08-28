@@ -9,17 +9,19 @@
     "geom:bbox":"13.8087502039,56.9378784409,13.9935729185,57.0414930531",
     "geom:latitude":56.986983,
     "geom:longitude":13.912199,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":575,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":575,
     "iso:country":"SE",
     "lbl:latitude":56.98315,
     "lbl:longitude":13.902962,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":56.98315,
     "mps:longitude":13.902962,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
         "Vittaryd"
@@ -63,7 +65,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -89,7 +91,7 @@
         }
     ],
     "wof:id":1125381811,
-    "wof:lastmodified":1564165304,
+    "wof:lastmodified":1566642913,
     "wof:name":"Vittaryd",
     "wof:parent_id":1159303441,
     "wof:placetype":"localadmin",

@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":58.429667,
     "lbl:longitude":15.784757,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":58.429667,
     "mps:longitude":15.784757,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Linghem"
     ],
@@ -72,7 +75,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":45,
     "wof:belongsto":[
@@ -87,7 +90,6 @@
         "fct:id":"06d01b84-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2694779,
         "gp:id":897372,
-        "qs:id":182275,
         "qs_pg:id":182275,
         "wd:id":"Q2691512",
         "wk:page":"Linghem, Sweden"
@@ -108,7 +110,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368678,
+    "wof:lastmodified":1566642161,
     "wof:name":"Linghem",
     "wof:parent_id":1159307601,
     "wof:placetype":"locality",

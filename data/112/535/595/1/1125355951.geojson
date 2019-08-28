@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.053759,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":344706132.226792,
     "geom:bbox":"14.6891944919,58.6461671856,15.1384779603,58.9059810133",
     "geom:latitude":58.764603,
     "geom:longitude":14.924122,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":2772,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":2772,
     "iso:country":"SE",
     "lbl:latitude":58.770026,
     "lbl:longitude":14.98351,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":58.770026,
     "mps:longitude":14.98351,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Hammar"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125355951,
-    "wof:lastmodified":1529702192,
+    "wof:lastmodified":1566642431,
     "wof:name":"Hammar",
     "wof:parent_id":1159303215,
     "wof:placetype":"localadmin",

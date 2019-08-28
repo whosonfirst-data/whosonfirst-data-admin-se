@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00772,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":48795863.131563,
     "geom:bbox":"15.1905555913,59.2262239129,15.4149537277,59.284464004",
     "geom:latitude":59.256483,
     "geom:longitude":15.305532,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":18002,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":18002,
     "iso:country":"SE",
     "lbl:latitude":59.259511,
     "lbl:longitude":15.29427,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":59.259511,
     "mps:longitude":15.29427,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Almby"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125356477,
-    "wof:lastmodified":1529703052,
+    "wof:lastmodified":1566642459,
     "wof:name":"Almby",
     "wof:parent_id":1159303031,
     "wof:placetype":"localadmin",

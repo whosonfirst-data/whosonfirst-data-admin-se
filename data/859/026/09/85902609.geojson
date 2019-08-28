@@ -14,6 +14,7 @@
     "iso:country":"SE",
     "lbl:latitude":59.375391,
     "lbl:longitude":17.848044,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.3798,
     "mps:longitude":17.846553,
     "mz:hierarchy_label":1,
@@ -27,9 +28,6 @@
     "mz:tier_locality":5,
     "mz:tier_metro":1,
     "name:swe_x_preferred":[
-        "Vinsta"
-    ],
-    "name:unk_x_variant":[
         "Vinsta"
     ],
     "qs:gn_adm0_cc":"SE",
@@ -59,20 +57,19 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85688429,
         102191581,
         1125362217,
         85633789,
         101752307,
-        1159303035
+        1159303035,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2662777,
         "gp:id":910060,
-        "qs:id":1159279,
         "qs_pg:id":1159279
     },
     "wof:country":"SE",
@@ -92,7 +89,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702797,
+    "wof:lastmodified":1566640643,
     "wof:name":"Vinsta",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

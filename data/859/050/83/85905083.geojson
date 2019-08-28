@@ -14,6 +14,7 @@
     "iso:country":"SE",
     "lbl:latitude":59.27673,
     "lbl:longitude":18.127408,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.27851,
     "mps:longitude":18.135635,
     "mz:hierarchy_label":1,
@@ -53,9 +54,6 @@
     "name:swe_x_preferred":[
         "Bagarmossen"
     ],
-    "name:unk_x_variant":[
-        "Bagarmossen"
-    ],
     "qs:gn_adm0_cc":"SE",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":2673730,
@@ -83,7 +81,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":594,
     "wof:belongsto":[
         102191581,
@@ -97,7 +95,6 @@
     "wof:concordances":{
         "gn:id":7304451,
         "gp:id":20150814,
-        "qs:id":1111462,
         "qs_pg:id":1111462,
         "wd:id":"Q1781582",
         "wk:page":"Bagarmossen"
@@ -119,7 +116,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563366609,
+    "wof:lastmodified":1566640656,
     "wof:name":"Bagarmossen",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":57.387169,
     "lbl:longitude":18.200676,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":57.387169,
     "mps:longitude":18.200676,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bar_x_preferred":[
         "Klintehamn"
     ],
@@ -84,7 +87,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":164,
     "wof:belongsto":[
@@ -99,7 +102,6 @@
         "fct:id":"06d04960-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2700497,
         "gp:id":895450,
-        "qs:id":247127,
         "qs_pg:id":247127,
         "wd:id":"Q1774733",
         "wk:page":"Klintehamn"
@@ -120,7 +122,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368731,
+    "wof:lastmodified":1566642180,
     "wof:name":"Klintehamn",
     "wof:parent_id":1159306903,
     "wof:placetype":"locality",

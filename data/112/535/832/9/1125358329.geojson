@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001383,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":9634681.218761,
     "geom:bbox":"13.1112744005,55.690811422,13.1868441953,55.7245803537",
     "geom:latitude":55.708838,
     "geom:longitude":13.152605,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":14596,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":14596,
     "iso:country":"SE",
     "lbl:latitude":55.708253,
     "lbl:longitude":13.153193,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":55.708253,
     "mps:longitude":13.153193,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Lunds Sankt Peters kloster"
@@ -48,7 +50,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":1125358329,
-    "wof:lastmodified":1529702644,
+    "wof:lastmodified":1566642447,
     "wof:name":"Lunds Sankt Peters kloster",
     "wof:parent_id":1159303449,
     "wof:placetype":"localadmin",

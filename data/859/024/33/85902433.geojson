@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5978549.12718,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.392563,61.346712,16.392563,61.346712",
     "geom:latitude":61.346712,
     "geom:longitude":16.392563,
     "gn:latitude":61.35,
     "gn:longitude":16.38333,
     "iso:country":"SE",
+    "lbl:bbox":"16.387563,61.341712,16.397563,61.351712",
     "lbl:latitude":61.346712,
     "lbl:longitude":16.392563,
+    "lbl:max_zoom":18.0,
     "mps:latitude":61.34746,
     "mps:longitude":16.394318,
     "mz:hierarchy_label":0,
@@ -30,9 +32,6 @@
         "Saversta"
     ],
     "name:swe_x_preferred":[
-        "S\u00e4versta"
-    ],
-    "name:unk_x_variant":[
         "S\u00e4versta"
     ],
     "qs:gn_adm0_cc":"SE",
@@ -64,20 +63,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85688453,
         102191581,
         1125382105,
         85633789,
         101816135,
-        1159303465
+        1159303465,
+        85688453
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2679731,
         "gp:id":903564,
-        "qs:id":983905,
         "qs_pg:id":983905
     },
     "wof:country":"SE",
@@ -97,7 +95,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1531935892,
+    "wof:lastmodified":1566640575,
     "wof:name":"S\u00e4versta",
     "wof:parent_id":101816135,
     "wof:placetype":"neighbourhood",

@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":9486967.589613,
+    "geom:area_square_m":0.0,
     "geom:bbox":"17.962201,59.519184,17.962201,59.519184",
     "geom:latitude":59.519184,
     "geom:longitude":17.962201,
     "gn:latitude":59.5163,
     "gn:longitude":17.96016,
     "iso:country":"SE",
+    "lbl:bbox":"17.957201,59.514184,17.967201,59.524184",
     "lbl:latitude":59.519184,
     "lbl:longitude":17.962201,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.517615,
     "mps:longitude":17.969627,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:swe_x_preferred":[
-        "Frestaby"
-    ],
-    "name:unk_x_variant":[
         "Frestaby"
     ],
     "qs:gn_adm0_cc":"SE",
@@ -60,20 +59,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85688429,
         102191581,
         1125409989,
         85633789,
         101815895,
-        1159303433
+        1159303433,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2713739,
         "gp:id":890001,
-        "qs:id":415609,
         "qs_pg:id":415609
     },
     "wof:country":"SE",
@@ -93,7 +91,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1531935857,
+    "wof:lastmodified":1566640649,
     "wof:name":"Frestaby",
     "wof:parent_id":101815895,
     "wof:placetype":"neighbourhood",

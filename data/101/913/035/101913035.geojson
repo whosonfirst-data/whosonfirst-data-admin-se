@@ -12,10 +12,13 @@
     "iso:country":"SE",
     "lbl:latitude":59.312637,
     "lbl:longitude":18.644487,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":59.312637,
     "mps:longitude":18.644487,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "\u00c4lvsala"
     ],
@@ -59,7 +62,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688429,
         102191581,
@@ -70,7 +73,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20150678,
-        "qs:id":1016742,
         "qs_pg:id":1016742,
         "wd:id":"Q10725731"
     },
@@ -87,7 +89,7 @@
         }
     ],
     "wof:id":101913035,
-    "wof:lastmodified":1561839983,
+    "wof:lastmodified":1566642206,
     "wof:name":"\u00c4lvsala",
     "wof:parent_id":1125398113,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":57.713609,
     "lbl:longitude":12.792948,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":57.713609,
     "mps:longitude":12.792948,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bar_x_preferred":[
         "Sandared"
     ],
@@ -93,7 +96,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":57,
     "wof:belongsto":[
@@ -108,7 +111,6 @@
         "fct:id":"06d1f576-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2680352,
         "gp:id":903300,
-        "qs:id":1169338,
         "qs_pg:id":1169338,
         "wd:id":"Q5038",
         "wk:page":"Sandared"
@@ -129,7 +131,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368805,
+    "wof:lastmodified":1566642206,
     "wof:name":"Sandared",
     "wof:parent_id":1125372653,
     "wof:placetype":"locality",

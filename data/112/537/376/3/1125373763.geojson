@@ -9,17 +9,19 @@
     "geom:bbox":"13.9821142802,55.787014459,14.1283167684,55.859072662",
     "geom:latitude":55.821297,
     "geom:longitude":14.065844,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":1646,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":1646,
     "iso:country":"SE",
     "lbl:latitude":55.820025,
     "lbl:longitude":14.064771,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":55.820025,
     "mps:longitude":14.064771,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Degeberga"
@@ -69,7 +71,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -95,7 +97,7 @@
         }
     ],
     "wof:id":1125373763,
-    "wof:lastmodified":1564165218,
+    "wof:lastmodified":1566642800,
     "wof:name":"Degeberga",
     "wof:parent_id":1159303497,
     "wof:placetype":"localadmin",

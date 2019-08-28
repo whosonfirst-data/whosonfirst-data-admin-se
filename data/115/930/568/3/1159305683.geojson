@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00161,
+    "geom:area_square_m":10441193.862415,
     "geom:bbox":"12.8453494548,58.3540700227,12.9229395769,58.3888871226",
     "geom:latitude":58.372992,
     "geom:longitude":12.885125,
     "iso:country":"SE",
     "lbl:latitude":58.369603,
     "lbl:longitude":12.884382,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":58.369603,
     "mps:longitude":12.884382,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sladene"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159305683,
-    "wof:lastmodified":1529702116,
+    "wof:lastmodified":1566643164,
     "wof:name":"Sladene",
     "wof:parent_id":1159303487,
     "wof:placetype":"localadmin",

@@ -15,6 +15,7 @@
     "iso:country":"SE",
     "lbl:latitude":59.330853,
     "lbl:longitude":18.21991,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.33164,
     "mps:longitude":18.21865,
     "mz:hierarchy_label":1,
@@ -70,9 +71,6 @@
     "name:swe_x_preferred":[
         "Mariedal"
     ],
-    "name:unk_x_variant":[
-        "Mariedal"
-    ],
     "name:zho_min_nan_x_preferred":[
         "Mariedal"
     ],
@@ -103,7 +101,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "src:population":"geonames",
     "wd:wordcount":46,
     "wof:belongsto":[
@@ -117,7 +115,6 @@
     "wof:concordances":{
         "gn:id":7284037,
         "gp:id":20151373,
-        "qs:id":1190444,
         "qs_pg:id":1190444,
         "wd:id":"Q1800821",
         "wk:page":"Mariedal"
@@ -139,7 +136,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563366553,
+    "wof:lastmodified":1566640614,
     "wof:name":"Mariedal",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

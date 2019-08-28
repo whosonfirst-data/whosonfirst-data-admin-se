@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Stockholm",
     "iso:country":"SE",
+    "lbl:bbox":"17.5634,59.44401,17.6034,59.48401",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Ado"
     ],
@@ -61,9 +65,6 @@
     "name:ukr_x_preferred":[
         "\u0410\u0434\u043e"
     ],
-    "name:und_x_variant":[
-        "\u00c5d\u00f6"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85688429,
@@ -89,7 +90,7 @@
         }
     ],
     "wof:id":1327300647,
-    "wof:lastmodified":1564161494,
+    "wof:lastmodified":1566639911,
     "wof:name":"Ado",
     "wof:parent_id":1159305679,
     "wof:placetype":"locality",

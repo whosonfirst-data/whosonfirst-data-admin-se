@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":65.591383,
     "lbl:longitude":19.184783,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":65.591383,
     "mps:longitude":19.184783,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0410\u0440\u0432\u0438\u0434\u0441\u044f\u0443\u0440"
     ],
@@ -126,7 +129,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":233,
     "wof:belongsto":[
@@ -141,7 +144,6 @@
         "fct:id":"06d40226-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2725136,
         "gp:id":885124,
-        "qs:id":575757,
         "qs_pg:id":575757,
         "wd:id":"Q1026498",
         "wk:page":"Arvidsjaur"
@@ -162,7 +164,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368931,
+    "wof:lastmodified":1566642250,
     "wof:name":"Arvidsjaur",
     "wof:parent_id":1125359285,
     "wof:placetype":"locality",

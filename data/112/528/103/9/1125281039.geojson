@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002268,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":15921236.688783,
     "geom:bbox":"13.3813143584,55.3812204455,13.4487559019,55.4315920374",
     "geom:latitude":55.407568,
     "geom:longitude":13.410129,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":5124,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":5124,
     "iso:country":"SE",
     "lbl:latitude":55.407409,
     "lbl:longitude":13.407402,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":55.407409,
     "mps:longitude":13.407402,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Kallstorp"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125281039,
-    "wof:lastmodified":1529702596,
+    "wof:lastmodified":1566642590,
     "wof:name":"Kallstorp",
     "wof:parent_id":1159303309,
     "wof:placetype":"localadmin",

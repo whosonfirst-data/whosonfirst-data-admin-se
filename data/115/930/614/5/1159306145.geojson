@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004528,
+    "geom:area_square_m":29170217.791999,
     "geom:bbox":"13.3162685443,58.5637242118,13.4141334294,58.6417828777",
     "geom:latitude":58.598841,
     "geom:longitude":13.370658,
     "iso:country":"SE",
     "lbl:latitude":58.597102,
     "lbl:longitude":13.371569,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":58.597102,
     "mps:longitude":13.371569,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Medelplana"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159306145,
-    "wof:lastmodified":1529702129,
+    "wof:lastmodified":1566643297,
     "wof:name":"Medelplana",
     "wof:parent_id":1159302923,
     "wof:placetype":"localadmin",

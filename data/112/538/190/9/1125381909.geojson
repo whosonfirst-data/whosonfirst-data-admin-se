@@ -9,17 +9,19 @@
     "geom:bbox":"16.1383513303,57.9431739629,16.3792646397,58.066891622",
     "geom:latitude":58.010293,
     "geom:longitude":16.282048,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":1333,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":1333,
     "iso:country":"SE",
     "lbl:latitude":58.006625,
     "lbl:longitude":16.290286,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":58.006625,
     "mps:longitude":16.290286,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Overum"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125381909,
-    "wof:lastmodified":1554166188,
+    "wof:lastmodified":1566642914,
     "wof:name":"Overum",
     "wof:parent_id":1159303209,
     "wof:placetype":"localadmin",

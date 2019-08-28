@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":57.346765,
     "lbl:longitude":12.129425,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":57.346765,
     "mps:longitude":12.129425,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "\u00c5sa"
     ],
@@ -75,7 +78,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688391,
@@ -89,7 +92,6 @@
         "fct:id":"06d175b0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2725066,
         "gp:id":885162,
-        "qs:id":1276845,
         "qs_pg:id":1276845,
         "wd:id":"Q1895807",
         "wk:page":"\u00c5sa, Kungsbacka"
@@ -110,7 +112,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368668,
+    "wof:lastmodified":1566642158,
     "wof:name":"\u00c5sa",
     "wof:parent_id":1125325561,
     "wof:placetype":"locality",

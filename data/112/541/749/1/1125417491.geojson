@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003577,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":24171909.47442,
     "geom:bbox":"14.7537706264,56.8467670687,14.8978928837,56.8986569222",
     "geom:latitude":56.871087,
     "geom:longitude":14.831509,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":12551,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":12551,
     "iso:country":"SE",
     "lbl:latitude":56.871259,
     "lbl:longitude":14.844611,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":56.871259,
     "mps:longitude":14.844611,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Vaxjo domkyrkodistrikt"
@@ -48,7 +50,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":1125417491,
-    "wof:lastmodified":1529702529,
+    "wof:lastmodified":1566643083,
     "wof:name":"Vaxjo domkyrkodistrikt",
     "wof:parent_id":1159302917,
     "wof:placetype":"localadmin",

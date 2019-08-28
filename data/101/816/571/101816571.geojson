@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":56.285425,
     "lbl:longitude":13.935661,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":56.285425,
     "mps:longitude":13.935661,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "H\u00e4stveda"
     ],
@@ -75,7 +78,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":45,
     "wof:belongsto":[
@@ -90,7 +93,6 @@
         "fct:id":"06d1fb7a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2707217,
         "gp:id":892639,
-        "qs:id":983853,
         "qs_pg:id":983853,
         "wd:id":"Q2548751",
         "wk:page":"H\u00e4stveda"
@@ -111,7 +113,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368721,
+    "wof:lastmodified":1566642177,
     "wof:name":"H\u00e4stveda",
     "wof:parent_id":1125382335,
     "wof:placetype":"locality",

@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005272,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":32789880.383766,
     "geom:bbox":"17.4523391073,59.7447254467,17.6220651107,59.8336049689",
     "geom:latitude":59.800638,
     "geom:longitude":17.550084,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":1138,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":1138,
     "iso:country":"SE",
     "lbl:latitude":59.806359,
     "lbl:longitude":17.551332,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":59.806359,
     "mps:longitude":17.551332,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Uppsala-Nas"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125325903,
-    "wof:lastmodified":1529702875,
+    "wof:lastmodified":1566642515,
     "wof:name":"Uppsala-Nas",
     "wof:parent_id":1159303253,
     "wof:placetype":"localadmin",

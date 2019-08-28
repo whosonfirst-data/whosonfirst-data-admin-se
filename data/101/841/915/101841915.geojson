@@ -12,10 +12,13 @@
     "iso:country":"SE",
     "lbl:latitude":57.709939,
     "lbl:longitude":11.954802,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":57.709939,
     "mps:longitude":11.954802,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mysterna"
     ],
@@ -66,7 +69,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":47,
     "wof:belongsto":[
         85688411,
@@ -79,7 +82,7 @@
         101752295
     ],
     "wof:concordances":{
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q2378631"
     },
     "wof:country":"SE",
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":101841915,
-    "wof:lastmodified":1563368805,
+    "wof:lastmodified":1566642206,
     "wof:name":"Mysterna",
     "wof:parent_id":1159306621,
     "wof:placetype":"locality",

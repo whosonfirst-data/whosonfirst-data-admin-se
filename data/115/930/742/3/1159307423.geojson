@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003604,
+    "geom:area_square_m":24813516.903803,
     "geom:bbox":"13.8817934961,56.145136364,14.019213064,56.1955538969",
     "geom:latitude":56.168,
     "geom:longitude":13.948328,
     "iso:country":"SE",
     "lbl:latitude":56.161312,
     "lbl:longitude":13.925437,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":56.161312,
     "mps:longitude":13.925437,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Gumlosa"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159307423,
-    "wof:lastmodified":1529702625,
+    "wof:lastmodified":1566643374,
     "wof:name":"Gumlosa",
     "wof:parent_id":1159303121,
     "wof:placetype":"localadmin",

@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009972,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":60774495.718875,
     "geom:bbox":"14.89836901,60.3618489273,15.0731758872,60.5377854576",
     "geom:latitude":60.469296,
     "geom:longitude":14.978798,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":2241,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":2241,
     "iso:country":"SE",
     "lbl:latitude":60.496406,
     "lbl:longitude":14.964386,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":60.496406,
     "mps:longitude":14.964386,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Mockfjard"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125417513,
-    "wof:lastmodified":1529701992,
+    "wof:lastmodified":1566643088,
     "wof:name":"Mockfjard",
     "wof:parent_id":1159302973,
     "wof:placetype":"localadmin",

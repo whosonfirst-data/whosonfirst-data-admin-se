@@ -10,8 +10,10 @@
     "geom:latitude":57.785109,
     "geom:longitude":12.082038,
     "iso:country":"SE",
+    "lbl:bbox":"12.0770376871,57.7801088148,12.0870376871,57.7901088148",
     "lbl:latitude":57.785109,
     "lbl:longitude":12.082038,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -21,7 +23,7 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_metro":30,
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         1125379697,
@@ -46,7 +48,7 @@
         }
     ],
     "wof:id":1108944389,
-    "wof:lastmodified":1529702297,
+    "wof:lastmodified":1566641816,
     "wof:name":"Ekered",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

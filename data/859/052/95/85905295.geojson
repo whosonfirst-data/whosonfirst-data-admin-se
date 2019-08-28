@@ -13,6 +13,7 @@
     "iso:country":"SE",
     "lbl:latitude":59.462484,
     "lbl:longitude":17.808513,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.462698,
     "mps:longitude":17.813024,
     "mz:hierarchy_label":1,
@@ -26,9 +27,6 @@
     "mz:tier_locality":5,
     "mz:tier_metro":1,
     "name:swe_x_preferred":[
-        "Kolangen"
-    ],
-    "name:unk_x_variant":[
         "Kolangen"
     ],
     "qs:gn_adm0_cc":"SE",
@@ -58,19 +56,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85688429,
         102191581,
         1125362217,
         85633789,
         101752307,
-        1159303035
+        1159303035,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20151219,
-        "qs:id":43264,
         "qs_pg:id":43264
     },
     "wof:country":"SE",
@@ -90,7 +87,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702814,
+    "wof:lastmodified":1566640619,
     "wof:name":"Kolar\u00e4ngen",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

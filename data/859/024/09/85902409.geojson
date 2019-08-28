@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4993930.959544,
+    "geom:area_square_m":0.0,
     "geom:bbox":"18.062051,59.43172,18.062051,59.43172",
     "geom:latitude":59.43172,
     "geom:longitude":18.062051,
     "iso:country":"SE",
+    "lbl:bbox":"18.057051,59.42672,18.067051,59.43672",
     "lbl:latitude":59.43172,
     "lbl:longitude":18.062051,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.423333,
     "mps:longitude":18.092559,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:tier_locality":1,
     "mz:tier_metro":1,
     "name:swe_x_preferred":[
-        "Roslags-Nassby"
-    ],
-    "name:unk_x_variant":[
         "Roslags-Nassby"
     ],
     "qs:gn_adm0_cc":"SE",
@@ -58,14 +57,14 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85688429,
         102191581,
         1125398123,
         85633789,
         101752309,
-        1159303403
+        1159303403,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -88,7 +87,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1531935890,
+    "wof:lastmodified":1566640577,
     "wof:name":"Roslags-Nassby",
     "wof:parent_id":101752309,
     "wof:placetype":"neighbourhood",

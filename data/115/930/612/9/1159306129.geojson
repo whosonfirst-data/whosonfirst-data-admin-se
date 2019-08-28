@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006468,
+    "geom:area_square_m":43214060.599817,
     "geom:bbox":"12.6174992857,57.2515442817,12.7636070298,57.3414152366",
     "geom:latitude":57.296509,
     "geom:longitude":12.683499,
     "iso:country":"SE",
     "lbl:latitude":57.300686,
     "lbl:longitude":12.676307,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":57.300686,
     "mps:longitude":12.676307,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Gunnarsjo"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159306129,
-    "wof:lastmodified":1529702129,
+    "wof:lastmodified":1566643309,
     "wof:name":"Gunnarsjo",
     "wof:parent_id":1159302939,
     "wof:placetype":"localadmin",

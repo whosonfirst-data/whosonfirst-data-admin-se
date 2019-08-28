@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012457,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":80809337.502667,
     "geom:bbox":"12.1525781562,58.3067935458,12.3817157682,58.4155679216",
     "geom:latitude":58.358383,
     "geom:longitude":12.268838,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":22691,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":22691,
     "iso:country":"SE",
     "lbl:latitude":58.356907,
     "lbl:longitude":12.257602,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":58.356907,
     "mps:longitude":12.257602,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Vanersborg"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125283845,
-    "wof:lastmodified":1529702178,
+    "wof:lastmodified":1566642615,
     "wof:name":"Vanersborg",
     "wof:parent_id":1159303519,
     "wof:placetype":"localadmin",

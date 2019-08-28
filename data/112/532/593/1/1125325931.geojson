@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003185,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":19877627.838555,
     "geom:bbox":"17.314435305,59.6595961667,17.466602002,59.7181357614",
     "geom:latitude":59.685155,
     "geom:longitude":17.389205,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":309,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":309,
     "iso:country":"SE",
     "lbl:latitude":59.68647,
     "lbl:longitude":17.390361,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":59.68647,
     "mps:longitude":17.390361,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Hjalsta"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125325931,
-    "wof:lastmodified":1529702877,
+    "wof:lastmodified":1566642481,
     "wof:name":"Hjalsta",
     "wof:parent_id":1159303337,
     "wof:placetype":"localadmin",

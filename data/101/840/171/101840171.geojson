@@ -12,10 +12,13 @@
     "iso:country":"SE",
     "lbl:latitude":58.349453,
     "lbl:longitude":11.840797,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":58.349453,
     "mps:longitude":11.840797,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Herrestad"
     ],
@@ -65,7 +68,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":46,
     "wof:belongsto":[
         85688411,
@@ -79,10 +82,12 @@
         "fct:id":"06d25f02-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2706543,
         "gp:id":892907,
-        "qs:id":952848,
         "qs_pg:id":416461,
         "wd:id":"Q2018868",
         "wk:page":"Herrestad"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":952848
     },
     "wof:country":"SE",
     "wof:geomhash":"61bc8a9be04ff46b962526ea53e4fd4a",
@@ -100,7 +105,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368896,
+    "wof:lastmodified":1566642239,
     "wof:name":"Herrestad",
     "wof:parent_id":1125287003,
     "wof:placetype":"locality",

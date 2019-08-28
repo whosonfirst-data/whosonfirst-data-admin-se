@@ -12,8 +12,10 @@
     "gn:latitude":57.66667,
     "gn:longitude":12.1,
     "iso:country":"SE",
+    "lbl:bbox":"12.103579,57.658017,12.113579,57.668017",
     "lbl:latitude":57.663017,
     "lbl:longitude":12.108579,
+    "lbl:max_zoom":18.0,
     "mps:latitude":57.668697,
     "mps:longitude":12.111118,
     "mz:hierarchy_label":0,
@@ -42,9 +44,6 @@
         "Rada"
     ],
     "name:swe_x_preferred":[
-        "R\u00e5da"
-    ],
-    "name:unk_x_variant":[
         "R\u00e5da"
     ],
     "name:zho_min_nan_x_preferred":[
@@ -79,7 +78,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":45,
     "wof:belongsto":[
         102191581,
@@ -93,7 +92,6 @@
     "wof:concordances":{
         "gn:id":2683733,
         "gp:id":902005,
-        "qs:id":241116,
         "qs_pg:id":241116
     },
     "wof:country":"SE",
@@ -113,7 +111,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1564162416,
+    "wof:lastmodified":1566640587,
     "wof:name":"R\u00e5da",
     "wof:parent_id":101817145,
     "wof:placetype":"neighbourhood",

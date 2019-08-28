@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":55.7921,
     "lbl:longitude":13.114367,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":55.7921,
     "mps:longitude":13.114367,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:bul_x_preferred":[
         "\u0428\u0435\u0432\u043b\u0438\u043d\u0433\u0435"
     ],
@@ -121,7 +124,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":188,
     "wof:belongsto":[
@@ -136,7 +139,6 @@
         "fct:id":"06d1ef7c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2701096,
         "gp:id":895190,
-        "qs:id":3610,
         "qs_pg:id":3610,
         "wd:id":"Q117493",
         "wk:page":"K\u00e4vlinge"
@@ -157,7 +159,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368893,
+    "wof:lastmodified":1566642238,
     "wof:name":"K\u00e4vlinge",
     "wof:parent_id":1125356897,
     "wof:placetype":"locality",

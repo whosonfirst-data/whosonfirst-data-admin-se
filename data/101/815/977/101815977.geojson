@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":59.831971,
     "lbl:longitude":13.530361,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":59.831971,
     "mps:longitude":13.530361,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bar_x_preferred":[
         "Munkfors"
     ],
@@ -108,7 +111,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":57,
     "wof:belongsto":[
@@ -123,7 +126,6 @@
         "fct:id":"06d453b6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2690829,
         "gp:id":898894,
-        "qs:id":1169281,
         "qs_pg:id":1169281,
         "wd:id":"Q1574389",
         "wk:page":"Munkfors"
@@ -144,7 +146,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368825,
+    "wof:lastmodified":1566642213,
     "wof:name":"Munkfors",
     "wof:parent_id":1125288177,
     "wof:placetype":"locality",

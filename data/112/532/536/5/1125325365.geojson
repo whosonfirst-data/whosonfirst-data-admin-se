@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020256,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":134865954.005903,
     "geom:bbox":"15.1732264272,57.3575717513,15.49858991,57.4938228861",
     "geom:latitude":57.420946,
     "geom:longitude":15.285058,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":1459,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":1459,
     "iso:country":"SE",
     "lbl:latitude":57.424827,
     "lbl:longitude":15.285088,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":57.424827,
     "mps:longitude":15.285088,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Alseda"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125325365,
-    "wof:lastmodified":1529702424,
+    "wof:lastmodified":1566642519,
     "wof:name":"Alseda",
     "wof:parent_id":1159303157,
     "wof:placetype":"localadmin",

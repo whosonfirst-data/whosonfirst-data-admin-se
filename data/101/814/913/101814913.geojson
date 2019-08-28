@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":65.284098,
     "lbl:longitude":21.405529,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":65.284098,
     "mps:longitude":21.405529,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Hortlax"
     ],
@@ -75,7 +78,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":65.283333,
     "wd:longitude":21.383333,
@@ -92,7 +95,6 @@
         "fct:id":"06d30be6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":605647,
         "gp:id":893664,
-        "qs:id":941519,
         "qs_pg:id":941519,
         "wd:id":"Q584385",
         "wk:page":"Hortlax"
@@ -113,7 +115,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368916,
+    "wof:lastmodified":1566642246,
     "wof:name":"Hortlax",
     "wof:parent_id":1125300099,
     "wof:placetype":"locality",

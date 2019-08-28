@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007757,
+    "geom:area_square_m":53479812.522052,
     "geom:bbox":"14.1229537914,56.0588495794,14.2551241091,56.1740013901",
     "geom:latitude":56.111943,
     "geom:longitude":14.182235,
     "iso:country":"SE",
     "lbl:latitude":56.108116,
     "lbl:longitude":14.18123,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":56.108116,
     "mps:longitude":14.18123,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Fjalkestad"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159306513,
-    "wof:lastmodified":1529702607,
+    "wof:lastmodified":1566643205,
     "wof:name":"Fjalkestad",
     "wof:parent_id":1159303497,
     "wof:placetype":"localadmin",

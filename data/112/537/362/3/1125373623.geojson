@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.405412,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":2072942904.610214,
     "geom:bbox":"21.3357200756,65.2902787054,22.8645231727,65.8731702877",
     "geom:latitude":65.576663,
     "geom:longitude":22.160898,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":28003,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":28003,
     "iso:country":"SE",
     "lbl:latitude":65.576443,
     "lbl:longitude":21.90254,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":65.576443,
     "mps:longitude":21.90254,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Nederlulea"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125373623,
-    "wof:lastmodified":1529702551,
+    "wof:lastmodified":1566642782,
     "wof:name":"Nederlulea",
     "wof:parent_id":1159303317,
     "wof:placetype":"localadmin",

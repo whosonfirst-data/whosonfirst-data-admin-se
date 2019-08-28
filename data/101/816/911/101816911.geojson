@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":57.169962,
     "lbl:longitude":16.022212,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":57.169962,
     "mps:longitude":16.022212,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0425\u044c\u043e\u0433\u0441\u0431\u044e"
     ],
@@ -114,7 +117,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":183,
     "wof:belongsto":[
@@ -129,7 +132,6 @@
         "fct:id":"06d04d70-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2705718,
         "gp:id":893279,
-        "qs:id":58236,
         "qs_pg:id":58236,
         "wd:id":"Q1572742",
         "wk:page":"H\u00f6gsby"
@@ -150,7 +152,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368721,
+    "wof:lastmodified":1566642177,
     "wof:name":"H\u00f6gsby",
     "wof:parent_id":1125382165,
     "wof:placetype":"locality",

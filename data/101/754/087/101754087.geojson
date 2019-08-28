@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":60.641048,
     "lbl:longitude":17.001236,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":60.641048,
     "mps:longitude":17.001236,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Valbo"
     ],
@@ -102,7 +105,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":281,
     "wof:belongsto":[
@@ -117,7 +120,6 @@
         "fct:id":"06d3626c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2665691,
         "gp:id":908778,
-        "qs:id":3919,
         "qs_pg:id":3919,
         "wd:id":"Q1786152",
         "wk:page":"Valbo"
@@ -138,7 +140,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368600,
+    "wof:lastmodified":1566642134,
     "wof:name":"Valbo",
     "wof:parent_id":1125313563,
     "wof:placetype":"locality",

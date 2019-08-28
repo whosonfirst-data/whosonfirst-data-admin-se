@@ -13,6 +13,8 @@
     "iso:country":"SE",
     "lbl:latitude":61.35704,
     "lbl:longitude":16.393953,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":61.35704,
     "mps:longitude":16.393953,
     "mz:hierarchy_label":1,
@@ -229,7 +231,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":518,
     "wof:belongsto":[
@@ -244,7 +246,6 @@
         "fct:id":"06d36a82-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2720679,
         "gp:id":887142,
-        "qs:id":185625,
         "qs_pg:id":185625,
         "wd:id":"Q953769",
         "wk:page":"Bolln\u00e4s"
@@ -265,7 +266,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368606,
+    "wof:lastmodified":1566642136,
     "wof:name":"Bolln\u00e4s",
     "wof:parent_id":1125382105,
     "wof:placetype":"locality",

@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":11311954.32424,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.495808,59.40293,13.495808,59.40293",
     "geom:latitude":59.40293,
     "geom:longitude":13.495808,
     "gn:latitude":59.40197,
     "gn:longitude":13.49144,
     "iso:country":"SE",
+    "lbl:bbox":"13.490808,59.39793,13.500808,59.40793",
     "lbl:latitude":59.40293,
     "lbl:longitude":13.495808,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.407777,
     "mps:longitude":13.493923,
     "mz:hierarchy_label":0,
@@ -32,9 +34,6 @@
     "name:swe_x_preferred":[
         "R\u00e5torp",
         "Mattias B\u00e4rjed"
-    ],
-    "name:unk_x_variant":[
-        "R\u00e5torp"
     ],
     "qs:gn_adm0_cc":"SE",
     "qs:gn_fcode":"PPLX",
@@ -64,20 +63,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85688435,
         102191581,
         1125286813,
         85633789,
         101752311,
-        1159303443
+        1159303443,
+        85688435
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2683015,
         "gp:id":902263,
-        "qs:id":909466,
         "qs_pg:id":909466
     },
     "wof:country":"SE",
@@ -97,7 +95,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1531935887,
+    "wof:lastmodified":1566640581,
     "wof:name":"R\u00e5torp",
     "wof:parent_id":101752311,
     "wof:placetype":"neighbourhood",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000068,
-    "geom:area_square_m":427421.422971,
+    "geom:area_square_m":427421.422972,
     "geom:bbox":"18.1192016602,59.3120226057,18.1301879883,59.3233818459",
     "geom:latitude":59.318087,
     "geom:longitude":18.125171,
@@ -13,6 +13,7 @@
     "iso:country":"SE",
     "lbl:latitude":59.314557,
     "lbl:longitude":18.13199,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.318669,
     "mps:longitude":18.125169,
     "mz:hierarchy_label":1,
@@ -26,9 +27,6 @@
     "mz:tier_locality":5,
     "mz:tier_metro":1,
     "name:swe_x_preferred":[
-        "Finnberget"
-    ],
-    "name:unk_x_variant":[
         "Finnberget"
     ],
     "qs:gn_adm0_cc":"SE",
@@ -56,19 +54,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85688429,
         102191581,
         1125362217,
         85633789,
         101752307,
-        1159303035
+        1159303035,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20150973,
-        "qs:id":212108,
         "qs_pg:id":212108
     },
     "wof:country":"SE",
@@ -88,7 +85,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702812,
+    "wof:lastmodified":1566640660,
     "wof:name":"Finnberget",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

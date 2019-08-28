@@ -14,6 +14,7 @@
     "iso:country":"SE",
     "lbl:latitude":59.33241,
     "lbl:longitude":18.033048,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.331884,
     "mps:longitude":18.039079,
     "mz:hierarchy_label":1,
@@ -83,9 +84,6 @@
     "name:swe_x_preferred":[
         "Kungsholmen"
     ],
-    "name:unk_x_variant":[
-        "Kungsholmen"
-    ],
     "name:zho_x_preferred":[
         "\u56fd\u738b\u5c9b"
     ],
@@ -116,7 +114,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":774,
     "wof:belongsto":[
         102191581,
@@ -130,7 +128,6 @@
     "wof:concordances":{
         "gn:id":2698691,
         "gp:id":896176,
-        "qs:id":915846,
         "qs_pg:id":915846,
         "wd:id":"Q666729",
         "wk:page":"Kungsholmen"
@@ -152,7 +149,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563366527,
+    "wof:lastmodified":1566640594,
     "wof:name":"Kungsholmen",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017096,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":116099256.159023,
     "geom:bbox":"15.2297789884,56.6016822971,15.4251198423,56.75796742",
     "geom:latitude":56.687985,
     "geom:longitude":15.341957,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":992,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":992,
     "iso:country":"SE",
     "lbl:latitude":56.698116,
     "lbl:longitude":15.350099,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":56.698116,
     "mps:longitude":15.350099,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Ljuder"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125270755,
-    "wof:lastmodified":1529702471,
+    "wof:lastmodified":1566642708,
     "wof:name":"Ljuder",
     "wof:parent_id":1159303067,
     "wof:placetype":"localadmin",

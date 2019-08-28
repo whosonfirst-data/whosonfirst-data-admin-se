@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":59.059682,
     "lbl:longitude":16.589048,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":59.059682,
     "mps:longitude":16.589048,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bar_x_preferred":[
         "Flen"
     ],
@@ -129,7 +132,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":157,
     "wof:belongsto":[
@@ -144,7 +147,6 @@
         "fct:id":"06d00ea0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2714401,
         "gp:id":889691,
-        "qs:id":218405,
         "qs_pg:id":218405,
         "wd:id":"Q27774",
         "wk:page":"Flen"
@@ -165,7 +167,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368808,
+    "wof:lastmodified":1566642208,
     "wof:name":"Flen",
     "wof:parent_id":1125356691,
     "wof:placetype":"locality",

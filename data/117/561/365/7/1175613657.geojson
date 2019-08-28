@@ -15,6 +15,7 @@
     "iso:country":"SE",
     "lbl:latitude":59.428226,
     "lbl:longitude":18.038551,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.435165,
     "mps:longitude":18.002488,
     "mz:hierarchy_label":1,
@@ -45,9 +46,6 @@
     "name:swe_x_variant":[
         "Enebybergs Villastad"
     ],
-    "name:unk_x_variant":[
-        "Enebyberg"
-    ],
     "qs:gn_adm0_cc":"SE",
     "qs:gn_fcode":"PPL",
     "qs:gn_local":2673730,
@@ -75,7 +73,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":84,
     "wof:belongsto":[
         85902087,
@@ -90,7 +88,6 @@
     "wof:concordances":{
         "gn:id":2716202,
         "gp:id":888969,
-        "qs:id":1094592,
         "qs_pg:id":1094592,
         "wd:id":"Q5376722",
         "wk:page":"Enebyberg"
@@ -112,7 +109,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368166,
+    "wof:lastmodified":1566641828,
     "wof:name":"Enebyberg",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

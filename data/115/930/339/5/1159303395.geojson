@@ -24,10 +24,13 @@
     ],
     "lbl:latitude":61.628296,
     "lbl:longitude":17.224441,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":61.628296,
     "mps:longitude":17.224441,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bul_x_preferred":[
         "\u0425\u044e\u0434\u0438\u043a\u0441\u0432\u0430\u043b"
     ],
@@ -151,7 +154,7 @@
     "se-lant:lanskod":21,
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -171,7 +174,7 @@
         }
     ],
     "wof:id":1159303395,
-    "wof:lastmodified":1564165504,
+    "wof:lastmodified":1566643166,
     "wof:name":"Hudiksvall",
     "wof:parent_id":85688453,
     "wof:placetype":"county",

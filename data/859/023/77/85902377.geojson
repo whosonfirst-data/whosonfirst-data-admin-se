@@ -12,8 +12,10 @@
     "gn:latitude":58.61667,
     "gn:longitude":16.15,
     "iso:country":"SE",
+    "lbl:bbox":"16.146323,58.61612,16.156323,58.62612",
     "lbl:latitude":58.62112,
     "lbl:longitude":16.151323,
+    "lbl:max_zoom":18.0,
     "mps:latitude":58.625223,
     "mps:longitude":16.154667,
     "mz:hierarchy_label":0,
@@ -45,9 +47,6 @@
         "\u00d6stra Eneby",
         "\u00d6stra Eneby socken"
     ],
-    "name:unk_x_variant":[
-        "\u00d6stra Eneby"
-    ],
     "qs:gn_adm0_cc":"SE",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":2688368,
@@ -77,7 +76,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":187,
     "wof:belongsto":[
         102191581,
@@ -91,7 +90,6 @@
     "wof:concordances":{
         "gn:id":2685582,
         "gp:id":901246,
-        "qs:id":1167725,
         "qs_pg:id":1167725,
         "wd:id":"Q8079080"
     },
@@ -112,7 +110,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563366516,
+    "wof:lastmodified":1566640587,
     "wof:name":"\u00d6stra Eneby",
     "wof:parent_id":101752289,
     "wof:placetype":"neighbourhood",

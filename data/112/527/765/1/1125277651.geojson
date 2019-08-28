@@ -9,17 +9,19 @@
     "geom:bbox":"14.8098955266,57.8939046419,15.0127031801,57.9531724338",
     "geom:latitude":57.925774,
     "geom:longitude":14.892592,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":760,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":760,
     "iso:country":"SE",
     "lbl:latitude":57.929332,
     "lbl:longitude":14.877232,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":57.929332,
     "mps:longitude":14.877232,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Frinnaryd"
@@ -60,7 +62,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -86,7 +88,7 @@
         }
     ],
     "wof:id":1125277651,
-    "wof:lastmodified":1564165128,
+    "wof:lastmodified":1566642692,
     "wof:name":"Frinnaryd",
     "wof:parent_id":1159303047,
     "wof:placetype":"localadmin",

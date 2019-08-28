@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":20536511.003511,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.917576,58.340738,11.917576,58.340738",
     "geom:latitude":58.340738,
     "geom:longitude":11.917576,
     "gn:latitude":58.33333,
     "gn:longitude":11.91667,
     "iso:country":"SE",
+    "lbl:bbox":"11.912576,58.335738,11.922576,58.345738",
     "lbl:latitude":58.340738,
     "lbl:longitude":11.917576,
+    "lbl:max_zoom":18.0,
     "mps:latitude":58.337783,
     "mps:longitude":11.91155,
     "mz:hierarchy_label":0,
@@ -30,9 +32,6 @@
         "Bohusgarden"
     ],
     "name:swe_x_preferred":[
-        "Bohusg\u00e5rden"
-    ],
-    "name:unk_x_variant":[
         "Bohusg\u00e5rden"
     ],
     "qs:gn_adm0_cc":"SE",
@@ -64,20 +63,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85688411,
         102191581,
         1125423249,
         85633789,
         101840169,
-        1159303355
+        1159303355,
+        85688411
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2720858,
         "gp:id":887045,
-        "qs:id":1083414,
         "qs_pg:id":1083414
     },
     "wof:country":"SE",
@@ -97,7 +95,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1531935847,
+    "wof:lastmodified":1566640637,
     "wof:name":"Bohusg\u00e5rden",
     "wof:parent_id":101840169,
     "wof:placetype":"neighbourhood",

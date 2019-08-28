@@ -12,10 +12,13 @@
     "iso:country":"SE",
     "lbl:latitude":57.88585,
     "lbl:longitude":12.470572,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":57.88585,
     "mps:longitude":12.470572,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "V\u00e4stra Bodarna"
     ],
@@ -79,9 +82,6 @@
         "V\u00e4stra Bodarna",
         "V\u00e4stra Bodarnes"
     ],
-    "name:unk_x_variant":[
-        "V\u00e4sterbodarna"
-    ],
     "name:zho_min_nan_x_preferred":[
         "V\u00e4stra Bodarna"
     ],
@@ -99,7 +99,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":50,
     "wof:belongsto":[
         85688411,
@@ -113,7 +113,7 @@
         "fct:id":"06d2f3d6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2664122,
         "gp:id":909478,
-        "qs:id":953262,
+        "qs_pg:id":953262,
         "wd:id":"Q2737463"
     },
     "wof:country":"SE",
@@ -132,7 +132,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1561839980,
+    "wof:lastmodified":1566642185,
     "wof:name":"V\u00e4stra Bodarna",
     "wof:parent_id":1125362587,
     "wof:placetype":"locality",

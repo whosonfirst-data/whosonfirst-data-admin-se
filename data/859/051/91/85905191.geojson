@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":8556513.13684,
+    "geom:area_square_m":0.0,
     "geom:bbox":"18.308708,59.268959,18.308708,59.268959",
     "geom:latitude":59.268959,
     "geom:longitude":18.308708,
     "gn:id":"",
     "iso:country":"SE",
+    "lbl:bbox":"18.303708,59.263959,18.313708,59.273959",
     "lbl:latitude":59.268959,
     "lbl:longitude":18.308708,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.256758,
     "mps:longitude":18.3236,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:tier_locality":1,
     "mz:tier_metro":1,
     "name:swe_x_preferred":[
-        "Garvkroken"
-    ],
-    "name:unk_x_variant":[
         "Garvkroken"
     ],
     "qs:gn_adm0_cc":"SE",
@@ -59,19 +58,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85688429,
         102191581,
         1125381943,
         85633789,
         101754075,
-        1159303219
+        1159303219,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20151015,
-        "qs:id":1259193,
         "qs_pg:id":1259193
     },
     "wof:country":"SE",
@@ -91,7 +89,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1531936327,
+    "wof:lastmodified":1566640661,
     "wof:name":"Garvkroken",
     "wof:parent_id":101754075,
     "wof:placetype":"neighbourhood",

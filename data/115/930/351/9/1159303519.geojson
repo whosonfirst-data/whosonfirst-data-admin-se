@@ -24,10 +24,13 @@
     ],
     "lbl:latitude":58.459722,
     "lbl:longitude":12.335484,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":58.459722,
     "mps:longitude":12.335484,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Vanersborg"
     ],
@@ -43,7 +46,7 @@
     "se-lant:lanskod":14,
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1159303519,
-    "wof:lastmodified":1554325325,
+    "wof:lastmodified":1566643282,
     "wof:name":"Vanersborg",
     "wof:parent_id":85688411,
     "wof:placetype":"county",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Stockholm",
     "iso:country":"SE",
+    "lbl:bbox":"15.29667,60.16333,15.33667,60.20333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633789
@@ -35,7 +39,7 @@
         "gn:id":2679124
     },
     "wof:country":"SE",
-    "wof:geomhash":"c3ff53c6c07f5ff690356ebf6560f6c5",
+    "wof:geomhash":"c25541979676aef3fb70b1fb79d61a16",
     "wof:hierarchy":[
         {
             "country_id":85633789,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209292781,
-    "wof:lastmodified":1536291636,
+    "wof:lastmodified":1566641518,
     "wof:name":"Simonsbo",
     "wof:parent_id":85633789,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    15.316670000000002,
+    15.31667,
     60.18333000000001,
-    15.316670000000002,
+    15.31667,
     60.18333000000001
 ],
   "geometry": {"coordinates":[15.31667,60.18333000000001],"type":"Point"}

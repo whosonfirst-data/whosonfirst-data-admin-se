@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026015,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":144026740.446956,
     "geom:bbox":"13.5318682015,63.2717990937,14.4188923596,63.7486587197",
     "geom:latitude":63.401461,
     "geom:longitude":14.193442,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":1808,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":1808,
     "iso:country":"SE",
     "lbl:latitude":63.35679,
     "lbl:longitude":14.245963,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":63.35679,
     "mps:longitude":14.245963,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Naskott"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125373253,
-    "wof:lastmodified":1529702369,
+    "wof:lastmodified":1566642802,
     "wof:name":"Naskott",
     "wof:parent_id":1159303097,
     "wof:placetype":"localadmin",

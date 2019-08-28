@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":58.392566,
     "lbl:longitude":13.854159,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":58.392566,
     "mps:longitude":13.854159,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u062e\u0648\u0641\u062f\u0629"
     ],
@@ -224,9 +227,6 @@
     "name:ukr_x_preferred":[
         "\u0428\u0435\u0432\u0434\u0435"
     ],
-    "name:unk_x_variant":[
-        "Sk\u00f6vd"
-    ],
     "name:urd_x_preferred":[
         "\u0633\u06a9\u0648\u0688\u06cc"
     ],
@@ -255,7 +255,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":58.383333,
     "wd:longitude":13.85,
@@ -273,7 +273,6 @@
         "gn:id":2677234,
         "gp:id":904567,
         "loc:id":"n90650760",
-        "qs:id":141210,
         "qs_pg:id":141210,
         "wd:id":"Q21166",
         "wk:page":"Sk\u00f6vde"
@@ -294,7 +293,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368792,
+    "wof:lastmodified":1566642201,
     "wof:name":"Sk\u00f6vde",
     "wof:parent_id":1125287347,
     "wof:placetype":"locality",

@@ -14,6 +14,7 @@
     "iso:country":"SE",
     "lbl:latitude":59.310442,
     "lbl:longitude":17.989415,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.307947,
     "mps:longitude":17.997151,
     "mz:hierarchy_label":1,
@@ -65,9 +66,6 @@
     "name:swe_x_preferred":[
         "Aspudden"
     ],
-    "name:unk_x_variant":[
-        "Aspudden"
-    ],
     "qs:gn_adm0_cc":"SE",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":2673730,
@@ -95,7 +93,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":51,
     "wof:belongsto":[
         102191581,
@@ -109,7 +107,6 @@
     "wof:concordances":{
         "gn:id":2724516,
         "gp:id":885416,
-        "qs:id":481165,
         "qs_pg:id":481165,
         "wd:id":"Q1784987",
         "wk:page":"Aspudden"
@@ -131,7 +128,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563366590,
+    "wof:lastmodified":1566640644,
     "wof:name":"Aspudden",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

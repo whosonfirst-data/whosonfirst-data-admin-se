@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":58.667659,
     "lbl:longitude":16.177977,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":58.667659,
     "mps:longitude":16.177977,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041e\u0431\u044e"
     ],
@@ -87,7 +90,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688409,
@@ -101,10 +104,12 @@
         "fct:id":"06d042a8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2727584,
         "gp:id":884167,
-        "qs:id":460036,
-        "qs_pg:id":575761,
+        "qs_pg:id":460036,
         "wd:id":"Q270811",
         "wk:page":"\u00c5by, Norrk\u00f6ping Municipality"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":575761
     },
     "wof:country":"SE",
     "wof:geomhash":"39c07ba0de91161d79711736f1ac9c0b",
@@ -122,7 +127,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368890,
+    "wof:lastmodified":1566642237,
     "wof:name":"\u00c5by",
     "wof:parent_id":1125356655,
     "wof:placetype":"locality",

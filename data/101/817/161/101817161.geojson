@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":57.4825,
     "lbl:longitude":13.35058,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":57.4825,
     "mps:longitude":13.35058,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Tranemo"
     ],
@@ -96,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":48,
     "wof:belongsto":[
@@ -111,7 +114,6 @@
         "fct:id":"06d2bda8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2667599,
         "gp:id":908000,
-        "qs:id":191499,
         "qs_pg:id":191499,
         "wd:id":"Q1864024",
         "wk:page":"Tranemo"
@@ -132,7 +134,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368740,
+    "wof:lastmodified":1566642184,
     "wof:name":"Tranemo",
     "wof:parent_id":1125356615,
     "wof:placetype":"locality",

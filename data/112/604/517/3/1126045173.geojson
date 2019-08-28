@@ -9,15 +9,18 @@
     "geom:bbox":"23.85,66.65,23.85,66.65",
     "geom:latitude":66.65,
     "geom:longitude":23.85,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":207,
+    "gn:country":"SE",
+    "gn:fcode":"PPL",
     "gn:population":207,
     "iso:country":"SE",
+    "lbl:bbox":"23.83,66.63,23.87,66.67",
     "lbl:latitude":66.65,
     "lbl:longitude":23.85,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0421\u0432\u0430\u043d\u0441\u0442\u0435\u0438\u043d"
@@ -61,7 +64,7 @@
     "name:swe_x_preferred":[
         "Svanstein"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Svansten"
     ],
     "qs_pg:aaroncc":"SE",
@@ -76,7 +79,7 @@
     "qs_pg:qs_id":550226,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85688471,
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":1126045173,
-    "wof:lastmodified":1563369364,
+    "wof:lastmodified":1566642571,
     "wof:name":"Svanstein",
     "wof:parent_id":1159306323,
     "wof:placetype":"locality",

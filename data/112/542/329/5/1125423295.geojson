@@ -9,17 +9,19 @@
     "geom:bbox":"12.2759966305,59.3872699843,12.6910253263,59.6105417428",
     "geom:latitude":59.503211,
     "geom:longitude":12.490937,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":946,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":946,
     "iso:country":"SE",
     "lbl:latitude":59.513293,
     "lbl:longitude":12.490903,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":59.513293,
     "mps:longitude":12.490903,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Glava"
@@ -48,7 +50,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":1125423295,
-    "wof:lastmodified":1564165185,
+    "wof:lastmodified":1566642753,
     "wof:name":"Glava",
     "wof:parent_id":1159303075,
     "wof:placetype":"localadmin",

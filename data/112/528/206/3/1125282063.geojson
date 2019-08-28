@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001613,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":10190142.196183,
     "geom:bbox":"17.863394027,59.2671396249,17.9472999314,59.303783122",
     "geom:latitude":59.285052,
     "geom:longitude":17.906069,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":32547,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":32547,
     "iso:country":"SE",
     "lbl:latitude":59.281089,
     "lbl:longitude":17.899719,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":59.281089,
     "mps:longitude":17.899719,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Skarholmen"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125282063,
-    "wof:lastmodified":1529702722,
+    "wof:lastmodified":1566642639,
     "wof:name":"Skarholmen",
     "wof:parent_id":1159303035,
     "wof:placetype":"localadmin",

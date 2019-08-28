@@ -14,6 +14,7 @@
     "iso:country":"SE",
     "lbl:latitude":59.296751,
     "lbl:longitude":17.931411,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.298233,
     "mps:longitude":17.930006,
     "mz:hierarchy_label":1,
@@ -50,10 +51,6 @@
         "Bredsand",
         "Flemingsberg"
     ],
-    "name:unk_x_variant":[
-        "Bredsand",
-        "Bred\u00e4n"
-    ],
     "name:zho_min_nan_x_preferred":[
         "Bredsand"
     ],
@@ -84,7 +81,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":47,
     "wof:belongsto":[
         102191581,
@@ -98,7 +95,6 @@
     "wof:concordances":{
         "gn:id":2719435,
         "gp:id":20150885,
-        "qs:id":466407,
         "qs_pg:id":466407,
         "wd:id":"Q3283919",
         "wk:page":"Bredsand"
@@ -120,7 +116,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563366616,
+    "wof:lastmodified":1566640664,
     "wof:name":"Bred\u00e4n",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

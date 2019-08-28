@@ -9,17 +9,19 @@
     "geom:bbox":"16.3505708089,57.8174945564,16.6324047741,58.0050486966",
     "geom:latitude":57.922655,
     "geom:longitude":16.495316,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":502,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":502,
     "iso:country":"SE",
     "lbl:latitude":57.925659,
     "lbl:longitude":16.504859,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":57.925659,
     "mps:longitude":16.504859,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Lofta"
@@ -48,7 +50,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":1125356419,
-    "wof:lastmodified":1564164951,
+    "wof:lastmodified":1566642462,
     "wof:name":"Lofta",
     "wof:parent_id":1159303209,
     "wof:placetype":"localadmin",

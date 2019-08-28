@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003196,
+    "geom:area_square_m":21482800.662212,
     "geom:bbox":"18.2830945476,57.0491529466,18.3680643144,57.1034168254",
     "geom:latitude":57.074351,
     "geom:longitude":18.324243,
     "iso:country":"SE",
     "lbl:latitude":57.075112,
     "lbl:longitude":18.324245,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":57.075112,
     "mps:longitude":18.324245,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Fide"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159306437,
-    "wof:lastmodified":1529702022,
+    "wof:lastmodified":1566643178,
     "wof:name":"Fide",
     "wof:parent_id":1159303535,
     "wof:placetype":"localadmin",

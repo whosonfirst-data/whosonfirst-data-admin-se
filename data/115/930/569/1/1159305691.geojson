@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005714,
+    "geom:area_square_m":38373818.550141,
     "geom:bbox":"12.376815337,57.078332513,12.5443854348,57.1343556738",
     "geom:latitude":57.106092,
     "geom:longitude":12.450214,
     "iso:country":"SE",
     "lbl:latitude":57.105907,
     "lbl:longitude":12.431857,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":57.105907,
     "mps:longitude":12.431857,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Grimeton"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159305691,
-    "wof:lastmodified":1529702320,
+    "wof:lastmodified":1566643138,
     "wof:name":"Grimeton",
     "wof:parent_id":1159302939,
     "wof:placetype":"localadmin",

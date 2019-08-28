@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002158,
+    "geom:area_square_m":13973164.641527,
     "geom:bbox":"14.9317233322,58.3901948729,15.0063521437,58.442807531",
     "geom:latitude":58.415239,
     "geom:longitude":14.966117,
     "iso:country":"SE",
     "lbl:latitude":58.417556,
     "lbl:longitude":14.959336,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":58.417556,
     "mps:longitude":14.959336,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Orlunda"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159307241,
-    "wof:lastmodified":1529703091,
+    "wof:lastmodified":1566643249,
     "wof:name":"Orlunda",
     "wof:parent_id":1159303411,
     "wof:placetype":"localadmin",

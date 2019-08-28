@@ -9,17 +9,19 @@
     "geom:bbox":"18.3178435149,57.177254843,18.4344299085,57.2312691741",
     "geom:latitude":57.20323,
     "geom:longitude":18.365724,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":2539,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":2539,
     "iso:country":"SE",
     "lbl:latitude":57.202853,
     "lbl:longitude":18.355975,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":57.202853,
     "mps:longitude":18.355975,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0410\u043b\u0432\u0430"
@@ -93,7 +95,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -119,7 +121,7 @@
         }
     ],
     "wof:id":1125340177,
-    "wof:lastmodified":1564164899,
+    "wof:lastmodified":1566642391,
     "wof:name":"Alva",
     "wof:parent_id":1159303535,
     "wof:placetype":"localadmin",

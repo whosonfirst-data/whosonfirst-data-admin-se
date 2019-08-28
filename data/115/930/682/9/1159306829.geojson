@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001577,
+    "geom:area_square_m":11050005.064324,
     "geom:bbox":"13.0916960455,55.4748727161,13.1803546281,55.5119550739",
     "geom:latitude":55.490135,
     "geom:longitude":13.126084,
     "iso:country":"SE",
     "lbl:latitude":55.492689,
     "lbl:longitude":13.121712,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.492689,
     "mps:longitude":13.121712,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Vastra Ingelstad"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159306829,
-    "wof:lastmodified":1529702613,
+    "wof:lastmodified":1566643301,
     "wof:name":"Vastra Ingelstad",
     "wof:parent_id":1159303307,
     "wof:placetype":"localadmin",

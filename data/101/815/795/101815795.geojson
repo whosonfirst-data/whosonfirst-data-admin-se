@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":59.155365,
     "lbl:longitude":16.501311,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":59.155365,
     "mps:longitude":16.501311,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "H\u00e4lleforsn\u00e4s"
     ],
@@ -85,7 +88,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":312,
     "wof:belongsto":[
@@ -100,7 +103,6 @@
         "fct:id":"06d15e7c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2708663,
         "gp:id":892082,
-        "qs:id":478534,
         "qs_pg:id":478534,
         "wd:id":"Q746023",
         "wk:page":"H\u00e4lleforsn\u00e4s"
@@ -121,7 +123,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368839,
+    "wof:lastmodified":1566642219,
     "wof:name":"H\u00e4lleforsn\u00e4s",
     "wof:parent_id":1125382273,
     "wof:placetype":"locality",

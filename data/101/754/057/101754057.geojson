@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":58.40464,
     "lbl:longitude":15.520507,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":58.40464,
     "mps:longitude":15.520507,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041c\u0430\u043b\u043c\u0441\u043b\u0435\u0442"
     ],
@@ -77,9 +80,6 @@
     "name:swe_x_variant":[
         "Malmsl\u00e4tts"
     ],
-    "name:unk_x_variant":[
-        "Malmen"
-    ],
     "qs:a0":"Sverige",
     "qs:a1":"*\u00d6sterg\u00f6tlands l\u00e4n",
     "qs:a1r":"0",
@@ -96,7 +96,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":65,
     "wof:belongsto":[
@@ -111,7 +111,6 @@
         "fct:id":"06d00bc6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2692943,
         "gp:id":898094,
-        "qs:id":1080960,
         "qs_pg:id":1080960,
         "wd:id":"Q2383474",
         "wk:page":"Malmsl\u00e4tt"
@@ -132,7 +131,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368603,
+    "wof:lastmodified":1566642135,
     "wof:name":"Malmsl\u00e4tt",
     "wof:parent_id":1125287725,
     "wof:placetype":"locality",

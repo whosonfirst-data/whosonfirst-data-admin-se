@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":59.290844,
     "lbl:longitude":18.253864,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":59.290844,
     "mps:longitude":18.253864,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0424\u0438\u0441\u043a\u0441\u0435\u0442\u0440\u0430"
     ],
@@ -84,7 +87,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":62,
     "wof:belongsto":[
@@ -98,7 +101,6 @@
     "wof:concordances":{
         "gn:id":3336566,
         "gp:id":903260,
-        "qs:id":375318,
         "qs_pg:id":375318,
         "wd:id":"Q2250574",
         "wk:page":"Fisks\u00e4tra"
@@ -116,7 +118,7 @@
         }
     ],
     "wof:id":101754073,
-    "wof:lastmodified":1563368601,
+    "wof:lastmodified":1566642135,
     "wof:name":"Fisks\u00e4tra",
     "wof:parent_id":1125394711,
     "wof:placetype":"locality",

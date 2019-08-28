@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02065,
+    "geom:area_square_m":131036617.359279,
     "geom:bbox":"17.6629793117,59.0442955054,17.931762892,59.1971302026",
     "geom:latitude":59.124206,
     "geom:longitude":17.791645,
     "iso:country":"SE",
     "lbl:latitude":59.141494,
     "lbl:longitude":17.782525,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":59.141494,
     "mps:longitude":17.782525,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Grodinge"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159305943,
-    "wof:lastmodified":1529702719,
+    "wof:lastmodified":1566643141,
     "wof:name":"Grodinge",
     "wof:parent_id":1159303191,
     "wof:placetype":"localadmin",

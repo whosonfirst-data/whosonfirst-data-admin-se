@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000808,
-    "geom:area_square_m":5022370.334047,
+    "geom:area_square_m":5022370.33405,
     "geom:bbox":"13.1224850044,59.8215304525,13.164652312,59.8544268965",
     "geom:latitude":59.839559,
     "geom:longitude":13.142722,
@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":59.839026,
     "lbl:longitude":13.144159,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":59.839026,
     "mps:longitude":13.144159,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:als_x_preferred":[
         "Sunna"
     ],
@@ -69,7 +72,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688435,
@@ -83,7 +86,6 @@
         "fct:id":"06d3de68-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2670710,
         "gp:id":906783,
-        "qs:id":211590,
         "qs_pg:id":211590
     },
     "wof:country":"SE",
@@ -102,7 +104,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702933,
+    "wof:lastmodified":1566642226,
     "wof:name":"Sunne",
     "wof:parent_id":1125270339,
     "wof:placetype":"locality",

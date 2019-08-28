@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":59.353725,
     "lbl:longitude":18.216067,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":59.353725,
     "mps:longitude":18.216067,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0411\u0440\u0435\u0432\u0438\u043a"
     ],
@@ -82,7 +85,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688429,
@@ -94,7 +97,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2719312,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q2157979",
         "wk:page":"Brevik, Sweden"
     },
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":101839525,
-    "wof:lastmodified":1563368944,
+    "wof:lastmodified":1566642254,
     "wof:name":"Brevik",
     "wof:parent_id":1125394719,
     "wof:placetype":"locality",

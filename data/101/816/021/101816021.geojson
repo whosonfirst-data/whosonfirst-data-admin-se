@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":59.626303,
     "lbl:longitude":16.945304,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":59.626303,
     "mps:longitude":16.945304,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0425\u0443\u043c\u0435\u043b\u0441\u0442\u0430"
     ],
@@ -70,7 +73,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":140,
     "wof:belongsto":[
@@ -85,7 +88,7 @@
         "fct:id":"06d11408-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2704327,
         "gp:id":55873284,
-        "qs:id":957578,
+        "qs_pg:id":957578,
         "wd:id":"Q2112372",
         "wk:page":"Hummelsta"
     },
@@ -105,7 +108,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368704,
+    "wof:lastmodified":1566642171,
     "wof:name":"Hummelsta",
     "wof:parent_id":1125356565,
     "wof:placetype":"locality",

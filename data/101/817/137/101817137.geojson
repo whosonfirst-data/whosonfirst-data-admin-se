@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":57.699406,
     "lbl:longitude":13.028164,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":57.699406,
     "mps:longitude":13.028164,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "G\u00e5nghester"
     ],
@@ -75,7 +78,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":47,
     "wof:belongsto":[
@@ -90,7 +93,6 @@
         "fct:id":"06d1bb6a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2712887,
         "gp:id":890368,
-        "qs:id":1013659,
         "qs_pg:id":1013659,
         "wd:id":"Q2921055",
         "wk:page":"G\u00e5nghester"
@@ -111,7 +113,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368774,
+    "wof:lastmodified":1566642196,
     "wof:name":"G\u00e5nghester",
     "wof:parent_id":1125417561,
     "wof:placetype":"locality",

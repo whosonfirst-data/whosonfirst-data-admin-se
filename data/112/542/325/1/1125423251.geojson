@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009963,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":61939411.787098,
     "geom:bbox":"18.4439184458,59.7666729263,18.6094145092,59.8726226493",
     "geom:latitude":59.814603,
     "geom:longitude":18.516216,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":556,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":556,
     "iso:country":"SE",
     "lbl:latitude":59.811504,
     "lbl:longitude":18.514968,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":59.811504,
     "mps:longitude":18.514968,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Loharad"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125423251,
-    "wof:lastmodified":1529702727,
+    "wof:lastmodified":1566642742,
     "wof:name":"Loharad",
     "wof:parent_id":1159302995,
     "wof:placetype":"localadmin",

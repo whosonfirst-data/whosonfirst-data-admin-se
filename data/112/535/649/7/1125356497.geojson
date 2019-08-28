@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005603,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":35468962.242825,
     "geom:bbox":"15.0780129627,59.1697050774,15.1835538813,59.2426512038",
     "geom:latitude":59.206497,
     "geom:longitude":15.128677,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":2639,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":2639,
     "iso:country":"SE",
     "lbl:latitude":59.205767,
     "lbl:longitude":15.128672,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":59.205767,
     "mps:longitude":15.128672,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Mosjo"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125356497,
-    "wof:lastmodified":1529703053,
+    "wof:lastmodified":1566642458,
     "wof:name":"Mosjo",
     "wof:parent_id":1159303031,
     "wof:placetype":"localadmin",

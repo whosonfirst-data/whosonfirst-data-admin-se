@@ -9,17 +9,19 @@
     "geom:bbox":"14.172811921,56.0006691355,14.2635293397,56.0859548304",
     "geom:latitude":56.04589,
     "geom:longitude":14.214819,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":5964,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":5964,
     "iso:country":"SE",
     "lbl:latitude":56.044523,
     "lbl:longitude":14.217891,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":56.044523,
     "mps:longitude":14.217891,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:dan_x_preferred":[
         "Nosaby"
@@ -54,7 +56,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -80,7 +82,7 @@
         }
     ],
     "wof:id":1125373771,
-    "wof:lastmodified":1564165215,
+    "wof:lastmodified":1566642797,
     "wof:name":"Nosaby",
     "wof:parent_id":1159303497,
     "wof:placetype":"localadmin",

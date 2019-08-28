@@ -9,17 +9,19 @@
     "geom:bbox":"15.5239878011,56.1282177965,15.6455432799,56.2237966888",
     "geom:latitude":56.171041,
     "geom:longitude":15.593823,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":24090,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":24090,
     "iso:country":"SE",
     "lbl:latitude":56.162119,
     "lbl:longitude":15.592901,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":56.162119,
     "mps:longitude":15.592901,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Karlskrona stadsdistrikt"
@@ -48,7 +50,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":1125362329,
-    "wof:lastmodified":1554166203,
+    "wof:lastmodified":1566642944,
     "wof:name":"Karlskrona stadsdistrikt",
     "wof:parent_id":1159303467,
     "wof:placetype":"localadmin",

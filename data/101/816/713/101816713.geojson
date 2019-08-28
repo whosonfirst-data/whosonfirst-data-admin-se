@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":56.782939,
     "lbl:longitude":15.146489,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":56.782939,
     "mps:longitude":15.146489,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0425\u043e\u0432\u043c\u0430\u043d\u0442\u043e\u0440\u043f"
     ],
@@ -93,7 +96,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":54,
     "wof:belongsto":[
@@ -108,7 +111,6 @@
         "fct:id":"06d23158-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2704654,
         "gp:id":893731,
-        "qs:id":141225,
         "qs_pg:id":141225,
         "wd:id":"Q2034409",
         "wk:page":"Hovmantorp"
@@ -129,7 +131,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368658,
+    "wof:lastmodified":1566642154,
     "wof:name":"Hovmantorp",
     "wof:parent_id":1125270745,
     "wof:placetype":"locality",

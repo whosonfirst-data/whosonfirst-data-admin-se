@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003168,
+    "geom:area_square_m":22163366.684164,
     "geom:bbox":"13.7756000391,55.5172010995,13.8839219326,55.5752762796",
     "geom:latitude":55.545528,
     "geom:longitude":13.829381,
     "iso:country":"SE",
     "lbl:latitude":55.54705,
     "lbl:longitude":13.833878,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.54705,
     "mps:longitude":13.833878,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Baldringe"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159306273,
-    "wof:lastmodified":1529702603,
+    "wof:lastmodified":1566643194,
     "wof:name":"Baldringe",
     "wof:parent_id":1159303233,
     "wof:placetype":"localadmin",

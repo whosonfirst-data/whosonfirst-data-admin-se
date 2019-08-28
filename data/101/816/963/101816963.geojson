@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":58.547021,
     "lbl:longitude":15.96611,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":58.547021,
     "mps:longitude":15.96611,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Kimstad"
     ],
@@ -75,7 +78,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":90,
     "wof:belongsto":[
@@ -90,7 +93,6 @@
         "fct:id":"06d07034-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2700858,
         "gp:id":895289,
-        "qs:id":1159235,
         "qs_pg:id":1159235,
         "wd:id":"Q2705168"
     },
@@ -110,7 +112,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368620,
+    "wof:lastmodified":1566642141,
     "wof:name":"Kimstad",
     "wof:parent_id":1125421475,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000229,
-    "geom:area_square_m":1440922.174936,
+    "geom:area_square_m":1440922.174937,
     "geom:bbox":"18.0033483585,59.3579715448,18.0349225152,59.3737906496",
     "geom:latitude":59.366575,
     "geom:longitude":18.023869,
@@ -14,6 +14,7 @@
     "iso:country":"SE",
     "lbl:latitude":59.366121,
     "lbl:longitude":18.014753,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.367493,
     "mps:longitude":18.02757,
     "mz:hierarchy_label":1,
@@ -37,9 +38,6 @@
         "Stora Frosunda"
     ],
     "name:swe_x_preferred":[
-        "Stora Fr\u00f6sunda"
-    ],
-    "name:unk_x_variant":[
         "Stora Fr\u00f6sunda"
     ],
     "qs:gn_adm0_cc":"SE",
@@ -69,20 +67,19 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85688429,
         102191581,
         1125362217,
         85633789,
         101752307,
-        1159303035
+        1159303035,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2673266,
         "gp:id":906163,
-        "qs:id":1159273,
         "qs_pg:id":1159273
     },
     "wof:country":"SE",
@@ -102,7 +99,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702794,
+    "wof:lastmodified":1566640600,
     "wof:name":"Stora Fr\u00f6sunda",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

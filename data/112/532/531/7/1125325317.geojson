@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014579,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":79625029.852574,
     "geom:bbox":"20.2921030175,63.7335121967,20.5084799956,63.8500217514",
     "geom:latitude":63.788912,
     "geom:longitude":20.400211,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":18955,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":18955,
     "iso:country":"SE",
     "lbl:latitude":63.80026,
     "lbl:longitude":20.400218,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":63.80026,
     "mps:longitude":20.400218,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Alidhem"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125325317,
-    "wof:lastmodified":1529702966,
+    "wof:lastmodified":1566642517,
     "wof:name":"Alidhem",
     "wof:parent_id":1159303017,
     "wof:placetype":"localadmin",

@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":56.864969,
     "lbl:longitude":14.637528,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":56.864969,
     "mps:longitude":14.637528,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Gemla"
     ],
@@ -81,7 +84,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":125,
     "wof:belongsto":[
@@ -96,7 +99,6 @@
         "fct:id":"06d1d776-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2712377,
         "gp:id":890560,
-        "qs:id":478514,
         "qs_pg:id":478514,
         "wd:id":"Q1501148",
         "wk:page":"Gemla"
@@ -117,7 +119,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368622,
+    "wof:lastmodified":1566642142,
     "wof:name":"Gemla",
     "wof:parent_id":1125325759,
     "wof:placetype":"locality",

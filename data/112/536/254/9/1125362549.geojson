@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013129,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":82329933.801723,
     "geom:bbox":"16.4546982936,59.4741276244,16.6863142164,59.5759178954",
     "geom:latitude":59.527518,
     "geom:longitude":16.572937,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":3014,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":3014,
     "iso:country":"SE",
     "lbl:latitude":59.517126,
     "lbl:longitude":16.603674,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":59.517126,
     "mps:longitude":16.603674,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Barkaro"
@@ -48,7 +50,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":1125362549,
-    "wof:lastmodified":1529702838,
+    "wof:lastmodified":1566642958,
     "wof:name":"Barkaro",
     "wof:parent_id":1159303331,
     "wof:placetype":"localadmin",

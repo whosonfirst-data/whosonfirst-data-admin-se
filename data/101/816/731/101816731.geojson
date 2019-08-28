@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":56.552667,
     "lbl:longitude":13.072713,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":56.552667,
     "mps:longitude":13.072713,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0412\u0435\u0438\u043d\u0433\u0435"
     ],
@@ -75,7 +78,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":45,
     "wof:belongsto":[
@@ -90,7 +93,6 @@
         "fct:id":"06d2d4dc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2663435,
         "gp:id":909760,
-        "qs:id":328962,
         "qs_pg:id":328962,
         "wd:id":"Q2619062",
         "wk:page":"Veinge"
@@ -111,7 +113,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368621,
+    "wof:lastmodified":1566642142,
     "wof:name":"Veinge",
     "wof:parent_id":1125421395,
     "wof:placetype":"locality",

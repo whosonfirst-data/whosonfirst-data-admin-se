@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":60.263743,
     "lbl:longitude":18.362475,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":60.263743,
     "mps:longitude":18.362475,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0419\u043e\u0441\u0442\u0445\u0430\u043c\u0430\u0440"
     ],
@@ -141,7 +144,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":204,
     "wof:belongsto":[
@@ -156,7 +159,6 @@
         "fct:id":"06d11002-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2685699,
         "gp:id":901183,
-        "qs:id":1037527,
         "qs_pg:id":1037527,
         "wd:id":"Q59088",
         "wk:page":"\u00d6sthammar"
@@ -177,7 +179,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368708,
+    "wof:lastmodified":1566642172,
     "wof:name":"\u00d6sthammar",
     "wof:parent_id":1159307373,
     "wof:placetype":"locality",

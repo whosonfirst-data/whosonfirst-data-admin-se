@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":58.07433,
     "lbl:longitude":13.025575,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":58.07433,
     "mps:longitude":13.025575,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0647\u064a\u0631\u064a\u0648\u0646\u064a\u0627"
     ],
@@ -111,7 +114,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":110,
     "wof:belongsto":[
@@ -126,7 +129,6 @@
         "fct:id":"06d2aa98-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2706523,
         "gp:id":892910,
-        "qs:id":915731,
         "qs_pg:id":915731,
         "wd:id":"Q1614296",
         "wk:page":"Herrljunga"
@@ -147,7 +149,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368763,
+    "wof:lastmodified":1566642193,
     "wof:name":"Herrljunga",
     "wof:parent_id":1125384313,
     "wof:placetype":"locality",

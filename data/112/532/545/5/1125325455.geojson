@@ -9,17 +9,19 @@
     "geom:bbox":"18.3774885498,57.4940328353,18.5021451631,57.5649020258",
     "geom:latitude":57.527592,
     "geom:longitude":18.444737,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":918,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":918,
     "iso:country":"SE",
     "lbl:latitude":57.529024,
     "lbl:longitude":18.44471,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":57.529024,
     "mps:longitude":18.44471,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0631\u0648\u0645\u0627"
@@ -174,7 +176,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -200,7 +202,7 @@
         }
     ],
     "wof:id":1125325455,
-    "wof:lastmodified":1564164998,
+    "wof:lastmodified":1566642508,
     "wof:name":"Roma",
     "wof:parent_id":1159303535,
     "wof:placetype":"localadmin",

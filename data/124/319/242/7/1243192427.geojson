@@ -24,8 +24,12 @@
     "gn:population":322,
     "gn:timezone":"Europe/Stockholm",
     "iso:country":"SE",
+    "lbl:bbox":"14.04986,63.43747,14.08986,63.47747",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "\u00c4nge"
     ],
@@ -51,9 +55,6 @@
         "\u00c4nge"
     ],
     "name:swe_x_preferred":[
-        "\u00c4nge"
-    ],
-    "name:und_x_variant":[
         "\u00c4nge"
     ],
     "src:geom":"geonames",
@@ -83,7 +84,7 @@
         }
     ],
     "wof:id":1243192427,
-    "wof:lastmodified":1564166206,
+    "wof:lastmodified":1566643713,
     "wof:name":"AEnge",
     "wof:parent_id":1125373261,
     "wof:placetype":"locality",

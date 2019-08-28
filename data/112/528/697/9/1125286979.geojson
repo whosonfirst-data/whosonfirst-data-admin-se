@@ -9,17 +9,19 @@
     "geom:bbox":"16.415430716,57.2174671064,16.8792922901,57.2999094999",
     "geom:latitude":57.248646,
     "geom:longitude":16.629676,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":15197,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":15197,
     "iso:country":"SE",
     "lbl:latitude":57.244709,
     "lbl:longitude":16.62973,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":57.244709,
     "mps:longitude":16.62973,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u041e\u0441\u043a\u0430\u0440\u0448\u0445\u0430\u043c\u043d"
@@ -144,7 +146,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -170,7 +172,7 @@
         }
     ],
     "wof:id":1125286979,
-    "wof:lastmodified":1564165096,
+    "wof:lastmodified":1566642638,
     "wof:name":"Oskarshamn",
     "wof:parent_id":1159303119,
     "wof:placetype":"localadmin",

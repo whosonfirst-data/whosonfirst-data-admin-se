@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001915,
+    "geom:area_square_m":13402227.720023,
     "geom:bbox":"14.065044827,55.4972507331,14.1280473733,55.5533718107",
     "geom:latitude":55.524387,
     "geom:longitude":14.093204,
     "iso:country":"SE",
     "lbl:latitude":55.517428,
     "lbl:longitude":14.093212,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.517428,
     "mps:longitude":14.093212,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ostra Ingelstad"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159307419,
-    "wof:lastmodified":1529702625,
+    "wof:lastmodified":1566643264,
     "wof:name":"Ostra Ingelstad",
     "wof:parent_id":1159302959,
     "wof:placetype":"localadmin",

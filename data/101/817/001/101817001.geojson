@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":58.440561,
     "lbl:longitude":11.299644,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":58.440561,
     "mps:longitude":11.299644,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0425\u0443\u043d\u0435\u0431\u043e\u0441\u0442\u0440\u0430\u043d\u0434"
     ],
@@ -72,7 +75,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":46,
     "wof:belongsto":[
@@ -87,7 +90,6 @@
         "fct:id":"06d2174a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2704245,
         "gp:id":893918,
-        "qs:id":3571,
         "qs_pg:id":3571,
         "wd:id":"Q2685807",
         "wk:page":"Hunnebostrand"
@@ -108,7 +110,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368763,
+    "wof:lastmodified":1566642192,
     "wof:name":"Hunnebostrand",
     "wof:parent_id":1125372727,
     "wof:placetype":"locality",

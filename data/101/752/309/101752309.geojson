@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":59.440908,
     "lbl:longitude":18.068585,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":59.440908,
     "mps:longitude":18.068585,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u062a\u064a\u0628\u064a"
     ],
@@ -168,7 +171,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":59.433333,
     "wd:longitude":18.083333,
@@ -186,7 +189,6 @@
         "fct:id":"06d4862e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2669772,
         "gp:id":907140,
-        "qs:id":492509,
         "qs_pg:id":492509,
         "wd:id":"Q54337"
     },
@@ -206,7 +208,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368570,
+    "wof:lastmodified":1566642128,
     "wof:name":"T\u00e4by",
     "wof:parent_id":1125398123,
     "wof:placetype":"locality",

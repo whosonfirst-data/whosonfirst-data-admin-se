@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004253,
+    "geom:area_square_m":27549710.691034,
     "geom:bbox":"15.6894318049,58.3618929066,15.8235392824,58.4371921645",
     "geom:latitude":58.40599,
     "geom:longitude":15.756796,
     "iso:country":"SE",
     "lbl:latitude":58.406643,
     "lbl:longitude":15.761331,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":58.406643,
     "mps:longitude":15.761331,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Vardsberg"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159307601,
-    "wof:lastmodified":1529703093,
+    "wof:lastmodified":1566643272,
     "wof:name":"Vardsberg",
     "wof:parent_id":1159303147,
     "wof:placetype":"localadmin",

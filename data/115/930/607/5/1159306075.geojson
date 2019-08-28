@@ -12,10 +12,13 @@
     "iso:country":"SE",
     "lbl:latitude":58.303202,
     "lbl:longitude":12.962165,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":58.303202,
     "mps:longitude":12.962165,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0637\u0648\u064a\u0644"
     ],
@@ -87,7 +90,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":1159306075,
-    "wof:lastmodified":1564165699,
+    "wof:lastmodified":1566643345,
     "wof:name":"Long",
     "wof:parent_id":1159303487,
     "wof:placetype":"localadmin",

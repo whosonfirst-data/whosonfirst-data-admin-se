@@ -11,8 +11,10 @@
     "geom:longitude":18.315505,
     "gn:id":"",
     "iso:country":"SE",
+    "lbl:bbox":"18.310505,59.475888,18.320505,59.485888",
     "lbl:latitude":59.480888,
     "lbl:longitude":18.315505,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.48833,
     "mps:longitude":18.334821,
     "mz:hierarchy_label":0,
@@ -87,9 +89,6 @@
     "name:swe_x_preferred":[
         "Sora"
     ],
-    "name:unk_x_variant":[
-        "Sora"
-    ],
     "name:war_x_preferred":[
         "Sora"
     ],
@@ -124,7 +123,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         1125423247,
@@ -136,7 +135,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20151688,
-        "qs:id":212135,
         "qs_pg:id":212135
     },
     "wof:country":"SE",
@@ -156,7 +154,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1564162457,
+    "wof:lastmodified":1566640634,
     "wof:name":"Sora",
     "wof:parent_id":101815899,
     "wof:placetype":"neighbourhood",

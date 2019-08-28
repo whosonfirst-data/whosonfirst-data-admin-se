@@ -9,17 +9,19 @@
     "geom:bbox":"16.3052674981,59.5118161567,16.475234478,59.6430829808",
     "geom:latitude":59.576018,
     "geom:longitude":16.395675,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":2322,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":2322,
     "iso:country":"SE",
     "lbl:latitude":59.576604,
     "lbl:longitude":16.389878,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":59.576604,
     "mps:longitude":16.389878,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Dingtuna"
@@ -63,7 +65,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -89,7 +91,7 @@
         }
     ],
     "wof:id":1125362245,
-    "wof:lastmodified":1564165354,
+    "wof:lastmodified":1566642955,
     "wof:name":"Dingtuna",
     "wof:parent_id":1159303331,
     "wof:placetype":"localadmin",

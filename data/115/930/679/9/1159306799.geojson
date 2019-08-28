@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001821,
+    "geom:area_square_m":12755022.639027,
     "geom:bbox":"13.9350043603,55.4668355265,14.0282248416,55.5043629786",
     "geom:latitude":55.485824,
     "geom:longitude":13.98689,
     "iso:country":"SE",
     "lbl:latitude":55.482703,
     "lbl:longitude":13.987601,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.482703,
     "mps:longitude":13.987601,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tosterup"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159306799,
-    "wof:lastmodified":1529702613,
+    "wof:lastmodified":1566643313,
     "wof:name":"Tosterup",
     "wof:parent_id":1159302959,
     "wof:placetype":"localadmin",

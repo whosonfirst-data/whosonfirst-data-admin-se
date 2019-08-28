@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":23693371.926969,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.012952,55.601647,13.012952,55.601647",
     "geom:latitude":55.601647,
     "geom:longitude":13.012952,
     "gn:latitude":55.6,
     "gn:longitude":13.01667,
     "iso:country":"SE",
+    "lbl:bbox":"13.007952,55.596647,13.017952,55.606647",
     "lbl:latitude":55.601647,
     "lbl:longitude":13.012952,
+    "lbl:max_zoom":18.0,
     "mps:latitude":55.610287,
     "mps:longitude":13.038434,
     "mz:hierarchy_label":0,
@@ -37,9 +39,6 @@
         "Mellersta Forstaden"
     ],
     "name:swe_x_preferred":[
-        "Mellersta F\u00f6rstaden"
-    ],
-    "name:unk_x_variant":[
         "Mellersta F\u00f6rstaden"
     ],
     "qs:gn_adm0_cc":"SE",
@@ -71,20 +70,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85688377,
         102191581,
         1159305753,
         85633789,
         101752283,
-        1159303367
+        1159303367,
+        85688377
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2692055,
         "gp:id":898428,
-        "qs:id":484430,
         "qs_pg:id":484430
     },
     "wof:country":"SE",
@@ -104,7 +102,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1531935876,
+    "wof:lastmodified":1566640588,
     "wof:name":"Mellersta F\u00f6rstaden",
     "wof:parent_id":101752283,
     "wof:placetype":"neighbourhood",

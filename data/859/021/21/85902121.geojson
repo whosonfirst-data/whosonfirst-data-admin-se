@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":47287641.407675,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.866436,56.674495,12.866436,56.674495",
     "geom:latitude":56.674495,
     "geom:longitude":12.866436,
     "gn:latitude":56.68333,
     "gn:longitude":12.88333,
     "iso:country":"SE",
+    "lbl:bbox":"12.861436,56.669495,12.871436,56.679495",
     "lbl:latitude":56.674495,
     "lbl:longitude":12.866436,
+    "lbl:max_zoom":18.0,
     "mps:latitude":56.674871,
     "mps:longitude":12.872817,
     "mz:hierarchy_label":0,
@@ -58,9 +60,6 @@
     "name:swe_x_preferred":[
         "Furet"
     ],
-    "name:unk_x_variant":[
-        "Furet"
-    ],
     "qs:gn_adm0_cc":"SE",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":2708365,
@@ -90,20 +89,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85688391,
         102191581,
         1125417569,
         85633789,
         101752285,
-        1159303343
+        1159303343,
+        85688391
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2713417,
         "gp:id":890165,
-        "qs:id":406424,
         "qs_pg:id":406424
     },
     "wof:country":"SE",
@@ -123,7 +121,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1531935858,
+    "wof:lastmodified":1566640649,
     "wof:name":"Furet",
     "wof:parent_id":101752285,
     "wof:placetype":"neighbourhood",

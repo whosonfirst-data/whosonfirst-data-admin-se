@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026071,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":176350260.637385,
     "geom:bbox":"15.2750943803,56.75796742,15.5561867811,56.9015152914",
     "geom:latitude":56.836013,
     "geom:longitude":15.416448,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":1085,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":1085,
     "iso:country":"SE",
     "lbl:latitude":56.838677,
     "lbl:longitude":15.405148,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":56.838677,
     "mps:longitude":15.405148,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Ekeberga"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125327777,
-    "wof:lastmodified":1529702484,
+    "wof:lastmodified":1566642509,
     "wof:name":"Ekeberga",
     "wof:parent_id":1159303067,
     "wof:placetype":"localadmin",

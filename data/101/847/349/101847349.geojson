@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":60.04505,
     "lbl:longitude":18.601654,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":60.04505,
     "mps:longitude":18.601654,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0425\u0430\u043b\u0441\u0442\u0430\u0432\u0438\u043a"
     ],
@@ -88,7 +91,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":399,
     "wof:belongsto":[
@@ -103,7 +106,6 @@
         "fct:id":"06d122b8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2708426,
         "gp:id":892177,
-        "qs:id":316644,
         "qs_pg:id":316644,
         "wd:id":"Q496201",
         "wk:page":"Hallstavik"
@@ -124,7 +126,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368866,
+    "wof:lastmodified":1566642229,
     "wof:name":"Hallstavik",
     "wof:parent_id":1125286431,
     "wof:placetype":"locality",

@@ -5,13 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000585,
-    "geom:area_square_m":3685149.537171,
+    "geom:area_square_m":3685149.537173,
     "geom:bbox":"18.1382732446,59.3695927232,18.169352794,59.3949824231",
     "geom:latitude":59.380184,
     "geom:longitude":18.153765,
     "iso:country":"SE",
     "lbl:latitude":59.373289,
     "lbl:longitude":18.148136,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.380127,
     "mps:longitude":18.152247,
     "mz:hierarchy_label":1,
@@ -25,9 +26,6 @@
     "mz:tier_locality":5,
     "mz:tier_metro":1,
     "name:swe_x_preferred":[
-        "Naset"
-    ],
-    "name:unk_x_variant":[
         "Naset"
     ],
     "qs:gn_adm0_cc":"SE",
@@ -54,14 +52,14 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85688429,
         102191581,
         1125394719,
         85633789,
         101839523,
-        1159303469
+        1159303469,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -84,7 +82,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702810,
+    "wof:lastmodified":1566640618,
     "wof:name":"N\u00e4set",
     "wof:parent_id":101839523,
     "wof:placetype":"neighbourhood",

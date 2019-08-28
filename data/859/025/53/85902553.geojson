@@ -12,8 +12,10 @@
     "gn:latitude":57.81667,
     "gn:longitude":12.41667,
     "iso:country":"SE",
+    "lbl:bbox":"12.428777,57.809041,12.438777,57.819041",
     "lbl:latitude":57.814041,
     "lbl:longitude":12.433777,
+    "lbl:max_zoom":18.0,
     "mps:latitude":57.814041,
     "mps:longitude":12.433777,
     "mz:hierarchy_label":0,
@@ -55,9 +57,6 @@
     "name:swe_x_variant":[
         "Tollereds"
     ],
-    "name:unk_x_variant":[
-        "Tollered"
-    ],
     "name:zho_min_nan_x_preferred":[
         "Tollered"
     ],
@@ -89,7 +88,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":47,
     "wof:belongsto":[
         102191581,
@@ -102,7 +101,7 @@
     "wof:concordances":{
         "gn:id":2668423,
         "gp:id":907612,
-        "qs:id":232196,
+        "qs_pg:id":232196,
         "wd:id":"Q2588056",
         "wk:page":"Tollered"
     },
@@ -123,7 +122,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563366538,
+    "wof:lastmodified":1566640601,
     "wof:name":"Tollered",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

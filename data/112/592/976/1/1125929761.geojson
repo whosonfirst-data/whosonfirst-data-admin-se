@@ -9,14 +9,18 @@
     "geom:bbox":"16.6,59.43306,16.6,59.43306",
     "geom:latitude":59.43306,
     "geom:longitude":16.6,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"SE",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"SE",
+    "lbl:bbox":"16.58,59.41306,16.62,59.45306",
     "lbl:latitude":59.43306,
     "lbl:longitude":16.6,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:dan_x_preferred":[
         "Ostra Knall"
@@ -45,7 +49,7 @@
     "name:swe_x_preferred":[
         "Ostraknall"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ostra"
     ],
     "qs_pg:aaroncc":"SE",
@@ -69,7 +73,7 @@
     "qs_pg:woe_adm0":23424954,
     "qs_pg:woe_id":901419,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424954,
     "woe:name_adm0":"Sverige",
     "woe:name_adm1":"S\u00f6dermanlands L\u00e4n",
@@ -102,7 +106,7 @@
         }
     ],
     "wof:id":1125929761,
-    "wof:lastmodified":1561839999,
+    "wof:lastmodified":1566642403,
     "wof:name":"Ostraknall",
     "wof:parent_id":1125356171,
     "wof:placetype":"locality",

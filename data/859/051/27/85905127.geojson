@@ -13,6 +13,7 @@
     "iso:country":"SE",
     "lbl:latitude":59.17697,
     "lbl:longitude":17.806572,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.1759,
     "mps:longitude":17.809995,
     "mz:hierarchy_label":1,
@@ -25,9 +26,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":0,
     "name:swe_x_preferred":[
-        "Broangen"
-    ],
-    "name:unk_x_variant":[
         "Broangen"
     ],
     "qs:gn_adm0_cc":"SE",
@@ -57,7 +55,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         1159305943,
@@ -68,7 +66,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20150889,
-        "qs:id":231071,
         "qs_pg:id":231071
     },
     "wof:country":"SE",
@@ -88,7 +85,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702807,
+    "wof:lastmodified":1566640659,
     "wof:name":"Broangen",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

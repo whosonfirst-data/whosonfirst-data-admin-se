@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034288,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":233417649.338381,
     "geom:bbox":"13.3975855385,56.5171228679,13.7708572482,56.6774087963",
     "geom:latitude":56.596185,
     "geom:longitude":13.574838,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":515,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":515,
     "iso:country":"SE",
     "lbl:latitude":56.595735,
     "lbl:longitude":13.556488,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":56.595735,
     "mps:longitude":13.556488,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Hinneryd"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125358159,
-    "wof:lastmodified":1529702338,
+    "wof:lastmodified":1566642460,
     "wof:name":"Hinneryd",
     "wof:parent_id":1159303521,
     "wof:placetype":"localadmin",

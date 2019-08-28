@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000956,
-    "geom:area_square_m":6048261.498674,
+    "geom:area_square_m":6048261.498675,
     "geom:bbox":"17.9557167982,59.2237446823,18.0094655512,59.2532443285",
     "geom:latitude":59.238274,
     "geom:longitude":17.981365,
@@ -13,6 +13,7 @@
     "iso:country":"SE",
     "lbl:latitude":59.23592,
     "lbl:longitude":17.957901,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.236389,
     "mps:longitude":17.979192,
     "mz:hierarchy_label":1,
@@ -33,9 +34,6 @@
         "Huddunge"
     ],
     "name:swe_x_preferred":[
-        "Huddinge"
-    ],
-    "name:unk_x_variant":[
         "Huddinge"
     ],
     "qs:gn_adm0_cc":"SE",
@@ -64,19 +62,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85688429,
         102191581,
         1125362217,
         85633789,
         101752307,
-        1159303035
+        1159303035,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":893745,
-        "qs:id":1115564,
         "qs_pg:id":1115564
     },
     "wof:country":"SE",
@@ -96,7 +93,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702782,
+    "wof:lastmodified":1566640650,
     "wof:name":"Huddinge",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

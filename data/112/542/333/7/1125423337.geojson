@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023627,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":145852813.050698,
     "geom:bbox":"18.3885211055,59.9581811553,18.6087985168,60.1633697415",
     "geom:latitude":60.050725,
     "geom:longitude":18.523872,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":1024,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":1024,
     "iso:country":"SE",
     "lbl:latitude":60.046382,
     "lbl:longitude":18.523917,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":60.046382,
     "mps:longitude":18.523917,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Edebo"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125423337,
-    "wof:lastmodified":1529702728,
+    "wof:lastmodified":1566642749,
     "wof:name":"Edebo",
     "wof:parent_id":1159302995,
     "wof:placetype":"localadmin",

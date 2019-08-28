@@ -24,10 +24,13 @@
     ],
     "lbl:latitude":59.085099,
     "lbl:longitude":17.153294,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":59.085099,
     "mps:longitude":17.153294,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bul_x_preferred":[
         "\u0413\u043d\u0435\u0441\u0442\u0430"
     ],
@@ -94,7 +97,7 @@
     "se-lant:lanskod":4,
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":1159302949,
-    "wof:lastmodified":1564165549,
+    "wof:lastmodified":1566643213,
     "wof:name":"Gnesta",
     "wof:parent_id":85688419,
     "wof:placetype":"county",

@@ -9,17 +9,19 @@
     "geom:bbox":"16.2099593945,60.7517541298,16.954313121,61.0428296956",
     "geom:latitude":60.886813,
     "geom:longitude":16.652227,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":6027,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":6027,
     "iso:country":"SE",
     "lbl:latitude":60.890419,
     "lbl:longitude":16.657682,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":60.890419,
     "mps:longitude":16.657682,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u041e\u043a\u0435\u043b\u0431\u0443"
@@ -96,7 +98,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -122,7 +124,7 @@
         }
     ],
     "wof:id":1125382057,
-    "wof:lastmodified":1564165300,
+    "wof:lastmodified":1566642908,
     "wof:name":"Ockelbo",
     "wof:parent_id":1159303283,
     "wof:placetype":"localadmin",

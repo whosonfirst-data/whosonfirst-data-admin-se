@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00835,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":55681903.392663,
     "geom:bbox":"15.3075469796,57.3236368599,15.5180126548,57.3976561519",
     "geom:latitude":57.364455,
     "geom:longitude":15.40363,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":281,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":281,
     "iso:country":"SE",
     "lbl:latitude":57.368713,
     "lbl:longitude":15.410792,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":57.368713,
     "mps:longitude":15.410792,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Skiro"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125325673,
-    "wof:lastmodified":1529702408,
+    "wof:lastmodified":1566642481,
     "wof:name":"Skiro",
     "wof:parent_id":1159303157,
     "wof:placetype":"localadmin",

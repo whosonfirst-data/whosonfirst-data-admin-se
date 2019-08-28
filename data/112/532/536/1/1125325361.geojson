@@ -9,17 +9,19 @@
     "geom:bbox":"20.8049940535,64.7979707108,21.5789788742,65.1697905364",
     "geom:latitude":64.982056,
     "geom:longitude":21.18445,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":5183,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":5183,
     "iso:country":"SE",
     "lbl:latitude":64.959378,
     "lbl:longitude":21.210838,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":64.959378,
     "mps:longitude":21.210838,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0411\u044e\u0441\u043a\u0435"
@@ -66,7 +68,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -92,7 +94,7 @@
         }
     ],
     "wof:id":1125325361,
-    "wof:lastmodified":1564165009,
+    "wof:lastmodified":1566642519,
     "wof:name":"Byske",
     "wof:parent_id":1159303205,
     "wof:placetype":"localadmin",

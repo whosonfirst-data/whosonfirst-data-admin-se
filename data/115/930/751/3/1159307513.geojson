@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001849,
+    "geom:area_square_m":11712006.492564,
     "geom:bbox":"17.588275599,59.1556902713,17.6700890693,59.2062744745",
     "geom:latitude":59.181182,
     "geom:longitude":17.629016,
     "iso:country":"SE",
     "lbl:latitude":59.181936,
     "lbl:longitude":17.624983,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":59.181936,
     "mps:longitude":17.624983,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sodertalje"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159307513,
-    "wof:lastmodified":1529702727,
+    "wof:lastmodified":1566643279,
     "wof:name":"Sodertalje",
     "wof:parent_id":1159303135,
     "wof:placetype":"localadmin",

@@ -9,17 +9,19 @@
     "geom:bbox":"12.9572975417,55.8480097943,13.0661572664,55.9031813172",
     "geom:latitude":55.874595,
     "geom:longitude":13.009208,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":2158,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":2158,
     "iso:country":"SE",
     "lbl:latitude":55.878552,
     "lbl:longitude":13.008388,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":55.878552,
     "mps:longitude":13.008388,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Billeberga"
@@ -63,7 +65,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -89,7 +91,7 @@
         }
     ],
     "wof:id":1125286467,
-    "wof:lastmodified":1564165090,
+    "wof:lastmodified":1566642632,
     "wof:name":"Billeberga",
     "wof:parent_id":1159303189,
     "wof:placetype":"localadmin",

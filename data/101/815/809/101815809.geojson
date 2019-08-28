@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":58.989144,
     "lbl:longitude":16.198616,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":58.989144,
     "mps:longitude":16.198616,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:bel_x_preferred":[
         "\u041a\u0430\u0442\u0440\u044b\u043d\u0435\u0445\u043e\u043b\u044c\u043c"
     ],
@@ -184,7 +187,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":58.993611,
     "wd:longitude":16.201389,
@@ -202,7 +205,6 @@
         "fct:id":"06d0fcfc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2701223,
         "gp:id":895148,
-        "qs:id":229687,
         "qs_pg:id":229687,
         "wd:id":"Q54758",
         "wk:page":"Katrineholm"
@@ -223,7 +225,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368847,
+    "wof:lastmodified":1566642222,
     "wof:name":"Katrineholm",
     "wof:parent_id":1159305877,
     "wof:placetype":"locality",

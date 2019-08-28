@@ -9,17 +9,19 @@
     "geom:bbox":"12.8807333369,55.5591106468,12.9694926681,55.6019416154",
     "geom:latitude":55.578409,
     "geom:longitude":12.926146,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":21902,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":21902,
     "iso:country":"SE",
     "lbl:latitude":55.580899,
     "lbl:longitude":12.927113,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":55.580899,
     "mps:longitude":12.927113,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Limhamn"
@@ -60,7 +62,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -86,7 +88,7 @@
         }
     ],
     "wof:id":1125379163,
-    "wof:lastmodified":1564165235,
+    "wof:lastmodified":1566642823,
     "wof:name":"Limhamn",
     "wof:parent_id":1159303367,
     "wof:placetype":"localadmin",

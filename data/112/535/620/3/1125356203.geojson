@@ -9,17 +9,19 @@
     "geom:bbox":"16.8192025994,59.2737709399,16.9904528945,59.4043858978",
     "geom:latitude":59.339037,
     "geom:longitude":16.886111,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":2408,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":2408,
     "iso:country":"SE",
     "lbl:latitude":59.335725,
     "lbl:longitude":16.87766,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":59.335725,
     "mps:longitude":16.87766,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bel_x_preferred":[
         "\u0425\u0430\u0440\u0430\u0434"
@@ -120,7 +122,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -146,7 +148,7 @@
         }
     ],
     "wof:id":1125356203,
-    "wof:lastmodified":1564164931,
+    "wof:lastmodified":1566642442,
     "wof:name":"Harad",
     "wof:parent_id":1159303351,
     "wof:placetype":"localadmin",

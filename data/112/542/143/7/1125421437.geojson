@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.090624,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":559624000.812305,
     "geom:bbox":"15.2284282225,59.8541453812,15.8014163402,60.2317176685",
     "geom:latitude":60.039458,
     "geom:longitude":15.544241,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":2555,
-    "gn:population":2514,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
+    "gn:population":2555,
     "iso:country":"SE",
     "lbl:latitude":60.044905,
     "lbl:longitude":15.587225,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":60.044905,
     "mps:longitude":15.587225,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Soderbarke"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125421437,
-    "wof:lastmodified":1529701980,
+    "wof:lastmodified":1566642738,
     "wof:name":"Soderbarke",
     "wof:parent_id":1159303435,
     "wof:placetype":"localadmin",

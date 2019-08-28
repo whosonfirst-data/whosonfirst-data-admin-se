@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.218304,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":1059951213.209893,
     "geom:bbox":"20.9458807644,66.6692708052,22.1649839319,67.0470209727",
     "geom:latitude":66.879502,
     "geom:longitude":21.593288,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":774,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":774,
     "iso:country":"SE",
     "lbl:latitude":66.852793,
     "lbl:longitude":21.745333,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":66.852793,
     "mps:longitude":21.745333,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Hakkas"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125373597,
-    "wof:lastmodified":1529702559,
+    "wof:lastmodified":1566642803,
     "wof:name":"Hakkas",
     "wof:parent_id":1159303507,
     "wof:placetype":"localadmin",

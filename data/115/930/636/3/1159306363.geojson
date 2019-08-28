@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001899,
+    "geom:area_square_m":13293143.410498,
     "geom:bbox":"12.8769651291,55.5146746307,13.0298872662,55.5381102926",
     "geom:latitude":55.528547,
     "geom:longitude":12.948643,
     "iso:country":"SE",
     "lbl:latitude":55.530644,
     "lbl:longitude":12.929434,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.530644,
     "mps:longitude":12.929434,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Vastra Klagstorp"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159306363,
-    "wof:lastmodified":1529702605,
+    "wof:lastmodified":1566643348,
     "wof:name":"Vastra Klagstorp",
     "wof:parent_id":1159303367,
     "wof:placetype":"localadmin",

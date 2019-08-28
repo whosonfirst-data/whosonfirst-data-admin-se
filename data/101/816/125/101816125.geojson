@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":61.644748,
     "lbl:longitude":17.086107,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":61.644748,
     "mps:longitude":17.086107,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0418\u0433\u0435\u0441\u0443\u043d\u0434"
     ],
@@ -59,9 +62,6 @@
     "name:swe_x_variant":[
         "Iggesunds"
     ],
-    "name:unk_x_variant":[
-        "Iggesunds Bruk"
-    ],
     "qs:a0":"Sverige",
     "qs:a1":"*G\u00e4vleborgs l\u00e4n",
     "qs:a1r":"0",
@@ -78,7 +78,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688453,
@@ -92,7 +92,6 @@
         "fct:id":"06d32d10-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2703827,
         "gp:id":894076,
-        "qs:id":1083445,
         "qs_pg:id":1083445,
         "wd:id":"Q68971",
         "wk:page":"Iggesund, Hudiksvall Municipality"
@@ -113,7 +112,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368729,
+    "wof:lastmodified":1566642180,
     "wof:name":"Iggesund",
     "wof:parent_id":1159306527,
     "wof:placetype":"locality",

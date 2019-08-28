@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000504,
+    "geom:area_square_m":3541681.815517,
     "geom:bbox":"13.1713952206,55.3662392548,13.2085219813,55.395115668",
     "geom:latitude":55.381219,
     "geom:longitude":13.191753,
     "iso:country":"SE",
     "lbl:latitude":55.382449,
     "lbl:longitude":13.190489,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.382449,
     "mps:longitude":13.190489,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kyrkokopinge"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159307411,
-    "wof:lastmodified":1529702625,
+    "wof:lastmodified":1566643264,
     "wof:name":"Kyrkokopinge",
     "wof:parent_id":1159303309,
     "wof:placetype":"localadmin",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001333,
+    "geom:area_square_m":9375860.573098,
     "geom:bbox":"13.330463694,55.3275839387,13.3957262022,55.3571947646",
     "geom:latitude":55.342584,
     "geom:longitude":13.361165,
     "iso:country":"SE",
     "lbl:latitude":55.343045,
     "lbl:longitude":13.361159,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.343045,
     "mps:longitude":13.361159,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ostra Torp"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159307575,
-    "wof:lastmodified":1529702629,
+    "wof:lastmodified":1566643291,
     "wof:name":"Ostra Torp",
     "wof:parent_id":1159303309,
     "wof:placetype":"localadmin",

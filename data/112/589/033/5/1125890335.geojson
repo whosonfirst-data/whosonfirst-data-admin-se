@@ -9,15 +9,18 @@
     "geom:bbox":"16.25,59.53333,16.25,59.53333",
     "geom:latitude":59.53333,
     "geom:longitude":16.25,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":676,
+    "gn:country":"SE",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"SE",
+    "lbl:bbox":"16.23,59.51333,16.27,59.55333",
     "lbl:latitude":59.53333,
     "lbl:longitude":16.25,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
         "Str\u00f6msholm"
@@ -55,7 +58,7 @@
     "name:swe_x_preferred":[
         "Str\u00f6msholm"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Stromsholms"
     ],
     "qs_pg:aaroncc":"SE",
@@ -79,7 +82,7 @@
     "qs_pg:woe_adm0":23424954,
     "qs_pg:woe_id":906572,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424954,
     "woe:name_adm0":"Sverige",
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":1125890335,
-    "wof:lastmodified":1563369561,
+    "wof:lastmodified":1566642726,
     "wof:name":"Str\u00f6msholm",
     "wof:parent_id":1125384261,
     "wof:placetype":"locality",

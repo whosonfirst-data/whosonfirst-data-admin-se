@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00278,
-    "geom:area_square_m":17608827.66218,
+    "geom:area_square_m":17608827.662177,
     "geom:bbox":"18.121109613,59.1617058832,18.2061059571,59.2158786603",
     "geom:latitude":59.186754,
     "geom:longitude":18.164283,
@@ -14,6 +14,7 @@
     "iso:country":"SE",
     "lbl:latitude":59.181283,
     "lbl:longitude":18.150004,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.180982,
     "mps:longitude":18.156592,
     "mz:hierarchy_label":1,
@@ -28,9 +29,8 @@
     "name:swe_x_preferred":[
         "Opp-Norrby"
     ],
-    "name:unk_x_variant":[
-        "Norrby",
-        "Opp-Norrby"
+    "name:und_x_variant":[
+        "Norrby"
     ],
     "qs:gn_adm0_cc":"SE",
     "qs:gn_fcode":"PPL",
@@ -59,20 +59,19 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85688429,
         102191581,
         1125362217,
         85633789,
         101752307,
-        1159303035
+        1159303035,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2686772,
         "gp:id":20151456,
-        "qs:id":1085923,
         "qs_pg:id":1085923
     },
     "wof:country":"SE",
@@ -92,7 +91,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702810,
+    "wof:lastmodified":1566640612,
     "wof:name":"Opp-Norrby",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

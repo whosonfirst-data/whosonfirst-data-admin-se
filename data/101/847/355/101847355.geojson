@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":60.7404,
     "lbl:longitude":15.443624,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":60.7404,
     "mps:longitude":15.443624,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Bjurs\u00e5s"
     ],
@@ -73,7 +76,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":109,
     "wof:belongsto":[
@@ -88,7 +91,6 @@
         "fct:id":"06d479ae-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2721581,
         "gp:id":886698,
-        "qs:id":1350945,
         "qs_pg:id":1350945,
         "wd:id":"Q1861597",
         "wk:page":"Bjurs\u00e5s"
@@ -109,7 +111,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368862,
+    "wof:lastmodified":1566642227,
     "wof:name":"Bjurs\u00e5s",
     "wof:parent_id":1125356425,
     "wof:placetype":"locality",

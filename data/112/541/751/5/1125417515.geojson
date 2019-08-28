@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.156857,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":827862875.681159,
     "geom:bbox":"20.0336574021,64.583826476,21.1953601385,64.8677700919",
     "geom:latitude":64.733496,
     "geom:longitude":20.635338,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":20268,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":20268,
     "iso:country":"SE",
     "lbl:latitude":64.736552,
     "lbl:longitude":20.665914,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":64.736552,
     "mps:longitude":20.665914,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Skelleftea landsdistrikt"
@@ -48,7 +50,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":1125417515,
-    "wof:lastmodified":1529702968,
+    "wof:lastmodified":1566643089,
     "wof:name":"Skelleftea landsdistrikt",
     "wof:parent_id":1159303205,
     "wof:placetype":"localadmin",

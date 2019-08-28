@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Stockholm",
     "iso:country":"SE",
+    "lbl:bbox":"16.84667,58.68,16.88667,58.72",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633789
@@ -35,7 +39,7 @@
         "gn:id":2683924
     },
     "wof:country":"SE",
-    "wof:geomhash":"15915bce42f556c2c1c74c135359a5b0",
+    "wof:geomhash":"889291f814a3e791a42883a9d157be57",
     "wof:hierarchy":[
         {
             "country_id":85633789,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209691281,
-    "wof:lastmodified":1536279231,
+    "wof:lastmodified":1566641497,
     "wof:name":"Prasttorp",
     "wof:parent_id":85633789,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.866670000000006,
+    16.86667000000001,
     58.7,
-    16.866670000000006,
+    16.86667000000001,
     58.7
 ],
   "geometry": {"coordinates":[16.86667000000001,58.7],"type":"Point"}

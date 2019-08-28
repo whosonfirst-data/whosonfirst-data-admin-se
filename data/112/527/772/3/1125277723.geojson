@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007769,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":51855923.398371,
     "geom:bbox":"14.7059514702,57.2497106915,14.8283263019,57.379731535",
     "geom:latitude":57.330885,
     "geom:longitude":14.77254,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":232,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":232,
     "iso:country":"SE",
     "lbl:latitude":57.346972,
     "lbl:longitude":14.77763,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":57.346972,
     "mps:longitude":14.77763,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Skepperstad"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125277723,
-    "wof:lastmodified":1529702434,
+    "wof:lastmodified":1566642715,
     "wof:name":"Skepperstad",
     "wof:parent_id":1159303069,
     "wof:placetype":"localadmin",

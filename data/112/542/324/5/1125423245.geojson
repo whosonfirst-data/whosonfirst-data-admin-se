@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.054274,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":340515162.080658,
     "geom:bbox":"18.4445101872,59.4003651769,19.0020113551,59.5999313874",
     "geom:latitude":59.509811,
     "geom:longitude":18.693959,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":2338,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":2338,
     "iso:country":"SE",
     "lbl:latitude":59.518929,
     "lbl:longitude":18.601691,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":59.518929,
     "mps:longitude":18.601691,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Roslags-Kulla och Ljustero"
@@ -48,7 +50,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":1125423245,
-    "wof:lastmodified":1529702727,
+    "wof:lastmodified":1566642736,
     "wof:name":"Roslags-Kulla och Ljustero",
     "wof:parent_id":1159303039,
     "wof:placetype":"localadmin",

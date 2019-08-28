@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019858,
+    "geom:area_square_m":125360349.789992,
     "geom:bbox":"15.8646941521,59.2304836746,16.1161774025,59.3692616086",
     "geom:latitude":59.301417,
     "geom:longitude":15.993001,
     "iso:country":"SE",
     "lbl:latitude":59.305909,
     "lbl:longitude":15.991087,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":59.305909,
     "mps:longitude":15.991087,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Vastermo"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159306393,
-    "wof:lastmodified":1529702834,
+    "wof:lastmodified":1566643333,
     "wof:name":"Vastermo",
     "wof:parent_id":1159303207,
     "wof:placetype":"localadmin",

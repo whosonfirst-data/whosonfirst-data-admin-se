@@ -13,6 +13,7 @@
     "iso:country":"SE",
     "lbl:latitude":59.451786,
     "lbl:longitude":17.957382,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.445704,
     "mps:longitude":17.965447,
     "mz:hierarchy_label":1,
@@ -26,9 +27,6 @@
     "mz:tier_locality":5,
     "mz:tier_metro":1,
     "name:swe_x_preferred":[
-        "Edsangen"
-    ],
-    "name:unk_x_variant":[
         "Edsangen"
     ],
     "qs:gn_adm0_cc":"SE",
@@ -56,19 +54,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85688429,
         102191581,
         1125362217,
         85633789,
         101752307,
-        1159303035
+        1159303035,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20150925,
-        "qs:id":341840,
         "qs_pg:id":341840
     },
     "wof:country":"SE",
@@ -88,7 +85,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702805,
+    "wof:lastmodified":1566640663,
     "wof:name":"Eds\u00e4ngen",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

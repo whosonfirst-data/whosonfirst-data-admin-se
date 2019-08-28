@@ -13,6 +13,8 @@
     "iso:country":"SE",
     "lbl:latitude":56.672809,
     "lbl:longitude":12.873349,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":56.672809,
     "mps:longitude":12.873349,
     "mz:hierarchy_label":1,
@@ -290,7 +292,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u0430\u043b\u044c\u043c\u0441\u0442\u0430\u0434"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hamstad"
     ],
     "name:urd_x_preferred":[
@@ -425,7 +427,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":11.0,
     "wd:latitude":56.666667,
@@ -443,7 +445,6 @@
         "fct:id":"06d1a5a8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2708365,
         "gp:id":892193,
-        "qs:id":239943,
         "qs_pg:id":239943,
         "wd:id":"Q26521",
         "wk:page":"Halmstad"
@@ -464,7 +465,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368590,
+    "wof:lastmodified":1566642131,
     "wof:name":"Halmstad",
     "wof:parent_id":1125417569,
     "wof:placetype":"locality",

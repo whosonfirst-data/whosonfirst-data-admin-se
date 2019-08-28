@@ -9,17 +9,19 @@
     "geom:bbox":"15.3373714586,56.481742666,15.534100604,56.6479205894",
     "geom:latitude":56.568145,
     "geom:longitude":15.42945,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":895,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":895,
     "iso:country":"SE",
     "lbl:latitude":56.567593,
     "lbl:longitude":15.429495,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":56.567593,
     "mps:longitude":15.429495,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Langasjo"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125362877,
-    "wof:lastmodified":1554166191,
+    "wof:lastmodified":1566642938,
     "wof:name":"Langasjo",
     "wof:parent_id":1159303533,
     "wof:placetype":"localadmin",

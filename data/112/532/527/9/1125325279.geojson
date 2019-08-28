@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010148,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":67127031.287329,
     "geom:bbox":"13.9613616611,57.6116672437,14.1417036675,57.7053937991",
     "geom:latitude":57.658456,
     "geom:longitude":14.056254,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":4616,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":4616,
     "iso:country":"SE",
     "lbl:latitude":57.660087,
     "lbl:longitude":14.054548,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":57.660087,
     "mps:longitude":14.054548,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Mansarp"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125325279,
-    "wof:lastmodified":1529702422,
+    "wof:lastmodified":1566642506,
     "wof:name":"Mansarp",
     "wof:parent_id":1159303375,
     "wof:placetype":"localadmin",

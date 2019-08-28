@@ -9,17 +9,19 @@
     "geom:bbox":"12.9633936551,57.8941374262,13.1266530495,57.9777167022",
     "geom:latitude":57.928111,
     "geom:longitude":13.054618,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":351,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":351,
     "iso:country":"SE",
     "lbl:latitude":57.932215,
     "lbl:longitude":13.069595,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":57.932215,
     "mps:longitude":13.069595,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Molla"
@@ -57,7 +59,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -83,7 +85,7 @@
         }
     ],
     "wof:id":1125287225,
-    "wof:lastmodified":1564165074,
+    "wof:lastmodified":1566642613,
     "wof:name":"Molla",
     "wof:parent_id":1159303171,
     "wof:placetype":"localadmin",

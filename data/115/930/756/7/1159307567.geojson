@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.049334,
+    "geom:area_square_m":301264932.622931,
     "geom:bbox":"17.6564206335,60.2658202072,17.9810893671,60.5489869402",
     "geom:latitude":60.405274,
     "geom:longitude":17.808882,
     "iso:country":"SE",
     "lbl:latitude":60.409526,
     "lbl:longitude":17.792968,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":60.409526,
     "mps:longitude":17.792968,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Osterlovsta"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159307567,
-    "wof:lastmodified":1529702872,
+    "wof:lastmodified":1566643276,
     "wof:name":"Osterlovsta",
     "wof:parent_id":1159302963,
     "wof:placetype":"localadmin",

@@ -12,8 +12,10 @@
     "gn:latitude":60.48333,
     "gn:longitude":15.46667,
     "iso:country":"SE",
+    "lbl:bbox":"15.459905,60.480103,15.469905,60.490103",
     "lbl:latitude":60.485103,
     "lbl:longitude":15.464905,
+    "lbl:max_zoom":18.0,
     "mps:latitude":60.482368,
     "mps:longitude":15.471817,
     "mz:hierarchy_label":0,
@@ -41,9 +43,6 @@
         "Islingby IK"
     ],
     "name:swe_x_preferred":[
-        "Islingby"
-    ],
-    "name:unk_x_variant":[
         "Islingby"
     ],
     "qs:gn_adm0_cc":"SE",
@@ -75,7 +74,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":245,
     "wof:belongsto":[
         102191581,
@@ -91,7 +90,6 @@
     "wof:concordances":{
         "gn:id":2703494,
         "gp:id":894228,
-        "qs:id":260477,
         "qs_pg:id":260477,
         "wd:id":"Q9180529"
     },
@@ -112,7 +110,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563366594,
+    "wof:lastmodified":1566640647,
     "wof:name":"Islingby",
     "wof:parent_id":101816099,
     "wof:placetype":"neighbourhood",

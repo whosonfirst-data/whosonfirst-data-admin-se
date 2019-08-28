@@ -13,6 +13,7 @@
     "iso:country":"SE",
     "lbl:latitude":59.35492,
     "lbl:longitude":18.171576,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.354195,
     "mps:longitude":18.192007,
     "mz:hierarchy_label":1,
@@ -26,9 +27,6 @@
     "mz:tier_locality":5,
     "mz:tier_metro":1,
     "name:swe_x_preferred":[
-        "Stockby"
-    ],
-    "name:unk_x_variant":[
         "Stockby"
     ],
     "qs:gn_adm0_cc":"SE",
@@ -58,7 +56,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         1125394719,
@@ -70,7 +68,6 @@
     "wof:concordances":{
         "gn:id":2673749,
         "gp:id":20151719,
-        "qs:id":7562,
         "qs_pg:id":7562
     },
     "wof:country":"SE",
@@ -90,7 +87,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702819,
+    "wof:lastmodified":1566640628,
     "wof:name":"Stockby",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

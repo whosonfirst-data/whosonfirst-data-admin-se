@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Stockholm",
     "iso:country":"SE",
+    "lbl:bbox":"17.84667,62.81333,17.88667,62.85333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633789
@@ -35,7 +39,7 @@
         "gn:id":2664478
     },
     "wof:country":"SE",
-    "wof:geomhash":"fbedb91c9feec839a3c517a650a9be57",
+    "wof:geomhash":"a8d6537b692cfeaf085036f87d4d24a3",
     "wof:hierarchy":[
         {
             "country_id":85633789,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209061725,
-    "wof:lastmodified":1536298932,
+    "wof:lastmodified":1566641341,
     "wof:name":"Vastby",
     "wof:parent_id":85633789,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.866670000000006,
+    17.86667000000001,
     62.83333,
-    17.866670000000006,
+    17.86667000000001,
     62.83333
 ],
   "geometry": {"coordinates":[17.86667000000001,62.83333],"type":"Point"}

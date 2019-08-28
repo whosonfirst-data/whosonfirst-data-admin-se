@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002224,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":13766039.870571,
     "geom:bbox":"17.20438276,59.898400788,17.5520845903,60.0447973931",
     "geom:latitude":59.957737,
     "geom:longitude":17.412915,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":311,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":311,
     "iso:country":"SE",
     "lbl:latitude":59.92274,
     "lbl:longitude":17.501646,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":59.92274,
     "mps:longitude":17.501646,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Akerby"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125288059,
-    "wof:lastmodified":1529702879,
+    "wof:lastmodified":1566642612,
     "wof:name":"Akerby",
     "wof:parent_id":1159303253,
     "wof:placetype":"localadmin",

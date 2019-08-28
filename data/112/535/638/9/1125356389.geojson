@@ -9,17 +9,19 @@
     "geom:bbox":"14.6201798708,63.0619127309,15.0929943969,63.1682978006",
     "geom:latitude":63.103813,
     "geom:longitude":14.732472,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":577,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":577,
     "iso:country":"SE",
     "lbl:latitude":63.102021,
     "lbl:longitude":14.694403,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":63.102021,
     "mps:longitude":14.694403,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Marieby"
@@ -63,7 +65,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -89,7 +91,7 @@
         }
     ],
     "wof:id":1125356389,
-    "wof:lastmodified":1564164966,
+    "wof:lastmodified":1566642473,
     "wof:name":"Marieby",
     "wof:parent_id":1159303231,
     "wof:placetype":"localadmin",

@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":22924810.593925,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.189699,58.579826,16.189699,58.579826",
     "geom:latitude":58.579826,
     "geom:longitude":16.189699,
     "gn:latitude":58.56667,
     "gn:longitude":16.18333,
     "iso:country":"SE",
+    "lbl:bbox":"16.184699,58.574826,16.194699,58.584826",
     "lbl:latitude":58.579826,
     "lbl:longitude":16.189699,
+    "lbl:max_zoom":18.0,
     "mps:latitude":58.570101,
     "mps:longitude":16.195846,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:swe_x_preferred":[
-        "Vilbergen"
-    ],
-    "name:unk_x_variant":[
         "Vilbergen"
     ],
     "qs:gn_adm0_cc":"SE",
@@ -60,20 +59,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85688409,
         102191581,
         1125384293,
         85633789,
         101752289,
-        1159303229
+        1159303229,
+        85688409
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2662941,
         "gp:id":909997,
-        "qs:id":1037919,
         "qs_pg:id":1037919
     },
     "wof:country":"SE",
@@ -93,7 +91,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1531935908,
+    "wof:lastmodified":1566640643,
     "wof:name":"Vilbergen",
     "wof:parent_id":101752289,
     "wof:placetype":"neighbourhood",

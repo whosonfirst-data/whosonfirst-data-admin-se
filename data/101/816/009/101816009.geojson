@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":59.817569,
     "lbl:longitude":17.701028,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":59.817569,
     "mps:longitude":17.701028,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0421\u0435\u0432\u044f"
     ],
@@ -79,7 +82,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":50,
     "wof:belongsto":[
@@ -94,7 +97,6 @@
         "fct:id":"06c6ee88-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2679721,
         "gp:id":15002537,
-        "qs:id":1037507,
         "qs_pg:id":1037507,
         "wd:id":"Q2117403",
         "wk:page":"S\u00e4vja"
@@ -115,7 +117,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1561839974,
+    "wof:lastmodified":1566642150,
     "wof:name":"S\u00e4vja",
     "wof:parent_id":1125322131,
     "wof:placetype":"locality",

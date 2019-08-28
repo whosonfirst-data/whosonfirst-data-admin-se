@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002762,
+    "geom:area_square_m":18085215.528971,
     "geom:bbox":"12.65361703,58.0069012693,12.7564727464,58.0582572665",
     "geom:latitude":58.030632,
     "geom:longitude":12.707218,
     "iso:country":"SE",
     "lbl:latitude":58.027671,
     "lbl:longitude":12.710725,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":58.027671,
     "mps:longitude":12.710725,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Fullestad"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159305977,
-    "wof:lastmodified":1529702126,
+    "wof:lastmodified":1566643281,
     "wof:name":"Fullestad",
     "wof:parent_id":1159303255,
     "wof:placetype":"localadmin",

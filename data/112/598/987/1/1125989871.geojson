@@ -9,14 +9,18 @@
     "geom:bbox":"17.91667,59.45,17.91667,59.45",
     "geom:latitude":59.45,
     "geom:longitude":17.91667,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"SE",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"SE",
+    "lbl:bbox":"17.89667,59.43,17.93667,59.47",
     "lbl:latitude":59.45,
     "lbl:longitude":17.91667,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u041d\u043e\u0440\u0432\u0438\u043a\u0435\u043d"
@@ -30,7 +34,7 @@
     "name:swe_x_preferred":[
         "Norrviken"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Norrvikken"
     ],
     "qs_pg:aaroncc":"SE",
@@ -54,7 +58,7 @@
     "qs_pg:woe_adm0":23424954,
     "qs_pg:woe_id":900045,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424954,
     "woe:name_adm0":"Sverige",
     "woe:name_adm1":"Stockholms L\u00e4n",
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":1125989871,
-    "wof:lastmodified":1563369871,
+    "wof:lastmodified":1566642987,
     "wof:name":"Norrviken",
     "wof:parent_id":1125394701,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":58.506918,
     "lbl:longitude":15.500203,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":58.506918,
     "mps:longitude":15.500203,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u042e\u043d\u0433\u0441\u0431\u0440\u0443"
     ],
@@ -71,9 +74,6 @@
     "name:swe_x_variant":[
         "Ljungsbros"
     ],
-    "name:unk_x_variant":[
-        "Ljugsbro"
-    ],
     "name:zho_min_nan_x_preferred":[
         "Ljungsbro"
     ],
@@ -94,7 +94,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":311,
     "wof:belongsto":[
@@ -109,7 +109,6 @@
         "fct:id":"06d06256-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2694529,
         "gp:id":897484,
-        "qs:id":905884,
         "qs_pg:id":905884,
         "wd:id":"Q2736142",
         "wk:page":"Ljungsbro"
@@ -130,7 +129,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368682,
+    "wof:lastmodified":1566642163,
     "wof:name":"Ljungsbro",
     "wof:parent_id":1125382265,
     "wof:placetype":"locality",

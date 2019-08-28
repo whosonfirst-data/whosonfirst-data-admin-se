@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":63.840143,
     "lbl:longitude":20.476137,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":63.840143,
     "mps:longitude":20.476137,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "T\u00e4fte\u00e5"
     ],
@@ -62,9 +65,6 @@
         "Tefte\u00e5s",
         "T\u00e4fte\u00e5s"
     ],
-    "name:unk_x_variant":[
-        "Tefte\u00e5"
-    ],
     "name:zho_min_nan_x_preferred":[
         "T\u00e4fte\u00e5"
     ],
@@ -84,7 +84,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":45,
     "wof:belongsto":[
@@ -99,7 +99,6 @@
         "fct:id":"06d3a538-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":602426,
         "gp:id":907149,
-        "qs:id":1242904,
         "qs_pg:id":1242904,
         "wd:id":"Q2277223",
         "wk:page":"T\u00e4fte\u00e5"
@@ -120,7 +119,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368910,
+    "wof:lastmodified":1566642244,
     "wof:name":"T\u00e4fte\u00e5",
     "wof:parent_id":1125325337,
     "wof:placetype":"locality",

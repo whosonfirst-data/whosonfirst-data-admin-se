@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":59.935496,
     "lbl:longitude":16.963423,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":59.935496,
     "mps:longitude":16.963423,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Morgong\u00e5va"
     ],
@@ -63,7 +66,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":223,
     "wof:belongsto":[
@@ -77,7 +80,6 @@
     "wof:concordances":{
         "gn:id":2691326,
         "gp:id":898715,
-        "qs:id":941605,
         "qs_pg:id":941605,
         "wd:id":"Q2413829",
         "wk:page":"Morgong\u00e5va"
@@ -95,7 +97,7 @@
         }
     ],
     "wof:id":101816005,
-    "wof:lastmodified":1563368715,
+    "wof:lastmodified":1566642175,
     "wof:name":"Morgong\u00e5va",
     "wof:parent_id":1125382379,
     "wof:placetype":"locality",

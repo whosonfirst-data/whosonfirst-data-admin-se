@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003278,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":21474126.153218,
     "geom:bbox":"12.7954410761,57.9628790424,12.8752263762,58.0362466644",
     "geom:latitude":58.004715,
     "geom:longitude":12.83158,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":6239,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":6239,
     "iso:country":"SE",
     "lbl:latitude":58.008095,
     "lbl:longitude":12.830941,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":58.008095,
     "mps:longitude":12.830941,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Algutstorp"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125325389,
-    "wof:lastmodified":1529702190,
+    "wof:lastmodified":1566642517,
     "wof:name":"Algutstorp",
     "wof:parent_id":1159303255,
     "wof:placetype":"localadmin",

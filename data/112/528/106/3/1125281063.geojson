@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014472,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":95872484.400093,
     "geom:bbox":"15.4278224775,57.5476346641,15.6656744406,57.6664015292",
     "geom:latitude":57.605533,
     "geom:longitude":15.533943,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":1783,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":1783,
     "iso:country":"SE",
     "lbl:latitude":57.601434,
     "lbl:longitude":15.542014,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":57.601434,
     "mps:longitude":15.542014,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Hassleby"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125281063,
-    "wof:lastmodified":1529702408,
+    "wof:lastmodified":1566642627,
     "wof:name":"Hassleby",
     "wof:parent_id":1159303243,
     "wof:placetype":"localadmin",

@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013181,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":87073783.727956,
     "geom:bbox":"12.9769585333,57.659013403,13.2025576255,57.7618149436",
     "geom:latitude":57.706238,
     "geom:longitude":13.095088,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":7115,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":7115,
     "iso:country":"SE",
     "lbl:latitude":57.713598,
     "lbl:longitude":13.095069,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":57.713598,
     "mps:longitude":13.095069,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Toarp"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125417561,
-    "wof:lastmodified":1529702207,
+    "wof:lastmodified":1566643087,
     "wof:name":"Toarp",
     "wof:parent_id":1159303073,
     "wof:placetype":"localadmin",

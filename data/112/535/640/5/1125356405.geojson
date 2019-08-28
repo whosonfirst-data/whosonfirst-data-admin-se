@@ -9,17 +9,19 @@
     "geom:bbox":"16.165279227,56.6413005364,16.3045748066,56.7217143045",
     "geom:latitude":56.682007,
     "geom:longitude":16.231917,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":4775,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":4775,
     "iso:country":"SE",
     "lbl:latitude":56.681232,
     "lbl:longitude":16.230856,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":56.681232,
     "mps:longitude":16.230856,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Dorby"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125356405,
-    "wof:lastmodified":1554166198,
+    "wof:lastmodified":1566642460,
     "wof:name":"Dorby",
     "wof:parent_id":1159303065,
     "wof:placetype":"localadmin",

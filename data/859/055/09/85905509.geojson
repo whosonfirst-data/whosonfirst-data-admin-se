@@ -13,6 +13,7 @@
     "iso:country":"SE",
     "lbl:latitude":59.283069,
     "lbl:longitude":18.006859,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.278511,
     "mps:longitude":18.011359,
     "mz:hierarchy_label":1,
@@ -49,9 +50,6 @@
     "name:swe_x_preferred":[
         "Solberga"
     ],
-    "name:unk_x_variant":[
-        "Solberga"
-    ],
     "name:zho_min_nan_x_preferred":[
         "Solberga"
     ],
@@ -82,7 +80,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         1125362217,
@@ -94,7 +92,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20151678,
-        "qs:id":891876,
         "qs_pg:id":891876,
         "wd:id":"Q4356881"
     },
@@ -115,7 +112,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1561839931,
+    "wof:lastmodified":1566640632,
     "wof:name":"Solberga",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

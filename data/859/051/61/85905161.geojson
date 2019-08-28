@@ -13,6 +13,7 @@
     "iso:country":"SE",
     "lbl:latitude":59.281754,
     "lbl:longitude":18.108206,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.279212,
     "mps:longitude":18.10488,
     "mz:hierarchy_label":1,
@@ -30,9 +31,6 @@
     ],
     "name:swe_x_variant":[
         "Enskededalen"
-    ],
-    "name:unk_x_variant":[
-        "Enskede-dalen"
     ],
     "qs:gn_adm0_cc":"SE",
     "qs:gn_id":0,
@@ -59,19 +57,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85688429,
         102191581,
         1125362217,
         85633789,
         101752307,
-        1159303035
+        1159303035,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20150952,
-        "qs:id":215858,
         "qs_pg:id":215858
     },
     "wof:country":"SE",
@@ -91,7 +88,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702808,
+    "wof:lastmodified":1566640657,
     "wof:name":"Enskede-dalen",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

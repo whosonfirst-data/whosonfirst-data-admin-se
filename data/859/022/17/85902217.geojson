@@ -14,6 +14,7 @@
     "iso:country":"SE",
     "lbl:latitude":57.716634,
     "lbl:longitude":12.027756,
+    "lbl:max_zoom":18.0,
     "mps:latitude":57.718027,
     "mps:longitude":12.027579,
     "mz:hierarchy_label":1,
@@ -40,10 +41,6 @@
     ],
     "name:swe_x_variant":[
         "K\u00e5ltorp"
-    ],
-    "name:unk_x_variant":[
-        "K\u00e5ltorp",
-        "K\u00e5lltorp"
     ],
     "qs:gn_adm0_cc":"SE",
     "qs:gn_fcode":"PPLX",
@@ -87,7 +84,6 @@
     "wof:concordances":{
         "gn:id":2702284,
         "gp:id":894720,
-        "qs:id":492398,
         "qs_pg:id":492398,
         "wd:id":"Q6453567"
     },
@@ -108,7 +104,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1566247553,
+    "wof:lastmodified":1566640592,
     "wof:name":"K\u00e5lltorp",
     "wof:parent_id":101752295,
     "wof:placetype":"neighbourhood",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002192,
+    "geom:area_square_m":14769870.450626,
     "geom:bbox":"12.5910105889,56.9434684606,12.6615145947,57.0018909485",
     "geom:latitude":56.973228,
     "geom:longitude":12.62642,
     "iso:country":"SE",
     "lbl:latitude":56.970933,
     "lbl:longitude":12.623484,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":56.970933,
     "mps:longitude":12.623484,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Alfshog"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159305797,
-    "wof:lastmodified":1529702320,
+    "wof:lastmodified":1566643370,
     "wof:name":"Alfshog",
     "wof:parent_id":1159303247,
     "wof:placetype":"localadmin",

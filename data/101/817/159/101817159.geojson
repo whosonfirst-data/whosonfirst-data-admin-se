@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":57.495565,
     "lbl:longitude":13.110079,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":57.495565,
     "mps:longitude":13.110079,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Svenljunga"
     ],
@@ -105,7 +108,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":48,
     "wof:belongsto":[
@@ -120,10 +123,12 @@
         "fct:id":"06d29d6e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2670044,
         "gp:id":907022,
-        "qs:id":245512,
-        "qs_pg:id":522919,
+        "qs_pg:id":245512,
         "wd:id":"Q1297746",
         "wk:page":"Svenljunga"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":522919
     },
     "wof:country":"SE",
     "wof:geomhash":"46cadd00371a2c7ebdc058cb252c5428",
@@ -141,7 +146,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368740,
+    "wof:lastmodified":1566642184,
     "wof:name":"Svenljunga",
     "wof:parent_id":1125287395,
     "wof:placetype":"locality",

@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4335652.461937,
+    "geom:area_square_m":0.0,
     "geom:bbox":"17.942105,59.210608,17.942105,59.210608",
     "geom:latitude":59.210608,
     "geom:longitude":17.942105,
     "gn:id":"",
     "iso:country":"SE",
+    "lbl:bbox":"17.937105,59.205608,17.947105,59.215608",
     "lbl:latitude":59.210608,
     "lbl:longitude":17.942105,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.210632,
     "mps:longitude":17.963649,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:tier_locality":1,
     "mz:tier_metro":1,
     "name:swe_x_preferred":[
-        "Visattra"
-    ],
-    "name:unk_x_variant":[
         "Visattra"
     ],
     "qs:gn_adm0_cc":"SE",
@@ -59,19 +58,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85688429,
         102191581,
         1125362217,
         85633789,
         101752307,
-        1159303035
+        1159303035,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20151873,
-        "qs:id":1061870,
         "qs_pg:id":1061870
     },
     "wof:country":"SE",
@@ -91,7 +89,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1531936356,
+    "wof:lastmodified":1566640628,
     "wof:name":"Visattra",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

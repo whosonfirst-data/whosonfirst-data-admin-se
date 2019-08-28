@@ -14,10 +14,13 @@
     "iso:country":"SE",
     "lbl:latitude":63.62827,
     "lbl:longitude":19.912921,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":63.62827,
     "mps:longitude":19.912921,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "H\u00f6rnefors"
     ],
@@ -89,7 +92,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":45,
     "wof:belongsto":[
@@ -104,7 +107,6 @@
         "fct:id":"06d3c478-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2704956,
         "gp:id":893614,
-        "qs:id":227409,
         "qs_pg:id":227409,
         "wd:id":"Q1018434",
         "wk:page":"H\u00f6rnefors"
@@ -125,7 +127,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368925,
+    "wof:lastmodified":1566642249,
     "wof:name":"H\u00f6rnefors",
     "wof:parent_id":1125382279,
     "wof:placetype":"locality",

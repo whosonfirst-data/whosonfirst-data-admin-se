@@ -24,8 +24,12 @@
     "gn:population":1690,
     "gn:timezone":"Europe/Stockholm",
     "iso:country":"SE",
+    "lbl:bbox":"12.91333,56.73,12.95333,56.77",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "\u00c5led"
     ],
@@ -50,9 +54,6 @@
     "name:swe_x_preferred":[
         "\u00c5led"
     ],
-    "name:und_x_variant":[
-        "\u00c5led"
-    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -72,7 +73,7 @@
         }
     ],
     "wof:id":1209127585,
-    "wof:lastmodified":1564163608,
+    "wof:lastmodified":1566641412,
     "wof:name":"Aled",
     "wof:parent_id":85633789,
     "wof:placetype":"locality",

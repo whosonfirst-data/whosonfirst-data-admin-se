@@ -12,8 +12,10 @@
     "gn:latitude":59.33333,
     "gn:longitude":14.58333,
     "iso:country":"SE",
+    "lbl:bbox":"14.566063,59.322093,14.576063,59.332093",
     "lbl:latitude":59.327093,
     "lbl:longitude":14.571063,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.335772,
     "mps:longitude":14.577861,
     "mz:hierarchy_label":0,
@@ -136,9 +138,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d\u0434\u0432\u0456\u043a\u0435\u043d"
     ],
-    "name:unk_x_variant":[
-        "Sandviken"
-    ],
     "name:zho_x_preferred":[
         "\u6851\u5fb7\u7dad\u80af"
     ],
@@ -171,7 +170,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         1125394693,
@@ -184,7 +183,6 @@
     "wof:concordances":{
         "gn:id":2680069,
         "gp:id":903426,
-        "qs:id":963785,
         "qs_pg:id":963785
     },
     "wof:country":"SE",
@@ -204,7 +202,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1564162410,
+    "wof:lastmodified":1566640580,
     "wof:name":"Sandviken",
     "wof:parent_id":101815827,
     "wof:placetype":"neighbourhood",

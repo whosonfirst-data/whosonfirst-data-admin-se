@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009075,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":57846281.06987,
     "geom:bbox":"12.4083521037,58.9201527459,12.5729009826,59.0111341216",
     "geom:latitude":58.968068,
     "geom:longitude":12.483819,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":901,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":901,
     "iso:country":"SE",
     "lbl:latitude":58.969889,
     "lbl:longitude":12.467353,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":58.969889,
     "mps:longitude":12.467353,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Froskog"
@@ -48,7 +50,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":1125423389,
-    "wof:lastmodified":1529702177,
+    "wof:lastmodified":1566642727,
     "wof:name":"Froskog",
     "wof:parent_id":1159303547,
     "wof:placetype":"localadmin",

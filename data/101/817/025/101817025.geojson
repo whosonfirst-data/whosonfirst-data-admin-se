@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":58.179266,
     "lbl:longitude":13.958882,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":58.179266,
     "mps:longitude":13.958882,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Tidaholm"
     ],
@@ -127,7 +130,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":190,
     "wof:belongsto":[
@@ -142,7 +145,6 @@
         "fct:id":"06d2e706-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2669113,
         "gp:id":907412,
-        "qs:id":1037490,
         "qs_pg:id":1037490,
         "wd:id":"Q983889",
         "wk:page":"Tidaholm"
@@ -163,7 +165,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368751,
+    "wof:lastmodified":1566642188,
     "wof:name":"Tidaholm",
     "wof:parent_id":1125362391,
     "wof:placetype":"locality",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013209,
+    "geom:area_square_m":83079137.422386,
     "geom:bbox":"17.0474249772,59.3684557156,17.2344879657,59.4853382628",
     "geom:latitude":59.425961,
     "geom:longitude":17.145011,
     "iso:country":"SE",
     "lbl:latitude":59.424599,
     "lbl:longitude":17.145023,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":59.424599,
     "mps:longitude":17.145023,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Overselo"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159306477,
-    "wof:lastmodified":1529702834,
+    "wof:lastmodified":1566643305,
     "wof:name":"Overselo",
     "wof:parent_id":1159303351,
     "wof:placetype":"localadmin",

@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":59.325123,
     "lbl:longitude":18.389345,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":59.325123,
     "mps:longitude":18.389345,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0413\u0443\u0441\u0442\u0430\u045e\u0441\u0431\u0435\u0440\u0433"
     ],
@@ -98,9 +101,6 @@
     "name:szl_x_preferred":[
         "Gustavsberg"
     ],
-    "name:unk_x_variant":[
-        "Gustarsberg"
-    ],
     "qs:a0":"Sverige",
     "qs:a1":"*Stockholms l\u00e4n",
     "qs:a1r":"0",
@@ -117,7 +117,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688429,
@@ -131,7 +131,6 @@
         "fct:id":"06d14798-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2709628,
         "gp:id":891659,
-        "qs:id":492338,
         "qs_pg:id":492338,
         "wd:id":"Q1011837",
         "wk:page":"Gustavsberg, V\u00e4rmd\u00f6 Municipality"
@@ -152,7 +151,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368807,
+    "wof:lastmodified":1566642207,
     "wof:name":"Gustavsberg",
     "wof:parent_id":1125394661,
     "wof:placetype":"locality",

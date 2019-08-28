@@ -12,10 +12,13 @@
     "iso:country":"SE",
     "lbl:latitude":60.387278,
     "lbl:longitude":17.237855,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":60.387278,
     "mps:longitude":17.237855,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "S\u00f6derfors"
     ],
@@ -78,7 +81,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":45,
     "wof:belongsto":[
         85688439,
@@ -92,10 +95,12 @@
         "fct:id":"06d47d46-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2676238,
         "gp:id":904973,
-        "qs:id":7,
-        "qs_pg:id":1282452,
+        "qs_pg:id":7,
         "wd:id":"Q2393606",
         "wk:page":"S\u00f6derfors"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1282452
     },
     "wof:country":"SE",
     "wof:geomhash":"3899c3e46e8adcb5eda01ea5d2b8e18c",
@@ -113,7 +118,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368696,
+    "wof:lastmodified":1566642168,
     "wof:name":"S\u00f6derfors",
     "wof:parent_id":1125356159,
     "wof:placetype":"locality",

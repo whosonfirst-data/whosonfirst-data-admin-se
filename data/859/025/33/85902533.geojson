@@ -13,6 +13,7 @@
     "iso:country":"SE",
     "lbl:latitude":59.376531,
     "lbl:longitude":17.959965,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.371167,
     "mps:longitude":17.988049,
     "mz:hierarchy_label":1,
@@ -27,9 +28,6 @@
     "mz:tier_locality":5,
     "mz:tier_metro":1,
     "name:swe_x_preferred":[
-        "Sundyberg"
-    ],
-    "name:unk_x_variant":[
         "Sundyberg"
     ],
     "qs:gn_adm0_cc":"SE",
@@ -57,19 +55,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85688429,
         102191581,
         1125362217,
         85633789,
         101752307,
-        1159303035
+        1159303035,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":906749,
-        "qs:id":1097959,
         "qs_pg:id":1097959
     },
     "wof:country":"SE",
@@ -89,7 +86,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702795,
+    "wof:lastmodified":1566640598,
     "wof:name":"Sundyberg",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

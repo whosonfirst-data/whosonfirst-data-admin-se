@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011471,
+    "geom:area_square_m":71939325.821371,
     "geom:bbox":"16.7568987637,59.4795755887,16.965907893,59.5739667929",
     "geom:latitude":59.523883,
     "geom:longitude":16.873751,
     "iso:country":"SE",
     "lbl:latitude":59.524399,
     "lbl:longitude":16.884011,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":59.524399,
     "mps:longitude":16.884011,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Angso"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159307441,
-    "wof:lastmodified":1529702838,
+    "wof:lastmodified":1566643353,
     "wof:name":"Angso",
     "wof:parent_id":1159303331,
     "wof:placetype":"localadmin",

@@ -14,6 +14,7 @@
     "iso:country":"SE",
     "lbl:latitude":59.415888,
     "lbl:longitude":17.949897,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.418155,
     "mps:longitude":17.939282,
     "mz:hierarchy_label":1,
@@ -40,9 +41,6 @@
     ],
     "name:swe_x_variant":[
         "Helenelunds IK"
-    ],
-    "name:unk_x_variant":[
-        "Helene-Lund"
     ],
     "qs:gn_adm0_cc":"SE",
     "qs:gn_fcode":"PPL",
@@ -71,7 +69,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":133,
     "wof:belongsto":[
         102191581,
@@ -87,7 +85,6 @@
     "wof:concordances":{
         "gn:id":2706829,
         "gp:id":892806,
-        "qs:id":1159218,
         "qs_pg:id":1159218,
         "wd:id":"Q10519462"
     },
@@ -108,7 +105,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563366594,
+    "wof:lastmodified":1566640647,
     "wof:name":"Helenelund",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

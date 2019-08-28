@@ -9,17 +9,19 @@
     "geom:bbox":"16.1054239193,56.6822930157,16.4720353449,56.7893614494",
     "geom:latitude":56.734455,
     "geom:longitude":16.263426,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":7240,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":7240,
     "iso:country":"SE",
     "lbl:latitude":56.721196,
     "lbl:longitude":16.275976,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":56.721196,
     "mps:longitude":16.275976,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Forlosa-Klackeberga"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125286507,
-    "wof:lastmodified":1554166199,
+    "wof:lastmodified":1566642613,
     "wof:name":"Forlosa-Klackeberga",
     "wof:parent_id":1159303065,
     "wof:placetype":"localadmin",

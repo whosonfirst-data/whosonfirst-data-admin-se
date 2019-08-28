@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":11096197.24388,
+    "geom:area_square_m":0.0,
     "geom:bbox":"18.295948,59.40928,18.295948,59.40928",
     "geom:latitude":59.40928,
     "geom:longitude":18.295948,
     "gn:id":"",
     "iso:country":"SE",
+    "lbl:bbox":"18.290948,59.40428,18.300948,59.41428",
     "lbl:latitude":59.40928,
     "lbl:longitude":18.295948,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.412111,
     "mps:longitude":18.292914,
     "mz:hierarchy_label":0,
@@ -29,9 +31,6 @@
     ],
     "name:swe_x_variant":[
         "Brokn\u00e4s"
-    ],
-    "name:unk_x_variant":[
-        "Broknas"
     ],
     "qs:gn_adm0_cc":"SE",
     "qs:gn_id":0,
@@ -61,7 +60,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         1125283877,
@@ -72,7 +71,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20150892,
-        "qs:id":20155,
         "qs_pg:id":20155
     },
     "wof:country":"SE",
@@ -92,7 +90,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1531936325,
+    "wof:lastmodified":1566640659,
     "wof:name":"Broknas",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

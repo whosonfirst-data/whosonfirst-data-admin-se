@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":56.231928,
     "lbl:longitude":15.117047,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":56.231928,
     "mps:longitude":15.117047,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Br\u00e4kne-Hoby"
     ],
@@ -84,7 +87,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":90,
     "wof:belongsto":[
@@ -99,7 +102,6 @@
         "fct:id":"06d03fd8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2719965,
         "gp:id":887428,
-        "qs:id":1169052,
         "qs_pg:id":1169052,
         "wd:id":"Q995551",
         "wk:page":"Br\u00e4kne-Hoby"
@@ -120,7 +122,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368705,
+    "wof:lastmodified":1566642171,
     "wof:name":"Br\u00e4kne-Hoby",
     "wof:parent_id":1125358293,
     "wof:placetype":"locality",

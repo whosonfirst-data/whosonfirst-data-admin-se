@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.092278,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":572523967.042928,
     "geom:bbox":"12.893953097,59.7532397028,13.3871446943,60.0482656953",
     "geom:latitude":59.883642,
     "geom:longitude":13.140972,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":8977,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":8977,
     "iso:country":"SE",
     "lbl:latitude":59.867994,
     "lbl:longitude":13.082532,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":59.867994,
     "mps:longitude":13.082532,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0421\u0443\u043d\u0435"
@@ -48,7 +50,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":1125270339,
-    "wof:lastmodified":1529702913,
+    "wof:lastmodified":1566642712,
     "wof:name":"Sunne",
     "wof:parent_id":1159303019,
     "wof:placetype":"localadmin",

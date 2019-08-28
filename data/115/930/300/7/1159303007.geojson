@@ -24,10 +24,13 @@
     ],
     "lbl:latitude":65.681263,
     "lbl:longitude":15.303671,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":65.681263,
     "mps:longitude":15.303671,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bul_x_preferred":[
         "\u0421\u0442\u0443\u0440\u044e\u043c\u0430\u043d"
     ],
@@ -103,7 +106,7 @@
     "se-lant:lanskod":24,
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":1159303007,
-    "wof:lastmodified":1564165471,
+    "wof:lastmodified":1566643137,
     "wof:name":"Storuman",
     "wof:parent_id":85688465,
     "wof:placetype":"county",

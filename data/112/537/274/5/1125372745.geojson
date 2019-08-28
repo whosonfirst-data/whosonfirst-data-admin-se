@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009047,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":61887307.57182,
     "geom:bbox":"12.6198377183,56.3624213932,12.8334214787,56.4573762911",
     "geom:latitude":56.410895,
     "geom:longitude":12.721797,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":1672,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":1672,
     "iso:country":"SE",
     "lbl:latitude":56.400399,
     "lbl:longitude":12.684615,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":56.400399,
     "mps:longitude":12.684615,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Vastra Karup"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125372745,
-    "wof:lastmodified":1529702627,
+    "wof:lastmodified":1566642787,
     "wof:name":"Vastra Karup",
     "wof:parent_id":1159302919,
     "wof:placetype":"localadmin",

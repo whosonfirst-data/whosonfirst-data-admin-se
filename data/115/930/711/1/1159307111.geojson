@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004669,
+    "geom:area_square_m":32639936.983037,
     "geom:bbox":"13.8726342298,55.5305137133,14.0147977281,55.6030272009",
     "geom:latitude":55.572343,
     "geom:longitude":13.952878,
     "iso:country":"SE",
     "lbl:latitude":55.57666,
     "lbl:longitude":13.953961,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.57666,
     "mps:longitude":13.953961,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tryde"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159307111,
-    "wof:lastmodified":1529702618,
+    "wof:lastmodified":1566643379,
     "wof:name":"Tryde",
     "wof:parent_id":1159302959,
     "wof:placetype":"localadmin",

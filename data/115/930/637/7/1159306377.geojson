@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000706,
+    "geom:area_square_m":4894316.031512,
     "geom:bbox":"13.0675076832,55.8911136063,13.1090972225,55.9145187031",
     "geom:latitude":55.903737,
     "geom:longitude":13.088121,
     "iso:country":"SE",
     "lbl:latitude":55.904248,
     "lbl:longitude":13.088509,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.904248,
     "mps:longitude":13.088509,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Felestad"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159306377,
-    "wof:lastmodified":1529702605,
+    "wof:lastmodified":1566643327,
     "wof:name":"Felestad",
     "wof:parent_id":1159303189,
     "wof:placetype":"localadmin",

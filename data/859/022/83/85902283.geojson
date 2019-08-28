@@ -13,6 +13,7 @@
     "iso:country":"SE",
     "lbl:latitude":59.365068,
     "lbl:longitude":18.132395,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.365285,
     "mps:longitude":18.13276,
     "mz:hierarchy_label":1,
@@ -120,9 +121,6 @@
     "name:ukr_x_preferred":[
         "\u041b\u0456\u0434\u0456\u043d\u0433\u0435"
     ],
-    "name:unk_x_variant":[
-        "Liding\u00f6"
-    ],
     "name:vol_x_preferred":[
         "Liding\u00f6"
     ],
@@ -154,7 +152,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         1125394719,
@@ -166,7 +164,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":897022,
-        "qs:id":518870,
         "qs_pg:id":518870
     },
     "wof:country":"SE",
@@ -186,7 +183,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1564162423,
+    "wof:lastmodified":1566640595,
     "wof:name":"Liding\u00f6",
     "wof:parent_id":101839523,
     "wof:placetype":"neighbourhood",

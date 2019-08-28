@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":64.191832,
     "lbl:longitude":20.85201,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":64.191832,
     "mps:longitude":20.85201,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0420\u043e\u0431\u0435\u0440\u0442\u0441\u0444\u043e\u0440\u0448"
     ],
@@ -103,7 +106,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":115,
     "wof:belongsto":[
@@ -118,7 +121,6 @@
         "fct:id":"06d3f074-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":603303,
         "gp:id":902567,
-        "qs:id":126038,
         "qs_pg:id":126038,
         "wd:id":"Q1615045",
         "wk:page":"Robertsfors"
@@ -139,7 +141,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368904,
+    "wof:lastmodified":1566642242,
     "wof:name":"Robertsfors",
     "wof:parent_id":1159305989,
     "wof:placetype":"locality",

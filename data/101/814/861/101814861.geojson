@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":63.707177,
     "lbl:longitude":20.367863,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":63.707177,
     "mps:longitude":20.367863,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0425\u043e\u043b\u043c\u0441\u0443\u043d\u0434"
     ],
@@ -99,7 +102,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":271,
     "wof:belongsto":[
@@ -114,7 +117,6 @@
         "fct:id":"06d4362e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":605676,
         "gp:id":893512,
-        "qs:id":185791,
         "qs_pg:id":185791,
         "wd:id":"Q388953",
         "wk:page":"Holmsund"
@@ -135,7 +137,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368910,
+    "wof:lastmodified":1566642244,
     "wof:name":"Holmsund",
     "wof:parent_id":1125381755,
     "wof:placetype":"locality",

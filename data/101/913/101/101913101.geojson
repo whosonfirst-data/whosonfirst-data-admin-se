@@ -12,10 +12,13 @@
     "iso:country":"SE",
     "lbl:latitude":57.192118,
     "lbl:longitude":12.181765,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":57.192118,
     "mps:longitude":12.181765,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "\u00c5rn\u00e4shalv\u00f6n"
     ],
@@ -59,7 +62,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688391,
         102191581,
@@ -70,7 +73,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20150673,
-        "qs:id":22245,
         "qs_pg:id":22245,
         "wd:id":"Q10726716"
     },
@@ -87,7 +89,7 @@
         }
     ],
     "wof:id":101913101,
-    "wof:lastmodified":1561839983,
+    "wof:lastmodified":1566642206,
     "wof:name":"\u00c5rn\u00e4shalv\u00f6n",
     "wof:parent_id":1159306739,
     "wof:placetype":"locality",

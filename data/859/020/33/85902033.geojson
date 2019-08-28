@@ -15,6 +15,7 @@
     "iso:country":"SE",
     "lbl:latitude":59.31505,
     "lbl:longitude":18.278121,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.310067,
     "mps:longitude":18.291674,
     "mz:hierarchy_label":1,
@@ -105,10 +106,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u043e\u043e"
     ],
-    "name:unk_x_variant":[
-        "Bo",
-        "Boo"
-    ],
     "name:zho_min_nan_x_preferred":[
         "Boo"
     ],
@@ -143,7 +140,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "src:population":"geonames",
     "wd:wordcount":76,
     "wof:belongsto":[
@@ -157,7 +154,6 @@
     "wof:concordances":{
         "gn:id":2721259,
         "gp:id":887225,
-        "qs:id":227402,
         "qs_pg:id":227402,
         "wd:id":"Q54752",
         "wk:page":"Boo, Sweden"
@@ -179,7 +175,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563366580,
+    "wof:lastmodified":1566640636,
     "wof:name":"Boo",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":58.522965,
     "lbl:longitude":14.516854,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":58.522965,
     "mps:longitude":14.516854,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0631\u0644\u0633\u0628\u0648\u0631\u064a"
     ],
@@ -117,7 +120,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":113,
     "wof:belongsto":[
@@ -132,7 +135,6 @@
         "fct:id":"06d2cece-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2701757,
         "gp:id":894933,
-        "qs:id":906109,
         "qs_pg:id":906109,
         "wd:id":"Q760222",
         "wk:page":"Karlsborg"
@@ -153,7 +155,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368767,
+    "wof:lastmodified":1566642194,
     "wof:name":"Karlsborg",
     "wof:parent_id":1125325397,
     "wof:placetype":"locality",

@@ -9,17 +9,19 @@
     "geom:bbox":"11.849328396,57.557990373,12.0097877714,57.6467231828",
     "geom:latitude":57.594139,
     "geom:longitude":11.937495,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":23434,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":23434,
     "iso:country":"SE",
     "lbl:latitude":57.596616,
     "lbl:longitude":11.942963,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":57.596616,
     "mps:longitude":11.942963,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0623\u0633\u0643\u064a\u0645"
@@ -156,7 +158,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -182,7 +184,7 @@
         }
     ],
     "wof:id":1125331203,
-    "wof:lastmodified":1564164886,
+    "wof:lastmodified":1566642381,
     "wof:name":"Askim",
     "wof:parent_id":1159302989,
     "wof:placetype":"localadmin",

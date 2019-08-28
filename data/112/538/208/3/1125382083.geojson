@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006726,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":46190200.559445,
     "geom:bbox":"12.90686633,56.2267632315,13.0961508906,56.2995609054",
     "geom:latitude":56.261334,
     "geom:longitude":12.999447,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":5214,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":5214,
     "iso:country":"SE",
     "lbl:latitude":56.261262,
     "lbl:longitude":13.000867,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":56.261262,
     "mps:longitude":13.000867,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Munka Ljungby"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125382083,
-    "wof:lastmodified":1529702614,
+    "wof:lastmodified":1566642928,
     "wof:name":"Munka Ljungby",
     "wof:parent_id":1159303025,
     "wof:placetype":"localadmin",

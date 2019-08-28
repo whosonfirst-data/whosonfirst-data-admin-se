@@ -13,6 +13,8 @@
     "iso:country":"SE",
     "lbl:latitude":62.634352,
     "lbl:longitude":17.923195,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":62.634352,
     "mps:longitude":17.923195,
     "mz:hierarchy_label":1,
@@ -293,7 +295,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":525,
     "wof:belongsto":[
@@ -308,7 +310,6 @@
         "fct:id":"06d480e8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2707684,
         "gp:id":892478,
-        "qs:id":218401,
         "qs_pg:id":218401,
         "wd:id":"Q3240427",
         "wk:page":"H\u00e4rn\u00f6sand"
@@ -329,7 +330,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368933,
+    "wof:lastmodified":1566642251,
     "wof:name":"H\u00e4rn\u00f6sand",
     "wof:parent_id":1125286903,
     "wof:placetype":"locality",

@@ -9,15 +9,18 @@
     "geom:bbox":"21.26667,65.21667,21.26667,65.21667",
     "geom:latitude":65.21667,
     "geom:longitude":21.26667,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":398,
-    "gn:population":366,
+    "gn:country":"SE",
+    "gn:fcode":"PPL",
+    "gn:population":398,
     "iso:country":"SE",
+    "lbl:bbox":"21.24667,65.19667,21.28667,65.23667",
     "lbl:latitude":65.21667,
     "lbl:longitude":21.26667,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0425\u0435\u043c\u0438\u043d\u0433\u0441\u043c\u0430\u0440\u043a"
@@ -52,7 +55,7 @@
     "name:swe_x_preferred":[
         "Hemmingsmark"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Himmingsmark"
     ],
     "qs_pg:aaroncc":"SE",
@@ -72,7 +75,7 @@
     "qs_pg:woe_adm0":23424954,
     "qs_pg:woe_id":892854,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424954,
     "woe:name_adm0":"Sverige",
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":1125775475,
-    "wof:lastmodified":1563370108,
+    "wof:lastmodified":1566643124,
     "wof:name":"Hemmingsmark",
     "wof:parent_id":1125300099,
     "wof:placetype":"locality",

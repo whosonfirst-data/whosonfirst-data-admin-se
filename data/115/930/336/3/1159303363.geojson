@@ -24,10 +24,13 @@
     ],
     "lbl:latitude":57.020648,
     "lbl:longitude":17.033583,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":57.020648,
     "mps:longitude":17.033583,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0628\u0648\u0631\u063a\u0647\u0648\u0644\u0645"
     ],
@@ -118,7 +121,7 @@
     "se-lant:lanskod":8,
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -138,7 +141,7 @@
         }
     ],
     "wof:id":1159303363,
-    "wof:lastmodified":1564165473,
+    "wof:lastmodified":1566643140,
     "wof:name":"Borgholm",
     "wof:parent_id":85688401,
     "wof:placetype":"county",

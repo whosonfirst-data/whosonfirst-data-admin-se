@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003244,
+    "geom:area_square_m":20301929.164458,
     "geom:bbox":"16.959360109,59.5613183459,17.0628493829,59.6159599752",
     "geom:latitude":59.589346,
     "geom:longitude":17.012118,
     "iso:country":"SE",
     "lbl:latitude":59.58614,
     "lbl:longitude":17.000053,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":59.58614,
     "mps:longitude":17.000053,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Svinnegarn"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159307119,
-    "wof:lastmodified":1529702870,
+    "wof:lastmodified":1566643379,
     "wof:name":"Svinnegarn",
     "wof:parent_id":1159303337,
     "wof:placetype":"localadmin",

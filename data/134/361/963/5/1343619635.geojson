@@ -27,8 +27,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Stockholm",
     "iso:country":"SE",
+    "lbl:bbox":"19.85487,63.5349,19.89487,63.5749",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Norrbysk\u00e4ren"
     ],
@@ -39,10 +43,6 @@
         "Norrbysk\u00e4r"
     ],
     "name:swe_x_preferred":[
-        "Norrbysk\u00e4r"
-    ],
-    "name:und_x_variant":[
-        "Norrbysk\u00e4ren",
         "Norrbysk\u00e4r"
     ],
     "src:geom":"geonames",
@@ -71,7 +71,7 @@
         }
     ],
     "wof:id":1343619635,
-    "wof:lastmodified":1564162172,
+    "wof:lastmodified":1566640419,
     "wof:name":"Norrbyskar",
     "wof:parent_id":1125382279,
     "wof:placetype":"locality",

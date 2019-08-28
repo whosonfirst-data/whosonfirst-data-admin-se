@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Stockholm",
     "iso:country":"SE",
+    "lbl:bbox":"12.61333,59.09667,12.65333,59.13667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:nor_x_preferred":[
         "\u00d6stra Byn"
     ],
@@ -34,8 +38,7 @@
         "\u00d8stra Byn"
     ],
     "name:und_x_variant":[
-        "Byn",
-        "\u00d6stra Byn"
+        "Byn"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1310251927,
-    "wof:lastmodified":1537699896,
+    "wof:lastmodified":1566641849,
     "wof:name":"Ostra Byn",
     "wof:parent_id":1125326173,
     "wof:placetype":"locality",

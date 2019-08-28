@@ -9,15 +9,18 @@
     "geom:bbox":"15.08333,58.81667,15.08333,58.81667",
     "geom:latitude":58.81667,
     "geom:longitude":15.08333,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":383,
-    "gn:population":316,
+    "gn:country":"SE",
+    "gn:fcode":"PPL",
+    "gn:population":383,
     "iso:country":"SE",
+    "lbl:bbox":"15.06333,58.79667,15.10333,58.83667",
     "lbl:latitude":58.81667,
     "lbl:longitude":15.08333,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0417\u0438\u043d\u043a\u0433\u0440\u0443\u0432\u0430\u043d"
@@ -58,7 +61,7 @@
     "name:swe_x_preferred":[
         "Zinkgruvan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u00c5mmebergs zinkgruva"
     ],
     "qs_pg:aaroncc":"SE",
@@ -80,7 +83,7 @@
     "qs_pg:woe_adm0":23424954,
     "qs_pg:woe_id":910428,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424954,
     "woe:name_adm0":"Sverige",
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":1125821939,
-    "wof:lastmodified":1563369938,
+    "wof:lastmodified":1566643022,
     "wof:name":"Zinkgruvan",
     "wof:parent_id":1125355951,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"SE",
     "lbl:latitude":59.484121,
     "lbl:longitude":18.411481,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":59.484121,
     "mps:longitude":18.411481,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sk\u00e4rg\u00e5rdsstad"
     ],
@@ -60,7 +63,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":45,
     "wof:belongsto":[
         85688429,
@@ -72,7 +75,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":15002540,
-        "qs:id":989061,
+        "qs_pg:id":989061,
         "wd:id":"Q2720871"
     },
     "wof:country":"SE",
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":101815897,
-    "wof:lastmodified":1563368851,
+    "wof:lastmodified":1566642223,
     "wof:name":"Sk\u00e4rg\u00e5rdsstad",
     "wof:parent_id":1125423247,
     "wof:placetype":"locality",

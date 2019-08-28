@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":57.985455,
     "lbl:longitude":15.63326,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":57.985455,
     "mps:longitude":15.63326,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0428\u0438\u0441\u0430"
     ],
@@ -108,7 +111,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":93,
     "wof:belongsto":[
@@ -123,7 +126,6 @@
         "fct:id":"06d0f8f6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2700800,
         "gp:id":895315,
-        "qs:id":1332341,
         "qs_pg:id":1332341,
         "wd:id":"Q1017607",
         "wk:page":"Kisa, Sweden"
@@ -144,7 +146,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368685,
+    "wof:lastmodified":1566642163,
     "wof:name":"Kisa",
     "wof:parent_id":1125325805,
     "wof:placetype":"locality",

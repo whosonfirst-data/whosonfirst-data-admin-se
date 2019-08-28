@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02639,
+    "geom:area_square_m":147150772.291023,
     "geom:bbox":"17.409836902,63.0845978593,17.7550209973,63.2956506002",
     "geom:latitude":63.195494,
     "geom:longitude":17.613851,
     "iso:country":"SE",
     "lbl:latitude":63.218001,
     "lbl:longitude":17.640029,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":63.218001,
     "mps:longitude":17.640029,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Overlannas"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159306061,
-    "wof:lastmodified":1529702989,
+    "wof:lastmodified":1566643331,
     "wof:name":"Overlannas",
     "wof:parent_id":1159303381,
     "wof:placetype":"localadmin",

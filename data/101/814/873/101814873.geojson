@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":67.212628,
     "lbl:longitude":23.363697,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":67.212628,
     "mps:longitude":23.363697,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041f\u0430\u044f\u043b\u0430"
     ],
@@ -123,7 +126,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":324,
     "wof:belongsto":[
@@ -138,7 +141,6 @@
         "fct:id":"06d3d468-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":603761,
         "gp:id":901688,
-        "qs:id":81135,
         "qs_pg:id":81135,
         "wd:id":"Q977248",
         "wk:page":"Pajala"
@@ -159,7 +161,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368906,
+    "wof:lastmodified":1566642242,
     "wof:name":"Pajala",
     "wof:parent_id":1125300089,
     "wof:placetype":"locality",

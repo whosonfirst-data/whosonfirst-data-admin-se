@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009197,
+    "geom:area_square_m":60547742.867154,
     "geom:bbox":"14.3522471761,57.7861449167,14.5145316055,57.8910538985",
     "geom:latitude":57.831336,
     "geom:longitude":14.445154,
     "iso:country":"SE",
     "lbl:latitude":57.833112,
     "lbl:longitude":14.453162,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":57.833112,
     "mps:longitude":14.453162,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Svarttorp"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159306427,
-    "wof:lastmodified":1529702410,
+    "wof:lastmodified":1566643188,
     "wof:name":"Svarttorp",
     "wof:parent_id":1159303375,
     "wof:placetype":"localadmin",

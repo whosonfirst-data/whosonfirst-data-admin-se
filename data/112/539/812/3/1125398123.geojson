@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01128,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":70861760.340305,
     "geom:bbox":"17.9816253916,59.4120794682,18.1508496366,59.5111440217",
     "geom:latitude":59.465637,
     "geom:longitude":18.071077,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":62266,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":62266,
     "iso:country":"SE",
     "lbl:latitude":59.463973,
     "lbl:longitude":18.081149,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":59.463973,
     "mps:longitude":18.081149,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Taby"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125398123,
-    "wof:lastmodified":1529702737,
+    "wof:lastmodified":1566642842,
     "wof:name":"Taby",
     "wof:parent_id":1159303403,
     "wof:placetype":"localadmin",

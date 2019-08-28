@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009047,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":60376328.303736,
     "geom:bbox":"13.6743003805,57.2859677836,13.8421147604,57.3834028715",
     "geom:latitude":57.335846,
     "geom:longitude":13.747746,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":4880,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":4880,
     "iso:country":"SE",
     "lbl:latitude":57.340113,
     "lbl:longitude":13.740776,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":57.340113,
     "mps:longitude":13.740776,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Gnosjo"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125287539,
-    "wof:lastmodified":1529702433,
+    "wof:lastmodified":1566642593,
     "wof:name":"Gnosjo",
     "wof:parent_id":1159303377,
     "wof:placetype":"localadmin",

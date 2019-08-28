@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002041,
+    "geom:area_square_m":14307719.585289,
     "geom:bbox":"13.6194556417,55.4239869983,13.67794013,55.498029877",
     "geom:latitude":55.45942,
     "geom:longitude":13.652466,
     "iso:country":"SE",
     "lbl:latitude":55.45803,
     "lbl:longitude":13.655322,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.45803,
     "mps:longitude":13.655322,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sjorup"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159305639,
-    "wof:lastmodified":1529702593,
+    "wof:lastmodified":1566643279,
     "wof:name":"Sjorup",
     "wof:parent_id":1159303233,
     "wof:placetype":"localadmin",

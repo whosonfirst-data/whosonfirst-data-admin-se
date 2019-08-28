@@ -12,10 +12,13 @@
     "iso:country":"SE",
     "lbl:latitude":57.540512,
     "lbl:longitude":12.105778,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":57.540512,
     "mps:longitude":12.105778,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "Anneberg"
     ],
@@ -65,7 +68,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688391,
         102191581,
@@ -78,7 +81,6 @@
         "fct:id":"06d19a22-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2725693,
         "gp:id":884891,
-        "qs:id":506770,
         "qs_pg:id":506770,
         "wd:id":"Q743720",
         "wk:page":"Anneberg, Kungsbacka"
@@ -99,7 +101,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368688,
+    "wof:lastmodified":1566642165,
     "wof:name":"Anneberg",
     "wof:parent_id":1125286339,
     "wof:placetype":"locality",

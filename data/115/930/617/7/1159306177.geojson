@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027303,
+    "geom:area_square_m":158636115.331981,
     "geom:bbox":"17.1640562208,61.9222365227,17.5523940674,62.0283849145",
     "geom:latitude":61.973511,
     "geom:longitude":17.342457,
     "iso:country":"SE",
     "lbl:latitude":61.970319,
     "lbl:longitude":17.342458,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":61.970319,
     "mps:longitude":17.342458,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Jattendal"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159306177,
-    "wof:lastmodified":1529702049,
+    "wof:lastmodified":1566643183,
     "wof:name":"Jattendal",
     "wof:parent_id":1159303081,
     "wof:placetype":"localadmin",

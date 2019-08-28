@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002764,
+    "geom:area_square_m":17319944.784171,
     "geom:bbox":"16.2477417932,59.5259435355,16.3361152027,59.5803547779",
     "geom:latitude":59.55537,
     "geom:longitude":16.294524,
     "iso:country":"SE",
     "lbl:latitude":59.555641,
     "lbl:longitude":16.297518,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":59.555641,
     "mps:longitude":16.297518,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Saby"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159306559,
-    "wof:lastmodified":1529703022,
+    "wof:lastmodified":1566643320,
     "wof:name":"Saby",
     "wof:parent_id":1159303145,
     "wof:placetype":"localadmin",

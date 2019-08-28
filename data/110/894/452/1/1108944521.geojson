@@ -10,8 +10,10 @@
     "geom:latitude":57.725548,
     "geom:longitude":11.740988,
     "iso:country":"SE",
+    "lbl:bbox":"11.7359880475,57.7205480294,11.7459880475,57.7305480294",
     "lbl:latitude":57.725548,
     "lbl:longitude":11.740988,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -21,7 +23,7 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_metro":30,
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         1125410003,
@@ -46,7 +48,7 @@
         }
     ],
     "wof:id":1108944521,
-    "wof:lastmodified":1529702296,
+    "wof:lastmodified":1566641814,
     "wof:name":"Mosskullen",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

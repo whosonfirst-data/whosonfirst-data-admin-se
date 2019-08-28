@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011432,
+    "geom:area_square_m":75298020.959916,
     "geom:bbox":"14.5986041734,57.759092412,14.8133495169,57.853614068",
     "geom:latitude":57.814015,
     "geom:longitude":14.70029,
     "iso:country":"SE",
     "lbl:latitude":57.808938,
     "lbl:longitude":14.671824,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":57.808938,
     "mps:longitude":14.671824,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Balaryd"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159307125,
-    "wof:lastmodified":1529702414,
+    "wof:lastmodified":1566643247,
     "wof:name":"Balaryd",
     "wof:parent_id":1159303047,
     "wof:placetype":"localadmin",

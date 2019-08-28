@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007911,
+    "geom:area_square_m":54874931.568209,
     "geom:bbox":"13.4221321672,55.8050008326,13.6015596156,55.9345056497",
     "geom:latitude":55.875251,
     "geom:longitude":13.512915,
     "iso:country":"SE",
     "lbl:latitude":55.882814,
     "lbl:longitude":13.519006,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.882814,
     "mps:longitude":13.519006,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bosjokloster"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159306843,
-    "wof:lastmodified":1529702613,
+    "wof:lastmodified":1566643317,
     "wof:name":"Bosjokloster",
     "wof:parent_id":1159303357,
     "wof:placetype":"localadmin",

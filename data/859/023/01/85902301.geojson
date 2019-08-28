@@ -11,8 +11,10 @@
     "geom:longitude":17.906852,
     "gn:id":"",
     "iso:country":"SE",
+    "lbl:bbox":"17.901852,59.531478,17.911852,59.541478",
     "lbl:latitude":59.536478,
     "lbl:longitude":17.906852,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.543539,
     "mps:longitude":17.900273,
     "mz:hierarchy_label":0,
@@ -65,9 +67,6 @@
     "name:swe_x_preferred":[
         "L\u00f6wenstr\u00f6mska lasarettet"
     ],
-    "name:unk_x_variant":[
-        "L\u00f6wenstr\u00f6mska lasarettet"
-    ],
     "name:zho_min_nan_x_preferred":[
         "L\u00f6wenstr\u00f6mska lasarettet"
     ],
@@ -99,7 +98,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":161,
     "wof:belongsto":[
         102191581,
@@ -111,7 +110,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":897770,
-        "qs:id":1096277,
         "qs_pg:id":1096277,
         "wd:id":"Q1893244"
     },
@@ -132,7 +130,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563366514,
+    "wof:lastmodified":1566640586,
     "wof:name":"L\u00f6wenstr\u00f6mska lasarettet",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

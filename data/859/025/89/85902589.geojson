@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000322,
-    "geom:area_square_m":2034690.219809,
+    "geom:area_square_m":2034690.21981,
     "geom:bbox":"17.8747558594,59.2495819774,17.9098920543,59.268691554",
     "geom:latitude":59.260078,
     "geom:longitude":17.89426,
@@ -14,6 +14,7 @@
     "iso:country":"SE",
     "lbl:latitude":59.265452,
     "lbl:longitude":17.902262,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.262371,
     "mps:longitude":17.900116,
     "mz:hierarchy_label":1,
@@ -31,9 +32,6 @@
         "Varby"
     ],
     "name:swe_x_preferred":[
-        "V\u00e5rby"
-    ],
-    "name:unk_x_variant":[
         "V\u00e5rby"
     ],
     "qs:gn_adm0_cc":"SE",
@@ -63,20 +61,19 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85688429,
         102191581,
         1125362217,
         85633789,
         101752307,
-        1159303035
+        1159303035,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2664989,
         "gp:id":909056,
-        "qs:id":481347,
         "qs_pg:id":481347
     },
     "wof:country":"SE",
@@ -96,7 +93,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702797,
+    "wof:lastmodified":1566640599,
     "wof:name":"V\u00e5rby",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

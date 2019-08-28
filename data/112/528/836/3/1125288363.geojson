@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010549,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":67871521.774412,
     "geom:bbox":"14.0301345724,58.6072914151,14.2507040231,58.6948002105",
     "geom:latitude":58.645967,
     "geom:longitude":14.137977,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":2361,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":2361,
     "iso:country":"SE",
     "lbl:latitude":58.645446,
     "lbl:longitude":14.119561,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":58.645446,
     "mps:longitude":14.119561,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Fagre"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125288363,
-    "wof:lastmodified":1529702215,
+    "wof:lastmodified":1566642638,
     "wof:name":"Fagre",
     "wof:parent_id":1159303045,
     "wof:placetype":"localadmin",

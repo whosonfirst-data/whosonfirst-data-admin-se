@@ -13,8 +13,10 @@
     "gn:longitude":12.13333,
     "gn:population":825,
     "iso:country":"SE",
+    "lbl:bbox":"12.152012,57.735854,12.162012,57.745854",
     "lbl:latitude":57.740854,
     "lbl:longitude":12.157012,
+    "lbl:max_zoom":18.0,
     "mps:latitude":57.751075,
     "mps:longitude":12.161625,
     "mz:hierarchy_label":0,
@@ -66,9 +68,6 @@
     "name:swe_x_preferred":[
         "K\u00e5h\u00f6g"
     ],
-    "name:unk_x_variant":[
-        "K\u00e5h\u00f6g"
-    ],
     "name:zho_min_nan_x_preferred":[
         "K\u00e5h\u00f6g"
     ],
@@ -101,7 +100,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"geonames",
     "wd:wordcount":46,
     "wof:belongsto":[
@@ -115,7 +114,6 @@
     "wof:concordances":{
         "gn:id":2702664,
         "gp:id":894554,
-        "qs:id":1167683,
         "qs_pg:id":1167683,
         "wd:id":"Q1957260",
         "wk:page":"K\u00e5h\u00f6g"
@@ -137,7 +135,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563366523,
+    "wof:lastmodified":1566640591,
     "wof:name":"K\u00e5h\u00f6g",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

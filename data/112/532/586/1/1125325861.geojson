@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.057082,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":366379018.248195,
     "geom:bbox":"15.6716206898,58.6157486003,16.0754185201,58.8518544158",
     "geom:latitude":58.72992,
     "geom:longitude":15.856377,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":15163,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":15163,
     "iso:country":"SE",
     "lbl:latitude":58.727953,
     "lbl:longitude":15.852595,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":58.727953,
     "mps:longitude":15.852595,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Risinge"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125325861,
-    "wof:lastmodified":1529703097,
+    "wof:lastmodified":1566642503,
     "wof:name":"Risinge",
     "wof:parent_id":1159303029,
     "wof:placetype":"localadmin",

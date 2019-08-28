@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.098664,
+    "geom:area_square_m":531175235.601525,
     "geom:bbox":"18.4825470805,64.0606023726,19.1762542102,64.3525965587",
     "geom:latitude":64.189769,
     "geom:longitude":18.84608,
     "iso:country":"SE",
     "lbl:latitude":64.18757,
     "lbl:longitude":18.898526,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":64.18757,
     "mps:longitude":18.898526,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ortrask"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159305675,
-    "wof:lastmodified":1529702963,
+    "wof:lastmodified":1566643145,
     "wof:name":"Ortrask",
     "wof:parent_id":1159303117,
     "wof:placetype":"localadmin",

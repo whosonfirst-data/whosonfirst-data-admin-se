@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010663,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":69819123.952907,
     "geom:bbox":"12.5393158751,57.9706618168,12.7276893148,58.0884670494",
     "geom:latitude":58.026501,
     "geom:longitude":12.629564,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":1598,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":1598,
     "iso:country":"SE",
     "lbl:latitude":58.025153,
     "lbl:longitude":12.620263,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":58.025153,
     "mps:longitude":12.620263,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Lena-Bergstena"
@@ -48,7 +50,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":1125278015,
-    "wof:lastmodified":1529702211,
+    "wof:lastmodified":1566642712,
     "wof:name":"Lena-Bergstena",
     "wof:parent_id":1159303255,
     "wof:placetype":"localadmin",

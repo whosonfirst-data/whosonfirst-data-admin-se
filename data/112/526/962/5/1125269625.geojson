@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.068031,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":384463726.601539,
     "geom:bbox":"14.4602618576,62.5897889968,14.9167392855,63.0112496008",
     "geom:latitude":62.803905,
     "geom:longitude":14.677455,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":1138,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":1138,
     "iso:country":"SE",
     "lbl:latitude":62.838402,
     "lbl:longitude":14.655363,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":62.838402,
     "mps:longitude":14.655363,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Hackas"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125269625,
-    "wof:lastmodified":1529702362,
+    "wof:lastmodified":1566642650,
     "wof:name":"Hackas",
     "wof:parent_id":1159303129,
     "wof:placetype":"localadmin",

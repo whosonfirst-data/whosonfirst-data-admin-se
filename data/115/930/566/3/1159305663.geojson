@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012752,
+    "geom:area_square_m":88165154.295112,
     "geom:bbox":"14.3278355881,55.9464492741,14.4802471756,56.1499652093",
     "geom:latitude":56.004216,
     "geom:longitude":14.404513,
     "iso:country":"SE",
     "lbl:latitude":55.993452,
     "lbl:longitude":14.395591,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.993452,
     "mps:longitude":14.395591,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Trolle-Ljungby"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159305663,
-    "wof:lastmodified":1529702594,
+    "wof:lastmodified":1566643155,
     "wof:name":"Trolle-Ljungby",
     "wof:parent_id":1159303497,
     "wof:placetype":"localadmin",

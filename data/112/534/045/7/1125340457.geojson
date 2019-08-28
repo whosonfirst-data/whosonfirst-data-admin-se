@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004029,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":26414893.63703,
     "geom:bbox":"13.174544492,57.951413645,13.2844712369,58.0209737717",
     "geom:latitude":57.980398,
     "geom:longitude":13.235275,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":175,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":175,
     "iso:country":"SE",
     "lbl:latitude":57.981566,
     "lbl:longitude":13.236079,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mps:latitude":57.981566,
     "mps:longitude":13.236079,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Alboga"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125340457,
-    "wof:lastmodified":1529702115,
+    "wof:lastmodified":1566642389,
     "wof:name":"Alboga",
     "wof:parent_id":1159303171,
     "wof:placetype":"localadmin",

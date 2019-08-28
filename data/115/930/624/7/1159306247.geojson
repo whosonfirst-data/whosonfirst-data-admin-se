@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.069024,
+    "geom:area_square_m":388661127.305882,
     "geom:bbox":"15.4172608647,62.7709232545,15.8874123972,63.0433597907",
     "geom:latitude":62.910838,
     "geom:longitude":15.67541,
     "iso:country":"SE",
     "lbl:latitude":62.899879,
     "lbl:longitude":15.698592,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":62.899879,
     "mps:longitude":15.698592,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Nyhem"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159306247,
-    "wof:lastmodified":1529702364,
+    "wof:lastmodified":1566643309,
     "wof:name":"Nyhem",
     "wof:parent_id":1159303529,
     "wof:placetype":"localadmin",

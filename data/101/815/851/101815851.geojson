@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":59.599588,
     "lbl:longitude":15.846448,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":59.599588,
     "mps:longitude":15.846448,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041a\u043e\u043b\u0441\u0432\u0430"
     ],
@@ -72,7 +75,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":47,
     "wof:belongsto":[
@@ -87,7 +90,6 @@
         "fct:id":"06d0205c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2699879,
         "gp:id":895688,
-        "qs:id":458161,
         "qs_pg:id":458161,
         "wd:id":"Q3473443",
         "wk:page":"Kolsva"
@@ -108,7 +110,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368823,
+    "wof:lastmodified":1566642212,
     "wof:name":"Kolsva",
     "wof:parent_id":1125327743,
     "wof:placetype":"locality",

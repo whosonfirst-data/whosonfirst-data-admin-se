@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Stockholm",
     "iso:country":"SE",
+    "lbl:bbox":"14.16333,59.49667,14.20333,59.53667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633789
@@ -35,7 +39,7 @@
         "gn:id":2693530
     },
     "wof:country":"SE",
-    "wof:geomhash":"ae49bc108aaa61eeea0e14f6ad23d986",
+    "wof:geomhash":"dbc0b49296174147810bba68295f8146",
     "wof:hierarchy":[
         {
             "country_id":85633789,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209373141,
-    "wof:lastmodified":1536289040,
+    "wof:lastmodified":1566641360,
     "wof:name":"Lungsundet",
     "wof:parent_id":85633789,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    14.183329999999998,
+    14.18333,
     59.51667,
-    14.183329999999998,
+    14.18333,
     59.51667
 ],
   "geometry": {"coordinates":[14.18333,59.51667],"type":"Point"}

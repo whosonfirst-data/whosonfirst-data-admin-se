@@ -13,6 +13,7 @@
     "iso:country":"SE",
     "lbl:latitude":59.286136,
     "lbl:longitude":18.056719,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.282503,
     "mps:longitude":18.073154,
     "mz:hierarchy_label":1,
@@ -34,9 +35,6 @@
     "name:swe_x_variant":[
         "Enskedefaltet",
         "Enskedef\u00e4ltet"
-    ],
-    "name:unk_x_variant":[
-        "Enskedef\u00e4lte"
     ],
     "qs:gn_adm0_cc":"SE",
     "qs:gn_id":0,
@@ -63,19 +61,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85688429,
         102191581,
         1125362217,
         85633789,
         101752307,
-        1159303035
+        1159303035,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20150953,
-        "qs:id":215859,
         "qs_pg:id":215859
     },
     "wof:country":"SE",
@@ -95,7 +92,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702812,
+    "wof:lastmodified":1566640663,
     "wof:name":"Enskedef\u00e4lte",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

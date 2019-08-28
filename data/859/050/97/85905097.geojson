@@ -14,6 +14,7 @@
     "iso:country":"SE",
     "lbl:latitude":59.441585,
     "lbl:longitude":17.830925,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.444341,
     "mps:longitude":17.830135,
     "mz:hierarchy_label":1,
@@ -44,9 +45,6 @@
     "name:swe_x_preferred":[
         "Berghem"
     ],
-    "name:unk_x_variant":[
-        "Berghem"
-    ],
     "qs:gn_adm0_cc":"SE",
     "qs:gn_fcode":"PPL",
     "qs:gn_local":2673730,
@@ -74,7 +72,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         1125362217,
@@ -87,7 +85,6 @@
     "wof:concordances":{
         "gn:id":3215281,
         "gp:id":20150834,
-        "qs:id":985419,
         "qs_pg:id":985419
     },
     "wof:country":"SE",
@@ -107,7 +104,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1564162474,
+    "wof:lastmodified":1566640656,
     "wof:name":"Berghem",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

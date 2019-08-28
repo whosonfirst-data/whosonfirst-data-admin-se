@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":57.908838,
     "lbl:longitude":14.073461,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":57.908838,
     "mps:longitude":14.073461,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0425\u0430\u0431\u0443"
     ],
@@ -138,7 +141,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":69,
     "wof:belongsto":[
@@ -153,7 +156,6 @@
         "fct:id":"06d1b372-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2709494,
         "gp:id":891717,
-        "qs:id":492337,
         "qs_pg:id":492337,
         "wd:id":"Q1566951",
         "wk:page":"Habo"
@@ -174,7 +176,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368609,
+    "wof:lastmodified":1566642137,
     "wof:name":"Habo",
     "wof:parent_id":1125282045,
     "wof:placetype":"locality",

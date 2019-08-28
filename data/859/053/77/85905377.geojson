@@ -13,6 +13,7 @@
     "iso:country":"SE",
     "lbl:latitude":59.354782,
     "lbl:longitude":18.141506,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.350696,
     "mps:longitude":18.157317,
     "mz:hierarchy_label":1,
@@ -26,9 +27,6 @@
     "mz:tier_locality":5,
     "mz:tier_metro":1,
     "name:swe_x_preferred":[
-        "Mosstorp"
-    ],
-    "name:unk_x_variant":[
         "Mosstorp"
     ],
     "qs:gn_adm0_cc":"SE",
@@ -56,19 +54,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85688429,
         102191581,
         1125394719,
         85633789,
         101839523,
-        1159303469
+        1159303469,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20151394,
-        "qs:id":1328978,
         "qs_pg:id":1328978
     },
     "wof:country":"SE",
@@ -88,7 +85,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702809,
+    "wof:lastmodified":1566640618,
     "wof:name":"Mosstorp",
     "wof:parent_id":101839523,
     "wof:placetype":"neighbourhood",

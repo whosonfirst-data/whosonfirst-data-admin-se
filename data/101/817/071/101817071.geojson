@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":57.837328,
     "lbl:longitude":12.302492,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":57.837328,
     "mps:longitude":12.302492,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0413\u0440\u043e\u0431\u0443"
     ],
@@ -81,7 +84,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688411,
@@ -95,7 +98,6 @@
         "fct:id":"06d2e1d4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2711451,
         "gp:id":890901,
-        "qs:id":3518,
         "qs_pg:id":3518,
         "wd:id":"Q2680101",
         "wk:page":"Gr\u00e5bo"
@@ -116,7 +118,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368751,
+    "wof:lastmodified":1566642188,
     "wof:name":"Gr\u00e5bo",
     "wof:parent_id":1125271005,
     "wof:placetype":"locality",

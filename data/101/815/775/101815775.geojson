@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":58.983964,
     "lbl:longitude":14.097756,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":58.983964,
     "mps:longitude":14.097756,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u063a\u0648\u0644\u0633\u0628\u0648\u0646\u063a"
     ],
@@ -117,7 +120,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":490,
     "wof:belongsto":[
@@ -132,7 +135,6 @@
         "fct:id":"06d292c4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2709912,
         "gp:id":891511,
-        "qs:id":229177,
         "qs_pg:id":229177,
         "wd:id":"Q1554356",
         "wk:page":"Gullsp\u00e5ng"
@@ -153,7 +155,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368852,
+    "wof:lastmodified":1566642224,
     "wof:name":"Gullsp\u00e5ng",
     "wof:parent_id":1125358409,
     "wof:placetype":"locality",

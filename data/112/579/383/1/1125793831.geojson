@@ -9,14 +9,18 @@
     "geom:bbox":"17.39778,62.32167,17.39778,62.32167",
     "geom:latitude":62.32167,
     "geom:longitude":17.39778,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"SE",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"SE",
+    "lbl:bbox":"17.37778,62.30167,17.41778,62.34167",
     "lbl:latitude":62.32167,
     "lbl:longitude":17.39778,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:dan_x_preferred":[
         "Nyhamn"
@@ -51,9 +55,6 @@
     "name:swe_x_preferred":[
         "Nyhamn"
     ],
-    "name:unk_x_variant":[
-        "S\u00f6dra Nyhamn"
-    ],
     "qs_pg:aaroncc":"SE",
     "qs_pg:gn_country":"SE",
     "qs_pg:gn_fcode":"PPL",
@@ -75,7 +76,7 @@
     "qs_pg:woe_adm0":23424954,
     "qs_pg:woe_id":900259,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424954,
     "woe:name_adm0":"Sverige",
     "woe:name_adm1":"V\u00e4sternorrlands L\u00e4n",
@@ -108,7 +109,7 @@
         }
     ],
     "wof:id":1125793831,
-    "wof:lastmodified":1561840065,
+    "wof:lastmodified":1566643097,
     "wof:name":"Nyhamn",
     "wof:parent_id":1125409973,
     "wof:placetype":"locality",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001247,
+    "geom:area_square_m":8367818.891285,
     "geom:bbox":"12.3421006842,57.1157396609,12.4118391908,57.1488260023",
     "geom:latitude":57.13378,
     "geom:longitude":12.377504,
     "iso:country":"SE",
     "lbl:latitude":57.134755,
     "lbl:longitude":12.380943,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":57.134755,
     "mps:longitude":12.380943,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Godestad"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159305821,
-    "wof:lastmodified":1529702320,
+    "wof:lastmodified":1566643351,
     "wof:name":"Godestad",
     "wof:parent_id":1159302939,
     "wof:placetype":"localadmin",

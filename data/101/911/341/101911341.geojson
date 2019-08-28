@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":56.774105,
     "lbl:longitude":16.475877,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":56.774105,
     "mps:longitude":16.475877,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Revsudden"
     ],
@@ -36,10 +39,8 @@
     "name:swe_x_preferred":[
         "Revsudden"
     ],
-    "name:und_x_preferred":[
-        "\u041a\u043e\u043b\u0435\u043d\u0442\u0435\u0435\u0432\u043e"
-    ],
     "name:und_x_variant":[
+        "\u041a\u043e\u043b\u0435\u043d\u0442\u0435\u0435\u0432\u043e",
         "Kolenteevo"
     ],
     "qs:a0":"Sverige",
@@ -57,7 +58,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688401,
         102191581,
@@ -68,9 +69,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20151528,
-        "qs:id":1123131,
-        "qs_pg:id":1179351,
+        "qs_pg:id":1123131,
         "wd:id":"Q2647367"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1179351
     },
     "wof:country":"SE",
     "wof:geomhash":"6768890da44727f05064167c485b53c7",
@@ -88,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561839990,
+    "wof:lastmodified":1566642255,
     "wof:name":"Revsudden",
     "wof:parent_id":1125277853,
     "wof:placetype":"locality",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005266,
+    "geom:area_square_m":33333792.971813,
     "geom:bbox":"15.3026972069,59.1700370613,15.4294337494,59.2430314731",
     "geom:latitude":59.20615,
     "geom:longitude":15.368268,
     "iso:country":"SE",
     "lbl:latitude":59.209027,
     "lbl:longitude":15.362005,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":59.209027,
     "mps:longitude":15.362005,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Norrbyas"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159306521,
-    "wof:lastmodified":1529703047,
+    "wof:lastmodified":1566643322,
     "wof:name":"Norrbyas",
     "wof:parent_id":1159303031,
     "wof:placetype":"localadmin",

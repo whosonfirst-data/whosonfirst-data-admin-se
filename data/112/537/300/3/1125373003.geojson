@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02035,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":132579818.221763,
     "geom:bbox":"11.9826243217,58.1085516365,12.2286314704,58.308264806",
     "geom:latitude":58.205195,
     "geom:longitude":12.093157,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":3182,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":3182,
     "iso:country":"SE",
     "lbl:latitude":58.183997,
     "lbl:longitude":12.074692,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":58.183997,
     "mps:longitude":12.074692,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Hjartum"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125373003,
-    "wof:lastmodified":1529702174,
+    "wof:lastmodified":1566642780,
     "wof:name":"Hjartum",
     "wof:parent_id":1159303279,
     "wof:placetype":"localadmin",

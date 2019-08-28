@@ -15,6 +15,7 @@
     "iso:country":"SE",
     "lbl:latitude":59.399404,
     "lbl:longitude":17.943564,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.399105,
     "mps:longitude":17.952219,
     "mz:hierarchy_label":1,
@@ -81,9 +82,6 @@
     "name:tur_x_preferred":[
         "Kista"
     ],
-    "name:unk_x_variant":[
-        "Kista"
-    ],
     "name:zho_x_preferred":[
         "\u5e0c\u65af\u5854"
     ],
@@ -114,7 +112,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "src:population":"geonames",
     "wd:wordcount":388,
     "wof:belongsto":[
@@ -129,7 +127,6 @@
     "wof:concordances":{
         "gn:id":2700791,
         "gp:id":895318,
-        "qs:id":141223,
         "qs_pg:id":141223,
         "wd:id":"Q1245744",
         "wk:page":"Kista"
@@ -151,7 +148,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563366526,
+    "wof:lastmodified":1566640593,
     "wof:name":"Kista",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

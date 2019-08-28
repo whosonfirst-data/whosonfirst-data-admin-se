@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003738,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":24403934.899657,
     "geom:bbox":"12.116382187,58.0984027092,12.1908286909,58.1802129116",
     "geom:latitude":58.135251,
     "geom:longitude":12.152494,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":4701,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":4701,
     "iso:country":"SE",
     "lbl:latitude":58.131786,
     "lbl:longitude":12.155508,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":58.131786,
     "mps:longitude":12.155508,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Fuxerna"
@@ -48,7 +50,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":1125373083,
-    "wof:lastmodified":1529702175,
+    "wof:lastmodified":1566642783,
     "wof:name":"Fuxerna",
     "wof:parent_id":1159303279,
     "wof:placetype":"localadmin",

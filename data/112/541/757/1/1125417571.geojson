@@ -9,17 +9,19 @@
     "geom:bbox":"13.4249537748,57.2384462438,13.611590561,57.4101113628",
     "geom:latitude":57.338287,
     "geom:longitude":13.526746,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":10535,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":10535,
     "iso:country":"SE",
     "lbl:latitude":57.354148,
     "lbl:longitude":13.520332,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":57.354148,
     "mps:longitude":13.520332,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0418\u0441\u043b\u0430\u0432\u0435\u0434"
@@ -96,7 +98,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -122,7 +124,7 @@
         }
     ],
     "wof:id":1125417571,
-    "wof:lastmodified":1564165440,
+    "wof:lastmodified":1566643092,
     "wof:name":"Gislaved",
     "wof:parent_id":1159303327,
     "wof:placetype":"localadmin",

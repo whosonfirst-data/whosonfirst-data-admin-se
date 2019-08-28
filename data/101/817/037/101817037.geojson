@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":58.121378,
     "lbl:longitude":12.526135,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":58.121378,
     "mps:longitude":12.526135,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0421\u043e\u043b\u0435\u0431\u0440\u0443\u043d"
     ],
@@ -84,7 +87,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":47,
     "wof:belongsto":[
@@ -99,7 +102,6 @@
         "fct:id":"06d1b69c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2675418,
         "gp:id":905332,
-        "qs:id":3796,
         "qs_pg:id":3796,
         "wd:id":"Q2420672",
         "wk:page":"Sollebrunn"
@@ -120,7 +122,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368762,
+    "wof:lastmodified":1566642192,
     "wof:name":"Sollebrunn",
     "wof:parent_id":1159307597,
     "wof:placetype":"locality",

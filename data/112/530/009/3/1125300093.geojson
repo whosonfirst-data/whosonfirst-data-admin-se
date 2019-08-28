@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.061107,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":14593670352.868227,
     "geom:bbox":"16.7326205396,66.2785854143,22.1989862518,68.1187974571",
     "geom:latitude":67.32125,
     "geom:longitude":19.848873,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":10877,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":10877,
     "iso:country":"SE",
     "lbl:latitude":67.315487,
     "lbl:longitude":20.118937,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":67.315487,
     "mps:longitude":20.118937,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Gallivare"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125300093,
-    "wof:lastmodified":1529700136,
+    "wof:lastmodified":1566642831,
     "wof:name":"Gallivare",
     "wof:parent_id":1159303507,
     "wof:placetype":"localadmin",

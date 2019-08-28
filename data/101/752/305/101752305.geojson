@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":59.188696,
     "lbl:longitude":17.612897,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":59.188696,
     "mps:longitude":17.612897,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "name:afr_x_preferred":[
         "S\u00f6dert\u00e4lje"
     ],
@@ -379,7 +382,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1192,
     "wof:belongsto":[
@@ -394,7 +397,6 @@
         "fct:id":"06d1392e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2676176,
         "gp:id":905000,
-        "qs:id":352965,
         "qs_pg:id":352965,
         "wd:id":"Q26518",
         "wk:page":"S\u00f6dert\u00e4lje"
@@ -415,7 +417,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368584,
+    "wof:lastmodified":1566642130,
     "wof:name":"S\u00f6dert\u00e4lje",
     "wof:parent_id":1159307513,
     "wof:placetype":"locality",

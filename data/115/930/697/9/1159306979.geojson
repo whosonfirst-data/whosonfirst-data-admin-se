@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00728,
+    "geom:area_square_m":45631823.657771,
     "geom:bbox":"16.9324353817,59.5084002958,17.1029619622,59.583477645",
     "geom:latitude":59.541813,
     "geom:longitude":17.022729,
     "iso:country":"SE",
     "lbl:latitude":59.546991,
     "lbl:longitude":17.038204,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":59.546991,
     "mps:longitude":17.038204,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Enkopings-Nas"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159306979,
-    "wof:lastmodified":1529702837,
+    "wof:lastmodified":1566643325,
     "wof:name":"Enkopings-Nas",
     "wof:parent_id":1159303337,
     "wof:placetype":"localadmin",

@@ -12,6 +12,7 @@
     "iso:country":"SE",
     "lbl:latitude":59.376793,
     "lbl:longitude":18.067527,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.37822,
     "mps:longitude":18.06678,
     "mz:hierarchy_label":0,
@@ -55,9 +56,6 @@
     "name:swe_x_variant":[
         "S\u00f6derskogen"
     ],
-    "name:unk_x_variant":[
-        "Soderskogen"
-    ],
     "name:zho_min_nan_x_preferred":[
         "S\u00f6derskogen"
     ],
@@ -86,7 +84,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":45,
     "wof:belongsto":[
         102191581,
@@ -117,7 +115,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563366572,
+    "wof:lastmodified":1566640632,
     "wof:name":"Soderskogen",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

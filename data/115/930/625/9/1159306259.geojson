@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034142,
+    "geom:area_square_m":207902650.908467,
     "geom:bbox":"17.4338334093,60.4041157797,17.7109051528,60.6031841275",
     "geom:latitude":60.498178,
     "geom:longitude":17.590546,
     "iso:country":"SE",
     "lbl:latitude":60.50058,
     "lbl:longitude":17.593191,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":60.50058,
     "mps:longitude":17.593191,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Vastland"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159306259,
-    "wof:lastmodified":1529702867,
+    "wof:lastmodified":1566643298,
     "wof:name":"Vastland",
     "wof:parent_id":1159302963,
     "wof:placetype":"localadmin",

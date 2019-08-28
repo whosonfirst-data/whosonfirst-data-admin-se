@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002769,
+    "geom:area_square_m":18411310.362574,
     "geom:bbox":"18.3982355167,57.4449517988,18.493473131,57.4930129011",
     "geom:latitude":57.46756,
     "geom:longitude":18.446098,
     "iso:country":"SE",
     "lbl:latitude":57.46715,
     "lbl:longitude":18.446998,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":57.46715,
     "mps:longitude":18.446998,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Viklau"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159306491,
-    "wof:lastmodified":1529702023,
+    "wof:lastmodified":1566643303,
     "wof:name":"Viklau",
     "wof:parent_id":1159303535,
     "wof:placetype":"localadmin",

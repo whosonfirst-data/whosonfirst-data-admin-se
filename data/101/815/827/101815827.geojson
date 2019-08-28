@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":59.321111,
     "lbl:longitude":14.499655,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":59.321111,
     "mps:longitude":14.499655,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0631\u0644\u0633\u0643\u0648\u063a\u0627"
     ],
@@ -162,7 +165,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0440\u043b\u0441\u043a\u043e\u0491\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kariskoga"
     ],
     "name:zho_min_nan_x_preferred":[
@@ -188,7 +191,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":428,
     "wof:belongsto":[
@@ -203,7 +206,6 @@
         "fct:id":"06d14be4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2701715,
         "gp:id":894951,
-        "qs:id":492385,
         "qs_pg:id":492385,
         "wd:id":"Q54732",
         "wk:page":"Karlskoga"
@@ -224,7 +226,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368814,
+    "wof:lastmodified":1566642209,
     "wof:name":"Karlskoga",
     "wof:parent_id":1125394693,
     "wof:placetype":"locality",

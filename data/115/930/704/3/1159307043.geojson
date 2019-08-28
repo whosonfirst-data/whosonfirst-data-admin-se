@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016742,
+    "geom:area_square_m":106417644.000777,
     "geom:bbox":"12.40240306,58.9993039564,12.5946842701,59.1321556805",
     "geom:latitude":59.066529,
     "geom:longitude":12.494751,
     "iso:country":"SE",
     "lbl:latitude":59.064478,
     "lbl:longitude":12.486979,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":59.064478,
     "mps:longitude":12.486979,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Edsleskog"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159307043,
-    "wof:lastmodified":1529702154,
+    "wof:lastmodified":1566643286,
     "wof:name":"Edsleskog",
     "wof:parent_id":1159303547,
     "wof:placetype":"localadmin",

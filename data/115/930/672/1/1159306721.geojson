@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018727,
+    "geom:area_square_m":120048417.006862,
     "geom:bbox":"17.0280425053,58.6947048639,17.2513207438,58.8496286606",
     "geom:latitude":58.773591,
     "geom:longitude":17.140247,
     "iso:country":"SE",
     "lbl:latitude":58.779693,
     "lbl:longitude":17.140228,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":58.779693,
     "mps:longitude":17.140228,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Svarta"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159306721,
-    "wof:lastmodified":1529702836,
+    "wof:lastmodified":1566643175,
     "wof:name":"Svarta",
     "wof:parent_id":1159303471,
     "wof:placetype":"localadmin",

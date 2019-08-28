@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000739,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":4876098.092855,
     "geom:bbox":"12.0373955054,57.7447382248,12.0827969979,57.7758473569",
     "geom:latitude":57.757796,
     "geom:longitude":12.062026,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":15511,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":15511,
     "iso:country":"SE",
     "lbl:latitude":57.75729,
     "lbl:longitude":12.060481,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":57.75729,
     "mps:longitude":12.060481,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Bergsjon"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125409953,
-    "wof:lastmodified":1529702217,
+    "wof:lastmodified":1566643072,
     "wof:name":"Bergsjon",
     "wof:parent_id":1159302989,
     "wof:placetype":"localadmin",

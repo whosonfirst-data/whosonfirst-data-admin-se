@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":60.142797,
     "lbl:longitude":15.410547,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":60.142797,
     "mps:longitude":15.410547,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0421\u043c\u0435\u0434\u0435\u0431\u0430\u043a\u0435\u043d"
     ],
@@ -114,7 +117,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":98,
     "wof:belongsto":[
@@ -129,7 +132,6 @@
         "fct:id":"06d315d2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2676586,
         "gp:id":904841,
-        "qs:id":1086448,
         "qs_pg:id":1086448,
         "wd:id":"Q1857610",
         "wk:page":"Smedjebacken"
@@ -150,7 +152,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368732,
+    "wof:lastmodified":1566642181,
     "wof:name":"Smedjebacken",
     "wof:parent_id":1125417535,
     "wof:placetype":"locality",

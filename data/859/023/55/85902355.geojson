@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":38850840.709932,
+    "geom:area_square_m":0.0,
     "geom:bbox":"20.294481,63.820095,20.294481,63.820095",
     "geom:latitude":63.820095,
     "geom:longitude":20.294481,
     "gn:latitude":63.81727,
     "gn:longitude":20.2902,
     "iso:country":"SE",
+    "lbl:bbox":"20.289481,63.815095,20.299481,63.825095",
     "lbl:latitude":63.820095,
     "lbl:longitude":20.294481,
+    "lbl:max_zoom":18.0,
     "mps:latitude":63.812284,
     "mps:longitude":20.301368,
     "mz:hierarchy_label":0,
@@ -41,9 +43,6 @@
     "name:swe_x_preferred":[
         "\u00d6backa",
         "Arkitekth\u00f6gskolan vid Ume\u00e5 universitet"
-    ],
-    "name:unk_x_variant":[
-        "\u00d6backa"
     ],
     "qs:gn_adm0_cc":"SE",
     "qs:gn_fcode":"PPLX",
@@ -73,20 +72,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85688465,
         102191581,
         1125325349,
         85633789,
         101752319,
-        1159303017
+        1159303017,
+        85688465
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":603920,
         "gp:id":900366,
-        "qs:id":898165,
         "qs_pg:id":898165
     },
     "wof:country":"SE",
@@ -106,7 +104,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1531935880,
+    "wof:lastmodified":1566640586,
     "wof:name":"\u00d6backa",
     "wof:parent_id":101752319,
     "wof:placetype":"neighbourhood",

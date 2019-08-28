@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":55.539773,
     "lbl:longitude":13.10097,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":55.539773,
     "mps:longitude":13.10097,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:dan_x_preferred":[
         "Oxie"
     ],
@@ -87,7 +90,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688377,
@@ -101,7 +104,6 @@
         "fct:id":"06d21bdc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2684636,
         "gp:id":901659,
-        "qs:id":1083465,
         "qs_pg:id":1083465,
         "wd:id":"Q1995123",
         "wk:page":"Oxie"
@@ -122,7 +124,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1561839987,
+    "wof:lastmodified":1566642236,
     "wof:name":"Oxie",
     "wof:parent_id":1125331831,
     "wof:placetype":"locality",

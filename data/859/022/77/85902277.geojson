@@ -14,6 +14,7 @@
     "iso:country":"SE",
     "lbl:latitude":59.199701,
     "lbl:longitude":18.117811,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.195962,
     "mps:longitude":18.114847,
     "mz:hierarchy_label":1,
@@ -51,9 +52,6 @@
     "name:swe_x_preferred":[
         "L\u00e4nna"
     ],
-    "name:unk_x_variant":[
-        "L\u00e4nna"
-    ],
     "name:urd_x_preferred":[
         "\u0644\u0627\u0646\u0627"
     ],
@@ -84,7 +82,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":45,
     "wof:belongsto":[
         102191581,
@@ -98,7 +96,6 @@
     "wof:concordances":{
         "gn:id":2697033,
         "gp:id":896743,
-        "qs:id":983877,
         "qs_pg:id":983877
     },
     "wof:country":"SE",
@@ -118,7 +115,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1564162423,
+    "wof:lastmodified":1566640595,
     "wof:name":"L\u00e4nna",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

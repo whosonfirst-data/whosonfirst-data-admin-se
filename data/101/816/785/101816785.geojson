@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":57.164004,
     "lbl:longitude":13.410443,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":57.164004,
     "mps:longitude":13.410443,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Sm\u00e5landsstenar"
     ],
@@ -87,7 +90,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":81,
     "wof:belongsto":[
@@ -102,7 +105,6 @@
         "fct:id":"06d18ffa-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2676644,
         "gp:id":904816,
-        "qs:id":1037504,
         "qs_pg:id":1037504,
         "wd:id":"Q2338168",
         "wk:page":"Sm\u00e5landsstenar"
@@ -123,7 +125,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368662,
+    "wof:lastmodified":1566642155,
     "wof:name":"Sm\u00e5landsstenar",
     "wof:parent_id":1125368841,
     "wof:placetype":"locality",

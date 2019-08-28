@@ -14,6 +14,7 @@
     "iso:country":"SE",
     "lbl:latitude":57.711483,
     "lbl:longitude":12.087708,
+    "lbl:max_zoom":18.0,
     "mps:latitude":57.709431,
     "mps:longitude":12.088002,
     "mz:hierarchy_label":1,
@@ -53,9 +54,6 @@
     "name:swe_x_variant":[
         "S\u00e4vedale"
     ],
-    "name:unk_x_variant":[
-        "S\u00e4vedalen"
-    ],
     "qs:gn_adm0_cc":"SE",
     "qs:gn_fcode":"PPL",
     "qs:gn_local":2711537,
@@ -84,7 +82,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":91,
     "wof:belongsto":[
         102191581,
@@ -97,7 +95,6 @@
     "wof:concordances":{
         "gn:id":2679745,
         "gp:id":903558,
-        "qs:id":43715,
         "qs_pg:id":43715,
         "wd:id":"Q7665792",
         "wk:page":"S\u00e4vedalen"
@@ -119,7 +116,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563366499,
+    "wof:lastmodified":1566640576,
     "wof:name":"S\u00e4vedalen",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

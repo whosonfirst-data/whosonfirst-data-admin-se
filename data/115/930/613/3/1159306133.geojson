@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006041,
+    "geom:area_square_m":39700330.925345,
     "geom:bbox":"12.6531416808,57.8564002351,12.7691843882,57.9348150471",
     "geom:latitude":57.892922,
     "geom:longitude":12.713075,
     "iso:country":"SE",
     "lbl:latitude":57.893717,
     "lbl:longitude":12.714177,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":57.893717,
     "mps:longitude":12.714177,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Skogsbygden"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159306133,
-    "wof:lastmodified":1529702129,
+    "wof:lastmodified":1566643298,
     "wof:name":"Skogsbygden",
     "wof:parent_id":1159303255,
     "wof:placetype":"localadmin",

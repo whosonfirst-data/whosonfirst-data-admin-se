@@ -9,17 +9,19 @@
     "geom:bbox":"12.1308545117,59.1736467639,12.5125553761,59.4504351199",
     "geom:latitude":59.322465,
     "geom:longitude":12.336069,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":1136,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":1136,
     "iso:country":"SE",
     "lbl:latitude":59.321576,
     "lbl:longitude":12.339757,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":59.321576,
     "mps:longitude":12.339757,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Sillerud"
@@ -48,7 +50,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":1125288209,
-    "wof:lastmodified":1564165060,
+    "wof:lastmodified":1566642597,
     "wof:name":"Sillerud",
     "wof:parent_id":1159302927,
     "wof:placetype":"localadmin",

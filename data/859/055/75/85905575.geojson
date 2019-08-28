@@ -5,13 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000552,
-    "geom:area_square_m":3494993.95693,
+    "geom:area_square_m":3494993.956931,
     "geom:bbox":"17.8912353516,59.194588489,17.9250311063,59.2239057953",
     "geom:latitude":59.207437,
     "geom:longitude":17.906527,
     "iso:country":"SE",
     "lbl:latitude":59.206334,
     "lbl:longitude":17.907408,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.207103,
     "mps:longitude":17.905374,
     "mz:hierarchy_label":1,
@@ -24,9 +25,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":0,
     "name:swe_x_preferred":[
-        "Tullingeberg"
-    ],
-    "name:unk_x_variant":[
         "Tullingeberg"
     ],
     "qs:gn_adm0_cc":"SE",
@@ -55,14 +53,14 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85688429,
         102191581,
         1125362217,
         85633789,
         101752307,
-        1159303035
+        1159303035,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -85,7 +83,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702820,
+    "wof:lastmodified":1566640631,
     "wof:name":"Tullingeberg",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

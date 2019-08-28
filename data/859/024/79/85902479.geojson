@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2179136.259702,
+    "geom:area_square_m":0.0,
     "geom:bbox":"18.209351,59.374194,18.209351,59.374194",
     "geom:latitude":59.374194,
     "geom:longitude":18.209351,
     "gn:latitude":59.37773,
     "gn:longitude":18.20778,
     "iso:country":"SE",
+    "lbl:bbox":"18.204351,59.369194,18.214351,59.379194",
     "lbl:latitude":59.374194,
     "lbl:longitude":18.209351,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.380391,
     "mps:longitude":18.206603,
     "mz:hierarchy_label":0,
@@ -37,9 +39,6 @@
         "Soedergarn"
     ],
     "name:swe_x_preferred":[
-        "S\u00f6dergarn"
-    ],
-    "name:unk_x_variant":[
         "S\u00f6dergarn"
     ],
     "qs:gn_adm0_cc":"SE",
@@ -71,7 +70,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         1125394719,
@@ -83,7 +82,6 @@
     "wof:concordances":{
         "gn:id":2676232,
         "gp:id":904978,
-        "qs:id":41219,
         "qs_pg:id":41219
     },
     "wof:country":"SE",
@@ -103,7 +101,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1531935897,
+    "wof:lastmodified":1566640579,
     "wof:name":"S\u00f6dergarn",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

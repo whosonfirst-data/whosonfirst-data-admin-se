@@ -11,12 +11,16 @@
     "geom:longitude":12.822099,
     "gn:population":1012,
     "iso:country":"SE",
+    "lbl:bbox":"12.802099,56.141194,12.842099,56.181194",
     "lbl:latitude":56.161194,
     "lbl:longitude":12.822099,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":56.161194,
     "mps:longitude":12.822099,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Str\u00f6velstorp"
     ],
@@ -76,7 +80,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":45,
     "wof:belongsto":[
@@ -91,7 +95,6 @@
         "fct:id":"06d1cd26-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2671206,
         "gp:id":906595,
-        "qs:id":983907,
         "qs_pg:id":983907,
         "wd:id":"Q3353662",
         "wk:page":"Str\u00f6velstorp"
@@ -112,7 +115,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368738,
+    "wof:lastmodified":1566642183,
     "wof:name":"Str\u00f6velstorp",
     "wof:parent_id":1125326423,
     "wof:placetype":"locality",

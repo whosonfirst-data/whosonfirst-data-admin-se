@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000043,
+    "geom:area_square_m":271352.266531,
     "geom:bbox":"12.7698912726,59.279957507,12.780512465,59.2854204492",
     "geom:latitude":59.283066,
     "geom:longitude":12.774486,
     "iso:country":"SE",
     "lbl:latitude":59.283086,
     "lbl:longitude":12.774486,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":59.283086,
     "mps:longitude":12.774486,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Sverige",
     "qs:a1":"*V\u00e4rmlands l\u00e4n",
     "qs:a1r":"4",
@@ -31,7 +35,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688435,
         102191581,
@@ -42,7 +46,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29282204,
-        "qs:id":1003043,
         "qs_pg:id":1003043
     },
     "wof:country":"SE",
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":101913037,
-    "wof:lastmodified":1529702932,
+    "wof:lastmodified":1566642205,
     "wof:name":"V\u00e4rmlands Nys\u00e4ter",
     "wof:parent_id":1159306367,
     "wof:placetype":"locality",

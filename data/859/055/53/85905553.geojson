@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000789,
-    "geom:area_square_m":4967409.233305,
+    "geom:area_square_m":4967409.233303,
     "geom:bbox":"17.9619038967,59.3975685191,18.0184014846,59.4257408205",
     "geom:latitude":59.410622,
     "geom:longitude":17.987809,
@@ -15,6 +15,7 @@
     "iso:country":"SE",
     "lbl:latitude":59.407946,
     "lbl:longitude":17.981978,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.406655,
     "mps:longitude":17.98032,
     "mz:hierarchy_label":1,
@@ -28,9 +29,6 @@
     "mz:tier_locality":5,
     "mz:tier_metro":1,
     "name:swe_x_preferred":[
-        "Tegelhagen"
-    ],
-    "name:unk_x_variant":[
         "Tegelhagen"
     ],
     "qs:gn_adm0_cc":"SE",
@@ -60,21 +58,20 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "src:population":"geonames",
     "wof:belongsto":[
-        85688429,
         102191581,
         1125362217,
         85633789,
         101752307,
-        1159303035
+        1159303035,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2669242,
         "gp:id":20151762,
-        "qs:id":1181848,
         "qs_pg:id":1181848
     },
     "wof:country":"SE",
@@ -94,7 +91,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702820,
+    "wof:lastmodified":1566640632,
     "wof:name":"Tegelhagen",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

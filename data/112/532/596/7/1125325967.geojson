@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037629,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":214879201.931328,
     "geom:bbox":"16.7493008059,62.4418308068,17.225401991,62.566522093",
     "geom:latitude":62.495729,
     "geom:longitude":16.976229,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":1670,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":1670,
     "iso:country":"SE",
     "lbl:latitude":62.492018,
     "lbl:longitude":16.976261,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":62.492018,
     "mps:longitude":16.976261,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Sattna"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125325967,
-    "wof:lastmodified":1529702993,
+    "wof:lastmodified":1566642519,
     "wof:name":"Sattna",
     "wof:parent_id":1159303427,
     "wof:placetype":"localadmin",

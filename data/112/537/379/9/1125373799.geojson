@@ -9,17 +9,19 @@
     "geom:bbox":"12.4405238412,58.2828618314,12.6696120484,58.3762822059",
     "geom:latitude":58.332804,
     "geom:longitude":12.551013,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":867,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":867,
     "iso:country":"SE",
     "lbl:latitude":58.343174,
     "lbl:longitude":12.533671,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":58.343174,
     "mps:longitude":12.533671,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Flo"
@@ -48,7 +50,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":1125373799,
-    "wof:lastmodified":1564165214,
+    "wof:lastmodified":1566642796,
     "wof:name":"Flo",
     "wof:parent_id":1159303421,
     "wof:placetype":"localadmin",

@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.057176,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":350179515.483383,
     "geom:bbox":"16.5166004895,60.1886399941,16.9131316161,60.4282919399",
     "geom:latitude":60.309781,
     "geom:longitude":16.729481,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":1348,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":1348,
     "iso:country":"SE",
     "lbl:latitude":60.307945,
     "lbl:longitude":16.725708,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":60.307945,
     "mps:longitude":16.725708,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Osterfarnebo"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125325421,
-    "wof:lastmodified":1529701990,
+    "wof:lastmodified":1566642510,
     "wof:name":"Osterfarnebo",
     "wof:parent_id":1159303303,
     "wof:placetype":"localadmin",

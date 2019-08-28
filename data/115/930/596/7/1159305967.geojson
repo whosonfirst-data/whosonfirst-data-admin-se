@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00534,
+    "geom:area_square_m":36877695.806638,
     "geom:bbox":"13.7832656783,56.0152637898,13.91268229,56.0860517936",
     "geom:latitude":56.049978,
     "geom:longitude":13.836776,
     "iso:country":"SE",
     "lbl:latitude":56.054008,
     "lbl:longitude":13.836768,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":56.054008,
     "mps:longitude":13.836768,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Navlinge"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159305967,
-    "wof:lastmodified":1529702598,
+    "wof:lastmodified":1566643287,
     "wof:name":"Navlinge",
     "wof:parent_id":1159303121,
     "wof:placetype":"localadmin",

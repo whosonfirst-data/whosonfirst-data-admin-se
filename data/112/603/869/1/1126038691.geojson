@@ -9,15 +9,18 @@
     "geom:bbox":"14.21667,63.33333,14.21667,63.33333",
     "geom:latitude":63.33333,
     "geom:longitude":14.21667,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":259,
+    "gn:country":"SE",
+    "gn:fcode":"PPL",
     "gn:population":259,
     "iso:country":"SE",
+    "lbl:bbox":"14.19667,63.31333,14.23667,63.35333",
     "lbl:latitude":63.33333,
     "lbl:longitude":14.21667,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0412\u0430\u043f\u043b\u0430\u043d"
@@ -52,7 +55,7 @@
     "name:swe_x_preferred":[
         "Vaplan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vaplana"
     ],
     "qs_pg:aaroncc":"SE",
@@ -74,7 +77,7 @@
     "qs_pg:woe_adm0":23424954,
     "qs_pg:woe_id":909043,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424954,
     "woe:name_adm0":"Sverige",
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":1126038691,
-    "wof:lastmodified":1563369380,
+    "wof:lastmodified":1566642580,
     "wof:name":"Vaplan",
     "wof:parent_id":1125373253,
     "wof:placetype":"locality",

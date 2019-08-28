@@ -9,17 +9,19 @@
     "geom:bbox":"12.6032814332,57.3298590551,12.7695104122,57.4295092817",
     "geom:latitude":57.383583,
     "geom:longitude":12.678439,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":1016,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":1016,
     "iso:country":"SE",
     "lbl:latitude":57.393494,
     "lbl:longitude":12.665852,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":57.393494,
     "mps:longitude":12.665852,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Torestorp"
@@ -66,7 +68,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -92,7 +94,7 @@
         }
     ],
     "wof:id":1125340445,
-    "wof:lastmodified":1564164898,
+    "wof:lastmodified":1566642391,
     "wof:name":"Torestorp",
     "wof:parent_id":1159302961,
     "wof:placetype":"localadmin",

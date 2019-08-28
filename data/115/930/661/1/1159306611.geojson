@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002025,
+    "geom:area_square_m":14076150.280985,
     "geom:bbox":"13.2060786795,55.7754265156,13.28785543,55.8251851514",
     "geom:latitude":55.795681,
     "geom:longitude":13.24365,
     "iso:country":"SE",
     "lbl:latitude":55.800146,
     "lbl:longitude":13.230019,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.800146,
     "mps:longitude":13.230019,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ortofta"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159306611,
-    "wof:lastmodified":1529702609,
+    "wof:lastmodified":1566643224,
     "wof:name":"Ortofta",
     "wof:parent_id":1159303151,
     "wof:placetype":"localadmin",

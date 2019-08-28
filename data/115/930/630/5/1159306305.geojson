@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005676,
+    "geom:area_square_m":39839531.335546,
     "geom:bbox":"12.9094137749,55.3805329976,13.0655377542,55.45811263",
     "geom:latitude":55.412426,
     "geom:longitude":12.995054,
     "iso:country":"SE",
     "lbl:latitude":55.424607,
     "lbl:longitude":13.02544,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.424607,
     "mps:longitude":13.02544,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Rang"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159306305,
-    "wof:lastmodified":1529702604,
+    "wof:lastmodified":1566643330,
     "wof:name":"Rang",
     "wof:parent_id":1159303307,
     "wof:placetype":"localadmin",

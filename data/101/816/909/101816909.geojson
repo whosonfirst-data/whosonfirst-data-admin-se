@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":57.260721,
     "lbl:longitude":16.451082,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":57.260721,
     "mps:longitude":16.451082,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:bul_x_preferred":[
         "\u041e\u0441\u043a\u0430\u0440\u0448\u0445\u0430\u043c\u043d"
     ],
@@ -172,7 +175,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1231,
     "wof:belongsto":[
@@ -187,7 +190,6 @@
         "fct:id":"06d0cc96-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2686162,
         "gp:id":900924,
-        "qs:id":1116958,
         "qs_pg:id":1116958,
         "wd:id":"Q654268",
         "wk:page":"Oskarshamn"
@@ -208,7 +210,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368606,
+    "wof:lastmodified":1566642136,
     "wof:name":"Oskarshamn",
     "wof:parent_id":1125286979,
     "wof:placetype":"locality",

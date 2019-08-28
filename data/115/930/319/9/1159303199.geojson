@@ -24,10 +24,13 @@
     ],
     "lbl:latitude":59.186864,
     "lbl:longitude":17.397639,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":59.186864,
     "mps:longitude":17.397639,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bar_x_preferred":[
         "Nykvarn"
     ],
@@ -88,7 +91,7 @@
     "se-lant:lanskod":1,
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":1159303199,
-    "wof:lastmodified":1564165734,
+    "wof:lastmodified":1566643371,
     "wof:name":"Nykvarn",
     "wof:parent_id":85688429,
     "wof:placetype":"county",

@@ -11,8 +11,10 @@
     "geom:longitude":17.645303,
     "gn:id":"",
     "iso:country":"SE",
+    "lbl:bbox":"17.640303,59.508651,17.650303,59.518651",
     "lbl:latitude":59.513651,
     "lbl:longitude":17.645303,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.510836,
     "mps:longitude":17.651247,
     "mz:hierarchy_label":0,
@@ -60,9 +62,6 @@
     "name:swe_x_preferred":[
         "Bro"
     ],
-    "name:unk_x_variant":[
-        "Bro"
-    ],
     "name:zho_min_nan_x_preferred":[
         "Bro"
     ],
@@ -93,7 +92,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":175,
     "wof:belongsto":[
         102191581,
@@ -106,7 +105,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":887743,
-        "qs:id":514648,
         "qs_pg:id":514648
     },
     "wof:country":"SE",
@@ -126,7 +124,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1564162461,
+    "wof:lastmodified":1566640638,
     "wof:name":"Bro",
     "wof:parent_id":101815891,
     "wof:placetype":"neighbourhood",

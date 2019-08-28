@@ -9,17 +9,19 @@
     "geom:bbox":"15.9836013645,57.2995144799,16.457798658,57.5241993552",
     "geom:latitude":57.406435,
     "geom:longitude":16.208947,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":1687,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":1687,
     "iso:country":"SE",
     "lbl:latitude":57.39562,
     "lbl:longitude":16.212473,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":57.39562,
     "mps:longitude":16.212473,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Kristdala"
@@ -60,7 +62,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -86,7 +88,7 @@
         }
     ],
     "wof:id":1125327769,
-    "wof:lastmodified":1564164994,
+    "wof:lastmodified":1566642505,
     "wof:name":"Kristdala",
     "wof:parent_id":1159303119,
     "wof:placetype":"localadmin",

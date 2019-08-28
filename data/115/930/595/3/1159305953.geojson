@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006901,
+    "geom:area_square_m":46010245.913337,
     "geom:bbox":"12.497609896,57.3246781878,12.6411364595,57.4236247705",
     "geom:latitude":57.372159,
     "geom:longitude":12.57176,
     "iso:country":"SE",
     "lbl:latitude":57.365002,
     "lbl:longitude":12.566899,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":57.365002,
     "mps:longitude":12.566899,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Oxnevalla"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159305953,
-    "wof:lastmodified":1529702125,
+    "wof:lastmodified":1566643159,
     "wof:name":"Oxnevalla",
     "wof:parent_id":1159302961,
     "wof:placetype":"localadmin",

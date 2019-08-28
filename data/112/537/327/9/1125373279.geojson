@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012881,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":85596552.661338,
     "geom:bbox":"14.4913001033,57.4334518026,14.685280282,57.548107488",
     "geom:latitude":57.491778,
     "geom:longitude":14.598867,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":268,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":268,
     "iso:country":"SE",
     "lbl:latitude":57.483551,
     "lbl:longitude":14.608419,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":57.483551,
     "mps:longitude":14.608419,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Bringetofta"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125373279,
-    "wof:lastmodified":1529702417,
+    "wof:lastmodified":1566642824,
     "wof:name":"Bringetofta",
     "wof:parent_id":1159303537,
     "wof:placetype":"localadmin",

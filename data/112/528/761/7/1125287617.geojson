@@ -9,17 +9,19 @@
     "geom:bbox":"14.5358608074,60.2752517802,14.8967526111,60.5721735768",
     "geom:latitude":60.443691,
     "geom:longitude":14.729437,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":1797,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":1797,
     "iso:country":"SE",
     "lbl:latitude":60.451726,
     "lbl:longitude":14.726022,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":60.451726,
     "mps:longitude":14.726022,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Floda"
@@ -51,7 +53,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -77,7 +79,7 @@
         }
     ],
     "wof:id":1125287617,
-    "wof:lastmodified":1564165086,
+    "wof:lastmodified":1566642627,
     "wof:name":"Floda",
     "wof:parent_id":1159302973,
     "wof:placetype":"localadmin",

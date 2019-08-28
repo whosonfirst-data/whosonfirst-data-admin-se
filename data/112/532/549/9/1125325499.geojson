@@ -9,17 +9,19 @@
     "geom:bbox":"12.5125134672,56.8271466763,12.6285361096,56.9214934313",
     "geom:latitude":56.8778,
     "geom:longitude":12.570006,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":3578,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":3578,
     "iso:country":"SE",
     "lbl:latitude":56.881872,
     "lbl:longitude":12.570874,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":56.881872,
     "mps:longitude":12.570874,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Skrea"
@@ -63,7 +65,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -89,7 +91,7 @@
         }
     ],
     "wof:id":1125325499,
-    "wof:lastmodified":1564165023,
+    "wof:lastmodified":1566642534,
     "wof:name":"Skrea",
     "wof:parent_id":1159303247,
     "wof:placetype":"localadmin",

@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":59.695397,
     "lbl:longitude":15.100167,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":59.695397,
     "mps:longitude":15.100167,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Stor\u00e5"
     ],
@@ -76,7 +79,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":47,
     "wof:belongsto":[
@@ -91,7 +94,6 @@
         "fct:id":"06d1030a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2673621,
         "gp:id":906103,
-        "qs:id":235390,
         "qs_pg:id":235390,
         "wd:id":"Q261808",
         "wk:page":"Stor\u00e5, Sweden"
@@ -112,7 +114,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368861,
+    "wof:lastmodified":1566642227,
     "wof:name":"Stor\u00e5",
     "wof:parent_id":1125372489,
     "wof:placetype":"locality",

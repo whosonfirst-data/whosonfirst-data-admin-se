@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007813,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":49537418.835142,
     "geom:bbox":"17.482209629,59.1274113241,17.6854726393,59.1874474398",
     "geom:latitude":59.153837,
     "geom:longitude":17.577281,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":29802,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":29802,
     "iso:country":"SE",
     "lbl:latitude":59.159359,
     "lbl:longitude":17.565215,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":59.159359,
     "mps:longitude":17.565215,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Tveta"
@@ -48,7 +50,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":1125286391,
-    "wof:lastmodified":1529702735,
+    "wof:lastmodified":1566642639,
     "wof:name":"Tveta",
     "wof:parent_id":1159303135,
     "wof:placetype":"localadmin",

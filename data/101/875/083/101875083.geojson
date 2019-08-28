@@ -11,12 +11,16 @@
     "geom:longitude":17.391396,
     "gn:population":10168,
     "iso:country":"SE",
+    "lbl:bbox":"17.371396,62.484147,17.411396,62.524147",
     "lbl:latitude":62.504147,
     "lbl:longitude":17.391396,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":62.504147,
     "mps:longitude":17.391396,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:bul_x_preferred":[
         "\u0422\u0438\u043c\u0440\u043e"
     ],
@@ -115,7 +119,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":241,
     "wof:belongsto":[
@@ -132,7 +136,6 @@
         "fct:id":"06d31b68-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2669047,
         "gp:id":907433,
-        "qs:id":874688,
         "qs_pg:id":874688,
         "wd:id":"Q1195439",
         "wk:page":"Timr\u00e5"
@@ -153,7 +156,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368801,
+    "wof:lastmodified":1566642204,
     "wof:name":"Timr\u00e5",
     "wof:parent_id":1125394735,
     "wof:placetype":"locality",

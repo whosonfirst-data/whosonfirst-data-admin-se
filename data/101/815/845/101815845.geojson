@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":59.068477,
     "lbl:longitude":15.099648,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":59.068477,
     "mps:longitude":15.099648,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0425\u0430\u043b\u0441\u0431\u0435\u0440\u0438"
     ],
@@ -117,7 +120,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":265,
     "wof:belongsto":[
@@ -132,7 +135,6 @@
         "fct:id":"06d0b3fa-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2708511,
         "gp:id":892152,
-        "qs:id":484386,
         "qs_pg:id":484386,
         "wd:id":"Q1001505",
         "wk:page":"Hallsberg"
@@ -153,7 +155,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368816,
+    "wof:lastmodified":1566642210,
     "wof:name":"Hallsberg",
     "wof:parent_id":1125381781,
     "wof:placetype":"locality",

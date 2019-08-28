@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4448314.859321,
+    "geom:area_square_m":0.0,
     "geom:bbox":"18.248322,59.366095,18.248322,59.366095",
     "geom:latitude":59.366095,
     "geom:longitude":18.248322,
     "gn:latitude":59.81667,
     "gn:longitude":18.9,
     "iso:country":"SE",
+    "lbl:bbox":"18.243322,59.361095,18.253322,59.371095",
     "lbl:latitude":59.366095,
     "lbl:longitude":18.248322,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.371697,
     "mps:longitude":18.249096,
     "mz:hierarchy_label":0,
@@ -27,9 +29,6 @@
     "mz:tier_locality":1,
     "mz:tier_metro":1,
     "name:swe_x_preferred":[
-        "Alvvik"
-    ],
-    "name:unk_x_variant":[
         "Alvvik"
     ],
     "qs:gn_adm0_cc":"SE",
@@ -61,7 +60,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         1125394719,
@@ -73,7 +72,6 @@
     "wof:concordances":{
         "gn:id":2600429,
         "gp:id":20150776,
-        "qs:id":349475,
         "qs_pg:id":349475
     },
     "wof:country":"SE",
@@ -93,7 +91,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1531936321,
+    "wof:lastmodified":1566640655,
     "wof:name":"Alvvik",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

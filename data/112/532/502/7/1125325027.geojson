@@ -9,17 +9,19 @@
     "geom:bbox":"16.3579428127,56.477523887,16.527275362,56.5481170721",
     "geom:latitude":56.508827,
     "geom:longitude":16.430115,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":2128,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":2128,
     "iso:country":"SE",
     "lbl:latitude":56.510788,
     "lbl:longitude":16.393548,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":56.510788,
     "mps:longitude":16.393548,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Morbylanga"
@@ -48,7 +50,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":1125325027,
-    "wof:lastmodified":1554166194,
+    "wof:lastmodified":1566642483,
     "wof:name":"Morbylanga",
     "wof:parent_id":1159303101,
     "wof:placetype":"localadmin",

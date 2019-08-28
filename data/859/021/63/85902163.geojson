@@ -5,13 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000082,
-    "geom:area_square_m":519520.201817,
+    "geom:area_square_m":519520.201818,
     "geom:bbox":"18.1320695546,59.3538989786,18.1439208984,59.3644190879",
     "geom:latitude":59.359351,
     "geom:longitude":18.137781,
     "iso:country":"SE",
     "lbl:latitude":59.359111,
     "lbl:longitude":18.125904,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.35934,
     "mps:longitude":18.13826,
     "mz:hierarchy_label":1,
@@ -33,9 +34,6 @@
     ],
     "name:swe_x_variant":[
         "H\u00e4rserud"
-    ],
-    "name:unk_x_variant":[
-        "Herserud"
     ],
     "qs:gn_adm0_cc":"SE",
     "qs:gn_id":0,
@@ -61,14 +59,14 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85688429,
         102191581,
         1125394719,
         85633789,
         101839523,
-        1159303469
+        1159303469,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -91,7 +89,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702781,
+    "wof:lastmodified":1566640652,
     "wof:name":"Herserud",
     "wof:parent_id":101839523,
     "wof:placetype":"neighbourhood",

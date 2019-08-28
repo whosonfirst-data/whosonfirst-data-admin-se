@@ -13,6 +13,7 @@
     "iso:country":"SE",
     "lbl:latitude":59.279915,
     "lbl:longitude":17.806091,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.27785,
     "mps:longitude":17.804024,
     "mz:hierarchy_label":1,
@@ -25,9 +26,6 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":5,
     "name:swe_x_preferred":[
-        "Knelleborg"
-    ],
-    "name:unk_x_variant":[
         "Knelleborg"
     ],
     "qs:gn_adm0_cc":"SE",
@@ -55,19 +53,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85688429,
         102191581,
         1125409971,
         85633789,
         101815921,
-        1159302999
+        1159302999,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20151215,
-        "qs:id":1179323,
         "qs_pg:id":1179323
     },
     "wof:country":"SE",
@@ -87,7 +84,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1529702813,
+    "wof:lastmodified":1566640624,
     "wof:name":"Knelleborg",
     "wof:parent_id":101815921,
     "wof:placetype":"neighbourhood",

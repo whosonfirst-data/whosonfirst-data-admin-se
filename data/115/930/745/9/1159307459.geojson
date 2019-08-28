@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002981,
+    "geom:area_square_m":19713777.081695,
     "geom:bbox":"11.8199950975,57.6440884833,11.9149482614,57.6889076108",
     "geom:latitude":57.667794,
     "geom:longitude":11.861018,
     "iso:country":"SE",
     "lbl:latitude":57.664928,
     "lbl:longitude":11.852427,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":57.664928,
     "mps:longitude":11.852427,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Alvsborg"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159307459,
-    "wof:lastmodified":1529702170,
+    "wof:lastmodified":1566643377,
     "wof:name":"Alvsborg",
     "wof:parent_id":1159302989,
     "wof:placetype":"localadmin",

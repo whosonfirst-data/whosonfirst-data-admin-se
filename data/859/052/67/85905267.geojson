@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2528727.709861,
+    "geom:area_square_m":0.0,
     "geom:bbox":"18.258959,59.295416,18.258959,59.295416",
     "geom:latitude":59.295416,
     "geom:longitude":18.258959,
     "gn:id":"",
     "iso:country":"SE",
+    "lbl:bbox":"18.253959,59.290416,18.263959,59.300416",
     "lbl:latitude":59.295416,
     "lbl:longitude":18.258959,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.290753,
     "mps:longitude":18.26198,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:tier_locality":1,
     "mz:tier_metro":1,
     "name:swe_x_preferred":[
-        "Igelbodaplatan"
-    ],
-    "name:unk_x_variant":[
         "Igelbodaplatan"
     ],
     "qs:gn_adm0_cc":"SE",
@@ -59,19 +58,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85688429,
         102191581,
         1125394711,
         85633789,
         101754073,
-        1159303219
+        1159303219,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20151153,
-        "qs:id":7515,
         "qs_pg:id":7515
     },
     "wof:country":"SE",
@@ -91,7 +89,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1531936334,
+    "wof:lastmodified":1566640621,
     "wof:name":"Igelbodaplatan",
     "wof:parent_id":101754073,
     "wof:placetype":"neighbourhood",

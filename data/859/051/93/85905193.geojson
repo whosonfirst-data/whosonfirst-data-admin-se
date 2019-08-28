@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1346490.991471,
+    "geom:area_square_m":0.0,
     "geom:bbox":"17.892471,59.482034,17.892471,59.482034",
     "geom:latitude":59.482034,
     "geom:longitude":17.892471,
     "gn:latitude":59.48333,
     "gn:longitude":17.9,
     "iso:country":"SE",
+    "lbl:bbox":"17.887471,59.477034,17.897471,59.487034",
     "lbl:latitude":59.482034,
     "lbl:longitude":17.892471,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.484449,
     "mps:longitude":17.909623,
     "mz:hierarchy_label":0,
@@ -27,9 +29,6 @@
     "mz:tier_locality":1,
     "mz:tier_metro":1,
     "name:swe_x_preferred":[
-        "Gillbe"
-    ],
-    "name:unk_x_variant":[
         "Gillbe"
     ],
     "qs:gn_adm0_cc":"SE",
@@ -61,20 +60,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85688429,
         102191581,
         1125409989,
         85633789,
         101815895,
-        1159303433
+        1159303433,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2712143,
         "gp:id":20151021,
-        "qs:id":896467,
         "qs_pg:id":896467
     },
     "wof:country":"SE",
@@ -94,7 +92,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1531936328,
+    "wof:lastmodified":1566640658,
     "wof:name":"Gillbe",
     "wof:parent_id":101815895,
     "wof:placetype":"neighbourhood",

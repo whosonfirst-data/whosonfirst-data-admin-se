@@ -9,17 +9,19 @@
     "geom:bbox":"12.10943657,57.1251440348,12.3582112239,57.2014798819",
     "geom:latitude":57.158301,
     "geom:longitude":12.240915,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":3255,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":3255,
     "iso:country":"SE",
     "lbl:latitude":57.156428,
     "lbl:longitude":12.292642,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":57.156428,
     "mps:longitude":12.292642,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0644\u064a\u0646\u062f\u0628\u064a\u0631\u063a"
@@ -123,7 +125,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -149,7 +151,7 @@
         }
     ],
     "wof:id":1125372511,
-    "wof:lastmodified":1564165213,
+    "wof:lastmodified":1566642794,
     "wof:name":"Lindberg",
     "wof:parent_id":1159302939,
     "wof:placetype":"localadmin",

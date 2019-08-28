@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":55.554293,
     "lbl:longitude":12.918879,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":55.554293,
     "mps:longitude":12.918879,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0411\u0443\u043d\u043a\u0435\u0444\u043b\u043e\u0441\u0442\u0440\u0430\u043d\u0434"
     ],
@@ -84,7 +87,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688377,
@@ -98,7 +101,6 @@
         "fct:id":"06d2c212-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2718759,
         "gp:id":887971,
-        "qs:id":1169100,
         "qs_pg:id":1169100,
         "wd:id":"Q2673374",
         "wk:page":"Bunkeflostrand"
@@ -119,7 +121,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368604,
+    "wof:lastmodified":1566642136,
     "wof:name":"Bunkeflostrand",
     "wof:parent_id":1125326085,
     "wof:placetype":"locality",

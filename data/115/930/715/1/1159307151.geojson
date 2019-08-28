@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003897,
+    "geom:area_square_m":24400156.684537,
     "geom:bbox":"16.5499018982,59.53184138,16.6529942812,59.6179222913",
     "geom:latitude":59.580556,
     "geom:longitude":16.603766,
     "iso:country":"SE",
     "lbl:latitude":59.585892,
     "lbl:longitude":16.604578,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":59.585892,
     "mps:longitude":16.604578,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Viksang"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159307151,
-    "wof:lastmodified":1529703024,
+    "wof:lastmodified":1566643246,
     "wof:name":"Viksang",
     "wof:parent_id":1159303331,
     "wof:placetype":"localadmin",

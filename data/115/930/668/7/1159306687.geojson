@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003095,
+    "geom:area_square_m":19943071.000362,
     "geom:bbox":"13.4382150536,58.56384136,13.557256293,58.6204712102",
     "geom:latitude":58.589563,
     "geom:longitude":13.484637,
     "iso:country":"SE",
     "lbl:latitude":58.581792,
     "lbl:longitude":13.493627,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":58.581792,
     "mps:longitude":13.493627,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Fullosa"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159306687,
-    "wof:lastmodified":1529702143,
+    "wof:lastmodified":1566643225,
     "wof:name":"Fullosa",
     "wof:parent_id":1159302923,
     "wof:placetype":"localadmin",

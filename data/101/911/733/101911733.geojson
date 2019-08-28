@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000278,
-    "geom:area_square_m":1850718.40782,
+    "geom:area_square_m":1850718.407821,
     "geom:bbox":"18.1208084564,57.4670760402,18.1501481043,57.4927477546",
     "geom:latitude":57.48174,
     "geom:longitude":18.133443,
     "iso:country":"SE",
     "lbl:latitude":57.481006,
     "lbl:longitude":18.13122,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":57.481006,
     "mps:longitude":18.13122,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Sverige",
     "qs:a1":"*Gotlands l\u00e4n",
     "qs:a1r":"3",
@@ -32,7 +35,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688405,
         102191581,
@@ -44,8 +47,10 @@
     "wof:concordances":{
         "gn:id":2668534,
         "gp:id":907575,
-        "qs:id":1154192,
         "qs_pg:id":1098086
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1154192
     },
     "wof:country":"SE",
     "wof:geomhash":"436791de486b420966b0da05537bcee5",
@@ -60,7 +65,7 @@
         }
     ],
     "wof:id":101911733,
-    "wof:lastmodified":1529702032,
+    "wof:lastmodified":1566642256,
     "wof:name":"Tofta strand s\u00f6dra",
     "wof:parent_id":1159305801,
     "wof:placetype":"locality",

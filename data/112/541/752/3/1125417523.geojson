@@ -9,17 +9,19 @@
     "geom:bbox":"15.4129731747,56.0823797863,15.5223281793,56.1340587825",
     "geom:latitude":56.106195,
     "geom:longitude":15.467331,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":1665,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":1665,
     "iso:country":"SE",
     "lbl:latitude":56.104675,
     "lbl:longitude":15.467337,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":56.104675,
     "mps:longitude":15.467337,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Hasslo"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125417523,
-    "wof:lastmodified":1554166208,
+    "wof:lastmodified":1566643075,
     "wof:name":"Hasslo",
     "wof:parent_id":1159303467,
     "wof:placetype":"localadmin",

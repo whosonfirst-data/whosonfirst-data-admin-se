@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":56.196227,
     "lbl:longitude":12.561233,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":56.196227,
     "mps:longitude":12.561233,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:bul_x_preferred":[
         "\u0425\u044c\u043e\u0433\u0430\u043d\u0435\u0441"
     ],
@@ -137,7 +140,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":56.2,
     "wd:longitude":12.566667,
@@ -154,7 +157,6 @@
         "fct:id":"06d2e8a0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2706003,
         "gp:id":893155,
-        "qs:id":141227,
         "qs_pg:id":141227,
         "wd:id":"Q911875",
         "wk:page":"H\u00f6gan\u00e4s"
@@ -175,7 +177,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368724,
+    "wof:lastmodified":1566642177,
     "wof:name":"H\u00f6gan\u00e4s",
     "wof:parent_id":1125372763,
     "wof:placetype":"locality",

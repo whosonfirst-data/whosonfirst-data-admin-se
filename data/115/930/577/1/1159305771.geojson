@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007848,
+    "geom:area_square_m":48997769.490425,
     "geom:bbox":"18.3087520789,59.6202310258,18.4522651004,59.7190254351",
     "geom:latitude":59.675328,
     "geom:longitude":18.392014,
     "iso:country":"SE",
     "lbl:latitude":59.682995,
     "lbl:longitude":18.399087,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":59.682995,
     "mps:longitude":18.399087,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ro"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159305771,
-    "wof:lastmodified":1529702719,
+    "wof:lastmodified":1566643377,
     "wof:name":"Ro",
     "wof:parent_id":1159302995,
     "wof:placetype":"localadmin",

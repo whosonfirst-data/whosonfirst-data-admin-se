@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007806,
+    "geom:area_square_m":48501766.838474,
     "geom:bbox":"17.0380910258,59.7874896788,17.1911010524,59.8847824422",
     "geom:latitude":59.835948,
     "geom:longitude":17.117981,
     "iso:country":"SE",
     "lbl:latitude":59.839297,
     "lbl:longitude":17.116819,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":59.839297,
     "mps:longitude":17.116819,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Osterunda"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159307531,
-    "wof:lastmodified":1529702872,
+    "wof:lastmodified":1566643160,
     "wof:name":"Osterunda",
     "wof:parent_id":1159303337,
     "wof:placetype":"localadmin",

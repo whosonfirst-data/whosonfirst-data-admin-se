@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004393,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":27778913.29066,
     "geom:bbox":"17.731210289,59.2206194595,17.879524755,59.2685200919",
     "geom:latitude":59.247182,
     "geom:longitude":17.80935,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":74370,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":74370,
     "iso:country":"SE",
     "lbl:latitude":59.246626,
     "lbl:longitude":17.809345,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":59.246626,
     "mps:longitude":17.809345,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Botkyrka"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125394667,
-    "wof:lastmodified":1529702732,
+    "wof:lastmodified":1566642847,
     "wof:name":"Botkyrka",
     "wof:parent_id":1159303191,
     "wof:placetype":"localadmin",

@@ -12,8 +12,10 @@
     "gn:latitude":55.60279,
     "gn:longitude":13.01391,
     "iso:country":"SE",
+    "lbl:bbox":"12.998149,55.595668,13.008149,55.605668",
     "lbl:latitude":55.600668,
     "lbl:longitude":13.003149,
+    "lbl:max_zoom":18.0,
     "mps:latitude":55.60031,
     "mps:longitude":13.003607,
     "mz:hierarchy_label":0,
@@ -48,9 +50,6 @@
     "name:swe_x_preferred":[
         "R\u00f6rsj\u00f6staden"
     ],
-    "name:unk_x_variant":[
-        "R\u00f6rsj\u00f6staden"
-    ],
     "qs:gn_adm0_cc":"SE",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":2692969,
@@ -80,7 +79,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:latitude":55.603333,
     "wd:longitude":13.015278,
     "wd:wordcount":32,
@@ -96,7 +95,6 @@
     "wof:concordances":{
         "gn:id":2681700,
         "gp:id":902771,
-        "qs:id":186055,
         "qs_pg:id":186055,
         "wd:id":"Q7386696",
         "wk:page":"R\u00f6rsj\u00f6staden"
@@ -118,7 +116,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1561839930,
+    "wof:lastmodified":1566640577,
     "wof:name":"R\u00f6rsj\u00f6staden",
     "wof:parent_id":101752283,
     "wof:placetype":"neighbourhood",

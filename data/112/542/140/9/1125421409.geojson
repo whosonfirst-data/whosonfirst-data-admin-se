@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001556,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":10322752.940236,
     "geom:bbox":"18.3513225223,57.5335839836,18.4222261911,57.5661224898",
     "geom:latitude":57.549576,
     "geom:longitude":18.388024,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":88,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":88,
     "iso:country":"SE",
     "lbl:latitude":57.547944,
     "lbl:longitude":18.388022,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mps:latitude":57.547944,
     "mps:longitude":18.388022,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Akeback"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125421409,
-    "wof:lastmodified":1529702021,
+    "wof:lastmodified":1566642758,
     "wof:name":"Akeback",
     "wof:parent_id":1159303535,
     "wof:placetype":"localadmin",

@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010301,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":67774869.912908,
     "geom:bbox":"12.3879014794,57.7859985962,12.5766227438,57.9043079449",
     "geom:latitude":57.852048,
     "geom:longitude":12.483358,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":4489,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":4489,
     "iso:country":"SE",
     "lbl:latitude":57.848618,
     "lbl:longitude":12.483345,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":57.848618,
     "mps:longitude":12.483345,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Hemsjo"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125362587,
-    "wof:lastmodified":1529702167,
+    "wof:lastmodified":1566642945,
     "wof:name":"Hemsjo",
     "wof:parent_id":1159303193,
     "wof:placetype":"localadmin",

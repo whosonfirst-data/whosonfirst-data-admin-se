@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":59.717724,
     "lbl:longitude":16.430127,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":59.717724,
     "mps:longitude":16.430127,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0421\u043a\u0443\u043b\u0442\u0443\u043d\u0430"
     ],
@@ -84,7 +87,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":117,
     "wof:belongsto":[
@@ -99,7 +102,6 @@
         "fct:id":"06d06152-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2677062,
         "gp:id":904640,
-        "qs:id":459899,
         "qs_pg:id":459899,
         "wd:id":"Q3051144",
         "wk:page":"Skultuna"
@@ -120,7 +122,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368843,
+    "wof:lastmodified":1566642220,
     "wof:name":"Skultuna",
     "wof:parent_id":1159307191,
     "wof:placetype":"locality",

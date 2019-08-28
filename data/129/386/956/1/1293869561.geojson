@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Stockholm",
     "iso:country":"SE",
+    "lbl:bbox":"13.81333,62.73,13.85333,62.77",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:nor_x_preferred":[
         "B\u00f6rtnan"
     ],
@@ -34,8 +38,7 @@
         "B\u00f8rtnan"
     ],
     "name:und_x_variant":[
-        "B\u00f6rtnen",
-        "B\u00f6rtnan"
+        "B\u00f6rtnen"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1293869561,
-    "wof:lastmodified":1537700105,
+    "wof:lastmodified":1566640983,
     "wof:name":"Bortnan",
     "wof:parent_id":1125286343,
     "wof:placetype":"locality",

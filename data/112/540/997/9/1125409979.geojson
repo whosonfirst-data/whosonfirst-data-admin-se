@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.097392,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":539508679.832136,
     "geom:bbox":"16.766415443,63.269542717,17.4756414658,63.5108011995",
     "geom:latitude":63.384666,
     "geom:longitude":17.147352,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":620,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":620,
     "iso:country":"SE",
     "lbl:latitude":63.376699,
     "lbl:longitude":17.112565,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":63.376699,
     "mps:longitude":17.112565,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Resele"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125409979,
-    "wof:lastmodified":1529702997,
+    "wof:lastmodified":1566643068,
     "wof:name":"Resele",
     "wof:parent_id":1159303381,
     "wof:placetype":"localadmin",

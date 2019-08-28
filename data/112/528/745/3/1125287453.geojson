@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.146404,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":799229070.333216,
     "geom:bbox":"15.8575599562,63.6530298048,16.657446198,63.975469978",
     "geom:latitude":63.801147,
     "geom:longitude":16.265166,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":925,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":925,
     "iso:country":"SE",
     "lbl:latitude":63.801076,
     "lbl:longitude":16.138332,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":63.801076,
     "mps:longitude":16.138332,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Fjallsjo"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125287453,
-    "wof:lastmodified":1529702372,
+    "wof:lastmodified":1566642647,
     "wof:name":"Fjallsjo",
     "wof:parent_id":1159303417,
     "wof:placetype":"localadmin",

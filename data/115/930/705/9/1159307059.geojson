@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004322,
+    "geom:area_square_m":28347159.958418,
     "geom:bbox":"12.85052717,57.9293119809,12.9741977195,57.995128288",
     "geom:latitude":57.963207,
     "geom:longitude":12.908893,
     "iso:country":"SE",
     "lbl:latitude":57.964008,
     "lbl:longitude":12.909852,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":57.964008,
     "mps:longitude":12.909852,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ornunga"
     ],
@@ -26,7 +30,7 @@
     "se-lant:gallerfran":"2016/01/01",
     "src:geom":"se-lant",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159307059,
-    "wof:lastmodified":1529702155,
+    "wof:lastmodified":1566643266,
     "wof:name":"Ornunga",
     "wof:parent_id":1159303255,
     "wof:placetype":"localadmin",

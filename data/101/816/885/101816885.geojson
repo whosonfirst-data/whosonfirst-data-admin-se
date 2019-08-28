@@ -13,10 +13,13 @@
     "iso:country":"SE",
     "lbl:latitude":56.973634,
     "lbl:longitude":16.434129,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":56.973634,
     "mps:longitude":16.434129,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0422\u0438\u043c\u0435\u0440\u043d\u0430\u0431\u0435\u043d"
     ],
@@ -72,7 +75,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":199,
     "wof:belongsto":[
@@ -87,7 +90,6 @@
         "fct:id":"06d096a4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2669057,
         "gp:id":907431,
-        "qs:id":1169441,
         "qs_pg:id":1169441,
         "wd:id":"Q2557336",
         "wk:page":"Timmernabben"
@@ -108,7 +110,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563368699,
+    "wof:lastmodified":1566642169,
     "wof:name":"Timmernabben",
     "wof:parent_id":1125394643,
     "wof:placetype":"locality",

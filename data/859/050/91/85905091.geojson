@@ -13,6 +13,7 @@
     "iso:country":"SE",
     "lbl:latitude":59.269003,
     "lbl:longitude":18.044476,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.270295,
     "mps:longitude":18.04731,
     "mz:hierarchy_label":1,
@@ -49,9 +50,6 @@
     "name:swe_x_preferred":[
         "Bandhagen"
     ],
-    "name:unk_x_variant":[
-        "Bandhagen"
-    ],
     "qs:gn_adm0_cc":"SE",
     "qs:gn_id":0,
     "qs:gn_local":2673730,
@@ -77,7 +75,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":73,
     "wof:belongsto":[
         102191581,
@@ -90,7 +88,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20150821,
-        "qs:id":1179289,
         "qs_pg:id":1179289,
         "wd:id":"Q1781744"
     },
@@ -111,7 +108,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563366608,
+    "wof:lastmodified":1566640655,
     "wof:name":"Bandhagen",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

@@ -9,17 +9,19 @@
     "geom:bbox":"12.1213520041,57.3162976324,12.2292329301,57.3774667634",
     "geom:latitude":57.345513,
     "geom:longitude":12.182238,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":937,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":937,
     "iso:country":"SE",
     "lbl:latitude":57.343719,
     "lbl:longitude":12.181424,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":57.343719,
     "mps:longitude":12.181424,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:arg_x_preferred":[
         "Landa"
@@ -78,7 +80,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -104,7 +106,7 @@
         }
     ],
     "wof:id":1125325553,
-    "wof:lastmodified":1564165003,
+    "wof:lastmodified":1566642514,
     "wof:name":"Landa",
     "wof:parent_id":1159303249,
     "wof:placetype":"localadmin",

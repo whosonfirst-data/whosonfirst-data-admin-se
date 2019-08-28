@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001358,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":9288999.92209,
     "geom:bbox":"12.8091560971,56.4041664231,12.8730101812,56.4445192429",
     "geom:latitude":56.427736,
     "geom:longitude":12.842151,
-    "gn:gn_country":"SE",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":3787,
+    "gn:country":"SE",
+    "gn:fcode":"ADM3",
     "gn:population":3787,
     "iso:country":"SE",
     "lbl:latitude":56.428944,
     "lbl:longitude":12.84431,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":56.428944,
     "mps:longitude":12.84431,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Bastad"
@@ -45,7 +47,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125372729,
-    "wof:lastmodified":1529702627,
+    "wof:lastmodified":1566642788,
     "wof:name":"Bastad",
     "wof:parent_id":1159302919,
     "wof:placetype":"localadmin",
