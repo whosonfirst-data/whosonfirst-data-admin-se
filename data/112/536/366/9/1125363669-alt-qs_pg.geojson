@@ -1,10 +1,12 @@
 {
   "id": 1125363669,
   "type": "Feature",
-  "properties": {"wof:repo":"whosonfirst-data-admin-se",
+  "properties": {
+    "src:alt_label":"qs_pg",
     "src:geom":"qs_pg",
     "wof:geomhash":"a223d0c224b801f4fe5d7479d66aec77",
-    "wof:id":1125363669
+    "wof:id":1125363669,
+    "wof:repo":"whosonfirst-data-admin-se"
 },
   "bbox": [
     15.15498,
