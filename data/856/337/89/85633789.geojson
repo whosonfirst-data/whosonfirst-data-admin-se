@@ -1118,8 +1118,9 @@
     "qs:source":"EuroGlobalMap",
     "src:geom":"us-dshiu",
     "src:geom_alt":[
-        "quattroshapes",
-        "naturalearth"
+        "naturalearth",
+        "naturalearth",
+        "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
@@ -1174,6 +1175,11 @@
     },
     "wof:country":"SE",
     "wof:country_alpha3":"SWE",
+    "wof:geom_alt":[
+        "naturalearth-display-terrestrial-zoom6",
+        "naturalearth",
+        "quattroshapes"
+    ],
     "wof:geomhash":"636ec18b9eaaf0295091e5906cf5d21f",
     "wof:hierarchy":[
         {
@@ -1189,7 +1195,7 @@
         "swe",
         "fin"
     ],
-    "wof:lastmodified":1566640666,
+    "wof:lastmodified":1582340678,
     "wof:name":"Sweden",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
