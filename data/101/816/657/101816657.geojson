@@ -397,6 +397,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "naturalearth",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -422,6 +423,10 @@
         "wk:page":"Karlskrona"
     },
     "wof:country":"SE",
+    "wof:geom_alt":[
+        "naturalearth",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7af869fdcd98fbca1aacb3b80d5e3585",
     "wof:hierarchy":[
         {
@@ -437,7 +442,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1566642153,
+    "wof:lastmodified":1582340703,
     "wof:name":"Karlskrona",
     "wof:parent_id":1125362329,
     "wof:placetype":"locality",
