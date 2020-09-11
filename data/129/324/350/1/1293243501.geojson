@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2020-09-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -29,7 +30,7 @@
     "lbl:max_zoom":13.0,
     "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":6.0,
     "name:bos_x_preferred":[
         "Malme"
@@ -139,11 +140,11 @@
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85688377,
         102191581,
-        1125358279,
         85633789,
-        1159303367
+        1159303367,
+        1125358279,
+        85688377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -163,14 +164,16 @@
         }
     ],
     "wof:id":1293243501,
-    "wof:lastmodified":1566640783,
+    "wof:lastmodified":1599865494,
     "wof:name":"Malmoe",
     "wof:parent_id":1125358279,
     "wof:placetype":"locality",
     "wof:population":301706,
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-se",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101752283
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
