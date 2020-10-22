@@ -9,7 +9,6 @@
     "geom:bbox":"17.9855034004,59.425299812,18.031613908,59.4454211435",
     "geom:latitude":59.4345,
     "geom:longitude":18.008303,
-    "gn:id":"",
     "gn:latitude":59.43333,
     "gn:longitude":18.05,
     "iso:country":"SE",
@@ -76,7 +75,6 @@
     "src:lbl_centroid":"mz",
     "wd:wordcount":84,
     "wof:belongsto":[
-        85902087,
         102191581,
         1125362217,
         85633789,
@@ -93,6 +91,9 @@
         "wk:page":"Enebyberg"
     },
     "wof:country":"SE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"16de56687ca69108f50ba153497245b8",
     "wof:hierarchy":[
         {
@@ -101,15 +102,12 @@
             "county_id":1159303035,
             "localadmin_id":1125362217,
             "locality_id":101752307,
-            "neighbourhood_id":85902087,
+            "neighbourhood_id":1175613657,
             "region_id":85688429
         }
     ],
     "wof:id":1175613657,
-    "wof:lang":[
-        "swe"
-    ],
-    "wof:lastmodified":1566641828,
+    "wof:lastmodified":1603254858,
     "wof:name":"Enebyberg",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",
