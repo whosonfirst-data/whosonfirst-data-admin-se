@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"16.8333333333,64.5788888889,16.8333333333,64.5788888889",
+    "geom:bbox":"16.833333,64.578889,16.833333,64.578889",
     "geom:latitude":64.578889,
     "geom:longitude":16.833333,
     "iso:country":"SE",
@@ -18,6 +18,10 @@
     ],
     "name:eng_x_preferred":[
         "Vilhelmina Airport"
+    ],
+    "name:eng_x_variant":[
+        "VHM",
+        "ESNV"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0648\u06cc\u0644\u06cc\u0644\u0645\u06cc\u0646\u0627"
@@ -66,7 +70,7 @@
         "wd:id":"Q1933049"
     },
     "wof:country":"SE",
-    "wof:geomhash":"32b1d73b300648bb7ddf1f1dac7d8662",
+    "wof:geomhash":"ea2639e07c6f499016eab2b9b454e3f1",
     "wof:hierarchy":[
         {
             "campus_id":102537181,
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":102537181,
-    "wof:lastmodified":1566640242,
+    "wof:lastmodified":1631748939,
     "wof:name":"Vilhelmina Flygplats",
     "wof:parent_id":85688465,
     "wof:placetype":"campus",
@@ -87,10 +91,10 @@
     ]
 },
   "bbox": [
-    16.833333333333,
-    64.578888888889,
-    16.833333333333,
-    64.578888888889
+    16.833333,
+    64.578889,
+    16.833333,
+    64.578889
 ],
-  "geometry": {"coordinates":[16.833333333333,64.578888888889],"type":"Point"}
+  "geometry": {"coordinates":[16.833333,64.578889],"type":"Point"}
 }

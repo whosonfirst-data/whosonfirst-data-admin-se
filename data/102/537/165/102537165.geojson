@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"14.5,59.33333333,14.5,59.33333333",
+    "geom:bbox":"14.5,59.333333,14.5,59.333333",
     "geom:latitude":59.333333,
     "geom:longitude":14.5,
     "iso:country":"SE",
@@ -15,6 +15,10 @@
     "mz:min_zoom":13.0,
     "name:eng_x_preferred":[
         "Karlskoga Airport"
+    ],
+    "name:eng_x_variant":[
+        "KSK",
+        "ESKK"
     ],
     "name:jpn_x_preferred":[
         "\u30ab\u30fc\u30eb\u30b9\u30b3\u30fc\u30ac\u7a7a\u6e2f"
@@ -52,7 +56,7 @@
         "wd:id":"Q10543856"
     },
     "wof:country":"SE",
-    "wof:geomhash":"5c718881af81ecb1f179dea217eef8f9",
+    "wof:geomhash":"31a89f247dc4a97a2f906be606cce3d5",
     "wof:hierarchy":[
         {
             "campus_id":102537165,
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":102537165,
-    "wof:lastmodified":1566640242,
+    "wof:lastmodified":1631748939,
     "wof:name":"Karlskoga Flygplats",
     "wof:parent_id":101815827,
     "wof:placetype":"campus",
@@ -75,9 +79,9 @@
 },
   "bbox": [
     14.5,
-    59.33333333,
+    59.333333,
     14.5,
-    59.33333333
+    59.333333
 ],
-  "geometry": {"coordinates":[14.5,59.33333333],"type":"Point"}
+  "geometry": {"coordinates":[14.5,59.333333],"type":"Point"}
 }

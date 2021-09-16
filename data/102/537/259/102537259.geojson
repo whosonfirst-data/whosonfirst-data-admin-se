@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"18.09722222,60.12972222,18.09722222,60.12972222",
+    "geom:bbox":"18.097222,60.129722,18.097222,60.129722",
     "geom:latitude":60.129722,
     "geom:longitude":18.097222,
     "iso:country":"SE",
@@ -15,6 +15,9 @@
     "mz:min_zoom":13.0,
     "name:eng_x_preferred":[
         "Gimo Air Base"
+    ],
+    "name:eng_x_variant":[
+        "ESKA"
     ],
     "name:fas_x_preferred":[
         "\u067e\u0627\u06cc\u06af\u0627\u0647 \u0647\u0648\u0627\u06cc\u06cc \u06af\u06cc\u0645\u0648"
@@ -49,7 +52,7 @@
         "wd:id":"Q3274268"
     },
     "wof:country":"SE",
-    "wof:geomhash":"5db67d236c66f0dbf9be8cb2458fa772",
+    "wof:geomhash":"f4df4337c7255145cb6acb64329a0591",
     "wof:hierarchy":[
         {
             "campus_id":102537259,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":102537259,
-    "wof:lastmodified":1566640242,
+    "wof:lastmodified":1631748939,
     "wof:name":"Gimo Flygplats",
     "wof:parent_id":85688439,
     "wof:placetype":"campus",
@@ -70,10 +73,10 @@
     ]
 },
   "bbox": [
-    18.09722222,
-    60.12972222,
-    18.09722222,
-    60.12972222
+    18.097222,
+    60.129722,
+    18.097222,
+    60.129722
 ],
-  "geometry": {"coordinates":[18.09722222,60.12972222],"type":"Point"}
+  "geometry": {"coordinates":[18.097222,60.129722],"type":"Point"}
 }

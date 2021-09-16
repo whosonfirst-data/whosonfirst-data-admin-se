@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"13.59166667,58.17527778,13.59166667,58.17527778",
+    "geom:bbox":"13.591667,58.175278,13.591667,58.175278",
     "geom:latitude":58.175278,
     "geom:longitude":13.591667,
     "iso:country":"SE",
@@ -15,6 +15,9 @@
     "mz:min_zoom":13.0,
     "name:eng_x_preferred":[
         "Falk\u00f6ping Airport"
+    ],
+    "name:eng_x_variant":[
+        "ESGK"
     ],
     "name:jpn_x_preferred":[
         "\u30d5\u30a1\u30eb\u30b7\u30a7\u30fc\u30d4\u30f3\u30b0\u7a7a\u6e2f"
@@ -50,7 +53,7 @@
         "wd:id":"Q2648429"
     },
     "wof:country":"SE",
-    "wof:geomhash":"b27ecad89b0816c0b8784ffaa13441ea",
+    "wof:geomhash":"15755ce9f09758b63dd53b9c9d0828d7",
     "wof:hierarchy":[
         {
             "campus_id":102537331,
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":102537331,
-    "wof:lastmodified":1566640241,
+    "wof:lastmodified":1631748939,
     "wof:name":"Falk\u00f6ping Flygplats",
     "wof:parent_id":85688411,
     "wof:placetype":"campus",
@@ -71,10 +74,10 @@
     ]
 },
   "bbox": [
-    13.59166667,
-    58.17527778,
-    13.59166667,
-    58.17527778
+    13.591667,
+    58.175278,
+    13.591667,
+    58.175278
 ],
-  "geometry": {"coordinates":[13.59166667,58.17527778],"type":"Point"}
+  "geometry": {"coordinates":[13.591667,58.175278],"type":"Point"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"14.5111111111,60.9586111111,14.5111111111,60.9586111111",
+    "geom:bbox":"14.511111,60.958611,14.511111,60.958611",
     "geom:latitude":60.958611,
     "geom:longitude":14.511111,
     "iso:country":"SE",
@@ -21,6 +21,10 @@
     ],
     "name:eng_x_preferred":[
         "Mora-Siljan Airport"
+    ],
+    "name:eng_x_variant":[
+        "MXX",
+        "ESKM"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0645\u0648\u0631\u0627-\u0633\u06cc\u0644\u06cc\u0627\u0646"
@@ -72,7 +76,7 @@
         "wd:id":"Q26215"
     },
     "wof:country":"SE",
-    "wof:geomhash":"eda977de629a31d8dbfb0ca5bf15a700",
+    "wof:geomhash":"e28354a1172bedab81e4ea9d36c8c4f2",
     "wof:hierarchy":[
         {
             "campus_id":102537183,
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":102537183,
-    "wof:lastmodified":1566640243,
+    "wof:lastmodified":1631748939,
     "wof:name":"Mora-Siljan Flygplats",
     "wof:parent_id":85688447,
     "wof:placetype":"campus",
@@ -93,10 +97,10 @@
     ]
 },
   "bbox": [
-    14.511111111111,
-    60.958611111111,
-    14.511111111111,
-    60.958611111111
+    14.511111,
+    60.958611,
+    14.511111,
+    60.958611
 ],
-  "geometry": {"coordinates":[14.511111111111,60.958611111111],"type":"Point"}
+  "geometry": {"coordinates":[14.511111,60.958611],"type":"Point"}
 }

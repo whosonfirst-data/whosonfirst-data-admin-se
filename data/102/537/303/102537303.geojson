@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"15.45805556,63.73805556,15.45805556,63.73805556",
+    "geom:bbox":"15.458056,63.738056,15.458056,63.738056",
     "geom:latitude":63.738056,
     "geom:longitude":15.458056,
     "iso:country":"SE",
@@ -15,6 +15,9 @@
     "mz:min_zoom":13.0,
     "name:eng_x_preferred":[
         "Hallviken Airport"
+    ],
+    "name:eng_x_variant":[
+        "ESNA"
     ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Hallviken"
@@ -44,7 +47,7 @@
         "wd:id":"Q10516453"
     },
     "wof:country":"SE",
-    "wof:geomhash":"df96ac75a6389a826885f17b74c5f471",
+    "wof:geomhash":"d96ae513f29b7e4d8430ee04a6f99e7e",
     "wof:hierarchy":[
         {
             "campus_id":102537303,
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":102537303,
-    "wof:lastmodified":1566640242,
+    "wof:lastmodified":1631748939,
     "wof:name":"Hallviken Flygplats",
     "wof:parent_id":85688461,
     "wof:placetype":"campus",
@@ -65,10 +68,10 @@
     ]
 },
   "bbox": [
-    15.45805556,
-    63.73805556,
-    15.45805556,
-    63.73805556
+    15.458056,
+    63.738056,
+    15.458056,
+    63.738056
 ],
-  "geometry": {"coordinates":[15.45805556,63.73805556],"type":"Point"}
+  "geometry": {"coordinates":[15.458056,63.738056],"type":"Point"}
 }

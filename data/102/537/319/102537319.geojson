@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"13.58055556,60.025,13.58055556,60.025",
+    "geom:bbox":"13.580556,60.025,13.580556,60.025",
     "geom:latitude":60.025,
     "geom:longitude":13.580556,
     "iso:country":"SE",
@@ -20,7 +20,9 @@
         "Hagfors Airport"
     ],
     "name:eng_x_variant":[
-        "HSF"
+        "HSF",
+        "HFS",
+        "ESOH"
     ],
     "name:fra_x_preferred":[
         "a\u00e9rodrome d'Hagfors"
@@ -69,7 +71,7 @@
         "wd:id":"Q2213149"
     },
     "wof:country":"SE",
-    "wof:geomhash":"002951682177a20c23caf869008fa540",
+    "wof:geomhash":"28abe5da285e1f8bf2beea1b1e6e0206",
     "wof:hierarchy":[
         {
             "campus_id":102537319,
@@ -78,7 +80,7 @@
         }
     ],
     "wof:id":102537319,
-    "wof:lastmodified":1566640243,
+    "wof:lastmodified":1631748939,
     "wof:name":"Hagfors Flygplats",
     "wof:parent_id":85688435,
     "wof:placetype":"campus",
@@ -90,10 +92,10 @@
     ]
 },
   "bbox": [
-    13.58055556,
+    13.580556,
     60.025,
-    13.58055556,
+    13.580556,
     60.025
 ],
-  "geometry": {"coordinates":[13.58055556,60.025],"type":"Point"}
+  "geometry": {"coordinates":[13.580556,60.025],"type":"Point"}
 }

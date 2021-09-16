@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"13.3375,59.4447222222,13.3375,59.4447222222",
+    "geom:bbox":"13.3375,59.444722,13.3375,59.444722",
     "geom:latitude":59.444722,
     "geom:longitude":13.3375,
     "iso:country":"SE",
@@ -24,6 +24,10 @@
     ],
     "name:eng_x_preferred":[
         "Karlstad Airport"
+    ],
+    "name:eng_x_variant":[
+        "KSD",
+        "ESOK"
     ],
     "name:epo_x_preferred":[
         "Flughaveno de Karlstad"
@@ -91,7 +95,7 @@
         "wd:id":"Q734482"
     },
     "wof:country":"SE",
-    "wof:geomhash":"332db011a0306918329caca63ff24163",
+    "wof:geomhash":"6a93105072eb5df96a1284796baa50f0",
     "wof:hierarchy":[
         {
             "campus_id":102537147,
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":102537147,
-    "wof:lastmodified":1566640243,
+    "wof:lastmodified":1631748940,
     "wof:name":"Karlstad Flygplats",
     "wof:parent_id":85688435,
     "wof:placetype":"campus",
@@ -113,9 +117,9 @@
 },
   "bbox": [
     13.3375,
-    59.444722222222,
+    59.444722,
     13.3375,
-    59.444722222222
+    59.444722
 ],
-  "geometry": {"coordinates":[13.3375,59.444722222222],"type":"Point"}
+  "geometry": {"coordinates":[13.3375,59.444722],"type":"Point"}
 }
