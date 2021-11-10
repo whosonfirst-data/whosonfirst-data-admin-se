@@ -34,10 +34,31 @@
     "name:azb_x_preferred":[
         "\u0622\u062f\u0627\u06a9"
     ],
+    "name:ben_x_preferred":[
+        "\u0986\u09a6\u09be\u0995"
+    ],
     "name:bre_x_preferred":[
         "Adak"
     ],
     "name:deu_x_preferred":[
+        "Adak"
+    ],
+    "name:ell_x_preferred":[
+        "\u0386\u03bd\u03c4\u03b1\u03ba"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u062f\u0627\u06a9"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05d0\u05d9 \u05d0\u05d3\u05d0\u05e7"
+    ],
+    "name:hin_x_preferred":[
+        "\u0905\u0926\u0915"
+    ],
+    "name:hun_x_preferred":[
+        "Adak"
+    ],
+    "name:ind_x_preferred":[
         "Adak"
     ],
     "name:ita_x_preferred":[
@@ -56,6 +77,9 @@
         "Nylund",
         "Asplund"
     ],
+    "name:vie_x_preferred":[
+        "\u0110\u1ea3o Adak"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85688465,
@@ -69,7 +93,7 @@
         "gn:id":2727520
     },
     "wof:country":"SE",
-    "wof:geomhash":"32ec89e19e3f5a7cb4778423865bda34",
+    "wof:geomhash":"07318a91fc3451c16250ae6c9a298af9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +105,7 @@
         }
     ],
     "wof:id":1276717523,
-    "wof:lastmodified":1566641197,
+    "wof:lastmodified":1636499885,
     "wof:name":"Adak",
     "wof:parent_id":1125270371,
     "wof:placetype":"locality",
@@ -91,10 +115,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    18.61667000000001,
+    18.61667,
     65.35,
-    18.61667000000001,
+    18.61667,
     65.35
 ],
-  "geometry": {"coordinates":[18.61667000000001,65.34999999999999],"type":"Point"}
+  "geometry": {"coordinates":[18.61667,65.34999999999999],"type":"Point"}
 }

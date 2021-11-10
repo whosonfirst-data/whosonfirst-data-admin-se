@@ -52,6 +52,9 @@
         "Marka"
     ],
     "name:heb_x_preferred":[
+        "\u05de\u05e8\u05e7\u05d4"
+    ],
+    "name:heb_x_variant":[
         "\u05de\u05d0\u05e8\u05e7\u05d4"
     ],
     "name:hrv_x_preferred":[
@@ -90,6 +93,9 @@
     "name:uzb_x_preferred":[
         "Marka"
     ],
+    "name:vie_x_preferred":[
+        "Marka"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85688439,
@@ -103,7 +109,7 @@
         "gn:id":2692597
     },
     "wof:country":"SE",
-    "wof:geomhash":"06a834bad9e02e0bf3b9ae939a1081ad",
+    "wof:geomhash":"1ef24a15be504f7251c567a359c7c558",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -115,7 +121,7 @@
         }
     ],
     "wof:id":1293169791,
-    "wof:lastmodified":1566640929,
+    "wof:lastmodified":1636499884,
     "wof:name":"Marka",
     "wof:parent_id":1159306081,
     "wof:placetype":"locality",
@@ -126,9 +132,9 @@
 },
   "bbox": [
     18.35,
-    60.21666999999999,
+    60.21667,
     18.35,
-    60.21666999999999
+    60.21667
 ],
-  "geometry": {"coordinates":[18.35,60.21666999999999],"type":"Point"}
+  "geometry": {"coordinates":[18.35,60.21667],"type":"Point"}
 }

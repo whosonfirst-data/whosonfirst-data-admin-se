@@ -42,6 +42,9 @@
     "name:bel_x_preferred":[
         "\u0428\u0442\u0440\u0430\u043b\u044c\u0437\u0443\u043d\u0434"
     ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09cd\u099f\u09cd\u09b0\u09b2\u09b8\u09c1\u09a8\u09cd\u09a6"
+    ],
     "name:bre_x_preferred":[
         "Stralsund"
     ],
@@ -195,6 +198,9 @@
     "name:ukr_x_preferred":[
         "\u0428\u0442\u0440\u0430\u043b\u044c\u0437\u0443\u043d\u0434"
     ],
+    "name:urd_x_preferred":[
+        "\u0627\u0633\u0679\u0631\u0627\u0644\u0633\u0646\u0688"
+    ],
     "name:vie_x_preferred":[
         "Stralsund"
     ],
@@ -223,7 +229,7 @@
         "gn:id":2671469
     },
     "wof:country":"SE",
-    "wof:geomhash":"c22d70fb51fe31625ab8d89c05580db8",
+    "wof:geomhash":"fa7d2966917bfedf8eead7d168bdb869",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -235,7 +241,7 @@
         }
     ],
     "wof:id":1343341167,
-    "wof:lastmodified":1566640471,
+    "wof:lastmodified":1636499880,
     "wof:name":"Stralsund",
     "wof:parent_id":1125325733,
     "wof:placetype":"locality",
@@ -246,9 +252,9 @@
 },
   "bbox": [
     14.65,
-    57.18333000000001,
+    57.18333,
     14.65,
-    57.18333000000001
+    57.18333
 ],
-  "geometry": {"coordinates":[14.65,57.18333000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.65,57.18333],"type":"Point"}
 }

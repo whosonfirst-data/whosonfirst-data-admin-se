@@ -60,7 +60,13 @@
     "name:fra_x_preferred":[
         "Para"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d0\u05e8\u05d4"
+    ],
     "name:hrv_x_preferred":[
+        "Para"
+    ],
+    "name:hun_x_preferred":[
         "Para"
     ],
     "name:ind_x_preferred":[
@@ -136,7 +142,7 @@
         "gn:id":2684446
     },
     "wof:country":"SE",
-    "wof:geomhash":"8f1857bcb5a0f6c912c2419e0a9c367d",
+    "wof:geomhash":"796f51580267e47b6473db9c9c95573f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -148,7 +154,7 @@
         }
     ],
     "wof:id":1242842299,
-    "wof:lastmodified":1566643629,
+    "wof:lastmodified":1636499899,
     "wof:name":"Para",
     "wof:parent_id":1159305905,
     "wof:placetype":"locality",
@@ -159,9 +165,9 @@
 },
   "bbox": [
     17.48333,
-    63.18333000000001,
+    63.18333,
     17.48333,
-    63.18333000000001
+    63.18333
 ],
-  "geometry": {"coordinates":[17.48333,63.18333000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.48333,63.18333],"type":"Point"}
 }

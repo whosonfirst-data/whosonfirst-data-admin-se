@@ -30,6 +30,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:heb_x_preferred":[
+        "\u05e7\u05e8\u05d5\u05e0\u05d5\u05d1\u05e8\u05d2"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85688421,
@@ -43,7 +46,7 @@
         "gn:id":2699051
     },
     "wof:country":"SE",
-    "wof:geomhash":"40287bb1e3d33b32158405aa7d621306",
+    "wof:geomhash":"d4e0a2a1766d4e32aecd44a82fed2ba6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1292970649,
-    "wof:lastmodified":1566640907,
+    "wof:lastmodified":1636499884,
     "wof:name":"Kronoberg",
     "wof:parent_id":1125326397,
     "wof:placetype":"locality",
@@ -66,9 +69,9 @@
 },
   "bbox": [
     14.66667,
-    59.68333000000001,
+    59.68333,
     14.66667,
-    59.68333000000001
+    59.68333
 ],
-  "geometry": {"coordinates":[14.66667,59.68333000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.66667,59.68333],"type":"Point"}
 }

@@ -49,7 +49,13 @@
         "Mon"
     ],
     "name:heb_x_preferred":[
+        "\u05de\u05d5\u05e0\u05d0\u05dc\u05d0\u05e0\u05d5\u05e0\u05d2"
+    ],
+    "name:heb_x_variant":[
         "\u05de\u05d5\u05df"
+    ],
+    "name:hun_x_preferred":[
+        "Mon"
     ],
     "name:hye_x_preferred":[
         "\u0544\u0578\u0576"
@@ -106,7 +112,7 @@
         "gn:id":2691423
     },
     "wof:country":"SE",
-    "wof:geomhash":"d60cedeeea7223d14ce6c83431787cf5",
+    "wof:geomhash":"4663ce596ce8f5f854a247c5d708c1d8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -118,7 +124,7 @@
         }
     ],
     "wof:id":1310552179,
-    "wof:lastmodified":1566641904,
+    "wof:lastmodified":1636499889,
     "wof:name":"Mon",
     "wof:parent_id":1125270969,
     "wof:placetype":"locality",
@@ -129,9 +135,9 @@
 },
   "bbox": [
     11.78333,
-    58.88333000000001,
+    58.88333,
     11.78333,
-    58.88333000000001
+    58.88333
 ],
-  "geometry": {"coordinates":[11.78333,58.88333000000001],"type":"Point"}
+  "geometry": {"coordinates":[11.78333,58.88333],"type":"Point"}
 }

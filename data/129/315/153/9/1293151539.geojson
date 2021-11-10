@@ -163,7 +163,13 @@
         "Harstad"
     ],
     "name:ukr_x_preferred":[
+        "\u0425\u0430\u0440\u0441\u0442\u0430\u0434"
+    ],
+    "name:ukr_x_variant":[
         "\u0413\u0430\u0440\u0441\u0442\u0430\u0434"
+    ],
+    "name:urd_x_preferred":[
+        "\u06c1\u0631\u0633\u062a\u0627\u062f"
     ],
     "name:vie_x_preferred":[
         "Harstad"
@@ -187,7 +193,7 @@
         "gn:id":2707559
     },
     "wof:country":"SE",
-    "wof:geomhash":"1c19f13b127f5756ea02b0efb77c54c9",
+    "wof:geomhash":"41931548e03730803497052280f5af9b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -199,7 +205,7 @@
         }
     ],
     "wof:id":1293151539,
-    "wof:lastmodified":1566640792,
+    "wof:lastmodified":1636499883,
     "wof:name":"Harstad",
     "wof:parent_id":1125372625,
     "wof:placetype":"locality",
@@ -210,9 +216,9 @@
 },
   "bbox": [
     12.4,
-    58.28333000000001,
+    58.28333,
     12.4,
-    58.28333000000001
+    58.28333
 ],
-  "geometry": {"coordinates":[12.4,58.28333000000001],"type":"Point"}
+  "geometry": {"coordinates":[12.4,58.28333],"type":"Point"}
 }

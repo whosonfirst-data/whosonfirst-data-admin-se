@@ -33,14 +33,38 @@
     "name:bar_x_preferred":[
         "Binga"
     ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09bf\u0982\u0997\u09be"
+    ],
     "name:ceb_x_preferred":[
         "Binga"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03af\u03bd\u03b3\u03ba\u03b1"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u0646\u06af\u0627"
     ],
     "name:fra_x_preferred":[
         "Binga"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d9\u05e0\u05d2\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u093f\u0902\u0917\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Binga"
+    ],
+    "name:ind_x_preferred":[
+        "Binga"
+    ],
     "name:ita_x_preferred":[
         "Binga"
+    ],
+    "name:kor_x_preferred":[
+        "\ube59\uac00"
     ],
     "name:nld_x_preferred":[
         "Binga"
@@ -51,14 +75,26 @@
     "name:rus_x_preferred":[
         "\u0411\u0438\u043d\u0433\u0430"
     ],
+    "name:spa_x_preferred":[
+        "Binga"
+    ],
     "name:swe_x_preferred":[
         "Binga"
     ],
     "name:tgl_x_preferred":[
         "Binga"
     ],
+    "name:tur_x_preferred":[
+        "Binga"
+    ],
     "name:ukr_x_preferred":[
         "\u0411\u0456\u043d\u0433\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0646\u06af\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Binga"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -71,7 +107,7 @@
         "gn:id":2722520
     },
     "wof:country":"SE",
-    "wof:geomhash":"a2169c787dfbb43c1ea15e9f54b81e94",
+    "wof:geomhash":"fde2d931a8f2c3a6adc3276871017c5d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -83,7 +119,7 @@
         }
     ],
     "wof:id":1310503613,
-    "wof:lastmodified":1566642008,
+    "wof:lastmodified":1636499890,
     "wof:name":"Binga",
     "wof:parent_id":1125357187,
     "wof:placetype":"locality",
@@ -94,9 +130,9 @@
 },
   "bbox": [
     15.83333,
-    56.18333000000001,
+    56.18333,
     15.83333,
-    56.18333000000001
+    56.18333
 ],
-  "geometry": {"coordinates":[15.83333,56.18333000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.83333,56.18333],"type":"Point"}
 }

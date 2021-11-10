@@ -38,6 +38,9 @@
     "name:ast_x_preferred":[
         "Sal"
     ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09be\u09b2"
+    ],
     "name:cat_x_preferred":[
         "Sal"
     ],
@@ -49,6 +52,9 @@
     ],
     "name:dan_x_preferred":[
         "Sal"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0644"
     ],
     "name:fin_x_preferred":[
         "Sal"
@@ -92,6 +98,12 @@
     "name:swe_x_preferred":[
         "Sal"
     ],
+    "name:tur_x_preferred":[
+        "Sal"
+    ],
+    "name:vie_x_preferred":[
+        "\u0110\u1ea3o Sal"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85688419,
@@ -105,7 +117,7 @@
         "gn:id":2680666
     },
     "wof:country":"SE",
-    "wof:geomhash":"0f3a13c948279762a241d741a59bc06d",
+    "wof:geomhash":"8d6b9e6e3f9f34649056e24b130dc97e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -117,7 +129,7 @@
         }
     ],
     "wof:id":1360247587,
-    "wof:lastmodified":1566642043,
+    "wof:lastmodified":1636499890,
     "wof:name":"Sal",
     "wof:parent_id":1125421361,
     "wof:placetype":"locality",
@@ -127,10 +139,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.54507000000001,
+    16.54507,
     59.39694,
-    16.54507000000001,
+    16.54507,
     59.39694
 ],
-  "geometry": {"coordinates":[16.54507000000001,59.39694],"type":"Point"}
+  "geometry": {"coordinates":[16.54507,59.39694],"type":"Point"}
 }
