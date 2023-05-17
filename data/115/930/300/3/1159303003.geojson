@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SE",
+    "eurostat:gisco_id":"SE_0163",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sollentuna",
+    "eurostat:nuts_2021_id":"0163",
+    "eurostat:nuts_2021_level_0":"SE",
+    "eurostat:nuts_2021_level_1":"SE1",
+    "eurostat:nuts_2021_level_2":"SE11",
+    "eurostat:nuts_2021_level_3":"SE110",
+    "eurostat:nuts_2021_level_lau":"0163",
+    "eurostat:population":73857,
+    "eurostat:population_year":2020,
     "geom:area":0.00951,
-    "geom:area_square_m":59772776.438822,
+    "geom:area_square_m":59772776.438818,
     "geom:bbox":"17.824661,59.392797,18.010789,59.498352",
     "geom:latitude":59.45012,
     "geom:longitude":17.931747,
@@ -59,6 +71,8 @@
     "src:geom":"se-lant",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -66,12 +80,16 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "eg:gisco_id":"SE_0163",
+        "eurostat:nuts_2021_id":"0163"
+    },
     "wof:coterminous":[
         1125394701
     ],
     "wof:country":"SE",
     "wof:created":1525379410,
-    "wof:geomhash":"1615b41c4d1125226fde63c8c3f75d17",
+    "wof:geomhash":"e474ab0dc849dd916499bee50fb63270",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,11 +99,13 @@
         }
     ],
     "wof:id":1159303003,
-    "wof:lastmodified":1627522772,
+    "wof:lastmodified":1684354747,
     "wof:name":"Sollentuna",
     "wof:parent_id":85688429,
     "wof:placetype":"county",
     "wof:placetype_local":"municipality",
+    "wof:population":73857,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

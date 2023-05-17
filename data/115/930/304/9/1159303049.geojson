@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SE",
+    "eurostat:gisco_id":"SE_2506",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Arjeplog",
+    "eurostat:nuts_2021_id":"2506",
+    "eurostat:nuts_2021_level_0":"SE",
+    "eurostat:nuts_2021_level_1":"SE3",
+    "eurostat:nuts_2021_level_2":"SE33",
+    "eurostat:nuts_2021_level_3":"SE332",
+    "eurostat:nuts_2021_level_lau":"2506",
+    "eurostat:population":2785,
+    "eurostat:population_year":2020,
     "geom:area":2.923331,
-    "geom:area_square_m":14492024232.275896,
+    "geom:area_square_m":14492024232.275881,
     "geom:bbox":"15.377226,65.574416,19.030849,67.190237",
     "geom:latitude":66.364602,
     "geom:longitude":17.239063,
@@ -107,6 +119,8 @@
     "src:geom":"se-lant",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -114,12 +128,16 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "eg:gisco_id":"SE_2506",
+        "eurostat:nuts_2021_id":"2506"
+    },
     "wof:coterminous":[
         1125300073
     ],
     "wof:country":"SE",
     "wof:created":1525379421,
-    "wof:geomhash":"a84a7868471856b709bdbce5beb44cc4",
+    "wof:geomhash":"7b0316bdd603f661e88bf2439087c091",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,11 +147,13 @@
         }
     ],
     "wof:id":1159303049,
-    "wof:lastmodified":1608048406,
+    "wof:lastmodified":1684354748,
     "wof:name":"Arjeplog",
     "wof:parent_id":85688471,
     "wof:placetype":"county",
     "wof:placetype_local":"municipality",
+    "wof:population":2785,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

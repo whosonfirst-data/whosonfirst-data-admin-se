@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SE",
+    "eurostat:gisco_id":"SE_0187",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vaxholm",
+    "eurostat:nuts_2021_id":"0187",
+    "eurostat:nuts_2021_level_0":"SE",
+    "eurostat:nuts_2021_level_1":"SE1",
+    "eurostat:nuts_2021_level_2":"SE11",
+    "eurostat:nuts_2021_level_3":"SE110",
+    "eurostat:nuts_2021_level_lau":"0187",
+    "eurostat:population":12003,
+    "eurostat:population_year":2020,
     "geom:area":0.017116,
-    "geom:area_square_m":107728726.420599,
+    "geom:area_square_m":107728726.420592,
     "geom:bbox":"18.121817,59.352607,18.449755,59.450439",
     "geom:latitude":59.401638,
     "geom:longitude":18.304272,
@@ -131,6 +143,8 @@
     "src:geom":"se-lant",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -138,12 +152,16 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "eg:gisco_id":"SE_0187",
+        "eurostat:nuts_2021_id":"0187"
+    },
     "wof:coterminous":[
         1125283877
     ],
     "wof:country":"SE",
     "wof:created":1525379390,
-    "wof:geomhash":"66395c7c1ffb0788d87c8eb3255526cc",
+    "wof:geomhash":"89d448eb8433cada9afadf9851eaab6c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -153,11 +171,13 @@
         }
     ],
     "wof:id":1159302905,
-    "wof:lastmodified":1608048344,
+    "wof:lastmodified":1684354745,
     "wof:name":"Vaxholm",
     "wof:parent_id":85688429,
     "wof:placetype":"county",
     "wof:placetype_local":"municipality",
+    "wof:population":12003,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

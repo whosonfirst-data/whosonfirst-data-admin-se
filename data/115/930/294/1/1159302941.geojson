@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SE",
+    "eurostat:gisco_id":"SE_2034",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Orsa",
+    "eurostat:nuts_2021_id":"2034",
+    "eurostat:nuts_2021_level_0":"SE",
+    "eurostat:nuts_2021_level_1":"SE3",
+    "eurostat:nuts_2021_level_2":"SE31",
+    "eurostat:nuts_2021_level_3":"SE312",
+    "eurostat:nuts_2021_level_lau":"2034",
+    "eurostat:population":6911,
+    "eurostat:population_year":2020,
     "geom:area":0.302508,
-    "geom:area_square_m":1795309484.260408,
+    "geom:area_square_m":1795309484.26044,
     "geom:bbox":"14.304599,61.050212,15.091175,61.594948",
     "geom:latitude":61.317944,
     "geom:longitude":14.716147,
@@ -77,6 +89,8 @@
     "src:geom":"se-lant",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -84,12 +98,16 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "eg:gisco_id":"SE_2034",
+        "eurostat:nuts_2021_id":"2034"
+    },
     "wof:coterminous":[
         1125382199
     ],
     "wof:country":"SE",
     "wof:created":1525379396,
-    "wof:geomhash":"5ff7964d09cc666118ca92a4f078f860",
+    "wof:geomhash":"756c238362fad8167f66aad205c548cf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -99,11 +117,13 @@
         }
     ],
     "wof:id":1159302941,
-    "wof:lastmodified":1627522770,
+    "wof:lastmodified":1684354745,
     "wof:name":"Orsa",
     "wof:parent_id":85688447,
     "wof:placetype":"county",
     "wof:placetype_local":"municipality",
+    "wof:population":6911,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

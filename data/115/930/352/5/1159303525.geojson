@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SE",
+    "eurostat:gisco_id":"SE_0128",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Salem",
+    "eurostat:nuts_2021_id":"0128",
+    "eurostat:nuts_2021_level_0":"SE",
+    "eurostat:nuts_2021_level_1":"SE1",
+    "eurostat:nuts_2021_level_2":"SE11",
+    "eurostat:nuts_2021_level_3":"SE110",
+    "eurostat:nuts_2021_level_lau":"0128",
+    "eurostat:population":16750,
+    "eurostat:population_year":2020,
     "geom:area":0.011329,
-    "geom:area_square_m":71650278.223098,
+    "geom:area_square_m":71650278.223095,
     "geom:bbox":"17.562231,59.178787,17.797594,59.298676",
     "geom:latitude":59.238831,
     "geom:longitude":17.689804,
@@ -170,6 +182,8 @@
     "src:geom":"se-lant",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -177,12 +191,16 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "eg:gisco_id":"SE_0128",
+        "eurostat:nuts_2021_id":"0128"
+    },
     "wof:coterminous":[
         1159307543
     ],
     "wof:country":"SE",
     "wof:created":1525379510,
-    "wof:geomhash":"a4fbd28ec8d15fde6b6501639c5e908c",
+    "wof:geomhash":"bd60834d2aec9b5810545ff508f77d52",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -192,11 +210,13 @@
         }
     ],
     "wof:id":1159303525,
-    "wof:lastmodified":1636499896,
+    "wof:lastmodified":1684354759,
     "wof:name":"Salem",
     "wof:parent_id":85688429,
     "wof:placetype":"county",
     "wof:placetype_local":"municipality",
+    "wof:population":16750,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

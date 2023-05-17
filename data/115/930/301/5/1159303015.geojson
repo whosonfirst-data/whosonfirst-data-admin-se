@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SE",
+    "eurostat:gisco_id":"SE_0138",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tyres\u00f6",
+    "eurostat:nuts_2021_id":"0138",
+    "eurostat:nuts_2021_level_0":"SE",
+    "eurostat:nuts_2021_level_1":"SE1",
+    "eurostat:nuts_2021_level_2":"SE11",
+    "eurostat:nuts_2021_level_3":"SE110",
+    "eurostat:nuts_2021_level_lau":"0138",
+    "eurostat:population":48333,
+    "eurostat:population_year":2020,
     "geom:area":0.015869,
-    "geom:area_square_m":100431812.491168,
+    "geom:area_square_m":100431812.491165,
     "geom:bbox":"18.173909,59.158502,18.469204,59.263378",
     "geom:latitude":59.21541,
     "geom:longitude":18.326489,
@@ -50,6 +62,8 @@
     "src:geom":"se-lant",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -57,12 +71,16 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "eg:gisco_id":"SE_0138",
+        "eurostat:nuts_2021_id":"0138"
+    },
     "wof:coterminous":[
         1125398119
     ],
     "wof:country":"SE",
     "wof:created":1525379417,
-    "wof:geomhash":"4a1d26a3ddfa21965381a177ea6e1ac7",
+    "wof:geomhash":"f225291922c6f1e62e69f19193874da3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,11 +90,13 @@
         }
     ],
     "wof:id":1159303015,
-    "wof:lastmodified":1627522774,
+    "wof:lastmodified":1684354747,
     "wof:name":"Tyreso",
     "wof:parent_id":85688429,
     "wof:placetype":"county",
     "wof:placetype_local":"municipality",
+    "wof:population":48333,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

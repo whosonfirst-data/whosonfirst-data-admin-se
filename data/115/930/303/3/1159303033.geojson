@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SE",
+    "eurostat:gisco_id":"SE_2462",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vilhelmina",
+    "eurostat:nuts_2021_id":"2462",
+    "eurostat:nuts_2021_level_0":"SE",
+    "eurostat:nuts_2021_level_1":"SE3",
+    "eurostat:nuts_2021_level_2":"SE33",
+    "eurostat:nuts_2021_level_3":"SE331",
+    "eurostat:nuts_2021_level_lau":"2462",
+    "eurostat:population":6668,
+    "eurostat:population_year":2020,
     "geom:area":1.668632,
-    "geom:area_square_m":8740718338.949892,
+    "geom:area_square_m":8740718338.949825,
     "geom:bbox":"14.325986,64.353298,17.707655,65.444655",
     "geom:latitude":64.935894,
     "geom:longitude":16.00651,
@@ -98,6 +110,8 @@
     "src:geom":"se-lant",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -105,12 +119,16 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "eg:gisco_id":"SE_2462",
+        "eurostat:nuts_2021_id":"2462"
+    },
     "wof:coterminous":[
         1125363705
     ],
     "wof:country":"SE",
     "wof:created":1525379419,
-    "wof:geomhash":"b57c1834f503c39a6fd98368c8b3a572",
+    "wof:geomhash":"648fa839ab70b2d64ac1d5dc69081c22",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -120,11 +138,13 @@
         }
     ],
     "wof:id":1159303033,
-    "wof:lastmodified":1627522775,
+    "wof:lastmodified":1684354748,
     "wof:name":"Vilhelmina",
     "wof:parent_id":85688465,
     "wof:placetype":"county",
     "wof:placetype_local":"municipality",
+    "wof:population":6668,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

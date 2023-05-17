@@ -4,8 +4,16 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SE",
+    "eurostat:level_code":"0",
+    "eurostat:name_latin":"Sverige",
+    "eurostat:name_local":"Sverige",
+    "eurostat:nuts_2021_id":"SE",
+    "eurostat:nuts_2021_level_0":"SE",
+    "eurostat:population":10452326,
+    "eurostat:population_year":2022,
     "geom:area":79.081551,
-    "geom:area_square_m":446479379095.718872,
+    "geom:area_square_m":446479379095.722412,
     "geom:bbox":"10.981373,55.336193,24.152361,69.060168",
     "geom:latitude":62.775876,
     "geom:longitude":16.753955,
@@ -1237,7 +1245,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "statoids:dial":"46",
     "statoids:ds":"S",
     "statoids:fifa":"SWE",
@@ -1266,6 +1275,7 @@
     "wof:concordances":{
         "dbp:id":"Sweden",
         "digitalenvoy:country_code":752,
+        "eurostat:nuts_2021_id":"SE",
         "fb:id":"en.sweden",
         "fifa:id":"SWE",
         "fips:code":"SW",
@@ -1296,7 +1306,7 @@
         "naturalearth",
         "quattroshapes"
     ],
-    "wof:geomhash":"04ee83d6a0fd630bc4fc8d891a01735d",
+    "wof:geomhash":"a2cb607797ff5d7188c16aee33ef910e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -1311,12 +1321,12 @@
         "swe",
         "fin"
     ],
-    "wof:lastmodified":1617827469,
+    "wof:lastmodified":1684351338,
     "wof:name":"Sweden",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
-    "wof:population":9747355,
-    "wof:population_rank":13,
+    "wof:population":10452326,
+    "wof:population_rank":14,
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:shortcode":"SE",
     "wof:superseded_by":[],

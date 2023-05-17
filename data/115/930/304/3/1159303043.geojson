@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SE",
+    "eurostat:gisco_id":"SE_2560",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u00c4lvsbyn",
+    "eurostat:nuts_2021_id":"2560",
+    "eurostat:nuts_2021_level_0":"SE",
+    "eurostat:nuts_2021_level_1":"SE3",
+    "eurostat:nuts_2021_level_2":"SE33",
+    "eurostat:nuts_2021_level_3":"SE332",
+    "eurostat:nuts_2021_level_lau":"2560",
+    "eurostat:population":8066,
+    "eurostat:population_year":2020,
     "geom:area":0.353682,
-    "geom:area_square_m":1796633411.112747,
+    "geom:area_square_m":1796633411.112696,
     "geom:bbox":"20.107893,65.509924,21.358891,66.014302",
     "geom:latitude":65.7437,
     "geom:longitude":20.65809,
@@ -50,6 +62,8 @@
     "src:geom":"se-lant",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -57,12 +71,16 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "eg:gisco_id":"SE_2560",
+        "eurostat:nuts_2021_id":"2560"
+    },
     "wof:coterminous":[
         1125373611
     ],
     "wof:country":"SE",
     "wof:created":1525379421,
-    "wof:geomhash":"414382c8f405876ef587464b5893d9c1",
+    "wof:geomhash":"fe304c9bdb641ba58965199269ce9d5a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,11 +90,13 @@
         }
     ],
     "wof:id":1159303043,
-    "wof:lastmodified":1627522761,
+    "wof:lastmodified":1684354748,
     "wof:name":"Alvsbyn",
     "wof:parent_id":85688471,
     "wof:placetype":"county",
     "wof:placetype_local":"municipality",
+    "wof:population":8066,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

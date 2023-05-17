@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SE",
+    "eurostat:gisco_id":"SE_0980",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gotland",
+    "eurostat:nuts_2021_id":"0980",
+    "eurostat:nuts_2021_level_0":"SE",
+    "eurostat:nuts_2021_level_1":"SE2",
+    "eurostat:nuts_2021_level_2":"SE21",
+    "eurostat:nuts_2021_level_3":"SE214",
+    "eurostat:nuts_2021_level_lau":"0980",
+    "eurostat:population":59686,
+    "eurostat:population_year":2020,
     "geom:area":2.301567,
-    "geom:area_square_m":15242695467.636463,
+    "geom:area_square_m":15242695467.636553,
     "geom:bbox":"17.587859,56.700705,19.735448,58.596663",
     "geom:latitude":57.61486,
     "geom:longitude":18.687744,
@@ -272,6 +284,8 @@
     "src:geom":"se-lant",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -279,12 +293,16 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "eg:gisco_id":"SE_0980",
+        "eurostat:nuts_2021_id":"0980"
+    },
     "wof:coterminous":[
         85688405
     ],
     "wof:country":"SE",
     "wof:created":1525379511,
-    "wof:geomhash":"efa0d22962daf7a099392f3aeff82531",
+    "wof:geomhash":"febdaf33782c3e4989c0224f128986cd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -294,11 +312,13 @@
         }
     ],
     "wof:id":1159303535,
-    "wof:lastmodified":1636499896,
+    "wof:lastmodified":1684354759,
     "wof:name":"Gotland",
     "wof:parent_id":85688405,
     "wof:placetype":"county",
     "wof:placetype_local":"municipality",
+    "wof:population":59686,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],
