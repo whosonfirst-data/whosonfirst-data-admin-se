@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SE",
+    "eurostat:gisco_id":"SE_0160",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"T\u00e4by",
+    "eurostat:nuts_2021_id":"0160",
+    "eurostat:nuts_2021_level_0":"SE",
+    "eurostat:nuts_2021_level_1":"SE1",
+    "eurostat:nuts_2021_level_2":"SE11",
+    "eurostat:nuts_2021_level_3":"SE110",
+    "eurostat:nuts_2021_level_lau":"0160",
+    "eurostat:population":71874,
+    "eurostat:population_year":2020,
     "geom:area":0.011377,
-    "geom:area_square_m":71469996.124862,
+    "geom:area_square_m":71469996.124869,
     "geom:bbox":"17.983487,59.412171,18.153028,59.511299",
     "geom:latitude":59.465867,
     "geom:longitude":18.07158,
@@ -50,6 +62,8 @@
     "src:geom":"se-lant",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -57,12 +71,16 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "eg:gisco_id":"SE_0160",
+        "eurostat:nuts_2021_id":"0160"
+    },
     "wof:coterminous":[
         1125398123
     ],
     "wof:country":"SE",
     "wof:created":1525379489,
-    "wof:geomhash":"6c45793dabe20a266207e4203d4b74ba",
+    "wof:geomhash":"65e3fe8772a9c28406e2d51fe2885737",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,11 +90,13 @@
         }
     ],
     "wof:id":1159303403,
-    "wof:lastmodified":1627522773,
+    "wof:lastmodified":1684354756,
     "wof:name":"Taby",
     "wof:parent_id":85688429,
     "wof:placetype":"county",
     "wof:placetype_local":"municipality",
+    "wof:population":71874,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

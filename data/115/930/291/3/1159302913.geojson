@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SE",
+    "eurostat:gisco_id":"SE_0162",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Danderyd",
+    "eurostat:nuts_2021_id":"0162",
+    "eurostat:nuts_2021_level_0":"SE",
+    "eurostat:nuts_2021_level_1":"SE1",
+    "eurostat:nuts_2021_level_2":"SE11",
+    "eurostat:nuts_2021_level_3":"SE110",
+    "eurostat:nuts_2021_level_lau":"0162",
+    "eurostat:population":32857,
+    "eurostat:population_year":2020,
     "geom:area":0.005154,
-    "geom:area_square_m":32432812.70068,
+    "geom:area_square_m":32432812.700678,
     "geom:bbox":"17.991935,59.369505,18.12329,59.440636",
     "geom:latitude":59.406153,
     "geom:longitude":18.054954,
@@ -50,6 +62,8 @@
     "src:geom":"se-lant",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -57,12 +71,16 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "eg:gisco_id":"SE_0162",
+        "eurostat:nuts_2021_id":"0162"
+    },
     "wof:coterminous":[
         1125363647
     ],
     "wof:country":"SE",
     "wof:created":1525379393,
-    "wof:geomhash":"81e28df7de0cd9ccda1c8ee3c31aa40f",
+    "wof:geomhash":"c5f95cdcb5c3da6a8c8e52df4b116d68",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,11 +90,13 @@
         }
     ],
     "wof:id":1159302913,
-    "wof:lastmodified":1627522763,
+    "wof:lastmodified":1684354745,
     "wof:name":"Danderyd",
     "wof:parent_id":85688429,
     "wof:placetype":"county",
     "wof:placetype_local":"municipality",
+    "wof:population":32857,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

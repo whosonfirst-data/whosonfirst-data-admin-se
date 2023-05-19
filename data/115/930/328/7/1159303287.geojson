@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SE",
+    "eurostat:gisco_id":"SE_1883",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Karlskoga",
+    "eurostat:nuts_2021_id":"1883",
+    "eurostat:nuts_2021_level_0":"SE",
+    "eurostat:nuts_2021_level_1":"SE1",
+    "eurostat:nuts_2021_level_2":"SE12",
+    "eurostat:nuts_2021_level_3":"SE124",
+    "eurostat:nuts_2021_level_lau":"1883",
+    "eurostat:population":30381,
+    "eurostat:population_year":2020,
     "geom:area":0.081247,
-    "geom:area_square_m":511739402.347808,
+    "geom:area_square_m":511739402.347781,
     "geom:bbox":"14.324873,59.232244,14.788449,59.542465",
     "geom:latitude":59.377351,
     "geom:longitude":14.56577,
@@ -155,6 +167,8 @@
     "src:geom":"se-lant",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -162,12 +176,16 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "eg:gisco_id":"SE_1883",
+        "eurostat:nuts_2021_id":"1883"
+    },
     "wof:coterminous":[
         1125394693
     ],
     "wof:country":"SE",
     "wof:created":1525379472,
-    "wof:geomhash":"270b0a3071cfc4b65f784c9072969ca2",
+    "wof:geomhash":"d8c93392c0df30da7aa97efa11e0f98a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -177,11 +195,13 @@
         }
     ],
     "wof:id":1159303287,
-    "wof:lastmodified":1608048412,
+    "wof:lastmodified":1684354753,
     "wof:name":"Karlskoga",
     "wof:parent_id":85688421,
     "wof:placetype":"county",
     "wof:placetype_local":"municipality",
+    "wof:population":30381,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SE",
+    "eurostat:gisco_id":"SE_1275",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Perstorp",
+    "eurostat:nuts_2021_id":"1275",
+    "eurostat:nuts_2021_level_0":"SE",
+    "eurostat:nuts_2021_level_1":"SE2",
+    "eurostat:nuts_2021_level_2":"SE22",
+    "eurostat:nuts_2021_level_3":"SE224",
+    "eurostat:nuts_2021_level_lau":"1275",
+    "eurostat:population":7492,
+    "eurostat:population_year":2020,
     "geom:area":0.023412,
-    "geom:area_square_m":161100799.277333,
+    "geom:area_square_m":161100799.277328,
     "geom:bbox":"13.264654,56.095184,13.468702,56.268198",
     "geom:latitude":56.186896,
     "geom:longitude":13.374746,
@@ -92,6 +104,8 @@
     "src:geom":"se-lant",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -99,12 +113,16 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "eg:gisco_id":"SE_1275",
+        "eurostat:nuts_2021_id":"1275"
+    },
     "wof:coterminous":[
         1125394683
     ],
     "wof:country":"SE",
     "wof:created":1525379459,
-    "wof:geomhash":"3c8cf79df9da733760639d1450f4f721",
+    "wof:geomhash":"e85093975ea629e5911b95bb4bb70ad0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -114,11 +132,13 @@
         }
     ],
     "wof:id":1159303201,
-    "wof:lastmodified":1627522771,
+    "wof:lastmodified":1684354751,
     "wof:name":"Perstorp",
     "wof:parent_id":85688377,
     "wof:placetype":"county",
     "wof:placetype_local":"municipality",
+    "wof:population":7492,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SE",
+    "eurostat:gisco_id":"SE_2422",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sorsele",
+    "eurostat:nuts_2021_id":"2422",
+    "eurostat:nuts_2021_level_0":"SE",
+    "eurostat:nuts_2021_level_1":"SE3",
+    "eurostat:nuts_2021_level_2":"SE33",
+    "eurostat:nuts_2021_level_3":"SE331",
+    "eurostat:nuts_2021_level_lau":"2422",
+    "eurostat:population":2489,
+    "eurostat:population_year":2020,
     "geom:area":1.565093,
-    "geom:area_square_m":7957062407.584442,
+    "geom:area_square_m":7957062407.584455,
     "geom:bbox":"14.950521,65.035805,18.296255,66.345232",
     "geom:latitude":65.721708,
     "geom:longitude":16.736049,
@@ -98,6 +110,8 @@
     "src:geom":"se-lant",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -105,12 +119,16 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "eg:gisco_id":"SE_2422",
+        "eurostat:nuts_2021_id":"2422"
+    },
     "wof:coterminous":[
         1125270379
     ],
     "wof:country":"SE",
     "wof:created":1525379496,
-    "wof:geomhash":"2a7b6eba0886e32daec2420c1aac3716",
+    "wof:geomhash":"a81978ed36056bec8ee66bc5114a7ce1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -120,11 +138,13 @@
         }
     ],
     "wof:id":1159303447,
-    "wof:lastmodified":1608048353,
+    "wof:lastmodified":1684354756,
     "wof:name":"Sorsele",
     "wof:parent_id":85688465,
     "wof:placetype":"county",
     "wof:placetype_local":"municipality",
+    "wof:population":2489,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SE",
+    "eurostat:gisco_id":"SE_2505",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Arvidsjaur",
+    "eurostat:nuts_2021_id":"2505",
+    "eurostat:nuts_2021_level_0":"SE",
+    "eurostat:nuts_2021_level_1":"SE3",
+    "eurostat:nuts_2021_level_2":"SE33",
+    "eurostat:nuts_2021_level_3":"SE332",
+    "eurostat:nuts_2021_level_lau":"2505",
+    "eurostat:population":6220,
+    "eurostat:population_year":2020,
     "geom:area":1.202668,
-    "geom:area_square_m":6123379459.933302,
+    "geom:area_square_m":6123379459.933381,
     "geom:bbox":"18.176772,65.142974,20.216552,66.175326",
     "geom:latitude":65.683974,
     "geom:longitude":19.25883,
@@ -110,6 +122,8 @@
     "src:geom":"se-lant",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -117,12 +131,16 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "eg:gisco_id":"SE_2505",
+        "eurostat:nuts_2021_id":"2505"
+    },
     "wof:coterminous":[
         1125359285
     ],
     "wof:country":"SE",
     "wof:created":1525379416,
-    "wof:geomhash":"8fe68744f0f2d13b4266b5a40bfe461f",
+    "wof:geomhash":"4ae073d40810e4d7c90e06e42faeb3a2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,11 +150,13 @@
         }
     ],
     "wof:id":1159303009,
-    "wof:lastmodified":1627522761,
+    "wof:lastmodified":1684354747,
     "wof:name":"Arvidsjaur",
     "wof:parent_id":85688471,
     "wof:placetype":"county",
     "wof:placetype_local":"municipality",
+    "wof:population":6220,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

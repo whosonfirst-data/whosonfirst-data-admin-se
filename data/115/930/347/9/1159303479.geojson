@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SE",
+    "eurostat:gisco_id":"SE_1495",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Skara",
+    "eurostat:nuts_2021_id":"1495",
+    "eurostat:nuts_2021_level_0":"SE",
+    "eurostat:nuts_2021_level_1":"SE2",
+    "eurostat:nuts_2021_level_2":"SE23",
+    "eurostat:nuts_2021_level_3":"SE232",
+    "eurostat:nuts_2021_level_lau":"1495",
+    "eurostat:population":18837,
+    "eurostat:population_year":2020,
     "geom:area":0.0695,
     "geom:area_square_m":450564692.317495,
     "geom:bbox":"13.1717850723,58.2749071706,13.7892544847,58.4829865469",
@@ -149,6 +161,8 @@
     "src:geom":"se-lant",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -156,9 +170,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "eg:gisco_id":"SE_1495",
+        "eurostat:nuts_2021_id":"1495"
+    },
     "wof:country":"SE",
     "wof:created":1525379502,
-    "wof:geomhash":"2ced1d5dbcf9cb2b0ba044360c0ee5d1",
+    "wof:geomhash":"556ad309cd203ed9dfe1c74c44f1dbc7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -168,11 +186,13 @@
         }
     ],
     "wof:id":1159303479,
-    "wof:lastmodified":1566643251,
+    "wof:lastmodified":1684354757,
     "wof:name":"Skara",
     "wof:parent_id":85688411,
     "wof:placetype":"county",
     "wof:placetype_local":"municipality",
+    "wof:population":18837,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

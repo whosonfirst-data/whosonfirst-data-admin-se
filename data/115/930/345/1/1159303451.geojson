@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SE",
+    "eurostat:gisco_id":"SE_2460",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"V\u00e4nn\u00e4s",
+    "eurostat:nuts_2021_id":"2460",
+    "eurostat:nuts_2021_level_0":"SE",
+    "eurostat:nuts_2021_level_1":"SE3",
+    "eurostat:nuts_2021_level_2":"SE33",
+    "eurostat:nuts_2021_level_3":"SE331",
+    "eurostat:nuts_2021_level_lau":"2460",
+    "eurostat:population":8872,
+    "eurostat:population_year":2020,
     "geom:area":0.101727,
-    "geom:area_square_m":552461529.752215,
+    "geom:area_square_m":552461529.752225,
     "geom:bbox":"19.418005,63.788446,19.982864,64.086248",
     "geom:latitude":63.947301,
     "geom:longitude":19.715519,
@@ -50,6 +62,8 @@
     "src:geom":"se-lant",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -57,12 +71,16 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "eg:gisco_id":"SE_2460",
+        "eurostat:nuts_2021_id":"2460"
+    },
     "wof:coterminous":[
         1125363695
     ],
     "wof:country":"SE",
     "wof:created":1525379497,
-    "wof:geomhash":"e710e5debf9d45e5b8dc08a60da90f99",
+    "wof:geomhash":"fc19c82b752101357f5ab9727b8fc7aa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,11 +90,13 @@
         }
     ],
     "wof:id":1159303451,
-    "wof:lastmodified":1627522775,
+    "wof:lastmodified":1684354757,
     "wof:name":"Vannas",
     "wof:parent_id":85688465,
     "wof:placetype":"county",
     "wof:placetype_local":"municipality",
+    "wof:population":8872,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],

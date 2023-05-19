@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SE",
+    "eurostat:gisco_id":"SE_1402",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Partille",
+    "eurostat:nuts_2021_id":"1402",
+    "eurostat:nuts_2021_level_0":"SE",
+    "eurostat:nuts_2021_level_1":"SE2",
+    "eurostat:nuts_2021_level_2":"SE23",
+    "eurostat:nuts_2021_level_3":"SE232",
+    "eurostat:nuts_2021_level_lau":"1402",
+    "eurostat:population":39289,
+    "eurostat:population_year":2020,
     "geom:area":0.008876,
     "geom:area_square_m":58593220.95643,
     "geom:bbox":"12.053876,57.682305,12.221415,57.775485",
@@ -80,6 +92,8 @@
     "src:geom":"se-lant",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633789,
@@ -87,12 +101,16 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "eg:gisco_id":"SE_1402",
+        "eurostat:nuts_2021_id":"1402"
+    },
     "wof:coterminous":[
         1125270905
     ],
     "wof:country":"SE",
     "wof:created":1525379433,
-    "wof:geomhash":"94c86ce1fd4d7f961ae955c0b8d36d12",
+    "wof:geomhash":"e014d4f839f7dbf348ac72627d439ecf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -102,11 +120,13 @@
         }
     ],
     "wof:id":1159303085,
-    "wof:lastmodified":1627522771,
+    "wof:lastmodified":1684354749,
     "wof:name":"Partille",
     "wof:parent_id":85688411,
     "wof:placetype":"county",
     "wof:placetype_local":"municipality",
+    "wof:population":39289,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded":[],
     "wof:superseded_by":[],
