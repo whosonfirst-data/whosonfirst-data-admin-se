@@ -131,6 +131,9 @@
     "name:hun_x_preferred":[
         "Karlstad"
     ],
+    "name:hye_x_preferred":[
+        "\u053f\u0561\u0580\u056c\u057d\u057f\u0561\u0564"
+    ],
     "name:iku_x_preferred":[
         "\u1472\u1550\u14ea\u1505\u1455\u1466"
     ],
@@ -161,6 +164,9 @@
     "name:kor_x_preferred":[
         "\uce7c\uc2a4\ud0c0\ub4dc"
     ],
+    "name:kur_x_preferred":[
+        "Karlstad"
+    ],
     "name:lat_x_preferred":[
         "Carolostadium"
     ],
@@ -172,6 +178,9 @@
     ],
     "name:lit_x_preferred":[
         "Karlstadas"
+    ],
+    "name:lld_x_preferred":[
+        "Karlstad"
     ],
     "name:lmo_x_preferred":[
         "Karlstad"
@@ -275,6 +284,9 @@
     "name:tha_x_preferred":[
         "\u0e04\u0e32\u0e23\u0e4c\u0e25\u0e2a\u0e15\u0e32\u0e14"
     ],
+    "name:tha_x_variant":[
+        "\u0e04\u0e2d\u0e25\u0e2a\u0e15\u0e32"
+    ],
     "name:tur_x_preferred":[
         "Karlstad"
     ],
@@ -292,6 +304,9 @@
     ],
     "name:war_x_preferred":[
         "Karlstad"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5361\u5c14\u65af\u5854\u5fb7"
     ],
     "name:zho_min_nan_x_preferred":[
         "Karlstad"
@@ -414,11 +429,11 @@
     "wd:longitude":13.533333,
     "wd:wordcount":1429,
     "wof:belongsto":[
+        85688435,
         102191581,
-        85633789,
-        1159303443,
         1125286813,
-        85688435
+        85633789,
+        1159303443
     ],
     "wof:breaches":[],
     "wof:capital_of":[
@@ -451,7 +466,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1607462743,
+    "wof:lastmodified":1690863010,
     "wof:name":"Karlstad",
     "wof:parent_id":1125286813,
     "wof:placetype":"locality",

@@ -20,6 +20,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":7.0,
+    "name:ast_x_preferred":[
+        "V\u00e4nersborg"
+    ],
+    "name:bel_x_preferred":[
+        "\u0412\u0435\u043d\u0435\u0440\u0441\u0431\u0430\u0440\u0433"
+    ],
     "name:bul_x_preferred":[
         "\u0412\u0435\u043d\u0435\u0440\u0448\u0431\u043e\u0440\u0438"
     ],
@@ -51,6 +57,12 @@
         "V\u00e4nersborg"
     ],
     "name:fra_x_preferred":[
+        "V\u00e4nersborg"
+    ],
+    "name:frr_x_preferred":[
+        "V\u00e4nersborg"
+    ],
+    "name:gle_x_preferred":[
         "V\u00e4nersborg"
     ],
     "name:heb_x_preferred":[
@@ -86,8 +98,14 @@
     "name:lit_x_preferred":[
         "Vene\u0161borgas"
     ],
+    "name:lld_x_preferred":[
+        "V\u00e4nersborg"
+    ],
     "name:min_x_preferred":[
         "V\u00e4nersborg"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0412\u0435\u0440\u043d\u0435\u0440\u0431\u043e\u0440\u0433"
     ],
     "name:nan_x_preferred":[
         "V\u00e4nersborg"
@@ -139,6 +157,9 @@
     ],
     "name:swe_x_variant":[
         "V\u00e4nersborgs"
+    ],
+    "name:tgl_x_preferred":[
+        "V\u00e4nersborg"
     ],
     "name:tur_x_preferred":[
         "V\u00e4nersborg"
@@ -267,11 +288,11 @@
     "src:population":"geonames",
     "wd:wordcount":913,
     "wof:belongsto":[
+        85688411,
         102191581,
-        85633789,
-        1159303519,
         1125283845,
-        85688411
+        85633789,
+        1159303519
     ],
     "wof:breaches":[],
     "wof:capital_of":[
@@ -305,7 +326,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1607462743,
+    "wof:lastmodified":1690863092,
     "wof:name":"V\u00e4nersborg",
     "wof:parent_id":1125283845,
     "wof:placetype":"locality",

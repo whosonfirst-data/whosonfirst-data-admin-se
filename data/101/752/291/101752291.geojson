@@ -107,11 +107,17 @@
     "name:fry_x_preferred":[
         "Link\u00f6ping"
     ],
+    "name:gle_x_preferred":[
+        "Link\u00f6ping"
+    ],
     "name:glg_x_preferred":[
         "Link\u00f6ping"
     ],
     "name:guj_x_preferred":[
         "\u0ab2\u0abf\u0aa8\u0acd\u0a95\u0acb\u0aaa\u0ac0\u0a82\u0a97"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d9\u05e0\u05e9\u05e4\u05d9\u05df"
     ],
     "name:hin_x_preferred":[
         "\u0932\u093f\u0902\u0915\u094b\u092a\u093f\u0902\u0917"
@@ -158,6 +164,9 @@
     "name:kor_x_preferred":[
         "\ub9b0\uc170\ud551"
     ],
+    "name:kur_x_preferred":[
+        "Link\u00f6ping"
+    ],
     "name:lat_x_preferred":[
         "Lincopia"
     ],
@@ -166,6 +175,9 @@
     ],
     "name:lit_x_preferred":[
         "Lin\u0161iopingas"
+    ],
+    "name:lld_x_preferred":[
+        "Link\u00f6ping"
     ],
     "name:lmo_x_preferred":[
         "Link\u00f6ping"
@@ -208,6 +220,9 @@
     ],
     "name:oci_x_preferred":[
         "Link\u00f6ping"
+    ],
+    "name:oss_x_preferred":[
+        "\u041b\u0438\u043d\u0447\u0451\u043f\u0438\u043d\u0433"
     ],
     "name:pnb_x_preferred":[
         "\u0644\u0646\u06a9\u0648\u0645\u0646\u06af"
@@ -297,6 +312,12 @@
     "name:urd_x_preferred":[
         "\u0644\u0646\u0634\u0648\u067e\u0646\u06af"
     ],
+    "name:uzb_x_preferred":[
+        "Link\u00f6ping"
+    ],
+    "name:vec_x_preferred":[
+        "Link\u00f6ping"
+    ],
     "name:vie_x_preferred":[
         "Link\u00f6ping"
     ],
@@ -305,6 +326,9 @@
     ],
     "name:war_x_preferred":[
         "Link\u00f6ping"
+    ],
+    "name:wuu_x_preferred":[
+        "\u6797\u96ea\u5e73"
     ],
     "name:yid_x_preferred":[
         "\u05dc\u05d9\u05e0\u05e9\u05e2\u05e4\u05d9\u05e0\u05d2"
@@ -427,11 +451,11 @@
     "src:population":"geonames",
     "wd:wordcount":1412,
     "wof:belongsto":[
+        85688409,
         102191581,
-        85633789,
-        1159303147,
         1159307123,
-        85688409
+        85633789,
+        1159303147
     ],
     "wof:breaches":[],
     "wof:capital_of":[
@@ -464,7 +488,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1607462742,
+    "wof:lastmodified":1690863009,
     "wof:name":"Link\u00f6ping",
     "wof:parent_id":1159307123,
     "wof:placetype":"locality",

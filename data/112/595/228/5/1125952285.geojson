@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"17.4607285,59.606741,17.4607285,59.606741",
+    "geom:bbox":"17.460728,59.606741,17.460728,59.606741",
     "geom:latitude":59.606741,
     "geom:longitude":17.460728,
     "gn:country":null,
@@ -20,10 +20,25 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dan_x_preferred":[
+        "Kr\u00e4gga"
+    ],
+    "name:deu_x_preferred":[
+        "Kr\u00e4gga"
+    ],
     "name:eng_x_preferred":[
         "Kr\u00e4gga"
     ],
+    "name:fra_x_preferred":[
+        "Kr\u00e4gga"
+    ],
+    "name:gle_x_preferred":[
+        "Kr\u00e4gga"
+    ],
     "name:ita_x_preferred":[
+        "Kr\u00e4gga"
+    ],
+    "name:lld_x_preferred":[
         "Kr\u00e4gga"
     ],
     "name:nan_x_preferred":[
@@ -36,6 +51,9 @@
         "Kr\u00e4gga"
     ],
     "name:nob_x_preferred":[
+        "Kr\u00e4gga"
+    ],
+    "name:pol_x_preferred":[
         "Kr\u00e4gga"
     ],
     "name:swe_x_preferred":[
@@ -79,7 +97,7 @@
     },
     "wof:country":"SE",
     "wof:created":1497297503,
-    "wof:geomhash":"9240d2156f29e7913a6bb85011918c88",
+    "wof:geomhash":"f5551a052b5045d2987942f3db79c0f0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +109,7 @@
         }
     ],
     "wof:id":1125952285,
-    "wof:lastmodified":1566642416,
+    "wof:lastmodified":1690863247,
     "wof:name":"Kr\u00e4gga",
     "wof:parent_id":1125322105,
     "wof:placetype":"locality",
@@ -101,10 +119,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.4607285,
+    17.460728,
     59.606741,
-    17.4607285,
+    17.460728,
     59.606741
 ],
-  "geometry": {"coordinates":[17.4607285,59.606741],"type":"Point"}
+  "geometry": {"coordinates":[17.460728,59.606741],"type":"Point"}
 }

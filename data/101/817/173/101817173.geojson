@@ -20,6 +20,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":7.0,
+    "name:ara_x_preferred":[
+        "\u0646\u064a\u0634\u0648\u0628\u064a\u0646\u063a"
+    ],
     "name:bak_x_preferred":[
         "\u041d\u044e\u0447\u0451\u043f\u0438\u043d\u0433"
     ],
@@ -54,6 +57,9 @@
     "name:deu_x_preferred":[
         "Nyk\u00f6ping"
     ],
+    "name:ell_x_preferred":[
+        "\u039d\u03b9\u03ba\u03cc\u03c0\u03b9\u03bd\u03b3\u03ba"
+    ],
     "name:eng_x_preferred":[
         "Nyk\u00f6ping"
     ],
@@ -78,10 +84,16 @@
     "name:fra_x_preferred":[
         "Nyk\u00f6ping"
     ],
+    "name:frr_x_preferred":[
+        "Nyk\u00f6ping"
+    ],
     "name:fry_x_preferred":[
         "Nyk\u00f6ping"
     ],
     "name:gla_x_preferred":[
+        "Nyk\u00f6ping"
+    ],
+    "name:gle_x_preferred":[
         "Nyk\u00f6ping"
     ],
     "name:glg_x_preferred":[
@@ -89,6 +101,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05e0\u05d9\u05e9\u05d5\u05e4\u05d9\u05e0\u05d2"
+    ],
+    "name:heb_x_variant":[
+        "\u05e0\u05d9\u05e9\u05e4\u05d9\u05df"
     ],
     "name:hrv_x_preferred":[
         "Nyk\u00f6ping"
@@ -98,6 +113,9 @@
     ],
     "name:hye_x_preferred":[
         "\u0546\u0575\u0578\u0582\u0579\u0578\u057a\u056b\u0576\u0563"
+    ],
+    "name:ido_x_preferred":[
+        "Nyk\u00f6ping"
     ],
     "name:ind_x_preferred":[
         "Nyk\u00f6ping"
@@ -120,8 +138,17 @@
     "name:kor_x_preferred":[
         "\ub258\uc170\ud551"
     ],
+    "name:kur_x_preferred":[
+        "Nyk\u00f6ping"
+    ],
     "name:lit_x_preferred":[
         "Ni\u0161iopingas"
+    ],
+    "name:lld_x_preferred":[
+        "Nyk\u00f6ping"
+    ],
+    "name:mdf_x_preferred":[
+        "\u041d\u044e\u0447\u044d\u043f\u0438\u043d\u0433"
     ],
     "name:min_x_preferred":[
         "Nyk\u00f6ping"
@@ -204,6 +231,9 @@
     "name:tat_x_preferred":[
         "\u041d\u04af\u0447\u04e9\u043f\u0438\u04a3"
     ],
+    "name:tha_x_preferred":[
+        "\u0e19\u0e35\u0e40\u0e0a\u0e2d\u0e1b\u0e34\u0e07"
+    ],
     "name:tur_x_preferred":[
         "Nyk\u00f6ping"
     ],
@@ -218,6 +248,9 @@
     ],
     "name:vol_x_preferred":[
         "Nyk\u00f6ping"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5c3c\u96ea\u5e73"
     ],
     "name:zho_x_preferred":[
         "\u5c3c\u96ea\u5e73"
@@ -335,11 +368,11 @@
     "src:population":"geonames",
     "wd:wordcount":1939,
     "wof:belongsto":[
+        85688419,
         102191581,
-        85633789,
-        1159303471,
         1125358143,
-        85688419
+        85633789,
+        1159303471
     ],
     "wof:breaches":[],
     "wof:capital_of":[
@@ -372,7 +405,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1607462743,
+    "wof:lastmodified":1690863103,
     "wof:name":"Nyk\u00f6ping",
     "wof:parent_id":1125358143,
     "wof:placetype":"locality",

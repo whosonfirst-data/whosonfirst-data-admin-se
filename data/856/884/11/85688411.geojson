@@ -54,6 +54,12 @@
     "name:ara_x_variant":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0641\u0633\u062a\u0631\u0627 \u064a\u0648\u062a\u0627\u0644\u0627\u0646\u062f"
     ],
+    "name:arz_x_preferred":[
+        "\u06a4\u0627\u0633\u062a\u0631\u0627 \u064a\u0648\u062a\u0627\u0644\u0627\u0646\u062f"
+    ],
+    "name:aze_x_preferred":[
+        "Vestra-Qetaland"
+    ],
     "name:bel_x_preferred":[
         "\u041b\u0435\u043d \u0412\u0435\u0441\u0442\u0440\u0430-\u0413\u0451\u0442\u0430\u043b\u0430\u043d\u0434"
     ],
@@ -133,6 +139,9 @@
         "V\u00e4stra G\u00f6taland",
         "comt\u00e9 de V\u00e4stra G\u00f6taland"
     ],
+    "name:frr_x_preferred":[
+        "V\u00e4stra G\u00f6taland"
+    ],
     "name:fry_x_preferred":[
         "V\u00e4stra G\u00f6talands l\u00e4n"
     ],
@@ -157,6 +166,9 @@
     "name:hun_x_preferred":[
         "V\u00e4stra G\u00f6taland megye"
     ],
+    "name:ido_x_preferred":[
+        "Komtio Westal G\u00f6taland"
+    ],
     "name:ind_x_preferred":[
         "Daerah V\u00e4stra G\u00f6taland"
     ],
@@ -177,6 +189,9 @@
     ],
     "name:kor_x_variant":[
         "\ubca0\uc2a4\ud2b8\ub77c\uc608\ud0c8\ub780\ub4dc\uc8fc"
+    ],
+    "name:kur_x_preferred":[
+        "V\u00e4stra G\u00f6taland"
     ],
     "name:lat_x_preferred":[
         "Provincia Gothiae Occidentalis"
@@ -269,8 +284,14 @@
     "name:tel_x_preferred":[
         "\u0c35\u0c3e\u0c38\u0c4d\u0c1f\u0c4d\u0c30\u0c3e \u0c17\u0c4b\u0c1f\u0c3e\u0c32\u0c3e\u0c02\u0c21\u0c4d \u0c15\u0c4c\u0c02\u0c1f\u0c40"
     ],
+    "name:tgl_x_preferred":[
+        "Lalawigan ng V\u00e4stra G\u00f6taland"
+    ],
     "name:tha_x_preferred":[
         "\u0e32\u0e2a\u0e15\u0e23\u0e32 \u0e42\u0e01\u0e17\u0e32\u0e41\u0e25\u0e19\u0e14\u0e4c"
+    ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e17\u0e28\u0e21\u0e13\u0e11\u0e25\u0e40\u0e27\u0e47\u0e2a\u0e15\u0e23\u0e32\u0e40\u0e22\u0e2d\u0e15\u0e32\u0e25\u0e31\u0e19\u0e14\u0e4c"
     ],
     "name:tur_x_preferred":[
         "V\u00e4stra G\u00f6taland ili"
@@ -295,6 +316,9 @@
     ],
     "name:war_x_preferred":[
         "Condado han V\u00e4stra G\u00f6taland"
+    ],
+    "name:wuu_x_preferred":[
+        "\u897f\u7ea6\u5854\u5170\u7701"
     ],
     "name:zho_x_preferred":[
         "\u897f\u7ea6\u5854\u5170\u7701"
@@ -407,7 +431,7 @@
         "wd:id":"Q103093"
     },
     "wof:country":"SE",
-    "wof:geomhash":"c533f156b099a879dcddc0958deed77b",
+    "wof:geomhash":"a5cf068f0b040548349c9539feb1874f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -423,7 +447,7 @@
         "swe",
         "fin"
     ],
-    "wof:lastmodified":1684351672,
+    "wof:lastmodified":1690862990,
     "wof:name":"Vastra Gotaland",
     "wof:parent_id":85633789,
     "wof:placetype":"region",

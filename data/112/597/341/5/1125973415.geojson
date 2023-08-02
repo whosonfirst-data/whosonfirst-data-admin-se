@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"17.9160345,59.273336,17.9160345,59.273336",
+    "geom:bbox":"17.916034,59.273336,17.916034,59.273336",
     "geom:latitude":59.273336,
     "geom:longitude":17.916034,
     "gn:country":null,
@@ -40,6 +40,9 @@
     ],
     "name:swe_x_preferred":[
         "Kungens kurva"
+    ],
+    "name:zho_x_preferred":[
+        "\u6606\u6839\u65af\u5e93\u74e6"
     ],
     "qs_pg:aaroncc":"SE",
     "qs_pg:gn_country":null,
@@ -79,7 +82,7 @@
     },
     "wof:country":"SE",
     "wof:created":1497298258,
-    "wof:geomhash":"7d799f78a791602ff9927da8089a180d",
+    "wof:geomhash":"1f0779450743cf71bb0418ecec4b886e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1125973415,
-    "wof:lastmodified":1566642877,
+    "wof:lastmodified":1690863421,
     "wof:name":"Kungens Kurva",
     "wof:parent_id":1125287107,
     "wof:placetype":"locality",
@@ -101,10 +104,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.9160345,
+    17.916034,
     59.273336,
-    17.9160345,
+    17.916034,
     59.273336
 ],
-  "geometry": {"coordinates":[17.9160345,59.273336],"type":"Point"}
+  "geometry": {"coordinates":[17.916034,59.273336],"type":"Point"}
 }

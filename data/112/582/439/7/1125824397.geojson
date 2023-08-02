@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"17.006741,59.5290295,17.006741,59.5290295",
+    "geom:bbox":"17.006741,59.52903,17.006741,59.52903",
     "geom:latitude":59.52903,
     "geom:longitude":17.006741,
     "gn:country":null,
@@ -30,6 +30,12 @@
         "M\u00e4rs\u00f6n"
     ],
     "name:fra_x_preferred":[
+        "M\u00e4rs\u00f6n"
+    ],
+    "name:gle_x_preferred":[
+        "M\u00e4rs\u00f6n"
+    ],
+    "name:lld_x_preferred":[
         "M\u00e4rs\u00f6n"
     ],
     "name:nds_x_preferred":[
@@ -85,7 +91,7 @@
     },
     "wof:country":"SE",
     "wof:created":1497292211,
-    "wof:geomhash":"caf3aa1b2ecfd9b3f087a3b250bb8190",
+    "wof:geomhash":"19a0ec03f9dbffe4577fdb836089bf73",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":1125824397,
-    "wof:lastmodified":1566643023,
+    "wof:lastmodified":1690863505,
     "wof:name":"M\u00e4rs\u00f6n",
     "wof:parent_id":1159306979,
     "wof:placetype":"locality",
@@ -108,9 +114,9 @@
 },
   "bbox": [
     17.006741,
-    59.5290295,
+    59.52903,
     17.006741,
-    59.5290295
+    59.52903
 ],
-  "geometry": {"coordinates":[17.006741,59.5290295],"type":"Point"}
+  "geometry": {"coordinates":[17.006741,59.52903],"type":"Point"}
 }

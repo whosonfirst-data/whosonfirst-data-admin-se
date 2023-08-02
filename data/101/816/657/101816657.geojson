@@ -23,6 +23,9 @@
     "name:ara_x_preferred":[
         "\u0643\u0627\u0631\u0644\u0633\u0643\u0631\u0648\u0646\u0627"
     ],
+    "name:avk_x_preferred":[
+        "Karlskrona"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041a\u0430\u0440\u043b\u044c\u0441\u043a\u0440\u0443\u043d\u0430"
     ],
@@ -75,6 +78,9 @@
     "name:ell_x_preferred":[
         "\u039a\u03ac\u03c1\u03bb\u03c3\u03ba\u03c1\u03bf\u03bd\u03b1"
     ],
+    "name:ell_x_variant":[
+        "\u039a\u03ac\u03c1\u03bb\u03c3\u03ba\u03c1\u03bf\u03c5\u03bd\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Karlskrona"
     ],
@@ -106,6 +112,9 @@
         "Karlskrona"
     ],
     "name:gla_x_preferred":[
+        "Karlskrona"
+    ],
+    "name:gle_x_preferred":[
         "Karlskrona"
     ],
     "name:glg_x_preferred":[
@@ -171,6 +180,9 @@
     "name:lit_x_preferred":[
         "Karlskruna"
     ],
+    "name:lld_x_preferred":[
+        "Karlskrona"
+    ],
     "name:mai_x_preferred":[
         "\u0915\u093e\u0930\u094d\u0932\u094d\u0938\u0915\u094d\u0930\u094b\u0928\u093e"
     ],
@@ -185,6 +197,9 @@
     ],
     "name:mkd_x_preferred":[
         "\u041a\u0430\u0440\u043b\u0441\u043a\u0440\u0443\u043d\u0430"
+    ],
+    "name:mlt_x_preferred":[
+        "Karlskrona"
     ],
     "name:msa_x_preferred":[
         "Karlskrona"
@@ -209,6 +224,9 @@
     ],
     "name:oci_x_preferred":[
         "Karlskrona"
+    ],
+    "name:oss_x_preferred":[
+        "\u041a\u0430\u0440\u043b\u0441\u043a\u0440\u0443\u043d\u00e6"
     ],
     "name:pol_x_preferred":[
         "Karlskrona"
@@ -264,6 +282,9 @@
     "name:tha_x_preferred":[
         "\u0e04\u0e32\u0e23\u0e4c\u0e25\u0e2a\u0e01\u0e23\u0e39\u0e19\u0e32"
     ],
+    "name:tha_x_variant":[
+        "\u0e04\u0e2d\u0e25\u0e2a\u0e4c\u0e04\u0e23\u0e39\u0e19\u0e32"
+    ],
     "name:tur_x_preferred":[
         "Karlskrona"
     ],
@@ -284,6 +305,9 @@
     ],
     "name:war_x_preferred":[
         "Karlskrona"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5361\u5c14\u65af\u514b\u9c81\u7eb3"
     ],
     "name:zho_min_nan_x_preferred":[
         "Karlskrona"
@@ -407,11 +431,11 @@
     "wd:longitude":15.633056,
     "wd:wordcount":1170,
     "wof:belongsto":[
+        85688383,
         102191581,
-        85633789,
-        1159303467,
         1125362329,
-        85688383
+        85633789,
+        1159303467
     ],
     "wof:breaches":[],
     "wof:capital_of":[
@@ -445,7 +469,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1607462742,
+    "wof:lastmodified":1690863041,
     "wof:name":"Karlskrona",
     "wof:parent_id":1125362329,
     "wof:placetype":"locality",
