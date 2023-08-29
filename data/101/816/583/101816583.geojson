@@ -24,6 +24,9 @@
     "name:ara_x_preferred":[
         "\u0627\u0646\u062c\u0644\u0647\u0648\u0644\u0645"
     ],
+    "name:ast_x_preferred":[
+        "\u00c4ngelholm"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u042d\u043d\u0433\u0435\u043b\u044c\u0445\u043e\u043b\u044c\u043c"
     ],
@@ -57,6 +60,12 @@
     "name:eng_x_preferred":[
         "\u00c4ngelholm"
     ],
+    "name:est_x_preferred":[
+        "\u00c4ngelholm"
+    ],
+    "name:eus_x_preferred":[
+        "\u00c4ngelholm"
+    ],
     "name:fao_x_preferred":[
         "\u00c4ngelholm"
     ],
@@ -76,6 +85,9 @@
         "\u00c4ngelholm"
     ],
     "name:fry_x_preferred":[
+        "\u00c4ngelholm"
+    ],
+    "name:gle_x_preferred":[
         "\u00c4ngelholm"
     ],
     "name:hrv_x_preferred":[
@@ -111,8 +123,17 @@
     "name:lat_x_preferred":[
         "\u00c4ngelholm"
     ],
+    "name:lav_x_preferred":[
+        "Engelholma"
+    ],
     "name:lit_x_preferred":[
         "Engelholmas"
+    ],
+    "name:lld_x_preferred":[
+        "\u00c4ngelholm"
+    ],
+    "name:mdf_x_preferred":[
+        "\u042d\u043d\u0433\u044d\u043b\u044c\u0433\u043e\u043b\u044c\u043c"
     ],
     "name:min_x_preferred":[
         "\u00c4ngelholm"
@@ -192,6 +213,9 @@
     "name:ukr_x_preferred":[
         "\u0415\u043d\u0433\u0435\u043b\u044c\u0433\u043e\u043b\u044c\u043c"
     ],
+    "name:ukr_x_variant":[
+        "\u0415\u043d\u0491\u0435\u043b\u044c\u0433\u043e\u043b\u044c\u043c"
+    ],
     "name:zho_x_preferred":[
         "\u6069\u5384\u5c14\u970d\u5c14\u59c6"
     ],
@@ -217,11 +241,11 @@
     "wd:longitude":12.866667,
     "wd:wordcount":398,
     "wof:belongsto":[
+        85688377,
         102191581,
-        85633789,
-        1159303025,
         1125326415,
-        85688377
+        85633789,
+        1159303025
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -250,7 +274,7 @@
         }
     ],
     "wof:id":101816583,
-    "wof:lastmodified":1608048173,
+    "wof:lastmodified":1690863085,
     "wof:name":"\u00c4ngelholm",
     "wof:parent_id":1125326415,
     "wof:placetype":"locality",

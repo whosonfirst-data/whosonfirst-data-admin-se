@@ -54,6 +54,9 @@
     "name:ast_x_preferred":[
         "provincia d'Escania"
     ],
+    "name:avk_x_preferred":[
+        "SverigaSk\u00e5neWinka"
+    ],
     "name:aze_x_preferred":[
         "Skane"
     ],
@@ -87,6 +90,9 @@
     "name:cor_x_preferred":[
         "Konteth Sk\u00e5ne"
     ],
+    "name:cym_x_preferred":[
+        "Sir Sk\u00e5ne"
+    ],
     "name:dan_x_preferred":[
         "Sk\u00e5ne l\u00e4n"
     ],
@@ -95,6 +101,9 @@
     ],
     "name:ell_x_preferred":[
         "\u03ba\u03bf\u03bc\u03b7\u03c4\u03b5\u03af\u03b1 \u03c4\u03b7\u03c2 \u03a3\u03ba\u03c9\u03bd\u03b5\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u03ba\u03bf\u03bc\u03b7\u03c4\u03b5\u03af\u03b1 \u03a3\u03ba\u03cc\u03bd\u03b5"
     ],
     "name:eng_x_preferred":[
         "Scania"
@@ -132,6 +141,9 @@
         "Sk\u00e5ne",
         "comt\u00e9 de Scanie"
     ],
+    "name:frr_x_preferred":[
+        "Sk\u00e5ne"
+    ],
     "name:fry_x_preferred":[
         "Sk\u00e5ne l\u00e4n"
     ],
@@ -156,6 +168,12 @@
     "name:hun_x_preferred":[
         "Sk\u00e5ne megye"
     ],
+    "name:hye_x_preferred":[
+        "\u054d\u056f\u0578\u0576\u0565"
+    ],
+    "name:ido_x_preferred":[
+        "Komtio Sk\u00e5ne"
+    ],
     "name:ind_x_preferred":[
         "County Sk\u00e5ne"
     ],
@@ -176,6 +194,9 @@
     ],
     "name:kor_x_variant":[
         "\uc2a4\ucf54\ub124\uc8fc"
+    ],
+    "name:kur_x_preferred":[
+        "Sk\u00e5ne"
     ],
     "name:lat_x_preferred":[
         "Scaniae Comitatus"
@@ -216,6 +237,9 @@
     "name:nor_x_preferred":[
         "Sk\u00e5ne"
     ],
+    "name:oci_x_preferred":[
+        "Comtat d'Esc\u00e0nia"
+    ],
     "name:oss_x_preferred":[
         "\u0421\u043a\u043e\u043d\u0435"
     ],
@@ -236,6 +260,9 @@
     ],
     "name:sco_x_preferred":[
         "Sk\u00e5ne Coonty"
+    ],
+    "name:sco_x_variant":[
+        "Scanie Coonty"
     ],
     "name:sin_x_preferred":[
         "\u0dc3\u0dca\u0d9a\u0dcf\u0db1\u0dda \u0db4\u0dca\u200d\u0dbb\u0dcf\u0db1\u0dca\u0dad\u0dba"
@@ -290,6 +317,9 @@
     ],
     "name:vol_x_preferred":[
         "Skani\u00e4n"
+    ],
+    "name:wuu_x_preferred":[
+        "\u65af\u79d1\u8bb7\u7701"
     ],
     "name:zho_x_preferred":[
         "\u65af\u79d1\u8bb7\u7701"
@@ -401,7 +431,7 @@
         "wd:id":"Q103659"
     },
     "wof:country":"SE",
-    "wof:geomhash":"8785336646d3620a14aa863ad4fdcb8c",
+    "wof:geomhash":"5bfbbd7ab9fc1a9dbc3d3ee53349b0e3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -417,7 +447,7 @@
         "swe",
         "fin"
     ],
-    "wof:lastmodified":1684351672,
+    "wof:lastmodified":1690862996,
     "wof:name":"Scania",
     "wof:parent_id":85633789,
     "wof:placetype":"region",

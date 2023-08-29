@@ -23,8 +23,14 @@
     "name:ara_x_preferred":[
         "\u0644\u0648\u0644\u064a\u0648"
     ],
+    "name:arz_x_preferred":[
+        "\u0644\u0648\u0644\u064a\u0648"
+    ],
     "name:ast_x_preferred":[
         "Lule\u00e5"
+    ],
+    "name:aze_x_preferred":[
+        "Luleo"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041b\u0443\u043b\u0435\u0430"
@@ -69,6 +75,9 @@
     "name:ell_x_preferred":[
         "\u039b\u03bf\u03c5\u03bb\u03ad\u03b1"
     ],
+    "name:ell_x_variant":[
+        "\u039b\u03bf\u03c5\u03bb\u03ad\u03bf"
+    ],
     "name:eng_x_preferred":[
         "Lule\u00e5"
     ],
@@ -109,6 +118,9 @@
         "Lule\u00e5"
     ],
     "name:gla_x_preferred":[
+        "Lule\u00e5"
+    ],
+    "name:gle_x_preferred":[
         "Lule\u00e5"
     ],
     "name:glg_x_preferred":[
@@ -159,6 +171,9 @@
     "name:kor_x_preferred":[
         "\ub8f0\ub808\uc624"
     ],
+    "name:kur_x_preferred":[
+        "Lule\u00e5"
+    ],
     "name:lat_x_preferred":[
         "Lula"
     ],
@@ -168,6 +183,9 @@
     "name:lit_x_preferred":[
         "Liuleo"
     ],
+    "name:lld_x_preferred":[
+        "Lule\u00e5"
+    ],
     "name:mar_x_preferred":[
         "\u0932\u0941\u0932\u093f\u092f\u093e"
     ],
@@ -176,6 +194,9 @@
     ],
     "name:mkd_x_preferred":[
         "\u041b\u0443\u043b\u0435\u043e"
+    ],
+    "name:mri_x_preferred":[
+        "Lule\u00e5"
     ],
     "name:mrj_x_preferred":[
         "\u041b\u0443\u043b\u0435\u043e"
@@ -228,11 +249,17 @@
     "name:sin_x_preferred":[
         "\u0dbd\u0dbd\u0dd2\u0dba\u0dcf"
     ],
+    "name:sju_x_preferred":[
+        "L\u00fcvllege"
+    ],
     "name:slk_x_preferred":[
         "Lule\u00e5"
     ],
     "name:sme_x_preferred":[
         "Luleju"
+    ],
+    "name:smj_x_preferred":[
+        "Julevu"
     ],
     "name:snd_x_preferred":[
         "\u0644\u0648\u0644\u064a\u0648"
@@ -261,6 +288,9 @@
     "name:swe_x_variant":[
         "Lule\u00e5s"
     ],
+    "name:szl_x_preferred":[
+        "Lule\u00e5"
+    ],
     "name:tam_x_preferred":[
         "\u0bb2\u0bc2\u0bb2\u0bbf\u0baf\u0bbe"
     ],
@@ -272,6 +302,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e25\u0e39\u0e40\u0e25\u0e35\u0e22"
+    ],
+    "name:tha_x_variant":[
+        "\u0e25\u0e37\u0e2d\u0e25\u0e34\u0e22\u0e2d"
     ],
     "name:tur_x_preferred":[
         "Lule\u00e5"
@@ -290,6 +323,9 @@
     ],
     "name:war_x_preferred":[
         "Lule\u00e5"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5415\u52d2\u5965"
     ],
     "name:zho_x_preferred":[
         "\u5442\u52d2\u5967"
@@ -409,11 +445,11 @@
     "wd:longitude":22.15,
     "wd:wordcount":1720,
     "wof:belongsto":[
+        85688471,
         102191581,
-        85633789,
-        1159303317,
         1125325171,
-        85688471
+        85633789,
+        1159303317
     ],
     "wof:breaches":[],
     "wof:capital_of":[
@@ -446,7 +482,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1607462744,
+    "wof:lastmodified":1690863188,
     "wof:name":"Lule\u00e5",
     "wof:parent_id":1125325171,
     "wof:placetype":"locality",

@@ -23,6 +23,9 @@
     "name:ara_x_preferred":[
         "\u0643\u0631\u064a\u0633\u062a\u064a\u0627\u0646\u0633\u062a\u0627\u062f"
     ],
+    "name:ast_x_preferred":[
+        "Kristianstad"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041a\u0440\u044b\u0441\u0442\u044b\u044f\u043d\u0441\u0442\u0430\u0434"
     ],
@@ -65,6 +68,9 @@
     "name:ell_x_preferred":[
         "\u039a\u03c1\u03af\u03c3\u03c4\u03b9\u03b1\u03bd\u03c3\u03c4\u03b1\u03bd\u03c4"
     ],
+    "name:ell_x_variant":[
+        "\u039a\u03c1\u03b9\u03c7\u03ac\u03bd\u03c3\u03c4\u03b1\u03bd\u03c4"
+    ],
     "name:eng_x_preferred":[
         "Kristianstad"
     ],
@@ -95,6 +101,9 @@
     "name:frr_x_preferred":[
         "Kristianstad"
     ],
+    "name:gle_x_preferred":[
+        "Kristianstad"
+    ],
     "name:glg_x_preferred":[
         "Kristianstad"
     ],
@@ -112,6 +121,9 @@
     ],
     "name:hun_x_preferred":[
         "Kristianstad"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0580\u056b\u057d\u057f\u056b\u0561\u0576\u057d\u057f\u0561\u0564"
     ],
     "name:ind_x_preferred":[
         "Kristianstad"
@@ -140,14 +152,23 @@
     "name:kor_x_preferred":[
         "\ud06c\ub9ac\uc2a4\ud2f0\uc548\uc2a4\ud0c0\ub4dc"
     ],
+    "name:kur_x_preferred":[
+        "Kristianstad"
+    ],
     "name:lat_x_preferred":[
         "Christianostadium"
     ],
     "name:lat_x_variant":[
         "Christianopolis"
     ],
+    "name:lav_x_preferred":[
+        "Kri\u0161anstade"
+    ],
     "name:lit_x_preferred":[
         "Kristianstadas"
+    ],
+    "name:lld_x_preferred":[
+        "Kristianstad"
     ],
     "name:ltz_x_preferred":[
         "Kristianstad"
@@ -218,6 +239,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e04\u0e23\u0e34\u0e2a\u0e40\u0e15\u0e35\u0e22\u0e19\u0e2a\u0e15\u0e31\u0e14"
+    ],
+    "name:tha_x_variant":[
+        "\u0e04\u0e23\u0e34\u0e04\u0e27\u0e31\u0e19\u0e2a\u0e15\u0e32"
     ],
     "name:tur_x_preferred":[
         "Kristianstad"
@@ -395,7 +419,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1636499892,
+    "wof:lastmodified":1690863168,
     "wof:name":"Kristianstad",
     "wof:parent_id":1125287263,
     "wof:placetype":"locality",

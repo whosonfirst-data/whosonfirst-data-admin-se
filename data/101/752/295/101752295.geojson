@@ -53,6 +53,9 @@
     "name:ben_x_preferred":[
         "\u0997\u09cb\u099f\u09c7\u09a8\u09ac\u09be\u09b0\u09cd\u0997"
     ],
+    "name:ben_x_variant":[
+        "\u0997\u09cb\u09a5\u09c7\u09a8\u09ac\u09be\u09b0\u09cd\u0997"
+    ],
     "name:bos_x_preferred":[
         "G\u00f6teborg"
     ],
@@ -72,6 +75,9 @@
         "G\u00f6teborg"
     ],
     "name:che_x_preferred":[
+        "\u0413\u0451\u0442\u0435\u0431\u043e\u0440\u0433"
+    ],
+    "name:chv_x_preferred":[
         "\u0413\u0451\u0442\u0435\u0431\u043e\u0440\u0433"
     ],
     "name:ckb_x_preferred":[
@@ -131,6 +137,9 @@
     "name:fas_x_preferred":[
         "\u06cc\u0648\u062a\u0628\u0631\u06cc"
     ],
+    "name:fij_x_preferred":[
+        "Gothenburg"
+    ],
     "name:fin_x_preferred":[
         "G\u00f6teborg"
     ],
@@ -175,6 +184,9 @@
     ],
     "name:hye_x_preferred":[
         "\u0533\u0575\u0578\u057f\u0565\u0562\u0578\u0580\u0563"
+    ],
+    "name:hye_x_variant":[
+        "\u0533\u0575\u0578\u0569\u0565\u0562\u0578\u0580\u0563"
     ],
     "name:ido_x_preferred":[
         "G\u00f6teborg"
@@ -224,6 +236,9 @@
     "name:kir_x_preferred":[
         "\u0413\u0451\u0442\u0435\u0431\u043e\u0440\u0433"
     ],
+    "name:kir_x_variant":[
+        "\u0413\u04e9\u0442\u0435\u0431\u043e\u0440\u0433"
+    ],
     "name:kor_x_preferred":[
         "\uace0\ud150\ubd80\ub974\ud06c"
     ],
@@ -248,6 +263,9 @@
     "name:lit_x_preferred":[
         "Geteborgas"
     ],
+    "name:lld_x_preferred":[
+        "G\u00f6teborg"
+    ],
     "name:lmo_x_preferred":[
         "G\u00f6teborg"
     ],
@@ -259,6 +277,9 @@
     ],
     "name:mar_x_preferred":[
         "\u092f\u094b\u0939\u0924\u0947\u092c\u094b\u0930\u094d\u092f"
+    ],
+    "name:mdf_x_preferred":[
+        "\u0413\u0451\u0442\u044d\u0431\u043e\u0440\u0433"
     ],
     "name:min_x_preferred":[
         "G\u00f6teborg/Gothenburg"
@@ -408,17 +429,26 @@
     "name:tel_x_preferred":[
         "\u0c17\u0c4b\u0c25\u0c46\u0c28\u0c4d\u0c2c\u0c30\u0c4d\u0c17\u0c4d"
     ],
+    "name:tgk_x_preferred":[
+        "\u0413\u04ef\u0442\u0435\u0431\u0443\u0440\u0433"
+    ],
     "name:tha_x_preferred":[
         "\u0e01\u0e2d\u0e40\u0e17\u0e19\u0e40\u0e1a\u0e34\u0e23\u0e4c\u0e01"
     ],
     "name:tur_x_preferred":[
         "G\u00f6teborg"
     ],
+    "name:uig_x_preferred":[
+        "\u06af\u0648\u062a\u06d0\u0646\u0628\u06c7\u0631\u06af"
+    ],
     "name:ukr_x_preferred":[
         "\u0413\u0435\u0442\u0435\u0431\u043e\u0440\u0433"
     ],
     "name:urd_x_preferred":[
         "\u06cc\u0648\u06c1\u062a\u06cc\u0628\u0648\u0631\u06cc"
+    ],
+    "name:uzb_x_preferred":[
+        "Gyoteborg"
     ],
     "name:vec_x_preferred":[
         "G\u00f6teborg"
@@ -558,11 +588,11 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
+        85688411,
         102191581,
-        85633789,
-        1159302989,
         1125287157,
-        85688411
+        85633789,
+        1159302989
     ],
     "wof:breaches":[],
     "wof:capital_of":[
@@ -598,7 +628,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1607462743,
+    "wof:lastmodified":1690863005,
     "wof:name":"G\u00f6teborg",
     "wof:parent_id":1125287157,
     "wof:placetype":"locality",

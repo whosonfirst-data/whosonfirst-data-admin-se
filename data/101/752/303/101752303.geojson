@@ -26,6 +26,9 @@
     "name:ast_x_preferred":[
         "V\u00e4ster\u00e5s"
     ],
+    "name:aze_x_preferred":[
+        "Vesteros"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0412\u0435\u0441\u0442\u044d\u0440\u043e\u0441"
     ],
@@ -105,6 +108,9 @@
     "name:gla_x_preferred":[
         "V\u00e4ster\u00e5s"
     ],
+    "name:gle_x_preferred":[
+        "V\u00e4ster\u00e5s"
+    ],
     "name:glg_x_preferred":[
         "V\u00e4ster\u00e5s"
     ],
@@ -122,6 +128,9 @@
     ],
     "name:hun_x_preferred":[
         "V\u00e4ster\u00e5s"
+    ],
+    "name:hye_x_preferred":[
+        "\u054e\u0565\u057d\u057f\u0565\u0580\u0578\u057d"
     ],
     "name:ido_x_preferred":[
         "V\u00e4ster\u00e5s"
@@ -153,6 +162,9 @@
     "name:kor_x_preferred":[
         "\ubca0\uc2a4\ud14c\ub85c\uc2a4"
     ],
+    "name:kur_x_preferred":[
+        "V\u00e4ster\u00e5s"
+    ],
     "name:lat_x_preferred":[
         "Arosia"
     ],
@@ -162,11 +174,17 @@
     "name:lit_x_preferred":[
         "Vesterosas"
     ],
+    "name:lld_x_preferred":[
+        "V\u00e4ster\u00e5s"
+    ],
     "name:lmo_x_preferred":[
         "V\u00e4ster\u00e5s"
     ],
     "name:mar_x_preferred":[
         "\u0935\u093e\u0938\u094d\u091f\u0947\u0930\u0938"
+    ],
+    "name:mdf_x_preferred":[
+        "\u0412\u044d\u0441\u0442\u044d\u0440\u043e\u0441"
     ],
     "name:min_x_preferred":[
         "V\u00e4ster\u00e5s"
@@ -203,6 +221,9 @@
     ],
     "name:oss_x_preferred":[
         "\u0412\u0435\u0441\u0442\u0435\u0440\u043e\u0441"
+    ],
+    "name:pms_x_preferred":[
+        "V\u00e4ster\u00e5s"
     ],
     "name:pnb_x_preferred":[
         "\u0648\u0627\u0633\u0679\u06cc\u0631\u0627\u0633"
@@ -271,6 +292,9 @@
     "name:tha_x_preferred":[
         "\u0e40\u0e27\u0e2a\u0e40\u0e15\u0e42\u0e23\u0e2a"
     ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e27\u0e47\u0e2a\u0e40\u0e15\u0e2d\u0e23\u0e27\u0e2a"
+    ],
     "name:tur_x_preferred":[
         "V\u00e4ster\u00e5s"
     ],
@@ -280,6 +304,9 @@
     "name:urd_x_preferred":[
         "\u0648\u06cc\u0633\u062a\u06cc\u0631\u0648\u0633"
     ],
+    "name:vec_x_preferred":[
+        "V\u00e4ster\u00e5s"
+    ],
     "name:vie_x_preferred":[
         "V\u00e4ster\u00e5s"
     ],
@@ -288,6 +315,9 @@
     ],
     "name:war_x_preferred":[
         "V\u00e4ster\u00e5s"
+    ],
+    "name:wuu_x_preferred":[
+        "\u97e6\u65af\u7279\u7f57\u65af"
     ],
     "name:yid_x_preferred":[
         "\u05d5\u05d5\u05e2\u05e1\u05d8\u05e2\u05e8\u05d0\u05e1"
@@ -407,11 +437,11 @@
     "src:population":"geonames",
     "wd:wordcount":1527,
     "wof:belongsto":[
+        85688425,
         102191581,
-        85633789,
-        1159303331,
         1159306451,
-        85688425
+        85633789,
+        1159303331
     ],
     "wof:breaches":[],
     "wof:capital_of":[
@@ -444,7 +474,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1607462743,
+    "wof:lastmodified":1690863006,
     "wof:name":"V\u00e4ster\u00e5s",
     "wof:parent_id":1159306451,
     "wof:placetype":"locality",

@@ -150,6 +150,9 @@
     "name:kor_x_preferred":[
         "\ubca1\uc170"
     ],
+    "name:kur_x_preferred":[
+        "V\u00e4xj\u00f6"
+    ],
     "name:lat_x_preferred":[
         "Vexionia"
     ],
@@ -165,6 +168,9 @@
     "name:lit_x_preferred":[
         "Vek\u0161\u0117"
     ],
+    "name:lld_x_preferred":[
+        "V\u00e4xj\u00f6"
+    ],
     "name:lmo_x_preferred":[
         "V\u00e4xj\u00f6"
     ],
@@ -173,6 +179,9 @@
     ],
     "name:min_x_preferred":[
         "V\u00e4xj\u00f6"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0412\u0435\u043a\u0448\u0435"
     ],
     "name:mri_x_preferred":[
         "V\u00e4xj\u00f6"
@@ -254,6 +263,9 @@
         "Vexi\u00f6",
         "V\u00e4xj\u00f6"
     ],
+    "name:szl_x_preferred":[
+        "V\u00e4xj\u00f6"
+    ],
     "name:tam_x_preferred":[
         "\u0bb5\u0bbe\u0b95\u0bcd\u0bb8\u0bcd\u0b9c\u0bcb"
     ],
@@ -265,6 +277,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e27\u0e01\u0e40\u0e0a\u0e2d"
+    ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e27\u0e47\u0e01\u0e40\u0e04\u0e27\u0e2d"
     ],
     "name:tur_x_preferred":[
         "V\u00e4xj\u00f6"
@@ -283,6 +298,9 @@
     ],
     "name:war_x_preferred":[
         "V\u00e4xj\u00f6"
+    ],
+    "name:wuu_x_preferred":[
+        "\u97e6\u514b\u820d"
     ],
     "name:zho_x_preferred":[
         "\u97e6\u514b\u820d"
@@ -400,11 +418,11 @@
     "src:population":"geonames",
     "wd:wordcount":1226,
     "wof:belongsto":[
+        85688387,
         102191581,
-        85633789,
-        1159302917,
         1125286775,
-        85688387
+        85633789,
+        1159302917
     ],
     "wof:breaches":[],
     "wof:capital_of":[
@@ -437,7 +455,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1607462742,
+    "wof:lastmodified":1690863052,
     "wof:name":"V\u00e4xj\u00f6",
     "wof:parent_id":1125286775,
     "wof:placetype":"locality",

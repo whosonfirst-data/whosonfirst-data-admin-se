@@ -23,6 +23,12 @@
     "name:ara_x_preferred":[
         "\u0647\u0627\u0631\u0646\u0648\u0633\u0627\u0646\u062f"
     ],
+    "name:arz_x_preferred":[
+        "\u0647\u0627\u0631\u0646\u0648\u0633\u0627\u0646\u062f"
+    ],
+    "name:ast_x_preferred":[
+        "H\u00e4rn\u00f6sand"
+    ],
     "name:bul_x_preferred":[
         "\u0425\u0435\u0440\u043d\u044c\u043e\u0441\u0430\u043d\u0434"
     ],
@@ -50,6 +56,9 @@
     "name:deu_x_preferred":[
         "H\u00e4rn\u00f6sand"
     ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03ad\u03c1\u03bd\u03b5\u03c3\u03b1\u03bd\u03c4"
+    ],
     "name:eng_x_preferred":[
         "H\u00e4rn\u00f6sand"
     ],
@@ -71,10 +80,16 @@
     "name:fra_x_preferred":[
         "H\u00e4rn\u00f6sand"
     ],
+    "name:frr_x_preferred":[
+        "H\u00e4rn\u00f6sand"
+    ],
     "name:fry_x_preferred":[
         "H\u00e4rn\u00f6sand"
     ],
     "name:gla_x_preferred":[
+        "H\u00e4rn\u00f6sand"
+    ],
+    "name:gle_x_preferred":[
         "H\u00e4rn\u00f6sand"
     ],
     "name:glg_x_preferred":[
@@ -85,6 +100,9 @@
     ],
     "name:hrv_x_preferred":[
         "H\u00e4rn\u00f6sand"
+    ],
+    "name:hye_x_preferred":[
+        "\u0540\u0565\u0580\u0576\u0575\u0578\u057d\u0561\u0576\u0564"
     ],
     "name:ind_x_preferred":[
         "H\u00e4rn\u00f6sand"
@@ -101,11 +119,17 @@
     "name:kor_x_preferred":[
         "\ud5e4\ub974\ub1cc\uc0b0\ub4dc"
     ],
+    "name:kur_x_preferred":[
+        "H\u00e4rn\u00f6sand"
+    ],
     "name:lat_x_preferred":[
         "Hernosandia"
     ],
     "name:lit_x_preferred":[
         "Herniosandas"
+    ],
+    "name:lld_x_preferred":[
+        "H\u00e4rn\u00f6sand"
     ],
     "name:msa_x_preferred":[
         "H\u00e4rn\u00f6sand"
@@ -174,6 +198,9 @@
     ],
     "name:szl_x_preferred":[
         "H\u00e4rn\u00f6sand"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e41\u0e2e\u0e40\u0e19\u0e2d\u0e0b\u0e31\u0e19\u0e14\u0e4c"
     ],
     "name:tur_x_preferred":[
         "H\u00e4rn\u00f6sand"
@@ -299,11 +326,11 @@
     "src:population":"geonames",
     "wd:wordcount":525,
     "wof:belongsto":[
+        85688457,
         102191581,
-        85633789,
-        1159302975,
         1125286903,
-        85688457
+        85633789,
+        1159302975
     ],
     "wof:breaches":[],
     "wof:capital_of":[
@@ -336,7 +363,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1607462744,
+    "wof:lastmodified":1690863189,
     "wof:name":"H\u00e4rn\u00f6sand",
     "wof:parent_id":1125286903,
     "wof:placetype":"locality",

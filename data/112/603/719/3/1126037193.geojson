@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"16.478462,59.5159475,16.478462,59.5159475",
+    "geom:bbox":"16.478462,59.515948,16.478462,59.515948",
     "geom:latitude":59.515948,
     "geom:longitude":16.478462,
     "gn:country":null,
@@ -23,10 +23,25 @@
     "name:ceb_x_preferred":[
         "Tid\u00f6-Lind\u00f6"
     ],
+    "name:dan_x_preferred":[
+        "Tid\u00f6-Lind\u00f6"
+    ],
+    "name:deu_x_preferred":[
+        "Tid\u00f6-Lind\u00f6"
+    ],
     "name:eng_x_preferred":[
         "Tid\u00f6-Lind\u00f6"
     ],
+    "name:fra_x_preferred":[
+        "Tid\u00f6-Lind\u00f6"
+    ],
+    "name:gle_x_preferred":[
+        "Tid\u00f6-Lind\u00f6"
+    ],
     "name:ita_x_preferred":[
+        "Tid\u00f6-Lind\u00f6"
+    ],
+    "name:lld_x_preferred":[
         "Tid\u00f6-Lind\u00f6"
     ],
     "name:nan_x_preferred":[
@@ -39,6 +54,12 @@
         "Tid\u00f6-Lind\u00f6"
     ],
     "name:nob_x_preferred":[
+        "Tid\u00f6-Lind\u00f6"
+    ],
+    "name:pol_x_preferred":[
+        "Tid\u00f6-Lind\u00f6"
+    ],
+    "name:spa_x_preferred":[
         "Tid\u00f6-Lind\u00f6"
     ],
     "name:swe_x_preferred":[
@@ -82,7 +103,7 @@
     },
     "wof:country":"SE",
     "wof:created":1497301868,
-    "wof:geomhash":"18b2ae621e43e10c03840b6a661b8188",
+    "wof:geomhash":"d75be48b4fd8eaa5d003397adda0b66f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,7 +115,7 @@
         }
     ],
     "wof:id":1126037193,
-    "wof:lastmodified":1566642587,
+    "wof:lastmodified":1690863310,
     "wof:name":"Tid\u00f6 Lind\u00f6",
     "wof:parent_id":1125362541,
     "wof:placetype":"locality",
@@ -105,9 +126,9 @@
 },
   "bbox": [
     16.478462,
-    59.5159475,
+    59.515948,
     16.478462,
-    59.5159475
+    59.515948
 ],
-  "geometry": {"coordinates":[16.478462,59.5159475],"type":"Point"}
+  "geometry": {"coordinates":[16.478462,59.515948],"type":"Point"}
 }

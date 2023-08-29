@@ -51,8 +51,14 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0633\u062a\u0648\u0643\u0647\u0648\u0644\u0645"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u062d\u0627\u0641\u0638\u0629 \u0633\u062a\u0648\u0643\u0647\u0648\u0644\u0645"
+    ],
     "name:ast_x_preferred":[
         "provincia d'Estocolmu"
+    ],
+    "name:aze_x_preferred":[
+        "Stokholm leni"
     ],
     "name:bel_x_preferred":[
         "\u043b\u0435\u043d \u0421\u0442\u0430\u043a\u0433\u043e\u043b\u044c\u043c"
@@ -77,6 +83,9 @@
     ],
     "name:cor_x_preferred":[
         "Konteth Stockholm"
+    ],
+    "name:cym_x_preferred":[
+        "Sir Stockholm"
     ],
     "name:dan_x_preferred":[
         "Stockholms l\u00e4n"
@@ -124,11 +133,17 @@
     "name:fry_x_preferred":[
         "Stockholms l\u00e4n"
     ],
+    "name:fry_x_variant":[
+        "Provinsje Stokholm"
+    ],
     "name:gla_x_preferred":[
         "Stockholms l\u00e4n"
     ],
     "name:gle_x_preferred":[
         "St\u00f3c\u00f3lm"
+    ],
+    "name:gle_x_variant":[
+        "Contae St\u00f3c\u00f3lm"
     ],
     "name:glg_x_preferred":[
         "condado de Estocolmo"
@@ -150,6 +165,9 @@
     ],
     "name:hye_x_preferred":[
         "\u054d\u057f\u0578\u056f\u0570\u0578\u056c\u0574\u056b \u056c\u0565\u0576"
+    ],
+    "name:ido_x_preferred":[
+        "Komtio Stockholm"
     ],
     "name:ind_x_preferred":[
         "Daerah Stockholm"
@@ -177,6 +195,9 @@
     ],
     "name:krl_x_preferred":[
         "Tukholma"
+    ],
+    "name:kur_x_preferred":[
+        "Stockholm"
     ],
     "name:lat_x_preferred":[
         "Holmiae Comitatus"
@@ -216,6 +237,9 @@
     ],
     "name:oci_x_preferred":[
         "Comtat d'Estoc\u00f2lme"
+    ],
+    "name:oss_x_preferred":[
+        "\u0421\u0442\u043e\u043a\u0433\u043e\u043b\u044c\u043c"
     ],
     "name:pol_x_preferred":[
         "Sztokholm"
@@ -265,6 +289,9 @@
     ],
     "name:tel_x_preferred":[
         "\u0c38\u0c4d\u0c1f\u0c3e\u0c15\u0c4d\u200c\u0c39\u0c4b\u0c2e\u0c4d \u0c15\u0c4c\u0c02\u0c1f\u0c40"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0421\u0442\u043e\u043a\u04b3\u043e\u043b\u043c"
     ],
     "name:tgl_x_preferred":[
         "Lalawigan ng Estokolmo"
@@ -404,7 +431,7 @@
         "wd:id":"Q104231"
     },
     "wof:country":"SE",
-    "wof:geomhash":"42fd425933bb6915aec2352fce12a02f",
+    "wof:geomhash":"786f7e2845b1b357ed663427d38293a1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -420,7 +447,7 @@
         "swe",
         "fin"
     ],
-    "wof:lastmodified":1684351672,
+    "wof:lastmodified":1690862990,
     "wof:name":"Stockholm",
     "wof:parent_id":85633789,
     "wof:placetype":"region",

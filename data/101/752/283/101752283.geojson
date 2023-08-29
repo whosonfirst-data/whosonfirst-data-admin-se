@@ -75,6 +75,9 @@
     "name:che_x_preferred":[
         "\u041c\u0430\u043b\u044c\u043c\u0451"
     ],
+    "name:chv_x_preferred":[
+        "\u041c\u0430\u043b\u044c\u043c\u0451"
+    ],
     "name:cor_x_preferred":[
         "Malm\u00f6"
     ],
@@ -131,7 +134,13 @@
     "name:fit_x_preferred":[
         "Malm\u00f6"
     ],
+    "name:fit_x_variant":[
+        "Malm\u00f6\u00f6"
+    ],
     "name:fra_x_preferred":[
+        "Malm\u00f6"
+    ],
+    "name:frp_x_preferred":[
         "Malm\u00f6"
     ],
     "name:frr_x_preferred":[
@@ -154,6 +163,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0abe\u0ab2\u0acd\u0aae\u0acb"
+    ],
+    "name:hau_x_preferred":[
+        "Malm\u00f6"
     ],
     "name:heb_x_preferred":[
         "\u05de\u05d0\u05dc\u05de\u05d4"
@@ -221,6 +233,9 @@
     "name:kor_x_preferred":[
         "\ub9d0\ubafc"
     ],
+    "name:kur_x_preferred":[
+        "Malm\u00f6"
+    ],
     "name:lat_x_preferred":[
         "Malmogia"
     ],
@@ -233,11 +248,17 @@
     "name:lit_x_preferred":[
         "Malm\u0117"
     ],
+    "name:lld_x_preferred":[
+        "Malm\u00f6"
+    ],
     "name:lmo_x_preferred":[
         "Malm\u00f6"
     ],
     "name:ltz_x_preferred":[
         "Malm\u00f6"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d2e\u0d3e\u0d7d\u0d2e\u0d4b"
     ],
     "name:mar_x_preferred":[
         "\u092e\u093e\u0932\u094d\u092e"
@@ -256,6 +277,9 @@
     ],
     "name:msa_x_preferred":[
         "Malmo"
+    ],
+    "name:myv_x_preferred":[
+        "\u041c\u0430\u043b\u044c\u043c\u0451"
     ],
     "name:nan_x_preferred":[
         "Malm\u00f6"
@@ -323,6 +347,12 @@
         "Malm\u00f6"
     ],
     "name:sme_x_preferred":[
+        "Malm\u00f6"
+    ],
+    "name:smn_x_preferred":[
+        "Malm\u00f6"
+    ],
+    "name:sms_x_preferred":[
         "Malm\u00f6"
     ],
     "name:sna_x_preferred":[
@@ -404,6 +434,9 @@
     ],
     "name:war_x_preferred":[
         "Malm\u00f6"
+    ],
+    "name:wuu_x_preferred":[
+        "\u9a6c\u5c14\u9ed8"
     ],
     "name:yid_x_preferred":[
         "\u05de\u05d0\u05dc\u05de\u05e2"
@@ -533,11 +566,11 @@
     "wd:longitude":13.0,
     "wd:wordcount":5483,
     "wof:belongsto":[
+        85688377,
         102191581,
-        85633789,
-        1159303367,
         1159305753,
-        85688377
+        85633789,
+        1159303367
     ],
     "wof:breaches":[],
     "wof:capital_of":[
@@ -577,7 +610,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1607462742,
+    "wof:lastmodified":1690863007,
     "wof:name":"Malm\u00f6",
     "wof:parent_id":1159305753,
     "wof:placetype":"locality",
