@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006203,
-    "geom:area_square_m":39091498.766985,
+    "geom:area_square_m":39091498.766989,
     "geom:bbox":"16.3503671345,59.3199019659,16.5201630782,59.3954499688",
     "geom:latitude":59.358999,
     "geom:longitude":16.443585,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":27640,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.357292,
     "lbl:longitude":16.456441,
     "lbl:max_zoom":14.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132119,
-        "qs_pg:id":757948
+        "qs_pg:id":757948,
+        "se-lant:code":"212110"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497052305,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"bc7a1ad972180647a4634fb6336dcd45",
+    "wof:geomhash":"ec95073e5085785ec060756cd7349f91",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125421363,
-    "wof:lastmodified":1582340814,
+    "wof:lastmodified":1695879496,
     "wof:name":"Eskilstuna Fors",
     "wof:parent_id":1159303207,
     "wof:placetype":"localadmin",

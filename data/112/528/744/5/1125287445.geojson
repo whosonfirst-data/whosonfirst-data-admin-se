@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003384,
-    "geom:area_square_m":22505599.567234,
+    "geom:area_square_m":22505599.567229,
     "geom:bbox":"18.2410772244,57.4346050395,18.3341375228,57.4969433445",
     "geom:latitude":57.467916,
     "geom:longitude":18.287478,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":202,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.468569,
     "lbl:longitude":18.286788,
     "lbl:max_zoom":17.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132529,
-        "qs_pg:id":758197
+        "qs_pg:id":758197,
+        "se-lant:code":"106040"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497042771,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"f863ff22830bede28e0236a6ae91e7c7",
+    "wof:geomhash":"9f717c0c07ef5fba34ee03602ecd255c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125287445,
-    "wof:lastmodified":1582340797,
+    "wof:lastmodified":1695879485,
     "wof:name":"Masterby",
     "wof:parent_id":1159303535,
     "wof:placetype":"localadmin",

@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00828,
-    "geom:area_square_m":52241971.616018,
+    "geom:area_square_m":52241971.616016,
     "geom:bbox":"16.1778315766,59.2589360805,16.3167410249,59.3651162844",
     "geom:latitude":59.3174,
     "geom:longitude":16.251383,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.324641,
     "lbl:longitude":16.251414,
     "lbl:max_zoom":18.0,
@@ -60,9 +69,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"212083"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734150,
-    "wof:geomhash":"05951aa39f8ea3ac6904d31a49293a12",
+    "wof:geomhash":"cd02542ded742af74025a0a7442c2319",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,7 +86,7 @@
         }
     ],
     "wof:id":1159306835,
-    "wof:lastmodified":1566643318,
+    "wof:lastmodified":1695879422,
     "wof:name":"Lista",
     "wof:parent_id":1159303207,
     "wof:placetype":"localadmin",

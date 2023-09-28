@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002135,
-    "geom:area_square_m":14183461.716064,
+    "geom:area_square_m":14183461.716061,
     "geom:bbox":"18.4583051632,57.4807818323,18.5597570363,57.5343972001",
     "geom:latitude":57.508848,
     "geom:longitude":18.506097,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.519483,
     "lbl:longitude":18.522896,
     "lbl:max_zoom":18.0,
@@ -54,9 +63,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"106049"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734184,
-    "wof:geomhash":"8b09759df930cf1dddebfe06c246d3a3",
+    "wof:geomhash":"cdbb0d7ce6eefe4f709a46df33212e41",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,7 +80,7 @@
         }
     ],
     "wof:id":1159306939,
-    "wof:lastmodified":1566643212,
+    "wof:lastmodified":1695879402,
     "wof:name":"Halla",
     "wof:parent_id":1159303535,
     "wof:placetype":"localadmin",

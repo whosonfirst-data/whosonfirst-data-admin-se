@@ -10,6 +10,15 @@
     "geom:latitude":58.547825,
     "geom:longitude":13.011807,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.545207,
     "lbl:longitude":13.006688,
     "lbl:max_zoom":18.0,
@@ -48,9 +57,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107401"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734298,
-    "wof:geomhash":"096bbe6d7f72415e6c20220094d30703",
+    "wof:geomhash":"2a6f2fb8eac38091f9c1352500c9d75e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +74,7 @@
         }
     ],
     "wof:id":1159307389,
-    "wof:lastmodified":1566643170,
+    "wof:lastmodified":1695879393,
     "wof:name":"Skalunda",
     "wof:parent_id":1159303281,
     "wof:placetype":"localadmin",

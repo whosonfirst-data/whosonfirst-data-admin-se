@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007309,
-    "geom:area_square_m":47645939.680761,
+    "geom:area_square_m":47645939.680758,
     "geom:bbox":"12.6877859061,58.1442069635,12.8980118962,58.2219046488",
     "geom:latitude":58.182657,
     "geom:longitude":12.779263,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":2959,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.181896,
     "lbl:longitude":12.779294,
     "lbl:max_zoom":15.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8133212,
-        "qs_pg:id":109597
+        "qs_pg:id":109597,
+        "se-lant:code":"107249"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497047590,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"37fd82150f0609d422a0a5f1849e6e09",
+    "wof:geomhash":"e66bf5f599a4bde9facf9137ace9f12c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125373825,
-    "wof:lastmodified":1582340827,
+    "wof:lastmodified":1695879506,
     "wof:name":"Essunga",
     "wof:parent_id":1159303499,
     "wof:placetype":"localadmin",

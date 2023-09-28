@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023535,
-    "geom:area_square_m":161946268.396049,
+    "geom:area_square_m":161946268.396043,
     "geom:bbox":"13.265114,56.094879,13.468465,56.269304",
     "geom:latitude":56.187128,
     "geom:longitude":13.374704,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":6972,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.193943,
     "lbl:longitude":13.37664,
     "lbl:max_zoom":15.0,
@@ -94,14 +103,16 @@
     "wof:belongsto":[
         102191581,
         85633789,
-        1159303201,
-        85688377
+        85688377,
+        1159303201
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132197,
-        "qs_pg:id":1042425
+        "qs_pg:id":1042425,
+        "se-lant:code":"101327"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:coterminous":[
         1159303201
     ],
@@ -110,7 +121,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"1fe7a97e4648daa5c2ef47212fb8ef3f",
+    "wof:geomhash":"2a7b242faf9eb961a9ab98784f51758d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -121,7 +132,7 @@
         }
     ],
     "wof:id":1125394683,
-    "wof:lastmodified":1608048413,
+    "wof:lastmodified":1695879558,
     "wof:name":"Perstorp",
     "wof:parent_id":1159303201,
     "wof:placetype":"localadmin",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004064,
-    "geom:area_square_m":26918181.212647,
+    "geom:area_square_m":26918181.212645,
     "geom:bbox":"18.6005122607,57.5774980115,18.7263440993,57.6354663252",
     "geom:latitude":57.613382,
     "geom:longitude":18.65906,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":267,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.608398,
     "lbl:longitude":18.65476,
     "lbl:max_zoom":17.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132540,
-        "qs_pg:id":758206
+        "qs_pg:id":758206,
+        "se-lant:code":"106074"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497044784,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"d7d040646a9d5d230529415e44c3c330",
+    "wof:geomhash":"fc44a985100932698ec71d2b63ffb036",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125325479,
-    "wof:lastmodified":1582340774,
+    "wof:lastmodified":1695879465,
     "wof:name":"Vallstena",
     "wof:parent_id":1159303535,
     "wof:placetype":"localadmin",

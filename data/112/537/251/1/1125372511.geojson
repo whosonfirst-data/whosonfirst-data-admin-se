@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009599,
-    "geom:area_square_m":64368946.649778,
+    "geom:area_square_m":64368946.649785,
     "geom:bbox":"12.10943657,57.1251440348,12.3582112239,57.2014798819",
     "geom:latitude":57.158301,
     "geom:longitude":12.240915,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":3255,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.156428,
     "lbl:longitude":12.292642,
     "lbl:max_zoom":15.0,
@@ -136,14 +145,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131651,
-        "qs_pg:id":109311
+        "qs_pg:id":109311,
+        "se-lant:code":"104057"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497047503,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"a8d4c6d63f49737d2067d90c40aee237",
+    "wof:geomhash":"51efccd60eefaf3db07075a20e638c37",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -154,7 +165,7 @@
         }
     ],
     "wof:id":1125372511,
-    "wof:lastmodified":1582340825,
+    "wof:lastmodified":1695879504,
     "wof:name":"Lindberg",
     "wof:parent_id":1159302939,
     "wof:placetype":"localadmin",

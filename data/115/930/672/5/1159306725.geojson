@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008327,
-    "geom:area_square_m":56046551.40606,
+    "geom:area_square_m":56046551.406062,
     "geom:bbox":"14.7178780624,56.9635701762,14.8431088288,57.0827752712",
     "geom:latitude":57.020734,
     "geom:longitude":14.787288,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.014355,
     "lbl:longitude":14.791533,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"105106"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734119,
-    "wof:geomhash":"6a35ea047e93c062fea45baf5699290d",
+    "wof:geomhash":"0b7dfb0138f11bda4e9e5b9b61bd4132",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306725,
-    "wof:lastmodified":1566643175,
+    "wof:lastmodified":1695879394,
     "wof:name":"Tjureda",
     "wof:parent_id":1159302917,
     "wof:placetype":"localadmin",

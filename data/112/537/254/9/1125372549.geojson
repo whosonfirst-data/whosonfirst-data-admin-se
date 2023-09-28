@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018124,
-    "geom:area_square_m":114560206.152803,
+    "geom:area_square_m":114560206.152804,
     "geom:bbox":"14.3064359468,59.2013204866,14.615094485,59.3181855928",
     "geom:latitude":59.25748,
     "geom:longitude":14.443378,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":9839,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.255202,
     "lbl:longitude":14.428168,
     "lbl:max_zoom":15.0,
@@ -115,14 +124,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131840,
-        "qs_pg:id":109335
+        "qs_pg:id":109335,
+        "se-lant:code":"213015"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497047506,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"e6d5ece0f814399204190e7cc7315032",
+    "wof:geomhash":"0f4fcb7b5a205a21b0f9262146c7e2bd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -133,7 +144,7 @@
         }
     ],
     "wof:id":1125372549,
-    "wof:lastmodified":1582340832,
+    "wof:lastmodified":1695879509,
     "wof:name":"Degerfors",
     "wof:parent_id":1159302977,
     "wof:placetype":"localadmin",

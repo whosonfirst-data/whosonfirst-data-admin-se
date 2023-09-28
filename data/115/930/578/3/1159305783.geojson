@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024349,
-    "geom:area_square_m":154405178.957844,
+    "geom:area_square_m":154405178.957848,
     "geom:bbox":"16.9837139911,59.0684605627,17.3076402142,59.2052382421",
     "geom:latitude":59.146287,
     "geom:longitude":17.14393,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.14351,
     "lbl:longitude":17.159958,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"212054"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733868,
-    "wof:geomhash":"42877cb4864055cecc483e5f27d6f695",
+    "wof:geomhash":"8a924fed8e5f59fd8076691755a10cdb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159305783,
-    "wof:lastmodified":1566643359,
+    "wof:lastmodified":1695879430,
     "wof:name":"Gasinge-Dillnas",
     "wof:parent_id":1159302949,
     "wof:placetype":"localadmin",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.068227,
-    "geom:area_square_m":402316570.902866,
+    "geom:area_square_m":402316570.902863,
     "geom:bbox":"16.03773105,61.4305964906,16.6480045066,61.6404034836",
     "geom:latitude":61.518212,
     "geom:longitude":16.41212,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":4349,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":61.517867,
     "lbl:longitude":16.416727,
     "lbl:max_zoom":15.0,
@@ -61,14 +70,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132338,
-        "qs_pg:id":758063
+        "qs_pg:id":758063,
+        "se-lant:code":"318019"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497045632,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"f6e5051571298bbca1ea33f3fe1869fd",
+    "wof:geomhash":"f6f8197a717111b825fb26e1c0c0d77f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +90,7 @@
         }
     ],
     "wof:id":1125340557,
-    "wof:lastmodified":1582340733,
+    "wof:lastmodified":1695879436,
     "wof:name":"Arbra",
     "wof:parent_id":1159303465,
     "wof:placetype":"localadmin",

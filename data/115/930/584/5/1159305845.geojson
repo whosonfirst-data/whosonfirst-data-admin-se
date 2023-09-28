@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003735,
-    "geom:area_square_m":23414067.501157,
+    "geom:area_square_m":23414067.501162,
     "geom:bbox":"17.3291441014,59.5073975143,17.4648175917,59.5708270296",
     "geom:latitude":59.540906,
     "geom:longitude":17.399022,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.539577,
     "lbl:longitude":17.397985,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"215055"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733883,
-    "wof:geomhash":"b19664b865057008fea66063ba8889ef",
+    "wof:geomhash":"cdf077665cbbc49b825c860ef8cf6acc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159305845,
-    "wof:lastmodified":1566643373,
+    "wof:lastmodified":1695879431,
     "wof:name":"Hacksta",
     "wof:parent_id":1159303337,
     "wof:placetype":"localadmin",

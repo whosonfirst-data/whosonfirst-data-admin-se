@@ -10,6 +10,15 @@
     "geom:latitude":58.368399,
     "geom:longitude":14.793427,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.366145,
     "lbl:longitude":14.792752,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"108061"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734106,
-    "wof:geomhash":"f7acbdc88a78aebb388b3926a7a06e41",
+    "wof:geomhash":"53007f1aa55ad3748caf5d04cf7a46fc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306667,
-    "wof:lastmodified":1566643222,
+    "wof:lastmodified":1695879404,
     "wof:name":"Kallstad",
     "wof:parent_id":1159303411,
     "wof:placetype":"localadmin",

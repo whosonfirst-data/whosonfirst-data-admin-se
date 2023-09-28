@@ -10,6 +10,15 @@
     "geom:latitude":58.204798,
     "geom:longitude":12.702599,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.201457,
     "lbl:longitude":12.693182,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107246"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734007,
-    "wof:geomhash":"545913e5a628ca7925237c92ccd48648",
+    "wof:geomhash":"bfceca5b59555792aaf7cae02cc9f31b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306341,
-    "wof:lastmodified":1566643200,
+    "wof:lastmodified":1695879400,
     "wof:name":"Bareberg",
     "wof:parent_id":1159303499,
     "wof:placetype":"localadmin",

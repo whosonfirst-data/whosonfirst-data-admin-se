@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001666,
-    "geom:area_square_m":11474243.282966,
+    "geom:area_square_m":11474243.282974,
     "geom:bbox":"14.7060434306,56.1420816696,14.7675393906,56.1830468726",
     "geom:latitude":56.159932,
     "geom:longitude":14.738038,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.15986,
     "lbl:longitude":14.741122,
     "lbl:max_zoom":18.0,
@@ -51,9 +60,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"102009"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733937,
-    "wof:geomhash":"bae19938db8f6663bbe7194be541b393",
+    "wof:geomhash":"73fa16d05d700415eb984b5861a2367f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -64,7 +77,7 @@
         }
     ],
     "wof:id":1159306057,
-    "wof:lastmodified":1566643203,
+    "wof:lastmodified":1695879401,
     "wof:name":"Elleholm",
     "wof:parent_id":1159302985,
     "wof:placetype":"localadmin",

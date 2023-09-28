@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007785,
-    "geom:area_square_m":48735992.48436,
+    "geom:area_square_m":48735992.484357,
     "geom:bbox":"16.631185336,59.53184138,16.7679245068,59.6247287262",
     "geom:latitude":59.584542,
     "geom:longitude":16.692643,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.584205,
     "lbl:longitude":16.680336,
     "lbl:max_zoom":18.0,
@@ -60,9 +69,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"214029"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734276,
-    "wof:geomhash":"a2db9d87da4ce61ad035f1a6cfc331f1",
+    "wof:geomhash":"aa45b906fdb7cfb0b389539bea3548ab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,7 +86,7 @@
         }
     ],
     "wof:id":1159307301,
-    "wof:lastmodified":1566643149,
+    "wof:lastmodified":1695879390,
     "wof:name":"Irsta",
     "wof:parent_id":1159303331,
     "wof:placetype":"localadmin",

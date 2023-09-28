@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003551,
-    "geom:area_square_m":23061255.73347,
+    "geom:area_square_m":23061255.733467,
     "geom:bbox":"13.046251165,58.2956207697,13.1779929001,58.3441710153",
     "geom:latitude":58.319431,
     "geom:longitude":13.106731,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.318752,
     "lbl:longitude":13.107744,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107302"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734094,
-    "wof:geomhash":"52edbf1a40f59f1c87c3ab1ba144e7e8",
+    "wof:geomhash":"cc415837e1400226b4120eac2c3317c7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306599,
-    "wof:lastmodified":1566643220,
+    "wof:lastmodified":1695879403,
     "wof:name":"Jung",
     "wof:parent_id":1159303487,
     "wof:placetype":"localadmin",

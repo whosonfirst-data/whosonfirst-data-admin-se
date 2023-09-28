@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008721,
-    "geom:area_square_m":59212589.519981,
+    "geom:area_square_m":59212589.51998,
     "geom:bbox":"16.607479952,56.6570392107,16.7744969705,56.7458281263",
     "geom:latitude":56.697553,
     "geom:longitude":16.688423,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.698044,
     "lbl:longitude":16.695396,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"103019"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734212,
-    "wof:geomhash":"432b3ad19c349f1517ca0dbeee8db5a2",
+    "wof:geomhash":"84e66366b5b6bcfeead65b008890a922",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307053,
-    "wof:lastmodified":1566643266,
+    "wof:lastmodified":1695879411,
     "wof:name":"Runsten",
     "wof:parent_id":1159303363,
     "wof:placetype":"localadmin",

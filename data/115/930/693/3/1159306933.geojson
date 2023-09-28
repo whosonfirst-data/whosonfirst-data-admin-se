@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017884,
-    "geom:area_square_m":114399097.10595,
+    "geom:area_square_m":114399097.105955,
     "geom:bbox":"11.9951097689,58.7722434829,12.3015404403,58.9061573003",
     "geom:latitude":58.84782,
     "geom:longitude":12.143388,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.868686,
     "lbl:longitude":12.153814,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"110025"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734181,
-    "wof:geomhash":"58f210dc7229b6dfb191ea22548a2afb",
+    "wof:geomhash":"befc1d147e02f4963541811367af43c5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306933,
-    "wof:lastmodified":1566643213,
+    "wof:lastmodified":1695879402,
     "wof:name":"Odskolt",
     "wof:parent_id":1159303359,
     "wof:placetype":"localadmin",

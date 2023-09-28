@@ -10,6 +10,15 @@
     "geom:latitude":56.028694,
     "geom:longitude":12.895164,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.032946,
     "lbl:longitude":12.89227,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101288"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733981,
-    "wof:geomhash":"1e5c87f8de280df3f76fd117ffaaf392",
+    "wof:geomhash":"4c2a8936f340912d959ca9d329bcd52e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306239,
-    "wof:lastmodified":1566643308,
+    "wof:lastmodified":1695879419,
     "wof:name":"Hasslunda",
     "wof:parent_id":1159302965,
     "wof:placetype":"localadmin",

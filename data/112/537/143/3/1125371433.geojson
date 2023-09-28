@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006874,
-    "geom:area_square_m":44703522.453692,
+    "geom:area_square_m":44703522.453702,
     "geom:bbox":"11.6689303255,58.2149578308,11.7771025587,58.3088890922",
     "geom:latitude":58.267531,
     "geom:longitude":11.721767,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":1588,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.274811,
     "lbl:longitude":11.73361,
     "lbl:max_zoom":16.0,
@@ -82,14 +91,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8133363,
-        "qs_pg:id":758646
+        "qs_pg:id":758646,
+        "se-lant:code":"109047"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497047422,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"320477d16202e8f5615c9f2b9021603d",
+    "wof:geomhash":"47463be115e97d61e6813f379ea2bc76",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -100,7 +111,7 @@
         }
     ],
     "wof:id":1125371433,
-    "wof:lastmodified":1582340826,
+    "wof:lastmodified":1695879505,
     "wof:name":"Torp",
     "wof:parent_id":1159302943,
     "wof:placetype":"localadmin",

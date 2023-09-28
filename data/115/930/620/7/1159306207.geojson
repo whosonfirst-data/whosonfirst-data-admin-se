@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016962,
-    "geom:area_square_m":107886573.668411,
+    "geom:area_square_m":107886573.668431,
     "geom:bbox":"17.0295345202,58.9691585893,17.2221681163,59.1154132392",
     "geom:latitude":59.043182,
     "geom:longitude":17.127594,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.042262,
     "lbl:longitude":17.127589,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"212041"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733973,
-    "wof:geomhash":"b4c49277269fac3d3f02fcc0af99506f",
+    "wof:geomhash":"923a0c3aa04322f3ef36824e1940b018",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306207,
-    "wof:lastmodified":1566643195,
+    "wof:lastmodified":1695879399,
     "wof:name":"Bjornlunda",
     "wof:parent_id":1159302949,
     "wof:placetype":"localadmin",

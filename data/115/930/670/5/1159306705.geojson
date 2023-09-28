@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004289,
-    "geom:area_square_m":28091650.038207,
+    "geom:area_square_m":28091650.03821,
     "geom:bbox":"13.8437608254,57.9798187413,13.962685842,58.0509532642",
     "geom:latitude":58.018567,
     "geom:longitude":13.899072,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.020988,
     "lbl:longitude":13.895004,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107195"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734115,
-    "wof:geomhash":"58a19ecdea136daad128b753932b1ff1",
+    "wof:geomhash":"19f32fbdb802fcb17d59adaf5ab35abc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306705,
-    "wof:lastmodified":1566643316,
+    "wof:lastmodified":1695879421,
     "wof:name":"Utvangstorp",
     "wof:parent_id":1159303051,
     "wof:placetype":"localadmin",

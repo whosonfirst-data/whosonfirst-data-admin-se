@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":20904,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.290164,
     "lbl:longitude":12.247747,
     "lbl:max_zoom":14.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132096,
-        "qs_pg:id":109372
+        "qs_pg:id":109372,
+        "se-lant:code":"107281"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497047512,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"4cf68ba9dd050aff5b745dfef4e84302",
+    "wof:geomhash":"967bcfa45e3dd6b8bf1713d7a09ab8c9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125372629,
-    "wof:lastmodified":1582340832,
+    "wof:lastmodified":1695879509,
     "wof:name":"Trollhattan",
     "wof:parent_id":1159303541,
     "wof:placetype":"localadmin",

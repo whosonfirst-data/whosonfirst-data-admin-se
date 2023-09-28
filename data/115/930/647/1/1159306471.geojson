@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004027,
-    "geom:area_square_m":27034611.990587,
+    "geom:area_square_m":27034611.990585,
     "geom:bbox":"14.9082475824,57.0850589846,15.0222242248,57.1421807061",
     "geom:latitude":57.115316,
     "geom:longitude":14.967288,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.115992,
     "lbl:longitude":14.966205,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"105140"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734052,
-    "wof:geomhash":"c2180272e8b1299c4e357c5a68dbc81b",
+    "wof:geomhash":"a8e288c7d971439cb57152bfd4c3b884",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306471,
-    "wof:lastmodified":1566643305,
+    "wof:lastmodified":1695879418,
     "wof:name":"Hornaryd",
     "wof:parent_id":1159302917,
     "wof:placetype":"localadmin",

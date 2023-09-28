@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002303,
-    "geom:area_square_m":15109356.919823,
+    "geom:area_square_m":15109356.919822,
     "geom:bbox":"13.4487827922,57.9281905065,13.5920775441,57.9739892638",
     "geom:latitude":57.950284,
     "geom:longitude":13.529593,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.949331,
     "lbl:longitude":13.534516,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107159"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734177,
-    "wof:geomhash":"9ab3e9d73c70243cf54973efc9677851",
+    "wof:geomhash":"9dd5f7daca9721b12083a996e2226edb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306919,
-    "wof:lastmodified":1566643336,
+    "wof:lastmodified":1695879425,
     "wof:name":"Humla",
     "wof:parent_id":1159303161,
     "wof:placetype":"localadmin",

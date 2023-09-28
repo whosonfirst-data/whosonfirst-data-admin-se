@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009276,
-    "geom:area_square_m":58298857.771759,
+    "geom:area_square_m":58298857.771764,
     "geom:bbox":"17.824295,59.395114,18.010825,59.49744",
     "geom:latitude":59.45092,
     "geom:longitude":17.930919,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":62097,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.449887,
     "lbl:longitude":17.945007,
     "lbl:max_zoom":14.0,
@@ -61,14 +70,16 @@
     "wof:belongsto":[
         102191581,
         85633789,
-        1159303003,
-        85688429
+        85688429,
+        1159303003
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8133086,
-        "qs_pg:id":1042469
+        "qs_pg:id":1042469,
+        "se-lant:code":"215043"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:coterminous":[
         1159303003
     ],
@@ -77,7 +88,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"d43269674ae57b9794430f741a814828",
+    "wof:geomhash":"009f965174c00b281a22ce9ae26f1661",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +99,7 @@
         }
     ],
     "wof:id":1125394701,
-    "wof:lastmodified":1608048409,
+    "wof:lastmodified":1695879557,
     "wof:name":"Sollentuna",
     "wof:parent_id":1159303003,
     "wof:placetype":"localadmin",

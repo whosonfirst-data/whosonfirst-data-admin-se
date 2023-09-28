@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.078847,
-    "geom:area_square_m":439127275.771893,
+    "geom:area_square_m":439127275.771897,
     "geom:bbox":"16.4422909718,63.1031005039,17.0219603482,63.3758793471",
     "geom:latitude":63.230121,
     "geom:longitude":16.757001,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":839,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":63.254072,
     "lbl:longitude":16.757087,
     "lbl:max_zoom":17.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8133044,
-        "qs_pg:id":109556
+        "qs_pg:id":109556,
+        "se-lant:code":"321026"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497052673,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"4aa1ee75e28b36a19671c0c4b28b32ce",
+    "wof:geomhash":"14c30a895a60e57b857899dcded9e227",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125423323,
-    "wof:lastmodified":1582340814,
+    "wof:lastmodified":1695879496,
     "wof:name":"Helgum",
     "wof:parent_id":1159303381,
     "wof:placetype":"localadmin",

@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005345,
-    "geom:area_square_m":36243415.22825,
+    "geom:area_square_m":36243415.228256,
     "geom:bbox":"16.6300846308,56.7127507434,16.797049825,56.7675330277",
     "geom:latitude":56.741863,
     "geom:longitude":16.720774,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.739001,
     "lbl:longitude":16.742915,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"103020"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733907,
-    "wof:geomhash":"6ebcc6509eb2b50134397fc662acc4bf",
+    "wof:geomhash":"55d8fd2d6276893cd013b94f6eb69e0c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159305925,
-    "wof:lastmodified":1566643158,
+    "wof:lastmodified":1695879392,
     "wof:name":"Langlot",
     "wof:parent_id":1159303363,
     "wof:placetype":"localadmin",

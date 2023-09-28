@@ -10,6 +10,15 @@
     "geom:latitude":57.293442,
     "geom:longitude":18.535037,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.292963,
     "lbl:longitude":18.535023,
     "lbl:max_zoom":18.0,
@@ -93,9 +102,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"106026"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734054,
-    "wof:geomhash":"969499daa04600cb9181f97010c32b20",
+    "wof:geomhash":"3c36192ba03dbf885e028d575ae50bbb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -106,7 +119,7 @@
         }
     ],
     "wof:id":1159306473,
-    "wof:lastmodified":1566643305,
+    "wof:lastmodified":1695879418,
     "wof:name":"Lye",
     "wof:parent_id":1159303535,
     "wof:placetype":"localadmin",

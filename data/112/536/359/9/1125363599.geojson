@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019557,
-    "geom:area_square_m":129465231.398059,
+    "geom:area_square_m":129465231.398002,
     "geom:bbox":"14.618441123,57.5246865815,14.8668439067,57.7368645044",
     "geom:latitude":57.630685,
     "geom:longitude":14.722047,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":17898,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.654076,
     "lbl:longitude":14.69956,
     "lbl:max_zoom":15.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131613,
-        "qs_pg:id":1245963
+        "qs_pg:id":1245963,
+        "se-lant:code":"105221"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497046947,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"61d9367396143cb724068bff4585a63f",
+    "wof:geomhash":"45395919507d1cd0199e38a4d66c9732",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125363599,
-    "wof:lastmodified":1582340860,
+    "wof:lastmodified":1695879529,
     "wof:name":"Nassjo",
     "wof:parent_id":1159303537,
     "wof:placetype":"localadmin",

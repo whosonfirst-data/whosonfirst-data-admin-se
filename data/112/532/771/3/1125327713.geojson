@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016336,
-    "geom:area_square_m":107650403.790446,
+    "geom:area_square_m":107650403.79044,
     "geom:bbox":"16.3472738746,57.7373857411,16.6033640417,57.8579189528",
     "geom:latitude":57.796844,
     "geom:longitude":16.469858,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":662,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.800831,
     "lbl:longitude":16.467948,
     "lbl:max_zoom":17.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131996,
-        "qs_pg:id":109358
+        "qs_pg:id":109358,
+        "se-lant:code":"105264"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497044917,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"55d717f1c3a3b50146407bc47adef6e2",
+    "wof:geomhash":"f9b4bf3e610df1cebe8fc880daf0994f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125327713,
-    "wof:lastmodified":1582340763,
+    "wof:lastmodified":1695879457,
     "wof:name":"Tornsfall",
     "wof:parent_id":1159303209,
     "wof:placetype":"localadmin",

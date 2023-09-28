@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015699,
-    "geom:area_square_m":97233797.85132,
+    "geom:area_square_m":97233797.851316,
     "geom:bbox":"17.0798557871,59.8634984515,17.2896079482,60.0088765023",
     "geom:latitude":59.941065,
     "geom:longitude":17.181954,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.940771,
     "lbl:longitude":17.189157,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"215150"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733959,
-    "wof:geomhash":"c4bc8e1c57e1210f14ecb473c541dd72",
+    "wof:geomhash":"4ae0a679929d246bb04f64ccf2265736",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306147,
-    "wof:lastmodified":1566643297,
+    "wof:lastmodified":1695879417,
     "wof:name":"Jarlasa",
     "wof:parent_id":1159303253,
     "wof:placetype":"localadmin",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005375,
-    "geom:area_square_m":35651621.772117,
+    "geom:area_square_m":35651621.77212,
     "geom:bbox":"12.7342254385,57.5261373112,12.8688726147,57.5910648081",
     "geom:latitude":57.557087,
     "geom:longitude":12.802975,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":2538,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.559305,
     "lbl:longitude":12.803007,
     "lbl:max_zoom":15.0,
@@ -79,14 +88,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8133231,
-        "qs_pg:id":758565
+        "qs_pg:id":758565,
+        "se-lant:code":"107044"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497046627,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"0cd54c17352ead24633da8a71cca473a",
+    "wof:geomhash":"1d8b4807b70299c847b20d6033f0ed3d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -97,7 +108,7 @@
         }
     ],
     "wof:id":1125358449,
-    "wof:lastmodified":1582340741,
+    "wof:lastmodified":1695879441,
     "wof:name":"Fritsla",
     "wof:parent_id":1159302961,
     "wof:placetype":"localadmin",

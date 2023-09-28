@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005779,
-    "geom:area_square_m":40352397.881939,
+    "geom:area_square_m":40352397.88194,
     "geom:bbox":"13.435233,55.5713360235,13.5466397312,55.66824964",
     "geom:latitude":55.620364,
     "geom:longitude":13.493332,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":5485,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.617317,
     "lbl:longitude":13.49418,
     "lbl:max_zoom":15.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132208,
-        "qs_pg:id":381352
+        "qs_pg:id":381352,
+        "se-lant:code":"101137"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497048104,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"81df0971b0d9c547706b9621106bd04b",
+    "wof:geomhash":"75d6c3db38155e38aaff66ae8a614af4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125382013,
-    "wof:lastmodified":1582340854,
+    "wof:lastmodified":1695879525,
     "wof:name":"Veberod",
     "wof:parent_id":1159303449,
     "wof:placetype":"localadmin",

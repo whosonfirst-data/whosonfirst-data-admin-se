@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002106,
-    "geom:area_square_m":13626072.271726,
+    "geom:area_square_m":13626072.271725,
     "geom:bbox":"12.8182938527,58.4324552467,12.9159494369,58.4736369136",
     "geom:latitude":58.452851,
     "geom:longitude":12.868504,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.448141,
     "lbl:longitude":12.867764,
     "lbl:max_zoom":18.0,
@@ -51,9 +60,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107367"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733854,
-    "wof:geomhash":"201aa97964b43006fec5b6472f46af9f",
+    "wof:geomhash":"f50bd588f1f327a74137bcf1b3d8c701",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -64,7 +77,7 @@
         }
     ],
     "wof:id":1159305735,
-    "wof:lastmodified":1566643264,
+    "wof:lastmodified":1695879411,
     "wof:name":"Tranum",
     "wof:parent_id":1159303281,
     "wof:placetype":"localadmin",

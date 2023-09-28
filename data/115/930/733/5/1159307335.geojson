@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012455,
-    "geom:area_square_m":77502634.485267,
+    "geom:area_square_m":77502634.485261,
     "geom:bbox":"16.2825738668,59.7297498427,16.5001984563,59.8460522873",
     "geom:latitude":59.784524,
     "geom:longitude":16.411269,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.789134,
     "lbl:longitude":16.421936,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"214049"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734285,
-    "wof:geomhash":"c886cc8e9f115d691d45937875b015b2",
+    "wof:geomhash":"9aa396057f3847a16ad19e26e090ba7e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307335,
-    "wof:lastmodified":1566643269,
+    "wof:lastmodified":1695879412,
     "wof:name":"Haraker",
     "wof:parent_id":1159303331,
     "wof:placetype":"localadmin",

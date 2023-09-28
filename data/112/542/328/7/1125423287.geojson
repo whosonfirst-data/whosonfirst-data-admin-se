@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014885,
-    "geom:area_square_m":91932255.859346,
+    "geom:area_square_m":91932255.859341,
     "geom:bbox":"17.2977690466,59.9680672709,17.5779350833,60.1212316756",
     "geom:latitude":60.034303,
     "geom:longitude":17.43039,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":1182,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":60.006374,
     "lbl:longitude":17.496499,
     "lbl:max_zoom":16.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132911,
-        "qs_pg:id":109520
+        "qs_pg:id":109520,
+        "se-lant:code":"215165"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497052668,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"83b3b2d2195ab1b7baaf121f88b6fcc7",
+    "wof:geomhash":"a2bb41c8f15108037a46e74ec7d2bdb4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125423287,
-    "wof:lastmodified":1582340818,
+    "wof:lastmodified":1695879499,
     "wof:name":"Skuttunge",
     "wof:parent_id":1159303253,
     "wof:placetype":"localadmin",

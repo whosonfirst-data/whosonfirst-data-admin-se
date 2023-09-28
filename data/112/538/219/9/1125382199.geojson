@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.302889,
-    "geom:area_square_m":1797528221.743721,
+    "geom:area_square_m":1797528221.743689,
     "geom:bbox":"14.304037,61.049736,15.09322,61.594684",
     "geom:latitude":61.31814,
     "geom:longitude":14.716205,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":6990,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":61.269726,
     "lbl:longitude":14.71625,
     "lbl:max_zoom":15.0,
@@ -79,14 +88,16 @@
     "wof:belongsto":[
         102191581,
         85633789,
-        1159302941,
-        85688447
+        85688447,
+        1159302941
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132723,
-        "qs_pg:id":381405
+        "qs_pg:id":381405,
+        "se-lant:code":"217048"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:coterminous":[
         1159302941
     ],
@@ -95,7 +106,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"d329145bc7a27a822f97c36a365246c5",
+    "wof:geomhash":"7755df4ff30e6bbad4237b3e8e1611b7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -106,7 +117,7 @@
         }
     ],
     "wof:id":1125382199,
-    "wof:lastmodified":1608048418,
+    "wof:lastmodified":1695879558,
     "wof:name":"Orsa",
     "wof:parent_id":1159302941,
     "wof:placetype":"localadmin",

@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005782,
-    "geom:area_square_m":37575892.475962,
+    "geom:area_square_m":37575886.144669,
     "geom:bbox":"15.88743,58.250222,16.055582,58.346465",
     "geom:latitude":58.29418,
     "geom:longitude":15.963235,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.314387,
     "lbl:longitude":15.929512,
     "lbl:max_zoom":18.0,
@@ -294,9 +303,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"108055"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734081,
-    "wof:geomhash":"635318d4045b5801c2e9936f53d0a442",
+    "wof:geomhash":"0ec38f3a569e003d0ddade1cd9c3788b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -307,7 +320,7 @@
         }
     ],
     "wof:id":1159306571,
-    "wof:lastmodified":1636499897,
+    "wof:lastmodified":1695879559,
     "wof:name":"Varna",
     "wof:parent_id":1159302937,
     "wof:placetype":"localadmin",

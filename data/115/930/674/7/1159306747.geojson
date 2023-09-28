@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01477,
-    "geom:area_square_m":94216520.071745,
+    "geom:area_square_m":94216520.071744,
     "geom:bbox":"17.026492101,58.8754295266,17.2313007239,59.021056035",
     "geom:latitude":58.945117,
     "geom:longitude":17.118054,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.940673,
     "lbl:longitude":17.116476,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"212027"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734124,
-    "wof:geomhash":"0ad033adcc9984ad7deb648f871ca31f",
+    "wof:geomhash":"a62efe4a8d44d3928918734bd6001102",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306747,
-    "wof:lastmodified":1566643190,
+    "wof:lastmodified":1695879398,
     "wof:name":"Ludgo-Spelvik",
     "wof:parent_id":1159303471,
     "wof:placetype":"localadmin",

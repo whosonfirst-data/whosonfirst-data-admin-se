@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004149,
-    "geom:area_square_m":27011252.928926,
+    "geom:area_square_m":27011252.928925,
     "geom:bbox":"12.7894556269,58.1950210655,12.9041857094,58.2614172538",
     "geom:latitude":58.232426,
     "geom:longitude":12.849873,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.233141,
     "lbl:longitude":12.850746,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107250"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734102,
-    "wof:geomhash":"88280076c3ec2978f5487428b587aeca",
+    "wof:geomhash":"a4685bb19578ebee14ad6ff5e89635ff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306647,
-    "wof:lastmodified":1566643323,
+    "wof:lastmodified":1695879423,
     "wof:name":"Sodra Kedum",
     "wof:parent_id":1159303487,
     "wof:placetype":"localadmin",

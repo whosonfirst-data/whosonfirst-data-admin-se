@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00059,
-    "geom:area_square_m":3902294.212417,
+    "geom:area_square_m":3902294.212418,
     "geom:bbox":"11.9096479747,57.6577178235,11.952768334,57.6804433837",
     "geom:latitude":57.668221,
     "geom:longitude":11.927845,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.669654,
     "lbl:longitude":11.923118,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107058"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733828,
-    "wof:geomhash":"8525ce4e0bfe4b76771b1cb79ef39c63",
+    "wof:geomhash":"3e7665dfd8732a00ecb77e9c9c9aad97",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159305629,
-    "wof:lastmodified":1566643288,
+    "wof:lastmodified":1695879415,
     "wof:name":"Hogsbo",
     "wof:parent_id":1159302989,
     "wof:placetype":"localadmin",

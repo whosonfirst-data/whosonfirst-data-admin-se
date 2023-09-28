@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013166,
-    "geom:area_square_m":84061242.2031,
+    "geom:area_square_m":84061242.203099,
     "geom:bbox":"16.4175671145,58.8731483142,16.7361574731,58.9467149024",
     "geom:latitude":58.912829,
     "geom:longitude":16.590256,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":950,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.908839,
     "lbl:longitude":16.548182,
     "lbl:max_zoom":17.0,
@@ -76,14 +85,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132878,
-        "qs_pg:id":758406
+        "qs_pg:id":758406,
+        "se-lant:code":"212022"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497042792,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"65749252827382a98ad319eb3687bbbd",
+    "wof:geomhash":"18b0bd6303f3058a105ad92a880687ed",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,7 +105,7 @@
         }
     ],
     "wof:id":1125287965,
-    "wof:lastmodified":1582340781,
+    "wof:lastmodified":1695879474,
     "wof:name":"Bettna",
     "wof:parent_id":1159302997,
     "wof:placetype":"localadmin",

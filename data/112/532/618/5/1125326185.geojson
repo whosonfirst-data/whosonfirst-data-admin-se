@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006658,
-    "geom:area_square_m":43149588.231741,
+    "geom:area_square_m":43149588.23174,
     "geom:bbox":"12.9191073389,58.3481736328,13.064049353,58.4260193515",
     "geom:latitude":58.391876,
     "geom:longitude":12.988445,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":1435,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.393788,
     "lbl:longitude":12.979846,
     "lbl:max_zoom":16.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8133305,
-        "qs_pg:id":758607
+        "qs_pg:id":758607,
+        "se-lant:code":"107336"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497044828,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"d93f0adef470171a989bdbf59dcc387c",
+    "wof:geomhash":"04c0e1e4037f7bebec0a4103029bbc11",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125326185,
-    "wof:lastmodified":1582340759,
+    "wof:lastmodified":1695879454,
     "wof:name":"Jarpas",
     "wof:parent_id":1159303281,
     "wof:placetype":"localadmin",

@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003391,
-    "geom:area_square_m":23632305.578161,
+    "geom:area_square_m":23632305.578164,
     "geom:bbox":"13.9767847976,55.6680300859,14.0805677542,55.7283149177",
     "geom:latitude":55.697331,
     "geom:longitude":14.034083,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.696483,
     "lbl:longitude":14.034874,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101182"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734120,
-    "wof:geomhash":"8e3e5e1dfda4b1fa3a31b1ac9b3a61aa",
+    "wof:geomhash":"3cd4c609120cb5ac3adeae08b8ccf90c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306729,
-    "wof:lastmodified":1566643174,
+    "wof:lastmodified":1695879394,
     "wof:name":"Eljarod",
     "wof:parent_id":1159302959,
     "wof:placetype":"localadmin",

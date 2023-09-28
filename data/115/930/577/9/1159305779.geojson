@@ -10,6 +10,15 @@
     "geom:latitude":55.963673,
     "geom:longitude":13.251028,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.963991,
     "lbl:longitude":13.250301,
     "lbl:max_zoom":18.0,
@@ -78,9 +87,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101265"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733867,
-    "wof:geomhash":"5f56b30fd109986af597a617959754c6",
+    "wof:geomhash":"ae89269bf17f59e5101c39dee588d602",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +104,7 @@
         }
     ],
     "wof:id":1159305779,
-    "wof:lastmodified":1566643377,
+    "wof:lastmodified":1695879432,
     "wof:name":"Ask",
     "wof:parent_id":1159303189,
     "wof:placetype":"localadmin",

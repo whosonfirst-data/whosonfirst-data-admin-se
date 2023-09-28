@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010265,
-    "geom:area_square_m":66194410.770508,
+    "geom:area_square_m":66194410.770501,
     "geom:bbox":"15.980583277,58.503117603,16.172720382,58.6156062548",
     "geom:latitude":58.564944,
     "geom:longitude":16.078678,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":9560,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.556056,
     "lbl:longitude":16.088126,
     "lbl:max_zoom":15.0,
@@ -148,14 +157,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132394,
-        "qs_pg:id":758115
+        "qs_pg:id":758115,
+        "se-lant:code":"108135"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497046491,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"961af9f00336aed51c7d79e998a51379",
+    "wof:geomhash":"54e704f2b69f8c666c68f55e8fc3cc4b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -166,7 +177,7 @@
         }
     ],
     "wof:id":1125356321,
-    "wof:lastmodified":1582340743,
+    "wof:lastmodified":1695879442,
     "wof:name":"Borg",
     "wof:parent_id":1159303229,
     "wof:placetype":"localadmin",

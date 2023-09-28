@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.082026,
-    "geom:area_square_m":535861785.310322,
+    "geom:area_square_m":535861785.310314,
     "geom:bbox":"19.0301546721,57.8275106164,19.3686921652,58.4187601813",
     "geom:latitude":58.099857,
     "geom:longitude":19.215156,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":548,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.06848,
     "lbl:longitude":19.240803,
     "lbl:max_zoom":17.0,
@@ -130,14 +139,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132512,
-        "qs_pg:id":758189
+        "qs_pg:id":758189,
+        "se-lant:code":"106092"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497051521,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"10e0df7eeea1f53d22d20920a635a5c5",
+    "wof:geomhash":"762e0578608675e05c004d0aad0f0032",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -148,7 +159,7 @@
         }
     ],
     "wof:id":1125416999,
-    "wof:lastmodified":1582340874,
+    "wof:lastmodified":1695879552,
     "wof:name":"Faro",
     "wof:parent_id":1159303535,
     "wof:placetype":"localadmin",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016139,
-    "geom:area_square_m":98598264.803749,
+    "geom:area_square_m":98598264.803738,
     "geom:bbox":"17.1890826301,60.2758963404,17.4371544191,60.4702593002",
     "geom:latitude":60.391823,
     "geom:longitude":17.288462,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":5064,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":60.418616,
     "lbl:longitude":17.311167,
     "lbl:max_zoom":15.0,
@@ -61,14 +70,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131970,
-        "qs_pg:id":757851
+        "qs_pg:id":757851,
+        "se-lant:code":"215198"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497046483,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"02d3507301767aa8b762e8da06f8ad6d",
+    "wof:geomhash":"622490b127985d6941238d5d30011790",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +90,7 @@
         }
     ],
     "wof:id":1125356159,
-    "wof:lastmodified":1582340747,
+    "wof:lastmodified":1695879445,
     "wof:name":"Soderfors",
     "wof:parent_id":1159302963,
     "wof:placetype":"localadmin",

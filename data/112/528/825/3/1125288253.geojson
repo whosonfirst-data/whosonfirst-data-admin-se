@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034493,
-    "geom:area_square_m":215290644.917002,
+    "geom:area_square_m":215290644.917035,
     "geom:bbox":"13.7804154657,59.5537881597,14.1179112791,59.7929972853",
     "geom:latitude":59.684303,
     "geom:longitude":13.958857,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":469,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.672554,
     "lbl:longitude":13.975424,
     "lbl:max_zoom":17.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132967,
-        "qs_pg:id":758466
+        "qs_pg:id":758466,
+        "se-lant:code":"213061"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497042803,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"62d4e737699f174a1a093d207f7f0ee5",
+    "wof:geomhash":"385042066f3b8864d3b281d9146a4a48",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125288253,
-    "wof:lastmodified":1582340793,
+    "wof:lastmodified":1695879482,
     "wof:name":"Brattfors",
     "wof:parent_id":1159303211,
     "wof:placetype":"localadmin",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012443,
-    "geom:area_square_m":82503030.176891,
+    "geom:area_square_m":82503030.176893,
     "geom:bbox":"18.6375267673,57.5220263591,18.8242576389,57.6242300518",
     "geom:latitude":57.573788,
     "geom:longitude":18.746622,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":377,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.573474,
     "lbl:longitude":18.754174,
     "lbl:max_zoom":17.0,
@@ -64,14 +73,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132517,
-        "qs_pg:id":109447
+        "qs_pg:id":109447,
+        "se-lant:code":"106067"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497042388,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"36d1f692f68ef7e83e2daebc76d71e23",
+    "wof:geomhash":"69355e0330296756d5c93a1679933172",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,7 +93,7 @@
         }
     ],
     "wof:id":1125277805,
-    "wof:lastmodified":1582340808,
+    "wof:lastmodified":1695879492,
     "wof:name":"Gothem",
     "wof:parent_id":1159303535,
     "wof:placetype":"localadmin",

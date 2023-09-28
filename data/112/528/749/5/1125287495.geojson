@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.411085,
-    "geom:area_square_m":2296467131.101248,
+    "geom:area_square_m":2296467131.101274,
     "geom:bbox":"12.0241221534,62.9026712766,13.5791710057,63.4357044607",
     "geom:latitude":63.141931,
     "geom:longitude":12.863797,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":3099,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":63.156361,
     "lbl:longitude":13.004261,
     "lbl:max_zoom":15.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132598,
-        "qs_pg:id":758242
+        "qs_pg:id":758242,
+        "se-lant:code":"322022"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497042773,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"e37c0afe5de6b05b1d6a4b1a1ad91ad2",
+    "wof:geomhash":"11f4001d308c23db32f651f729cb01b4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125287495,
-    "wof:lastmodified":1582340788,
+    "wof:lastmodified":1695879478,
     "wof:name":"Undersaker",
     "wof:parent_id":1159303387,
     "wof:placetype":"localadmin",

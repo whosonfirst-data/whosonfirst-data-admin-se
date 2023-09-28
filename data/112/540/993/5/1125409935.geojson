@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002848,
-    "geom:area_square_m":19984538.920006,
+    "geom:area_square_m":19984538.920004,
     "geom:bbox":"13.765578049,55.4140923079,13.9213556052,55.4493979621",
     "geom:latitude":55.431635,
     "geom:longitude":13.836815,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":17796,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.431306,
     "lbl:longitude":13.836832,
     "lbl:max_zoom":15.0,
@@ -193,14 +202,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132217,
-        "qs_pg:id":1155683
+        "qs_pg:id":1155683,
+        "se-lant:code":"101048"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497049925,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"a9e5785841cf644c8512b2cf1e2ff2cd",
+    "wof:geomhash":"933f16a19c4cca7be99ee9f9fd3def58",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -211,7 +222,7 @@
         }
     ],
     "wof:id":1125409935,
-    "wof:lastmodified":1582340867,
+    "wof:lastmodified":1695879534,
     "wof:name":"Ystad",
     "wof:parent_id":1159303233,
     "wof:placetype":"localadmin",

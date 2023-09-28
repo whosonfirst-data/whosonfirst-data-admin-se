@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003893,
-    "geom:area_square_m":23607220.522635,
+    "geom:area_square_m":23607220.522644,
     "geom:bbox":"17.3623554185,60.6014006133,17.4724152193,60.6630497581",
     "geom:latitude":60.634174,
     "geom:longitude":17.408875,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":60.636412,
     "lbl:longitude":17.40886,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"215207"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734067,
-    "wof:geomhash":"0c866738e6292e9ffdb1eaa4ec601c34",
+    "wof:geomhash":"e623ef48fddaf947ac4d6e400c01f265",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306519,
-    "wof:lastmodified":1566643205,
+    "wof:lastmodified":1695879401,
     "wof:name":"Skutskar",
     "wof:parent_id":1159303107,
     "wof:placetype":"localadmin",

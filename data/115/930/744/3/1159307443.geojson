@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019863,
-    "geom:area_square_m":124213829.453352,
+    "geom:area_square_m":124213829.453362,
     "geom:bbox":"15.8365091749,59.5533565436,16.0614303863,59.7130260751",
     "geom:latitude":59.619863,
     "geom:longitude":15.959893,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.610901,
     "lbl:longitude":15.986303,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"214035"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734312,
-    "wof:geomhash":"c402a91c0e0b124d9c58171c61f075b0",
+    "wof:geomhash":"7ae0e97b87ccea48de9dcd38c575e639",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307443,
-    "wof:lastmodified":1566643353,
+    "wof:lastmodified":1695879428,
     "wof:name":"Odensvi",
     "wof:parent_id":1159303439,
     "wof:placetype":"localadmin",

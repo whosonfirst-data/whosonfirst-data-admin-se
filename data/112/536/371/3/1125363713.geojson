@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":1250,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.91388,
     "lbl:longitude":18.451124,
     "lbl:max_zoom":16.0,
@@ -73,14 +82,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8133099,
-        "qs_pg:id":1246043
+        "qs_pg:id":1246043,
+        "se-lant:code":"215159"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497046953,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"5b7217b31ec09559af420b765b58c3c0",
+    "wof:geomhash":"020ed92a49b33dcf05447c4a88c275d8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +102,7 @@
         }
     ],
     "wof:id":1125363713,
-    "wof:lastmodified":1582340860,
+    "wof:lastmodified":1695879530,
     "wof:name":"Edsbro",
     "wof:parent_id":1159302995,
     "wof:placetype":"localadmin",

@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009805,
-    "geom:area_square_m":58336617.583801,
+    "geom:area_square_m":58336617.583805,
     "geom:bbox":"16.7316515787,61.1948371786,16.9318576492,61.2764817044",
     "geom:latitude":61.238199,
     "geom:longitude":16.831957,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":61.238053,
     "lbl:longitude":16.831915,
     "lbl:max_zoom":18.0,
@@ -57,9 +66,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"318008"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734111,
-    "wof:geomhash":"34ec91656e24dfb7f5a116de8b403299",
+    "wof:geomhash":"df08866bf617826032028626b0b652f2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +83,7 @@
         }
     ],
     "wof:id":1159306685,
-    "wof:lastmodified":1566643226,
+    "wof:lastmodified":1695879405,
     "wof:name":"Bergvik",
     "wof:parent_id":1159303385,
     "wof:placetype":"localadmin",

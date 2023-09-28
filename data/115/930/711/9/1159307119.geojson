@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003244,
-    "geom:area_square_m":20301929.164458,
+    "geom:area_square_m":20301929.164459,
     "geom:bbox":"16.959360109,59.5613183459,17.0628493829,59.6159599752",
     "geom:latitude":59.589346,
     "geom:longitude":17.012118,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.58614,
     "lbl:longitude":17.000053,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"215050"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734228,
-    "wof:geomhash":"21e683c80724367dfdea2af1c79ddb16",
+    "wof:geomhash":"097cff9f1f46fd5a4870d7fdb158acc1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307119,
-    "wof:lastmodified":1566643379,
+    "wof:lastmodified":1695879433,
     "wof:name":"Svinnegarn",
     "wof:parent_id":1159303337,
     "wof:placetype":"localadmin",

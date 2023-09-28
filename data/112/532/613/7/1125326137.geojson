@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01014,
-    "geom:area_square_m":65417549.106181,
+    "geom:area_square_m":65417549.106172,
     "geom:bbox":"12.2583276221,58.4948312896,12.4329540239,58.6131904582",
     "geom:latitude":58.550028,
     "geom:longitude":12.344955,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":2234,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.548959,
     "lbl:longitude":12.343585,
     "lbl:max_zoom":15.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8133283,
-        "qs_pg:id":758589
+        "qs_pg:id":758589,
+        "se-lant:code":"110008"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497044825,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"981abc99ed12294d849197c3dd941d40",
+    "wof:geomhash":"da9dcb52bf2c1a649391b76252557315",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125326137,
-    "wof:lastmodified":1582340770,
+    "wof:lastmodified":1695879462,
     "wof:name":"Bralanda",
     "wof:parent_id":1159303519,
     "wof:placetype":"localadmin",

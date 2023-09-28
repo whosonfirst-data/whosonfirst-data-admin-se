@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003546,
-    "geom:area_square_m":24531994.743557,
+    "geom:area_square_m":24531994.743555,
     "geom:bbox":"14.2333840727,55.9582526199,14.3403711916,56.0068568371",
     "geom:latitude":55.982227,
     "geom:longitude":14.283212,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.980795,
     "lbl:longitude":14.284229,
     "lbl:max_zoom":18.0,
@@ -72,9 +81,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101279"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734325,
-    "wof:geomhash":"ea17c4435f2492e1af1aae1c88bc3a9c",
+    "wof:geomhash":"7198b95641899a9cc3ec8c56b2936c87",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,7 +98,7 @@
         }
     ],
     "wof:id":1159307489,
-    "wof:lastmodified":1566643253,
+    "wof:lastmodified":1695879409,
     "wof:name":"Rinkaby",
     "wof:parent_id":1159303497,
     "wof:placetype":"localadmin",

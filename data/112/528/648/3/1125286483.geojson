@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015262,
-    "geom:area_square_m":104678656.468236,
+    "geom:area_square_m":104678656.468216,
     "geom:bbox":"15.4654827911,56.2341172536,15.6431918574,56.4170628923",
     "geom:latitude":56.311926,
     "geom:longitude":15.548583,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":2165,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.2922,
     "lbl:longitude":15.549671,
     "lbl:max_zoom":15.0,
@@ -82,14 +91,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131778,
-        "qs_pg:id":757713
+        "qs_pg:id":757713,
+        "se-lant:code":"102033"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497042723,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"13ae53f5ca9f53aeb17a989381208d2a",
+    "wof:geomhash":"8d4438d04698b7270234fdeddee6a24c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -100,7 +111,7 @@
         }
     ],
     "wof:id":1125286483,
-    "wof:lastmodified":1582340794,
+    "wof:lastmodified":1695879482,
     "wof:name":"Fridlevstad",
     "wof:parent_id":1159303467,
     "wof:placetype":"localadmin",

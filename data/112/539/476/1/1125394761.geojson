@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016988,
-    "geom:area_square_m":109530399.974068,
+    "geom:area_square_m":109530399.974074,
     "geom:bbox":"11.0129154125,58.520519035,11.3469236592,58.6324693912",
     "geom:latitude":58.571193,
     "geom:longitude":11.161452,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":1016,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.580334,
     "lbl:longitude":11.214638,
     "lbl:max_zoom":16.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8133188,
-        "qs_pg:id":1042479
+        "qs_pg:id":1042479,
+        "se-lant:code":"109065"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497048938,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"84afbac973cb248226c51d2749a820ae",
+    "wof:geomhash":"cdedc846bc585b9ab0c97589fc82edbf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125394761,
-    "wof:lastmodified":1582340837,
+    "wof:lastmodified":1695879513,
     "wof:name":"Fjallbacka",
     "wof:parent_id":1159303369,
     "wof:placetype":"localadmin",

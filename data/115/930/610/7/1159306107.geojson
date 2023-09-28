@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009186,
-    "geom:area_square_m":61437690.399695,
+    "geom:area_square_m":61437690.399688,
     "geom:bbox":"12.4920045928,57.2248130347,12.7152481337,57.2881747048",
     "geom:latitude":57.25689,
     "geom:longitude":12.60236,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.25936,
     "lbl:longitude":12.602382,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107002"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733948,
-    "wof:geomhash":"91a6cf27c8a56f782e6dd9ab10e64bfc",
+    "wof:geomhash":"ad1575e19baa0d5cdceeea236e095c15",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306107,
-    "wof:lastmodified":1566643181,
+    "wof:lastmodified":1695879396,
     "wof:name":"Karl Gustav",
     "wof:parent_id":1159302939,
     "wof:placetype":"localadmin",

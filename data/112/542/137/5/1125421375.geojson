@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003076,
-    "geom:area_square_m":21396810.509194,
+    "geom:area_square_m":21396810.509197,
     "geom:bbox":"13.0484386657,55.739458307,13.1450567808,55.7920473145",
     "geom:latitude":55.764949,
     "geom:longitude":13.100315,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":4421,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.762963,
     "lbl:longitude":13.100322,
     "lbl:max_zoom":15.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132301,
-        "qs_pg:id":758032
+        "qs_pg:id":758032,
+        "se-lant:code":"101193"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497052308,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"8bd488a76b0006837998daba2bf86f00",
+    "wof:geomhash":"e192aa73a1bd94c73238dcd78ce1ec27",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125421375,
-    "wof:lastmodified":1582340816,
+    "wof:lastmodified":1695879497,
     "wof:name":"Lackalanga-Stavie",
     "wof:parent_id":1159303543,
     "wof:placetype":"localadmin",

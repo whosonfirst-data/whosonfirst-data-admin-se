@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002521,
-    "geom:area_square_m":16787026.760024,
+    "geom:area_square_m":16787026.760025,
     "geom:bbox":"18.3995527729,57.3768159123,18.4712877592,57.4481791249",
     "geom:latitude":57.414829,
     "geom:longitude":18.440116,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.415266,
     "lbl:longitude":18.440679,
     "lbl:max_zoom":18.0,
@@ -45,9 +54,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"106032"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734214,
-    "wof:geomhash":"3680d41531fade02e3194e09823a6f77",
+    "wof:geomhash":"37996fa7965d3e12ce11369375511528",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +71,7 @@
         }
     ],
     "wof:id":1159307061,
-    "wof:lastmodified":1566643148,
+    "wof:lastmodified":1695879390,
     "wof:name":"Guldrupe",
     "wof:parent_id":1159303535,
     "wof:placetype":"localadmin",

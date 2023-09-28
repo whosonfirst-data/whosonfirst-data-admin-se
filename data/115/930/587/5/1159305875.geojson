@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002598,
-    "geom:area_square_m":16912647.277681,
+    "geom:area_square_m":16912647.277682,
     "geom:bbox":"13.8552878607,58.2163456749,13.9759068437,58.2634509468",
     "geom:latitude":58.236666,
     "geom:longitude":13.907227,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.235824,
     "lbl:longitude":13.898059,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107277"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733890,
-    "wof:geomhash":"4aa3111cc7187a029fe861aa10c51292",
+    "wof:geomhash":"7f6ad3068ea19136912c191249180de3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159305875,
-    "wof:lastmodified":1566643263,
+    "wof:lastmodified":1695879411,
     "wof:name":"Homb",
     "wof:parent_id":1159303037,
     "wof:placetype":"localadmin",

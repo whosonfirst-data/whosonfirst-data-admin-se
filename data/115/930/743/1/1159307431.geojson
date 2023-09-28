@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006865,
-    "geom:area_square_m":45109608.211413,
+    "geom:area_square_m":45109608.211416,
     "geom:bbox":"18.6138180595,57.872571221,18.7872785349,57.9342477799",
     "geom:latitude":57.899793,
     "geom:longitude":18.712641,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.905937,
     "lbl:longitude":18.728337,
     "lbl:max_zoom":18.0,
@@ -105,9 +114,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"106090"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734309,
-    "wof:geomhash":"dbdc10e9f45916f9cd7bd1bd9b1ba5d6",
+    "wof:geomhash":"447898b20155d7801da3e893421f5e0a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -118,7 +131,7 @@
         }
     ],
     "wof:id":1159307431,
-    "wof:lastmodified":1566643356,
+    "wof:lastmodified":1695879429,
     "wof:name":"Hall",
     "wof:parent_id":1159303535,
     "wof:placetype":"localadmin",

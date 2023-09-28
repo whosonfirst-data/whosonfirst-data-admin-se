@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023149,
-    "geom:area_square_m":152072113.809173,
+    "geom:area_square_m":152072113.809184,
     "geom:bbox":"15.3594998457,57.7901743001,15.6197667361,58.0156705605",
     "geom:latitude":57.90802,
     "geom:longitude":15.499263,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":199,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.904916,
     "lbl:longitude":15.49723,
     "lbl:max_zoom":18.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132835,
-        "qs_pg:id":758376
+        "qs_pg:id":758376,
+        "se-lant:code":"108005"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497044807,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"3062d0b521dc9c431049b06a77f701c5",
+    "wof:geomhash":"df467bd33bbda022394551d531578555",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125325811,
-    "wof:lastmodified":1582340763,
+    "wof:lastmodified":1695879457,
     "wof:name":"Tidersrum",
     "wof:parent_id":1159303139,
     "wof:placetype":"localadmin",

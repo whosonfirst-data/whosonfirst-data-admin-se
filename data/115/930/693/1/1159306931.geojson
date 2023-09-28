@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001194,
-    "geom:area_square_m":8331656.353357,
+    "geom:area_square_m":8331656.353359,
     "geom:bbox":"13.1182385222,55.6213558353,13.1867450045,55.6556028134",
     "geom:latitude":55.640199,
     "geom:longitude":13.15774,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.639336,
     "lbl:longitude":13.168583,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101130"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734181,
-    "wof:geomhash":"9ab784ba19958a5e222fda38061cfc61",
+    "wof:geomhash":"ac0a5a285c4f8330c6aeefedf5169f3b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306931,
-    "wof:lastmodified":1566643212,
+    "wof:lastmodified":1695879402,
     "wof:name":"Tottarp",
     "wof:parent_id":1159303125,
     "wof:placetype":"localadmin",

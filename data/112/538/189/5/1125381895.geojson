@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.03422,
-    "geom:area_square_m":230951099.867134,
+    "geom:area_square_m":230951099.867131,
     "geom:bbox":"12.9335285898,56.8260465292,13.2804967293,57.0112049434",
     "geom:latitude":56.920276,
     "geom:longitude":13.103601,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":2361,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.930759,
     "lbl:longitude":13.072265,
     "lbl:max_zoom":15.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131869,
-        "qs_pg:id":381320
+        "qs_pg:id":381320,
+        "se-lant:code":"104035"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497048098,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"9d99dfe6fd199288ace6be4ae84d9565",
+    "wof:geomhash":"ab5a02049ff8f4a877833a3d16958aa2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125381895,
-    "wof:lastmodified":1582340849,
+    "wof:lastmodified":1695879521,
     "wof:name":"Torup",
     "wof:parent_id":1159303485,
     "wof:placetype":"localadmin",

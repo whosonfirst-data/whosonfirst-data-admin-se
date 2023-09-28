@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004004,
-    "geom:area_square_m":25983458.193255,
+    "geom:area_square_m":25983458.19326,
     "geom:bbox":"14.1119600474,58.3110460123,14.2637193318,58.3701105392",
     "geom:latitude":58.343684,
     "geom:longitude":14.183375,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":279,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.334896,
     "lbl:longitude":14.182215,
     "lbl:max_zoom":17.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8133316,
-        "qs_pg:id":758617
+        "qs_pg:id":758617,
+        "se-lant:code":"107323"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497044832,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"98151f0c503fabd2191eebc4f0a85382",
+    "wof:geomhash":"c8020b11ece65f2cc918d4f93744a672",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125326239,
-    "wof:lastmodified":1582340771,
+    "wof:lastmodified":1695879463,
     "wof:name":"Mofalla",
     "wof:parent_id":1159303153,
     "wof:placetype":"localadmin",

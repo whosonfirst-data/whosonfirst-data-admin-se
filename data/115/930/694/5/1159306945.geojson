@@ -10,6 +10,15 @@
     "geom:latitude":55.501681,
     "geom:longitude":13.161456,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.500025,
     "lbl:longitude":13.155782,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101076"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734186,
-    "wof:geomhash":"67965c4cc7a18390e41c91b4bcfb3efa",
+    "wof:geomhash":"be225fa8a892dc48540f762fb807e6e8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306945,
-    "wof:lastmodified":1566643209,
+    "wof:lastmodified":1695879402,
     "wof:name":"Torringe-Vastra Karrstorp",
     "wof:parent_id":1159303083,
     "wof:placetype":"localadmin",

@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00231,
-    "geom:area_square_m":14901237.312894,
+    "geom:area_square_m":14901237.312895,
     "geom:bbox":"13.7643102678,58.5265284617,13.8419753841,58.5896451629",
     "geom:latitude":58.550942,
     "geom:longitude":13.807215,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.550577,
     "lbl:longitude":13.804576,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107416"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734194,
-    "wof:geomhash":"49eaf9bafbc0871be6eae7b301061f2c",
+    "wof:geomhash":"dd416a63ded683bf395a45513749cd4d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306981,
-    "wof:lastmodified":1566643338,
+    "wof:lastmodified":1695879426,
     "wof:name":"Lastad",
     "wof:parent_id":1159303321,
     "wof:placetype":"localadmin",

@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006724,
-    "geom:area_square_m":46629647.893349,
+    "geom:area_square_m":46629647.893347,
     "geom:bbox":"13.5478345274,55.8579356799,13.718727128,55.9277470299",
     "geom:latitude":55.888872,
     "geom:longitude":13.621865,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.890988,
     "lbl:longitude":13.606315,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101242"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734225,
-    "wof:geomhash":"2a4ff446e4347e2818e302467673a23a",
+    "wof:geomhash":"69ba5320b6bac474f205a22811fb8f89",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307101,
-    "wof:lastmodified":1566643367,
+    "wof:lastmodified":1695879431,
     "wof:name":"Fulltofta",
     "wof:parent_id":1159303277,
     "wof:placetype":"localadmin",

@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.064976,
-    "geom:area_square_m":402134044.425361,
+    "geom:area_square_m":402134044.42543,
     "geom:bbox":"12.5847070504,59.7913249733,12.9878917077,60.1091527344",
     "geom:latitude":59.96584,
     "geom:longitude":12.806288,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.933759,
     "lbl:longitude":12.822388,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"213077"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733898,
-    "wof:geomhash":"f8a2a63ab0d4ea2c62a5afa700e1768e",
+    "wof:geomhash":"d7472d2a156f45086f9be797b83def31",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159305891,
-    "wof:lastmodified":1566643255,
+    "wof:lastmodified":1695879409,
     "wof:name":"Grasmark",
     "wof:parent_id":1159303019,
     "wof:placetype":"localadmin",

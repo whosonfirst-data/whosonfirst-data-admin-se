@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003138,
-    "geom:area_square_m":20522710.960077,
+    "geom:area_square_m":20522710.960076,
     "geom:bbox":"13.7453611775,58.0412033406,13.8707248508,58.0983912112",
     "geom:latitude":58.068052,
     "geom:longitude":13.805201,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.07062,
     "lbl:longitude":13.795818,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107194"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734075,
-    "wof:geomhash":"4cd52405716bc4bca09d650b9b12136b",
+    "wof:geomhash":"540adb468b8f9cf171a59b5f6891f98d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306549,
-    "wof:lastmodified":1566643340,
+    "wof:lastmodified":1695879427,
     "wof:name":"Kymbo",
     "wof:parent_id":1159303037,
     "wof:placetype":"localadmin",

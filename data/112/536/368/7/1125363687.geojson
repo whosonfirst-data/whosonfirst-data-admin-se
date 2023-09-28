@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.367183,
-    "geom:area_square_m":1923729518.39326,
+    "geom:area_square_m":1923729518.393266,
     "geom:bbox":"18.756891,64.66745,20.218374,65.19426",
     "geom:latitude":64.931389,
     "geom:longitude":19.551205,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":4363,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":64.976245,
     "lbl:longitude":19.551424,
     "lbl:max_zoom":15.0,
@@ -52,14 +61,16 @@
     "wof:belongsto":[
         102191581,
         85633789,
-        1159303021,
-        85688465
+        85688465,
+        1159303021
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132991,
-        "qs_pg:id":1246026
+        "qs_pg:id":1246026,
+        "se-lant:code":"323024"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:coterminous":[
         1159303021
     ],
@@ -68,7 +79,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"5a41e33f813f5ab964f5e186285b8cd2",
+    "wof:geomhash":"a6b3fd94e00692224b90946e66253e8e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +90,7 @@
         }
     ],
     "wof:id":1125363687,
-    "wof:lastmodified":1608048442,
+    "wof:lastmodified":1695879558,
     "wof:name":"Norsjo",
     "wof:parent_id":1159303021,
     "wof:placetype":"localadmin",

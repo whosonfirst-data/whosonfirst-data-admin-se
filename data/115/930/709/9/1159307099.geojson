@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007716,
-    "geom:area_square_m":51691663.837951,
+    "geom:area_square_m":51691663.837958,
     "geom:bbox":"18.3962444657,57.1483912037,18.5488281318,57.238488021",
     "geom:latitude":57.195008,
     "geom:longitude":18.468336,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.195585,
     "lbl:longitude":18.469491,
     "lbl:max_zoom":18.0,
@@ -42,9 +51,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"106013"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734224,
-    "wof:geomhash":"c447c52bc70940f4b9cc5c8c05d46edd",
+    "wof:geomhash":"46adfb13b4c315583a951056fc477739",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,7 +68,7 @@
         }
     ],
     "wof:id":1159307099,
-    "wof:lastmodified":1566643166,
+    "wof:lastmodified":1695879393,
     "wof:name":"Rone",
     "wof:parent_id":1159303535,
     "wof:placetype":"localadmin",

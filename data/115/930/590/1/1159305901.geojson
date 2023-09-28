@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004761,
-    "geom:area_square_m":32741549.992525,
+    "geom:area_square_m":32741549.992534,
     "geom:bbox":"13.8609720554,56.175524639,13.9858639722,56.2544617611",
     "geom:latitude":56.207808,
     "geom:longitude":13.934343,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.203966,
     "lbl:longitude":13.935273,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101357"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733901,
-    "wof:geomhash":"de8436636cfe581a30666310c4d506f2",
+    "wof:geomhash":"5d6d06f303c0b8e5408e01230125f180",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159305901,
-    "wof:lastmodified":1566643274,
+    "wof:lastmodified":1695879412,
     "wof:name":"Norra Sandby",
     "wof:parent_id":1159303121,
     "wof:placetype":"localadmin",

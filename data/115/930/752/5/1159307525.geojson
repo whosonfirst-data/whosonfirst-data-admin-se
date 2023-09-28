@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004607,
-    "geom:area_square_m":31516292.876681,
+    "geom:area_square_m":31516292.876682,
     "geom:bbox":"16.369294665,56.3849584695,16.5037886718,56.4293457865",
     "geom:latitude":56.407596,
     "geom:longitude":16.435586,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.407063,
     "lbl:longitude":16.435601,
     "lbl:max_zoom":18.0,
@@ -54,9 +63,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"103006"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734334,
-    "wof:geomhash":"05ab9f78e83eaabb2e509780926ef5be",
+    "wof:geomhash":"386841bc8cdc450a0cc6d4516a16d8c1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,7 +80,7 @@
         }
     ],
     "wof:id":1159307525,
-    "wof:lastmodified":1566643140,
+    "wof:lastmodified":1695879388,
     "wof:name":"Smedby",
     "wof:parent_id":1159303101,
     "wof:placetype":"localadmin",

@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001577,
-    "geom:area_square_m":11050005.064324,
+    "geom:area_square_m":11050005.064326,
     "geom:bbox":"13.0916960455,55.4748727161,13.1803546281,55.5119550739",
     "geom:latitude":55.490135,
     "geom:longitude":13.126084,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.492689,
     "lbl:longitude":13.121712,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101075"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734148,
-    "wof:geomhash":"85577c87c17f32b82b26430ff0f2a0f4",
+    "wof:geomhash":"f66aa47724f673c3a96ce7d4688b0a21",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306829,
-    "wof:lastmodified":1566643301,
+    "wof:lastmodified":1695879417,
     "wof:name":"Vastra Ingelstad",
     "wof:parent_id":1159303307,
     "wof:placetype":"localadmin",

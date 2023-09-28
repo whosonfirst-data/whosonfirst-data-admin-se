@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003839,
-    "geom:area_square_m":26471429.42558,
+    "geom:area_square_m":26471429.425578,
     "geom:bbox":"14.3715346486,56.0695303518,14.4506887295,56.1478287159",
     "geom:latitude":56.103767,
     "geom:longitude":14.410707,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.097951,
     "lbl:longitude":14.417876,
     "lbl:max_zoom":18.0,
@@ -69,9 +78,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101315"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734261,
-    "wof:geomhash":"8adaa1f546ac8f2a3bcf75698285a1af",
+    "wof:geomhash":"fdb23489fb500890a0d718227bd210d2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,7 +95,7 @@
         }
     ],
     "wof:id":1159307251,
-    "wof:lastmodified":1566643231,
+    "wof:lastmodified":1695879406,
     "wof:name":"Ivo",
     "wof:parent_id":1159303497,
     "wof:placetype":"localadmin",

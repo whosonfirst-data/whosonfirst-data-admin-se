@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012238,
-    "geom:area_square_m":80320612.179114,
+    "geom:area_square_m":80320612.179118,
     "geom:bbox":"11.6690712497,57.9028407821,11.9905403542,57.9787639031",
     "geom:latitude":57.94239,
     "geom:longitude":11.812866,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":4071,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.938247,
     "lbl:longitude":11.775095,
     "lbl:max_zoom":15.0,
@@ -73,14 +82,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8133273,
-        "qs_pg:id":109602
+        "qs_pg:id":109602,
+        "se-lant:code":"109019"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497047596,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"d07f02779e9c9d749e1cd10f6a0e4b8a",
+    "wof:geomhash":"75d1bce2390685c8f9b1c879eaecd4f4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +102,7 @@
         }
     ],
     "wof:id":1125373863,
-    "wof:lastmodified":1582340835,
+    "wof:lastmodified":1695879512,
     "wof:name":"Solberga",
     "wof:parent_id":1159303109,
     "wof:placetype":"localadmin",

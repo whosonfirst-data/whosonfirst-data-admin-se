@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.047569,
-    "geom:area_square_m":304470782.870845,
+    "geom:area_square_m":304470782.870841,
     "geom:bbox":"13.4023564415,58.7135362692,13.9584079304,58.9378642732",
     "geom:latitude":58.822535,
     "geom:longitude":13.750365,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.810338,
     "lbl:longitude":13.777104,
     "lbl:max_zoom":18.0,
@@ -210,9 +219,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107449"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734093,
-    "wof:geomhash":"f093ecccec02eb31cb6af9673e283140",
+    "wof:geomhash":"904d636a8eff5ab98252220a8dec14cf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -223,7 +236,7 @@
         }
     ],
     "wof:id":1159306595,
-    "wof:lastmodified":1566643221,
+    "wof:lastmodified":1695879403,
     "wof:name":"Torso",
     "wof:parent_id":1159303321,
     "wof:placetype":"localadmin",

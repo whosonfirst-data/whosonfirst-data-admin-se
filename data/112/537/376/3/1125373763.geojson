@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005473,
-    "geom:area_square_m":38017533.486376,
+    "geom:area_square_m":38017533.486375,
     "geom:bbox":"13.9821142802,55.787014459,14.1283167684,55.859072662",
     "geom:latitude":55.821297,
     "geom:longitude":14.065844,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":1646,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.820025,
     "lbl:longitude":14.064771,
     "lbl:max_zoom":16.0,
@@ -82,14 +91,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8133151,
-        "qs_pg:id":109581
+        "qs_pg:id":109581,
+        "se-lant:code":"101218"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497047586,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"d26965fd9d2c2b4cba720fe1d3f27bc7",
+    "wof:geomhash":"824b245e594909190f78ff439e8bd258",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -100,7 +111,7 @@
         }
     ],
     "wof:id":1125373763,
-    "wof:lastmodified":1582340827,
+    "wof:lastmodified":1695879506,
     "wof:name":"Degeberga",
     "wof:parent_id":1159303497,
     "wof:placetype":"localadmin",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023627,
-    "geom:area_square_m":145852813.050698,
+    "geom:area_square_m":145852813.050726,
     "geom:bbox":"18.3885211055,59.9581811553,18.6087985168,60.1633697415",
     "geom:latitude":60.050725,
     "geom:longitude":18.523872,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":1024,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":60.046382,
     "lbl:longitude":18.523917,
     "lbl:max_zoom":16.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8133098,
-        "qs_pg:id":109565
+        "qs_pg:id":109565,
+        "se-lant:code":"215181"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497052675,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"bbc4fdad7287b33f8b65c61f302484b1",
+    "wof:geomhash":"541f3fb5994a9973b79a2734edb326e3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125423337,
-    "wof:lastmodified":1582340816,
+    "wof:lastmodified":1695879498,
     "wof:name":"Edebo",
     "wof:parent_id":1159302995,
     "wof:placetype":"localadmin",

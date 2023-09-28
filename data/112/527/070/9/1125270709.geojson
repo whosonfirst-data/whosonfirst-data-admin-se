@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022208,
-    "geom:area_square_m":140681528.902718,
+    "geom:area_square_m":140681528.902711,
     "geom:bbox":"16.6228247331,59.1118298275,16.9372842649,59.2388224628",
     "geom:latitude":59.182558,
     "geom:longitude":16.789466,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":3221,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.186459,
     "lbl:longitude":16.813327,
     "lbl:max_zoom":15.0,
@@ -104,14 +113,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132116,
-        "qs_pg:id":757945
+        "qs_pg:id":757945,
+        "se-lant:code":"212063"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497042114,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"2cb89a2c975276724fbaa8b50dc2b76e",
+    "wof:geomhash":"535986d87cc2a1935993e632b81da997",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -122,7 +133,7 @@
         }
     ],
     "wof:id":1125270709,
-    "wof:lastmodified":1582340801,
+    "wof:lastmodified":1695879487,
     "wof:name":"Dunker",
     "wof:parent_id":1159302997,
     "wof:placetype":"localadmin",

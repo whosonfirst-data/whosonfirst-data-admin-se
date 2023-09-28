@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034286,
-    "geom:area_square_m":191883872.187287,
+    "geom:area_square_m":191883872.187277,
     "geom:bbox":"13.8014589546,63.0297250556,14.4059229589,63.1641331077",
     "geom:latitude":63.08856,
     "geom:longitude":14.171288,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":63.089333,
     "lbl:longitude":14.22169,
     "lbl:max_zoom":18.0,
@@ -123,9 +132,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"322018"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734191,
-    "wof:geomhash":"0c0560745883a6fabd8207e8a1c16402",
+    "wof:geomhash":"de6a67f12ee74f11fed5c933d8ada6c5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -136,7 +149,7 @@
         }
     ],
     "wof:id":1159306971,
-    "wof:lastmodified":1566643325,
+    "wof:lastmodified":1695879423,
     "wof:name":"Marby",
     "wof:parent_id":1159303387,
     "wof:placetype":"localadmin",

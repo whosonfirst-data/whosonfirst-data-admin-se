@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003004,
-    "geom:area_square_m":19545950.70816,
+    "geom:area_square_m":19545950.708158,
     "geom:bbox":"13.030525938,58.2267042899,13.1546335404,58.2873408359",
     "geom:latitude":58.251153,
     "geom:longitude":13.091816,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.250439,
     "lbl:longitude":13.07727,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107256"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734253,
-    "wof:geomhash":"091c13f17631f18b0300ab51cdb0ca6f",
+    "wof:geomhash":"aec74dc028aea06ac5ef5ef717475748",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307219,
-    "wof:lastmodified":1566643365,
+    "wof:lastmodified":1695879430,
     "wof:name":"Travad",
     "wof:parent_id":1159303487,
     "wof:placetype":"localadmin",

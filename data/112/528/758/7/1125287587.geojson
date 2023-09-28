@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024974,
-    "geom:area_square_m":165005867.280188,
+    "geom:area_square_m":165005867.280203,
     "geom:bbox":"15.4205428984,57.6201659413,15.6885042526,57.7726011209",
     "geom:latitude":57.701754,
     "geom:longitude":15.562728,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":513,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.703273,
     "lbl:longitude":15.565307,
     "lbl:max_zoom":17.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132705,
-        "qs_pg:id":758303
+        "qs_pg:id":758303,
+        "se-lant:code":"105242"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497042777,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"7476631482d0ce3ce452365ae447367e",
+    "wof:geomhash":"0e00dc1e96e321991014ef8289022ef9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125287587,
-    "wof:lastmodified":1582340790,
+    "wof:lastmodified":1695879480,
     "wof:name":"Rumskulla",
     "wof:parent_id":1159303159,
     "wof:placetype":"localadmin",

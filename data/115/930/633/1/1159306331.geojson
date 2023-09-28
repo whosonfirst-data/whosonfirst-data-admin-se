@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027642,
-    "geom:area_square_m":176669361.865048,
+    "geom:area_square_m":176669361.865041,
     "geom:bbox":"10.9505331317,58.8102295873,11.2563113534,58.969933576",
     "geom:latitude":58.875128,
     "geom:longitude":11.08449,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.869257,
     "lbl:longitude":11.084289,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"109079"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734004,
-    "wof:geomhash":"67b05d23846b2006b99873b2a010f5e7",
+    "wof:geomhash":"24f0d018c3dd87e8f02174bbf808c4b3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306331,
-    "wof:lastmodified":1566643199,
+    "wof:lastmodified":1695879400,
     "wof:name":"Tjarno",
     "wof:parent_id":1159303235,
     "wof:placetype":"localadmin",

@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.049734,
-    "geom:area_square_m":316429599.149877,
+    "geom:area_square_m":316429599.149891,
     "geom:bbox":"18.2873969663,58.9335364103,18.6793562919,59.1426241077",
     "geom:latitude":59.034122,
     "geom:longitude":18.47858,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.038949,
     "lbl:longitude":18.462712,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"212047"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734207,
-    "wof:geomhash":"a5123822e46c5c37c29fb831710f12e4",
+    "wof:geomhash":"a682f5a9ad6c43a438af6aeeaabb3db3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307035,
-    "wof:lastmodified":1566643286,
+    "wof:lastmodified":1695879414,
     "wof:name":"Orno",
     "wof:parent_id":1159303483,
     "wof:placetype":"localadmin",

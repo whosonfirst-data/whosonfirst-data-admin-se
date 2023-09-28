@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022762,
-    "geom:area_square_m":143673088.917537,
+    "geom:area_square_m":143673088.917536,
     "geom:bbox":"13.3915507882,59.2409853961,13.7040316781,59.3699665125",
     "geom:latitude":59.308493,
     "geom:longitude":13.54201,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":14655,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.303072,
     "lbl:longitude":13.539647,
     "lbl:max_zoom":15.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132949,
-        "qs_pg:id":904430
+        "qs_pg:id":904430,
+        "se-lant:code":"213022"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497052713,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"f2ea2df354089cd71a9434a3518049db",
+    "wof:geomhash":"3e2fd212969a7e84eb91c3070ce66bd8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125423547,
-    "wof:lastmodified":1582340810,
+    "wof:lastmodified":1695879494,
     "wof:name":"Hammaro",
     "wof:parent_id":1159303251,
     "wof:placetype":"localadmin",

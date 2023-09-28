@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":15838,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.716433,
     "lbl:longitude":12.004683,
     "lbl:max_zoom":15.0,
@@ -61,14 +70,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132048,
-        "qs_pg:id":757899
+        "qs_pg:id":757899,
+        "se-lant:code":"107088"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497042753,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"8be34eaeb8900c5e6317ff736c70fcea",
+    "wof:geomhash":"db6943ddd0101e527438f3b0a87c32f9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +90,7 @@
         }
     ],
     "wof:id":1125287117,
-    "wof:lastmodified":1582340798,
+    "wof:lastmodified":1695879485,
     "wof:name":"Goteborgs Sankt Pauli",
     "wof:parent_id":1159302989,
     "wof:placetype":"localadmin",

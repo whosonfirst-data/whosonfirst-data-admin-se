@@ -10,6 +10,15 @@
     "geom:latitude":58.597312,
     "geom:longitude":13.420874,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.586838,
     "lbl:longitude":13.42091,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107409"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733987,
-    "wof:geomhash":"e5f52ed898424ae5918bc0de27987785",
+    "wof:geomhash":"3e51c78d2c4171035526ada6ab418fb7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306269,
-    "wof:lastmodified":1566643185,
+    "wof:lastmodified":1695879397,
     "wof:name":"Osterplana",
     "wof:parent_id":1159302923,
     "wof:placetype":"localadmin",

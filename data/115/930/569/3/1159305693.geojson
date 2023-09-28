@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01975,
-    "geom:area_square_m":129330760.322121,
+    "geom:area_square_m":129330760.322115,
     "geom:bbox":"12.3412529078,57.9285568265,12.6508736757,58.0942012206",
     "geom:latitude":58.022874,
     "geom:longitude":12.485136,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.026731,
     "lbl:longitude":12.469911,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107168"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733845,
-    "wof:geomhash":"5b32fbd33be73de19148382dc253a876",
+    "wof:geomhash":"18f07f03f3cadac51d31a653965ac864",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159305693,
-    "wof:lastmodified":1566643139,
+    "wof:lastmodified":1695879388,
     "wof:name":"Langared",
     "wof:parent_id":1159303193,
     "wof:placetype":"localadmin",

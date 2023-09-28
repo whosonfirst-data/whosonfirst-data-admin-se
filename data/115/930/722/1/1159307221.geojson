@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0037,
-    "geom:area_square_m":25879455.929134,
+    "geom:area_square_m":25879455.929135,
     "geom:bbox":"13.1146124795,55.5106440459,13.25514089,55.5811540667",
     "geom:latitude":55.54689,
     "geom:longitude":13.174591,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.545781,
     "lbl:longitude":13.161862,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101078"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734253,
-    "wof:geomhash":"2bb156504ea85b305f50c7ad56c67319",
+    "wof:geomhash":"23fac2eb03a6577b12d20df8a3eeadfa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307221,
-    "wof:lastmodified":1566643230,
+    "wof:lastmodified":1695879405,
     "wof:name":"Skabersjo",
     "wof:parent_id":1159303083,
     "wof:placetype":"localadmin",

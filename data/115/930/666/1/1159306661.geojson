@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004096,
-    "geom:area_square_m":27536872.054923,
+    "geom:area_square_m":27536872.05493,
     "geom:bbox":"12.5706830097,57.0313232078,12.6635067207,57.1160631713",
     "geom:latitude":57.066631,
     "geom:longitude":12.615386,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.061229,
     "lbl:longitude":12.622436,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"104049"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734105,
-    "wof:geomhash":"bdfc9cf9fc3e4e17bd3da4ec7f42a291",
+    "wof:geomhash":"8ec35d099697526d06cca0533095e4a1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306661,
-    "wof:lastmodified":1566643222,
+    "wof:lastmodified":1695879404,
     "wof:name":"Koinge",
     "wof:parent_id":1159303247,
     "wof:placetype":"localadmin",

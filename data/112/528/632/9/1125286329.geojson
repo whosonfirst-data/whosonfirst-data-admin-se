@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007764,
-    "geom:area_square_m":52188363.247731,
+    "geom:area_square_m":52188363.247726,
     "geom:bbox":"12.1995865456,57.0160277991,12.3687771506,57.1514825504",
     "geom:latitude":57.073299,
     "geom:longitude":12.282191,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":6414,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.053367,
     "lbl:longitude":12.275143,
     "lbl:max_zoom":15.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131727,
-        "qs_pg:id":757687
+        "qs_pg:id":757687,
+        "se-lant:code":"104055"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497042717,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"d2fbc3593e356b41e9900dcd9281bb2d",
+    "wof:geomhash":"5ba150396508609ddf5e7fdfa6f1e224",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125286329,
-    "wof:lastmodified":1582340786,
+    "wof:lastmodified":1695879477,
     "wof:name":"Traslov",
     "wof:parent_id":1159302939,
     "wof:placetype":"localadmin",

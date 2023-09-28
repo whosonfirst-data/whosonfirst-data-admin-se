@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010095,
-    "geom:area_square_m":68038904.610654,
+    "geom:area_square_m":68038904.610648,
     "geom:bbox":"18.1469347922,56.9114620667,18.3064296104,57.0369647949",
     "geom:latitude":56.969865,
     "geom:longitude":18.227111,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.984601,
     "lbl:longitude":18.228335,
     "lbl:max_zoom":18.0,
@@ -45,9 +54,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"106002"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733892,
-    "wof:geomhash":"e737e514e8c64f4efb2c2a8752bf4da1",
+    "wof:geomhash":"a85f7bca03bb1c17ead55f24f8c4bf5b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +71,7 @@
         }
     ],
     "wof:id":1159305887,
-    "wof:lastmodified":1566643242,
+    "wof:lastmodified":1695879407,
     "wof:name":"Vamlingbo",
     "wof:parent_id":1159303535,
     "wof:placetype":"localadmin",

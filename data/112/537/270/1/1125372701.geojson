@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023449,
-    "geom:area_square_m":159773904.2671,
+    "geom:area_square_m":159773904.267087,
     "geom:bbox":"13.7927309037,56.4966286692,14.0864270948,56.6391894113",
     "geom:latitude":56.561798,
     "geom:longitude":13.917809,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":1080,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.565485,
     "lbl:longitude":13.907769,
     "lbl:max_zoom":16.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132146,
-        "qs_pg:id":109382
+        "qs_pg:id":109382,
+        "se-lant:code":"105009"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497047517,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"7ec3b8ab10bc9e6e5fb55257c9d3ef0f",
+    "wof:geomhash":"6a00b345d43eeff7138480cd7c04b2fc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125372701,
-    "wof:lastmodified":1582340830,
+    "wof:lastmodified":1695879508,
     "wof:name":"Goteryd",
     "wof:parent_id":1159303481,
     "wof:placetype":"localadmin",

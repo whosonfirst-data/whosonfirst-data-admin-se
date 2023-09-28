@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":2525,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.726951,
     "lbl:longitude":18.784462,
     "lbl:max_zoom":15.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8133101,
-        "qs_pg:id":109567
+        "qs_pg:id":109567,
+        "se-lant:code":"215122"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497052675,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"0e0ec1b0756b7576539105c7ae83f9d6",
+    "wof:geomhash":"6c107e57985d996c6724b3483a093d1a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125423341,
-    "wof:lastmodified":1582340815,
+    "wof:lastmodified":1695879497,
     "wof:name":"Frotuna",
     "wof:parent_id":1159302995,
     "wof:placetype":"localadmin",

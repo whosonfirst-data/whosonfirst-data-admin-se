@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.156738,
-    "geom:area_square_m":819656451.618864,
+    "geom:area_square_m":819656451.618894,
     "geom:bbox":"20.8049940535,64.7979707108,21.5789788742,65.1697905364",
     "geom:latitude":64.982056,
     "geom:longitude":21.18445,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":5183,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":64.959378,
     "lbl:longitude":21.210838,
     "lbl:max_zoom":15.0,
@@ -79,14 +88,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131931,
-        "qs_pg:id":757822
+        "qs_pg:id":757822,
+        "se-lant:code":"323028"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497044772,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"e54b6716b9a114442dcd4f23676ba753",
+    "wof:geomhash":"d9e0feea541592a2251b717d5502a7aa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -97,7 +108,7 @@
         }
     ],
     "wof:id":1125325361,
-    "wof:lastmodified":1582340768,
+    "wof:lastmodified":1695879461,
     "wof:name":"Byske",
     "wof:parent_id":1159303205,
     "wof:placetype":"localadmin",

@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002901,
-    "geom:area_square_m":18821737.503219,
+    "geom:area_square_m":18821737.50322,
     "geom:bbox":"14.6448155431,58.3285887963,14.7590736953,58.3782450301",
     "geom:latitude":58.35032,
     "geom:longitude":14.698913,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.349551,
     "lbl:longitude":14.695015,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"108037"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734283,
-    "wof:geomhash":"36e98e829825163b45557b0de55cbe24",
+    "wof:geomhash":"dc75dddcea7b9ba6d65a7d0f469a176f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307327,
-    "wof:lastmodified":1566643282,
+    "wof:lastmodified":1695879414,
     "wof:name":"Vaversunda",
     "wof:parent_id":1159303411,
     "wof:placetype":"localadmin",

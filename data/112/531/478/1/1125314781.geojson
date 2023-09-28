@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003387,
-    "geom:area_square_m":22416838.357337,
+    "geom:area_square_m":22416838.357336,
     "geom:bbox":"18.3360786956,57.6092562284,18.4976534243,57.653598879",
     "geom:latitude":57.633848,
     "geom:longitude":18.427738,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":171,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.632422,
     "lbl:longitude":18.435657,
     "lbl:max_zoom":18.0,
@@ -64,14 +73,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132521,
-        "qs_pg:id":109451
+        "qs_pg:id":109451,
+        "se-lant:code":"106070"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497044219,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"3bf8f103ef95c6e0eae1fe17f8a895bb",
+    "wof:geomhash":"2a121bc50f6b9387b71541afebdcd4f5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,7 +93,7 @@
         }
     ],
     "wof:id":1125314781,
-    "wof:lastmodified":1582340855,
+    "wof:lastmodified":1695879526,
     "wof:name":"Hejdeby",
     "wof:parent_id":1159303535,
     "wof:placetype":"localadmin",

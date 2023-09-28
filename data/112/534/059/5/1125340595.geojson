@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001587,
-    "geom:area_square_m":9853629.069383,
+    "geom:area_square_m":9853629.069384,
     "geom:bbox":"17.6065650198,59.8394188802,17.6916810947,59.8755295994",
     "geom:latitude":59.857576,
     "geom:longitude":17.648049,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":41621,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.858706,
     "lbl:longitude":17.647402,
     "lbl:max_zoom":14.0,
@@ -61,14 +70,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132342,
-        "qs_pg:id":758067
+        "qs_pg:id":758067,
+        "se-lant:code":"215135"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497045634,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"ad866c4f51a215410d41bfa8fb30c3db",
+    "wof:geomhash":"fb5528cc902f853b1cb03a821ea8a4bd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +90,7 @@
         }
     ],
     "wof:id":1125340595,
-    "wof:lastmodified":1582340735,
+    "wof:lastmodified":1695879437,
     "wof:name":"Uppsala domkyrkodistrikt",
     "wof:parent_id":1159303253,
     "wof:placetype":"localadmin",

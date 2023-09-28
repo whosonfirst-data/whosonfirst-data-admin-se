@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018249,
-    "geom:area_square_m":119943913.879171,
+    "geom:area_square_m":119943913.879161,
     "geom:bbox":"14.5858418306,57.8382847509,14.8381345163,57.95911269",
     "geom:latitude":57.889363,
     "geom:longitude":14.721996,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":1051,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.893059,
     "lbl:longitude":14.732221,
     "lbl:max_zoom":16.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131737,
-        "qs_pg:id":109319
+        "qs_pg:id":109319,
+        "se-lant:code":"105270"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497042384,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"cb674b88947fb2a7b678eb01482369a4",
+    "wof:geomhash":"9e219b9f502d1b7f0b9a494b9ec1074d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125277663,
-    "wof:lastmodified":1582340805,
+    "wof:lastmodified":1695879490,
     "wof:name":"Lommaryd",
     "wof:parent_id":1159303047,
     "wof:placetype":"localadmin",

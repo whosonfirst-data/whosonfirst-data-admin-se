@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.097155,
-    "geom:area_square_m":504158861.453203,
+    "geom:area_square_m":504158861.453178,
     "geom:bbox":"20.887204812,65.0532565293,21.9089620251,65.3409610016",
     "geom:latitude":65.186982,
     "geom:longitude":21.436883,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":6388,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":65.213749,
     "lbl:longitude":21.403942,
     "lbl:max_zoom":15.0,
@@ -79,14 +88,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132802,
-        "qs_pg:id":1155701
+        "qs_pg:id":1155701,
+        "se-lant:code":"325001"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497043374,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"8f3eec278d32df26ec4d19e36cb73728",
+    "wof:geomhash":"4e3b66b836b953f7a8e24df9d0a9501b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -97,7 +108,7 @@
         }
     ],
     "wof:id":1125300099,
-    "wof:lastmodified":1582340836,
+    "wof:lastmodified":1695879513,
     "wof:name":"Hortlax",
     "wof:parent_id":1159303399,
     "wof:placetype":"localadmin",

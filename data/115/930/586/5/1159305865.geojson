@@ -10,6 +10,15 @@
     "geom:latitude":55.366956,
     "geom:longitude":13.353748,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.367269,
     "lbl:longitude":13.3543,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101011"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733888,
-    "wof:geomhash":"dcfe6eb63ef5d74bca7af2c43d9df8dc",
+    "wof:geomhash":"ee828c13b85c8df14437f3ccac82e8b0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159305865,
-    "wof:lastmodified":1566643239,
+    "wof:lastmodified":1695879407,
     "wof:name":"Hemmesdynge",
     "wof:parent_id":1159303309,
     "wof:placetype":"localadmin",

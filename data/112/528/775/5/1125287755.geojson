@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017042,
-    "geom:area_square_m":115243312.457657,
+    "geom:area_square_m":115243312.45766,
     "geom:bbox":"13.465740718,56.7768826357,13.6951378197,56.9135536301",
     "geom:latitude":56.846026,
     "geom:longitude":13.578954,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":314,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.844463,
     "lbl:longitude":13.578975,
     "lbl:max_zoom":17.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132782,
-        "qs_pg:id":758345
+        "qs_pg:id":758345,
+        "se-lant:code":"105074"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497042784,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"6c5a7b6028e76fb3d47193201020976b",
+    "wof:geomhash":"c1603f290f0425b2dd13123139e6a056",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125287755,
-    "wof:lastmodified":1582340797,
+    "wof:lastmodified":1695879485,
     "wof:name":"Odensjo",
     "wof:parent_id":1159303441,
     "wof:placetype":"localadmin",

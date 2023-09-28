@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009149,
-    "geom:area_square_m":57738723.756896,
+    "geom:area_square_m":57738723.75689,
     "geom:bbox":"16.2735491134,59.2548218982,16.4499936706,59.3564353648",
     "geom:latitude":59.312074,
     "geom:longitude":16.354039,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.306714,
     "lbl:longitude":16.352697,
     "lbl:max_zoom":18.0,
@@ -42,9 +51,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"212082"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734109,
-    "wof:geomhash":"470828438115b3b415f052bc2494c42b",
+    "wof:geomhash":"4337d9af46eb09f63a25677e8f898c3e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,7 +68,7 @@
         }
     ],
     "wof:id":1159306673,
-    "wof:lastmodified":1566643212,
+    "wof:lastmodified":1695879402,
     "wof:name":"Gillberga",
     "wof:parent_id":1159303207,
     "wof:placetype":"localadmin",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022667,
-    "geom:area_square_m":146186404.604775,
+    "geom:area_square_m":146186404.604781,
     "geom:bbox":"15.4694277824,58.4877550277,15.7615920338,58.6400635416",
     "geom:latitude":58.561902,
     "geom:longitude":15.601724,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":770,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.563249,
     "lbl:longitude":15.59181,
     "lbl:max_zoom":17.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8133332,
-        "qs_pg:id":758623
+        "qs_pg:id":758623,
+        "se-lant:code":"108132"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497044833,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"c047aec593d95b6722f308925643d0b4",
+    "wof:geomhash":"c27f902b78b5d18724ee205eb8b80d3d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125326273,
-    "wof:lastmodified":1582340759,
+    "wof:lastmodified":1695879454,
     "wof:name":"Stjarnorp",
     "wof:parent_id":1159303147,
     "wof:placetype":"localadmin",

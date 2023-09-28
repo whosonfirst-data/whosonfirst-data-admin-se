@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00055,
-    "geom:area_square_m":3470866.175174,
+    "geom:area_square_m":3470866.175176,
     "geom:bbox":"17.9909351367,59.3234156724,18.0370240949,59.3418012795",
     "geom:latitude":59.333025,
     "geom:longitude":18.013245,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":29977,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.33249,
     "lbl:longitude":18.013246,
     "lbl:max_zoom":14.0,
@@ -61,14 +70,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131725,
-        "qs_pg:id":757685
+        "qs_pg:id":757685,
+        "se-lant:code":"215018"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497045488,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"be765ab61676a81915d521308b16dbbe",
+    "wof:geomhash":"d33b722b4c23844272498b60098871c9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +90,7 @@
         }
     ],
     "wof:id":1125337325,
-    "wof:lastmodified":1582340731,
+    "wof:lastmodified":1695879435,
     "wof:name":"Stockholms Sankt Goran",
     "wof:parent_id":1159303035,
     "wof:placetype":"localadmin",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003249,
-    "geom:area_square_m":20863896.794247,
+    "geom:area_square_m":20863981.57947,
     "geom:bbox":"13.804248,58.674827,13.884966,58.748298",
     "geom:latitude":58.711243,
     "geom:longitude":13.841411,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":16505,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.713372,
     "lbl:longitude":13.844151,
     "lbl:max_zoom":15.0,
@@ -175,14 +184,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132108,
-        "qs_pg:id":1042408
+        "qs_pg:id":1042408,
+        "se-lant:code":"107435"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497042619,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"a3f4860e63237964ea0145c083da8463",
+    "wof:geomhash":"ac5bf37d25c3e3dda4784d0c56e4eb6c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -193,7 +204,7 @@
         }
     ],
     "wof:id":1125283855,
-    "wof:lastmodified":1636499893,
+    "wof:lastmodified":1695879558,
     "wof:name":"Mariestad",
     "wof:parent_id":1159303321,
     "wof:placetype":"localadmin",

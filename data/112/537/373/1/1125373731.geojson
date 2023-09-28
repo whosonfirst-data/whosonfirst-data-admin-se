@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.062761,
-    "geom:area_square_m":353223368.063703,
+    "geom:area_square_m":353223368.063725,
     "geom:bbox":"18.1599934966,62.8139367063,18.6555203498,63.0132915108",
     "geom:latitude":62.927092,
     "geom:longitude":18.395629,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":1431,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":62.92088,
     "lbl:longitude":18.390917,
     "lbl:max_zoom":16.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8133035,
-        "qs_pg:id":109549
+        "qs_pg:id":109549,
+        "se-lant:code":"321014"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497047584,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"ee0c7848b171a76b3168f19474fcb466",
+    "wof:geomhash":"cea78e3bba0c9c5d5d02fc6cfb7c8b64",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125373731,
-    "wof:lastmodified":1582340834,
+    "wof:lastmodified":1695879511,
     "wof:name":"Nordingra",
     "wof:parent_id":1159303301,
     "wof:placetype":"localadmin",

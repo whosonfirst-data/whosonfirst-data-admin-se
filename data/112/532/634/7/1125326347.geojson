@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007259,
-    "geom:area_square_m":48037465.794339,
+    "geom:area_square_m":48037465.794337,
     "geom:bbox":"18.2286426629,57.5965793251,18.4029088479,57.6924307979",
     "geom:latitude":57.64365,
     "geom:longitude":18.31716,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":22697,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.634286,
     "lbl:longitude":18.301336,
     "lbl:max_zoom":14.0,
@@ -61,14 +70,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131597,
-        "qs_pg:id":757606
+        "qs_pg:id":757606,
+        "se-lant:code":"106068"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497044838,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"abad168d567cab6f59c540aad89b8e08",
+    "wof:geomhash":"98c12df5a34947a02f21901742028189",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +90,7 @@
         }
     ],
     "wof:id":1125326347,
-    "wof:lastmodified":1582340760,
+    "wof:lastmodified":1695879455,
     "wof:name":"Visby domkyrkodistrikt",
     "wof:parent_id":1159303535,
     "wof:placetype":"localadmin",

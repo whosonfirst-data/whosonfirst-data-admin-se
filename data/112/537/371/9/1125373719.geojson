@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":689,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.80046,
     "lbl:longitude":17.445649,
     "lbl:max_zoom":17.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132909,
-        "qs_pg:id":109518
+        "qs_pg:id":109518,
+        "se-lant:code":"215129"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497047584,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"de8761665a8a3c9554e5a184ecf2daa7",
+    "wof:geomhash":"cbb48d789f5a4dfb62dbde7e9d04eb75",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125373719,
-    "wof:lastmodified":1582340826,
+    "wof:lastmodified":1695879505,
     "wof:name":"Ramsta",
     "wof:parent_id":1159303253,
     "wof:placetype":"localadmin",

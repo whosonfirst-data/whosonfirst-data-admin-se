@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017029,
-    "geom:area_square_m":110302968.570012,
+    "geom:area_square_m":110302968.570023,
     "geom:bbox":"14.0599863191,58.3509141227,14.3126157201,58.457968759",
     "geom:latitude":58.409353,
     "geom:longitude":14.182896,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":9165,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.39875,
     "lbl:longitude":14.185267,
     "lbl:max_zoom":15.0,
@@ -112,14 +121,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132287,
-        "qs_pg:id":381361
+        "qs_pg:id":381361,
+        "se-lant:code":"107360"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497048106,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"bccaaf6cf356333da7835661ca42d56f",
+    "wof:geomhash":"9c5de2404127d6e4aa1df3b1fbe34bdf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -130,7 +141,7 @@
         }
     ],
     "wof:id":1125382045,
-    "wof:lastmodified":1582340847,
+    "wof:lastmodified":1695879519,
     "wof:name":"Tibro",
     "wof:parent_id":1159302957,
     "wof:placetype":"localadmin",

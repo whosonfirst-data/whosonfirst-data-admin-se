@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006159,
-    "geom:area_square_m":38366807.445624,
+    "geom:area_square_m":38366807.44562,
     "geom:bbox":"16.6473346646,59.7144105903,16.784447378,59.7913086742",
     "geom:latitude":59.749884,
     "geom:longitude":16.71661,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.752121,
     "lbl:longitude":16.710933,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"214051"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733834,
-    "wof:geomhash":"453ca9b782fb9f801d8d9061fc224fa3",
+    "wof:geomhash":"2f1fb8e336bf9d8b07047064d23254e5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159305647,
-    "wof:lastmodified":1566643275,
+    "wof:lastmodified":1695879413,
     "wof:name":"Sevalla",
     "wof:parent_id":1159303331,
     "wof:placetype":"localadmin",

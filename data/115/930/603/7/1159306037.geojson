@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016403,
-    "geom:area_square_m":92972518.027038,
+    "geom:area_square_m":92972518.027028,
     "geom:bbox":"17.9903316111,62.6681093536,18.2109008866,62.7725117038",
     "geom:latitude":62.717062,
     "geom:longitude":18.088488,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":62.721976,
     "lbl:longitude":18.066431,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"321005"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733933,
-    "wof:geomhash":"70a8151e1a93761b86fa52d519bf2501",
+    "wof:geomhash":"4e57e8525d85f33bc93aa404a4d2da99",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306037,
-    "wof:lastmodified":1566643216,
+    "wof:lastmodified":1695879403,
     "wof:name":"Hemso",
     "wof:parent_id":1159302975,
     "wof:placetype":"localadmin",

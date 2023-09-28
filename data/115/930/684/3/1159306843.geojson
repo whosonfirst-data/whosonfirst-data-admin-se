@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007911,
-    "geom:area_square_m":54874931.568209,
+    "geom:area_square_m":54874931.568211,
     "geom:bbox":"13.4221321672,55.8050008326,13.6015596156,55.9345056497",
     "geom:latitude":55.875251,
     "geom:longitude":13.512915,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.882814,
     "lbl:longitude":13.519006,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101240"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734151,
-    "wof:geomhash":"9d1890d466f7308f373116d48a68cb68",
+    "wof:geomhash":"8e15c284f3d622c1ce2277042c1d04b6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306843,
-    "wof:lastmodified":1566643317,
+    "wof:lastmodified":1695879421,
     "wof:name":"Bosjokloster",
     "wof:parent_id":1159303357,
     "wof:placetype":"localadmin",

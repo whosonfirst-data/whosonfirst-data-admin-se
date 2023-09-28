@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005384,
-    "geom:area_square_m":34107145.410569,
+    "geom:area_square_m":34107145.410574,
     "geom:bbox":"17.8687481627,59.1424916971,17.9848290345,59.2294778805",
     "geom:latitude":59.182477,
     "geom:longitude":17.920504,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.173851,
     "lbl:longitude":17.924462,
     "lbl:max_zoom":18.0,
@@ -51,9 +60,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"212073"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733844,
-    "wof:geomhash":"bb680ce25c06af8ba5a7e67d3d668f3d",
+    "wof:geomhash":"d8b61eae3d1989c1a779fb15345e248e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -64,7 +77,7 @@
         }
     ],
     "wof:id":1159305685,
-    "wof:lastmodified":1566643164,
+    "wof:lastmodified":1695879392,
     "wof:name":"Tullinge",
     "wof:parent_id":1159303191,
     "wof:placetype":"localadmin",

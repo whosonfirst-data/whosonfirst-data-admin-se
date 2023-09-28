@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004722,
-    "geom:area_square_m":30552477.389636,
+    "geom:area_square_m":30552477.389645,
     "geom:bbox":"15.7567338213,58.4137889329,15.8919949338,58.4856412018",
     "geom:latitude":58.451539,
     "geom:longitude":15.826308,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.447744,
     "lbl:longitude":15.81509,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"108090"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733858,
-    "wof:geomhash":"d8f66300cb963024ecf3d743ac582a58",
+    "wof:geomhash":"f975e4835244561b673917c03cc076c7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159305751,
-    "wof:lastmodified":1566643240,
+    "wof:lastmodified":1695879407,
     "wof:name":"Tornevalla",
     "wof:parent_id":1159303147,
     "wof:placetype":"localadmin",

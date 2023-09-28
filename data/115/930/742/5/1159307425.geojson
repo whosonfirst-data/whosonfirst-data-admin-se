@@ -10,6 +10,15 @@
     "geom:latitude":58.454279,
     "geom:longitude":12.783773,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.452981,
     "lbl:longitude":12.779406,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107365"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734307,
-    "wof:geomhash":"0038b99bd166e39bdbb407b3d84be2ff",
+    "wof:geomhash":"2215756a9fce9a2e9bbb0e2129d73c8d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307425,
-    "wof:lastmodified":1566643374,
+    "wof:lastmodified":1695879432,
     "wof:name":"Friel",
     "wof:parent_id":1159303281,
     "wof:placetype":"localadmin",

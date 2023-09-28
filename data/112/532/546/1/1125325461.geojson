@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006398,
-    "geom:area_square_m":42597299.69513,
+    "geom:area_square_m":42597299.695131,
     "geom:bbox":"18.1354011898,57.385571049,18.2761195685,57.466897049",
     "geom:latitude":57.423763,
     "geom:longitude":18.206878,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":682,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.420309,
     "lbl:longitude":18.202074,
     "lbl:max_zoom":17.0,
@@ -91,14 +100,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132535,
-        "qs_pg:id":758203
+        "qs_pg:id":758203,
+        "se-lant:code":"106030"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497044782,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"46233d79edb7a0c2c872ffb6ba2c070a",
+    "wof:geomhash":"bea46755439e3d37a2da5ff1b8787852",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -109,7 +120,7 @@
         }
     ],
     "wof:id":1125325461,
-    "wof:lastmodified":1582340777,
+    "wof:lastmodified":1695879471,
     "wof:name":"Sanda",
     "wof:parent_id":1159303535,
     "wof:placetype":"localadmin",

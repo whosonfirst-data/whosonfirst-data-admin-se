@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004669,
-    "geom:area_square_m":32639936.983037,
+    "geom:area_square_m":32639936.983033,
     "geom:bbox":"13.8726342298,55.5305137133,14.0147977281,55.6030272009",
     "geom:latitude":55.572343,
     "geom:longitude":13.952878,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.57666,
     "lbl:longitude":13.953961,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101095"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734226,
-    "wof:geomhash":"16452188487236234e39657b3c0f7d3e",
+    "wof:geomhash":"8f56edf889a2430400d665fc425435ac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307111,
-    "wof:lastmodified":1566643379,
+    "wof:lastmodified":1695879432,
     "wof:name":"Tryde",
     "wof:parent_id":1159302959,
     "wof:placetype":"localadmin",

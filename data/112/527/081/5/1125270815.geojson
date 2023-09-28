@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000821,
-    "geom:area_square_m":5731915.44372,
+    "geom:area_square_m":5731915.443722,
     "geom:bbox":"12.9324708936,55.5864823345,12.983531056,55.6148998332",
     "geom:latitude":55.60069,
     "geom:longitude":12.960761,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":20787,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.601427,
     "lbl:longitude":12.961166,
     "lbl:max_zoom":14.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132173,
-        "qs_pg:id":757970
+        "qs_pg:id":757970,
+        "se-lant:code":"101117"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497042119,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"67b91d4e0ab23961ddd4841232e230ba",
+    "wof:geomhash":"cb08c701c2b881f13078b4fbcb4f0aad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125270815,
-    "wof:lastmodified":1582340805,
+    "wof:lastmodified":1695879490,
     "wof:name":"Slottsstaden",
     "wof:parent_id":1159303367,
     "wof:placetype":"localadmin",

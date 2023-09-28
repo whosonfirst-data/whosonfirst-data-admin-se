@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.038386,
-    "geom:area_square_m":220584387.666277,
+    "geom:area_square_m":220584387.666264,
     "geom:bbox":"14.5557515768,62.2215775185,14.9395131788,62.4040577255",
     "geom:latitude":62.307336,
     "geom:longitude":14.769829,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":62.3098,
     "lbl:longitude":14.782908,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"319005"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734236,
-    "wof:geomhash":"9c9418a237db02b10ec07a1c6a39340a",
+    "wof:geomhash":"c893d775add4f96169c4107d9f01a38c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307153,
-    "wof:lastmodified":1566643246,
+    "wof:lastmodified":1695879408,
     "wof:name":"Overhogdal",
     "wof:parent_id":1159303245,
     "wof:placetype":"localadmin",

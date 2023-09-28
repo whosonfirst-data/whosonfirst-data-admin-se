@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000088,
-    "geom:area_square_m":553530.967595,
+    "geom:area_square_m":553530.967596,
     "geom:bbox":"18.0452008081,59.3332667281,18.0649305744,59.3421303722",
     "geom:latitude":59.337646,
     "geom:longitude":18.055561,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":7768,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.337753,
     "lbl:longitude":18.055561,
     "lbl:max_zoom":15.0,
@@ -61,14 +70,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131703,
-        "qs_pg:id":757664
+        "qs_pg:id":757664,
+        "se-lant:code":"215023"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497046866,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"2348c0492cf234335b292091104f7fde",
+    "wof:geomhash":"d2654b6a8a5a12160e507d3b4cc2d79a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +90,7 @@
         }
     ],
     "wof:id":1125362143,
-    "wof:lastmodified":1582340863,
+    "wof:lastmodified":1695879531,
     "wof:name":"Stockholms Adolf Fredrik",
     "wof:parent_id":1159303035,
     "wof:placetype":"localadmin",

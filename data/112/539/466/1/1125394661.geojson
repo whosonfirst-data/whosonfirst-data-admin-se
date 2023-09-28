@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006387,
-    "geom:area_square_m":40283253.383964,
+    "geom:area_square_m":40283253.383963,
     "geom:bbox":"18.3192362267,59.3017934758,18.4688753659,59.3665862646",
     "geom:latitude":59.33153,
     "geom:longitude":18.396222,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":13292,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.336384,
     "lbl:longitude":18.402266,
     "lbl:max_zoom":15.0,
@@ -64,14 +73,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132009,
-        "qs_pg:id":1042400
+        "qs_pg:id":1042400,
+        "se-lant:code":"215034"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497048932,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"6650c1d25885cbaac74f4f4008daacca",
+    "wof:geomhash":"95d676b3a0a2c8228ecc71d5ac548987",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,7 +93,7 @@
         }
     ],
     "wof:id":1125394661,
-    "wof:lastmodified":1582340841,
+    "wof:lastmodified":1695879516,
     "wof:name":"Gustavsberg",
     "wof:parent_id":1159303241,
     "wof:placetype":"localadmin",

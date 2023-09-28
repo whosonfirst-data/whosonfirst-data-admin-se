@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020338,
-    "geom:area_square_m":129522394.805714,
+    "geom:area_square_m":129522394.805707,
     "geom:bbox":"18.0417057913,58.9231590429,18.2884833079,59.0693925969",
     "geom:latitude":59.000974,
     "geom:longitude":18.150339,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.012364,
     "lbl:longitude":18.170951,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"212046"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734167,
-    "wof:geomhash":"67af7ef2757d4ccb24d2ca009a386bce",
+    "wof:geomhash":"92aa1aa2885ded2bce5c4f714254a894",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306897,
-    "wof:lastmodified":1566643189,
+    "wof:lastmodified":1695879398,
     "wof:name":"Musko",
     "wof:parent_id":1159303483,
     "wof:placetype":"localadmin",

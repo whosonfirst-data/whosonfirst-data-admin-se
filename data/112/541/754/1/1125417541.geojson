@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007583,
-    "geom:area_square_m":51032681.517595,
+    "geom:area_square_m":51032681.517594,
     "geom:bbox":"14.3306261634,56.9478076334,14.4299399769,57.0903125597",
     "geom:latitude":57.024114,
     "geom:longitude":14.383905,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":144,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.033099,
     "lbl:longitude":14.38464,
     "lbl:max_zoom":18.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132763,
-        "qs_pg:id":758330
+        "qs_pg:id":758330,
+        "se-lant:code":"105100"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497051610,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"55bde0e8805c09a93e1f5f3a6c411aa1",
+    "wof:geomhash":"7a685902c57b86c9c7f992d348ef70c1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125417541,
-    "wof:lastmodified":1582340868,
+    "wof:lastmodified":1695879534,
     "wof:name":"Mistelas",
     "wof:parent_id":1159303407,
     "wof:placetype":"localadmin",

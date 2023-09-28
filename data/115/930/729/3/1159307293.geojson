@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003068,
-    "geom:area_square_m":20527903.636302,
+    "geom:area_square_m":20527903.636309,
     "geom:bbox":"12.3373773937,57.21956588,12.4302221673,57.2774315412",
     "geom:latitude":57.245256,
     "geom:longitude":12.388209,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.244836,
     "lbl:longitude":12.388201,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"104070"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734274,
-    "wof:geomhash":"c1b6581d8d66966d314fa6279082a702",
+    "wof:geomhash":"950b02a796c0338393994764be22fd88",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307293,
-    "wof:lastmodified":1566643382,
+    "wof:lastmodified":1695879433,
     "wof:name":"Sallstorp",
     "wof:parent_id":1159302939,
     "wof:placetype":"localadmin",

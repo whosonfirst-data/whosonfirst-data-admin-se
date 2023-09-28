@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004692,
-    "geom:area_square_m":30108546.499214,
+    "geom:area_square_m":30108546.499215,
     "geom:bbox":"13.8318258776,58.7005018716,13.9723181691,58.7894239154",
     "geom:latitude":58.739942,
     "geom:longitude":13.891298,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.74058,
     "lbl:longitude":13.890192,
     "lbl:max_zoom":18.0,
@@ -138,9 +147,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107442"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733899,
-    "wof:geomhash":"70704de875e836b8283f2cd3b6763d69",
+    "wof:geomhash":"46fe1ba1f6b849a91d1f03362a1512f8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -151,7 +164,7 @@
         }
     ],
     "wof:id":1159305895,
-    "wof:lastmodified":1566643255,
+    "wof:lastmodified":1695879409,
     "wof:name":"Berga",
     "wof:parent_id":1159303321,
     "wof:placetype":"localadmin",

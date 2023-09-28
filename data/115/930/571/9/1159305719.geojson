@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003933,
-    "geom:area_square_m":25749463.769712,
+    "geom:area_square_m":25749463.769713,
     "geom:bbox":"13.3906290859,57.996431872,13.5100723174,58.0543584578",
     "geom:latitude":58.026474,
     "geom:longitude":13.448821,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.025592,
     "lbl:longitude":13.449693,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107186"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733851,
-    "wof:geomhash":"fb8e1103fea5e36ab4d0a76987ff2889",
+    "wof:geomhash":"cffc35d6a690ec0134dcdd1e467581e9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159305719,
-    "wof:lastmodified":1566643355,
+    "wof:lastmodified":1695879429,
     "wof:name":"Brismene",
     "wof:parent_id":1159303137,
     "wof:placetype":"localadmin",

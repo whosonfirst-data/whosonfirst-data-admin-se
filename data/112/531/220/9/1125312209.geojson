@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.705439,
-    "geom:area_square_m":7863130788.209972,
+    "geom:area_square_m":7863130788.210009,
     "geom:bbox":"17.8997059287,67.6399383967,20.9723639901,68.5818554498",
     "geom:latitude":68.107063,
     "geom:longitude":19.411058,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":20080,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":68.151549,
     "lbl:longitude":19.382077,
     "lbl:max_zoom":14.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132806,
-        "qs_pg:id":758353
+        "qs_pg:id":758353,
+        "se-lant:code":"324024"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497044063,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"f43af205163084248d0751cd6771d992",
+    "wof:geomhash":"f03cc759cedb5a4249a42b5b36bf46c8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125312209,
-    "wof:lastmodified":1582340855,
+    "wof:lastmodified":1695879525,
     "wof:name":"Jukkasjarvi",
     "wof:parent_id":1159302945,
     "wof:placetype":"localadmin",

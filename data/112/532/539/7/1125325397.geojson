@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002861,
-    "geom:area_square_m":18464453.162222,
+    "geom:area_square_m":18464453.162221,
     "geom:bbox":"14.4615598777,58.5117740046,14.5653112618,58.5588316491",
     "geom:latitude":58.53769,
     "geom:longitude":14.514953,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":3152,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.534778,
     "lbl:longitude":14.514971,
     "lbl:max_zoom":15.0,
@@ -112,14 +121,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132438,
-        "qs_pg:id":758143
+        "qs_pg:id":758143,
+        "se-lant:code":"107399"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497044775,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"ef8628f1562348b065e0ba668b54fd33",
+    "wof:geomhash":"d345842dc69e6c410af385968e9429a7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -130,7 +141,7 @@
         }
     ],
     "wof:id":1125325397,
-    "wof:lastmodified":1582340766,
+    "wof:lastmodified":1695879459,
     "wof:name":"Karlsborg",
     "wof:parent_id":1159302935,
     "wof:placetype":"localadmin",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000588,
-    "geom:area_square_m":3881938.625276,
+    "geom:area_square_m":3881938.625275,
     "geom:bbox":"12.0139225081,57.7420811478,12.0501507662,57.7689662422",
     "geom:latitude":57.756313,
     "geom:longitude":12.031418,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":14614,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.756087,
     "lbl:longitude":12.029611,
     "lbl:max_zoom":15.0,
@@ -73,14 +82,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132242,
-        "qs_pg:id":904407
+        "qs_pg:id":904407,
+        "se-lant:code":"107093"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497051600,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"8fa403357d36a9badba7014c6a220634",
+    "wof:geomhash":"86182eb37460a3d5093e31f6e4044038",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +102,7 @@
         }
     ],
     "wof:id":1125417485,
-    "wof:lastmodified":1582340871,
+    "wof:lastmodified":1695879541,
     "wof:name":"Kortedala",
     "wof:parent_id":1159302989,
     "wof:placetype":"localadmin",

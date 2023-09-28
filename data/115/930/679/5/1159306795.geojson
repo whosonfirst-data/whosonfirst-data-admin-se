@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004543,
-    "geom:area_square_m":29579642.475019,
+    "geom:area_square_m":29579642.475023,
     "geom:bbox":"12.8487654862,58.1925774278,12.9767644581,58.2614969042",
     "geom:latitude":58.224992,
     "geom:longitude":12.921137,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.228135,
     "lbl:longitude":12.925481,
     "lbl:max_zoom":18.0,
@@ -63,9 +72,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107251"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734136,
-    "wof:geomhash":"967930e879d2d7924e929dcebfee7b94",
+    "wof:geomhash":"8e680fafdbdd3742a9ab3da4f12cc349",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +89,7 @@
         }
     ],
     "wof:id":1159306795,
-    "wof:lastmodified":1566643314,
+    "wof:lastmodified":1695879421,
     "wof:name":"Naum",
     "wof:parent_id":1159303487,
     "wof:placetype":"localadmin",

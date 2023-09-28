@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005192,
-    "geom:area_square_m":33428968.157851,
+    "geom:area_square_m":33428968.157853,
     "geom:bbox":"12.3267541153,58.5887235847,12.4725822855,58.6529021462",
     "geom:latitude":58.619027,
     "geom:longitude":12.40784,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":323,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.621811,
     "lbl:longitude":12.418899,
     "lbl:max_zoom":17.0,
@@ -70,14 +79,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132257,
-        "qs_pg:id":109415
+        "qs_pg:id":109415,
+        "se-lant:code":"110011"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497047538,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"4ed6444eca0d9f534b1c2a21814dc9b7",
+    "wof:geomhash":"eb17dd68eb9cd0c8e3dc703831403544",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +99,7 @@
         }
     ],
     "wof:id":1125372989,
-    "wof:lastmodified":1582340832,
+    "wof:lastmodified":1695879510,
     "wof:name":"Erikstad",
     "wof:parent_id":1159303445,
     "wof:placetype":"localadmin",

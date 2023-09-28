@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025756,
-    "geom:area_square_m":162997901.170486,
+    "geom:area_square_m":162997901.170471,
     "geom:bbox":"12.6419917504,59.1511879275,12.9418726719,59.283644108",
     "geom:latitude":59.215727,
     "geom:longitude":12.801156,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.211444,
     "lbl:longitude":12.801141,
     "lbl:max_zoom":18.0,
@@ -54,9 +63,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"213013"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734176,
-    "wof:geomhash":"bf45b1391c04d759ccb85502d806324a",
+    "wof:geomhash":"b6f45364ec2df48d8089e5826209adf9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,7 +80,7 @@
         }
     ],
     "wof:id":1159306917,
-    "wof:lastmodified":1566643336,
+    "wof:lastmodified":1695879425,
     "wof:name":"Kila",
     "wof:parent_id":1159303169,
     "wof:placetype":"localadmin",

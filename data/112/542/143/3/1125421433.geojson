@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.088478,
-    "geom:area_square_m":488996913.244868,
+    "geom:area_square_m":488996913.244922,
     "geom:bbox":"14.7385822434,63.333850695,15.397566434,63.5948632222",
     "geom:latitude":63.450963,
     "geom:longitude":15.005482,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":1111,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":63.473193,
     "lbl:longitude":14.928256,
     "lbl:max_zoom":16.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132610,
-        "qs_pg:id":758252
+        "qs_pg:id":758252,
+        "se-lant:code":"322039"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497052315,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"6e3dfb2158b51a18b53980cd4d177acc",
+    "wof:geomhash":"757a85203a7fee23c0ade0af0a60f361",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125421433,
-    "wof:lastmodified":1582340813,
+    "wof:lastmodified":1695879495,
     "wof:name":"Haggenas",
     "wof:parent_id":1159303231,
     "wof:placetype":"localadmin",

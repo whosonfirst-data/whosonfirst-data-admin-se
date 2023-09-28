@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004361,
-    "geom:area_square_m":28177137.601013,
+    "geom:area_square_m":28177137.601006,
     "geom:bbox":"13.0254983939,58.4649070738,13.1342512566,58.5345742182",
     "geom:latitude":58.497981,
     "geom:longitude":13.081316,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.498441,
     "lbl:longitude":13.086672,
     "lbl:max_zoom":18.0,
@@ -57,9 +66,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107372"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733964,
-    "wof:geomhash":"6c92cbd969f90ac02a671c130c4dbad7",
+    "wof:geomhash":"af256802134982d7312f4c9174c620d4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +83,7 @@
         }
     ],
     "wof:id":1159306167,
-    "wof:lastmodified":1566643197,
+    "wof:lastmodified":1695879399,
     "wof:name":"Rada",
     "wof:parent_id":1159303281,
     "wof:placetype":"localadmin",

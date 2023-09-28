@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001697,
-    "geom:area_square_m":11893632.000267,
+    "geom:area_square_m":11893632.000268,
     "geom:bbox":"13.5238025063,55.4238656331,13.6029162314,55.4861736341",
     "geom:latitude":55.463514,
     "geom:longitude":13.559976,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.467792,
     "lbl:longitude":13.552836,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101041"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734210,
-    "wof:geomhash":"59a4fd10bba4156cd291d87e3eeadba4",
+    "wof:geomhash":"c6edf728cc65e35c2aa5e613282f95ee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307047,
-    "wof:lastmodified":1566643286,
+    "wof:lastmodified":1695879414,
     "wof:name":"Orsjo",
     "wof:parent_id":1159303379,
     "wof:placetype":"localadmin",

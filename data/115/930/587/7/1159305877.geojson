@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000773,
-    "geom:area_square_m":4925135.173256,
+    "geom:area_square_m":4925135.173255,
     "geom:bbox":"16.1506095069,58.9724947834,16.217804371,59.0026076088",
     "geom:latitude":58.985807,
     "geom:longitude":16.188249,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.983158,
     "lbl:longitude":16.18773,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"212019"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733890,
-    "wof:geomhash":"832efc2aa744ab87b4abc94cff8603c3",
+    "wof:geomhash":"b0462452d35dc71738975e94d8833ebf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159305877,
-    "wof:lastmodified":1566643262,
+    "wof:lastmodified":1695879410,
     "wof:name":"Navertorp",
     "wof:parent_id":1159303103,
     "wof:placetype":"localadmin",

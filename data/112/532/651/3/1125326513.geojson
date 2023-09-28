@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033085,
-    "geom:area_square_m":220970816.497018,
+    "geom:area_square_m":220970816.497027,
     "geom:bbox":"15.6985471351,57.2015771428,16.0531654588,57.4032187284",
     "geom:latitude":57.30756,
     "geom:longitude":15.91657,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":1684,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.315045,
     "lbl:longitude":15.943427,
     "lbl:max_zoom":16.0,
@@ -61,14 +70,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131708,
-        "qs_pg:id":757669
+        "qs_pg:id":757669,
+        "se-lant:code":"105183"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497044848,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"d2cbc8a35159e5c84abc23fea906f828",
+    "wof:geomhash":"8e4938cf21c1fb030eaf7a2d2da63ae1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +90,7 @@
         }
     ],
     "wof:id":1125326513,
-    "wof:lastmodified":1582340760,
+    "wof:lastmodified":1695879455,
     "wof:name":"Morlunda",
     "wof:parent_id":1159303371,
     "wof:placetype":"localadmin",

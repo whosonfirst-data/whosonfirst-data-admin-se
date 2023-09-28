@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00492,
-    "geom:area_square_m":32360775.983913,
+    "geom:area_square_m":32360775.983919,
     "geom:bbox":"11.8410735087,57.8263804573,11.9658472081,57.8907691555",
     "geom:latitude":57.861222,
     "geom:longitude":11.898173,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":7138,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.860883,
     "lbl:longitude":11.880651,
     "lbl:max_zoom":15.0,
@@ -130,14 +139,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8133275,
-        "qs_pg:id":1155726
+        "qs_pg:id":1155726,
+        "se-lant:code":"109010"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497049587,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"662bcd5f0e780b9d575e5826f9b13574",
+    "wof:geomhash":"8e0e91faa8a310906318083fef0a0652",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -148,7 +159,7 @@
         }
     ],
     "wof:id":1125405087,
-    "wof:lastmodified":1582340866,
+    "wof:lastmodified":1695879533,
     "wof:name":"Ytterby",
     "wof:parent_id":1159303109,
     "wof:placetype":"localadmin",

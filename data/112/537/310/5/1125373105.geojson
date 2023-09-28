@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018901,
-    "geom:area_square_m":130592822.431329,
+    "geom:area_square_m":130592822.431305,
     "geom:bbox":"14.5699517465,55.9849378214,14.864282458,56.1046802751",
     "geom:latitude":56.029097,
     "geom:longitude":14.7077,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":5404,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.038414,
     "lbl:longitude":14.70549,
     "lbl:max_zoom":15.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132466,
-        "qs_pg:id":109439
+        "qs_pg:id":109439,
+        "se-lant:code":"102003"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497047545,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"83d187fb5e8d444e87557356d204c507",
+    "wof:geomhash":"356c10903fe27d7641ca0157553f9be4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125373105,
-    "wof:lastmodified":1582340835,
+    "wof:lastmodified":1695879512,
     "wof:name":"Mjallby",
     "wof:parent_id":1159303089,
     "wof:placetype":"localadmin",

@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004249,
-    "geom:area_square_m":27589284.602321,
+    "geom:area_square_m":27589284.602314,
     "geom:bbox":"14.9832114238,58.2806758445,15.0703963942,58.3565474663",
     "geom:latitude":58.320238,
     "geom:longitude":15.029282,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.320551,
     "lbl:longitude":15.028457,
     "lbl:max_zoom":18.0,
@@ -51,9 +60,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"108041"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733992,
-    "wof:geomhash":"5f9863b3ea571d58a52849c7d9a8f9f7",
+    "wof:geomhash":"2baf50f1f54c6e224bab99790ec42256",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -64,7 +77,7 @@
         }
     ],
     "wof:id":1159306293,
-    "wof:lastmodified":1566643196,
+    "wof:lastmodified":1695879399,
     "wof:name":"Hogstad",
     "wof:parent_id":1159302925,
     "wof:placetype":"localadmin",

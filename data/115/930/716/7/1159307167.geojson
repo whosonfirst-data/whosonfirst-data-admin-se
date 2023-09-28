@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004037,
-    "geom:area_square_m":27945712.679155,
+    "geom:area_square_m":27945712.679156,
     "geom:bbox":"12.8766963234,55.9170430217,12.9892649545,55.9939957841",
     "geom:latitude":55.959367,
     "geom:longitude":12.931141,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.957849,
     "lbl:longitude":12.932003,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101259"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734240,
-    "wof:geomhash":"c8d5821baf39c317014cf4dc09646990",
+    "wof:geomhash":"3cd3625a399709ed19fabc23b9b1ceab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307167,
-    "wof:lastmodified":1566643380,
+    "wof:lastmodified":1695879433,
     "wof:name":"Ottarp",
     "wof:parent_id":1159302965,
     "wof:placetype":"localadmin",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028226,
-    "geom:area_square_m":161696224.450304,
+    "geom:area_square_m":161696224.45028,
     "geom:bbox":"17.3527444835,62.319031892,17.655807346,62.4941225769",
     "geom:latitude":62.401434,
     "geom:longitude":17.49033,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":8251,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":62.392155,
     "lbl:longitude":17.467274,
     "lbl:max_zoom":15.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8133019,
-        "qs_pg:id":1246040
+        "qs_pg:id":1246040,
+        "se-lant:code":"320011"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497046952,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"271472b4bdae2cc0897565ec90a380cd",
+    "wof:geomhash":"c6e759ef063e6aa90bd1ec6b16d3c7a1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125363709,
-    "wof:lastmodified":1582340860,
+    "wof:lastmodified":1695879530,
     "wof:name":"Alno",
     "wof:parent_id":1159303427,
     "wof:placetype":"localadmin",

@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003024,
-    "geom:area_square_m":21115468.4981,
+    "geom:area_square_m":21115468.498101,
     "geom:bbox":"13.9153202611,55.5961789035,14.031134187,55.6419219882",
     "geom:latitude":55.616881,
     "geom:longitude":13.976297,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.61799,
     "lbl:longitude":13.977141,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101145"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734068,
-    "wof:geomhash":"2a8c1812801994450a2bef515f458a3b",
+    "wof:geomhash":"f58a2606ac9c2055fbdf0a0b18fd38ee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306523,
-    "wof:lastmodified":1566643322,
+    "wof:lastmodified":1695879423,
     "wof:name":"Tranas",
     "wof:parent_id":1159302959,
     "wof:placetype":"localadmin",

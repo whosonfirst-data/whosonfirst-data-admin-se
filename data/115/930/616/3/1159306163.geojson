@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.103486,
-    "geom:area_square_m":563373576.714809,
+    "geom:area_square_m":563373576.714812,
     "geom:bbox":"14.34221237,63.7670536347,15.1063750186,64.0268679145",
     "geom:latitude":63.879207,
     "geom:longitude":14.758045,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":63.898495,
     "lbl:longitude":14.795601,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"322046"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733962,
-    "wof:geomhash":"47ceb37748012ff2ec23e90ec076d623",
+    "wof:geomhash":"1e3d805cde7e4c69685095a4e9284b08",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306163,
-    "wof:lastmodified":1566643197,
+    "wof:lastmodified":1695879399,
     "wof:name":"Laxsjo",
     "wof:parent_id":1159303097,
     "wof:placetype":"localadmin",

@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008254,
-    "geom:area_square_m":52946883.181736,
+    "geom:area_square_m":52946883.181741,
     "geom:bbox":"11.8413884362,58.6885092956,11.9694076162,58.7978229801",
     "geom:latitude":58.748247,
     "geom:longitude":11.905156,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.747845,
     "lbl:longitude":11.899957,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"110016"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734049,
-    "wof:geomhash":"f7c7341a58f6c9e742de95c3746c67c1",
+    "wof:geomhash":"2e269a643f03989e7156edd34c0809db",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306457,
-    "wof:lastmodified":1566643186,
+    "wof:lastmodified":1695879397,
     "wof:name":"Lerdal",
     "wof:parent_id":1159303061,
     "wof:placetype":"localadmin",

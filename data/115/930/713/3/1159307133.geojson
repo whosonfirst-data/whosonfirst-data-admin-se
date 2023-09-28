@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031812,
-    "geom:area_square_m":205793115.881806,
+    "geom:area_square_m":205793115.881828,
     "geom:bbox":"12.3817157682,58.3631621838,12.7426582434,58.5676823038",
     "geom:latitude":58.453663,
     "geom:longitude":12.572783,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.440799,
     "lbl:longitude":12.572816,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107363"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734231,
-    "wof:geomhash":"3affe8278ccb50f3cd9e4b5fd1778ae5",
+    "wof:geomhash":"723ad4419f754974dba409a71c2a987f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307133,
-    "wof:lastmodified":1566643233,
+    "wof:lastmodified":1695879406,
     "wof:name":"Vanersnas",
     "wof:parent_id":1159303519,
     "wof:placetype":"localadmin",

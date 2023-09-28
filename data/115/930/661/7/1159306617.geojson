@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.267568,
-    "geom:area_square_m":1265143909.382686,
+    "geom:area_square_m":1265143909.382647,
     "geom:bbox":"22.1439664001,67.2653738809,23.0641373845,67.7467204497",
     "geom:latitude":67.518243,
     "geom:longitude":22.606601,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":67.51628,
     "lbl:longitude":22.598007,
     "lbl:max_zoom":18.0,
@@ -60,9 +69,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"325025"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734097,
-    "wof:geomhash":"1e8b430d0f19caad7eae81d7937cb880",
+    "wof:geomhash":"59267ca07cbdcdf2f3fe1abbb47664c9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,7 +86,7 @@
         }
     ],
     "wof:id":1159306617,
-    "wof:lastmodified":1566643223,
+    "wof:lastmodified":1695879404,
     "wof:name":"Junosuando",
     "wof:parent_id":1159302953,
     "wof:placetype":"localadmin",

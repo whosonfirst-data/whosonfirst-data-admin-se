@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003076,
-    "geom:area_square_m":21211334.891879,
+    "geom:area_square_m":21211334.891883,
     "geom:bbox":"13.0821136624,56.070746552,13.1722353634,56.1279217477",
     "geom:latitude":56.100318,
     "geom:longitude":13.132408,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.098211,
     "lbl:longitude":13.131547,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101295"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734249,
-    "wof:geomhash":"e40d939c4546426051986d3e1436d606",
+    "wof:geomhash":"86b0420c02a8c29d8adfcc7acc322aa7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307203,
-    "wof:lastmodified":1566643384,
+    "wof:lastmodified":1695879433,
     "wof:name":"Vastra Sonnarslov",
     "wof:parent_id":1159303295,
     "wof:placetype":"localadmin",

@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007225,
-    "geom:area_square_m":46448660.577613,
+    "geom:area_square_m":46448660.577612,
     "geom:bbox":"11.821450548,58.6228379592,11.9221230562,58.7266195461",
     "geom:latitude":58.674222,
     "geom:longitude":11.867885,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.67474,
     "lbl:longitude":11.868849,
     "lbl:max_zoom":18.0,
@@ -54,9 +63,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"109073"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734325,
-    "wof:geomhash":"f6d4fd0d86a2bbd90b1a044ac2110dee",
+    "wof:geomhash":"c319368799c30e6e677fe8529ce3e6c8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,7 +80,7 @@
         }
     ],
     "wof:id":1159307491,
-    "wof:lastmodified":1566643244,
+    "wof:lastmodified":1695879408,
     "wof:name":"Sanne",
     "wof:parent_id":1159302991,
     "wof:placetype":"localadmin",

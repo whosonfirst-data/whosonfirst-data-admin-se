@@ -10,6 +10,15 @@
     "geom:latitude":57.543872,
     "geom:longitude":18.240336,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.538644,
     "lbl:longitude":18.239431,
     "lbl:max_zoom":18.0,
@@ -45,9 +54,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"106056"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733846,
-    "wof:geomhash":"76368738843ff4234b720bce95334307",
+    "wof:geomhash":"e574a97796f68f1a50f3b359691487c1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +71,7 @@
         }
     ],
     "wof:id":1159305695,
-    "wof:lastmodified":1566643139,
+    "wof:lastmodified":1695879388,
     "wof:name":"Stenkumla",
     "wof:parent_id":1159303535,
     "wof:placetype":"localadmin",

@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001488,
-    "geom:area_square_m":9651929.804012,
+    "geom:area_square_m":9651929.804013,
     "geom:bbox":"13.0322975791,58.3384487631,13.0842856782,58.3816019769",
     "geom:latitude":58.36083,
     "geom:longitude":13.058121,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.365499,
     "lbl:longitude":13.05553,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107337"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733985,
-    "wof:geomhash":"ddc2927126e4952d1450e357c619b57c",
+    "wof:geomhash":"423f5a566a85a0112601cd46620cfe69",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306257,
-    "wof:lastmodified":1566643299,
+    "wof:lastmodified":1695879417,
     "wof:name":"Harjevad",
     "wof:parent_id":1159303281,
     "wof:placetype":"localadmin",

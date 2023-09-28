@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003102,
-    "geom:area_square_m":20226572.257854,
+    "geom:area_square_m":20226572.25785,
     "geom:bbox":"12.8358264644,58.143705261,12.945124726,58.2048957588",
     "geom:latitude":58.172294,
     "geom:longitude":12.903419,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.171828,
     "lbl:longitude":12.908799,
     "lbl:max_zoom":18.0,
@@ -42,9 +51,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107213"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734121,
-    "wof:geomhash":"505b4977cc85cc9cb17fe91addf2a599",
+    "wof:geomhash":"ad61cad64eb9da03be065be57b65876f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,7 +68,7 @@
         }
     ],
     "wof:id":1159306733,
-    "wof:lastmodified":1566643191,
+    "wof:lastmodified":1695879398,
     "wof:name":"Eling",
     "wof:parent_id":1159303487,
     "wof:placetype":"localadmin",

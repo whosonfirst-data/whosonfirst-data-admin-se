@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021074,
-    "geom:area_square_m":139601343.192624,
+    "geom:area_square_m":139601343.192623,
     "geom:bbox":"14.7880029446,57.5357234593,15.1010114832,57.6834818314",
     "geom:latitude":57.607746,
     "geom:longitude":14.974012,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":1048,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.590219,
     "lbl:longitude":14.99766,
     "lbl:max_zoom":16.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132662,
-        "qs_pg:id":758278
+        "qs_pg:id":758278,
+        "se-lant:code":"105222"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497042503,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"6dd3e2eb91c7dd2e6913b9da0da90d08",
+    "wof:geomhash":"aa5c863dfa79ef7f1235ecf61deb3181",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125281071,
-    "wof:lastmodified":1582340791,
+    "wof:lastmodified":1695879480,
     "wof:name":"Horeda",
     "wof:parent_id":1159303243,
     "wof:placetype":"localadmin",

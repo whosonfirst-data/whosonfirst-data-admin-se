@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008475,
-    "geom:area_square_m":56782686.30219,
+    "geom:area_square_m":56782686.302187,
     "geom:bbox":"12.4063247459,57.1528102178,12.5991031063,57.2313140701",
     "geom:latitude":57.189856,
     "geom:longitude":12.500286,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.196193,
     "lbl:longitude":12.5003,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"104069"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734233,
-    "wof:geomhash":"df01e6efb4793a22bb86a2aa01282411",
+    "wof:geomhash":"a3695c8a741a9b906a505a6a3d590de8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307137,
-    "wof:lastmodified":1566643232,
+    "wof:lastmodified":1695879406,
     "wof:name":"Skallinge",
     "wof:parent_id":1159302939,
     "wof:placetype":"localadmin",

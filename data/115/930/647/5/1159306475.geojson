@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004809,
-    "geom:area_square_m":33454952.617026,
+    "geom:area_square_m":33454952.617017,
     "geom:bbox":"13.2764874311,55.7384090433,13.4967634382,55.7954329457",
     "geom:latitude":55.763875,
     "geom:longitude":13.370417,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.760384,
     "lbl:longitude":13.38212,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101200"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734055,
-    "wof:geomhash":"0222e9381510963b7b4485bc4159a0a5",
+    "wof:geomhash":"05627c08603d9f3a7bd71f0c3298b342",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306475,
-    "wof:lastmodified":1566643306,
+    "wof:lastmodified":1695879418,
     "wof:name":"Gardstanga-Holmby",
     "wof:parent_id":1159303151,
     "wof:placetype":"localadmin",

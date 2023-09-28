@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003145,
-    "geom:area_square_m":20396683.973128,
+    "geom:area_square_m":20396683.97312,
     "geom:bbox":"15.3310641313,58.3304405056,15.4320664266,58.3926567967",
     "geom:latitude":58.363781,
     "geom:longitude":15.377369,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.367049,
     "lbl:longitude":15.37395,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"108047"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734292,
-    "wof:geomhash":"c1608e5af5b90a8806ff1bb1bfcdf41a",
+    "wof:geomhash":"2b20c3d451b54f14c4dde6bc6f9f2ba2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307357,
-    "wof:lastmodified":1566643283,
+    "wof:lastmodified":1695879414,
     "wof:name":"Sjogestad",
     "wof:parent_id":1159303147,
     "wof:placetype":"localadmin",

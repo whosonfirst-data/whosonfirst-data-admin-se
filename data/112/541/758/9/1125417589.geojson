@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026299,
-    "geom:area_square_m":165382644.904724,
+    "geom:area_square_m":165382644.904723,
     "geom:bbox":"14.6808636766,59.3576841906,14.9791550892,59.4950653285",
     "geom:latitude":59.432034,
     "geom:longitude":14.829201,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":525,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.430802,
     "lbl:longitude":14.841252,
     "lbl:max_zoom":17.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131665,
-        "qs_pg:id":757639
+        "qs_pg:id":757639,
+        "se-lant:code":"214002"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497051621,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"c79ef8dd9a47a9493dafcd25e8635313",
+    "wof:geomhash":"7e86eb439a42fe39b6958c687c1f5a52",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125417589,
-    "wof:lastmodified":1582340871,
+    "wof:lastmodified":1695879543,
     "wof:name":"Viker",
     "wof:parent_id":1159303053,
     "wof:placetype":"localadmin",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020232,
-    "geom:area_square_m":137224382.908056,
+    "geom:area_square_m":137224382.908041,
     "geom:bbox":"14.0482562156,56.6622803769,14.2904857686,56.797572665",
     "geom:latitude":56.734784,
     "geom:longitude":14.173299,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":647,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.731759,
     "lbl:longitude":14.170979,
     "lbl:max_zoom":17.0,
@@ -85,14 +94,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131654,
-        "qs_pg:id":381291
+        "qs_pg:id":381291,
+        "se-lant:code":"105040"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497048090,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"a8fd675fb497f693f00055890e78edd0",
+    "wof:geomhash":"475088b7e5e616a32d57d9517d882184",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -103,7 +114,7 @@
         }
     ],
     "wof:id":1125381805,
-    "wof:lastmodified":1582340849,
+    "wof:lastmodified":1695879521,
     "wof:name":"Agunnaryd",
     "wof:parent_id":1159303441,
     "wof:placetype":"localadmin",

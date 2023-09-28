@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003413,
-    "geom:area_square_m":22570481.608311,
+    "geom:area_square_m":22570481.608314,
     "geom:bbox":"18.3954700851,57.6452981682,18.5151459329,57.7031428751",
     "geom:latitude":57.669862,
     "geom:longitude":18.466164,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.669297,
     "lbl:longitude":18.470199,
     "lbl:max_zoom":18.0,
@@ -60,9 +69,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"106071"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734342,
-    "wof:geomhash":"c1ab38e3f07bcb220c45f45575ec2297",
+    "wof:geomhash":"be4eae0659a85b24ff70c17f24887b67",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,7 +86,7 @@
         }
     ],
     "wof:id":1159307551,
-    "wof:lastmodified":1566643144,
+    "wof:lastmodified":1695879389,
     "wof:name":"Bro",
     "wof:parent_id":1159303535,
     "wof:placetype":"localadmin",

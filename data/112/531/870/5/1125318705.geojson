@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002742,
-    "geom:area_square_m":17348606.063422,
+    "geom:area_square_m":17348606.06342,
     "geom:bbox":"17.8735910081,59.19134043,17.9888274827,59.2571922542",
     "geom:latitude":59.224993,
     "geom:longitude":17.932086,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":13228,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.212731,
     "lbl:longitude":17.945608,
     "lbl:max_zoom":15.0,
@@ -64,14 +73,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131684,
-        "qs_pg:id":381297
+        "qs_pg:id":381297,
+        "se-lant:code":"212075"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497044404,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"d88cb3c89354202c422040240c41967d",
+    "wof:geomhash":"30b4bf2fddbcc3183fbadae1ddd8727f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,7 +93,7 @@
         }
     ],
     "wof:id":1125318705,
-    "wof:lastmodified":1582340856,
+    "wof:lastmodified":1695879526,
     "wof:name":"Flemingsberg",
     "wof:parent_id":1159303105,
     "wof:placetype":"localadmin",

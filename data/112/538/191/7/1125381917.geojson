@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.050183,
-    "geom:area_square_m":309319571.869772,
+    "geom:area_square_m":309319571.869781,
     "geom:bbox":"15.6823377627,59.9959115271,16.163851501,60.1867055228",
     "geom:latitude":60.100259,
     "geom:longitude":15.911837,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":5212,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":60.099579,
     "lbl:longitude":15.928225,
     "lbl:max_zoom":15.0,
@@ -103,14 +112,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132002,
-        "qs_pg:id":381324
+        "qs_pg:id":381324,
+        "se-lant:code":"214066"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497048099,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"1edcbfcbc1e39a64cdeaa6d7ad564ada",
+    "wof:geomhash":"89d1a29666ca6af6c2e5043ba873332b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -121,7 +132,7 @@
         }
     ],
     "wof:id":1125381917,
-    "wof:lastmodified":1582340850,
+    "wof:lastmodified":1695879522,
     "wof:name":"Norberg",
     "wof:parent_id":1159303227,
     "wof:placetype":"localadmin",

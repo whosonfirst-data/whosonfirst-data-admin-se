@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005441,
-    "geom:area_square_m":35878444.487379,
+    "geom:area_square_m":35878444.487378,
     "geom:bbox":"18.3754336214,57.727033441,18.4904877388,57.8231052891",
     "geom:latitude":57.76747,
     "geom:longitude":18.433276,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.762022,
     "lbl:longitude":18.429343,
     "lbl:max_zoom":18.0,
@@ -45,9 +54,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"106078"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733987,
-    "wof:geomhash":"afa425d4ea5dbb594cfc63b5a6b33cdb",
+    "wof:geomhash":"e8f3d87807f5c3bdacaf63baa5518a26",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +71,7 @@
         }
     ],
     "wof:id":1159306267,
-    "wof:lastmodified":1566643185,
+    "wof:lastmodified":1695879397,
     "wof:name":"Lummelunda",
     "wof:parent_id":1159303535,
     "wof:placetype":"localadmin",

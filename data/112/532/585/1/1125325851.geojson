@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02029,
-    "geom:area_square_m":132236321.600986,
+    "geom:area_square_m":132236321.600992,
     "geom:bbox":"16.2281517628,58.117245266,16.4517538196,58.2718112081",
     "geom:latitude":58.192723,
     "geom:longitude":16.339983,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":510,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.183598,
     "lbl:longitude":16.338269,
     "lbl:max_zoom":17.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132840,
-        "qs_pg:id":758381
+        "qs_pg:id":758381,
+        "se-lant:code":"105291"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497044809,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"a7143855065a9fd54bf1444b07b2fefb",
+    "wof:geomhash":"f6d79773bd929aaed430db1e10a1a925",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125325851,
-    "wof:lastmodified":1582340774,
+    "wof:lastmodified":1695879466,
     "wof:name":"Hannas",
     "wof:parent_id":1159302937,
     "wof:placetype":"localadmin",

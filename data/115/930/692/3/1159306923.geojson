@@ -10,6 +10,15 @@
     "geom:latitude":57.714414,
     "geom:longitude":12.050487,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.713199,
     "lbl:longitude":12.049416,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107089"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734179,
-    "wof:geomhash":"44be67c1aac13bb999376c3b56a8f6a8",
+    "wof:geomhash":"c3f5dc60c4f480cc6878a8b761e86217",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306923,
-    "wof:lastmodified":1566643221,
+    "wof:lastmodified":1695879404,
     "wof:name":"Bjorkekarr",
     "wof:parent_id":1159302989,
     "wof:placetype":"localadmin",

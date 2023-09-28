@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010555,
-    "geom:area_square_m":70418985.351171,
+    "geom:area_square_m":70418985.351173,
     "geom:bbox":"13.2250878471,57.2938551915,13.4362686833,57.3904289333",
     "geom:latitude":57.346018,
     "geom:longitude":13.322407,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":374,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.342174,
     "lbl:longitude":13.312022,
     "lbl:max_zoom":17.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8133217,
-        "qs_pg:id":758552
+        "qs_pg:id":758552,
+        "se-lant:code":"107013"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497046626,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"09e2927c20343664ac6bf69eb63bb8fd",
+    "wof:geomhash":"5d91a700ccc5c2ae1f1a3ee52e96e1c6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125358427,
-    "wof:lastmodified":1582340739,
+    "wof:lastmodified":1695879440,
     "wof:name":"Sjotofta",
     "wof:parent_id":1159303181,
     "wof:placetype":"localadmin",

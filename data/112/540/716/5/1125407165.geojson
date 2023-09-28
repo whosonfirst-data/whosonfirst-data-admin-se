@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":8262,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.742454,
     "lbl:longitude":11.981399,
     "lbl:max_zoom":15.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8133260,
-        "qs_pg:id":1155722
+        "qs_pg:id":1155722,
+        "se-lant:code":"109005"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497049716,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"1bb96794b0fc748e64600c4b59f9172a",
+    "wof:geomhash":"16a00bc1ded94ad5a52f8f255a6d3da1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125407165,
-    "wof:lastmodified":1582340867,
+    "wof:lastmodified":1695879534,
     "wof:name":"Backa",
     "wof:parent_id":1159302989,
     "wof:placetype":"localadmin",

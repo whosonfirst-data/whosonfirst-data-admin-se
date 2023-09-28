@@ -10,6 +10,15 @@
     "geom:latitude":56.608595,
     "geom:longitude":16.618508,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.614192,
     "lbl:longitude":16.621044,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"103015"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733991,
-    "wof:geomhash":"2e5854d85add2b45111f3c611c1e9c0d",
+    "wof:geomhash":"1998a57a4c5488dbe4013d2c0e71c4ca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306289,
-    "wof:lastmodified":1566643182,
+    "wof:lastmodified":1695879396,
     "wof:name":"Gardby",
     "wof:parent_id":1159303101,
     "wof:placetype":"localadmin",

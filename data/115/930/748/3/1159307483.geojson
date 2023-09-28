@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007222,
-    "geom:area_square_m":45570115.537211,
+    "geom:area_square_m":45570115.537214,
     "geom:bbox":"17.7754984149,59.2862212711,17.954825889,59.3581767685",
     "geom:latitude":59.318209,
     "geom:longitude":17.853058,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.320713,
     "lbl:longitude":17.836738,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"215002"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734324,
-    "wof:geomhash":"4f2e80a25755efff112eabf1d9ef39db",
+    "wof:geomhash":"a2823d56bcfd4c649e05ab7b89755715",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307483,
-    "wof:lastmodified":1566643253,
+    "wof:lastmodified":1695879409,
     "wof:name":"Lovo",
     "wof:parent_id":1159302999,
     "wof:placetype":"localadmin",

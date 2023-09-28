@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007612,
-    "geom:area_square_m":48905843.357453,
+    "geom:area_square_m":48905843.357459,
     "geom:bbox":"11.9068805282,58.6468300886,12.0473711415,58.747254036",
     "geom:latitude":58.693433,
     "geom:longitude":11.97147,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":185,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.694974,
     "lbl:longitude":11.970393,
     "lbl:max_zoom":18.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8133198,
-        "qs_pg:id":758543
+        "qs_pg:id":758543,
+        "se-lant:code":"110015"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497047259,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"9e8dccf107e7866cac3ade506da8ff61",
+    "wof:geomhash":"f1af56518367cf98b1eba95a2c993c6a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125368875,
-    "wof:lastmodified":1582340857,
+    "wof:lastmodified":1695879527,
     "wof:name":"Rannelanda",
     "wof:parent_id":1159303061,
     "wof:placetype":"localadmin",

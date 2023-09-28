@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012184,
-    "geom:area_square_m":80772163.800469,
+    "geom:area_square_m":80772163.800492,
     "geom:bbox":"12.4774958854,57.5250872872,12.6573781388,57.6417409035",
     "geom:latitude":57.579162,
     "geom:longitude":12.569678,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":1786,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.578963,
     "lbl:longitude":12.571001,
     "lbl:max_zoom":16.0,
@@ -82,14 +91,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8133232,
-        "qs_pg:id":1042487
+        "qs_pg:id":1042487,
+        "se-lant:code":"107043"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497048938,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"0d7949c83099b556eb7af5c9160942cb",
+    "wof:geomhash":"e43415de603e52523bf6eb81d109d1fd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -100,7 +111,7 @@
         }
     ],
     "wof:id":1125394769,
-    "wof:lastmodified":1582340837,
+    "wof:lastmodified":1695879513,
     "wof:name":"Hyssna",
     "wof:parent_id":1159302961,
     "wof:placetype":"localadmin",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002726,
-    "geom:area_square_m":17124458.766931,
+    "geom:area_square_m":17124458.766929,
     "geom:bbox":"17.7687157916,59.4415882214,17.8468013018,59.5088945445",
     "geom:latitude":59.471514,
     "geom:longitude":17.811895,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":13059,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.48216,
     "lbl:longitude":17.81248,
     "lbl:max_zoom":15.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131683,
-        "qs_pg:id":904403
+        "qs_pg:id":904403,
+        "se-lant:code":"215041"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497042098,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"aae088c7ca1554ab8dbe442f933c55ed",
+    "wof:geomhash":"4b6ad53ddcfd31cf552ad86298b79ca4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125270301,
-    "wof:lastmodified":1582340803,
+    "wof:lastmodified":1695879488,
     "wof:name":"Kallhall",
     "wof:parent_id":1159303475,
     "wof:placetype":"localadmin",

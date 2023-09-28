@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003118,
-    "geom:area_square_m":20330880.540129,
+    "geom:area_square_m":20330880.540126,
     "geom:bbox":"12.1816381252,58.135566907,12.3139178887,58.1983253585",
     "geom:latitude":58.170651,
     "geom:longitude":12.242954,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.172028,
     "lbl:longitude":12.248414,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107243"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733910,
-    "wof:geomhash":"c73b74a212bf3c86abcbc8b78ecbd246",
+    "wof:geomhash":"12e818aa1e73fef0b68993b4594c3a63",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159305935,
-    "wof:lastmodified":1566643143,
+    "wof:lastmodified":1695879389,
     "wof:name":"Rommele",
     "wof:parent_id":1159303541,
     "wof:placetype":"localadmin",

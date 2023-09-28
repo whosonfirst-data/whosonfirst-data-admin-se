@@ -10,6 +10,15 @@
     "geom:latitude":55.497351,
     "geom:longitude":12.957381,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.498048,
     "lbl:longitude":12.944792,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101065"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733841,
-    "wof:geomhash":"f18b01d6e1874f7eeb2c6614054b89b6",
+    "wof:geomhash":"13bdf822e0cf1dfd922b08415614c03d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159305677,
-    "wof:lastmodified":1566643144,
+    "wof:lastmodified":1695879389,
     "wof:name":"Gessie",
     "wof:parent_id":1159303307,
     "wof:placetype":"localadmin",

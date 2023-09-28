@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00461,
-    "geom:area_square_m":30471603.819283,
+    "geom:area_square_m":30471603.819287,
     "geom:bbox":"13.1605402792,57.6453820427,13.3090256024,57.7127835312",
     "geom:latitude":57.682638,
     "geom:longitude":13.230426,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":840,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.684835,
     "lbl:longitude":13.229263,
     "lbl:max_zoom":17.0,
@@ -79,14 +88,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8133292,
-        "qs_pg:id":1155729
+        "qs_pg:id":1155729,
+        "se-lant:code":"107077"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497049689,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"0a4c1ad395c490cd120cf34abf526cb0",
+    "wof:geomhash":"6ac385549432830d44c6ac4f459a8fc7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -97,7 +108,7 @@
         }
     ],
     "wof:id":1125406777,
-    "wof:lastmodified":1582340867,
+    "wof:lastmodified":1695879533,
     "wof:name":"Dannike",
     "wof:parent_id":1159303073,
     "wof:placetype":"localadmin",

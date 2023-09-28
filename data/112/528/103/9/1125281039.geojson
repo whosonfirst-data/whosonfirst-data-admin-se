@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002268,
-    "geom:area_square_m":15921236.688783,
+    "geom:area_square_m":15921236.688781,
     "geom:bbox":"13.3813143584,55.3812204455,13.4487559019,55.4315920374",
     "geom:latitude":55.407568,
     "geom:longitude":13.410129,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":5124,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.407409,
     "lbl:longitude":13.407402,
     "lbl:max_zoom":15.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131901,
-        "qs_pg:id":757794
+        "qs_pg:id":757794,
+        "se-lant:code":"101031"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497042501,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"429e3dc81a47f648be144a32c5b771ca",
+    "wof:geomhash":"134153aa865ce0cc98af8fbb6d93b495",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125281039,
-    "wof:lastmodified":1582340780,
+    "wof:lastmodified":1695879472,
     "wof:name":"Kallstorp",
     "wof:parent_id":1159303309,
     "wof:placetype":"localadmin",

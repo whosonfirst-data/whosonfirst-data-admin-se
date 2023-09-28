@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.054274,
-    "geom:area_square_m":340515162.080658,
+    "geom:area_square_m":340515162.080678,
     "geom:bbox":"18.4445101872,59.4003651769,19.0020113551,59.5999313874",
     "geom:latitude":59.509811,
     "geom:longitude":18.693959,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":2338,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.518929,
     "lbl:longitude":18.601691,
     "lbl:max_zoom":15.0,
@@ -61,14 +70,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132041,
-        "qs_pg:id":109367
+        "qs_pg:id":109367,
+        "se-lant:code":"215068"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497052660,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"9257050272d793b3c75c86f2668d9374",
+    "wof:geomhash":"57767f988932a9d087be1eba54d02ec4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +90,7 @@
         }
     ],
     "wof:id":1125423245,
-    "wof:lastmodified":1582340812,
+    "wof:lastmodified":1695879495,
     "wof:name":"Roslags-Kulla och Ljustero",
     "wof:parent_id":1159303039,
     "wof:placetype":"localadmin",

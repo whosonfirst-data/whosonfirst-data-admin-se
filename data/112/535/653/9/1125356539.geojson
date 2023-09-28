@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002504,
-    "geom:area_square_m":16261674.356149,
+    "geom:area_square_m":16261674.356144,
     "geom:bbox":"15.2041137964,58.2948204389,15.2823668346,58.3507295005",
     "geom:latitude":58.320705,
     "geom:longitude":15.242446,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":531,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.322448,
     "lbl:longitude":15.245123,
     "lbl:max_zoom":17.0,
@@ -73,14 +82,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132871,
-        "qs_pg:id":758399
+        "qs_pg:id":758399,
+        "se-lant:code":"108044"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497046505,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"bbc73ee8299984a322dbed7e9263edfc",
+    "wof:geomhash":"86d0e4930939881ff1f101ca7e6b2426",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +102,7 @@
         }
     ],
     "wof:id":1125356539,
-    "wof:lastmodified":1582340750,
+    "wof:lastmodified":1695879448,
     "wof:name":"Sya",
     "wof:parent_id":1159302925,
     "wof:placetype":"localadmin",

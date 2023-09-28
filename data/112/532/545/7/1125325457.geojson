@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01458,
-    "geom:area_square_m":96066674.230095,
+    "geom:area_square_m":96066674.230107,
     "geom:bbox":"18.8666602181,57.7233691457,19.0803822837,57.8679002616",
     "geom:latitude":57.801504,
     "geom:longitude":18.975045,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":325,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.807333,
     "lbl:longitude":18.976682,
     "lbl:max_zoom":17.0,
@@ -139,14 +148,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132534,
-        "qs_pg:id":758202
+        "qs_pg:id":758202,
+        "se-lant:code":"106088"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497044782,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"40bbb21a6e33efb9f46639546b3f3457",
+    "wof:geomhash":"6dc015597c879618f8aa62a855192341",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -157,7 +168,7 @@
         }
     ],
     "wof:id":1125325457,
-    "wof:lastmodified":1582340765,
+    "wof:lastmodified":1695879458,
     "wof:name":"Rute",
     "wof:parent_id":1159303535,
     "wof:placetype":"localadmin",

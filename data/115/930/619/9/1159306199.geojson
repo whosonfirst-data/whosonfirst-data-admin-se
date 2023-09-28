@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003959,
-    "geom:area_square_m":25590811.816211,
+    "geom:area_square_m":25590811.81621,
     "geom:bbox":"15.687139147,58.4519626695,15.7945218942,58.5163565497",
     "geom:latitude":58.486542,
     "geom:longitude":15.739184,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.489521,
     "lbl:longitude":15.729397,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"108113"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733971,
-    "wof:geomhash":"266a360b6fb6de2e99f06ec815322d41",
+    "wof:geomhash":"b6966af4b1fbac6fedc40950f7f08592",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306199,
-    "wof:lastmodified":1566643184,
+    "wof:lastmodified":1695879396,
     "wof:name":"Ostra Harg",
     "wof:parent_id":1159303147,
     "wof:placetype":"localadmin",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008069,
-    "geom:area_square_m":50834025.872292,
+    "geom:area_square_m":50834025.872289,
     "geom:bbox":"16.4626266433,59.3288668705,16.63381012,59.4177556021",
     "geom:latitude":59.370824,
     "geom:longitude":16.548764,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":35111,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.369021,
     "lbl:longitude":16.54749,
     "lbl:max_zoom":14.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132118,
-        "qs_pg:id":757947
+        "qs_pg:id":757947,
+        "se-lant:code":"212111"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497052305,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"41aae7b14bc3d5b39c3bd177b526d5ee",
+    "wof:geomhash":"edf1527ecab48434d9547ede30810e0f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125421361,
-    "wof:lastmodified":1582340814,
+    "wof:lastmodified":1695879496,
     "wof:name":"Eskilstuna Kloster",
     "wof:parent_id":1159303207,
     "wof:placetype":"localadmin",

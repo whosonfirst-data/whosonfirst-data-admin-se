@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006302,
-    "geom:area_square_m":41693002.455271,
+    "geom:area_square_m":41693002.455275,
     "geom:bbox":"12.056887199,57.6224467878,12.219025842,57.6912518903",
     "geom:latitude":57.655413,
     "geom:longitude":12.132917,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":16260,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.65831,
     "lbl:longitude":12.120625,
     "lbl:max_zoom":15.0,
@@ -76,14 +85,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8133172,
-        "qs_pg:id":758522
+        "qs_pg:id":758522,
+        "se-lant:code":"107067"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497042123,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"477e998b8737fd69e57546900baa27dc",
+    "wof:geomhash":"6d8dc13fe408c48a71bf746dde80c399",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,7 +105,7 @@
         }
     ],
     "wof:id":1125270899,
-    "wof:lastmodified":1582340805,
+    "wof:lastmodified":1695879490,
     "wof:name":"Rada",
     "wof:parent_id":1159303259,
     "wof:placetype":"localadmin",

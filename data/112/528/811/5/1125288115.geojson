@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.038192,
-    "geom:area_square_m":237722154.304178,
+    "geom:area_square_m":237722228.225705,
     "geom:bbox":"12.051828,59.644426,12.35292,59.893941",
     "geom:latitude":59.776486,
     "geom:longitude":12.20379,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":1333,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.789192,
     "lbl:longitude":12.216311,
     "lbl:max_zoom":16.0,
@@ -164,14 +173,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132941,
-        "qs_pg:id":758451
+        "qs_pg:id":758451,
+        "se-lant:code":"213064"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497042798,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"eb1bdf4607c2f05484ec38d951b4c0a3",
+    "wof:geomhash":"fec1e08a5a9c7c6d6ad66a1ec78e7f9c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,7 +193,7 @@
         }
     ],
     "wof:id":1125288115,
-    "wof:lastmodified":1636499892,
+    "wof:lastmodified":1695879558,
     "wof:name":"Kola",
     "wof:parent_id":1159303453,
     "wof:placetype":"localadmin",

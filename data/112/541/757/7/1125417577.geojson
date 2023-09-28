@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004389,
-    "geom:area_square_m":29293712.972691,
+    "geom:area_square_m":29293712.972686,
     "geom:bbox":"18.5278082833,57.3002900658,18.641857136,57.3902787025",
     "geom:latitude":57.331603,
     "geom:longitude":18.57957,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":1199,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.333276,
     "lbl:longitude":18.569202,
     "lbl:max_zoom":16.0,
@@ -88,14 +97,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131609,
-        "qs_pg:id":757616
+        "qs_pg:id":757616,
+        "se-lant:code":"106034"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497051616,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"d7e201f65c283a4aaee0fc2dd41040fb",
+    "wof:geomhash":"c007f93bc25511925f97ce9839c33a5f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -106,7 +117,7 @@
         }
     ],
     "wof:id":1125417577,
-    "wof:lastmodified":1582340873,
+    "wof:lastmodified":1695879551,
     "wof:name":"Garde",
     "wof:parent_id":1159303535,
     "wof:placetype":"localadmin",

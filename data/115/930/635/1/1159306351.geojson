@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.051205,
-    "geom:area_square_m":324853342.303866,
+    "geom:area_square_m":324853342.303855,
     "geom:bbox":"18.5471104065,58.9980897902,18.9083349065,59.2349369819",
     "geom:latitude":59.133723,
     "geom:longitude":18.718563,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.131081,
     "lbl:longitude":18.722004,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"212060"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734011,
-    "wof:geomhash":"dcbd9ebb048675fe70ad2e2012001274",
+    "wof:geomhash":"8560ab964d7fd81fb132eb5dc7660fad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306351,
-    "wof:lastmodified":1566643218,
+    "wof:lastmodified":1695879403,
     "wof:name":"Namdo",
     "wof:parent_id":1159303241,
     "wof:placetype":"localadmin",

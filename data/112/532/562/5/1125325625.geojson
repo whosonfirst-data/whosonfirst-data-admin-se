@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022158,
-    "geom:area_square_m":148508447.366461,
+    "geom:area_square_m":148508447.366475,
     "geom:bbox":"13.4503603503,57.0964741249,13.676034355,57.2682274234",
     "geom:latitude":57.178722,
     "geom:longitude":13.563552,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":1969,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.183512,
     "lbl:longitude":13.572995,
     "lbl:max_zoom":16.0,
@@ -73,14 +82,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132626,
-        "qs_pg:id":758266
+        "qs_pg:id":758266,
+        "se-lant:code":"105133"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497044794,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"11e8d727a433a22abf0819e2d18c3c0d",
+    "wof:geomhash":"3657fb7017fc5283223f0671471ebd7c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +102,7 @@
         }
     ],
     "wof:id":1125325625,
-    "wof:lastmodified":1582340769,
+    "wof:lastmodified":1695879461,
     "wof:name":"Reftele",
     "wof:parent_id":1159303327,
     "wof:placetype":"localadmin",

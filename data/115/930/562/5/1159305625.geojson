@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002039,
-    "geom:area_square_m":14312457.12839,
+    "geom:area_square_m":14312457.128391,
     "geom:bbox":"13.2225047949,55.3867560869,13.2961985206,55.4345578888",
     "geom:latitude":55.411737,
     "geom:longitude":13.256478,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.407092,
     "lbl:longitude":13.253972,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101027"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733828,
-    "wof:geomhash":"e53ab82e2d1bc3b6ea22f070a71bceb3",
+    "wof:geomhash":"2d797fe280ae61a5f46aa368f6fa4362",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159305625,
-    "wof:lastmodified":1566643289,
+    "wof:lastmodified":1695879415,
     "wof:name":"Bosarp",
     "wof:parent_id":1159303309,
     "wof:placetype":"localadmin",

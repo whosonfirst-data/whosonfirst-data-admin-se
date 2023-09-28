@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012071,
-    "geom:area_square_m":77437698.110258,
+    "geom:area_square_m":77437698.110256,
     "geom:bbox":"14.0185924024,58.7011113842,14.2618657261,58.7910186709",
     "geom:latitude":58.748938,
     "geom:longitude":14.132514,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":947,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.761375,
     "lbl:longitude":14.134428,
     "lbl:max_zoom":17.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132289,
-        "qs_pg:id":758024
+        "qs_pg:id":758024,
+        "se-lant:code":"107446"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497046874,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"b774a503f1b2f963737d9b7eee8bf1b4",
+    "wof:geomhash":"513f50bf1e3625c8053607c0f73a11a8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125362323,
-    "wof:lastmodified":1582340859,
+    "wof:lastmodified":1695879528,
     "wof:name":"Fredsberg",
     "wof:parent_id":1159303045,
     "wof:placetype":"localadmin",

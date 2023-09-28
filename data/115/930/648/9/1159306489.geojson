@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002904,
-    "geom:area_square_m":19519691.762607,
+    "geom:area_square_m":19519691.76261,
     "geom:bbox":"12.4353974733,57.0439691099,12.5403643987,57.0937126271",
     "geom:latitude":57.068126,
     "geom:longitude":12.480374,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.065601,
     "lbl:longitude":12.471613,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"104046"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734059,
-    "wof:geomhash":"b61f5c5f2d505852cd2a9268fb0bac45",
+    "wof:geomhash":"d40a0e65b8c5d2d240913cc6d3914908",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306489,
-    "wof:lastmodified":1566643319,
+    "wof:lastmodified":1695879422,
     "wof:name":"Dagsas",
     "wof:parent_id":1159302939,
     "wof:placetype":"localadmin",

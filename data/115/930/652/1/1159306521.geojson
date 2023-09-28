@@ -10,6 +10,15 @@
     "geom:latitude":59.20615,
     "geom:longitude":15.368268,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.209027,
     "lbl:longitude":15.362005,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"211032"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734068,
-    "wof:geomhash":"47a9ba6d0154daa7b48a3b28a9ad7329",
+    "wof:geomhash":"d752eea7362d60256d96fc55141ff3ab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306521,
-    "wof:lastmodified":1566643322,
+    "wof:lastmodified":1695879423,
     "wof:name":"Norrbyas",
     "wof:parent_id":1159303031,
     "wof:placetype":"localadmin",

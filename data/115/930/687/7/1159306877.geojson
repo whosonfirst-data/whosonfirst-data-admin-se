@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016207,
-    "geom:area_square_m":103519261.752981,
+    "geom:area_square_m":103519261.75298,
     "geom:bbox":"17.1285295697,58.8317404299,17.3923759182,58.9550286302",
     "geom:latitude":58.897895,
     "geom:longitude":17.256636,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.92241,
     "lbl:longitude":17.258723,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"212028"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734161,
-    "wof:geomhash":"617219d5694785d5036cd1f3799246cd",
+    "wof:geomhash":"97c2ad22530de1c08824be759cfe4c7c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306877,
-    "wof:lastmodified":1566643192,
+    "wof:lastmodified":1695879398,
     "wof:name":"Lastringe",
     "wof:parent_id":1159303471,
     "wof:placetype":"localadmin",

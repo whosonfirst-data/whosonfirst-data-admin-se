@@ -10,6 +10,15 @@
     "geom:latitude":57.934485,
     "geom:longitude":13.383927,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.925709,
     "lbl:longitude":13.398,
     "lbl:max_zoom":18.0,
@@ -60,9 +69,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107154"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733978,
-    "wof:geomhash":"e4a7a91b648497ffdb26591c71a6a913",
+    "wof:geomhash":"87f9fb30b25d5c11dbe82ba16c3777ef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,7 +86,7 @@
         }
     ],
     "wof:id":1159306231,
-    "wof:lastmodified":1566643308,
+    "wof:lastmodified":1695879419,
     "wof:name":"Mone",
     "wof:parent_id":1159303161,
     "wof:placetype":"localadmin",

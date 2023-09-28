@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00747,
-    "geom:area_square_m":48192873.012356,
+    "geom:area_square_m":48192873.012359,
     "geom:bbox":"14.0516195101,58.5088710066,14.1757469332,58.6001127785",
     "geom:latitude":58.551989,
     "geom:longitude":14.115573,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.547647,
     "lbl:longitude":14.114378,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107423"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733925,
-    "wof:geomhash":"ea93465cc670d8db283458baece982ab",
+    "wof:geomhash":"473f8bb333f1ed61c7a0438bf23497f1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306007,
-    "wof:lastmodified":1566643341,
+    "wof:lastmodified":1695879427,
     "wof:name":"Ballefors",
     "wof:parent_id":1159303045,
     "wof:placetype":"localadmin",

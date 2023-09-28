@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002101,
-    "geom:area_square_m":14706862.653389,
+    "geom:area_square_m":14706862.653388,
     "geom:bbox":"14.1298657684,55.5077118432,14.210314718,55.5427865404",
     "geom:latitude":55.527062,
     "geom:longitude":14.169043,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.524906,
     "lbl:longitude":14.169064,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101102"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733885,
-    "wof:geomhash":"dfc6d81d51fb91bf9dde87e653452a9f",
+    "wof:geomhash":"3df4207f0fd3695bde12ff248adb0a7f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159305855,
-    "wof:lastmodified":1566643358,
+    "wof:lastmodified":1695879429,
     "wof:name":"Ostra Herrestad",
     "wof:parent_id":1159302931,
     "wof:placetype":"localadmin",

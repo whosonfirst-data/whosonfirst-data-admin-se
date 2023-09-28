@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02792,
-    "geom:area_square_m":169845036.288811,
+    "geom:area_square_m":169845036.28881,
     "geom:bbox":"15.64961115,60.4524013133,16.1364879994,60.6116311669",
     "geom:latitude":60.530546,
     "geom:longitude":15.807691,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":1711,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":60.518403,
     "lbl:longitude":15.787344,
     "lbl:max_zoom":16.0,
@@ -79,14 +88,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132740,
-        "qs_pg:id":109489
+        "qs_pg:id":109489,
+        "se-lant:code":"217029"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497042392,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"3eb3bdb9a3b3ace5ae6d7270b453b4d4",
+    "wof:geomhash":"4686b8e0f1cfc883b5fcd6a9a075ea74",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -97,7 +108,7 @@
         }
     ],
     "wof:id":1125277905,
-    "wof:lastmodified":1582340800,
+    "wof:lastmodified":1695879486,
     "wof:name":"Vika",
     "wof:parent_id":1159302903,
     "wof:placetype":"localadmin",

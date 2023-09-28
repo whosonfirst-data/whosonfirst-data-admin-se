@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01763,
-    "geom:area_square_m":119313485.965009,
+    "geom:area_square_m":119313485.964985,
     "geom:bbox":"15.8903407256,56.7373709434,16.130675196,56.8861950417",
     "geom:latitude":56.816761,
     "geom:longitude":16.023556,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":688,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.808957,
     "lbl:longitude":16.031699,
     "lbl:max_zoom":17.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132693,
-        "qs_pg:id":109483
+        "qs_pg:id":109483,
+        "se-lant:code":"105071"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497042391,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"6ff610c3dda723dab36a121ec624d627",
+    "wof:geomhash":"f1da0ba8f747566376b5a891d3ff5769",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125277887,
-    "wof:lastmodified":1582340807,
+    "wof:lastmodified":1695879492,
     "wof:name":"Kristvalla",
     "wof:parent_id":1159302907,
     "wof:placetype":"localadmin",

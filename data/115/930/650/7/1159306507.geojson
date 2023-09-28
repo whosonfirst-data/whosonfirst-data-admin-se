@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011543,
-    "geom:area_square_m":77034600.438444,
+    "geom:area_square_m":77034600.438467,
     "geom:bbox":"12.9377942003,57.2811241763,13.1046534699,57.3928810991",
     "geom:latitude":57.334321,
     "geom:longitude":13.027858,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.33566,
     "lbl:longitude":13.021158,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107011"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734064,
-    "wof:geomhash":"cb36a13376f99082249d57aeab2a3877",
+    "wof:geomhash":"981293a07cd602e779ddbf28528d3bc2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306507,
-    "wof:lastmodified":1566643227,
+    "wof:lastmodified":1695879405,
     "wof:name":"Ostra Frolunda",
     "wof:parent_id":1159303079,
     "wof:placetype":"localadmin",

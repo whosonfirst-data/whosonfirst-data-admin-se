@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004771,
-    "geom:area_square_m":30927985.263247,
+    "geom:area_square_m":30927985.26325,
     "geom:bbox":"14.661041894,58.3406235677,14.7841791918,58.4211633099",
     "geom:latitude":58.385144,
     "geom:longitude":14.73098,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.389478,
     "lbl:longitude":14.731895,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"108060"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734064,
-    "wof:geomhash":"7780f8eea895e23d3303eaffd8e1f923",
+    "wof:geomhash":"1e75efceb3d4d554e8c33aabf58c8dde",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306503,
-    "wof:lastmodified":1566643228,
+    "wof:lastmodified":1695879405,
     "wof:name":"Rogslosa",
     "wof:parent_id":1159303411,
     "wof:placetype":"localadmin",

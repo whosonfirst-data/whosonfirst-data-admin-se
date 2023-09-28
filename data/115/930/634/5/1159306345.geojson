@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000756,
-    "geom:area_square_m":5298263.888716,
+    "geom:area_square_m":5298263.888718,
     "geom:bbox":"13.8233880813,55.4398271202,13.8675774281,55.4769142448",
     "geom:latitude":55.455757,
     "geom:longitude":13.847409,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.458488,
     "lbl:longitude":13.845917,
     "lbl:max_zoom":18.0,
@@ -66,9 +75,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101052"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734009,
-    "wof:geomhash":"c82124ec13cc868c8fafd08f06f752bc",
+    "wof:geomhash":"cf33418d7bf91d40bbd2e94adfbcd733",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +92,7 @@
         }
     ],
     "wof:id":1159306345,
-    "wof:lastmodified":1566643201,
+    "wof:lastmodified":1695879400,
     "wof:name":"Oja",
     "wof:parent_id":1159303233,
     "wof:placetype":"localadmin",

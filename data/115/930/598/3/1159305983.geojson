@@ -10,6 +10,15 @@
     "geom:latitude":55.871382,
     "geom:longitude":13.104737,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.872018,
     "lbl:longitude":13.108124,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101232"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733920,
-    "wof:geomhash":"31aca93a0c7bb366994d172ca22bfcf9",
+    "wof:geomhash":"54c9250afb68ad65390cd50e702ce386",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159305983,
-    "wof:lastmodified":1566643295,
+    "wof:lastmodified":1695879416,
     "wof:name":"Norra Skravlinge",
     "wof:parent_id":1159303189,
     "wof:placetype":"localadmin",

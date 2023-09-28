@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02588,
-    "geom:area_square_m":166045242.584104,
+    "geom:area_square_m":166045242.584092,
     "geom:bbox":"16.2690648052,58.6755222959,16.6775483223,58.8255656344",
     "geom:latitude":58.743149,
     "geom:longitude":16.49908,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":5308,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.733436,
     "lbl:longitude":16.485072,
     "lbl:max_zoom":15.0,
@@ -76,14 +85,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131864,
-        "qs_pg:id":757776
+        "qs_pg:id":757776,
+        "se-lant:code":"212004"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497044762,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"f1b9a0a4ed4992a909eb660017da72f1",
+    "wof:geomhash":"93842b0d8b5c38c49bd3e05bb0a90068",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,7 +105,7 @@
         }
     ],
     "wof:id":1125325225,
-    "wof:lastmodified":1582340776,
+    "wof:lastmodified":1695879470,
     "wof:name":"Kila",
     "wof:parent_id":1159303471,
     "wof:placetype":"localadmin",

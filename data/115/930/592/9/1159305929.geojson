@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002674,
-    "geom:area_square_m":18111524.376224,
+    "geom:area_square_m":18111524.376225,
     "geom:bbox":"12.6809801375,56.7710618402,12.7891795964,56.8168484273",
     "geom:latitude":56.791233,
     "geom:longitude":12.730101,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.792265,
     "lbl:longitude":12.730104,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"104024"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733909,
-    "wof:geomhash":"56832edf22bc04954d5c650d72743838",
+    "wof:geomhash":"c1a1fb760a4b1b813edcded08698a691",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159305929,
-    "wof:lastmodified":1566643157,
+    "wof:lastmodified":1695879391,
     "wof:name":"Ravinge",
     "wof:parent_id":1159303343,
     "wof:placetype":"localadmin",

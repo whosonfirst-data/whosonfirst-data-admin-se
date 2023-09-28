@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005685,
-    "geom:area_square_m":39251063.557579,
+    "geom:area_square_m":39251063.557592,
     "geom:bbox":"13.9197907916,56.0270580625,14.0720276952,56.0935110434",
     "geom:latitude":56.057041,
     "geom:longitude":13.99942,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.061848,
     "lbl:longitude":14.000584,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101303"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733950,
-    "wof:geomhash":"66c9f63962283d30c2f7c9b35771b4b3",
+    "wof:geomhash":"0b34a8bc1b7e45ccb123ec68b7404eaa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306113,
-    "wof:lastmodified":1566643198,
+    "wof:lastmodified":1695879400,
     "wof:name":"Onnestad",
     "wof:parent_id":1159303497,
     "wof:placetype":"localadmin",

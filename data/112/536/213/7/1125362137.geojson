@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006502,
-    "geom:area_square_m":44205473.771482,
+    "geom:area_square_m":44205473.771479,
     "geom:bbox":"16.579793614,56.6115383327,16.7459203705,56.6772421683",
     "geom:latitude":56.643864,
     "geom:longitude":16.669442,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":1054,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.640559,
     "lbl:longitude":16.679336,
     "lbl:max_zoom":16.0,
@@ -61,14 +70,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131702,
-        "qs_pg:id":757663
+        "qs_pg:id":757663,
+        "se-lant:code":"103016"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497046866,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"acc5caa04a019a4b125315a34e97ffa9",
+    "wof:geomhash":"443327cd6c9f85f1550ef7719b9c3b3f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +90,7 @@
         }
     ],
     "wof:id":1125362137,
-    "wof:lastmodified":1582340863,
+    "wof:lastmodified":1695879531,
     "wof:name":"Norra Mockleby",
     "wof:parent_id":1159303101,
     "wof:placetype":"localadmin",

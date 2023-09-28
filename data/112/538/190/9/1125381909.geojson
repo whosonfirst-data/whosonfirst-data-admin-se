@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010553,
-    "geom:area_square_m":69128721.300208,
+    "geom:area_square_m":69128721.300213,
     "geom:bbox":"16.1383513303,57.9431739629,16.3792646397,58.066891622",
     "geom:latitude":58.010293,
     "geom:longitude":16.282048,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":1333,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.006625,
     "lbl:longitude":16.290286,
     "lbl:max_zoom":16.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131995,
-        "qs_pg:id":381323
+        "qs_pg:id":381323,
+        "se-lant:code":"105285"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497048099,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"29ed5052646e73ba5bc8650d5ec6c1b5",
+    "wof:geomhash":"95563aa1c2e1095bb3d061faac898d2f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125381909,
-    "wof:lastmodified":1582340850,
+    "wof:lastmodified":1695879522,
     "wof:name":"Overum",
     "wof:parent_id":1159303209,
     "wof:placetype":"localadmin",

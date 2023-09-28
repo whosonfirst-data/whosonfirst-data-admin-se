@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019679,
-    "geom:area_square_m":121913583.636239,
+    "geom:area_square_m":121913583.636232,
     "geom:bbox":"17.7414711096,59.8719914645,18.0299527261,59.9899102746",
     "geom:latitude":59.93385,
     "geom:longitude":17.873801,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":2196,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.92876,
     "lbl:longitude":17.899887,
     "lbl:max_zoom":15.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132910,
-        "qs_pg:id":109519
+        "qs_pg:id":109519,
+        "se-lant:code":"215156"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497047584,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"4e8ac8c73d655449fb1b122bae79e305",
+    "wof:geomhash":"dcb258485c13bd05eba3c4b2718ce5ae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125373723,
-    "wof:lastmodified":1582340835,
+    "wof:lastmodified":1695879512,
     "wof:name":"Rasbo",
     "wof:parent_id":1159303253,
     "wof:placetype":"localadmin",

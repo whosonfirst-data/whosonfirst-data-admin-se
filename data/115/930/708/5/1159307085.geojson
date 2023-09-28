@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00384,
-    "geom:area_square_m":25513084.338652,
+    "geom:area_square_m":25513084.338647,
     "geom:bbox":"18.5451750123,57.4551455011,18.641649314,57.5364463246",
     "geom:latitude":57.497848,
     "geom:longitude":18.588863,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.501882,
     "lbl:longitude":18.585574,
     "lbl:max_zoom":18.0,
@@ -45,9 +54,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"106050"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734220,
-    "wof:geomhash":"e38cd8b593a7927e0c72351c2031ab1a",
+    "wof:geomhash":"d809e25abcc1c1044e4c592912f784b6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +71,7 @@
         }
     ],
     "wof:id":1159307085,
-    "wof:lastmodified":1566643152,
+    "wof:lastmodified":1695879391,
     "wof:name":"Ganthem",
     "wof:parent_id":1159303535,
     "wof:placetype":"localadmin",

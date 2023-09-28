@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":741,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.051216,
     "lbl:longitude":14.34692,
     "lbl:max_zoom":17.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132635,
-        "qs_pg:id":381391
+        "qs_pg:id":381391,
+        "se-lant:code":"105279"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497048111,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"b6e184c16bd995159b88aa475482c94e",
+    "wof:geomhash":"e7603dd915ead9fc261245afa0799d25",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125382157,
-    "wof:lastmodified":1582340851,
+    "wof:lastmodified":1695879522,
     "wof:name":"Visingso",
     "wof:parent_id":1159303375,
     "wof:placetype":"localadmin",

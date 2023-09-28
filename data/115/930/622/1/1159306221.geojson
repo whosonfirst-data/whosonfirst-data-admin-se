@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01126,
-    "geom:area_square_m":68588793.477419,
+    "geom:area_square_m":68588793.477424,
     "geom:bbox":"15.4913299287,60.4365058826,15.7042039249,60.5434014448",
     "geom:latitude":60.486765,
     "geom:longitude":15.603172,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":60.48726,
     "lbl:longitude":15.598869,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"217023"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733976,
-    "wof:geomhash":"76823ca123de744f300bfcaacf8d590d",
+    "wof:geomhash":"43a7f8f2720c5d85eba6b121a9019263",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306221,
-    "wof:lastmodified":1566643300,
+    "wof:lastmodified":1695879417,
     "wof:name":"Torsang",
     "wof:parent_id":1159302993,
     "wof:placetype":"localadmin",

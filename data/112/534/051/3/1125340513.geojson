@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007983,
-    "geom:area_square_m":55293896.921001,
+    "geom:area_square_m":55293896.920998,
     "geom:bbox":"13.8695370808,55.8789190554,14.0152683185,55.9675254517",
     "geom:latitude":55.931195,
     "geom:longitude":13.937059,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":3985,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.930852,
     "lbl:longitude":13.931164,
     "lbl:max_zoom":15.0,
@@ -61,14 +70,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132324,
-        "qs_pg:id":758049
+        "qs_pg:id":758049,
+        "se-lant:code":"101248"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497045630,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"c1ee1385c68997de4d13f8845efe8412",
+    "wof:geomhash":"45baaf3a1d9673117b178e042966dcac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +90,7 @@
         }
     ],
     "wof:id":1125340513,
-    "wof:lastmodified":1582340735,
+    "wof:lastmodified":1695879437,
     "wof:name":"Vastra Vram",
     "wof:parent_id":1159303497,
     "wof:placetype":"localadmin",

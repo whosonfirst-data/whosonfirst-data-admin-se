@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003646,
-    "geom:area_square_m":23650407.332512,
+    "geom:area_square_m":23650407.332509,
     "geom:bbox":"11.1539876147,58.3244201528,11.2489448911,58.3869634822",
     "geom:latitude":58.358388,
     "geom:longitude":11.203896,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.353907,
     "lbl:longitude":11.203889,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"109051"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734041,
-    "wof:geomhash":"b2b5ab634fa10963440033ad00af9ed3",
+    "wof:geomhash":"62bceb934adcb3905affb68706bbbd62",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306423,
-    "wof:lastmodified":1566643188,
+    "wof:lastmodified":1695879397,
     "wof:name":"Smogen",
     "wof:parent_id":1159303393,
     "wof:placetype":"localadmin",

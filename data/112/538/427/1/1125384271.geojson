@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.066846,
-    "geom:area_square_m":406621641.010191,
+    "geom:area_square_m":406621641.010212,
     "geom:bbox":"17.6686190712,60.3969644071,18.178406575,60.6439945855",
     "geom:latitude":60.523983,
     "geom:longitude":17.958884,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":2922,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":60.532147,
     "lbl:longitude":17.962738,
     "lbl:max_zoom":15.0,
@@ -61,14 +70,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131971,
-        "qs_pg:id":757852
+        "qs_pg:id":757852,
+        "se-lant:code":"215206"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497048264,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"04f4a2bcb090665759167847358c2846",
+    "wof:geomhash":"96522394e0ca14071eba62aaa227ce7c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +90,7 @@
         }
     ],
     "wof:id":1125384271,
-    "wof:lastmodified":1582340852,
+    "wof:lastmodified":1695879524,
     "wof:name":"Hallnas",
     "wof:parent_id":1159302963,
     "wof:placetype":"localadmin",

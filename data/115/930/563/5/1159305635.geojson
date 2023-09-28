@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006564,
-    "geom:area_square_m":42357455.151582,
+    "geom:area_square_m":42357455.151586,
     "geom:bbox":"13.5367090436,58.5020242573,13.6764050138,58.582428107",
     "geom:latitude":58.543289,
     "geom:longitude":13.608972,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.546528,
     "lbl:longitude":13.613736,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107386"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733830,
-    "wof:geomhash":"702a95f5a74c638269ca5c15dbf16b48",
+    "wof:geomhash":"a886e725b6ce1ba775ee811e5f472069",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159305635,
-    "wof:lastmodified":1566643280,
+    "wof:lastmodified":1695879414,
     "wof:name":"Holmestad",
     "wof:parent_id":1159302923,
     "wof:placetype":"localadmin",

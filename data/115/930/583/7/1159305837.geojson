@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031548,
-    "geom:area_square_m":199036500.617813,
+    "geom:area_square_m":199036500.617798,
     "geom:bbox":"15.5993324891,59.2233965329,15.8620389553,59.4099179097",
     "geom:latitude":59.321297,
     "geom:longitude":15.729226,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.328681,
     "lbl:longitude":15.726758,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"211043"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733881,
-    "wof:geomhash":"437c46d1cd531f739cab5b29e7233c60",
+    "wof:geomhash":"779479769b6d492e5e9a2b0533c548bb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159305837,
-    "wof:lastmodified":1566643378,
+    "wof:lastmodified":1695879432,
     "wof:name":"Gotlunda",
     "wof:parent_id":1159303195,
     "wof:placetype":"localadmin",

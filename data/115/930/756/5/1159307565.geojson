@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012834,
-    "geom:area_square_m":86541503.329854,
+    "geom:area_square_m":86541503.329855,
     "geom:bbox":"13.6620378528,56.8565334654,13.8160214107,57.0385190832",
     "geom:latitude":56.952734,
     "geom:longitude":13.725898,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.948091,
     "lbl:longitude":13.724747,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"105094"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734346,
-    "wof:geomhash":"25c19f41a6b2a3bd1a9271f6e9110823",
+    "wof:geomhash":"b7567f5092b3d4a77b0246a9b13dcf49",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307565,
-    "wof:lastmodified":1566643277,
+    "wof:lastmodified":1695879413,
     "wof:name":"Bolmso",
     "wof:parent_id":1159303441,
     "wof:placetype":"localadmin",

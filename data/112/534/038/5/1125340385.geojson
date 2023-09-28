@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021864,
-    "geom:area_square_m":138876530.766275,
+    "geom:area_square_m":138876530.766277,
     "geom:bbox":"17.9142054972,58.9958370711,18.1804077138,59.1566932181",
     "geom:latitude":59.09037,
     "geom:longitude":18.048211,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":17660,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.089315,
     "lbl:longitude":18.057321,
     "lbl:max_zoom":15.0,
@@ -61,14 +70,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132063,
-        "qs_pg:id":757912
+        "qs_pg:id":757912,
+        "se-lant:code":"212058"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497045623,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"7f46c7f76af1f8c120f76a05fe4c6168",
+    "wof:geomhash":"ce7875b127b12772aeba3cd2c555a881",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +90,7 @@
         }
     ],
     "wof:id":1125340385,
-    "wof:lastmodified":1582340732,
+    "wof:lastmodified":1695879435,
     "wof:name":"Vasterhaninge",
     "wof:parent_id":1159303483,
     "wof:placetype":"localadmin",

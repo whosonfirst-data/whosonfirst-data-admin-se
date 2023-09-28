@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009197,
-    "geom:area_square_m":60547742.867154,
+    "geom:area_square_m":60547742.867153,
     "geom:bbox":"14.3522471761,57.7861449167,14.5145316055,57.8910538985",
     "geom:latitude":57.831336,
     "geom:longitude":14.445154,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.833112,
     "lbl:longitude":14.453162,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"105267"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734041,
-    "wof:geomhash":"dbcf040ded8797dfbb0007440f023c6a",
+    "wof:geomhash":"8ae568d649f61d13b61725a450451807",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306427,
-    "wof:lastmodified":1566643188,
+    "wof:lastmodified":1695879397,
     "wof:name":"Svarttorp",
     "wof:parent_id":1159303375,
     "wof:placetype":"localadmin",

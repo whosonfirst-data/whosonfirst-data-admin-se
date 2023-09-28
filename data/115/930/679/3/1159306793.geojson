@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002988,
-    "geom:area_square_m":20708234.568996,
+    "geom:area_square_m":20708234.56899,
     "geom:bbox":"12.6489622896,55.8696382166,12.7461351145,55.9311211034",
     "geom:latitude":55.904848,
     "geom:longitude":12.697363,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.904659,
     "lbl:longitude":12.698099,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101220"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734136,
-    "wof:geomhash":"b1db593230dd8ec7782ab2aead081b3b",
+    "wof:geomhash":"8ff505e282c8e666af2a4ca4c295587c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306793,
-    "wof:lastmodified":1566643314,
+    "wof:lastmodified":1695879421,
     "wof:name":"Sankt Ibb",
     "wof:parent_id":1159303531,
     "wof:placetype":"localadmin",

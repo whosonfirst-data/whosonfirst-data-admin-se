@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006524,
-    "geom:area_square_m":42379563.213208,
+    "geom:area_square_m":42379563.21321,
     "geom:bbox":"14.8525227876,58.2601091513,15.0012472944,58.3596660394",
     "geom:latitude":58.308606,
     "geom:longitude":14.91867,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":1600,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.309389,
     "lbl:longitude":14.924814,
     "lbl:max_zoom":16.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131626,
-        "qs_pg:id":757627
+        "qs_pg:id":757627,
+        "se-lant:code":"108038"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497046474,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"09312d6500b70aee07718173f58773df",
+    "wof:geomhash":"b495ec922e928251dfcfd03776013059",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125355983,
-    "wof:lastmodified":1582340746,
+    "wof:lastmodified":1695879445,
     "wof:name":"Vaderstad",
     "wof:parent_id":1159302925,
     "wof:placetype":"localadmin",

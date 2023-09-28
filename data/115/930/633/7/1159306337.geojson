@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014667,
-    "geom:area_square_m":93117273.346015,
+    "geom:area_square_m":93117273.346023,
     "geom:bbox":"12.6953943577,59.0236647669,12.891618775,59.1717095162",
     "geom:latitude":59.106869,
     "geom:longitude":12.805387,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.109435,
     "lbl:longitude":12.80689,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"213007"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734006,
-    "wof:geomhash":"e9ed8889b11918a2b6348be1d045ff85",
+    "wof:geomhash":"91759390c4df15abd00b9f74835511f8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306337,
-    "wof:lastmodified":1566643199,
+    "wof:lastmodified":1695879400,
     "wof:name":"Tveta",
     "wof:parent_id":1159303169,
     "wof:placetype":"localadmin",

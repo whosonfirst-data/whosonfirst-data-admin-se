@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026015,
-    "geom:area_square_m":144026740.446956,
+    "geom:area_square_m":144026740.446954,
     "geom:bbox":"13.5318682015,63.2717990937,14.4188923596,63.7486587197",
     "geom:latitude":63.401461,
     "geom:longitude":14.193442,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":1808,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":63.35679,
     "lbl:longitude":14.245963,
     "lbl:max_zoom":16.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132586,
-        "qs_pg:id":109457
+        "qs_pg:id":109457,
+        "se-lant:code":"322034"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497047556,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"9c3ba6d679a030cc466c4393e1ff9075",
+    "wof:geomhash":"1a3dbc39fc90fd064fbec86fb7306e3a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125373253,
-    "wof:lastmodified":1582340827,
+    "wof:lastmodified":1695879506,
     "wof:name":"Naskott",
     "wof:parent_id":1159303097,
     "wof:placetype":"localadmin",

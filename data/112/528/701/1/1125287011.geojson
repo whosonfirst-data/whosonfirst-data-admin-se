@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012406,
-    "geom:area_square_m":80381827.00007,
+    "geom:area_square_m":80381827.000072,
     "geom:bbox":"11.9609972365,58.3484067197,12.1551437646,58.4528341168",
     "geom:latitude":58.398973,
     "geom:longitude":12.053361,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":1690,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.39814,
     "lbl:longitude":12.051514,
     "lbl:max_zoom":16.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132016,
-        "qs_pg:id":757874
+        "qs_pg:id":757874,
+        "se-lant:code":"109061"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497042747,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"f85903ff19d81eb55b1edc95508fdc84",
+    "wof:geomhash":"11a327ff5fddf8fac3cc7ddc5bf6f995",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125287011,
-    "wof:lastmodified":1582340780,
+    "wof:lastmodified":1695879472,
     "wof:name":"Lane-Ryr",
     "wof:parent_id":1159303355,
     "wof:placetype":"localadmin",

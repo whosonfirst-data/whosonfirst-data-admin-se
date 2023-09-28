@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004203,
-    "geom:area_square_m":26296829.810554,
+    "geom:area_square_m":26296829.810552,
     "geom:bbox":"18.0067660326,59.5612481153,18.0843531096,59.6378447304",
     "geom:latitude":59.603927,
     "geom:longitude":18.045603,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.603132,
     "lbl:longitude":18.045619,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"215087"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734277,
-    "wof:geomhash":"7403c13ff98173fee0552f40cdd92170",
+    "wof:geomhash":"24432ecc39e55d46a51f51c6400edf54",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307305,
-    "wof:lastmodified":1566643150,
+    "wof:lastmodified":1695879391,
     "wof:name":"Markim",
     "wof:parent_id":1159303513,
     "wof:placetype":"localadmin",

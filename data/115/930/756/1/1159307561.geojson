@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005726,
-    "geom:area_square_m":37665239.919605,
+    "geom:area_square_m":37665239.919607,
     "geom:bbox":"12.00755037,57.8061814431,12.126583009,57.9034869812",
     "geom:latitude":57.862556,
     "geom:longitude":12.058229,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.867845,
     "lbl:longitude":12.057321,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107113"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734345,
-    "wof:geomhash":"307096f40a5ea1e2367cd77874bb24e4",
+    "wof:geomhash":"b189e2a61bd1d4a055ecff70f4a17812",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307561,
-    "wof:lastmodified":1566643276,
+    "wof:lastmodified":1695879413,
     "wof:name":"Nodinge",
     "wof:parent_id":1159303087,
     "wof:placetype":"localadmin",

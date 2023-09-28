@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01197,
-    "geom:area_square_m":79985187.829781,
+    "geom:area_square_m":79985187.829805,
     "geom:bbox":"14.7742681886,57.2075310846,14.9403515601,57.3590348211",
     "geom:latitude":57.288308,
     "geom:longitude":14.84722,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":370,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.307774,
     "lbl:longitude":14.85538,
     "lbl:max_zoom":17.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131893,
-        "qs_pg:id":109343
+        "qs_pg:id":109343,
+        "se-lant:code":"105157"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497047510,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"cc87e634cbaee4e2f9e82bd7dd01d4b3",
+    "wof:geomhash":"8eeb353aff14856dc12641cb4ab5cdef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125372589,
-    "wof:lastmodified":1582340824,
+    "wof:lastmodified":1695879503,
     "wof:name":"Froderyd",
     "wof:parent_id":1159303157,
     "wof:placetype":"localadmin",

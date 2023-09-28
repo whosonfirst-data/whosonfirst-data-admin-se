@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003623,
-    "geom:area_square_m":25435507.476694,
+    "geom:area_square_m":25435507.476698,
     "geom:bbox":"13.4738512108,55.3768477085,13.5801240973,55.4386109468",
     "geom:latitude":55.404177,
     "geom:longitude":13.520066,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.406367,
     "lbl:longitude":13.516455,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101036"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734093,
-    "wof:geomhash":"4f412e8e39e6681768ba9d33ab0b16bb",
+    "wof:geomhash":"4858ad0ca00610548e51518be93a9111",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306593,
-    "wof:lastmodified":1566643220,
+    "wof:lastmodified":1695879403,
     "wof:name":"Ostra Vemmenhog",
     "wof:parent_id":1159303379,
     "wof:placetype":"localadmin",

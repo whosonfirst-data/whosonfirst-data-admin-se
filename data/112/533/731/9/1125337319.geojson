@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":30102,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.316312,
     "lbl:longitude":18.044282,
     "lbl:max_zoom":14.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131724,
-        "qs_pg:id":757684
+        "qs_pg:id":757684,
+        "se-lant:code":"212099"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497045488,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"0e9f61130b336ce84e684ec6f89693f9",
+    "wof:geomhash":"79d26091049698e98113d2fa12b267dc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125337319,
-    "wof:lastmodified":1582340731,
+    "wof:lastmodified":1695879434,
     "wof:name":"Hogalid",
     "wof:parent_id":1159303035,
     "wof:placetype":"localadmin",

@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005973,
-    "geom:area_square_m":41290639.645746,
+    "geom:area_square_m":41290639.645743,
     "geom:bbox":"13.5462018635,55.9714472962,13.6704442933,56.046917646",
     "geom:latitude":56.006532,
     "geom:longitude":13.610572,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.007375,
     "lbl:longitude":13.611764,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101272"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734057,
-    "wof:geomhash":"78d96e8780ee5a98ca3ce9f04ba3d279",
+    "wof:geomhash":"c973d9766dc6200be940d0a521268a4a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306483,
-    "wof:lastmodified":1566643320,
+    "wof:lastmodified":1695879422,
     "wof:name":"Tjornarp",
     "wof:parent_id":1159303357,
     "wof:placetype":"localadmin",

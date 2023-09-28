@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016888,
-    "geom:area_square_m":105400964.940964,
+    "geom:area_square_m":105400964.940972,
     "geom:bbox":"17.9098343065,59.6314814235,18.1532853725,59.7453271385",
     "geom:latitude":59.686714,
     "geom:longitude":18.033442,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.68718,
     "lbl:longitude":18.033434,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"215115"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733980,
-    "wof:geomhash":"06610b33978cd818d19c1c458a9f0a6e",
+    "wof:geomhash":"618248e81458c53e530a986e8a4d7438",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306235,
-    "wof:lastmodified":1566643308,
+    "wof:lastmodified":1695879419,
     "wof:name":"Skepptuna",
     "wof:parent_id":1159303265,
     "wof:placetype":"localadmin",

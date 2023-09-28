@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023625,
-    "geom:area_square_m":147705292.178063,
+    "geom:area_square_m":147705292.178076,
     "geom:bbox":"11.7165816509,59.5602683482,12.0182083163,59.7281420411",
     "geom:latitude":59.62825,
     "geom:longitude":11.893084,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.633889,
     "lbl:longitude":11.915867,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"213054"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734302,
-    "wof:geomhash":"338ebe4344eead5beb1e13bbbe57ae16",
+    "wof:geomhash":"3249c4d080dc4f0ea6f674435c5799e9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307405,
-    "wof:lastmodified":1566643236,
+    "wof:lastmodified":1695879406,
     "wof:name":"Ostervallskog",
     "wof:parent_id":1159302927,
     "wof:placetype":"localadmin",

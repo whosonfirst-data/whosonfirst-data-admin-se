@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010082,
-    "geom:area_square_m":66176260.890733,
+    "geom:area_square_m":66176260.890758,
     "geom:bbox":"14.5114706228,57.8897100949,14.6872530666,58.0014705609",
     "geom:latitude":57.937857,
     "geom:longitude":14.606986,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.929981,
     "lbl:longitude":14.61561,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"105277"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733824,
-    "wof:geomhash":"f3c6f205d68d65bc8bcb157646b521a1",
+    "wof:geomhash":"1679eefe6e10b942020ccf5c4fa47dbd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159305613,
-    "wof:lastmodified":1566643161,
+    "wof:lastmodified":1695879392,
     "wof:name":"Vireda",
     "wof:parent_id":1159303047,
     "wof:placetype":"localadmin",

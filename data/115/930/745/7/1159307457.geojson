@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003107,
-    "geom:area_square_m":20098966.002698,
+    "geom:area_square_m":20098966.002695,
     "geom:bbox":"15.2463444091,58.4349734072,15.3383191046,58.4865750223",
     "geom:latitude":58.460068,
     "geom:longitude":15.294418,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.458656,
     "lbl:longitude":15.299894,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"108106"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734317,
-    "wof:geomhash":"d4a4a98dbd8aad39f70f3e931cc25d3e",
+    "wof:geomhash":"5d58086183d230d3f239aea924dd047e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307457,
-    "wof:lastmodified":1566643378,
+    "wof:lastmodified":1695879432,
     "wof:name":"Alvestad",
     "wof:parent_id":1159303391,
     "wof:placetype":"localadmin",

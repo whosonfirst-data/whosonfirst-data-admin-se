@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006203,
-    "geom:area_square_m":40934580.793926,
+    "geom:area_square_m":40934580.793925,
     "geom:bbox":"18.5540974883,57.7102119977,18.6805855299,57.7890867559",
     "geom:latitude":57.747129,
     "geom:longitude":18.61446,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.747701,
     "lbl:longitude":18.619567,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"106082"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734076,
-    "wof:geomhash":"29bcb1877835233876b1e5db277f0409",
+    "wof:geomhash":"e1bbe89ce6e97fcf2fe4af9c58723a6d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306553,
-    "wof:lastmodified":1566643320,
+    "wof:lastmodified":1695879422,
     "wof:name":"Tingstade",
     "wof:parent_id":1159303535,
     "wof:placetype":"localadmin",

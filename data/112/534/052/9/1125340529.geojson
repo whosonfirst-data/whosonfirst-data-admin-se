@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004382,
-    "geom:area_square_m":30383700.984342,
+    "geom:area_square_m":30383700.984344,
     "geom:bbox":"14.0147493417,55.8709908311,14.1884312098,55.9157955841",
     "geom:latitude":55.894762,
     "geom:longitude":14.110187,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":1608,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.898048,
     "lbl:longitude":14.104333,
     "lbl:max_zoom":16.0,
@@ -61,14 +70,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132325,
-        "qs_pg:id":758050
+        "qs_pg:id":758050,
+        "se-lant:code":"101250"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497045631,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"046fa66e4908d485fd1ad944057dfa5c",
+    "wof:geomhash":"e64409a0674101d3eb0bda0092966b64",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +90,7 @@
         }
     ],
     "wof:id":1125340529,
-    "wof:lastmodified":1582340733,
+    "wof:lastmodified":1695879435,
     "wof:name":"Everod",
     "wof:parent_id":1159303497,
     "wof:placetype":"localadmin",

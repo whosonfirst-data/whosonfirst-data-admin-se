@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013363,
-    "geom:area_square_m":84256848.715987,
+    "geom:area_square_m":84256848.715982,
     "geom:bbox":"15.307539406,59.2814161667,15.5338249903,59.4016184479",
     "geom:latitude":59.342449,
     "geom:longitude":15.417016,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":3426,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.330722,
     "lbl:longitude":15.409317,
     "lbl:max_zoom":15.0,
@@ -76,14 +85,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131616,
-        "qs_pg:id":757622
+        "qs_pg:id":757622,
+        "se-lant:code":"211041"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497046472,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"afb5771d03b8ceaae2cf2ee851209af1",
+    "wof:geomhash":"eb8386562a33bed1116d30c584630f28",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,7 +105,7 @@
         }
     ],
     "wof:id":1125355947,
-    "wof:lastmodified":1582340737,
+    "wof:lastmodified":1695879438,
     "wof:name":"Glanshammar",
     "wof:parent_id":1159303031,
     "wof:placetype":"localadmin",

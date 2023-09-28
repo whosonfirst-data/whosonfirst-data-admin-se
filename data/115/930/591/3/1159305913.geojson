@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.048396,
-    "geom:area_square_m":312472906.23204,
+    "geom:area_square_m":312472906.232058,
     "geom:bbox":"16.7328360026,58.4399978905,17.1489851335,58.6009943995",
     "geom:latitude":58.523146,
     "geom:longitude":16.947222,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.523629,
     "lbl:longitude":16.947333,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"108127"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733905,
-    "wof:geomhash":"af9e7be8de4afb5cd79fe5dc549a5290",
+    "wof:geomhash":"100879dde2582ea7f7eac0ade0350b8c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159305913,
-    "wof:lastmodified":1566643294,
+    "wof:lastmodified":1695879416,
     "wof:name":"Jonsberg",
     "wof:parent_id":1159303229,
     "wof:placetype":"localadmin",

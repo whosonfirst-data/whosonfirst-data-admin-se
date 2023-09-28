@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026272,
-    "geom:area_square_m":173233235.435714,
+    "geom:area_square_m":173233235.435708,
     "geom:bbox":"15.9441670124,57.6798868502,16.1826665395,57.8759375755",
     "geom:latitude":57.774155,
     "geom:longitude":16.064148,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":487,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.77838,
     "lbl:longitude":16.056032,
     "lbl:max_zoom":17.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132703,
-        "qs_pg:id":758301
+        "qs_pg:id":758301,
+        "se-lant:code":"105261"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497042777,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"b5ec1943e911b77419ebe70889d1e869",
+    "wof:geomhash":"07e0ed6ed02bdd5c795f146519fbf235",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125287579,
-    "wof:lastmodified":1582340791,
+    "wof:lastmodified":1695879481,
     "wof:name":"Locknevi",
     "wof:parent_id":1159303159,
     "wof:placetype":"localadmin",

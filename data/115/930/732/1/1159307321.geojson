@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006696,
-    "geom:area_square_m":41857071.89043,
+    "geom:area_square_m":41857071.890433,
     "geom:bbox":"18.0888025167,59.5696541158,18.2183475241,59.683562106",
     "geom:latitude":59.633167,
     "geom:longitude":18.155002,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.627931,
     "lbl:longitude":18.166787,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"215089"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734282,
-    "wof:geomhash":"92f8384fc5d6bf1a1831a06a88e3f9ee",
+    "wof:geomhash":"a5935401ba87ab178a73645b7f04d7d2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307321,
-    "wof:lastmodified":1566643282,
+    "wof:lastmodified":1695879414,
     "wof:name":"Frosunda",
     "wof:parent_id":1159303513,
     "wof:placetype":"localadmin",

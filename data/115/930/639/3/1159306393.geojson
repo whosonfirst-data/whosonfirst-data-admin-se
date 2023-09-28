@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019858,
-    "geom:area_square_m":125360349.789992,
+    "geom:area_square_m":125360349.78999,
     "geom:bbox":"15.8646941521,59.2304836746,16.1161774025,59.3692616086",
     "geom:latitude":59.301417,
     "geom:longitude":15.993001,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.305909,
     "lbl:longitude":15.991087,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"212080"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734032,
-    "wof:geomhash":"ebbc5bd245996141fbdd030e3844905c",
+    "wof:geomhash":"ad287cbc830a3f0a7d0de5e4798557c6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306393,
-    "wof:lastmodified":1566643333,
+    "wof:lastmodified":1695879425,
     "wof:name":"Vastermo",
     "wof:parent_id":1159303207,
     "wof:placetype":"localadmin",

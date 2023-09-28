@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0061,
-    "geom:area_square_m":37840167.979723,
+    "geom:area_square_m":37840167.979725,
     "geom:bbox":"17.2017538348,59.854302542,17.3639330551,59.9342320825",
     "geom:latitude":59.890278,
     "geom:longitude":17.282809,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.896086,
     "lbl:longitude":17.28282,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"215149"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733926,
-    "wof:geomhash":"115b50beeb04c0e044cbcd51348a3498",
+    "wof:geomhash":"07d119f9cbacfbfdfc60d6018e5d773c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306013,
-    "wof:lastmodified":1566643334,
+    "wof:lastmodified":1695879425,
     "wof:name":"Aland",
     "wof:parent_id":1159303253,
     "wof:placetype":"localadmin",

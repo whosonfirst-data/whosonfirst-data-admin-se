@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00648,
-    "geom:area_square_m":44815632.754428,
+    "geom:area_square_m":44815632.754426,
     "geom:bbox":"13.8875871317,55.9554965604,14.0392829601,56.0249118023",
     "geom:latitude":55.991438,
     "geom:longitude":13.96772,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":1064,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.994992,
     "lbl:longitude":13.969163,
     "lbl:max_zoom":16.0,
@@ -73,14 +82,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132319,
-        "qs_pg:id":758044
+        "qs_pg:id":758044,
+        "se-lant:code":"101275"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497042762,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"eaa11935e36f5c426f3018305e01bcb1",
+    "wof:geomhash":"5a6d17eeea9007d936ad0653cb91cd06",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +102,7 @@
         }
     ],
     "wof:id":1125287277,
-    "wof:lastmodified":1582340799,
+    "wof:lastmodified":1695879486,
     "wof:name":"Trane",
     "wof:parent_id":1159303497,
     "wof:placetype":"localadmin",

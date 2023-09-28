@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005842,
-    "geom:area_square_m":38862592.764011,
+    "geom:area_square_m":38862592.76401,
     "geom:bbox":"12.5327986788,57.4095185388,12.6353654477,57.5103744144",
     "geom:latitude":57.453189,
     "geom:longitude":12.583764,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":843,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.448873,
     "lbl:longitude":12.578719,
     "lbl:max_zoom":17.0,
@@ -73,14 +82,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132265,
-        "qs_pg:id":904410
+        "qs_pg:id":904410,
+        "se-lant:code":"107026"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497046546,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"2103a8b901224b19ea90144207963358",
+    "wof:geomhash":"c1a3b948e83fded6197fb6dd7fee4516",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +102,7 @@
         }
     ],
     "wof:id":1125357163,
-    "wof:lastmodified":1582340752,
+    "wof:lastmodified":1695879449,
     "wof:name":"Berghem",
     "wof:parent_id":1159302961,
     "wof:placetype":"localadmin",

@@ -10,6 +10,15 @@
     "geom:latitude":55.61728,
     "geom:longitude":13.150563,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.619037,
     "lbl:longitude":13.147841,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101127"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734134,
-    "wof:geomhash":"06a848b2cb067affe956ce1b82019631",
+    "wof:geomhash":"38518f62ad1d77e8d4e10eb0f23fa8a4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306787,
-    "wof:lastmodified":1566643306,
+    "wof:lastmodified":1695879418,
     "wof:name":"Sarslov",
     "wof:parent_id":1159303125,
     "wof:placetype":"localadmin",

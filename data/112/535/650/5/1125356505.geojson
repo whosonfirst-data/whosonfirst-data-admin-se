@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031113,
-    "geom:area_square_m":196790818.052794,
+    "geom:area_square_m":196790818.052784,
     "geom:bbox":"15.3771827571,59.1603224474,15.7265399665,59.3106419252",
     "geom:latitude":59.234997,
     "geom:longitude":15.54459,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":2561,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.243977,
     "lbl:longitude":15.56192,
     "lbl:max_zoom":15.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132820,
-        "qs_pg:id":758363
+        "qs_pg:id":758363,
+        "se-lant:code":"211033"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497046502,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"5971d6d667407526890f7fecebc50c61",
+    "wof:geomhash":"b69f682cd9c18996634567ca2fbb1975",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125356505,
-    "wof:lastmodified":1582340744,
+    "wof:lastmodified":1695879443,
     "wof:name":"Stora Mellosa",
     "wof:parent_id":1159303031,
     "wof:placetype":"localadmin",

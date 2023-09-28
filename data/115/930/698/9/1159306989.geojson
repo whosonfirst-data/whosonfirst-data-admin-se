@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001903,
-    "geom:area_square_m":12390864.255502,
+    "geom:area_square_m":12390864.255498,
     "geom:bbox":"13.597942505,58.1954070829,13.6833380562,58.2479151609",
     "geom:latitude":58.224577,
     "geom:longitude":13.641008,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.211471,
     "lbl:longitude":13.64747,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107269"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734196,
-    "wof:geomhash":"51f8e2124d4f877e6e64612ef8675645",
+    "wof:geomhash":"1a1c6f72f48fa5369459e53f59784ff0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306989,
-    "wof:lastmodified":1566643338,
+    "wof:lastmodified":1695879426,
     "wof:name":"Valtorp",
     "wof:parent_id":1159303137,
     "wof:placetype":"localadmin",

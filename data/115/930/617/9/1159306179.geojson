@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002007,
-    "geom:area_square_m":12882555.889544,
+    "geom:area_square_m":12882555.889545,
     "geom:bbox":"13.970961569,58.7049798752,14.0492141252,58.7628563678",
     "geom:latitude":58.731895,
     "geom:longitude":14.012094,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.732222,
     "lbl:longitude":14.01269,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107444"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733966,
-    "wof:geomhash":"cb76f99988df0149b9bc39ea0047a89d",
+    "wof:geomhash":"e6f70a00603573c31e21c03cb729dcd1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306179,
-    "wof:lastmodified":1566643182,
+    "wof:lastmodified":1695879396,
     "wof:name":"Fared",
     "wof:parent_id":1159303321,
     "wof:placetype":"localadmin",

@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006869,
-    "geom:area_square_m":47833239.138376,
+    "geom:area_square_m":47833239.138373,
     "geom:bbox":"13.8896512998,55.6802917486,14.0146156683,55.7767023788",
     "geom:latitude":55.727643,
     "geom:longitude":13.956849,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.726845,
     "lbl:longitude":13.95779,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101183"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734158,
-    "wof:geomhash":"549b575bfd1a0222e297a5771a1710be",
+    "wof:geomhash":"762d200a38870f7e97f9ee4b84196e4e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306863,
-    "wof:lastmodified":1566643174,
+    "wof:lastmodified":1695879394,
     "wof:name":"Andrarum",
     "wof:parent_id":1159302959,
     "wof:placetype":"localadmin",

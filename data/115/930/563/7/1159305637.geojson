@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003824,
-    "geom:area_square_m":24089222.048221,
+    "geom:area_square_m":24089222.04822,
     "geom:bbox":"16.2690356792,59.3526103317,16.3733236419,59.400286632",
     "geom:latitude":59.375127,
     "geom:longitude":16.318895,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.376038,
     "lbl:longitude":16.312688,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"212107"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733831,
-    "wof:geomhash":"202d870139540b8611d165ade9ef2c97",
+    "wof:geomhash":"d76163f09620d475411018df5e8daf28",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159305637,
-    "wof:lastmodified":1566643279,
+    "wof:lastmodified":1695879413,
     "wof:name":"Raby-Rekarne",
     "wof:parent_id":1159303207,
     "wof:placetype":"localadmin",

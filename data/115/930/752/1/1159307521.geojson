@@ -10,6 +10,15 @@
     "geom:latitude":56.426112,
     "geom:longitude":13.846012,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.412827,
     "lbl:longitude":13.816845,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101378"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734333,
-    "wof:geomhash":"81d8a9b1193fd6ffc4039447de88a504",
+    "wof:geomhash":"9ddbe81674bb753802f76549ba86aaa2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307521,
-    "wof:lastmodified":1566643140,
+    "wof:lastmodified":1695879388,
     "wof:name":"Visseltofta",
     "wof:parent_id":1159303165,
     "wof:placetype":"localadmin",

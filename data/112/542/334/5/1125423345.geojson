@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032083,
-    "geom:area_square_m":200451387.37919,
+    "geom:area_square_m":200451387.379188,
     "geom:bbox":"18.5120852519,59.5735650045,18.9206089228,59.7226037894",
     "geom:latitude":59.650348,
     "geom:longitude":18.704673,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":2909,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.639103,
     "lbl:longitude":18.684583,
     "lbl:max_zoom":15.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8133103,
-        "qs_pg:id":109569
+        "qs_pg:id":109569,
+        "se-lant:code":"215093"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497052676,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"8e7fa64b0b36ccef3342c2f6b8bbc6a1",
+    "wof:geomhash":"c9e551eb524d0b59e4914dd5344b089d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125423345,
-    "wof:lastmodified":1582340815,
+    "wof:lastmodified":1695879497,
     "wof:name":"Lanna",
     "wof:parent_id":1159302995,
     "wof:placetype":"localadmin",

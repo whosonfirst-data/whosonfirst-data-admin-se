@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003629,
-    "geom:area_square_m":22628384.717857,
+    "geom:area_square_m":22628384.71786,
     "geom:bbox":"17.0947978085,59.6804980454,17.1877520894,59.7500017172",
     "geom:latitude":59.713577,
     "geom:longitude":17.135233,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":287,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.713682,
     "lbl:longitude":17.138384,
     "lbl:max_zoom":17.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132927,
-        "qs_pg:id":758442
+        "qs_pg:id":758442,
+        "se-lant:code":"215099"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497044814,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"ab5aa2a47c7d6856dc4af3708d87eded",
+    "wof:geomhash":"16d366943f61dafa3c67eef42913f74e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125325947,
-    "wof:lastmodified":1582340754,
+    "wof:lastmodified":1695879450,
     "wof:name":"Langtora",
     "wof:parent_id":1159303337,
     "wof:placetype":"localadmin",

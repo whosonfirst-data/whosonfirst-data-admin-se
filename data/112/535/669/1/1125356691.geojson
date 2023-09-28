@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007129,
-    "geom:area_square_m":45331782.025066,
+    "geom:area_square_m":45331782.025064,
     "geom:bbox":"16.5105201755,59.0040714958,16.6924399601,59.087237256",
     "geom:latitude":59.051606,
     "geom:longitude":16.594335,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":6625,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.058477,
     "lbl:longitude":16.562673,
     "lbl:max_zoom":15.0,
@@ -118,14 +127,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8133345,
-        "qs_pg:id":758635
+        "qs_pg:id":758635,
+        "se-lant:code":"212039"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497046515,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"e3e111344913ea84bf0fb7e5fddd8fd7",
+    "wof:geomhash":"b347079026bad4362ddb7f9cb8724a22",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -136,7 +147,7 @@
         }
     ],
     "wof:id":1125356691,
-    "wof:lastmodified":1582340742,
+    "wof:lastmodified":1695879442,
     "wof:name":"Flen",
     "wof:parent_id":1159302997,
     "wof:placetype":"localadmin",

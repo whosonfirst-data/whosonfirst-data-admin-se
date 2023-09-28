@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003656,
-    "geom:area_square_m":23516954.737819,
+    "geom:area_square_m":23516954.737816,
     "geom:bbox":"13.8461750344,58.6142258846,13.9696288075,58.6841895915",
     "geom:latitude":58.64992,
     "geom:longitude":13.922019,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.648612,
     "lbl:longitude":13.928046,
     "lbl:max_zoom":18.0,
@@ -45,9 +54,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107434"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734200,
-    "wof:geomhash":"9c17dbc281734c564ac1397b735a8eac",
+    "wof:geomhash":"96bd1acd4614d99553bdc961b9a1bf4e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +71,7 @@
         }
     ],
     "wof:id":1159307005,
-    "wof:lastmodified":1566643173,
+    "wof:lastmodified":1695879394,
     "wof:name":"Utby",
     "wof:parent_id":1159303321,
     "wof:placetype":"localadmin",

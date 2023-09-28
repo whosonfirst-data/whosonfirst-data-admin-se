@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003196,
-    "geom:area_square_m":21482800.662212,
+    "geom:area_square_m":21482800.662209,
     "geom:bbox":"18.2830945476,57.0491529466,18.3680643144,57.1034168254",
     "geom:latitude":57.074351,
     "geom:longitude":18.324243,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.075112,
     "lbl:longitude":18.324245,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"106006"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734043,
-    "wof:geomhash":"595ab3b2aecdb3cf6c3966f18bd4685a",
+    "wof:geomhash":"01fcd6a7b39ab4c41fa82c117669cfd7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306437,
-    "wof:lastmodified":1566643178,
+    "wof:lastmodified":1695879395,
     "wof:name":"Fide",
     "wof:parent_id":1159303535,
     "wof:placetype":"localadmin",

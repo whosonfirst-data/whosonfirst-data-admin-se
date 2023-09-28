@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007151,
-    "geom:area_square_m":43984807.117769,
+    "geom:area_square_m":43984807.11777,
     "geom:bbox":"18.0204109345,60.1251006397,18.2148746278,60.2107636654",
     "geom:latitude":60.171168,
     "geom:longitude":18.129176,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":2699,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":60.17224,
     "lbl:longitude":18.143918,
     "lbl:max_zoom":15.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132936,
-        "qs_pg:id":758448
+        "qs_pg:id":758448,
+        "se-lant:code":"215189"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497052318,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"cb586eabebc67a01a1caf635b7786a24",
+    "wof:geomhash":"26f35fb9e000d432a1fa4eed27fc1543",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125421451,
-    "wof:lastmodified":1582340811,
+    "wof:lastmodified":1695879494,
     "wof:name":"Skafthammar",
     "wof:parent_id":1159303415,
     "wof:placetype":"localadmin",

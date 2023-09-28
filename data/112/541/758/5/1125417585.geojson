@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018304,
-    "geom:area_square_m":119211524.064076,
+    "geom:area_square_m":119211524.064067,
     "geom:bbox":"15.1793109175,58.1345029382,15.376430774,58.2962164828",
     "geom:latitude":58.216564,
     "geom:longitude":15.287897,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":541,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.195798,
     "lbl:longitude":15.294596,
     "lbl:max_zoom":17.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131628,
-        "qs_pg:id":757629
+        "qs_pg:id":757629,
+        "se-lant:code":"108028"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497051620,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"21323ed39b6b59e3365ff3cfa180c442",
+    "wof:geomhash":"648cb498a5d5d944e5bcffb468733b7a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125417585,
-    "wof:lastmodified":1582340872,
+    "wof:lastmodified":1695879547,
     "wof:name":"Vastra Harg",
     "wof:parent_id":1159302925,
     "wof:placetype":"localadmin",

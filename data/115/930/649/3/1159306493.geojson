@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019273,
-    "geom:area_square_m":129023085.970162,
+    "geom:area_square_m":129023085.970154,
     "geom:bbox":"12.9735031914,57.145550033,13.1940640983,57.3108108233",
     "geom:latitude":57.22113,
     "geom:longitude":13.090118,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.221358,
     "lbl:longitude":13.088454,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107005"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734060,
-    "wof:geomhash":"a34defce6e5b1101a862b7032b90cafe",
+    "wof:geomhash":"843a855a4b9ef453174aa63ae8cf4f2c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306493,
-    "wof:lastmodified":1566643303,
+    "wof:lastmodified":1695879418,
     "wof:name":"Kalv",
     "wof:parent_id":1159303079,
     "wof:placetype":"localadmin",

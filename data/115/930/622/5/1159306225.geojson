@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001926,
-    "geom:area_square_m":12501262.609567,
+    "geom:area_square_m":12501262.609571,
     "geom:bbox":"13.8719732078,58.3085691153,13.9442231135,58.362767739",
     "geom:latitude":58.339561,
     "geom:longitude":13.913558,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.3359,
     "lbl:longitude":13.925596,
     "lbl:max_zoom":18.0,
@@ -51,9 +60,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107317"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733977,
-    "wof:geomhash":"e8584dc8ec2220322f16c7ab76416a74",
+    "wof:geomhash":"7b1d89ebe490c47de7ae27ccb92092eb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -64,7 +77,7 @@
         }
     ],
     "wof:id":1159306225,
-    "wof:lastmodified":1566643300,
+    "wof:lastmodified":1695879417,
     "wof:name":"Hagelberg",
     "wof:parent_id":1159302921,
     "wof:placetype":"localadmin",

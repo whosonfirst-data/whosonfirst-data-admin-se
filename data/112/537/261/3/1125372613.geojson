@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00618,
-    "geom:area_square_m":43386768.608423,
+    "geom:area_square_m":43386768.608428,
     "geom:bbox":"14.0932248896,55.3734471836,14.2172912246,55.4440467027",
     "geom:latitude":55.405262,
     "geom:longitude":14.145993,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":2572,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.403671,
     "lbl:longitude":14.144799,
     "lbl:max_zoom":15.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131898,
-        "qs_pg:id":109347
+        "qs_pg:id":109347,
+        "se-lant:code":"101059"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497047512,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"bdcd87df33e09995ca15afdbcf60945c",
+    "wof:geomhash":"a0399a867dbab573386c9a465cd986e9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125372613,
-    "wof:lastmodified":1582340824,
+    "wof:lastmodified":1695879503,
     "wof:name":"Loderup",
     "wof:parent_id":1159303233,
     "wof:placetype":"localadmin",

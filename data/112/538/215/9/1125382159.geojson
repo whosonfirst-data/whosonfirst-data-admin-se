@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006928,
-    "geom:area_square_m":46600177.060922,
+    "geom:area_square_m":46600177.060918,
     "geom:bbox":"13.802492622,56.9978839615,13.9247684704,57.0970101345",
     "geom:latitude":57.04462,
     "geom:longitude":13.859584,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":250,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.047462,
     "lbl:longitude":13.853563,
     "lbl:max_zoom":17.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132639,
-        "qs_pg:id":381392
+        "qs_pg:id":381392,
+        "se-lant:code":"105119"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497048111,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"6e09967758afb07f46c24a619f4164d4",
+    "wof:geomhash":"b43a720875eea97d6726ab86203f2940",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125382159,
-    "wof:lastmodified":1582340851,
+    "wof:lastmodified":1695879522,
     "wof:name":"Dannas",
     "wof:parent_id":1159303313,
     "wof:placetype":"localadmin",

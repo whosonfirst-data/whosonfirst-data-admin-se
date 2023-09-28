@@ -10,6 +10,15 @@
     "geom:latitude":58.407984,
     "geom:longitude":13.078982,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.408064,
     "lbl:longitude":13.082929,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107338"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734031,
-    "wof:geomhash":"35309955c4196c6fb37d1671e07eae12",
+    "wof:geomhash":"8a8b58c2d3e6f9ecd54b4d47372849db",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306391,
-    "wof:lastmodified":1566643333,
+    "wof:lastmodified":1695879425,
     "wof:name":"Trassberg",
     "wof:parent_id":1159303281,
     "wof:placetype":"localadmin",

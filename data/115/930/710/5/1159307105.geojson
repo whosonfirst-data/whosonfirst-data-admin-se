@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002518,
-    "geom:area_square_m":15676317.86085,
+    "geom:area_square_m":15676317.860849,
     "geom:bbox":"18.5816681406,59.7535282604,18.6673598074,59.8020922118",
     "geom:latitude":59.773593,
     "geom:longitude":18.625216,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.775256,
     "lbl:longitude":18.632971,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"215141"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734226,
-    "wof:geomhash":"2e724b999351d4758f4ec87454bf9dc7",
+    "wof:geomhash":"804a1fab0921fd3d8e2c9492dd302a1c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307105,
-    "wof:lastmodified":1566643367,
+    "wof:lastmodified":1695879431,
     "wof:name":"Malsta",
     "wof:parent_id":1159302995,
     "wof:placetype":"localadmin",

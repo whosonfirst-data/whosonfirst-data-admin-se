@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014859,
-    "geom:area_square_m":92568624.653426,
+    "geom:area_square_m":92568624.653424,
     "geom:bbox":"16.4563457756,59.6652661084,16.6365990962,59.838913535",
     "geom:latitude":59.748183,
     "geom:longitude":16.541055,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.753475,
     "lbl:longitude":16.539684,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"214050"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734327,
-    "wof:geomhash":"007ffc069adba5a9cba3e6dc7c9e9751",
+    "wof:geomhash":"f826f63f5a2c03869ab47cc37d9b0e24",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307499,
-    "wof:lastmodified":1566643244,
+    "wof:lastmodified":1695879408,
     "wof:name":"Romfartuna",
     "wof:parent_id":1159303331,
     "wof:placetype":"localadmin",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.048063,
-    "geom:area_square_m":301608305.111468,
+    "geom:area_square_m":301608305.111475,
     "geom:bbox":"12.2759966305,59.3872699843,12.6910253263,59.6105417428",
     "geom:latitude":59.503211,
     "geom:longitude":12.490937,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":946,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.513293,
     "lbl:longitude":12.490903,
     "lbl:max_zoom":17.0,
@@ -61,14 +70,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132973,
-        "qs_pg:id":109526
+        "qs_pg:id":109526,
+        "se-lant:code":"213039"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497052669,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"6d76ae7e854c68d2549d5e50c2a4bae6",
+    "wof:geomhash":"9766f78589bd1dd8e92a77c637393ba1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +90,7 @@
         }
     ],
     "wof:id":1125423295,
-    "wof:lastmodified":1582340817,
+    "wof:lastmodified":1695879499,
     "wof:name":"Glava",
     "wof:parent_id":1159303075,
     "wof:placetype":"localadmin",

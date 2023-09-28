@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034527,
-    "geom:area_square_m":192565785.919281,
+    "geom:area_square_m":192565785.919294,
     "geom:bbox":"17.5909981893,63.1087896287,18.0551556976,63.2753680253",
     "geom:latitude":63.189221,
     "geom:longitude":17.826608,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":63.192185,
     "lbl:longitude":17.7842,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"321028"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733826,
-    "wof:geomhash":"6a8d8a484117ba588a1a13d3aebf0745",
+    "wof:geomhash":"4a6f1756e42d59e5a799c0e04b538cea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159305621,
-    "wof:lastmodified":1566643289,
+    "wof:lastmodified":1695879415,
     "wof:name":"Botea",
     "wof:parent_id":1159303381,
     "wof:placetype":"localadmin",

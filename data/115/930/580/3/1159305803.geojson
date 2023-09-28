@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003288,
-    "geom:area_square_m":22775737.53766,
+    "geom:area_square_m":22775737.537658,
     "geom:bbox":"12.9436930515,55.896202475,13.0346443572,55.958691675",
     "geom:latitude":55.927846,
     "geom:longitude":12.991398,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.927889,
     "lbl:longitude":12.988294,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101229"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733874,
-    "wof:geomhash":"8d7fcebf032b88956cff58041f4bb89c",
+    "wof:geomhash":"f9af6e4d0c6790533ce7b10ffd3e208c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159305803,
-    "wof:lastmodified":1566643261,
+    "wof:lastmodified":1695879410,
     "wof:name":"Sirekopinge",
     "wof:parent_id":1159303189,
     "wof:placetype":"localadmin",

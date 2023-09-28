@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00317,
-    "geom:area_square_m":19197719.464891,
+    "geom:area_square_m":19197719.464892,
     "geom:bbox":"17.1878816188,60.6577580234,17.3071076067,60.697198805",
     "geom:latitude":60.677166,
     "geom:longitude":17.250054,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":11212,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":60.676737,
     "lbl:longitude":17.25005,
     "lbl:max_zoom":15.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132479,
-        "qs_pg:id":381371
+        "qs_pg:id":381371,
+        "se-lant:code":"316011"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497048108,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"54f25a0044b5a36532bd7b0635318f77",
+    "wof:geomhash":"354e8eb2887a059419573e9938aeea49",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125382091,
-    "wof:lastmodified":1582340853,
+    "wof:lastmodified":1695879524,
     "wof:name":"Bomhus",
     "wof:parent_id":1159303225,
     "wof:placetype":"localadmin",

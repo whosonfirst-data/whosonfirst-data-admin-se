@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010562,
-    "geom:area_square_m":70371107.739961,
+    "geom:area_square_m":70371107.739955,
     "geom:bbox":"13.5680405673,57.3416268628,13.7160294424,57.4786691641",
     "geom:latitude":57.395812,
     "geom:longitude":13.653498,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":547,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.389634,
     "lbl:longitude":13.65238,
     "lbl:max_zoom":17.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132621,
-        "qs_pg:id":758261
+        "qs_pg:id":758261,
+        "se-lant:code":"105184"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497044793,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"e47cf90aae8da496f999b9b978552f3a",
+    "wof:geomhash":"bd8ca391ff18878601997f3ab2f1adb4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125325599,
-    "wof:lastmodified":1582340756,
+    "wof:lastmodified":1695879452,
     "wof:name":"Kalleryd",
     "wof:parent_id":1159303377,
     "wof:placetype":"localadmin",

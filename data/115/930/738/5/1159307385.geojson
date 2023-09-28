@@ -10,6 +10,15 @@
     "geom:latitude":55.875657,
     "geom:longitude":13.76279,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.875775,
     "lbl:longitude":13.762821,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101244"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734297,
-    "wof:geomhash":"293abeacb7e90e6a0557923207a53237",
+    "wof:geomhash":"8cf9c3c99005c765038a3e35f2282c17",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307385,
-    "wof:lastmodified":1566643171,
+    "wof:lastmodified":1695879393,
     "wof:name":"Aspinge",
     "wof:parent_id":1159303277,
     "wof:placetype":"localadmin",

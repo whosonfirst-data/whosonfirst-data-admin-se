@@ -10,6 +10,15 @@
     "geom:latitude":58.484429,
     "geom:longitude":15.403689,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.481193,
     "lbl:longitude":15.407139,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"108110"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733936,
-    "wof:geomhash":"63e2155b7782117dd0db5b693c2d58c6",
+    "wof:geomhash":"50a53bf03063beae2da2cc4ef32df9d1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306051,
-    "wof:lastmodified":1566643203,
+    "wof:lastmodified":1695879400,
     "wof:name":"Flistad",
     "wof:parent_id":1159303147,
     "wof:placetype":"localadmin",

@@ -10,6 +10,15 @@
     "geom:latitude":56.197024,
     "geom:longitude":15.322219,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.223233,
     "lbl:longitude":15.350218,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"102023"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733914,
-    "wof:geomhash":"f8b18cf9666473cd0f1b399b7fee0a50",
+    "wof:geomhash":"79dda128bb2271521b38b37cb6f2e94c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159305947,
-    "wof:lastmodified":1566643141,
+    "wof:lastmodified":1695879389,
     "wof:name":"Edestad",
     "wof:parent_id":1159303551,
     "wof:placetype":"localadmin",

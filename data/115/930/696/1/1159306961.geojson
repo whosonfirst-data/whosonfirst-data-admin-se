@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.072743,
-    "geom:area_square_m":457655179.885078,
+    "geom:area_square_m":457655179.885069,
     "geom:bbox":"18.723835713,59.33301013,19.3586680976,59.5157348701",
     "geom:latitude":59.416521,
     "geom:longitude":19.055295,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.419033,
     "lbl:longitude":19.055321,
     "lbl:max_zoom":18.0,
@@ -48,9 +57,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"215047"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734189,
-    "wof:geomhash":"2c309f0ddb895ed6e6d29cb3271c1b25",
+    "wof:geomhash":"fd9b4c8bde0f8647637720d2f01a4f16",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +74,7 @@
         }
     ],
     "wof:id":1159306961,
-    "wof:lastmodified":1566643336,
+    "wof:lastmodified":1695879425,
     "wof:name":"Moja",
     "wof:parent_id":1159303241,
     "wof:placetype":"localadmin",

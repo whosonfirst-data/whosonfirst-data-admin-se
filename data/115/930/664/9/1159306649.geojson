@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016918,
-    "geom:area_square_m":111752439.361984,
+    "geom:area_square_m":111752439.361966,
     "geom:bbox":"13.6942006398,57.6073528117,14.0335017272,57.7775571356",
     "geom:latitude":57.709529,
     "geom:longitude":13.841355,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.700912,
     "lbl:longitude":13.815587,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"105231"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734102,
-    "wof:geomhash":"efc0240dd7858e654e3e3221e30ec024",
+    "wof:geomhash":"70a1c10740b4d3ed911ab0254bfd223a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306649,
-    "wof:lastmodified":1566643323,
+    "wof:lastmodified":1695879423,
     "wof:name":"Mulseryd",
     "wof:parent_id":1159303375,
     "wof:placetype":"localadmin",

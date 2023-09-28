@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.043453,
-    "geom:area_square_m":295811167.167342,
+    "geom:area_square_m":295811167.167332,
     "geom:bbox":"14.1256252266,56.4777414785,14.4584771275,56.7609566885",
     "geom:latitude":56.595809,
     "geom:longitude":14.324162,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":1758,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.584793,
     "lbl:longitude":14.340515,
     "lbl:max_zoom":16.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132149,
-        "qs_pg:id":109385
+        "qs_pg:id":109385,
+        "se-lant:code":"105025"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497047517,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"9cd3c3f720892c986e36943a47208caa",
+    "wof:geomhash":"e539c9faf0eeb15c7c9844eb086a06c6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125372713,
-    "wof:lastmodified":1582340831,
+    "wof:lastmodified":1695879509,
     "wof:name":"Virestad",
     "wof:parent_id":1159303481,
     "wof:placetype":"localadmin",

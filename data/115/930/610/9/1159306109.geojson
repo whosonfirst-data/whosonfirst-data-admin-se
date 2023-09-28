@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007067,
-    "geom:area_square_m":47292222.286835,
+    "geom:area_square_m":47292222.286821,
     "geom:bbox":"18.4220439187,57.1861170487,18.588830486,57.2740649988",
     "geom:latitude":57.233915,
     "geom:longitude":18.52825,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.238155,
     "lbl:longitude":18.540874,
     "lbl:max_zoom":18.0,
@@ -42,9 +51,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"106016"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733949,
-    "wof:geomhash":"6a740c3b3497d0fce00d581d6f9a5364",
+    "wof:geomhash":"07bb4f61351e8cf597302aaa513126ee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,7 +68,7 @@
         }
     ],
     "wof:id":1159306109,
-    "wof:lastmodified":1566643181,
+    "wof:lastmodified":1695879396,
     "wof:name":"Burs",
     "wof:parent_id":1159303535,
     "wof:placetype":"localadmin",

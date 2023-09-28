@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002444,
-    "geom:area_square_m":15808058.217908,
+    "geom:area_square_m":15808058.217909,
     "geom:bbox":"13.0967825058,58.4420461747,13.188016327,58.4876872084",
     "geom:latitude":58.463845,
     "geom:longitude":13.141342,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.465495,
     "lbl:longitude":13.14134,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107373"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733994,
-    "wof:geomhash":"a1ace0211fa6db33cda8e1cad2111ac1",
+    "wof:geomhash":"1869b823fb0c164289d5d2d1f637c0be",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306301,
-    "wof:lastmodified":1566643330,
+    "wof:lastmodified":1695879424,
     "wof:name":"Hovby",
     "wof:parent_id":1159303281,
     "wof:placetype":"localadmin",

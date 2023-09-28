@@ -10,6 +10,15 @@
     "geom:latitude":58.571367,
     "geom:longitude":14.011774,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.583861,
     "lbl:longitude":13.999835,
     "lbl:max_zoom":18.0,
@@ -66,9 +75,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107422"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733884,
-    "wof:geomhash":"78949405ce737d8b45d4e8488bdfdbf1",
+    "wof:geomhash":"ab8f647064b1cde9c54657dfd5c3bfcf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +92,7 @@
         }
     ],
     "wof:id":1159305853,
-    "wof:lastmodified":1566643358,
+    "wof:lastmodified":1695879429,
     "wof:name":"Vad",
     "wof:parent_id":1159302921,
     "wof:placetype":"localadmin",

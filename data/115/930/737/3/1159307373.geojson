@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.048041,
-    "geom:area_square_m":294525478.457326,
+    "geom:area_square_m":294525478.45735,
     "geom:bbox":"18.1563972159,60.1656750103,18.6966472859,60.3794484932",
     "geom:latitude":60.277058,
     "geom:longitude":18.421477,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":60.313671,
     "lbl:longitude":18.335577,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"215197"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734295,
-    "wof:geomhash":"ba2a365faf8cf63bcc504a534dd2e268",
+    "wof:geomhash":"c6e32b6f17416205dc6b35ff9ce1d718",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307373,
-    "wof:lastmodified":1566643154,
+    "wof:lastmodified":1695879391,
     "wof:name":"Borstil",
     "wof:parent_id":1159303415,
     "wof:placetype":"localadmin",

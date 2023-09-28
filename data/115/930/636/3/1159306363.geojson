@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001899,
-    "geom:area_square_m":13293143.410498,
+    "geom:area_square_m":13293143.410497,
     "geom:bbox":"12.8769651291,55.5146746307,13.0298872662,55.5381102926",
     "geom:latitude":55.528547,
     "geom:longitude":12.948643,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.530644,
     "lbl:longitude":12.929434,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101070"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734019,
-    "wof:geomhash":"d0accdc7a6de0227bc9299c1c0da3970",
+    "wof:geomhash":"e0583e39404807e54cf623dbb9b38422",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306363,
-    "wof:lastmodified":1566643348,
+    "wof:lastmodified":1695879428,
     "wof:name":"Vastra Klagstorp",
     "wof:parent_id":1159303367,
     "wof:placetype":"localadmin",

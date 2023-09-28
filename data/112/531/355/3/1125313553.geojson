@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007945,
-    "geom:area_square_m":53356051.598133,
+    "geom:area_square_m":53356051.598132,
     "geom:bbox":"12.140824833,57.0584049623,12.3249755463,57.1423182122",
     "geom:latitude":57.105897,
     "geom:longitude":12.222969,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":24636,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.0978,
     "lbl:longitude":12.213916,
     "lbl:max_zoom":14.0,
@@ -193,14 +202,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131729,
-        "qs_pg:id":381302
+        "qs_pg:id":381302,
+        "se-lant:code":"104054"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497044148,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"93c6ed0c9d341b56ef1fad6a111bb1f8",
+    "wof:geomhash":"4e89fce47be59a8023eac0919c20d76e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -211,7 +222,7 @@
         }
     ],
     "wof:id":1125313553,
-    "wof:lastmodified":1582340855,
+    "wof:lastmodified":1695879526,
     "wof:name":"Varberg",
     "wof:parent_id":1159302939,
     "wof:placetype":"localadmin",

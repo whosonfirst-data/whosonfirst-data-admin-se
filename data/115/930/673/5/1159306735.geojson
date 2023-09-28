@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002942,
-    "geom:area_square_m":18451582.006075,
+    "geom:area_square_m":18451582.006077,
     "geom:bbox":"18.1224777373,59.4995832802,18.2124011078,59.5530724097",
     "geom:latitude":59.526294,
     "geom:longitude":18.168572,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.52729,
     "lbl:longitude":18.168555,
     "lbl:max_zoom":18.0,
@@ -42,9 +51,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"215065"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734121,
-    "wof:geomhash":"4910f96bfcdb91e309718192ddd7ac40",
+    "wof:geomhash":"9f2ba67c7b8c63c5a4642c482069bdaa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,7 +68,7 @@
         }
     ],
     "wof:id":1159306735,
-    "wof:lastmodified":1566643191,
+    "wof:lastmodified":1695879398,
     "wof:name":"Angarn",
     "wof:parent_id":1159303513,
     "wof:placetype":"localadmin",

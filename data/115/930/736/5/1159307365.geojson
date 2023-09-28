@@ -10,6 +10,15 @@
     "geom:latitude":55.50988,
     "geom:longitude":13.367076,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.508797,
     "lbl:longitude":13.360017,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101079"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734293,
-    "wof:geomhash":"b2abdac2bce02d978ec7d69605c020e4",
+    "wof:geomhash":"3fc7629322f5d029ee5f936f9e87ad22",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307365,
-    "wof:lastmodified":1566643168,
+    "wof:lastmodified":1695879393,
     "wof:name":"Borringe",
     "wof:parent_id":1159303083,
     "wof:placetype":"localadmin",

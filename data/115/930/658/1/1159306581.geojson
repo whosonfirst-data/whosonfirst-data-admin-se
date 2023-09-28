@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.380165,
-    "geom:area_square_m":2220916213.476642,
+    "geom:area_square_m":2220916213.476606,
     "geom:bbox":"13.2003158718,61.5639078179,14.547515403,62.0216454919",
     "geom:latitude":61.806265,
     "geom:longitude":13.928115,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":61.812244,
     "lbl:longitude":13.928164,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"319001"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734090,
-    "wof:geomhash":"ba9b29d4e24c2bbcc4e3b88b44d0fe65",
+    "wof:geomhash":"df2128985818a0c8c07ccbb06904888e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306581,
-    "wof:lastmodified":1566643210,
+    "wof:lastmodified":1695879402,
     "wof:name":"Lillhardal",
     "wof:parent_id":1159303245,
     "wof:placetype":"localadmin",

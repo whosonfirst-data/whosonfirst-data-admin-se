@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029395,
-    "geom:area_square_m":193169210.618232,
+    "geom:area_square_m":193169210.618233,
     "geom:bbox":"15.6626752541,57.8033122272,15.9646380351,57.9845932545",
     "geom:latitude":57.895824,
     "geom:longitude":15.814943,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":943,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.901497,
     "lbl:longitude":15.814911,
     "lbl:max_zoom":17.0,
@@ -136,14 +145,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131669,
-        "qs_pg:id":757642
+        "qs_pg:id":757642,
+        "se-lant:code":"108006"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497051621,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"aa3de190ad62283988c0d6ee19544afe",
+    "wof:geomhash":"17a32ac01fbb3e53e0261581d1cd9dec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -154,7 +165,7 @@
         }
     ],
     "wof:id":1125417597,
-    "wof:lastmodified":1582340874,
+    "wof:lastmodified":1695879554,
     "wof:name":"Horn",
     "wof:parent_id":1159303139,
     "wof:placetype":"localadmin",

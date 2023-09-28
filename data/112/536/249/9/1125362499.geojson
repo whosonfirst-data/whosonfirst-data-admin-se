@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.045597,
-    "geom:area_square_m":309267809.110552,
+    "geom:area_square_m":309267809.110534,
     "geom:bbox":"15.3608395265,56.6394944603,15.7357273937,56.8383902552",
     "geom:latitude":56.734371,
     "geom:longitude":15.545703,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":1684,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.728896,
     "lbl:longitude":15.54214,
     "lbl:max_zoom":16.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132678,
-        "qs_pg:id":758290
+        "qs_pg:id":758290,
+        "se-lant:code":"105048"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497046881,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"ec65d7298ec4544c905c17ed8a42f1bd",
+    "wof:geomhash":"11cad90cf283e46e6c5ede5cda38e107",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125362499,
-    "wof:lastmodified":1582340862,
+    "wof:lastmodified":1695879531,
     "wof:name":"Algutsboda",
     "wof:parent_id":1159303533,
     "wof:placetype":"localadmin",

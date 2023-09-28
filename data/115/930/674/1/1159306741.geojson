@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006564,
-    "geom:area_square_m":42177734.521608,
+    "geom:area_square_m":42177734.52161,
     "geom:bbox":"13.7067387107,58.6366187401,13.8299499513,58.7396420943",
     "geom:latitude":58.688136,
     "geom:longitude":13.780252,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.699519,
     "lbl:longitude":13.784441,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107432"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734122,
-    "wof:geomhash":"6b0bb26fc10d0283fbb9486fab34da7f",
+    "wof:geomhash":"8b48999740d2095a1aa036ee772ffc22",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306741,
-    "wof:lastmodified":1566643190,
+    "wof:lastmodified":1695879398,
     "wof:name":"Leksberg",
     "wof:parent_id":1159303321,
     "wof:placetype":"localadmin",

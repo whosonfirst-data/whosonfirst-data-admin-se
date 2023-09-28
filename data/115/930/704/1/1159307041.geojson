@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003135,
-    "geom:area_square_m":21780032.159067,
+    "geom:area_square_m":21780032.159061,
     "geom:bbox":"13.3474308549,55.7772448906,13.4371391459,55.853495013",
     "geom:latitude":55.811786,
     "geom:longitude":13.387291,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.806125,
     "lbl:longitude":13.371663,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101204"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734209,
-    "wof:geomhash":"4bdee35518cc4c303031001eae2d56fc",
+    "wof:geomhash":"0e89450f7f39d12d679158433928c96d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307041,
-    "wof:lastmodified":1566643286,
+    "wof:lastmodified":1695879414,
     "wof:name":"Skarhult",
     "wof:parent_id":1159303151,
     "wof:placetype":"localadmin",

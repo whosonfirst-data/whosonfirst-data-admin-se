@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005568,
-    "geom:area_square_m":34731394.524123,
+    "geom:area_square_m":34731394.524129,
     "geom:bbox":"17.62727208,59.6605022901,17.7724293252,59.7319432767",
     "geom:latitude":59.702128,
     "geom:longitude":17.708335,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":901,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.704093,
     "lbl:longitude":17.714362,
     "lbl:max_zoom":17.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132310,
-        "qs_pg:id":109425
+        "qs_pg:id":109425,
+        "se-lant:code":"215111"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497047540,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"7fffd13c7e30e608e30ec8628796b4f8",
+    "wof:geomhash":"da63fefe6885df129cd0deb3c25e63a1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125373019,
-    "wof:lastmodified":1582340821,
+    "wof:lastmodified":1695879501,
     "wof:name":"Vassunda",
     "wof:parent_id":1159303267,
     "wof:placetype":"localadmin",

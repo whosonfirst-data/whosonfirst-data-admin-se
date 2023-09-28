@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023854,
-    "geom:area_square_m":152500064.134476,
+    "geom:area_square_m":152500064.134482,
     "geom:bbox":"12.4326295922,58.7840102754,12.6682627822,58.9466492564",
     "geom:latitude":58.868445,
     "geom:longitude":12.548545,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":445,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.873388,
     "lbl:longitude":12.548461,
     "lbl:max_zoom":17.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132106,
-        "qs_pg:id":109378
+        "qs_pg:id":109378,
+        "se-lant:code":"110027"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497047515,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"95e1f3f1a97717b5208c5592f30d6535",
+    "wof:geomhash":"daf448d0eb425c62c4538641de0fee5d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125372677,
-    "wof:lastmodified":1582340824,
+    "wof:lastmodified":1695879503,
     "wof:name":"Animskog",
     "wof:parent_id":1159303547,
     "wof:placetype":"localadmin",

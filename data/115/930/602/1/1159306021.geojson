@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.052505,
-    "geom:area_square_m":328325126.615982,
+    "geom:area_square_m":328325126.616003,
     "geom:bbox":"13.5863555748,59.5108842261,13.9628135575,59.7738003936",
     "geom:latitude":59.621254,
     "geom:longitude":13.776091,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.632826,
     "lbl:longitude":13.804469,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"213060"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733929,
-    "wof:geomhash":"02740b5b710c882520fa74c2a70366d6",
+    "wof:geomhash":"401751b3bf91306b45abd4ec5255035b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306021,
-    "wof:lastmodified":1566643202,
+    "wof:lastmodified":1695879400,
     "wof:name":"Nyed",
     "wof:parent_id":1159303443,
     "wof:placetype":"localadmin",

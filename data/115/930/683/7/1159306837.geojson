@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007727,
-    "geom:area_square_m":51591644.830184,
+    "geom:area_square_m":51591644.830182,
     "geom:bbox":"15.3545723465,57.2706906822,15.5217573662,57.3597373037",
     "geom:latitude":57.318257,
     "geom:longitude":15.44222,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.309491,
     "lbl:longitude":15.436547,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"105180"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734150,
-    "wof:geomhash":"e6a39c9cc712c8658de73f9a561e69a9",
+    "wof:geomhash":"6e8b6e375bfa02af0b0b354bae677505",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306837,
-    "wof:lastmodified":1566643317,
+    "wof:lastmodified":1695879421,
     "wof:name":"Stenberga",
     "wof:parent_id":1159303157,
     "wof:placetype":"localadmin",

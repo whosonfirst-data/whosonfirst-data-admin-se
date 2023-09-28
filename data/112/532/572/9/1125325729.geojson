@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018788,
-    "geom:area_square_m":128182121.754682,
+    "geom:area_square_m":128182121.75469,
     "geom:bbox":"14.3984977345,56.4439376005,14.6060211546,56.5812686464",
     "geom:latitude":56.5128,
     "geom:longitude":14.503392,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":492,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.512226,
     "lbl:longitude":14.503391,
     "lbl:max_zoom":17.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132767,
-        "qs_pg:id":758332
+        "qs_pg:id":758332,
+        "se-lant:code":"105011"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497044801,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"75618b9634ff8c1f2f8643378e0e9d11",
+    "wof:geomhash":"49aad8661d759776a14cda576d379f18",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125325729,
-    "wof:lastmodified":1582340762,
+    "wof:lastmodified":1695879457,
     "wof:name":"Harlunda",
     "wof:parent_id":1159303481,
     "wof:placetype":"localadmin",

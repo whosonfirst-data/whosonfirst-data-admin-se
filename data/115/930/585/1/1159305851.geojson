@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021802,
-    "geom:area_square_m":128256735.962994,
+    "geom:area_square_m":128256735.962986,
     "geom:bbox":"16.0375469411,61.5308717944,16.5271508585,61.6444872265",
     "geom:latitude":61.591369,
     "geom:longitude":16.272929,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":61.60225,
     "lbl:longitude":16.293339,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"318018"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733884,
-    "wof:geomhash":"9c1bbb34b010cdf141302f30affd84c8",
+    "wof:geomhash":"df80e88ca8f71794ad8b408b9e78459b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159305851,
-    "wof:lastmodified":1566643358,
+    "wof:lastmodified":1695879429,
     "wof:name":"Undersvik",
     "wof:parent_id":1159303465,
     "wof:placetype":"localadmin",

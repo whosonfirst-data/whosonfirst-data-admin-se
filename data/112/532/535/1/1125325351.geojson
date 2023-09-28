@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01834,
-    "geom:area_square_m":96691531.171398,
+    "geom:area_square_m":96691531.171404,
     "geom:bbox":"20.9291334433,64.7086453133,21.3102055924,64.8030376891",
     "geom:latitude":64.762449,
     "geom:longitude":21.13529,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":19775,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":64.749245,
     "lbl:longitude":21.100727,
     "lbl:max_zoom":15.0,
@@ -61,14 +70,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131930,
-        "qs_pg:id":757821
+        "qs_pg:id":757821,
+        "se-lant:code":"323023"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497044772,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"241d5fc160e3405c70c2b47184e2adf3",
+    "wof:geomhash":"bd6fe5eaa71997a6048efa4f1a0b1a14",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +90,7 @@
         }
     ],
     "wof:id":1125325351,
-    "wof:lastmodified":1582340757,
+    "wof:lastmodified":1695879452,
     "wof:name":"Skelleftea Sankt Olov",
     "wof:parent_id":1159303205,
     "wof:placetype":"localadmin",

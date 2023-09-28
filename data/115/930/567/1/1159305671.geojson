@@ -10,6 +10,15 @@
     "geom:latitude":56.458241,
     "geom:longitude":16.438238,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.460857,
     "lbl:longitude":16.436708,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"103007"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733840,
-    "wof:geomhash":"b8378b56c0a65cabf3c7268bd43e5b38",
+    "wof:geomhash":"f546f32ad983944620705979141bb846",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159305671,
-    "wof:lastmodified":1566643144,
+    "wof:lastmodified":1695879389,
     "wof:name":"Kastlosa",
     "wof:parent_id":1159303101,
     "wof:placetype":"localadmin",

@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011432,
-    "geom:area_square_m":75298020.959916,
+    "geom:area_square_m":75298020.959914,
     "geom:bbox":"14.5986041734,57.759092412,14.8133495169,57.853614068",
     "geom:latitude":57.814015,
     "geom:longitude":14.70029,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.808938,
     "lbl:longitude":14.671824,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"105256"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734230,
-    "wof:geomhash":"9bebe99afc6e89f1b9e61058c3c1b8be",
+    "wof:geomhash":"47431b0ae6511065166d7b296e7b7db3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307125,
-    "wof:lastmodified":1566643247,
+    "wof:lastmodified":1695879408,
     "wof:name":"Balaryd",
     "wof:parent_id":1159303047,
     "wof:placetype":"localadmin",

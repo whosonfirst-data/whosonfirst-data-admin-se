@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007342,
-    "geom:area_square_m":47447633.120181,
+    "geom:area_square_m":47447633.120183,
     "geom:bbox":"14.8608989422,58.4406760528,15.0163080596,58.5358657788",
     "geom:latitude":58.492351,
     "geom:longitude":14.940059,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.502284,
     "lbl:longitude":14.934885,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"108101"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734200,
-    "wof:geomhash":"9e549871e56e025cc27b66fd9be43376",
+    "wof:geomhash":"7c3574185120a9dcddbee169dfa0ca7f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307007,
-    "wof:lastmodified":1566643172,
+    "wof:lastmodified":1695879393,
     "wof:name":"Hagebyhoga",
     "wof:parent_id":1159303411,
     "wof:placetype":"localadmin",

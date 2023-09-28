@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006374,
-    "geom:area_square_m":43119249.020606,
+    "geom:area_square_m":43119249.020613,
     "geom:bbox":"16.759025203,56.7929966544,16.8833975454,56.8667824669",
     "geom:latitude":56.833154,
     "geom:longitude":16.822556,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.829358,
     "lbl:longitude":16.82996,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"103023"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734046,
-    "wof:geomhash":"66c7f4ecc5585cb0b636095fa75c9391",
+    "wof:geomhash":"d27bb95c9d62cd271c6a979c791b8568",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306449,
-    "wof:lastmodified":1566643180,
+    "wof:lastmodified":1695879396,
     "wof:name":"Bredsattra",
     "wof:parent_id":1159303363,
     "wof:placetype":"localadmin",

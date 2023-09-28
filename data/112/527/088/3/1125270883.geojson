@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":35549,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.587915,
     "lbl:longitude":13.010535,
     "lbl:max_zoom":14.0,
@@ -61,14 +70,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132381,
-        "qs_pg:id":758102
+        "qs_pg:id":758102,
+        "se-lant:code":"101116"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497042123,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"54726ac90a64311b553e6615d7ee919a",
+    "wof:geomhash":"a377c58732ddf273506453e1817d42b1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +90,7 @@
         }
     ],
     "wof:id":1125270883,
-    "wof:lastmodified":1582340806,
+    "wof:lastmodified":1695879491,
     "wof:name":"Mollevangen",
     "wof:parent_id":1159303367,
     "wof:placetype":"localadmin",

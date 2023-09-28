@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009047,
-    "geom:area_square_m":60376328.303736,
+    "geom:area_square_m":60376328.303737,
     "geom:bbox":"13.6743003805,57.2859677836,13.8421147604,57.3834028715",
     "geom:latitude":57.335846,
     "geom:longitude":13.747746,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":4880,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.340113,
     "lbl:longitude":13.740776,
     "lbl:max_zoom":15.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132620,
-        "qs_pg:id":758260
+        "qs_pg:id":758260,
+        "se-lant:code":"105170"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497042775,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"4775a6e251c538cf1d0393e24c336873",
+    "wof:geomhash":"3b3c0a3a03aebe3ba651e4bf2409f91e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125287539,
-    "wof:lastmodified":1582340781,
+    "wof:lastmodified":1695879473,
     "wof:name":"Gnosjo",
     "wof:parent_id":1159303377,
     "wof:placetype":"localadmin",

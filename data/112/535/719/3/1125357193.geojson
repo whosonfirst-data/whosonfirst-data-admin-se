@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015251,
-    "geom:area_square_m":104909396.173689,
+    "geom:area_square_m":104909396.173676,
     "geom:bbox":"15.6775116535,56.0967897423,15.870396557,56.3253893863",
     "geom:latitude":56.199156,
     "geom:longitude":15.777272,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":2294,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.174263,
     "lbl:longitude":15.759253,
     "lbl:max_zoom":15.0,
@@ -64,14 +73,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132459,
-        "qs_pg:id":904417
+        "qs_pg:id":904417,
+        "se-lant:code":"102016"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497046548,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"e101e5f8c6bbad4b8c7ea2b20df3a1c2",
+    "wof:geomhash":"9f8a8764b989c204826e2be3f1ccfc13",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,7 +93,7 @@
         }
     ],
     "wof:id":1125357193,
-    "wof:lastmodified":1582340751,
+    "wof:lastmodified":1695879449,
     "wof:name":"Ramdala",
     "wof:parent_id":1159303467,
     "wof:placetype":"localadmin",

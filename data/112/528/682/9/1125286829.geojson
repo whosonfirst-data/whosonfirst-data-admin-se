@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020289,
-    "geom:area_square_m":127404325.330901,
+    "geom:area_square_m":127404325.330892,
     "geom:bbox":"13.4959206353,59.4100879601,13.7337454136,59.5562408199",
     "geom:latitude":59.481089,
     "geom:longitude":13.606245,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":5585,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.480627,
     "lbl:longitude":13.604444,
     "lbl:max_zoom":15.0,
@@ -139,14 +148,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131916,
-        "qs_pg:id":757808
+        "qs_pg:id":757808,
+        "se-lant:code":"213044"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497042738,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"7a8161d593afdccba6cf01b3a092e2c8",
+    "wof:geomhash":"c102a598763afd2a4c4c426134503900",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -157,7 +168,7 @@
         }
     ],
     "wof:id":1125286829,
-    "wof:lastmodified":1582340792,
+    "wof:lastmodified":1695879481,
     "wof:name":"Alster",
     "wof:parent_id":1159303443,
     "wof:placetype":"localadmin",

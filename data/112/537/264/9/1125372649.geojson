@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011667,
-    "geom:area_square_m":76835199.104985,
+    "geom:area_square_m":76835199.10498,
     "geom:bbox":"12.7437020194,57.7583846342,12.968073706,57.8716696291",
     "geom:latitude":57.817864,
     "geom:longitude":12.860934,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":1167,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.826536,
     "lbl:longitude":12.842272,
     "lbl:max_zoom":16.0,
@@ -82,14 +91,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132101,
-        "qs_pg:id":109374
+        "qs_pg:id":109374,
+        "se-lant:code":"107118"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497047513,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"f78d6803666d8b3daf6f5b99e69c1476",
+    "wof:geomhash":"1f2596cc827e3df70a409dccd8f33b1e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -100,7 +111,7 @@
         }
     ],
     "wof:id":1125372649,
-    "wof:lastmodified":1582340832,
+    "wof:lastmodified":1695879509,
     "wof:name":"Bredared",
     "wof:parent_id":1159303073,
     "wof:placetype":"localadmin",

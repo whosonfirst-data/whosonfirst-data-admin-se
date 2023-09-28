@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004772,
-    "geom:area_square_m":30940268.395991,
+    "geom:area_square_m":30940268.395997,
     "geom:bbox":"14.854013859,58.3436162822,14.9777436025,58.4110640419",
     "geom:latitude":58.377144,
     "geom:longitude":14.914946,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.37556,
     "lbl:longitude":14.915863,
     "lbl:max_zoom":18.0,
@@ -60,9 +69,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"108065"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734191,
-    "wof:geomhash":"1a939f6ac814463a0e0388a968c5280a",
+    "wof:geomhash":"fafcb1750598f75704096c76eb576621",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,7 +86,7 @@
         }
     ],
     "wof:id":1159306969,
-    "wof:lastmodified":1566643335,
+    "wof:lastmodified":1695879425,
     "wof:name":"Hov",
     "wof:parent_id":1159303411,
     "wof:placetype":"localadmin",

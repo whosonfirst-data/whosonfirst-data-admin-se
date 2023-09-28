@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":2547,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.911856,
     "lbl:longitude":11.926748,
     "lbl:max_zoom":15.0,
@@ -82,14 +91,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8133270,
-        "qs_pg:id":109600
+        "qs_pg:id":109600,
+        "se-lant:code":"109018"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497047590,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"4d5314bd52527b4e0f6790545785609b",
+    "wof:geomhash":"cb3c390fa973dc0d5de6380deab01457",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -100,7 +111,7 @@
         }
     ],
     "wof:id":1125373837,
-    "wof:lastmodified":1582340825,
+    "wof:lastmodified":1695879505,
     "wof:name":"Kareby",
     "wof:parent_id":1159303109,
     "wof:placetype":"localadmin",

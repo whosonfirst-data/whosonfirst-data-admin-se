@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014911,
-    "geom:area_square_m":94242261.794658,
+    "geom:area_square_m":94242261.79466,
     "geom:bbox":"16.3603317231,59.1943454737,16.5401161095,59.3358168807",
     "geom:latitude":59.261473,
     "geom:longitude":16.462286,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.261957,
     "lbl:longitude":16.468432,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"212084"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734187,
-    "wof:geomhash":"0d73c24f0c407bd87b88e0036bf89bbc",
+    "wof:geomhash":"6143d8207a19e8ea7b7a18951f090f44",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306955,
-    "wof:lastmodified":1566643225,
+    "wof:lastmodified":1695879405,
     "wof:name":"Husby-Rekarne",
     "wof:parent_id":1159303207,
     "wof:placetype":"localadmin",

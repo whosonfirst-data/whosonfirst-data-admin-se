@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001786,
-    "geom:area_square_m":12530401.009735,
+    "geom:area_square_m":12530401.009736,
     "geom:bbox":"13.6477545597,55.413797185,13.7093654839,55.4655355939",
     "geom:latitude":55.435801,
     "geom:longitude":13.678844,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.432399,
     "lbl:longitude":13.675818,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101044"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734323,
-    "wof:geomhash":"eda144af7a8c06e3a9503eafbac885ba",
+    "wof:geomhash":"97499e200db59bf9a6a820b47da68520",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307481,
-    "wof:lastmodified":1566643253,
+    "wof:lastmodified":1695879409,
     "wof:name":"Snarestad",
     "wof:parent_id":1159303233,
     "wof:placetype":"localadmin",

@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030383,
-    "geom:area_square_m":186649320.102238,
+    "geom:area_square_m":186649320.102249,
     "geom:bbox":"18.6727315708,60.1147923223,18.9390949475,60.3169575874",
     "geom:latitude":60.21189,
     "geom:longitude":18.806868,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":60.206057,
     "lbl:longitude":18.808873,
     "lbl:max_zoom":18.0,
@@ -45,9 +54,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"215191"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734138,
-    "wof:geomhash":"9bdef419c1baa02764a4b96c4c013f69",
+    "wof:geomhash":"7cbf2dc2785b9a8eef3fef3645094aeb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +71,7 @@
         }
     ],
     "wof:id":1159306801,
-    "wof:lastmodified":1566643190,
+    "wof:lastmodified":1695879398,
     "wof:name":"Singo",
     "wof:parent_id":1159302995,
     "wof:placetype":"localadmin",

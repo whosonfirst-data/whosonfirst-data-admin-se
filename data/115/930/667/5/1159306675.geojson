@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0612,
-    "geom:area_square_m":375006824.932229,
+    "geom:area_square_m":375006824.932271,
     "geom:bbox":"17.2362154829,60.1335044993,17.6712629208,60.4732906475",
     "geom:latitude":60.293902,
     "geom:longitude":17.426482,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":60.287584,
     "lbl:longitude":17.431765,
     "lbl:max_zoom":18.0,
@@ -90,9 +99,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"215192"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734109,
-    "wof:geomhash":"1e0886545da9e1798aeacbc351cefa56",
+    "wof:geomhash":"60e2a3e8c8eaafad5e1f5d26bf90f1c0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -103,7 +116,7 @@
         }
     ],
     "wof:id":1159306675,
-    "wof:lastmodified":1566643212,
+    "wof:lastmodified":1695879402,
     "wof:name":"Tierp",
     "wof:parent_id":1159302963,
     "wof:placetype":"localadmin",

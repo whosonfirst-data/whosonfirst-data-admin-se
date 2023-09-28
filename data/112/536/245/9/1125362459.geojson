@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":2810,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.394426,
     "lbl:longitude":12.99952,
     "lbl:max_zoom":15.0,
@@ -61,14 +70,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132447,
-        "qs_pg:id":758149
+        "qs_pg:id":758149,
+        "se-lant:code":"104002"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497046879,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"5069298b75a64f89ff52c837ab17b861",
+    "wof:geomhash":"903e0b649dd55de35429744f6602167e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +90,7 @@
         }
     ],
     "wof:id":1125362459,
-    "wof:lastmodified":1582340857,
+    "wof:lastmodified":1695879527,
     "wof:name":"Hasslov",
     "wof:parent_id":1159303423,
     "wof:placetype":"localadmin",

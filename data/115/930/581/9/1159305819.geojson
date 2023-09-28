@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003937,
-    "geom:area_square_m":27498922.456323,
+    "geom:area_square_m":27498922.456321,
     "geom:bbox":"13.5204396182,55.578086364,13.6375940887,55.6364618298",
     "geom:latitude":55.609722,
     "geom:longitude":13.571826,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.609967,
     "lbl:longitude":13.567862,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101138"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733877,
-    "wof:geomhash":"cf57f1835bd734646eacc09c5e0a2d51",
+    "wof:geomhash":"ad24edf5b20ab1ef0f36a9ac0b163bbe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159305819,
-    "wof:lastmodified":1566643239,
+    "wof:lastmodified":1695879407,
     "wof:name":"Everlov",
     "wof:parent_id":1159303197,
     "wof:placetype":"localadmin",

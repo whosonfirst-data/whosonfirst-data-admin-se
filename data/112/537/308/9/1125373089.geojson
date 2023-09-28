@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002577,
-    "geom:area_square_m":16869995.914637,
+    "geom:area_square_m":16869995.914635,
     "geom:bbox":"12.1372234715,58.0075987383,12.422475001,58.0565666825",
     "geom:latitude":58.030503,
     "geom:longitude":12.216111,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":1675,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.030093,
     "lbl:longitude":12.173486,
     "lbl:max_zoom":16.0,
@@ -61,14 +70,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132418,
-        "qs_pg:id":109436
+        "qs_pg:id":109436,
+        "se-lant:code":"107166"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497047543,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"e580b1af132faa0830b8eef32afa9d43",
+    "wof:geomhash":"d2aec1434b89568576a36514eb26db48",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +90,7 @@
         }
     ],
     "wof:id":1125373089,
-    "wof:lastmodified":1582340821,
+    "wof:lastmodified":1695879501,
     "wof:name":"Sankt Peder",
     "wof:parent_id":1159303279,
     "wof:placetype":"localadmin",

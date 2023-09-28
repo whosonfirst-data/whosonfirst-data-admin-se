@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02211,
-    "geom:area_square_m":137811505.308933,
+    "geom:area_square_m":137811505.308935,
     "geom:bbox":"13.1448141864,59.6615346743,13.3855788846,59.795584341",
     "geom:latitude":59.730006,
     "geom:longitude":13.274316,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.724045,
     "lbl:longitude":13.272008,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"213068"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734159,
-    "wof:geomhash":"07a5fe0418d723d6407f31a331c468b1",
+    "wof:geomhash":"b076e21b40e38fe4f71934ad2e033cde",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306867,
-    "wof:lastmodified":1566643173,
+    "wof:lastmodified":1695879394,
     "wof:name":"Ostra Amtervik",
     "wof:parent_id":1159303019,
     "wof:placetype":"localadmin",

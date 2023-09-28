@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012365,
-    "geom:area_square_m":78157542.046084,
+    "geom:area_square_m":78157542.046076,
     "geom:bbox":"17.1456117587,59.1820387526,17.3415612357,59.3059200619",
     "geom:latitude":59.256534,
     "geom:longitude":17.232867,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":5122,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.253553,
     "lbl:longitude":17.224644,
     "lbl:max_zoom":15.0,
@@ -124,14 +133,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8133347,
-        "qs_pg:id":1246057
+        "qs_pg:id":1246057,
+        "se-lant:code":"212065"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497046953,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"1eb4b8229ec0e3c6bf939f760cba4dc2",
+    "wof:geomhash":"48123d6e7ab720cd3bc94508a3c1caf8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -142,7 +153,7 @@
         }
     ],
     "wof:id":1125363739,
-    "wof:lastmodified":1582340864,
+    "wof:lastmodified":1695879532,
     "wof:name":"Mariefred",
     "wof:parent_id":1159303351,
     "wof:placetype":"localadmin",

@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004209,
-    "geom:area_square_m":29411850.247126,
+    "geom:area_square_m":29411850.247127,
     "geom:bbox":"14.1587968509,55.5509762525,14.276313067,55.6291058051",
     "geom:latitude":55.592457,
     "geom:longitude":14.215343,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.593785,
     "lbl:longitude":14.205564,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101150"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734256,
-    "wof:geomhash":"8ac60433444854d736b75043e96513b6",
+    "wof:geomhash":"f740fa927a71b1e6bf296c85a5b7e807",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307231,
-    "wof:lastmodified":1566643252,
+    "wof:lastmodified":1695879409,
     "wof:name":"Ostra Vemmerlov",
     "wof:parent_id":1159302931,
     "wof:placetype":"localadmin",

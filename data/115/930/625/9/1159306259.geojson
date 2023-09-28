@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034142,
-    "geom:area_square_m":207902650.908467,
+    "geom:area_square_m":207902650.908459,
     "geom:bbox":"17.4338334093,60.4041157797,17.7109051528,60.6031841275",
     "geom:latitude":60.498178,
     "geom:longitude":17.590546,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":60.50058,
     "lbl:longitude":17.593191,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"215205"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733985,
-    "wof:geomhash":"c5bd09f07ec8073892a781a921fc96ff",
+    "wof:geomhash":"10bd7b352a3afe5570514bc36b82d9c7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306259,
-    "wof:lastmodified":1566643298,
+    "wof:lastmodified":1695879417,
     "wof:name":"Vastland",
     "wof:parent_id":1159302963,
     "wof:placetype":"localadmin",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013211,
-    "geom:area_square_m":90329624.009623,
+    "geom:area_square_m":90329624.009625,
     "geom:bbox":"13.213485139,56.3804145018,13.4674868953,56.4685834488",
     "geom:latitude":56.430802,
     "geom:longitude":13.340596,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":1015,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.419728,
     "lbl:longitude":13.330303,
     "lbl:max_zoom":16.0,
@@ -76,14 +85,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132550,
-        "qs_pg:id":758214
+        "qs_pg:id":758214,
+        "se-lant:code":"104006"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497052315,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"c96b500f3ab23308d072f69022fc9aa0",
+    "wof:geomhash":"109dfeab6e2dad656148fefb91d9237b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,7 +105,7 @@
         }
     ],
     "wof:id":1125421427,
-    "wof:lastmodified":1582340812,
+    "wof:lastmodified":1695879494,
     "wof:name":"Hishult",
     "wof:parent_id":1159303423,
     "wof:placetype":"localadmin",

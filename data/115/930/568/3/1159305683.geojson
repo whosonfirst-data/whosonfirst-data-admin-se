@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00161,
-    "geom:area_square_m":10441193.862415,
+    "geom:area_square_m":10441193.862416,
     "geom:bbox":"12.8453494548,58.3540700227,12.9229395769,58.3888871226",
     "geom:latitude":58.372992,
     "geom:longitude":12.885125,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.369603,
     "lbl:longitude":12.884382,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107331"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733844,
-    "wof:geomhash":"5476366ff58b834f149c4def5769c7f0",
+    "wof:geomhash":"f7618081bc30dac466be622835631ba5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159305683,
-    "wof:lastmodified":1566643164,
+    "wof:lastmodified":1695879392,
     "wof:name":"Sladene",
     "wof:parent_id":1159303487,
     "wof:placetype":"localadmin",

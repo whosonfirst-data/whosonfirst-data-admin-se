@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012731,
-    "geom:area_square_m":84717016.896674,
+    "geom:area_square_m":84717016.896683,
     "geom:bbox":"15.2968259153,57.3738361147,15.5291526194,57.4998899653",
     "geom:latitude":57.440582,
     "geom:longitude":15.432721,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":740,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.445808,
     "lbl:longitude":15.444191,
     "lbl:max_zoom":17.0,
@@ -79,14 +88,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132655,
-        "qs_pg:id":109475
+        "qs_pg:id":109475,
+        "se-lant:code":"105196"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497047576,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"acc37d41f670a5100e5637b7de7cebb4",
+    "wof:geomhash":"13957cfee4ff8dc708ecd2c851c25d93",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -97,7 +108,7 @@
         }
     ],
     "wof:id":1125373585,
-    "wof:lastmodified":1582340829,
+    "wof:lastmodified":1695879507,
     "wof:name":"Okna",
     "wof:parent_id":1159303157,
     "wof:placetype":"localadmin",

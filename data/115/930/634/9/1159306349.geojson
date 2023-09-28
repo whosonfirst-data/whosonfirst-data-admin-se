@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001546,
-    "geom:area_square_m":10684436.515815,
+    "geom:area_square_m":10684436.515814,
     "geom:bbox":"12.8206569695,56.0048307916,12.8772355685,56.0471101101",
     "geom:latitude":56.025117,
     "geom:longitude":12.850748,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.024727,
     "lbl:longitude":12.850214,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101287"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734011,
-    "wof:geomhash":"53d3b8b4b44d6f2f7987b1831f4ea8af",
+    "wof:geomhash":"4cb8167606af97c8be0a9c9f4bc8fa47",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306349,
-    "wof:lastmodified":1566643200,
+    "wof:lastmodified":1695879400,
     "wof:name":"Frillestad",
     "wof:parent_id":1159302965,
     "wof:placetype":"localadmin",

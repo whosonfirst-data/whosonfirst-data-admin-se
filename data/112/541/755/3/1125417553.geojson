@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017824,
-    "geom:area_square_m":118020172.342816,
+    "geom:area_square_m":118020172.342806,
     "geom:bbox":"12.6329293418,57.5597669441,12.8680330833,57.6861330157",
     "geom:latitude":57.622642,
     "geom:longitude":12.738573,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":1693,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.622437,
     "lbl:longitude":12.74081,
     "lbl:max_zoom":16.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8133295,
-        "qs_pg:id":758598
+        "qs_pg:id":758598,
+        "se-lant:code":"107045"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497051612,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"6060a1a503bc762c38580aaa7a5a7f64",
+    "wof:geomhash":"a86a5d019b4c607fd8766692786fa306",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125417553,
-    "wof:lastmodified":1582340868,
+    "wof:lastmodified":1695879535,
     "wof:name":"Seglora",
     "wof:parent_id":1159303073,
     "wof:placetype":"localadmin",

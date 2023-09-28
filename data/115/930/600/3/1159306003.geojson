@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006748,
-    "geom:area_square_m":45496443.925128,
+    "geom:area_square_m":45496443.925121,
     "geom:bbox":"16.7413275945,56.9107727591,16.9066918164,57.00045747",
     "geom:latitude":56.959059,
     "geom:longitude":16.803654,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.964169,
     "lbl:longitude":16.797979,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"103029"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733925,
-    "wof:geomhash":"2eee4aa28d6b89f01ff4ec59185e6635",
+    "wof:geomhash":"fa2a2baa53e92ecf31042fde8e362478",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306003,
-    "wof:lastmodified":1566643342,
+    "wof:lastmodified":1695879427,
     "wof:name":"Alboke",
     "wof:parent_id":1159303363,
     "wof:placetype":"localadmin",

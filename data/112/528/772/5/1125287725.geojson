@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004122,
-    "geom:area_square_m":26699087.575401,
+    "geom:area_square_m":26699087.575397,
     "geom:bbox":"15.4481742084,58.37757069,15.5748477855,58.4428588236",
     "geom:latitude":58.41071,
     "geom:longitude":15.513428,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":5703,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.406658,
     "lbl:longitude":15.508149,
     "lbl:max_zoom":15.0,
@@ -148,14 +157,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132847,
-        "qs_pg:id":758388
+        "qs_pg:id":758388,
+        "se-lant:code":"108080"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497042783,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"63aa9fc5a6b0c283767069e9d8e6a333",
+    "wof:geomhash":"0c09b98ae324f01ef3196a9e162f0517",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -166,7 +177,7 @@
         }
     ],
     "wof:id":1125287725,
-    "wof:lastmodified":1582340797,
+    "wof:lastmodified":1695879485,
     "wof:name":"Karna",
     "wof:parent_id":1159303147,
     "wof:placetype":"localadmin",

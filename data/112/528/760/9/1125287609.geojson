@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.061212,
-    "geom:area_square_m":373822231.713973,
+    "geom:area_square_m":373822231.713974,
     "geom:bbox":"13.8992079495,60.2287574047,14.149196086,60.5875141254",
     "geom:latitude":60.403465,
     "geom:longitude":14.018545,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":941,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":60.404381,
     "lbl:longitude":14.020879,
     "lbl:max_zoom":17.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132710,
-        "qs_pg:id":758307
+        "qs_pg:id":758307,
+        "se-lant:code":"217014"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497042778,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"89e90cd82819e387940786ac0bf8885a",
+    "wof:geomhash":"e7a537f69f0df041dbeeb19fe83a1b95",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125287609,
-    "wof:lastmodified":1582340790,
+    "wof:lastmodified":1695879480,
     "wof:name":"Appelbo",
     "wof:parent_id":1159303269,
     "wof:placetype":"localadmin",

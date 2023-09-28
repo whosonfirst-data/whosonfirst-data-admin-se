@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009316,
-    "geom:area_square_m":60276844.341604,
+    "geom:area_square_m":60276844.341601,
     "geom:bbox":"16.6407368475,58.4136594548,16.8674199776,58.4878005864",
     "geom:latitude":58.448825,
     "geom:longitude":16.743747,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":166,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.442423,
     "lbl:longitude":16.745367,
     "lbl:max_zoom":18.0,
@@ -64,14 +73,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132858,
-        "qs_pg:id":758389
+        "qs_pg:id":758389,
+        "se-lant:code":"108126"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497042789,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"db87620d3fd301b6b61430a93efa11a8",
+    "wof:geomhash":"bf4dde6003b8f50a3f96a4465d3d47c3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,7 +93,7 @@
         }
     ],
     "wof:id":1125287877,
-    "wof:lastmodified":1582340798,
+    "wof:lastmodified":1695879486,
     "wof:name":"Rono",
     "wof:parent_id":1159303229,
     "wof:placetype":"localadmin",

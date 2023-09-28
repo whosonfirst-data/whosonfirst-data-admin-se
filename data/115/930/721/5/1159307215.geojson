@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002173,
-    "geom:area_square_m":15085975.550032,
+    "geom:area_square_m":15085975.550033,
     "geom:bbox":"12.971148533,55.8218400976,13.0590868443,55.8627140566",
     "geom:latitude":55.841989,
     "geom:longitude":13.015966,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.841138,
     "lbl:longitude":13.015153,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101225"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734252,
-    "wof:geomhash":"d4f94b365e255fbb5b1e5bf63f189c8f",
+    "wof:geomhash":"b1b99641ed67628cca013420913d0897",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307215,
-    "wof:lastmodified":1566643365,
+    "wof:lastmodified":1695879430,
     "wof:name":"Annelov",
     "wof:parent_id":1159303531,
     "wof:placetype":"localadmin",

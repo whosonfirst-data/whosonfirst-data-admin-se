@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015928,
-    "geom:area_square_m":105952400.264903,
+    "geom:area_square_m":105952400.264899,
     "geom:bbox":"11.7789552815,57.4001149732,12.0632082858,57.499703954",
     "geom:latitude":57.458473,
     "geom:longitude":11.918445,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":7822,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.460778,
     "lbl:longitude":11.920599,
     "lbl:max_zoom":15.0,
@@ -76,14 +85,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132575,
-        "qs_pg:id":758233
+        "qs_pg:id":758233,
+        "se-lant:code":"104084"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497044790,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"ef99eb67a7aecd213af79d033798b701",
+    "wof:geomhash":"14be2e540340e2a65b4a5556ccfd2df5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,7 +105,7 @@
         }
     ],
     "wof:id":1125325571,
-    "wof:lastmodified":1582340756,
+    "wof:lastmodified":1695879451,
     "wof:name":"Vallda",
     "wof:parent_id":1159303249,
     "wof:placetype":"localadmin",

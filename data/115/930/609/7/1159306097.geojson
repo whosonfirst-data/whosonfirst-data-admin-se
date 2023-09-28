@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011277,
-    "geom:area_square_m":74547510.472767,
+    "geom:area_square_m":74547510.472776,
     "geom:bbox":"13.4115277066,57.6107716271,13.57396002,57.7482432306",
     "geom:latitude":57.681105,
     "geom:longitude":13.481269,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.678279,
     "lbl:longitude":13.47572,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107081"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733945,
-    "wof:geomhash":"b95c40fb0539f85932a1fa3ac76ac960",
+    "wof:geomhash":"0faa0b2e50918b10013e8c30996807f8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306097,
-    "wof:lastmodified":1566643349,
+    "wof:lastmodified":1695879428,
     "wof:name":"Gallstad",
     "wof:parent_id":1159303161,
     "wof:placetype":"localadmin",

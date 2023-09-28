@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005995,
-    "geom:area_square_m":41054137.544819,
+    "geom:area_square_m":41054137.544816,
     "geom:bbox":"16.4701215484,56.3312227436,16.5947438663,56.410083193",
     "geom:latitude":56.371886,
     "geom:longitude":16.533042,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.37112,
     "lbl:longitude":16.531825,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"103005"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734291,
-    "wof:geomhash":"1f0388b07d9b68a6a955f655c0fabd66",
+    "wof:geomhash":"97af80c351ac9803469141023f176950",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307351,
-    "wof:lastmodified":1566643284,
+    "wof:lastmodified":1695879414,
     "wof:name":"Segerstad",
     "wof:parent_id":1159303101,
     "wof:placetype":"localadmin",

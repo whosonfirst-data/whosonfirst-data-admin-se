@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.082476,
-    "geom:area_square_m":513263349.318754,
+    "geom:area_square_m":513263349.318719,
     "geom:bbox":"15.0818160608,59.5913095839,15.5539657137,59.9761327089",
     "geom:latitude":59.782475,
     "geom:longitude":15.328246,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":1607,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.820689,
     "lbl:longitude":15.265996,
     "lbl:max_zoom":16.0,
@@ -73,14 +82,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131666,
-        "qs_pg:id":757640
+        "qs_pg:id":757640,
+        "se-lant:code":"214046"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497051621,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"dfe05b0970e951217261da1b8d0b370c",
+    "wof:geomhash":"6b2960b2c4f7e0b11848459158ab41ba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +102,7 @@
         }
     ],
     "wof:id":1125417593,
-    "wof:lastmodified":1582340874,
+    "wof:lastmodified":1695879552,
     "wof:name":"Ramsberg",
     "wof:parent_id":1159303549,
     "wof:placetype":"localadmin",

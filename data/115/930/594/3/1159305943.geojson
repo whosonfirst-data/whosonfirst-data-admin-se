@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02065,
-    "geom:area_square_m":131036617.359279,
+    "geom:area_square_m":131036617.35927,
     "geom:bbox":"17.6629793117,59.0442955054,17.931762892,59.1971302026",
     "geom:latitude":59.124206,
     "geom:longitude":17.791645,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.141494,
     "lbl:longitude":17.782525,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"212057"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733912,
-    "wof:geomhash":"64bfeada49a9b8e3198b365cb826e2a0",
+    "wof:geomhash":"98484baeee92e7ae6e102c41e4c8cc5d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159305943,
-    "wof:lastmodified":1566643141,
+    "wof:lastmodified":1695879389,
     "wof:name":"Grodinge",
     "wof:parent_id":1159303191,
     "wof:placetype":"localadmin",

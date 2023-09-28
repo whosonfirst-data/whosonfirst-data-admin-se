@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003213,
-    "geom:area_square_m":20857440.007178,
+    "geom:area_square_m":20857440.007181,
     "geom:bbox":"13.1677814876,58.2965301789,13.2595395773,58.3543837438",
     "geom:latitude":58.327561,
     "geom:longitude":13.212882,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.329168,
     "lbl:longitude":13.211992,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107304"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734099,
-    "wof:geomhash":"32b3ff53a8624d43c0d7885f1dbda475",
+    "wof:geomhash":"93a9ae608da399083ed4e83b5d8d0fe9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306627,
-    "wof:lastmodified":1566643335,
+    "wof:lastmodified":1695879425,
     "wof:name":"Ottum",
     "wof:parent_id":1159303487,
     "wof:placetype":"localadmin",

@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013281,
-    "geom:area_square_m":87796663.691713,
+    "geom:area_square_m":87796663.691714,
     "geom:bbox":"13.8410210207,57.6103746508,14.036612457,57.7617364599",
     "geom:latitude":57.680687,
     "geom:longitude":13.930418,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.664261,
     "lbl:longitude":13.923723,
     "lbl:max_zoom":18.0,
@@ -42,9 +51,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"105232"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734065,
-    "wof:geomhash":"ca75148225e00ccf8c3edf1523105974",
+    "wof:geomhash":"8c4886b6292978a6c022b8a3698a4318",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,7 +68,7 @@
         }
     ],
     "wof:id":1159306509,
-    "wof:lastmodified":1566643227,
+    "wof:lastmodified":1695879405,
     "wof:name":"Angerdshestra",
     "wof:parent_id":1159303375,
     "wof:placetype":"localadmin",

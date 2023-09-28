@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004279,
-    "geom:area_square_m":26640009.625708,
+    "geom:area_square_m":26639951.057194,
     "geom:bbox":"17.487111,59.733586,17.609906,59.799068",
     "geom:latitude":59.765726,
     "geom:longitude":17.547287,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":545,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.767711,
     "lbl:longitude":17.548217,
     "lbl:max_zoom":17.0,
@@ -124,14 +133,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132900,
-        "qs_pg:id":758426
+        "qs_pg:id":758426,
+        "se-lant:code":"215110"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497042797,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"0e57170a0903aad2a110ee7823fb5484",
+    "wof:geomhash":"7f0362d086225384f1c285e4e67f3f7c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -142,7 +153,7 @@
         }
     ],
     "wof:id":1125288105,
-    "wof:lastmodified":1636499893,
+    "wof:lastmodified":1695879559,
     "wof:name":"Dalby",
     "wof:parent_id":1159303253,
     "wof:placetype":"localadmin",

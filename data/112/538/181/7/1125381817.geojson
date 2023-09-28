@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003469,
-    "geom:area_square_m":24213258.419042,
+    "geom:area_square_m":24213258.419041,
     "geom:bbox":"14.1825144215,55.6049171802,14.3073611576,55.6482519343",
     "geom:latitude":55.627967,
     "geom:longitude":14.247741,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":559,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.629402,
     "lbl:longitude":14.242715,
     "lbl:max_zoom":17.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131674,
-        "qs_pg:id":381293
+        "qs_pg:id":381293,
+        "se-lant:code":"101151"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497048091,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"77dc0f126d0a83b2ae30244d802ae220",
+    "wof:geomhash":"e7bd709c87f4252be36e82a689221852",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125381817,
-    "wof:lastmodified":1582340850,
+    "wof:lastmodified":1695879522,
     "wof:name":"Rorum",
     "wof:parent_id":1159302931,
     "wof:placetype":"localadmin",

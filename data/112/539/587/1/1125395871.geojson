@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012384,
-    "geom:area_square_m":77135346.789753,
+    "geom:area_square_m":77135346.78974,
     "geom:bbox":"18.2630382603,59.6978108434,18.4596114439,59.8148380134",
     "geom:latitude":59.754112,
     "geom:longitude":18.368165,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":5983,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.750522,
     "lbl:longitude":18.374834,
     "lbl:max_zoom":15.0,
@@ -85,14 +94,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8133107,
-        "qs_pg:id":1049371
+        "qs_pg:id":1049371,
+        "se-lant:code":"215119"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497049009,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"4478074674f3b171325ea8171e1a9a1d",
+    "wof:geomhash":"fe2f5d790ccad1b239a4862ffdf5bc96",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -103,7 +114,7 @@
         }
     ],
     "wof:id":1125395871,
-    "wof:lastmodified":1582340839,
+    "wof:lastmodified":1695879515,
     "wof:name":"Rimbo",
     "wof:parent_id":1159302995,
     "wof:placetype":"localadmin",

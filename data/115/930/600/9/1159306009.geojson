@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005073,
-    "geom:area_square_m":32919932.074573,
+    "geom:area_square_m":32919932.074576,
     "geom:bbox":"15.0369609259,58.2975935537,15.1713351125,58.382650156",
     "geom:latitude":58.34684,
     "geom:longitude":15.097383,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.342294,
     "lbl:longitude":15.08718,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"108043"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733926,
-    "wof:geomhash":"50858537cf2c9714b7d74170995bb7f1",
+    "wof:geomhash":"0056a0ec23bb7423949a714f20181717",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306009,
-    "wof:lastmodified":1566643341,
+    "wof:lastmodified":1695879427,
     "wof:name":"Hogby",
     "wof:parent_id":1159302925,
     "wof:placetype":"localadmin",

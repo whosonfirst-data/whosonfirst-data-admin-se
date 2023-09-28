@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0355,
-    "geom:area_square_m":186508845.292909,
+    "geom:area_square_m":186508845.292911,
     "geom:bbox":"20.1861352774,64.7726141363,20.6125301974,64.9452248418",
     "geom:latitude":64.857021,
     "geom:longitude":20.384971,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":64.855178,
     "lbl:longitude":20.384958,
     "lbl:max_zoom":18.0,
@@ -69,9 +78,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"323025"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734007,
-    "wof:geomhash":"a7fb6adf9cfc38ce987eacbf6fba66f0",
+    "wof:geomhash":"af5a9c33377c48f413e9c05518cb5ebd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,7 +95,7 @@
         }
     ],
     "wof:id":1159306339,
-    "wof:lastmodified":1566643199,
+    "wof:lastmodified":1695879400,
     "wof:name":"Boliden",
     "wof:parent_id":1159303205,
     "wof:placetype":"localadmin",

@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004752,
-    "geom:area_square_m":30842417.210554,
+    "geom:area_square_m":30842417.21055,
     "geom:bbox":"12.790845246,58.3009339604,12.8712766317,58.3874813791",
     "geom:latitude":58.341651,
     "geom:longitude":12.829628,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.341939,
     "lbl:longitude":12.826401,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107295"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733901,
-    "wof:geomhash":"f8db6c57d22c74381ff1d3a3035ab7c4",
+    "wof:geomhash":"51ecb1f4bccfb6400b66d11908618774",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159305899,
-    "wof:lastmodified":1566643254,
+    "wof:lastmodified":1695879409,
     "wof:name":"Sparlosa",
     "wof:parent_id":1159303487,
     "wof:placetype":"localadmin",

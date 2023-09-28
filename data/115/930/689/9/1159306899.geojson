@@ -10,6 +10,15 @@
     "geom:latitude":56.313143,
     "geom:longitude":13.100202,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.309416,
     "lbl:longitude":13.129872,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101366"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734167,
-    "wof:geomhash":"501e464594388e423d88f9109f1a9d61",
+    "wof:geomhash":"a3494bcff4692fe6128571525d8929bc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306899,
-    "wof:lastmodified":1566643189,
+    "wof:lastmodified":1695879398,
     "wof:name":"Tassjo",
     "wof:parent_id":1159303025,
     "wof:placetype":"localadmin",

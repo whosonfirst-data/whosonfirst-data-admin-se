@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.036178,
-    "geom:area_square_m":240391235.891181,
+    "geom:area_square_m":240391235.891171,
     "geom:bbox":"15.8310339818,57.4027817669,16.2089984933,57.5877447586",
     "geom:latitude":57.494918,
     "geom:longitude":16.007541,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":1168,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.511594,
     "lbl:longitude":15.979166,
     "lbl:max_zoom":16.0,
@@ -88,14 +97,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132676,
-        "qs_pg:id":904425
+        "qs_pg:id":904425,
+        "se-lant:code":"105213"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497046693,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"53736ba43269d4004c546f32b2ec3b31",
+    "wof:geomhash":"0c171f089f2a142007e2a9c94986bdde",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -106,7 +117,7 @@
         }
     ],
     "wof:id":1125359591,
-    "wof:lastmodified":1582340744,
+    "wof:lastmodified":1695879444,
     "wof:name":"Vena",
     "wof:parent_id":1159303371,
     "wof:placetype":"localadmin",

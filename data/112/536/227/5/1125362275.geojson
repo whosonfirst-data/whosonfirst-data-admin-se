@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001828,
-    "geom:area_square_m":11521975.802837,
+    "geom:area_square_m":11521975.802836,
     "geom:bbox":"18.0363895425,59.3347417001,18.1263481194,59.3763651518",
     "geom:latitude":59.358904,
     "geom:longitude":18.078195,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":20029,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.358751,
     "lbl:longitude":18.074446,
     "lbl:max_zoom":14.0,
@@ -61,14 +70,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132068,
-        "qs_pg:id":757917
+        "qs_pg:id":757917,
+        "se-lant:code":"215028"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497046872,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"8de0f1f33b77a6d5a38fe75e88b2d893",
+    "wof:geomhash":"6db2e67904145a76f68e40d8f429080d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +90,7 @@
         }
     ],
     "wof:id":1125362275,
-    "wof:lastmodified":1582340857,
+    "wof:lastmodified":1695879527,
     "wof:name":"Stockholms Engelbrekt",
     "wof:parent_id":1159303035,
     "wof:placetype":"localadmin",

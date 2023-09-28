@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009988,
-    "geom:area_square_m":64591868.684013,
+    "geom:area_square_m":64591868.684019,
     "geom:bbox":"15.583330086,58.4187567864,15.7675256644,58.5156805557",
     "geom:latitude":58.466829,
     "geom:longitude":15.671133,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.475037,
     "lbl:longitude":15.66206,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"108112"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733940,
-    "wof:geomhash":"79e7b50c385cd24ae9d9a640943fca71",
+    "wof:geomhash":"a232ee4cfa09414e01dddd00f34f4d46",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306069,
-    "wof:lastmodified":1566643331,
+    "wof:lastmodified":1695879425,
     "wof:name":"Rystad",
     "wof:parent_id":1159303147,
     "wof:placetype":"localadmin",

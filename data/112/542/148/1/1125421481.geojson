@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007028,
-    "geom:area_square_m":45290068.864043,
+    "geom:area_square_m":45290068.864045,
     "geom:bbox":"15.8596056221,58.5546721669,16.0274804136,58.6225183758",
     "geom:latitude":58.588026,
     "geom:longitude":15.936821,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":4153,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.592626,
     "lbl:longitude":15.930017,
     "lbl:max_zoom":15.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8133336,
-        "qs_pg:id":758627
+        "qs_pg:id":758627,
+        "se-lant:code":"108134"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497052323,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"80724045dc13484e1e7004025e25bfae",
+    "wof:geomhash":"0eb3878774aa1030ce3f7515fcfc637f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125421481,
-    "wof:lastmodified":1582340817,
+    "wof:lastmodified":1695879498,
     "wof:name":"Kullerstad",
     "wof:parent_id":1159303229,
     "wof:placetype":"localadmin",

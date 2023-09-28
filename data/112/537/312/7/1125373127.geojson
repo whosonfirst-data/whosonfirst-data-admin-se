@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.095066,
-    "geom:area_square_m":561744355.652354,
+    "geom:area_square_m":561744355.65231,
     "geom:bbox":"15.4013461938,61.2490965497,15.9785296896,61.6240622998",
     "geom:latitude":61.453465,
     "geom:longitude":15.712708,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":7028,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":61.432867,
     "lbl:longitude":15.717018,
     "lbl:max_zoom":15.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132471,
-        "qs_pg:id":109442
+        "qs_pg:id":109442,
+        "se-lant:code":"318016"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497047546,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"f82768cbaf9e5c629410daf9942fd949",
+    "wof:geomhash":"915bed8086311caf3dff91fbd1d7fbf2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125373127,
-    "wof:lastmodified":1582340826,
+    "wof:lastmodified":1695879505,
     "wof:name":"Ovanaker",
     "wof:parent_id":1159303489,
     "wof:placetype":"localadmin",

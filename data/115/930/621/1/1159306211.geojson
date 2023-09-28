@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011784,
-    "geom:area_square_m":74894884.462307,
+    "geom:area_square_m":74894884.462306,
     "geom:bbox":"14.1478208142,59.0122202902,14.3401086217,59.1270173921",
     "geom:latitude":59.069236,
     "geom:longitude":14.261937,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.065974,
     "lbl:longitude":14.269973,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"213006"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733973,
-    "wof:geomhash":"3c9d4b9566a561ef51100e0a59ccdef3",
+    "wof:geomhash":"1b2096cd8b1b5848cd5993fff8d6741e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306211,
-    "wof:lastmodified":1566643184,
+    "wof:lastmodified":1695879397,
     "wof:name":"Rudskoga",
     "wof:parent_id":1159303523,
     "wof:placetype":"localadmin",

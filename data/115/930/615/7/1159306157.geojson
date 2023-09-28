@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006011,
-    "geom:area_square_m":40354110.974154,
+    "geom:area_square_m":40354110.974153,
     "geom:bbox":"16.9013202422,57.0707227783,17.0464763873,57.1605221741",
     "geom:latitude":57.116092,
     "geom:longitude":16.975259,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.112856,
     "lbl:longitude":16.982394,
     "lbl:max_zoom":18.0,
@@ -48,9 +57,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"103032"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733961,
-    "wof:geomhash":"22b43fa97effd25bd94ab14ebc04b91e",
+    "wof:geomhash":"7cc81e9de7ec22da6916c4436dfb09d4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +74,7 @@
         }
     ],
     "wof:id":1159306157,
-    "wof:lastmodified":1566643311,
+    "wof:lastmodified":1695879420,
     "wof:name":"Kalla",
     "wof:parent_id":1159303363,
     "wof:placetype":"localadmin",

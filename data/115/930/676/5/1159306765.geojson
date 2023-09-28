@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009193,
-    "geom:area_square_m":61367333.143058,
+    "geom:area_square_m":61367333.143057,
     "geom:bbox":"18.5874299594,57.2654251327,18.7753761847,57.3891048528",
     "geom:latitude":57.326666,
     "geom:longitude":18.673204,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.33566,
     "lbl:longitude":18.665429,
     "lbl:max_zoom":18.0,
@@ -45,9 +54,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"106028"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734130,
-    "wof:geomhash":"0cf42c09e7f4f5c69f88898ed5ce4026",
+    "wof:geomhash":"5ed243f2927f2ca9d9210478afd65be1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +71,7 @@
         }
     ],
     "wof:id":1159306765,
-    "wof:lastmodified":1566643301,
+    "wof:lastmodified":1695879417,
     "wof:name":"Alskog",
     "wof:parent_id":1159303535,
     "wof:placetype":"localadmin",

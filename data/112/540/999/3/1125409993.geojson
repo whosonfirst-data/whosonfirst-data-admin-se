@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002562,
-    "geom:area_square_m":16149370.380666,
+    "geom:area_square_m":16149370.380668,
     "geom:bbox":"17.8642061046,59.3288766398,17.9814418599,59.3702670303",
     "geom:latitude":59.349476,
     "geom:longitude":17.924272,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":36209,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.350828,
     "lbl:longitude":17.938927,
     "lbl:max_zoom":14.0,
@@ -109,14 +118,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8133087,
-        "qs_pg:id":1155716
+        "qs_pg:id":1155716,
+        "se-lant:code":"215013"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497049933,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"dcab48ebbb47b5649f4abbc516fb7181",
+    "wof:geomhash":"22996c0caca5f44173f834b1c9800471",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -127,7 +138,7 @@
         }
     ],
     "wof:id":1125409993,
-    "wof:lastmodified":1582340866,
+    "wof:lastmodified":1695879533,
     "wof:name":"Bromma",
     "wof:parent_id":1159303035,
     "wof:placetype":"localadmin",

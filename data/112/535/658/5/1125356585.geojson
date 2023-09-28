@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":26336,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.581935,
     "lbl:longitude":13.044988,
     "lbl:max_zoom":14.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8133141,
-        "qs_pg:id":758510
+        "qs_pg:id":758510,
+        "se-lant:code":"101120"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497046508,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"c30d8d6d40dd7731ffe8dd3dce0ed492",
+    "wof:geomhash":"1e6802c21c4ac799c379f167f787b00b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125356585,
-    "wof:lastmodified":1582340742,
+    "wof:lastmodified":1695879442,
     "wof:name":"Vastra Skravlinge",
     "wof:parent_id":1159303367,
     "wof:placetype":"localadmin",

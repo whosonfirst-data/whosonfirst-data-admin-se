@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003135,
-    "geom:area_square_m":20681769.836971,
+    "geom:area_square_m":20681769.836972,
     "geom:bbox":"14.1248656304,57.7325813367,14.2464401778,57.7770354117",
     "geom:latitude":57.755013,
     "geom:longitude":14.185239,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.756525,
     "lbl:longitude":14.180207,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"105249"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734035,
-    "wof:geomhash":"694f6becfbecbc42fb8c517976dd7396",
+    "wof:geomhash":"1369965c8edeb10a73d916be226b585f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306403,
-    "wof:lastmodified":1566643307,
+    "wof:lastmodified":1695879419,
     "wof:name":"Ljungarum",
     "wof:parent_id":1159303375,
     "wof:placetype":"localadmin",

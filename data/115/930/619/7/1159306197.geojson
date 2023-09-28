@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007639,
-    "geom:area_square_m":48087806.323633,
+    "geom:area_square_m":48087806.323635,
     "geom:bbox":"17.4890657053,59.3460519694,17.6505993112,59.4421066407",
     "geom:latitude":59.396646,
     "geom:longitude":17.569042,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.39865,
     "lbl:longitude":17.570232,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"215007"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733971,
-    "wof:geomhash":"e8dce3d6e6ea6ab94445d3c8b9736d14",
+    "wof:geomhash":"9aa6a5a4af532597564ae20286723f50",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306197,
-    "wof:lastmodified":1566643184,
+    "wof:lastmodified":1695879396,
     "wof:name":"Munso",
     "wof:parent_id":1159302999,
     "wof:placetype":"localadmin",

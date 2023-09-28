@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007763,
-    "geom:area_square_m":53147860.087887,
+    "geom:area_square_m":53147860.087886,
     "geom:bbox":"12.6699087342,56.3413045435,12.8823235231,56.4166012491",
     "geom:latitude":56.381045,
     "geom:longitude":12.783002,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.386383,
     "lbl:longitude":12.781438,
     "lbl:max_zoom":18.0,
@@ -54,9 +63,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101376"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734251,
-    "wof:geomhash":"b6c26deeef64d102890ae1bede2c7e3c",
+    "wof:geomhash":"5ee8898d5429a3b934a9756bc596053b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,7 +80,7 @@
         }
     ],
     "wof:id":1159307209,
-    "wof:lastmodified":1566643383,
+    "wof:lastmodified":1695879433,
     "wof:name":"Grevie",
     "wof:parent_id":1159302919,
     "wof:placetype":"localadmin",

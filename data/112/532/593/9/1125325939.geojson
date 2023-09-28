@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005043,
-    "geom:area_square_m":31508513.063138,
+    "geom:area_square_m":31508513.063137,
     "geom:bbox":"17.2918157148,59.6011353342,17.4017190606,59.6888411406",
     "geom:latitude":59.651682,
     "geom:longitude":17.350583,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":533,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.66162,
     "lbl:longitude":17.359707,
     "lbl:max_zoom":17.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132925,
-        "qs_pg:id":758440
+        "qs_pg:id":758440,
+        "se-lant:code":"215075"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497044813,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"7f7bf17b747548fd490c0c237c6ad248",
+    "wof:geomhash":"e5c015f155bc64bc9e1a40bef157e1c7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125325939,
-    "wof:lastmodified":1582340754,
+    "wof:lastmodified":1695879450,
     "wof:name":"Husby-Sjutolft",
     "wof:parent_id":1159303337,
     "wof:placetype":"localadmin",

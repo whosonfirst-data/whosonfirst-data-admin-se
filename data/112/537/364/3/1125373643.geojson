@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.252907,
-    "geom:area_square_m":1279362049.434441,
+    "geom:area_square_m":1279362049.434414,
     "geom:bbox":"20.7672963698,65.6632897314,22.1148132407,66.0242311337",
     "geom:latitude":65.851516,
     "geom:longitude":21.475771,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":22051,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":65.843636,
     "lbl:longitude":21.409597,
     "lbl:max_zoom":14.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132804,
-        "qs_pg:id":109507
+        "qs_pg:id":109507,
+        "se-lant:code":"325010"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497047579,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"c0838b4ddfc10cf70cfa4c3a64a06433",
+    "wof:geomhash":"6722fb5282452567f91039e5d5fe3dc3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125373643,
-    "wof:lastmodified":1582340822,
+    "wof:lastmodified":1695879502,
     "wof:name":"Overlulea",
     "wof:parent_id":1159303477,
     "wof:placetype":"localadmin",

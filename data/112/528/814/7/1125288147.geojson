@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031438,
-    "geom:area_square_m":193376388.039493,
+    "geom:area_square_m":193376388.039503,
     "geom:bbox":"12.5006007601,60.0784192617,12.8322218887,60.2812234695",
     "geom:latitude":60.168557,
     "geom:longitude":12.633877,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":292,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":60.167848,
     "lbl:longitude":12.631096,
     "lbl:max_zoom":17.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132945,
-        "qs_pg:id":758454
+        "qs_pg:id":758454,
+        "se-lant:code":"213087"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497042799,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"b853da6fab7e9101055a072dc82c1739",
+    "wof:geomhash":"bb210f432551e89c014adeb2aa63f899",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125288147,
-    "wof:lastmodified":1582340793,
+    "wof:lastmodified":1695879482,
     "wof:name":"Lekvattnet",
     "wof:parent_id":1159303341,
     "wof:placetype":"localadmin",

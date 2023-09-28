@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001789,
-    "geom:area_square_m":12389374.169187,
+    "geom:area_square_m":12389374.169184,
     "geom:bbox":"12.7432562768,55.9270423489,12.8358231948,55.9639339636",
     "geom:latitude":55.947168,
     "geom:longitude":12.792765,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.944408,
     "lbl:longitude":12.792065,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101255"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734161,
-    "wof:geomhash":"709aa047aba5eff5a74930f31d210695",
+    "wof:geomhash":"c9220c803fac6ab143e389d1b08bcfbe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306873,
-    "wof:lastmodified":1566643192,
+    "wof:lastmodified":1695879398,
     "wof:name":"Glumslov",
     "wof:parent_id":1159303531,
     "wof:placetype":"localadmin",

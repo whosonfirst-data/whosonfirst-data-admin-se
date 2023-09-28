@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004303,
-    "geom:area_square_m":28129488.843694,
+    "geom:area_square_m":28129488.843689,
     "geom:bbox":"13.135435497,58.0308549205,13.21934683,58.1293643755",
     "geom:latitude":58.081745,
     "geom:longitude":13.178927,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":174,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.084187,
     "lbl:longitude":13.181762,
     "lbl:max_zoom":18.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8133245,
-        "qs_pg:id":758575
+        "qs_pg:id":758575,
+        "se-lant:code":"107183"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497048267,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"8e58ce91e2560bd906fc2014983d13d6",
+    "wof:geomhash":"20e5f2bf84bcb71b2e48c5672139f3cb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125384333,
-    "wof:lastmodified":1582340853,
+    "wof:lastmodified":1695879524,
     "wof:name":"Kallunga",
     "wof:parent_id":1159303171,
     "wof:placetype":"localadmin",

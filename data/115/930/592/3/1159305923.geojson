@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003017,
-    "geom:area_square_m":19609450.983882,
+    "geom:area_square_m":19609450.983885,
     "geom:bbox":"12.9808730401,58.254781577,13.0757032453,58.3158639392",
     "geom:latitude":58.286795,
     "geom:longitude":13.034756,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.288549,
     "lbl:longitude":13.034008,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107297"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733906,
-    "wof:geomhash":"687a73155e65b1c46526217a7c17c608",
+    "wof:geomhash":"7c30d36fa340e3c1ac9df150cd54b953",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159305923,
-    "wof:lastmodified":1566643158,
+    "wof:lastmodified":1695879391,
     "wof:name":"Skarstad",
     "wof:parent_id":1159303487,
     "wof:placetype":"localadmin",

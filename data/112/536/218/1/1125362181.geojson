@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":11174,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.41672,
     "lbl:longitude":15.655796,
     "lbl:max_zoom":15.0,
@@ -61,14 +70,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131853,
-        "qs_pg:id":757765
+        "qs_pg:id":757765,
+        "se-lant:code":"108087"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497046868,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"c566afc8feee64e74bb24c18d0e4802a",
+    "wof:geomhash":"dea8cde4ddf2560cf6073f4b3acaf873",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +90,7 @@
         }
     ],
     "wof:id":1125362181,
-    "wof:lastmodified":1582340857,
+    "wof:lastmodified":1695879527,
     "wof:name":"Linkopings Sankt Lars",
     "wof:parent_id":1159303147,
     "wof:placetype":"localadmin",

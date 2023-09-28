@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01169,
-    "geom:area_square_m":73194729.936107,
+    "geom:area_square_m":73194729.936103,
     "geom:bbox":"12.6166206396,59.5369628136,12.8465477888,59.6283123465",
     "geom:latitude":59.578524,
     "geom:longitude":12.723459,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.581214,
     "lbl:longitude":12.734779,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"213048"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734075,
-    "wof:geomhash":"991d684e3d13895e480495f8af37e6c7",
+    "wof:geomhash":"09a0ece093e24a6659d4edd9eaf3f70b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306547,
-    "wof:lastmodified":1566643340,
+    "wof:lastmodified":1695879426,
     "wof:name":"Hogerud",
     "wof:parent_id":1159303075,
     "wof:placetype":"localadmin",

@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008512,
-    "geom:area_square_m":55017800.751703,
+    "geom:area_square_m":55017800.751705,
     "geom:bbox":"16.524832794,58.4345714098,16.7093005901,58.530698205",
     "geom:latitude":58.484048,
     "geom:longitude":16.609307,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.478355,
     "lbl:longitude":16.618432,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"108125"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733832,
-    "wof:geomhash":"e2df0331d7f21fda4e15902e7c7322e1",
+    "wof:geomhash":"2eb1cdf19a15d85b9a557cfc8e185b3e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159305641,
-    "wof:lastmodified":1566643275,
+    "wof:lastmodified":1695879413,
     "wof:name":"Ostra Ny",
     "wof:parent_id":1159303229,
     "wof:placetype":"localadmin",

@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001391,
-    "geom:area_square_m":8987543.315825,
+    "geom:area_square_m":8987543.315826,
     "geom:bbox":"15.8563624638,58.4835476432,15.93454069,58.5160410132",
     "geom:latitude":58.500538,
     "geom:longitude":15.895693,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.500506,
     "lbl:longitude":15.895703,
     "lbl:max_zoom":18.0,
@@ -57,9 +66,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"108116"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734094,
-    "wof:geomhash":"60b06a0908499b9e69a73f82208bcbe8",
+    "wof:geomhash":"c46ef28e1d754487978e097127d47d5c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +83,7 @@
         }
     ],
     "wof:id":1159306597,
-    "wof:lastmodified":1566643220,
+    "wof:lastmodified":1695879403,
     "wof:name":"Lillkyrka",
     "wof:parent_id":1159303147,
     "wof:placetype":"localadmin",

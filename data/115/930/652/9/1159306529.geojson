@@ -10,6 +10,15 @@
     "geom:latitude":58.570513,
     "geom:longitude":13.546124,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.561237,
     "lbl:longitude":13.53504,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107411"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734070,
-    "wof:geomhash":"8f4a0688da93006180eeb61d5cea3f9b",
+    "wof:geomhash":"f2ad30d56d9f330d826d6adf9a8c292b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306529,
-    "wof:lastmodified":1566643322,
+    "wof:lastmodified":1695879423,
     "wof:name":"Kinne-Vedum",
     "wof:parent_id":1159302923,
     "wof:placetype":"localadmin",

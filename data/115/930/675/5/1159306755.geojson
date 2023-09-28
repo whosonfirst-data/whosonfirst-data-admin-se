@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.077594,
-    "geom:area_square_m":478205843.562002,
+    "geom:area_square_m":478205843.562008,
     "geom:bbox":"13.6748401627,59.9354947366,14.0183066068,60.3234906535",
     "geom:latitude":60.105187,
     "geom:longitude":13.854921,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":60.098081,
     "lbl:longitude":13.857482,
     "lbl:max_zoom":18.0,
@@ -72,9 +81,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"213085"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734126,
-    "wof:geomhash":"c15bcf274775ddf9a70d7b60b2b0a312",
+    "wof:geomhash":"ee1402044a71b3588053abb796c57cb8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,7 +98,7 @@
         }
     ],
     "wof:id":1159306755,
-    "wof:lastmodified":1566643176,
+    "wof:lastmodified":1695879395,
     "wof:name":"Gustav Adolf",
     "wof:parent_id":1159303063,
     "wof:placetype":"localadmin",

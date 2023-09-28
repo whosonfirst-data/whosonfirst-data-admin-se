@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001871,
-    "geom:area_square_m":12133655.60287,
+    "geom:area_square_m":12133655.602869,
     "geom:bbox":"12.7551805107,58.3496618229,12.8259179467,58.3970893918",
     "geom:latitude":58.375234,
     "geom:longitude":12.787391,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.377252,
     "lbl:longitude":12.79086,
     "lbl:max_zoom":18.0,
@@ -90,9 +99,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107330"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734338,
-    "wof:geomhash":"0fc1c7ba1443c1e798f945de1d714519",
+    "wof:geomhash":"caf76e27d565788029c76d9d224adc12",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -103,7 +116,7 @@
         }
     ],
     "wof:id":1159307539,
-    "wof:lastmodified":1566643160,
+    "wof:lastmodified":1695879392,
     "wof:name":"Hale",
     "wof:parent_id":1159303421,
     "wof:placetype":"localadmin",

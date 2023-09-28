@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01354,
-    "geom:area_square_m":88835837.061814,
+    "geom:area_square_m":88835837.061819,
     "geom:bbox":"14.220486611,57.9137421895,14.5114706228,57.9928520442",
     "geom:latitude":57.954362,
     "geom:longitude":14.35788,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":1386,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.955484,
     "lbl:longitude":14.355663,
     "lbl:max_zoom":16.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132633,
-        "qs_pg:id":381390
+        "qs_pg:id":381390,
+        "se-lant:code":"105276"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497048111,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"3b217aa2711d9e25c3afaef9131d369b",
+    "wof:geomhash":"9c383bdd3c417ef799771603a7d9087d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125382155,
-    "wof:lastmodified":1582340851,
+    "wof:lastmodified":1695879522,
     "wof:name":"Olmstad",
     "wof:parent_id":1159303375,
     "wof:placetype":"localadmin",

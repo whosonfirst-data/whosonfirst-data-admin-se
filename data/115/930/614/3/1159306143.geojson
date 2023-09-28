@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00187,
-    "geom:area_square_m":12225658.302522,
+    "geom:area_square_m":12225658.302524,
     "geom:bbox":"13.5385086471,58.0619319603,13.6269609761,58.0941716374",
     "geom:latitude":58.078238,
     "geom:longitude":13.584111,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.079635,
     "lbl:longitude":13.583274,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107189"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733957,
-    "wof:geomhash":"a4afce1645f86ffd700384675656ee7f",
+    "wof:geomhash":"2f35837719fea537e840a451b585a75e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306143,
-    "wof:lastmodified":1566643297,
+    "wof:lastmodified":1695879416,
     "wof:name":"Varkumla",
     "wof:parent_id":1159303137,
     "wof:placetype":"localadmin",

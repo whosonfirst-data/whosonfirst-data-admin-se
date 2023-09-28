@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.069024,
-    "geom:area_square_m":388661127.305882,
+    "geom:area_square_m":388661127.305873,
     "geom:bbox":"15.4172608647,62.7709232545,15.8874123972,63.0433597907",
     "geom:latitude":62.910838,
     "geom:longitude":15.67541,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":62.899879,
     "lbl:longitude":15.698592,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"322011"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733983,
-    "wof:geomhash":"beedc8c6600cb8340fb1cd52160cf1e9",
+    "wof:geomhash":"67954446e6bf230b989bb3b67a322c5f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306247,
-    "wof:lastmodified":1566643309,
+    "wof:lastmodified":1695879419,
     "wof:name":"Nyhem",
     "wof:parent_id":1159303529,
     "wof:placetype":"localadmin",

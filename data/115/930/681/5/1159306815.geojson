@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003389,
-    "geom:area_square_m":22675360.388908,
+    "geom:area_square_m":22675360.388911,
     "geom:bbox":"18.3177578076,57.2132848523,18.4539867383,57.2609764457",
     "geom:latitude":57.238987,
     "geom:longitude":18.38584,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.235659,
     "lbl:longitude":18.39048,
     "lbl:max_zoom":18.0,
@@ -63,9 +72,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"106015"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734146,
-    "wof:geomhash":"11d413ba4c876c2896d727078a4dcf42",
+    "wof:geomhash":"2a65b4096eb616cd5e68752cdec31771",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +89,7 @@
         }
     ],
     "wof:id":1159306815,
-    "wof:lastmodified":1566643178,
+    "wof:lastmodified":1695879395,
     "wof:name":"Hemse",
     "wof:parent_id":1159303535,
     "wof:placetype":"localadmin",

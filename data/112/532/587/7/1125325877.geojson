@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009888,
-    "geom:area_square_m":61399139.09844,
+    "geom:area_square_m":61399139.098434,
     "geom:bbox":"17.7633923625,59.8064719198,17.9779902335,59.9048284645",
     "geom:latitude":59.855006,
     "geom:longitude":17.848666,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":2209,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.85187,
     "lbl:longitude":17.847071,
     "lbl:max_zoom":15.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132902,
-        "qs_pg:id":758428
+        "qs_pg:id":758428,
+        "se-lant:code":"215138"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497044810,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"9ae6ca51b7516a46ece96a14417cde52",
+    "wof:geomhash":"cae96035b3ad5cd13118fc2096993179",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125325877,
-    "wof:lastmodified":1582340766,
+    "wof:lastmodified":1695879460,
     "wof:name":"Funbo",
     "wof:parent_id":1159303253,
     "wof:placetype":"localadmin",

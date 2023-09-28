@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011189,
-    "geom:area_square_m":73769329.401848,
+    "geom:area_square_m":73769329.401853,
     "geom:bbox":"15.811861051,57.7205972539,15.9929464926,57.8298648249",
     "geom:latitude":57.777464,
     "geom:longitude":15.889728,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.775499,
     "lbl:longitude":15.889717,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"105260"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733853,
-    "wof:geomhash":"9a52c09365ccc25bdf5db0e2638fc484",
+    "wof:geomhash":"53e2bc8553fb5c2bd3298ba0e7582a1b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159305727,
-    "wof:lastmodified":1566643236,
+    "wof:lastmodified":1695879406,
     "wof:name":"Djursdala",
     "wof:parent_id":1159303159,
     "wof:placetype":"localadmin",

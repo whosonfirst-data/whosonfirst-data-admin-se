@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":5600,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.732141,
     "lbl:longitude":11.968167,
     "lbl:max_zoom":15.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132081,
-        "qs_pg:id":757930
+        "qs_pg:id":757930,
+        "se-lant:code":"109003"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497045623,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"90d1812a9b3fbd9a630852b4a8c4a75a",
+    "wof:geomhash":"9ce2204058f84bfed98afbe1b59c4d77",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125340395,
-    "wof:lastmodified":1582340733,
+    "wof:lastmodified":1695879435,
     "wof:name":"Brunnsbo",
     "wof:parent_id":1159302989,
     "wof:placetype":"localadmin",

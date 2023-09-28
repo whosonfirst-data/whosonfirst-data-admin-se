@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007848,
-    "geom:area_square_m":48997769.490425,
+    "geom:area_square_m":48997769.490423,
     "geom:bbox":"18.3087520789,59.6202310258,18.4522651004,59.7190254351",
     "geom:latitude":59.675328,
     "geom:longitude":18.392014,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.682995,
     "lbl:longitude":18.399087,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"215092"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733865,
-    "wof:geomhash":"4fa3785ffbaf1d628bd9e9a021ca9acc",
+    "wof:geomhash":"96cb537875da4cb654bb685ca5aa2f5c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159305771,
-    "wof:lastmodified":1566643377,
+    "wof:lastmodified":1695879432,
     "wof:name":"Ro",
     "wof:parent_id":1159302995,
     "wof:placetype":"localadmin",

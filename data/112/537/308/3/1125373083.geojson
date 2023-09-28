@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003738,
-    "geom:area_square_m":24403934.899657,
+    "geom:area_square_m":24403934.899654,
     "geom:bbox":"12.116382187,58.0984027092,12.1908286909,58.1802129116",
     "geom:latitude":58.135251,
     "geom:longitude":12.152494,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":4701,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.131786,
     "lbl:longitude":12.155508,
     "lbl:max_zoom":15.0,
@@ -61,14 +70,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132417,
-        "qs_pg:id":109435
+        "qs_pg:id":109435,
+        "se-lant:code":"107201"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497047543,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"6cb922a67cc2fc12725b2424401964d3",
+    "wof:geomhash":"c46bdb11a91e34fee4ed1893363f0223",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +90,7 @@
         }
     ],
     "wof:id":1125373083,
-    "wof:lastmodified":1582340821,
+    "wof:lastmodified":1695879501,
     "wof:name":"Fuxerna",
     "wof:parent_id":1159303279,
     "wof:placetype":"localadmin",

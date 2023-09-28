@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007508,
-    "geom:area_square_m":52021936.991872,
+    "geom:area_square_m":52021936.991877,
     "geom:bbox":"13.1037648141,55.8851285702,13.2987839787,55.9637710315",
     "geom:latitude":55.921072,
     "geom:longitude":13.195835,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.924095,
     "lbl:longitude":13.179583,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101237"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734106,
-    "wof:geomhash":"69e5d7621fa552a761fa76767e52f19b",
+    "wof:geomhash":"2c26b8f519a9da8ae8d056d298d63acf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306663,
-    "wof:lastmodified":1566643222,
+    "wof:lastmodified":1695879404,
     "wof:name":"Torrlosa",
     "wof:parent_id":1159303189,
     "wof:placetype":"localadmin",

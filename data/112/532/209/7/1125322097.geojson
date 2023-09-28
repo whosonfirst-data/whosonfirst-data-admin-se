@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":24458,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.541645,
     "lbl:longitude":18.07843,
     "lbl:max_zoom":14.0,
@@ -124,14 +133,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8133074,
-        "qs_pg:id":758494
+        "qs_pg:id":758494,
+        "se-lant:code":"215064"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497044590,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"e4447995f097a26ef568513fccff1b33",
+    "wof:geomhash":"57cbe3b8f37d50285c7b329c7b15db50",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -142,7 +153,7 @@
         }
     ],
     "wof:id":1125322097,
-    "wof:lastmodified":1582340772,
+    "wof:lastmodified":1695879464,
     "wof:name":"Vallentuna",
     "wof:parent_id":1159303513,
     "wof:placetype":"localadmin",

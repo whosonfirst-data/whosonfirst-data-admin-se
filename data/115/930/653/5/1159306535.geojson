@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007338,
-    "geom:area_square_m":45648661.731377,
+    "geom:area_square_m":45648661.731371,
     "geom:bbox":"17.7569922921,59.7560753143,17.9444741743,59.8239864604",
     "geom:latitude":59.793557,
     "geom:longitude":17.84048,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.790508,
     "lbl:longitude":17.826294,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"215137"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734071,
-    "wof:geomhash":"af2f7c17a9a89194461678a0811cf092",
+    "wof:geomhash":"b8fe62633e163dcaf1c35cb60d8dea52",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306535,
-    "wof:lastmodified":1566643339,
+    "wof:lastmodified":1695879426,
     "wof:name":"Lagga",
     "wof:parent_id":1159303267,
     "wof:placetype":"localadmin",

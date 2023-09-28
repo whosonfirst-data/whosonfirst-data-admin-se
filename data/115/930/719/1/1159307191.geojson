@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014214,
-    "geom:area_square_m":88636229.234875,
+    "geom:area_square_m":88636229.234877,
     "geom:bbox":"16.2809117753,59.6631130538,16.5251997451,59.7637421508",
     "geom:latitude":59.715586,
     "geom:longitude":16.398852,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.71334,
     "lbl:longitude":16.407161,
     "lbl:max_zoom":18.0,
@@ -63,9 +72,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"214048"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734246,
-    "wof:geomhash":"c24ccfeb55d797bb82293a7e1c48c43f",
+    "wof:geomhash":"2b2cc82682d02c36fc5c919a3a1076fa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +89,7 @@
         }
     ],
     "wof:id":1159307191,
-    "wof:lastmodified":1566643364,
+    "wof:lastmodified":1695879430,
     "wof:name":"Skultuna",
     "wof:parent_id":1159303331,
     "wof:placetype":"localadmin",

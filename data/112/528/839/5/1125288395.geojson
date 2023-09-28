@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008081,
-    "geom:area_square_m":55009025.473457,
+    "geom:area_square_m":55009025.473463,
     "geom:bbox":"12.894227104,56.5423446262,13.0505801965,56.6606552432",
     "geom:latitude":56.598384,
     "geom:longitude":12.977792,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":4571,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.58746,
     "lbl:longitude":12.985475,
     "lbl:max_zoom":15.0,
@@ -82,14 +91,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131603,
-        "qs_pg:id":757612
+        "qs_pg:id":757612,
+        "se-lant:code":"104010"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497042808,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"0b2ba079f80be54a7acb98a59cb3e465",
+    "wof:geomhash":"2ef92f4cef442100f5c6253d869e1f61",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -100,7 +111,7 @@
         }
     ],
     "wof:id":1125288395,
-    "wof:lastmodified":1582340796,
+    "wof:lastmodified":1695879484,
     "wof:name":"Eldsberga",
     "wof:parent_id":1159303343,
     "wof:placetype":"localadmin",

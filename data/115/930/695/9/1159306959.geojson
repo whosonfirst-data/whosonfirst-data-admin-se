@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004574,
-    "geom:area_square_m":31907589.750199,
+    "geom:area_square_m":31907589.750198,
     "geom:bbox":"13.9473325358,55.6287115977,14.0724660948,55.6955622438",
     "geom:latitude":55.65913,
     "geom:longitude":14.012758,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.654939,
     "lbl:longitude":14.008484,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101148"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734188,
-    "wof:geomhash":"9ca99a2ba2cd20533a7c8042b176fdee",
+    "wof:geomhash":"a32ecb8e40bb872e2126f14e02d509af",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306959,
-    "wof:lastmodified":1566643224,
+    "wof:lastmodified":1695879404,
     "wof:name":"Fageltofta",
     "wof:parent_id":1159302959,
     "wof:placetype":"localadmin",

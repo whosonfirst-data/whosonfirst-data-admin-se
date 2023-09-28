@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008204,
-    "geom:area_square_m":54335653.938927,
+    "geom:area_square_m":54335653.938929,
     "geom:bbox":"15.6034019724,57.5724563746,15.8173717941,57.6611574376",
     "geom:latitude":57.612063,
     "geom:longitude":15.714728,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":223,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.609944,
     "lbl:longitude":15.716396,
     "lbl:max_zoom":17.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132704,
-        "qs_pg:id":758302
+        "qs_pg:id":758302,
+        "se-lant:code":"105228"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497042289,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"d25680cceff23d7f8dcdade83d81ba09",
+    "wof:geomhash":"dcf42d589da47371e9720a657847367e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125275387,
-    "wof:lastmodified":1582340804,
+    "wof:lastmodified":1695879489,
     "wof:name":"Pelarne",
     "wof:parent_id":1159303159,
     "wof:placetype":"localadmin",

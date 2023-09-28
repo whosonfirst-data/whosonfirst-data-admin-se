@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001475,
-    "geom:area_square_m":10354405.066461,
+    "geom:area_square_m":10354405.066464,
     "geom:bbox":"13.1632964995,55.3882173316,13.2329664871,55.4284140957",
     "geom:latitude":55.406249,
     "geom:longitude":13.203589,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.408974,
     "lbl:longitude":13.20702,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101026"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734317,
-    "wof:geomhash":"f22afca6166946a08c9a63536910d753",
+    "wof:geomhash":"051ffe0469b1a861015fb7e42e8a8fac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307455,
-    "wof:lastmodified":1566643378,
+    "wof:lastmodified":1695879432,
     "wof:name":"Gylle",
     "wof:parent_id":1159303309,
     "wof:placetype":"localadmin",

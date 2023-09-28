@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000874,
-    "geom:area_square_m":6136232.383055,
+    "geom:area_square_m":6136232.383054,
     "geom:bbox":"13.0898224208,55.3796161361,13.1522517448,55.4073309221",
     "geom:latitude":55.395111,
     "geom:longitude":13.114963,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.393937,
     "lbl:longitude":13.107607,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101023"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734268,
-    "wof:geomhash":"9b3661ea9f94b9cf020258de3c32b55e",
+    "wof:geomhash":"f86bbf7d6cdb3cf3e6c33f6877eaae42",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307287,
-    "wof:lastmodified":1566643366,
+    "wof:lastmodified":1695879431,
     "wof:name":"Vastra Tommarp",
     "wof:parent_id":1159303309,
     "wof:placetype":"localadmin",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004483,
-    "geom:area_square_m":30050419.873848,
+    "geom:area_square_m":30050419.873844,
     "geom:bbox":"12.3182589705,57.1436550673,12.4329802474,57.2137620158",
     "geom:latitude":57.173446,
     "geom:longitude":12.378707,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":726,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.170082,
     "lbl:longitude":12.382611,
     "lbl:max_zoom":17.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132561,
-        "qs_pg:id":758224
+        "qs_pg:id":758224,
+        "se-lant:code":"104067"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497051607,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"460581ce745069cad345cac3de5d7da3",
+    "wof:geomhash":"3997c5c18954c6bf0cc8e7408188966b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125417529,
-    "wof:lastmodified":1582340868,
+    "wof:lastmodified":1695879534,
     "wof:name":"Valinge",
     "wof:parent_id":1159302939,
     "wof:placetype":"localadmin",

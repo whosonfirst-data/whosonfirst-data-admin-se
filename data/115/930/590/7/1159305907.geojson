@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009169,
-    "geom:area_square_m":57660039.375819,
+    "geom:area_square_m":57660039.375817,
     "geom:bbox":"16.2451370834,59.3921576778,16.4286994849,59.4672847858",
     "geom:latitude":59.430451,
     "geom:longitude":16.33444,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.424283,
     "lbl:longitude":16.325296,
     "lbl:max_zoom":18.0,
@@ -54,9 +63,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"212109"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733903,
-    "wof:geomhash":"c9f7fcadb74310e1a3fef1483c70c2b6",
+    "wof:geomhash":"b6295aa14ed32cd33d0be92d59b25503",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,7 +80,7 @@
         }
     ],
     "wof:id":1159305907,
-    "wof:lastmodified":1566643274,
+    "wof:lastmodified":1695879412,
     "wof:name":"Tumbo",
     "wof:parent_id":1159303207,
     "wof:placetype":"localadmin",

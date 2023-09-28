@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.155857,
-    "geom:area_square_m":942319622.91349,
+    "geom:area_square_m":942319622.913567,
     "geom:bbox":"14.3634154878,60.5466584863,15.6370647644,60.9073304225",
     "geom:latitude":60.727859,
     "geom:longitude":14.95287,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":10038,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":60.761731,
     "lbl:longitude":15.071979,
     "lbl:max_zoom":15.0,
@@ -118,14 +127,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132718,
-        "qs_pg:id":381413
+        "qs_pg:id":381413,
+        "se-lant:code":"217036"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497048115,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"fd580837aa294135f07fc28218e09df7",
+    "wof:geomhash":"bd2f05eaa77c6c6bc244d23daff20333",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -136,7 +147,7 @@
         }
     ],
     "wof:id":1125382219,
-    "wof:lastmodified":1582340845,
+    "wof:lastmodified":1695879518,
     "wof:name":"Leksand",
     "wof:parent_id":1159303237,
     "wof:placetype":"localadmin",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002404,
-    "geom:area_square_m":16598107.476663,
+    "geom:area_square_m":16598107.47666,
     "geom:bbox":"12.8004057634,56.0398317987,12.9174020446,56.0869951764",
     "geom:latitude":56.061036,
     "geom:longitude":12.862503,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":2420,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.064109,
     "lbl:longitude":12.865876,
     "lbl:max_zoom":15.0,
@@ -61,14 +70,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132402,
-        "qs_pg:id":758123
+        "qs_pg:id":758123,
+        "se-lant:code":"101290"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497046623,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"344556e5ec82e270e2fcc47fe2d4bdb3",
+    "wof:geomhash":"ddb466ce7a443ba586a8a79c025a4165",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +90,7 @@
         }
     ],
     "wof:id":1125358365,
-    "wof:lastmodified":1582340749,
+    "wof:lastmodified":1695879448,
     "wof:name":"Morarp",
     "wof:parent_id":1159302965,
     "wof:placetype":"localadmin",

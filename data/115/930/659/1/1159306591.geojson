@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.352428,
-    "geom:area_square_m":1690780492.286466,
+    "geom:area_square_m":1690780492.286511,
     "geom:bbox":"21.8452049029,66.9193062822,23.0780996128,67.505812816",
     "geom:latitude":67.170731,
     "geom:longitude":22.385814,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":67.1577,
     "lbl:longitude":22.273884,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"325023"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734092,
-    "wof:geomhash":"9e0a8ab531ac59f8d7df6289412afdcc",
+    "wof:geomhash":"27c2f32308510db3cfa6eae2154e9a6d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306591,
-    "wof:lastmodified":1566643220,
+    "wof:lastmodified":1695879403,
     "wof:name":"Tarendo",
     "wof:parent_id":1159302953,
     "wof:placetype":"localadmin",

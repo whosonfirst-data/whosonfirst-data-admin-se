@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.42546,
-    "geom:area_square_m":2523738897.259385,
+    "geom:area_square_m":2523738897.259513,
     "geom:bbox":"13.1760966481,61.031664835,14.3549514007,61.656330334",
     "geom:latitude":61.333043,
     "geom:longitude":13.753035,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":4943,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":61.351,
     "lbl:longitude":13.810969,
     "lbl:max_zoom":15.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132724,
-        "qs_pg:id":381406
+        "qs_pg:id":381406,
+        "se-lant:code":"217050"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497048552,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"5d010bdb0a4e019bf74f083ffdfe743c",
+    "wof:geomhash":"f9b8305badb04db16d2c870509f8ce0c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125388437,
-    "wof:lastmodified":1582340847,
+    "wof:lastmodified":1695879520,
     "wof:name":"Alvdalen",
     "wof:parent_id":1159303373,
     "wof:placetype":"localadmin",

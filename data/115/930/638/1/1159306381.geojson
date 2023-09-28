@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005693,
-    "geom:area_square_m":36971832.12387,
+    "geom:area_square_m":36971832.123867,
     "geom:bbox":"16.5458968767,58.2647600499,16.7341555154,58.3659519811",
     "geom:latitude":58.319939,
     "geom:longitude":16.630572,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.333305,
     "lbl:longitude":16.614852,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"108059"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734029,
-    "wof:geomhash":"90fcee44e3e985d20fb1cdb5d57f1573",
+    "wof:geomhash":"72e0634f61305adb3d621ed1ea1303e8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306381,
-    "wof:lastmodified":1566643346,
+    "wof:lastmodified":1695879427,
     "wof:name":"Borrum",
     "wof:parent_id":1159303305,
     "wof:placetype":"localadmin",

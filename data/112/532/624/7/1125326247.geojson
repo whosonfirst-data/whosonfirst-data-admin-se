@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0041,
-    "geom:area_square_m":26711433.28407,
+    "geom:area_square_m":26711433.284072,
     "geom:bbox":"13.8384240328,58.1749165106,13.9743922495,58.2297721839",
     "geom:latitude":58.203185,
     "geom:longitude":13.898904,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":329,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.199273,
     "lbl:longitude":13.898897,
     "lbl:max_zoom":17.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8133317,
-        "qs_pg:id":758618
+        "qs_pg:id":758618,
+        "se-lant:code":"107276"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497044832,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"d57c2e59ae83e0fc91dc5e4eb4d011a4",
+    "wof:geomhash":"26ef128870b1fc01e6bd152ea58ba9fe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125326247,
-    "wof:lastmodified":1582340771,
+    "wof:lastmodified":1695879463,
     "wof:name":"Acklinga",
     "wof:parent_id":1159303037,
     "wof:placetype":"localadmin",

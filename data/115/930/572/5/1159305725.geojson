@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002276,
-    "geom:area_square_m":14661868.345145,
+    "geom:area_square_m":14661868.345144,
     "geom:bbox":"13.9035599735,58.5702023141,13.9831067263,58.6260804534",
     "geom:latitude":58.599737,
     "geom:longitude":13.945016,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.604831,
     "lbl:longitude":13.94563,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107421"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733852,
-    "wof:geomhash":"68053f6733fd8b7e5c1d990c39b7adc3",
+    "wof:geomhash":"aac07f14ba1015c56b18f48ace1b4fa8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159305725,
-    "wof:lastmodified":1566643237,
+    "wof:lastmodified":1695879406,
     "wof:name":"Sveneby",
     "wof:parent_id":1159303045,
     "wof:placetype":"localadmin",

@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001917,
-    "geom:area_square_m":12417400.127355,
+    "geom:area_square_m":12417400.127356,
     "geom:bbox":"12.845248972,58.3836303709,12.9448526769,58.4288986718",
     "geom:latitude":58.403133,
     "geom:longitude":12.907239,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.406294,
     "lbl:longitude":12.915524,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107333"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733918,
-    "wof:geomhash":"1b17ee5388f196d36d51de179c52ac09",
+    "wof:geomhash":"88e8d2b85afc6fce43fe43b191cf010f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159305969,
-    "wof:lastmodified":1566643287,
+    "wof:lastmodified":1695879415,
     "wof:name":"Haggesled",
     "wof:parent_id":1159303281,
     "wof:placetype":"localadmin",

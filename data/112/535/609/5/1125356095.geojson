@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020147,
-    "geom:area_square_m":126080131.887914,
+    "geom:area_square_m":126080131.887899,
     "geom:bbox":"13.3676881382,59.5346642719,13.6367756757,59.6610874341",
     "geom:latitude":59.595065,
     "geom:longitude":13.51956,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":4515,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.597128,
     "lbl:longitude":13.535578,
     "lbl:max_zoom":15.0,
@@ -61,14 +70,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131910,
-        "qs_pg:id":757802
+        "qs_pg:id":757802,
+        "se-lant:code":"213052"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497046480,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"d3afa3ad112fbafa76f8a92d279327cc",
+    "wof:geomhash":"156629492f00f9f03b7c2d480b51ae5a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +90,7 @@
         }
     ],
     "wof:id":1125356095,
-    "wof:lastmodified":1582340751,
+    "wof:lastmodified":1695879449,
     "wof:name":"Nedre Ullerud",
     "wof:parent_id":1159303413,
     "wof:placetype":"localadmin",

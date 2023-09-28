@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034096,
-    "geom:area_square_m":215162503.94023,
+    "geom:area_square_m":215162503.940242,
     "geom:bbox":"12.4498642891,59.2036115327,12.729905425,59.4153210593",
     "geom:latitude":59.312994,
     "geom:longitude":12.584932,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.321035,
     "lbl:longitude":12.584971,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"213019"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734333,
-    "wof:geomhash":"56f97cc27891c6154b4f0789885eb7c7",
+    "wof:geomhash":"3637308fcefe5df81de565d7f1d17452",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307519,
-    "wof:lastmodified":1566643278,
+    "wof:lastmodified":1695879413,
     "wof:name":"Langserud",
     "wof:parent_id":1159303169,
     "wof:placetype":"localadmin",

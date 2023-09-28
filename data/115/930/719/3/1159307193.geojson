@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006147,
-    "geom:area_square_m":41009506.00673,
+    "geom:area_square_m":41009506.006727,
     "geom:bbox":"18.4260720637,57.3092089769,18.5787129288,57.3818130123",
     "geom:latitude":57.350631,
     "geom:longitude":18.50147,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.348095,
     "lbl:longitude":18.508967,
     "lbl:max_zoom":18.0,
@@ -45,9 +54,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"106033"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734247,
-    "wof:geomhash":"b9bbc133a771db9b0a9a83227e23e999",
+    "wof:geomhash":"fef6bce8f2848d62e39eab6aecc6af71",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +71,7 @@
         }
     ],
     "wof:id":1159307193,
-    "wof:lastmodified":1566643364,
+    "wof:lastmodified":1695879430,
     "wof:name":"Etelhem",
     "wof:parent_id":1159303535,
     "wof:placetype":"localadmin",

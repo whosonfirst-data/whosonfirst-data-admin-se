@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017171,
-    "geom:area_square_m":108948544.838649,
+    "geom:area_square_m":108948544.838645,
     "geom:bbox":"15.0430634134,59.0633533592,15.2721255099,59.1821529081",
     "geom:latitude":59.127757,
     "geom:longitude":15.145808,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":18346,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.124657,
     "lbl:longitude":15.136597,
     "lbl:max_zoom":15.0,
@@ -145,14 +154,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132824,
-        "qs_pg:id":1246023
+        "qs_pg:id":1246023,
+        "se-lant:code":"211018"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497046950,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"e1dc245bed6aa8b70dde17a1745e603b",
+    "wof:geomhash":"44c29c8e7420fa437cb19c1a0f20f22c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -163,7 +174,7 @@
         }
     ],
     "wof:id":1125363669,
-    "wof:lastmodified":1582340860,
+    "wof:lastmodified":1695879529,
     "wof:name":"Kumla",
     "wof:parent_id":1159303127,
     "wof:placetype":"localadmin",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008332,
-    "geom:area_square_m":54824588.147428,
+    "geom:area_square_m":54824588.147436,
     "geom:bbox":"18.9349480198,57.807492191,19.1369968509,57.8918992758",
     "geom:latitude":57.849892,
     "geom:longitude":19.037456,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":918,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.852355,
     "lbl:longitude":19.038957,
     "lbl:max_zoom":17.0,
@@ -85,14 +94,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132507,
-        "qs_pg:id":758185
+        "qs_pg:id":758185,
+        "se-lant:code":"106089"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497051519,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"e99cb35c3fca922e7c086bbcd7dc21ac",
+    "wof:geomhash":"9658d0a030ad5f6bcb4e0af9fc0644b6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -103,7 +114,7 @@
         }
     ],
     "wof:id":1125416989,
-    "wof:lastmodified":1582340874,
+    "wof:lastmodified":1695879551,
     "wof:name":"Bunge",
     "wof:parent_id":1159303535,
     "wof:placetype":"localadmin",

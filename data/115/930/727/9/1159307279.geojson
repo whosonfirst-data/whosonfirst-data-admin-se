@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004056,
-    "geom:area_square_m":26679261.482361,
+    "geom:area_square_m":26679261.482356,
     "geom:bbox":"13.5114874966,57.8363219746,13.6415422854,57.8961865929",
     "geom:latitude":57.862655,
     "geom:longitude":13.578866,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.864667,
     "lbl:longitude":13.58324,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107129"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734266,
-    "wof:geomhash":"c7a7608a1d6089772a93ef87d8d35b12",
+    "wof:geomhash":"daed54a6e3ef22d5bdfc34702d222fc7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307279,
-    "wof:lastmodified":1566643384,
+    "wof:lastmodified":1695879434,
     "wof:name":"Knatte",
     "wof:parent_id":1159303161,
     "wof:placetype":"localadmin",

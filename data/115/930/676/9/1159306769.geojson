@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002995,
-    "geom:area_square_m":20812286.477348,
+    "geom:area_square_m":20812286.477345,
     "geom:bbox":"13.2800907449,55.7753855571,13.3691714554,55.8474719436",
     "geom:latitude":55.804543,
     "geom:longitude":13.331685,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.800917,
     "lbl:longitude":13.331015,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101202"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734130,
-    "wof:geomhash":"5fc8c6a621cefb9d22cd95e923bcb7b9",
+    "wof:geomhash":"cd71daf21dc595aad0ecebf3b4dcf59c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306769,
-    "wof:lastmodified":1566643300,
+    "wof:lastmodified":1695879417,
     "wof:name":"Borlunda-Skeglinge",
     "wof:parent_id":1159303151,
     "wof:placetype":"localadmin",

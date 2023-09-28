@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040923,
-    "geom:area_square_m":248631852.576163,
+    "geom:area_square_m":248631852.57618,
     "geom:bbox":"17.2878083764,60.4467720518,17.7079763303,60.6675756996",
     "geom:latitude":60.570648,
     "geom:longitude":17.471464,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":9064,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":60.531291,
     "lbl:longitude":17.404764,
     "lbl:max_zoom":15.0,
@@ -61,14 +70,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132131,
-        "qs_pg:id":757958
+        "qs_pg:id":757958,
+        "se-lant:code":"215204"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497046486,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"0c6d7fd5acd2efda214da5061119ea50",
+    "wof:geomhash":"d3f702c143257a28d5af127423d6abbd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +90,7 @@
         }
     ],
     "wof:id":1125356219,
-    "wof:lastmodified":1582340739,
+    "wof:lastmodified":1695879439,
     "wof:name":"Alvkarleby",
     "wof:parent_id":1159303107,
     "wof:placetype":"localadmin",

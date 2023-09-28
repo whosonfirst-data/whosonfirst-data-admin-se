@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.071568,
-    "geom:area_square_m":433913860.042649,
+    "geom:area_square_m":433913860.042674,
     "geom:bbox":"16.1976445963,60.4917261855,16.7575376319,60.7867936338",
     "geom:latitude":60.638052,
     "geom:longitude":16.508816,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":9028,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":60.663047,
     "lbl:longitude":16.462749,
     "lbl:max_zoom":15.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132487,
-        "qs_pg:id":758167
+        "qs_pg:id":758167,
+        "se-lant:code":"316006"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497044779,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"d484065d57556d54a2089c99d41554ba",
+    "wof:geomhash":"0543556a069d1d08190ceb94ebdfc4b4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125325425,
-    "wof:lastmodified":1582340765,
+    "wof:lastmodified":1695879458,
     "wof:name":"Ovansjo",
     "wof:parent_id":1159303303,
     "wof:placetype":"localadmin",

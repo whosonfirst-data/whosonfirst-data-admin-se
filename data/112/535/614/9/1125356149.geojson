@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027583,
-    "geom:area_square_m":170782483.816504,
+    "geom:area_square_m":170782483.816505,
     "geom:bbox":"16.733698723,59.8630994358,17.0560668871,60.0334172585",
     "geom:latitude":59.951681,
     "geom:longitude":16.875555,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":3436,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.933833,
     "lbl:longitude":16.864545,
     "lbl:max_zoom":15.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131969,
-        "qs_pg:id":757850
+        "qs_pg:id":757850,
+        "se-lant:code":"215147"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497046482,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"5d49cbf61b09ca6a76ae5cc1061da519",
+    "wof:geomhash":"2dcc445abd231bcda66e40440ae0d488",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125356149,
-    "wof:lastmodified":1582340746,
+    "wof:lastmodified":1695879445,
     "wof:name":"Vasterlovsta",
     "wof:parent_id":1159303349,
     "wof:placetype":"localadmin",

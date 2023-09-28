@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001209,
-    "geom:area_square_m":7327542.996661,
+    "geom:area_square_m":7327542.99666,
     "geom:bbox":"17.1154376906,60.6225582833,17.1590005719,60.6673683687",
     "geom:latitude":60.645729,
     "geom:longitude":17.13353,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":10732,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":60.649896,
     "lbl:longitude":17.130934,
     "lbl:max_zoom":15.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132334,
-        "qs_pg:id":758059
+        "qs_pg:id":758059,
+        "se-lant:code":"316009"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497052310,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"95defd41fd97dc6ff2a03b89cbc15daf",
+    "wof:geomhash":"2aa72067cc18944a76a177a66e3d47d6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125421387,
-    "wof:lastmodified":1582340815,
+    "wof:lastmodified":1695879497,
     "wof:name":"Gavle Tomas",
     "wof:parent_id":1159303225,
     "wof:placetype":"localadmin",

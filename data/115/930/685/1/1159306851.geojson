@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006191,
-    "geom:area_square_m":42711635.0498,
+    "geom:area_square_m":42711635.049802,
     "geom:bbox":"14.2930729228,56.0405816517,14.436750759,56.1478764662",
     "geom:latitude":56.088325,
     "geom:longitude":14.353816,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.085067,
     "lbl:longitude":14.350511,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101312"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734154,
-    "wof:geomhash":"5da220b55c73629e225c196f41a34640",
+    "wof:geomhash":"576af4043f6fe5eccf92c6d73819946b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306851,
-    "wof:lastmodified":1566643303,
+    "wof:lastmodified":1695879418,
     "wof:name":"Kiaby",
     "wof:parent_id":1159303497,
     "wof:placetype":"localadmin",

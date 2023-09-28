@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005386,
-    "geom:area_square_m":34085727.275887,
+    "geom:area_square_m":34085727.275891,
     "geom:bbox":"18.02583168,59.1824250793,18.1831400563,59.2424068722",
     "geom:latitude":59.215046,
     "geom:longitude":18.107123,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":23110,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.213207,
     "lbl:longitude":18.121425,
     "lbl:max_zoom":14.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131682,
-        "qs_pg:id":381289
+        "qs_pg:id":381289,
+        "se-lant:code":"212077"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497048090,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"a73c7aeb0d897436cae2d3e053eb991e",
+    "wof:geomhash":"6bc0110fcb7c80f896fc7789d0053e13",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125381793,
-    "wof:lastmodified":1582340854,
+    "wof:lastmodified":1695879525,
     "wof:name":"Trangsund",
     "wof:parent_id":1159303105,
     "wof:placetype":"localadmin",

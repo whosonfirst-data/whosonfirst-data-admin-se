@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004249,
-    "geom:area_square_m":28641801.092001,
+    "geom:area_square_m":28641801.092003,
     "geom:bbox":"18.2568835195,56.929529764,18.3758710048,57.0023240947",
     "geom:latitude":56.969719,
     "geom:longitude":18.315655,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.965492,
     "lbl:longitude":18.314756,
     "lbl:max_zoom":18.0,
@@ -54,9 +63,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"106003"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733934,
-    "wof:geomhash":"b9decb0c5675fc2910d958d7d29fb265",
+    "wof:geomhash":"f4774dc3679272e2454133a312051de2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,7 +80,7 @@
         }
     ],
     "wof:id":1159306039,
-    "wof:lastmodified":1566643216,
+    "wof:lastmodified":1695879403,
     "wof:name":"Hamra",
     "wof:parent_id":1159303535,
     "wof:placetype":"localadmin",

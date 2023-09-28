@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013021,
-    "geom:area_square_m":83785260.787191,
+    "geom:area_square_m":83785260.787189,
     "geom:bbox":"12.4416546781,58.5953787971,12.6996069523,58.6850253844",
     "geom:latitude":58.641871,
     "geom:longitude":12.572099,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":495,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.65291,
     "lbl:longitude":12.58084,
     "lbl:max_zoom":17.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132258,
-        "qs_pg:id":109416
+        "qs_pg:id":109416,
+        "se-lant:code":"110013"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497052664,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"582110d9fa1f828b1243ce8d555ff098",
+    "wof:geomhash":"8c68232c53a4ddb38cc9bed9478b25d0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125423265,
-    "wof:lastmodified":1582340818,
+    "wof:lastmodified":1695879499,
     "wof:name":"Grinstad",
     "wof:parent_id":1159303445,
     "wof:placetype":"localadmin",

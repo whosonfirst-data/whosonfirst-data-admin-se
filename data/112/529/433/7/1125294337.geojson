@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012774,
-    "geom:area_square_m":85938492.846588,
+    "geom:area_square_m":85938492.846594,
     "geom:bbox":"14.5062386888,56.961262234,14.6475766388,57.115149182",
     "geom:latitude":57.03834,
     "geom:longitude":14.576858,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":2889,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.040503,
     "lbl:longitude":14.578195,
     "lbl:max_zoom":15.0,
@@ -88,14 +97,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132764,
-        "qs_pg:id":1246018
+        "qs_pg:id":1246018,
+        "se-lant:code":"105124"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497043068,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"eb8b390cefc046ee890c6c57fe86e414",
+    "wof:geomhash":"f237a354da86f704823724b36aa86761",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -106,7 +117,7 @@
         }
     ],
     "wof:id":1125294337,
-    "wof:lastmodified":1582340808,
+    "wof:lastmodified":1695879493,
     "wof:name":"Moheda",
     "wof:parent_id":1159303407,
     "wof:placetype":"localadmin",

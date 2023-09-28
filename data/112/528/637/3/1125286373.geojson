@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000139,
-    "geom:area_square_m":874151.089098,
+    "geom:area_square_m":874151.089096,
     "geom:bbox":"18.0441819449,59.3358452156,18.0724854506,59.3562340468",
     "geom:latitude":59.347009,
     "geom:longitude":18.056858,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":11402,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.347951,
     "lbl:longitude":18.055894,
     "lbl:max_zoom":15.0,
@@ -61,14 +70,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131763,
-        "qs_pg:id":757702
+        "qs_pg:id":757702,
+        "se-lant:code":"215025"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497042719,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"ae4d4efa9fd34b89b780405594e51b5f",
+    "wof:geomhash":"0379ce6181bf91f6b810fec44f3bd627",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +90,7 @@
         }
     ],
     "wof:id":1125286373,
-    "wof:lastmodified":1582340795,
+    "wof:lastmodified":1695879483,
     "wof:name":"Stockholms Sankt Johannes",
     "wof:parent_id":1159303035,
     "wof:placetype":"localadmin",

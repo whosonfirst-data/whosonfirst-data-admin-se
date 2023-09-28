@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002365,
-    "geom:area_square_m":15301973.249951,
+    "geom:area_square_m":15301973.249952,
     "geom:bbox":"13.662898442,58.4235499664,13.7517268029,58.4641966775",
     "geom:latitude":58.443714,
     "geom:longitude":13.706667,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.445866,
     "lbl:longitude":13.711953,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107355"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733989,
-    "wof:geomhash":"aae4a0e6253c7e5ef9a12fcd5404b42c",
+    "wof:geomhash":"a7d7277b396f8d042cb6453fe7bf40e5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306275,
-    "wof:lastmodified":1566643195,
+    "wof:lastmodified":1695879399,
     "wof:name":"Oglunda",
     "wof:parent_id":1159303479,
     "wof:placetype":"localadmin",

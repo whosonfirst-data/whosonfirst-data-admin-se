@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006907,
-    "geom:area_square_m":47847972.438217,
+    "geom:area_square_m":47847972.438224,
     "geom:bbox":"13.6110311416,55.8876550574,13.7709870859,55.9609983954",
     "geom:latitude":55.927916,
     "geom:longitude":13.689423,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.927035,
     "lbl:longitude":13.705447,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101243"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734257,
-    "wof:geomhash":"28d4dffeef3fcc52f2ceb815f2588d25",
+    "wof:geomhash":"1baa66fed17c67847e198d5cd12d893a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307237,
-    "wof:lastmodified":1566643252,
+    "wof:lastmodified":1695879409,
     "wof:name":"Sodra Rorum",
     "wof:parent_id":1159303277,
     "wof:placetype":"localadmin",

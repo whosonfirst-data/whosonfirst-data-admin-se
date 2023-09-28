@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002081,
-    "geom:area_square_m":13508182.527833,
+    "geom:area_square_m":13508182.527832,
     "geom:bbox":"12.6862518098,58.3104066044,12.7704178695,58.3662703583",
     "geom:latitude":58.342878,
     "geom:longitude":12.718755,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.343079,
     "lbl:longitude":12.714626,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107291"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734280,
-    "wof:geomhash":"c81a2a0bb696bf1d24f10215246e04ea",
+    "wof:geomhash":"3286132f46df171bd14beb9a79444355",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307313,
-    "wof:lastmodified":1566643169,
+    "wof:lastmodified":1695879393,
     "wof:name":"Bjarby",
     "wof:parent_id":1159303421,
     "wof:placetype":"localadmin",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014653,
-    "geom:area_square_m":99096595.240187,
+    "geom:area_square_m":99096595.240195,
     "geom:bbox":"14.8578888701,56.7826712356,15.0238921808,56.9253608774",
     "geom:latitude":56.844595,
     "geom:longitude":14.944877,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":1485,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.841859,
     "lbl:longitude":14.946427,
     "lbl:max_zoom":16.0,
@@ -61,14 +70,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131825,
-        "qs_pg:id":757745
+        "qs_pg:id":757745,
+        "se-lant:code":"105086"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497051602,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"14a346c220bf883c8b7480e3eb5302d9",
+    "wof:geomhash":"f00e860840c0429b82a2477bbd75be1e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +90,7 @@
         }
     ],
     "wof:id":1125417495,
-    "wof:lastmodified":1582340870,
+    "wof:lastmodified":1695879538,
     "wof:name":"Hemmesjo-Tegnaby",
     "wof:parent_id":1159302917,
     "wof:placetype":"localadmin",

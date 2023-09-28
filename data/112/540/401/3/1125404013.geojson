@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005984,
-    "geom:area_square_m":39005055.363352,
+    "geom:area_square_m":39005055.363354,
     "geom:bbox":"11.9027719725,58.1492963452,12.0433205798,58.2344680573",
     "geom:latitude":58.189992,
     "geom:longitude":11.9727,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":442,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.176301,
     "lbl:longitude":11.961018,
     "lbl:max_zoom":17.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8133281,
-        "qs_pg:id":109608
+        "qs_pg:id":109608,
+        "se-lant:code":"109042"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497049515,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"5b9cd26fb98267edf7a3675f3e3cca43",
+    "wof:geomhash":"5227bcee5333dc5aa5d874023340008d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125404013,
-    "wof:lastmodified":1582340866,
+    "wof:lastmodified":1695879533,
     "wof:name":"Grinnerod",
     "wof:parent_id":1159303355,
     "wof:placetype":"localadmin",

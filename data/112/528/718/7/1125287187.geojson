@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011762,
-    "geom:area_square_m":77463048.073308,
+    "geom:area_square_m":77463048.073325,
     "geom:bbox":"12.9180835147,57.7481376875,13.1155346646,57.8838664341",
     "geom:latitude":57.817366,
     "geom:longitude":13.01537,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":7134,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.806837,
     "lbl:longitude":13.008648,
     "lbl:max_zoom":15.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132084,
-        "qs_pg:id":757932
+        "qs_pg:id":757932,
+        "se-lant:code":"107103"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497042756,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"1a9aa102f4fe4e4855529f83f177184e",
+    "wof:geomhash":"d333a06765944b85b160ef7b115308f9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125287187,
-    "wof:lastmodified":1582340799,
+    "wof:lastmodified":1695879486,
     "wof:name":"Fristad-Gingri",
     "wof:parent_id":1159303073,
     "wof:placetype":"localadmin",

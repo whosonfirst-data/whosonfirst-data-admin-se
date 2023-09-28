@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.050297,
-    "geom:area_square_m":329100129.194937,
+    "geom:area_square_m":329100129.194945,
     "geom:bbox":"14.2282408819,57.938952828,14.623042784,58.1910632162",
     "geom:latitude":58.051319,
     "geom:longitude":14.447985,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":3943,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.037527,
     "lbl:longitude":14.487175,
     "lbl:max_zoom":15.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132629,
-        "qs_pg:id":381389
+        "qs_pg:id":381389,
+        "se-lant:code":"105280"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497048111,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"242f650154eb98310d4455f034805326",
+    "wof:geomhash":"38f9a6e2bd1e4308529ead4a19925f79",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125382151,
-    "wof:lastmodified":1582340851,
+    "wof:lastmodified":1695879522,
     "wof:name":"Granna",
     "wof:parent_id":1159303375,
     "wof:placetype":"localadmin",

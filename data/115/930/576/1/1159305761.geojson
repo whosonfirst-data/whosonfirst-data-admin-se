@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004112,
-    "geom:area_square_m":27747423.843092,
+    "geom:area_square_m":27747423.843091,
     "geom:bbox":"18.1111564377,56.9012174286,18.2283301609,56.9618650419",
     "geom:latitude":56.924678,
     "geom:longitude":18.170718,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.925765,
     "lbl:longitude":18.165831,
     "lbl:max_zoom":18.0,
@@ -54,9 +63,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"106001"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733861,
-    "wof:geomhash":"345a02df8a0a1470497817152b04f453",
+    "wof:geomhash":"d5530274c3212a50d9ac7820757f031b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,7 +80,7 @@
         }
     ],
     "wof:id":1159305761,
-    "wof:lastmodified":1566643354,
+    "wof:lastmodified":1695879429,
     "wof:name":"Sundre",
     "wof:parent_id":1159303535,
     "wof:placetype":"localadmin",

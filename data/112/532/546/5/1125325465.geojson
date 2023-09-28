@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004295,
-    "geom:area_square_m":28755656.152757,
+    "geom:area_square_m":28755656.152758,
     "geom:bbox":"18.1437262295,57.1853938498,18.2876612863,57.2469810818",
     "geom:latitude":57.220058,
     "geom:longitude":18.216409,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":130,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.224552,
     "lbl:longitude":18.216382,
     "lbl:max_zoom":18.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132536,
-        "qs_pg:id":758204
+        "qs_pg:id":758204,
+        "se-lant:code":"106010"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497044783,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"574123482d1a3ba08fd5a0059a2c3f04",
+    "wof:geomhash":"44b7cbe06f42c1cec905f87cb5e3f888",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125325465,
-    "wof:lastmodified":1582340777,
+    "wof:lastmodified":1695879471,
     "wof:name":"Silte",
     "wof:parent_id":1159303535,
     "wof:placetype":"localadmin",

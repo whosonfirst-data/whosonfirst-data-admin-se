@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006901,
-    "geom:area_square_m":46010245.913337,
+    "geom:area_square_m":46010245.913339,
     "geom:bbox":"12.497609896,57.3246781878,12.6411364595,57.4236247705",
     "geom:latitude":57.372159,
     "geom:longitude":12.57176,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.365002,
     "lbl:longitude":12.566899,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107016"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733915,
-    "wof:geomhash":"6dbf3f383581d3f514c5a6cacd3a443e",
+    "wof:geomhash":"a14be78c3e44c9f3830f6e11eb5431a3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159305953,
-    "wof:lastmodified":1566643159,
+    "wof:lastmodified":1695879392,
     "wof:name":"Oxnevalla",
     "wof:parent_id":1159302961,
     "wof:placetype":"localadmin",

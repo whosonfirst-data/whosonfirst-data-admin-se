@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017907,
-    "geom:area_square_m":117233883.433819,
+    "geom:area_square_m":117233883.433806,
     "geom:bbox":"14.5930877073,57.9394420833,14.7652449166,58.1011514824",
     "geom:latitude":58.030418,
     "geom:longitude":14.679033,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":445,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.029367,
     "lbl:longitude":14.677379,
     "lbl:max_zoom":17.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131939,
-        "qs_pg:id":757828
+        "qs_pg:id":757828,
+        "se-lant:code":"105281"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497051603,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"76cb51517da261126de5a950d287529e",
+    "wof:geomhash":"dc3489a0b57a48f330bd6970b455bcae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125417509,
-    "wof:lastmodified":1582340873,
+    "wof:lastmodified":1695879550,
     "wof:name":"Adelov",
     "wof:parent_id":1159303319,
     "wof:placetype":"localadmin",

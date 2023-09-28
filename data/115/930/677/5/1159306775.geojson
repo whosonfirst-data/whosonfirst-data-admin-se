@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.290727,
-    "geom:area_square_m":1355900168.726233,
+    "geom:area_square_m":1355900168.726229,
     "geom:bbox":"22.4671913981,67.6289945823,23.6648261651,68.1544562065",
     "geom:latitude":67.841157,
     "geom:longitude":23.16251,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":67.844908,
     "lbl:longitude":23.221712,
     "lbl:max_zoom":18.0,
@@ -51,9 +60,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"325026"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734131,
-    "wof:geomhash":"ec9c6b0d6bdc26104d3456e9fd886840",
+    "wof:geomhash":"84d6ad3e0596e7c2152affd51e062182",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -64,7 +77,7 @@
         }
     ],
     "wof:id":1159306775,
-    "wof:lastmodified":1566643319,
+    "wof:lastmodified":1695879422,
     "wof:name":"Muonionalusta",
     "wof:parent_id":1159302953,
     "wof:placetype":"localadmin",

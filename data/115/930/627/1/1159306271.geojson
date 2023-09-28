@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.168591,
-    "geom:area_square_m":939984285.72799,
+    "geom:area_square_m":939984285.728055,
     "geom:bbox":"15.7377703711,62.9935988494,16.676461864,63.4185132717",
     "geom:latitude":63.198219,
     "geom:longitude":16.210434,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":63.198255,
     "lbl:longitude":16.21036,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"322029"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733987,
-    "wof:geomhash":"703d17e2dfe2fcc527f72967e5f35513",
+    "wof:geomhash":"623f5a2132036902ec2e5bcca259f243",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306271,
-    "wof:lastmodified":1566643194,
+    "wof:lastmodified":1695879399,
     "wof:name":"Ragunda",
     "wof:parent_id":1159303013,
     "wof:placetype":"localadmin",

@@ -10,6 +10,15 @@
     "geom:latitude":55.788119,
     "geom:longitude":13.558035,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.784559,
     "lbl:longitude":13.553477,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101210"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733836,
-    "wof:geomhash":"8837cd05200c10fc8f3e659e13f1709c",
+    "wof:geomhash":"2d1c93016d863bf18d738910057d9449",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159305657,
-    "wof:lastmodified":1566643291,
+    "wof:lastmodified":1695879415,
     "wof:name":"Hogserod",
     "wof:parent_id":1159303151,
     "wof:placetype":"localadmin",

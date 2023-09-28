@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010815,
-    "geom:area_square_m":70722329.812101,
+    "geom:area_square_m":70722329.812097,
     "geom:bbox":"12.0339961671,58.0083561924,12.1501250261,58.1346782975",
     "geom:latitude":58.071252,
     "geom:longitude":12.093499,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":1402,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.069619,
     "lbl:longitude":12.093498,
     "lbl:max_zoom":16.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8133229,
-        "qs_pg:id":758563
+        "qs_pg:id":758563,
+        "se-lant:code":"109034"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497046626,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"da8778b528fc57bac705ff760241767d",
+    "wof:geomhash":"bf348bcea43d96105995ab4b7a149180",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125358435,
-    "wof:lastmodified":1582340741,
+    "wof:lastmodified":1695879441,
     "wof:name":"Vasterlanda",
     "wof:parent_id":1159303279,
     "wof:placetype":"localadmin",

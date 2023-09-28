@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002254,
-    "geom:area_square_m":14611515.793136,
+    "geom:area_square_m":14611515.793137,
     "geom:bbox":"14.7818234509,58.3583252728,14.8637695979,58.4129498487",
     "geom:latitude":58.388469,
     "geom:longitude":14.823627,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.394585,
     "lbl:longitude":14.81176,
     "lbl:max_zoom":18.0,
@@ -54,9 +63,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"108062"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734147,
-    "wof:geomhash":"3d20c60c919c3c3ca0a0f0e0f1ec142a",
+    "wof:geomhash":"aee6797902cfe8357105f048ca7eedfb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,7 +80,7 @@
         }
     ],
     "wof:id":1159306825,
-    "wof:lastmodified":1566643302,
+    "wof:lastmodified":1695879418,
     "wof:name":"Herrestad",
     "wof:parent_id":1159303411,
     "wof:placetype":"localadmin",

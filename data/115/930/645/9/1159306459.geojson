@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000833,
-    "geom:area_square_m":5844881.115925,
+    "geom:area_square_m":5844881.115926,
     "geom:bbox":"13.4453577305,55.4133371516,13.4896401829,55.446855973",
     "geom:latitude":55.429556,
     "geom:longitude":13.468828,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.429146,
     "lbl:longitude":13.471029,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101035"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734050,
-    "wof:geomhash":"aacc2280fc3ba0d321c8c301bdc2931b",
+    "wof:geomhash":"abe62af2e78b98d7e76bf525efd18828",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306459,
-    "wof:lastmodified":1566643186,
+    "wof:lastmodified":1695879397,
     "wof:name":"Vastra Vemmenhog",
     "wof:parent_id":1159303379,
     "wof:placetype":"localadmin",

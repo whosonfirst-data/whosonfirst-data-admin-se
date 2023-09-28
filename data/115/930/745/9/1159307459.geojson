@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002981,
-    "geom:area_square_m":19713777.081695,
+    "geom:area_square_m":19713777.08169,
     "geom:bbox":"11.8199950975,57.6440884833,11.9149482614,57.6889076108",
     "geom:latitude":57.667794,
     "geom:longitude":11.861018,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.664928,
     "lbl:longitude":11.852427,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107057"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734318,
-    "wof:geomhash":"9163481e570d1c258b6e44905b505355",
+    "wof:geomhash":"c1e21910c21f906a5b5c1dfba38ef671",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307459,
-    "wof:lastmodified":1566643377,
+    "wof:lastmodified":1695879432,
     "wof:name":"Alvsborg",
     "wof:parent_id":1159302989,
     "wof:placetype":"localadmin",

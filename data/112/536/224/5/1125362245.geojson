@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012318,
-    "geom:area_square_m":77133481.059295,
+    "geom:area_square_m":77133481.059289,
     "geom:bbox":"16.3052674981,59.5118161567,16.475234478,59.6430829808",
     "geom:latitude":59.576018,
     "geom:longitude":16.395675,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":2322,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.576604,
     "lbl:longitude":16.389878,
     "lbl:max_zoom":15.0,
@@ -76,14 +85,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132035,
-        "qs_pg:id":757888
+        "qs_pg:id":757888,
+        "se-lant:code":"214024"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497046871,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"00f2e5ac46843446caf36d102900a505",
+    "wof:geomhash":"fb12aeec9b000a2ba8bf07270be15b9e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,7 +105,7 @@
         }
     ],
     "wof:id":1125362245,
-    "wof:lastmodified":1582340862,
+    "wof:lastmodified":1695879531,
     "wof:name":"Dingtuna",
     "wof:parent_id":1159303331,
     "wof:placetype":"localadmin",

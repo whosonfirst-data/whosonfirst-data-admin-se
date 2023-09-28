@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001773,
-    "geom:area_square_m":12296612.574959,
+    "geom:area_square_m":12296612.574961,
     "geom:bbox":"13.2076872824,55.8683453509,13.2683083339,55.9169455188",
     "geom:latitude":55.891297,
     "geom:longitude":13.237758,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.890188,
     "lbl:longitude":13.234754,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101236"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734063,
-    "wof:geomhash":"2fdcef1cf3f4e9cda8625a42c9bf4c0e",
+    "wof:geomhash":"56f20899bc1a8e5cde7214722b16b6f0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306499,
-    "wof:lastmodified":1566643303,
+    "wof:lastmodified":1695879418,
     "wof:name":"Vastra Stro",
     "wof:parent_id":1159303151,
     "wof:placetype":"localadmin",

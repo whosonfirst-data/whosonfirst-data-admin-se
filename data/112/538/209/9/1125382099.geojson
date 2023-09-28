@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.083914,
-    "geom:area_square_m":512473464.948609,
+    "geom:area_square_m":512473464.948623,
     "geom:bbox":"16.7725481697,60.2592059983,17.3027123587,60.5247800756",
     "geom:latitude":60.402822,
     "geom:longitude":17.047882,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":2753,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":60.393574,
     "lbl:longitude":17.052829,
     "lbl:max_zoom":15.0,
@@ -73,14 +82,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132481,
-        "qs_pg:id":381372
+        "qs_pg:id":381372,
+        "se-lant:code":"316002"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497048108,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"e65a66ed8a6dc20d31093319656a2a16",
+    "wof:geomhash":"8ea078fadff8d0518e413702a4f24ecd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +102,7 @@
         }
     ],
     "wof:id":1125382099,
-    "wof:lastmodified":1582340853,
+    "wof:lastmodified":1695879524,
     "wof:name":"Hedesunda",
     "wof:parent_id":1159303225,
     "wof:placetype":"localadmin",

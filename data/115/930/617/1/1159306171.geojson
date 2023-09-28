@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.050422,
-    "geom:area_square_m":276078755.773492,
+    "geom:area_square_m":276078755.773485,
     "geom:bbox":"20.7161698034,63.5827878727,21.0338843023,63.8301449303",
     "geom:latitude":63.722701,
     "geom:longitude":20.848378,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":63.729782,
     "lbl:longitude":20.845352,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"323004"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733965,
-    "wof:geomhash":"f35ab3bcf3285d5d7736fe46e3a669cf",
+    "wof:geomhash":"cd03e905cec4d06b2c206704720f6fd9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306171,
-    "wof:lastmodified":1566643183,
+    "wof:lastmodified":1695879396,
     "wof:name":"Holmon",
     "wof:parent_id":1159303017,
     "wof:placetype":"localadmin",

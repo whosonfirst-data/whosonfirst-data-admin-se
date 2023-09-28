@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006007,
-    "geom:area_square_m":41319830.936259,
+    "geom:area_square_m":41319830.936264,
     "geom:bbox":"12.9812562669,56.1618346447,13.161892303,56.2315333185",
     "geom:latitude":56.19744,
     "geom:longitude":13.077544,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":2350,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.193778,
     "lbl:longitude":13.077531,
     "lbl:max_zoom":15.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8133134,
-        "qs_pg:id":381452
+        "qs_pg:id":381452,
+        "se-lant:code":"101325"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497048121,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"33346ff07af222ac61c59669696dd3f9",
+    "wof:geomhash":"ebd812c4b7ca4a9e9c75f1b58eae2a8c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125382317,
-    "wof:lastmodified":1582340853,
+    "wof:lastmodified":1695879524,
     "wof:name":"Ostra Ljungby",
     "wof:parent_id":1159303295,
     "wof:placetype":"localadmin",

@@ -10,6 +10,15 @@
     "geom:latitude":58.030632,
     "geom:longitude":12.707218,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.027671,
     "lbl:longitude":12.710725,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107170"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733919,
-    "wof:geomhash":"4d063b89ebbd81c3ed299d7e92d87485",
+    "wof:geomhash":"92a3464a0c9c4c510f785c821d1d5e74",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159305977,
-    "wof:lastmodified":1566643281,
+    "wof:lastmodified":1695879414,
     "wof:name":"Fullestad",
     "wof:parent_id":1159303255,
     "wof:placetype":"localadmin",

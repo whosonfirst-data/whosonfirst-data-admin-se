@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004557,
-    "geom:area_square_m":30359596.068506,
+    "geom:area_square_m":30359596.068509,
     "geom:bbox":"18.4617804345,57.3749596077,18.5940802658,57.4278576934",
     "geom:latitude":57.399713,
     "geom:longitude":18.532759,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.395589,
     "lbl:longitude":18.53147,
     "lbl:max_zoom":18.0,
@@ -42,9 +51,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"106035"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734328,
-    "wof:geomhash":"2c412c1c7e21a1c257303f0e928118ce",
+    "wof:geomhash":"09eb37135020df42587be93cb72c193b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,7 +68,7 @@
         }
     ],
     "wof:id":1159307503,
-    "wof:lastmodified":1566643290,
+    "wof:lastmodified":1695879415,
     "wof:name":"Buttle",
     "wof:parent_id":1159303535,
     "wof:placetype":"localadmin",

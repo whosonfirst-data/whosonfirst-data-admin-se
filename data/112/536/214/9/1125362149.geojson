@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009999,
-    "geom:area_square_m":68337781.824459,
+    "geom:area_square_m":68337781.824444,
     "geom:bbox":"16.5017057296,56.3916601673,16.6371482255,56.4990053721",
     "geom:latitude":56.447944,
     "geom:longitude":16.562505,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":413,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.450644,
     "lbl:longitude":16.554496,
     "lbl:max_zoom":17.0,
@@ -73,14 +82,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131704,
-        "qs_pg:id":757665
+        "qs_pg:id":757665,
+        "se-lant:code":"103008"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497046866,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"238f41a8e2159675930701cc49dc9532",
+    "wof:geomhash":"33ddd1170ca627832915771090b06b38",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +102,7 @@
         }
     ],
     "wof:id":1125362149,
-    "wof:lastmodified":1582340862,
+    "wof:lastmodified":1695879531,
     "wof:name":"Hulterstad",
     "wof:parent_id":1159303101,
     "wof:placetype":"localadmin",

@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02369,
-    "geom:area_square_m":152279488.070861,
+    "geom:area_square_m":152279488.070862,
     "geom:bbox":"13.0271211381,58.6018902266,13.2671893191,58.7561944943",
     "geom:latitude":58.680175,
     "geom:longitude":13.157046,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.68791,
     "lbl:longitude":13.166766,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107428"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734040,
-    "wof:geomhash":"f51879cf9005446703c39a3043e91ac2",
+    "wof:geomhash":"525afdfc2f6f9738812119260b4b4d1e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306419,
-    "wof:lastmodified":1566643311,
+    "wof:lastmodified":1695879420,
     "wof:name":"Otterstad",
     "wof:parent_id":1159303281,
     "wof:placetype":"localadmin",

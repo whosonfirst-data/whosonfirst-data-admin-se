@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013321,
-    "geom:area_square_m":86270321.019373,
+    "geom:area_square_m":86270321.019375,
     "geom:bbox":"16.4096994993,58.3405396059,16.569820196,58.4791962596",
     "geom:latitude":58.415944,
     "geom:longitude":16.490106,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.416876,
     "lbl:longitude":16.49015,
     "lbl:max_zoom":18.0,
@@ -54,9 +63,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"108097"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734045,
-    "wof:geomhash":"0996524ce7bcaec665b03d4a4f8fd7a4",
+    "wof:geomhash":"532c33886d1e2fa1ba96e92f20b2dbac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,7 +80,7 @@
         }
     ],
     "wof:id":1159306445,
-    "wof:lastmodified":1566643181,
+    "wof:lastmodified":1695879396,
     "wof:name":"Mogata",
     "wof:parent_id":1159303305,
     "wof:placetype":"localadmin",

@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00183,
-    "geom:area_square_m":11852619.05243,
+    "geom:area_square_m":11852619.052432,
     "geom:bbox":"12.7797639689,58.3827868316,12.8538579347,58.4346682329",
     "geom:latitude":58.405221,
     "geom:longitude":12.819524,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.402927,
     "lbl:longitude":12.820079,
     "lbl:max_zoom":18.0,
@@ -81,9 +90,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107332"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733876,
-    "wof:geomhash":"893fd95167bef1bbf631ff3d86b302c1",
+    "wof:geomhash":"889e5f1922b3a62cdd014d032773f045",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,7 +107,7 @@
         }
     ],
     "wof:id":1159305811,
-    "wof:lastmodified":1566643239,
+    "wof:lastmodified":1695879407,
     "wof:name":"Tang",
     "wof:parent_id":1159303421,
     "wof:placetype":"localadmin",

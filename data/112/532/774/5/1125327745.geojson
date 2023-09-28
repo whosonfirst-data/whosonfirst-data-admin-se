@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021059,
-    "geom:area_square_m":132031919.08726,
+    "geom:area_square_m":132031919.087248,
     "geom:bbox":"16.0281357522,59.4509303993,16.2358038193,59.6604121334",
     "geom:latitude":59.533361,
     "geom:longitude":16.12023,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":1813,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.518504,
     "lbl:longitude":16.118614,
     "lbl:max_zoom":16.0,
@@ -73,14 +82,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132007,
-        "qs_pg:id":109365
+        "qs_pg:id":109365,
+        "se-lant:code":"214020"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497044919,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"84a25f78a13fbc56c3c7c7e6e53f963a",
+    "wof:geomhash":"ed8a4e8977618fb831a3a24f52dc7b09",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +102,7 @@
         }
     ],
     "wof:id":1125327745,
-    "wof:lastmodified":1582340777,
+    "wof:lastmodified":1695879471,
     "wof:name":"Munktorp",
     "wof:parent_id":1159303439,
     "wof:placetype":"localadmin",

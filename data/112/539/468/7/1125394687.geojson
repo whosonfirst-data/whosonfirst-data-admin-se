@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006536,
-    "geom:area_square_m":45004623.627487,
+    "geom:area_square_m":45004623.627474,
     "geom:bbox":"13.0633700299,56.1192461997,13.1856071078,56.210966589",
     "geom:latitude":56.159481,
     "geom:longitude":13.131823,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":9991,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.152217,
     "lbl:longitude":13.136031,
     "lbl:max_zoom":15.0,
@@ -73,14 +82,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132199,
-        "qs_pg:id":1042426
+        "qs_pg:id":1042426,
+        "se-lant:code":"101324"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497048934,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"ca286823361ea42d888996a92fc6b63b",
+    "wof:geomhash":"d250eee7475255189d16dcbe033129fe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +102,7 @@
         }
     ],
     "wof:id":1125394687,
-    "wof:lastmodified":1582340841,
+    "wof:lastmodified":1695879516,
     "wof:name":"Klippan",
     "wof:parent_id":1159303295,
     "wof:placetype":"localadmin",

@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001773,
-    "geom:area_square_m":11421447.698718,
+    "geom:area_square_m":11421447.698716,
     "geom:bbox":"14.0259375217,58.5705591183,14.1093688477,58.6213195203",
     "geom:latitude":58.600804,
     "geom:longitude":14.064149,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.602742,
     "lbl:longitude":14.057185,
     "lbl:max_zoom":18.0,
@@ -51,9 +60,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107425"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733931,
-    "wof:geomhash":"16a02fd975198d01589b2353624c4926",
+    "wof:geomhash":"236881b2f549b0cdfc53bbda87400ee1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -64,7 +77,7 @@
         }
     ],
     "wof:id":1159306027,
-    "wof:lastmodified":1566643202,
+    "wof:lastmodified":1695879400,
     "wof:name":"Mo",
     "wof:parent_id":1159303045,
     "wof:placetype":"localadmin",

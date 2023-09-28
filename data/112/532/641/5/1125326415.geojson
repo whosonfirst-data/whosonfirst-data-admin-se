@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001951,
-    "geom:area_square_m":13403694.318398,
+    "geom:area_square_m":13403694.318396,
     "geom:bbox":"12.807229,56.222969,12.89169,56.265716",
     "geom:latitude":56.246223,
     "geom:longitude":12.844442,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":12636,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.24512,
     "lbl:longitude":12.840308,
     "lbl:max_zoom":15.0,
@@ -52,14 +61,16 @@
     "wof:belongsto":[
         102191581,
         85633789,
-        1159303025,
-        85688377
+        85688377,
+        1159303025
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131676,
-        "qs_pg:id":757645
+        "qs_pg:id":757645,
+        "se-lant:code":"101346"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:coterminous":[
         101816583
     ],
@@ -68,7 +79,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"e913c842e431126f72feb67041b3a139",
+    "wof:geomhash":"702570069854f5e032883c66863b9b3c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +90,7 @@
         }
     ],
     "wof:id":1125326415,
-    "wof:lastmodified":1608048173,
+    "wof:lastmodified":1695879554,
     "wof:name":"Angelholm",
     "wof:parent_id":1159303025,
     "wof:placetype":"localadmin",

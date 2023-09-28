@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00125,
-    "geom:area_square_m":8486381.531001,
+    "geom:area_square_m":8486381.531002,
     "geom:bbox":"16.313793672,56.6823764975,16.4319330023,56.7031173952",
     "geom:latitude":56.692741,
     "geom:longitude":16.36545,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":8221,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.691031,
     "lbl:longitude":16.346663,
     "lbl:max_zoom":15.0,
@@ -61,14 +70,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131711,
-        "qs_pg:id":757672
+        "qs_pg:id":757672,
+        "se-lant:code":"105056"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497046705,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"c21a8e8ac97a211a4faf632857b68bce",
+    "wof:geomhash":"5e2be7f83125a1c91c97f082c9c97d5b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +90,7 @@
         }
     ],
     "wof:id":1125359797,
-    "wof:lastmodified":1582340744,
+    "wof:lastmodified":1695879444,
     "wof:name":"Kalmar Sankta Birgitta",
     "wof:parent_id":1159303065,
     "wof:placetype":"localadmin",

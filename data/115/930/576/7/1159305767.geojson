@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021845,
-    "geom:area_square_m":136220376.398432,
+    "geom:area_square_m":136220376.398436,
     "geom:bbox":"15.5450586637,59.6311482309,15.8656248132,59.7863242357",
     "geom:latitude":59.714766,
     "geom:longitude":15.723386,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.718309,
     "lbl:longitude":15.765853,
     "lbl:max_zoom":18.0,
@@ -42,9 +51,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"214034"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733864,
-    "wof:geomhash":"49cfea59ae8425bb137cd76f33cf2f57",
+    "wof:geomhash":"b80cfa70d91310582bb8c2b6da9ffa64",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,7 +68,7 @@
         }
     ],
     "wof:id":1159305767,
-    "wof:lastmodified":1566643354,
+    "wof:lastmodified":1695879429,
     "wof:name":"Hed",
     "wof:parent_id":1159302929,
     "wof:placetype":"localadmin",

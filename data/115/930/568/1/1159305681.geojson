@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00349,
-    "geom:area_square_m":22498951.13849,
+    "geom:area_square_m":22498951.138485,
     "geom:bbox":"16.3707528187,58.5491238972,16.4888200064,58.6105731939",
     "geom:latitude":58.576045,
     "geom:longitude":16.416843,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.577127,
     "lbl:longitude":16.407937,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"108145"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733843,
-    "wof:geomhash":"764b5fd093006fb5ce1d3e8cd48403a6",
+    "wof:geomhash":"7cc5da94fde2926db1408941582fa886",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159305681,
-    "wof:lastmodified":1566643164,
+    "wof:lastmodified":1695879392,
     "wof:name":"Konungsund",
     "wof:parent_id":1159303229,
     "wof:placetype":"localadmin",

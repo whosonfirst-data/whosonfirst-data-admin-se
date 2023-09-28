@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.092676,
-    "geom:area_square_m":519799848.672458,
+    "geom:area_square_m":519799848.672489,
     "geom:bbox":"15.0085648727,62.9069178182,15.6918274368,63.1484751645",
     "geom:latitude":63.025368,
     "geom:longitude":15.307779,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":63.032085,
     "lbl:longitude":15.341313,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"322015"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734147,
-    "wof:geomhash":"e4ceedf084d6b09984f6bd2a60c8465d",
+    "wof:geomhash":"f271e0013b8650b764a03f0bf9d9ed5a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306827,
-    "wof:lastmodified":1566643302,
+    "wof:lastmodified":1695879418,
     "wof:name":"Sundsjo",
     "wof:parent_id":1159303529,
     "wof:placetype":"localadmin",

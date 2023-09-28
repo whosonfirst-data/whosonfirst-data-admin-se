@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.11376,
-    "geom:area_square_m":644271635.954291,
+    "geom:area_square_m":644271635.954269,
     "geom:bbox":"13.903552383,62.5497176721,14.7728185584,62.8730804045",
     "geom:latitude":62.741097,
     "geom:longitude":14.398653,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":2362,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":62.758094,
     "lbl:longitude":14.434926,
     "lbl:max_zoom":15.0,
@@ -151,14 +160,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132599,
-        "qs_pg:id":758243
+        "qs_pg:id":758243,
+        "se-lant:code":"322003"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497044062,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"066a8dfafcdfe4f2ffca7f39fab6b5cb",
+    "wof:geomhash":"a66663e06927b82e95abdef735f0611f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -169,7 +180,7 @@
         }
     ],
     "wof:id":1125312197,
-    "wof:lastmodified":1582340855,
+    "wof:lastmodified":1695879525,
     "wof:name":"Berg",
     "wof:parent_id":1159303129,
     "wof:placetype":"localadmin",

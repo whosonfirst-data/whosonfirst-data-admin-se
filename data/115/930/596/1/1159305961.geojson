@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00646,
-    "geom:area_square_m":42827499.904822,
+    "geom:area_square_m":42827482.593621,
     "geom:bbox":"15.247313,57.540141,15.441741,57.617623",
     "geom:latitude":57.577403,
     "geom:longitude":15.339893,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.568888,
     "lbl:longitude":15.339887,
     "lbl:max_zoom":18.0,
@@ -114,9 +123,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"105226"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733916,
-    "wof:geomhash":"5e46b0f5f7d9022757c69dfac8267397",
+    "wof:geomhash":"752d951bcdfee576bc3daadcfab8b117",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -127,7 +140,7 @@
         }
     ],
     "wof:id":1159305961,
-    "wof:lastmodified":1636499898,
+    "wof:lastmodified":1695879559,
     "wof:name":"Bello",
     "wof:parent_id":1159303243,
     "wof:placetype":"localadmin",

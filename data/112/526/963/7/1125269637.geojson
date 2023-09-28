@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008013,
-    "geom:area_square_m":51105892.964071,
+    "geom:area_square_m":51105892.964069,
     "geom:bbox":"11.0327770544,58.9215314653,11.2480644641,58.983959209",
     "geom:latitude":58.951179,
     "geom:longitude":11.133773,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":7226,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.954207,
     "lbl:longitude":11.133774,
     "lbl:max_zoom":15.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132092,
-        "qs_pg:id":1245987
+        "qs_pg:id":1245987,
+        "se-lant:code":"109081"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497042069,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"93e77695f98bd1f1c8c33c1f4fa6d6c5",
+    "wof:geomhash":"fe520a38c89aecc0472783f99c2cb29b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125269637,
-    "wof:lastmodified":1582340799,
+    "wof:lastmodified":1695879486,
     "wof:name":"Stromstad",
     "wof:parent_id":1159303235,
     "wof:placetype":"localadmin",

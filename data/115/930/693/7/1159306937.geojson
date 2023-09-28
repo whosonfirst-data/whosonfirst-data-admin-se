@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003977,
-    "geom:area_square_m":27300828.690477,
+    "geom:area_square_m":27300828.690481,
     "geom:bbox":"16.3806933457,56.2468623676,16.4803955992,56.3088329446",
     "geom:latitude":56.279951,
     "geom:longitude":16.423549,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.279781,
     "lbl:longitude":16.414546,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"103002"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734183,
-    "wof:geomhash":"1e3afef2c9f7ab5d4904a55cf5c1b860",
+    "wof:geomhash":"d55caeee737754866ec655a0a9218464",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306937,
-    "wof:lastmodified":1566643212,
+    "wof:lastmodified":1695879402,
     "wof:name":"Ventlinge",
     "wof:parent_id":1159303101,
     "wof:placetype":"localadmin",

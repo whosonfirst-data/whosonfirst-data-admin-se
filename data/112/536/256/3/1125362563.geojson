@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002601,
-    "geom:area_square_m":17257335.810388,
+    "geom:area_square_m":17257335.81039,
     "geom:bbox":"13.3480364265,57.514277102,13.4297087052,57.5766357391",
     "geom:latitude":57.551493,
     "geom:longitude":13.379757,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":1480,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.557892,
     "lbl:longitude":13.375737,
     "lbl:max_zoom":16.0,
@@ -61,14 +70,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8133218,
-        "qs_pg:id":758553
+        "qs_pg:id":758553,
+        "se-lant:code":"107035"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497046884,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"fc5c44fef0938dcb1cdba1cb74729b82",
+    "wof:geomhash":"5e4b50c3467c0608d19d821397411a2d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +90,7 @@
         }
     ],
     "wof:id":1125362563,
-    "wof:lastmodified":1582340859,
+    "wof:lastmodified":1695879529,
     "wof:name":"Sodra asarp",
     "wof:parent_id":1159303181,
     "wof:placetype":"localadmin",

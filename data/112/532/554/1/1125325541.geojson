@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004712,
-    "geom:area_square_m":31403007.561868,
+    "geom:area_square_m":31403007.561865,
     "geom:bbox":"12.2142714177,57.3545745904,12.320201164,57.431122416",
     "geom:latitude":57.388764,
     "geom:longitude":12.261002,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":717,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.3898,
     "lbl:longitude":12.260173,
     "lbl:max_zoom":17.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132566,
-        "qs_pg:id":758227
+        "qs_pg:id":758227,
+        "se-lant:code":"104082"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497044788,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"82955c3e69b061a7dad32889b6a25317",
+    "wof:geomhash":"0b883b135beaa4d965843094eaa0cb37",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125325541,
-    "wof:lastmodified":1582340770,
+    "wof:lastmodified":1695879462,
     "wof:name":"Gallinge",
     "wof:parent_id":1159303249,
     "wof:placetype":"localadmin",

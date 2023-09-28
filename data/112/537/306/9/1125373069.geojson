@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008255,
-    "geom:area_square_m":53747004.556203,
+    "geom:area_square_m":53747004.556209,
     "geom:bbox":"12.5214249173,58.1901710669,12.748496486,58.2842965494",
     "geom:latitude":58.229324,
     "geom:longitude":12.639839,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":1551,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.214342,
     "lbl:longitude":12.632191,
     "lbl:max_zoom":16.0,
@@ -61,14 +70,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132415,
-        "qs_pg:id":109433
+        "qs_pg:id":109433,
+        "se-lant:code":"107247"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497047542,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"d5db2fb98ec89315b153b8ac887e4008",
+    "wof:geomhash":"30ed2de94ce041b2c568d89c2bdad1cc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +90,7 @@
         }
     ],
     "wof:id":1125373069,
-    "wof:lastmodified":1582340821,
+    "wof:lastmodified":1695879501,
     "wof:name":"Frammestad",
     "wof:parent_id":1159303499,
     "wof:placetype":"localadmin",

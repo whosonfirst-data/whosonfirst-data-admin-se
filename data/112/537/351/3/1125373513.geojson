@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022547,
-    "geom:area_square_m":149786571.15038,
+    "geom:area_square_m":149786571.150378,
     "geom:bbox":"14.6584341688,57.4033135193,14.8612873524,57.6059707008",
     "geom:latitude":57.503608,
     "geom:longitude":14.762858,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":3305,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.50944,
     "lbl:longitude":14.755972,
     "lbl:max_zoom":15.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132638,
-        "qs_pg:id":109464
+        "qs_pg:id":109464,
+        "se-lant:code":"105205"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497047572,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"28333582b504affd20fc5f631cb0cf20",
+    "wof:geomhash":"bd718baaf53e78bf16ab20063ef19893",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125373513,
-    "wof:lastmodified":1582340829,
+    "wof:lastmodified":1695879507,
     "wof:name":"Norra Sandsjo",
     "wof:parent_id":1159303537,
     "wof:placetype":"localadmin",

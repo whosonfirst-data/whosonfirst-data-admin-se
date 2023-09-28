@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.042247,
-    "geom:area_square_m":255240155.447803,
+    "geom:area_square_m":255240155.447805,
     "geom:bbox":"14.4298631474,60.6691568522,14.9492986125,60.8642123517",
     "geom:latitude":60.751495,
     "geom:longitude":14.714428,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":1846,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":60.763047,
     "lbl:longitude":14.831006,
     "lbl:max_zoom":16.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132719,
-        "qs_pg:id":758311
+        "qs_pg:id":758311,
+        "se-lant:code":"217035"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497042779,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"e322879ed007426719f8e583a71430ef",
+    "wof:geomhash":"707a8b0f535160d531a95ed04bc46b69",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125287639,
-    "wof:lastmodified":1582340780,
+    "wof:lastmodified":1695879472,
     "wof:name":"Siljansnas",
     "wof:parent_id":1159303237,
     "wof:placetype":"localadmin",

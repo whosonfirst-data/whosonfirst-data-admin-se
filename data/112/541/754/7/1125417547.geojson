@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.069209,
-    "geom:area_square_m":384759235.205343,
+    "geom:area_square_m":384759235.205321,
     "geom:bbox":"17.7667937089,63.159613397,18.380557924,63.3912120078",
     "geom:latitude":63.282039,
     "geom:longitude":18.133903,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":1170,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":63.296295,
     "lbl:longitude":18.180419,
     "lbl:max_zoom":16.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8133056,
-        "qs_pg:id":758481
+        "qs_pg:id":758481,
+        "se-lant:code":"321031"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497051611,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"de820a0e04378323d6ab422b6d2f196e",
+    "wof:geomhash":"0e2aa1f0f78880ed26c0e0396cde80f0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125417547,
-    "wof:lastmodified":1582340868,
+    "wof:lastmodified":1695879534,
     "wof:name":"Sidensjo",
     "wof:parent_id":1159303463,
     "wof:placetype":"localadmin",

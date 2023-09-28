@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001009,
-    "geom:area_square_m":7010022.402003,
+    "geom:area_square_m":7010022.402005,
     "geom:bbox":"13.1623695967,55.8102804127,13.2150615888,55.8449361689",
     "geom:latitude":55.829332,
     "geom:longitude":13.188459,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.828447,
     "lbl:longitude":13.185859,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101199"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734090,
-    "wof:geomhash":"5c53c9b25c6938e8c2c9fada426e21ad",
+    "wof:geomhash":"41d7f5a2dae8ccdcbd5b0c40d04e1b3e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306583,
-    "wof:lastmodified":1566643211,
+    "wof:lastmodified":1695879402,
     "wof:name":"Virke",
     "wof:parent_id":1159303543,
     "wof:placetype":"localadmin",

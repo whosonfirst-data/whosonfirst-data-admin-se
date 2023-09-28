@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003192,
-    "geom:area_square_m":20773202.661896,
+    "geom:area_square_m":20773202.661893,
     "geom:bbox":"13.5259303787,58.2038454706,13.607015206,58.2709238072",
     "geom:latitude":58.23826,
     "geom:longitude":13.562948,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":1107,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.238493,
     "lbl:longitude":13.56695,
     "lbl:max_zoom":16.0,
@@ -85,14 +94,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132362,
-        "qs_pg:id":758083
+        "qs_pg:id":758083,
+        "se-lant:code":"107266"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497046877,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"36e07cce682609f50e9c1fcb73efc1cb",
+    "wof:geomhash":"fad7c73f5f866e8af17f3eabdfda534e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -103,7 +114,7 @@
         }
     ],
     "wof:id":1125362399,
-    "wof:lastmodified":1582340863,
+    "wof:lastmodified":1695879532,
     "wof:name":"Gudhem",
     "wof:parent_id":1159303137,
     "wof:placetype":"localadmin",

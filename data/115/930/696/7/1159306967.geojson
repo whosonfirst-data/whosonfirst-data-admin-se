@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00189,
-    "geom:area_square_m":12189737.16384,
+    "geom:area_square_m":12189737.163836,
     "geom:bbox":"13.7001156195,58.535090884,13.7938932023,58.5873470085",
     "geom:latitude":58.559523,
     "geom:longitude":13.752199,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.558238,
     "lbl:longitude":13.748423,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107414"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734190,
-    "wof:geomhash":"44962427bed7a22917f3eaed396edf30",
+    "wof:geomhash":"c30d0df8bc682e3d06b76cd19bdde122",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306967,
-    "wof:lastmodified":1566643335,
+    "wof:lastmodified":1695879425,
     "wof:name":"Boja",
     "wof:parent_id":1159302921,
     "wof:placetype":"localadmin",

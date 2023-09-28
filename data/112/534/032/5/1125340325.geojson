@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006181,
-    "geom:area_square_m":40283787.81586,
+    "geom:area_square_m":40283787.815863,
     "geom:bbox":"12.1460799678,58.1224678287,12.2947708703,58.2440574755",
     "geom:latitude":58.191239,
     "geom:longitude":12.206789,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":3084,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.209061,
     "lbl:longitude":12.199478,
     "lbl:max_zoom":15.0,
@@ -76,14 +85,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132056,
-        "qs_pg:id":757905
+        "qs_pg:id":757905,
+        "se-lant:code":"107242"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497045621,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"e8470cfb330c1beead58878fe45bb1b4",
+    "wof:geomhash":"e0dccf2e15e469ee3d34f6b4d870f792",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,7 +105,7 @@
         }
     ],
     "wof:id":1125340325,
-    "wof:lastmodified":1582340735,
+    "wof:lastmodified":1695879437,
     "wof:name":"Fors",
     "wof:parent_id":1159303541,
     "wof:placetype":"localadmin",

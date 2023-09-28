@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.054046,
-    "geom:area_square_m":300583656.22676,
+    "geom:area_square_m":300583656.226756,
     "geom:bbox":"13.422595969,63.1436805453,13.7964325197,63.4044853758",
     "geom:latitude":63.270347,
     "geom:longitude":13.612316,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":63.272893,
     "lbl:longitude":13.615133,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"322030"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734035,
-    "wof:geomhash":"c9f5165bc569d0a53471c7a1bd13cb84",
+    "wof:geomhash":"d5dda199267e8296f1c765a9a7f8db23",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306401,
-    "wof:lastmodified":1566643307,
+    "wof:lastmodified":1695879419,
     "wof:name":"Morsil",
     "wof:parent_id":1159303387,
     "wof:placetype":"localadmin",

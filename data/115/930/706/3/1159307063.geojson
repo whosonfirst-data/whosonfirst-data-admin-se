@@ -10,6 +10,15 @@
     "geom:latitude":55.867263,
     "geom:longitude":12.918618,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.86958,
     "lbl:longitude":12.919259,
     "lbl:max_zoom":18.0,
@@ -48,9 +57,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101222"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734215,
-    "wof:geomhash":"518f6d143871723bb86eaf34ba2bd11f",
+    "wof:geomhash":"30f4f1bbbb61a073f2438b93b97779ba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +74,7 @@
         }
     ],
     "wof:id":1159307063,
-    "wof:lastmodified":1566643148,
+    "wof:lastmodified":1695879390,
     "wof:name":"Tofta",
     "wof:parent_id":1159303531,
     "wof:placetype":"localadmin",

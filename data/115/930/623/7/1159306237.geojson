@@ -10,6 +10,15 @@
     "geom:latitude":55.514002,
     "geom:longitude":13.081596,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.513581,
     "lbl:longitude":13.081607,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101069"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733980,
-    "wof:geomhash":"750ac444cda7e18925d7838b4ac15661",
+    "wof:geomhash":"53afb66a66c1ddd440ae33389557fe89",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306237,
-    "wof:lastmodified":1566643308,
+    "wof:lastmodified":1695879419,
     "wof:name":"Arrie",
     "wof:parent_id":1159303307,
     "wof:placetype":"localadmin",

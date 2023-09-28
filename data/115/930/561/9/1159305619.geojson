@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002225,
-    "geom:area_square_m":14381527.137512,
+    "geom:area_square_m":14381527.137513,
     "geom:bbox":"12.8596929082,58.4630108371,12.9304915254,58.5195083527",
     "geom:latitude":58.491432,
     "geom:longitude":12.893497,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.487285,
     "lbl:longitude":12.890015,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107368"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733826,
-    "wof:geomhash":"bf554e1598abdc28d30d15be821eaba8",
+    "wof:geomhash":"c41d3fb65ccaa737c4f4894ceb958ad8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159305619,
-    "wof:lastmodified":1566643161,
+    "wof:lastmodified":1695879392,
     "wof:name":"Norra Kedum",
     "wof:parent_id":1159303281,
     "wof:placetype":"localadmin",

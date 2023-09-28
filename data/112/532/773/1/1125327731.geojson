@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022578,
-    "geom:area_square_m":139487834.801464,
+    "geom:area_square_m":139487834.801461,
     "geom:bbox":"15.9692288437,59.9366498689,16.2062511724,60.0946135386",
     "geom:latitude":60.024703,
     "geom:longitude":16.09549,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":537,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":60.029429,
     "lbl:longitude":16.097767,
     "lbl:max_zoom":17.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132001,
-        "qs_pg:id":109362
+        "qs_pg:id":109362,
+        "se-lant:code":"214065"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497044918,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"4120ccc97e93485d9286efc06767c5fb",
+    "wof:geomhash":"0168522ac06c4d867751b44e1a5a0dda",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125327731,
-    "wof:lastmodified":1582340776,
+    "wof:lastmodified":1695879471,
     "wof:name":"Karbenning",
     "wof:parent_id":1159303227,
     "wof:placetype":"localadmin",

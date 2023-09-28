@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031278,
-    "geom:area_square_m":212881619.666441,
+    "geom:area_square_m":212881619.66641,
     "geom:bbox":"12.9722152987,56.5310856249,13.3767165916,56.6879861465",
     "geom:latitude":56.603357,
     "geom:longitude":13.189779,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":3217,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.595334,
     "lbl:longitude":13.192844,
     "lbl:max_zoom":15.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132449,
-        "qs_pg:id":758152
+        "qs_pg:id":758152,
+        "se-lant:code":"104012"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497052310,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"5d0051275432790188adc68ae8e549fc",
+    "wof:geomhash":"c05768910db4168c571507318dcdee48",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125421395,
-    "wof:lastmodified":1582340816,
+    "wof:lastmodified":1695879498,
     "wof:name":"Veinge-Tjarby",
     "wof:parent_id":1159303423,
     "wof:placetype":"localadmin",

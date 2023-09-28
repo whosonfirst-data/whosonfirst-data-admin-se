@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001908,
-    "geom:area_square_m":13376746.261646,
+    "geom:area_square_m":13376746.261651,
     "geom:bbox":"14.0736433723,55.4375875544,14.1456258691,55.4804128045",
     "geom:latitude":55.458067,
     "geom:longitude":14.111915,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.45758,
     "lbl:longitude":14.112603,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101061"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734288,
-    "wof:geomhash":"c064cbe054575affe0315977d7a3f283",
+    "wof:geomhash":"26c9097f446f28f3b281d277a9ef6fc4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307341,
-    "wof:lastmodified":1566643268,
+    "wof:lastmodified":1695879412,
     "wof:name":"Horup",
     "wof:parent_id":1159303233,
     "wof:placetype":"localadmin",

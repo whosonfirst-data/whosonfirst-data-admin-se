@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003727,
-    "geom:area_square_m":24311555.357674,
+    "geom:area_square_m":24311555.357679,
     "geom:bbox":"13.2256784924,58.1310113951,13.3190220788,58.1905208623",
     "geom:latitude":58.160267,
     "geom:longitude":13.268402,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.162359,
     "lbl:longitude":13.268404,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107218"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734237,
-    "wof:geomhash":"f4c45ebbe2bff9c047b5f2d9717e86d3",
+    "wof:geomhash":"53e2e640ea8f9ecb9c2cd9d49e58cb5c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307157,
-    "wof:lastmodified":1566643246,
+    "wof:lastmodified":1695879408,
     "wof:name":"Travattna",
     "wof:parent_id":1159303137,
     "wof:placetype":"localadmin",

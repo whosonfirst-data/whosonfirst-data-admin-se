@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001646,
-    "geom:area_square_m":11408912.545051,
+    "geom:area_square_m":11408912.545049,
     "geom:bbox":"13.0210081856,55.8917948811,13.0727570519,55.9356075623",
     "geom:latitude":55.914102,
     "geom:longitude":13.047861,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.914084,
     "lbl:longitude":13.048356,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101230"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733914,
-    "wof:geomhash":"fe47be0d493b14d296ec298dc59b2dc5",
+    "wof:geomhash":"23417ce0e71c5186006e3c67d272dbb3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159305949,
-    "wof:lastmodified":1566643141,
+    "wof:lastmodified":1695879389,
     "wof:name":"Tirup",
     "wof:parent_id":1159303189,
     "wof:placetype":"localadmin",

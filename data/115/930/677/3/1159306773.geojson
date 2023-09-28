@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001087,
-    "geom:area_square_m":7096760.828442,
+    "geom:area_square_m":7096760.828443,
     "geom:bbox":"13.7130791829,58.1244428782,13.7757230125,58.1578716349",
     "geom:latitude":58.140146,
     "geom:longitude":13.747553,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.137409,
     "lbl:longitude":13.754902,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107233"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734131,
-    "wof:geomhash":"ed949d4332324eeea246d38a8919bf39",
+    "wof:geomhash":"b4878615235eb849dbb311f0ec69603f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306773,
-    "wof:lastmodified":1566643319,
+    "wof:lastmodified":1695879422,
     "wof:name":"Ostra Gerum",
     "wof:parent_id":1159303037,
     "wof:placetype":"localadmin",

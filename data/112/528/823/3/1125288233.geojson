@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.044318,
-    "geom:area_square_m":279342648.035199,
+    "geom:area_square_m":279342648.035169,
     "geom:bbox":"13.7086268858,59.219973583,14.1502068834,59.4895632798",
     "geom:latitude":59.353304,
     "geom:longitude":13.965675,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":1325,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.35232,
     "lbl:longitude":13.962285,
     "lbl:max_zoom":16.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132964,
-        "qs_pg:id":758464
+        "qs_pg:id":758464,
+        "se-lant:code":"213035"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497042802,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"1153b3cfb4cd36e8fe28e42cc767d799",
+    "wof:geomhash":"dae3a484ed95b4b16810ffb610eb154d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125288233,
-    "wof:lastmodified":1582340792,
+    "wof:lastmodified":1695879481,
     "wof:name":"Olme",
     "wof:parent_id":1159303523,
     "wof:placetype":"localadmin",

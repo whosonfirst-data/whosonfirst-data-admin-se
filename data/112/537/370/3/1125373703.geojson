@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013079,
-    "geom:area_square_m":84274686.621553,
+    "geom:area_square_m":84274686.621558,
     "geom:bbox":"16.5133765582,58.5320061868,16.7370536331,58.6393847853",
     "geom:latitude":58.593179,
     "geom:longitude":16.608983,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":1490,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.600139,
     "lbl:longitude":16.608992,
     "lbl:max_zoom":16.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132856,
-        "qs_pg:id":109515
+        "qs_pg:id":109515,
+        "se-lant:code":"108147"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497047583,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"6c471e4b18cda88b78fe9880e562ebc1",
+    "wof:geomhash":"ec2108cce330fe3a3ec80dfa156f25dc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125373703,
-    "wof:lastmodified":1582340826,
+    "wof:lastmodified":1695879505,
     "wof:name":"Ostra Husby",
     "wof:parent_id":1159303229,
     "wof:placetype":"localadmin",

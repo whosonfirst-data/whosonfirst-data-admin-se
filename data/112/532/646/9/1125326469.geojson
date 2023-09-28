@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01407,
-    "geom:area_square_m":94065409.326078,
+    "geom:area_square_m":94065409.326066,
     "geom:bbox":"13.7067043862,57.1949076665,13.899135198,57.3332992557",
     "geom:latitude":57.26945,
     "geom:longitude":13.796385,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":1205,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.268825,
     "lbl:longitude":13.794785,
     "lbl:max_zoom":16.0,
@@ -79,14 +88,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131693,
-        "qs_pg:id":757654
+        "qs_pg:id":757654,
+        "se-lant:code":"105150"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497044845,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"47d58008c2517a5f2a4f1a39b2e50f9f",
+    "wof:geomhash":"a662eba1768424ff9cc11b9bc240bb22",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -97,7 +108,7 @@
         }
     ],
     "wof:id":1125326469,
-    "wof:lastmodified":1582340771,
+    "wof:lastmodified":1695879463,
     "wof:name":"Kulltorp",
     "wof:parent_id":1159303377,
     "wof:placetype":"localadmin",

@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00534,
-    "geom:area_square_m":36877695.806638,
+    "geom:area_square_m":36877695.806636,
     "geom:bbox":"13.7832656783,56.0152637898,13.91268229,56.0860517936",
     "geom:latitude":56.049978,
     "geom:longitude":13.836776,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.054008,
     "lbl:longitude":13.836768,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101302"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733917,
-    "wof:geomhash":"9dfb32dbc46aaa886f71a4e37cc02827",
+    "wof:geomhash":"f53c336343a794ee97cc5a728acd03df",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159305967,
-    "wof:lastmodified":1566643287,
+    "wof:lastmodified":1695879415,
     "wof:name":"Navlinge",
     "wof:parent_id":1159303121,
     "wof:placetype":"localadmin",

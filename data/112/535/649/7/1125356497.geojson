@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005603,
-    "geom:area_square_m":35468962.242825,
+    "geom:area_square_m":35468962.242829,
     "geom:bbox":"15.0780129627,59.1697050774,15.1835538813,59.2426512038",
     "geom:latitude":59.206497,
     "geom:longitude":15.128677,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":2639,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.205767,
     "lbl:longitude":15.128672,
     "lbl:max_zoom":15.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132819,
-        "qs_pg:id":758362
+        "qs_pg:id":758362,
+        "se-lant:code":"211027"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497046502,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"128d3bbe56a38324e085cb1768d20a23",
+    "wof:geomhash":"0a6e35ef795ccaae29cb9cb99dc0db49",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125356497,
-    "wof:lastmodified":1582340746,
+    "wof:lastmodified":1695879445,
     "wof:name":"Mosjo",
     "wof:parent_id":1159303031,
     "wof:placetype":"localadmin",

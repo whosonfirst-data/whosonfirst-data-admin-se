@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005137,
-    "geom:area_square_m":35949500.384765,
+    "geom:area_square_m":35949500.384766,
     "geom:bbox":"13.4793478717,55.4847328198,13.6132476546,55.5836613516",
     "geom:latitude":55.529316,
     "geom:longitude":13.536589,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.527601,
     "lbl:longitude":13.52996,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101081"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734216,
-    "wof:geomhash":"85c9e5a6bd29202786d4e0bcd71df18a",
+    "wof:geomhash":"34ccb39b6baa5ac85cfcf629eee37465",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307069,
-    "wof:lastmodified":1566643148,
+    "wof:lastmodified":1695879390,
     "wof:name":"Slimminge",
     "wof:parent_id":1159303379,
     "wof:placetype":"localadmin",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.086664,
-    "geom:area_square_m":501753862.704713,
+    "geom:area_square_m":501753862.704654,
     "geom:bbox":"16.975434762,61.9920899516,17.7257509699,62.1650952977",
     "geom:latitude":62.081954,
     "geom:longitude":17.363991,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":2276,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":62.082099,
     "lbl:longitude":17.363932,
     "lbl:max_zoom":15.0,
@@ -79,14 +88,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132473,
-        "qs_pg:id":904419
+        "qs_pg:id":904419,
+        "se-lant:code":"318041"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497046692,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"7393fbf84123e571e2944b9d0bf63159",
+    "wof:geomhash":"fb440ad22a03df77324d086fa90d60bf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -97,7 +108,7 @@
         }
     ],
     "wof:id":1125359567,
-    "wof:lastmodified":1582340745,
+    "wof:lastmodified":1695879444,
     "wof:name":"Gnarp",
     "wof:parent_id":1159303081,
     "wof:placetype":"localadmin",

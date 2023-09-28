@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006166,
-    "geom:area_square_m":38225151.73841,
+    "geom:area_square_m":38225151.738404,
     "geom:bbox":"17.5637408067,59.8693588016,17.7299492388,59.9575811371",
     "geom:latitude":59.912221,
     "geom:longitude":17.641699,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.905497,
     "lbl:longitude":17.648437,
     "lbl:max_zoom":18.0,
@@ -108,9 +117,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"215154"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734069,
-    "wof:geomhash":"61fca6cfb496f3d51f3046013278fc26",
+    "wof:geomhash":"bb5d87985bfc7861d9107d61cf211004",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -121,7 +134,7 @@
         }
     ],
     "wof:id":1159306525,
-    "wof:lastmodified":1566643323,
+    "wof:lastmodified":1695879423,
     "wof:name":"Gamla Uppsala",
     "wof:parent_id":1159303253,
     "wof:placetype":"localadmin",

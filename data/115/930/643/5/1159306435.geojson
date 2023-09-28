@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004892,
-    "geom:area_square_m":32943217.967833,
+    "geom:area_square_m":32943217.967828,
     "geom:bbox":"14.6229164679,56.951888873,14.7249988638,57.0660434503",
     "geom:latitude":57.003366,
     "geom:longitude":14.666169,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.00614,
     "lbl:longitude":14.658435,
     "lbl:max_zoom":18.0,
@@ -54,9 +63,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"105104"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734042,
-    "wof:geomhash":"af69b9d0df04e24bc56a5bba41d5840d",
+    "wof:geomhash":"415e6538de87155068c69283d6bcef9f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,7 +80,7 @@
         }
     ],
     "wof:id":1159306435,
-    "wof:lastmodified":1566643179,
+    "wof:lastmodified":1695879395,
     "wof:name":"Or",
     "wof:parent_id":1159302917,
     "wof:placetype":"localadmin",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006962,
-    "geom:area_square_m":46000454.873825,
+    "geom:area_square_m":46000454.873826,
     "geom:bbox":"18.3391750519,57.6545772545,18.4869772319,57.7407495741",
     "geom:latitude":57.701205,
     "geom:longitude":18.409783,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":2644,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.702418,
     "lbl:longitude":18.410916,
     "lbl:max_zoom":15.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132542,
-        "qs_pg:id":758207
+        "qs_pg:id":758207,
+        "se-lant:code":"106077"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497044784,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"bda359a6ceac488b91dc3709a37a9425",
+    "wof:geomhash":"5dd1802ef23259777b7e52d29799d54d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125325487,
-    "wof:lastmodified":1582340777,
+    "wof:lastmodified":1695879471,
     "wof:name":"Vaskinde",
     "wof:parent_id":1159303535,
     "wof:placetype":"localadmin",

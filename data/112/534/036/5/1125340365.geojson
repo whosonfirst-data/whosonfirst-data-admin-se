@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009401,
-    "geom:area_square_m":62101934.047311,
+    "geom:area_square_m":62101934.047318,
     "geom:bbox":"12.7679639071,57.6510626085,12.9820949452,57.7740239716",
     "geom:latitude":57.708847,
     "geom:longitude":12.8779,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":25270,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.703121,
     "lbl:longitude":12.879497,
     "lbl:max_zoom":14.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132060,
-        "qs_pg:id":757909
+        "qs_pg:id":757909,
+        "se-lant:code":"107074"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497045622,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"17eef4a964704a5c9beb1883dd449940",
+    "wof:geomhash":"d4e056290603c6e2f543ae0750d3444f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125340365,
-    "wof:lastmodified":1582340732,
+    "wof:lastmodified":1695879435,
     "wof:name":"Boras Caroli",
     "wof:parent_id":1159303073,
     "wof:placetype":"localadmin",

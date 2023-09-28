@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003257,
-    "geom:area_square_m":22598277.681487,
+    "geom:area_square_m":22598277.681482,
     "geom:bbox":"13.2082971573,55.8414331817,13.343161775,55.8944954645",
     "geom:latitude":55.86589,
     "geom:longitude":13.272714,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.869516,
     "lbl:longitude":13.277326,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101238"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734146,
-    "wof:geomhash":"cbd0bd0f1338ba550fd1294946e44f87",
+    "wof:geomhash":"c0cd2b87c9bb27c202f7becc2def193b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306819,
-    "wof:lastmodified":1566643177,
+    "wof:lastmodified":1695879395,
     "wof:name":"Trollenas",
     "wof:parent_id":1159303151,
     "wof:placetype":"localadmin",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005303,
-    "geom:area_square_m":34366933.739522,
+    "geom:area_square_m":34366933.739516,
     "geom:bbox":"13.3680381048,58.3544156196,13.5273252915,58.4284420616",
     "geom:latitude":58.388973,
     "geom:longitude":13.442859,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":11444,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.386967,
     "lbl:longitude":13.444068,
     "lbl:max_zoom":15.0,
@@ -61,14 +70,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132246,
-        "qs_pg:id":758002
+        "qs_pg:id":758002,
+        "se-lant:code":"107346"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497047654,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"9eff5d45cf823f22c259343cd8bfdd71",
+    "wof:geomhash":"63bcf95f7ccf625686ee58ec15fbbdb1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +90,7 @@
         }
     ],
     "wof:id":1125374793,
-    "wof:lastmodified":1582340823,
+    "wof:lastmodified":1695879503,
     "wof:name":"Skara domkyrkodistrikt",
     "wof:parent_id":1159303479,
     "wof:placetype":"localadmin",

@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004934,
-    "geom:area_square_m":34664343.954314,
+    "geom:area_square_m":34664343.954321,
     "geom:bbox":"12.7714552032,55.3405974787,12.8873638184,55.4139053163",
     "geom:latitude":55.374824,
     "geom:longitude":12.829546,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.376539,
     "lbl:longitude":12.829551,
     "lbl:max_zoom":18.0,
@@ -78,9 +87,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101001"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734115,
-    "wof:geomhash":"c49a226e7005a4dce1c62779932c566e",
+    "wof:geomhash":"3d38cd27e5ae6ede68e53171cdfe2db2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +104,7 @@
         }
     ],
     "wof:id":1159306709,
-    "wof:lastmodified":1566643315,
+    "wof:lastmodified":1695879421,
     "wof:name":"Falsterbo",
     "wof:parent_id":1159303307,
     "wof:placetype":"localadmin",

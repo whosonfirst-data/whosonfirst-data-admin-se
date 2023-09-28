@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014425,
-    "geom:area_square_m":96071558.609469,
+    "geom:area_square_m":96071558.609461,
     "geom:bbox":"13.0318139387,57.3348433352,13.2618153317,57.4858982849",
     "geom:latitude":57.409845,
     "geom:longitude":13.163134,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.419985,
     "lbl:longitude":13.164922,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107020"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734341,
-    "wof:geomhash":"031345a2767753e74e2fc349afa4839e",
+    "wof:geomhash":"359a1381a8cd72cdccdae8b669110bcc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307547,
-    "wof:lastmodified":1566643155,
+    "wof:lastmodified":1695879391,
     "wof:name":"Orsas",
     "wof:parent_id":1159303079,
     "wof:placetype":"localadmin",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008951,
-    "geom:area_square_m":58252784.18786,
+    "geom:area_square_m":58252784.187858,
     "geom:bbox":"13.9381622493,58.2069645218,14.1510095146,58.2799658597",
     "geom:latitude":58.24165,
     "geom:longitude":14.038593,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":586,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.234457,
     "lbl:longitude":14.029614,
     "lbl:max_zoom":17.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132358,
-        "qs_pg:id":758081
+        "qs_pg:id":758081,
+        "se-lant:code":"107279"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497046876,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"c64c6dc149aebbf509032aab1349c18f",
+    "wof:geomhash":"0b98df722f3028974097c1470fa35ac6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125362387,
-    "wof:lastmodified":1582340863,
+    "wof:lastmodified":1695879532,
     "wof:name":"Frojered",
     "wof:parent_id":1159303037,
     "wof:placetype":"localadmin",

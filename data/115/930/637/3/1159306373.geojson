@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002865,
-    "geom:area_square_m":18769946.094107,
+    "geom:area_square_m":18769946.09411,
     "geom:bbox":"12.8445467995,57.9738987989,12.9637977453,58.037494843",
     "geom:latitude":58.007383,
     "geom:longitude":12.897499,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.010489,
     "lbl:longitude":12.891615,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107173"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734022,
-    "wof:geomhash":"f940d7f095620b37fc56ee36ec95af95",
+    "wof:geomhash":"58767442086400089a145007c2bdc42a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306373,
-    "wof:lastmodified":1566643327,
+    "wof:lastmodified":1695879424,
     "wof:name":"Kvinnestad",
     "wof:parent_id":1159303255,
     "wof:placetype":"localadmin",

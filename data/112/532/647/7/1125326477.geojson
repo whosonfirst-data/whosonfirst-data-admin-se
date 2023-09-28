@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015528,
-    "geom:area_square_m":101790349.416613,
+    "geom:area_square_m":101790349.416607,
     "geom:bbox":"13.6868807314,57.9238974202,13.9289292066,58.0559685454",
     "geom:latitude":57.984294,
     "geom:longitude":13.807514,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":1163,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.984722,
     "lbl:longitude":13.809352,
     "lbl:max_zoom":16.0,
@@ -88,14 +97,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131694,
-        "qs_pg:id":757655
+        "qs_pg:id":757655,
+        "se-lant:code":"107162"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497044845,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"a3cc80371f1f437990089dbd5f302e94",
+    "wof:geomhash":"f1bfc2dd1e3aa093fdbc28af0cb7e749",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -106,7 +117,7 @@
         }
     ],
     "wof:id":1125326477,
-    "wof:lastmodified":1582340771,
+    "wof:lastmodified":1695879463,
     "wof:name":"Sandhem",
     "wof:parent_id":1159303051,
     "wof:placetype":"localadmin",

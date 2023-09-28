@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008184,
-    "geom:area_square_m":51446275.191683,
+    "geom:area_square_m":51446275.191676,
     "geom:bbox":"15.8677582989,59.4043678531,16.0396243015,59.4816754607",
     "geom:latitude":59.443459,
     "geom:longitude":15.952,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.44186,
     "lbl:longitude":15.952012,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"214004"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734227,
-    "wof:geomhash":"f5e1f87e5a2b6a9a801ceeeba63dfde9",
+    "wof:geomhash":"8a102ea5426856cc51e3b9d0f1400e90",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307113,
-    "wof:lastmodified":1566643380,
+    "wof:lastmodified":1695879433,
     "wof:name":"Bjorskog",
     "wof:parent_id":1159303173,
     "wof:placetype":"localadmin",

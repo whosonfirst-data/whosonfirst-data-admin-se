@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012828,
-    "geom:area_square_m":83472934.710905,
+    "geom:area_square_m":83472934.710911,
     "geom:bbox":"14.1446059043,58.1901010509,14.34876397,58.2917209604",
     "geom:latitude":58.249275,
     "geom:longitude":14.243008,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.246732,
     "lbl:longitude":14.244974,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107280"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733937,
-    "wof:geomhash":"063a56616c3f57764cdcadd9851d9db4",
+    "wof:geomhash":"53426bf91a534768568d545ff5140519",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306055,
-    "wof:lastmodified":1566643204,
+    "wof:lastmodified":1695879401,
     "wof:name":"Norra Fagelas",
     "wof:parent_id":1159303153,
     "wof:placetype":"localadmin",

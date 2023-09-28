@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.061107,
-    "geom:area_square_m":14593671561.260199,
+    "geom:area_square_m":14593671561.260105,
     "geom:bbox":"16.732621,66.278585,22.198986,68.118797",
     "geom:latitude":67.32125,
     "geom:longitude":19.848873,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":10877,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":67.315487,
     "lbl:longitude":20.118937,
     "lbl:max_zoom":15.0,
@@ -52,14 +61,16 @@
     "wof:belongsto":[
         102191581,
         85633789,
-        1159303507,
-        85688471
+        85688471,
+        1159303507
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132796,
-        "qs_pg:id":1155700
+        "qs_pg:id":1155700,
+        "se-lant:code":"324019"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:coterminous":[
         1159303507
     ],
@@ -68,7 +79,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"b0894522b71ba12e236cf9706994d7d8",
+    "wof:geomhash":"e84517fff152f0287e9fdb1116c9b5cf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +90,7 @@
         }
     ],
     "wof:id":1125300093,
-    "wof:lastmodified":1608048406,
+    "wof:lastmodified":1695879556,
     "wof:name":"Gallivare",
     "wof:parent_id":1159303507,
     "wof:placetype":"localadmin",

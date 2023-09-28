@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002815,
-    "geom:area_square_m":19738070.373135,
+    "geom:area_square_m":19738070.373136,
     "geom:bbox":"13.9844157946,55.4324745877,14.0868052331,55.4799868083",
     "geom:latitude":55.459618,
     "geom:longitude":14.031005,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.460915,
     "lbl:longitude":14.023297,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101056"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734103,
-    "wof:geomhash":"ccfe49e9d09c012a08de3d2dbe36dc6a",
+    "wof:geomhash":"b3a30fedf9f072da3f8d55e96f585208",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306651,
-    "wof:lastmodified":1566643337,
+    "wof:lastmodified":1695879425,
     "wof:name":"Glemminge",
     "wof:parent_id":1159303233,
     "wof:placetype":"localadmin",

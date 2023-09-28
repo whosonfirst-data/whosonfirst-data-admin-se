@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019628,
-    "geom:area_square_m":130494078.667961,
+    "geom:area_square_m":130494078.667967,
     "geom:bbox":"12.5946111514,57.4158575483,12.8425957253,57.5514829809",
     "geom:latitude":57.475212,
     "geom:longitude":12.719585,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":9394,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.481234,
     "lbl:longitude":12.756763,
     "lbl:max_zoom":15.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132419,
-        "qs_pg:id":758128
+        "qs_pg:id":758128,
+        "se-lant:code":"107028"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497045651,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"42736dfda2721d67ee16a250c50c7557",
+    "wof:geomhash":"a20bfbfd289dee15338200a7a215abf0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125340927,
-    "wof:lastmodified":1582340735,
+    "wof:lastmodified":1695879437,
     "wof:name":"Orby-Skene",
     "wof:parent_id":1159302961,
     "wof:placetype":"localadmin",

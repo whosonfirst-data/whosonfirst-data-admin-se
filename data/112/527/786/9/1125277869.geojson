@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024536,
-    "geom:area_square_m":165838411.866223,
+    "geom:area_square_m":165838411.86622,
     "geom:bbox":"15.519280797,56.7806718898,15.7991970282,56.9297033871",
     "geom:latitude":56.865501,
     "geom:longitude":15.66664,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":1303,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.858197,
     "lbl:longitude":15.701647,
     "lbl:max_zoom":16.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132691,
-        "qs_pg:id":109481
+        "qs_pg:id":109481,
+        "se-lant:code":"105089"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497042390,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"5ac73b17d8f6b72aeae8be08fdb624ee",
+    "wof:geomhash":"b1c153213c075ed235aa6cd026439027",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125277869,
-    "wof:lastmodified":1582340808,
+    "wof:lastmodified":1695879492,
     "wof:name":"Halleberga",
     "wof:parent_id":1159302907,
     "wof:placetype":"localadmin",

@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":4459,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.427371,
     "lbl:longitude":14.150696,
     "lbl:max_zoom":15.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131802,
-        "qs_pg:id":757724
+        "qs_pg:id":757724,
+        "se-lant:code":"105188"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497042728,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"cd210e1f0b0cfb8269eb1a3992d03117",
+    "wof:geomhash":"197e8249345cdded3618ceba8107829f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125286597,
-    "wof:lastmodified":1582340786,
+    "wof:lastmodified":1695879477,
     "wof:name":"Tofteryd",
     "wof:parent_id":1159303517,
     "wof:placetype":"localadmin",

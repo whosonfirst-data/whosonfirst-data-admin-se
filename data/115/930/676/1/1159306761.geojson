@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008511,
-    "geom:area_square_m":57660391.549312,
+    "geom:area_square_m":57660391.549316,
     "geom:bbox":"16.5039258872,56.7393608317,16.6871223526,56.8179860672",
     "geom:latitude":56.777495,
     "geom:longitude":16.586419,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.778926,
     "lbl:longitude":16.575481,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"103021"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734129,
-    "wof:geomhash":"b7fb3e398ee2ba3d4eed8fdd8bde44cd",
+    "wof:geomhash":"14044569ebebba65210f8c5cefaf74ab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306761,
-    "wof:lastmodified":1566643301,
+    "wof:lastmodified":1695879417,
     "wof:name":"Hogsrum",
     "wof:parent_id":1159303363,
     "wof:placetype":"localadmin",

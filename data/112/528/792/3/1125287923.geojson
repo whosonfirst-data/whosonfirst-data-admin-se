@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003462,
-    "geom:area_square_m":22442968.764953,
+    "geom:area_square_m":22442968.76495,
     "geom:bbox":"14.9691758108,58.3549862276,15.0774993786,58.406169684",
     "geom:latitude":58.380147,
     "geom:longitude":15.012354,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":248,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.377606,
     "lbl:longitude":15.013384,
     "lbl:max_zoom":17.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132866,
-        "qs_pg:id":758396
+        "qs_pg:id":758396,
+        "se-lant:code":"108068"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497042791,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"64076066a208815ae3b955031ad140c3",
+    "wof:geomhash":"bf68d576c312a7a5250cc127c88a2387",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125287923,
-    "wof:lastmodified":1582340791,
+    "wof:lastmodified":1695879481,
     "wof:name":"Bjalbo",
     "wof:parent_id":1159302925,
     "wof:placetype":"localadmin",

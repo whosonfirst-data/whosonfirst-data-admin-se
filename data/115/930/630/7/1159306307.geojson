@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003825,
-    "geom:area_square_m":24489686.099552,
+    "geom:area_square_m":24489686.099548,
     "geom:bbox":"13.9126828372,58.774171118,14.0128226692,58.8561584454",
     "geom:latitude":58.812763,
     "geom:longitude":13.966913,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.810786,
     "lbl:longitude":13.966893,
     "lbl:max_zoom":18.0,
@@ -42,9 +51,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107445"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733996,
-    "wof:geomhash":"624e11279fa94dcd7bd13032a20fef54",
+    "wof:geomhash":"4013a171423dd782ab695ed6b5707607",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,7 +68,7 @@
         }
     ],
     "wof:id":1159306307,
-    "wof:lastmodified":1566643330,
+    "wof:lastmodified":1695879424,
     "wof:name":"Enasa",
     "wof:parent_id":1159303321,
     "wof:placetype":"localadmin",

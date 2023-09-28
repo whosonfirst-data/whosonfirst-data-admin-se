@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":331,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.220317,
     "lbl:longitude":13.427348,
     "lbl:max_zoom":17.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131680,
-        "qs_pg:id":757649
+        "qs_pg:id":757649,
+        "se-lant:code":"107259"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497044843,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"0d4ca324abc2dfc2bb19ed0e9a2e90ca",
+    "wof:geomhash":"a74810f7eaea192b2566130f16df6d47",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125326443,
-    "wof:lastmodified":1582340757,
+    "wof:lastmodified":1695879452,
     "wof:name":"Vilske-Kleva",
     "wof:parent_id":1159303137,
     "wof:placetype":"localadmin",

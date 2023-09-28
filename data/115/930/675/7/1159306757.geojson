@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003306,
-    "geom:area_square_m":20667169.432075,
+    "geom:area_square_m":20667169.432073,
     "geom:bbox":"17.6807790158,59.591834148,17.7925497592,59.6612445909",
     "geom:latitude":59.627952,
     "geom:longitude":17.737383,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.614554,
     "lbl:longitude":17.756893,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"215083"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734127,
-    "wof:geomhash":"4b902b5cdec77f53062bcacfc9c3c6c6",
+    "wof:geomhash":"c13ed6934c08eaac12652316d5571b0b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306757,
-    "wof:lastmodified":1566643176,
+    "wof:lastmodified":1695879395,
     "wof:name":"Sigtuna Sankt Olof",
     "wof:parent_id":1159303265,
     "wof:placetype":"localadmin",

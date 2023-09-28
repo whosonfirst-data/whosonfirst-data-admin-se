@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006584,
-    "geom:area_square_m":45434847.399177,
+    "geom:area_square_m":45434847.39917,
     "geom:bbox":"12.9020468021,56.0339575339,13.0729706842,56.1220446534",
     "geom:latitude":56.078853,
     "geom:longitude":12.994216,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.079938,
     "lbl:longitude":12.995657,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101293"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734180,
-    "wof:geomhash":"1ce77b1072bc75a78e78c99e7b87994d",
+    "wof:geomhash":"f338e11fe7c65cf77fa4c709b8e677c6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306925,
-    "wof:lastmodified":1566643221,
+    "wof:lastmodified":1695879404,
     "wof:name":"Norra Vram",
     "wof:parent_id":1159303001,
     "wof:placetype":"localadmin",

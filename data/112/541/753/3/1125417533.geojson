@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.375312,
-    "geom:area_square_m":2203869307.976726,
+    "geom:area_square_m":2203869307.976736,
     "geom:bbox":"12.1896550674,61.3564860342,13.654707765,61.947394001",
     "geom:latitude":61.647844,
     "geom:longitude":13.013154,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":1063,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":61.689203,
     "lbl:longitude":13.206658,
     "lbl:max_zoom":16.0,
@@ -76,14 +85,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132726,
-        "qs_pg:id":758316
+        "qs_pg:id":758316,
+        "se-lant:code":"217051"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497051608,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"7a73f1eddd70337cfda657212e07f6e0",
+    "wof:geomhash":"ede832346327f4e77278edd1fda4abb0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,7 +105,7 @@
         }
     ],
     "wof:id":1125417533,
-    "wof:lastmodified":1582340869,
+    "wof:lastmodified":1695879535,
     "wof:name":"Sarna",
     "wof:parent_id":1159303373,
     "wof:placetype":"localadmin",

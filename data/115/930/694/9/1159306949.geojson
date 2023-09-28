@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005815,
-    "geom:area_square_m":38377861.187039,
+    "geom:area_square_m":38377861.187037,
     "geom:bbox":"13.3828222451,57.7072574927,13.5166193138,57.7746406104",
     "geom:latitude":57.740751,
     "geom:longitude":13.4369,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.742376,
     "lbl:longitude":13.430202,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107107"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734186,
-    "wof:geomhash":"742d3e75b9a1ba67d2c0db773ceeb331",
+    "wof:geomhash":"6db492ac62bfee3fe9136087cdfc13bb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306949,
-    "wof:lastmodified":1566643208,
+    "wof:lastmodified":1695879401,
     "wof:name":"Marback",
     "wof:parent_id":1159303161,
     "wof:placetype":"localadmin",

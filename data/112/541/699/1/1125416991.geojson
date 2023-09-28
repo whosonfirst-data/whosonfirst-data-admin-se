@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003158,
-    "geom:area_square_m":21176844.030404,
+    "geom:area_square_m":21176844.030406,
     "geom:bbox":"18.3537988094,57.1348848602,18.4590242998,57.190802415",
     "geom:latitude":57.161798,
     "geom:longitude":18.401102,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":68,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.158619,
     "lbl:longitude":18.40469,
     "lbl:max_zoom":18.0,
@@ -76,14 +85,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132509,
-        "qs_pg:id":758186
+        "qs_pg:id":758186,
+        "se-lant:code":"106012"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497051520,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"c2f43ab19805727a69e5e497b1b6134b",
+    "wof:geomhash":"d6979f580a9f9dca5741a3a364646d3a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,7 +105,7 @@
         }
     ],
     "wof:id":1125416991,
-    "wof:lastmodified":1582340874,
+    "wof:lastmodified":1695879551,
     "wof:name":"Eke",
     "wof:parent_id":1159303535,
     "wof:placetype":"localadmin",

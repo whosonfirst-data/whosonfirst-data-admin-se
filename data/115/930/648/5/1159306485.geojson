@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007401,
-    "geom:area_square_m":47102715.578804,
+    "geom:area_square_m":47102715.578803,
     "geom:bbox":"11.2596477653,58.9826894995,11.4279199251,59.0578449411",
     "geom:latitude":59.022001,
     "geom:longitude":11.339881,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.022036,
     "lbl:longitude":11.338632,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"109082"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734057,
-    "wof:geomhash":"4741501539aef013cbca61b19f97dcd5",
+    "wof:geomhash":"311e62b2405cb5f08057d5a0c1c09b04",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306485,
-    "wof:lastmodified":1566643320,
+    "wof:lastmodified":1695879422,
     "wof:name":"Nasinge",
     "wof:parent_id":1159303235,
     "wof:placetype":"localadmin",

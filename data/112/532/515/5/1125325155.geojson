@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003276,
-    "geom:area_square_m":22052846.881254,
+    "geom:area_square_m":22052846.881251,
     "geom:bbox":"14.6729677916,56.9806180544,14.7639519791,57.0425506398",
     "geom:latitude":57.015141,
     "geom:longitude":14.717112,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":563,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.014388,
     "lbl:longitude":14.717795,
     "lbl:max_zoom":17.0,
@@ -61,14 +70,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131828,
-        "qs_pg:id":757748
+        "qs_pg:id":757748,
+        "se-lant:code":"105105"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497044757,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"e6f8e366b98c77d523157f0d35e0967e",
+    "wof:geomhash":"d0857bcd2a09c023183ca85bf2510f4c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +90,7 @@
         }
     ],
     "wof:id":1125325155,
-    "wof:lastmodified":1582340778,
+    "wof:lastmodified":1695879472,
     "wof:name":"Ormesberga",
     "wof:parent_id":1159302917,
     "wof:placetype":"localadmin",

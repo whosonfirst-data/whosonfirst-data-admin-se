@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002041,
-    "geom:area_square_m":14307719.585289,
+    "geom:area_square_m":14307719.58529,
     "geom:bbox":"13.6194556417,55.4239869983,13.67794013,55.498029877",
     "geom:latitude":55.45942,
     "geom:longitude":13.652466,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.45803,
     "lbl:longitude":13.655322,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101045"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733831,
-    "wof:geomhash":"3ed30f7077ff7b38e47396682b86cd05",
+    "wof:geomhash":"4cce50f0352ad436eb6c0ca8de85c002",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159305639,
-    "wof:lastmodified":1566643279,
+    "wof:lastmodified":1695879413,
     "wof:name":"Sjorup",
     "wof:parent_id":1159303233,
     "wof:placetype":"localadmin",

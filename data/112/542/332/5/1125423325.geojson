@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.232356,
-    "geom:area_square_m":1269664795.527294,
+    "geom:area_square_m":1269664795.527328,
     "geom:bbox":"16.5635271885,63.5630777161,17.3364262557,64.0274753927",
     "geom:latitude":63.774072,
     "geom:longitude":16.917769,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":1455,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":63.759325,
     "lbl:longitude":16.917716,
     "lbl:max_zoom":16.0,
@@ -82,14 +91,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8133045,
-        "qs_pg:id":109557
+        "qs_pg:id":109557,
+        "se-lant:code":"321044"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497052674,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"44e9db6d06f51c7dd657eba5d6437ae1",
+    "wof:geomhash":"6687366d2f39b417f692f5202ca48df4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -100,7 +111,7 @@
         }
     ],
     "wof:id":1125423325,
-    "wof:lastmodified":1582340814,
+    "wof:lastmodified":1695879496,
     "wof:name":"Junsele",
     "wof:parent_id":1159303381,
     "wof:placetype":"localadmin",

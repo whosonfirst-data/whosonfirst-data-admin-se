@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035769,
-    "geom:area_square_m":220069609.038284,
+    "geom:area_square_m":220069609.038269,
     "geom:bbox":"16.1417981517,60.0681751043,16.4574970063,60.2812359516",
     "geom:latitude":60.160523,
     "geom:longitude":16.304876,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":60.151304,
     "lbl:longitude":16.328778,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"217008"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734010,
-    "wof:geomhash":"ef912d6e12620b560cf11233b199b4b1",
+    "wof:geomhash":"c574f6fac7f6fad416b896deb77e9ec9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306347,
-    "wof:lastmodified":1566643200,
+    "wof:lastmodified":1695879400,
     "wof:name":"Folkarna",
     "wof:parent_id":1159303263,
     "wof:placetype":"localadmin",
