@@ -426,12 +426,18 @@
         "gn:id":3337385,
         "gp:id":20070561,
         "hasc:id":"SE.SN",
+        "iso:code":"SE-M",
         "iso:id":"SE-M",
+        "se-lant:code":"12",
         "unlc:id":"SE-M",
         "wd:id":"Q103659"
     },
+    "wof:concordances_official":"se-lant:code",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"SE",
-    "wof:geomhash":"5bfbbd7ab9fc1a9dbc3d3ee53349b0e3",
+    "wof:geomhash":"8785336646d3620a14aa863ad4fdcb8c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -447,7 +453,7 @@
         "swe",
         "fin"
     ],
-    "wof:lastmodified":1690862996,
+    "wof:lastmodified":1695885316,
     "wof:name":"Scania",
     "wof:parent_id":85633789,
     "wof:placetype":"region",

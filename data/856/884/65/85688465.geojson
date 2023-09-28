@@ -412,12 +412,18 @@
         "gn:id":2664415,
         "gp:id":2347064,
         "hasc:id":"SE.VB",
+        "iso:code":"SE-AC",
         "iso:id":"SE-AC",
+        "se-lant:code":"24",
         "unlc:id":"SE-AC",
         "wd:id":"Q104877"
     },
+    "wof:concordances_official":"se-lant:code",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"SE",
-    "wof:geomhash":"3c62f1c21532cc14197a86b315bfb171",
+    "wof:geomhash":"3269f21f6ee155fc5e797c4f0dcaef32",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -433,7 +439,7 @@
         "swe",
         "fin"
     ],
-    "wof:lastmodified":1690862992,
+    "wof:lastmodified":1695885317,
     "wof:name":"Vasterbotten",
     "wof:parent_id":85633789,
     "wof:placetype":"region",

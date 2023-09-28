@@ -410,12 +410,18 @@
         "gn:id":2686655,
         "gp:id":2347058,
         "hasc:id":"SE.OR",
+        "iso:code":"SE-T",
         "iso:id":"SE-T",
+        "se-lant:code":"18",
         "unlc:id":"SE-T",
         "wd:id":"Q104257"
     },
+    "wof:concordances_official":"se-lant:code",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"SE",
-    "wof:geomhash":"9c3a1d7afa7ad8e3023eaadb5491ef2c",
+    "wof:geomhash":"1c1164952cf387ee6ac69df8c7c80d16",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -431,7 +437,7 @@
         "swe",
         "fin"
     ],
-    "wof:lastmodified":1690862991,
+    "wof:lastmodified":1695885316,
     "wof:name":"Orebro",
     "wof:parent_id":85633789,
     "wof:placetype":"region",

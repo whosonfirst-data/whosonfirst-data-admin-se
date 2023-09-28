@@ -426,12 +426,18 @@
         "gn:id":3337386,
         "gp:id":20070562,
         "hasc:id":"SE.VG",
+        "iso:code":"SE-O",
         "iso:id":"SE-O",
+        "se-lant:code":"14",
         "unlc:id":"SE-O",
         "wd:id":"Q103093"
     },
+    "wof:concordances_official":"se-lant:code",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"SE",
-    "wof:geomhash":"a5cf068f0b040548349c9539feb1874f",
+    "wof:geomhash":"c533f156b099a879dcddc0958deed77b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -447,7 +453,7 @@
         "swe",
         "fin"
     ],
-    "wof:lastmodified":1690862990,
+    "wof:lastmodified":1695885316,
     "wof:name":"Vastra Gotaland",
     "wof:parent_id":85633789,
     "wof:placetype":"region",

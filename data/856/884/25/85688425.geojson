@@ -411,12 +411,18 @@
         "gn:id":2664179,
         "gp:id":2347066,
         "hasc:id":"SE.VM",
+        "iso:code":"SE-U",
         "iso:id":"SE-U",
+        "se-lant:code":"19",
         "unlc:id":"SE-U",
         "wd:id":"Q105075"
     },
+    "wof:concordances_official":"se-lant:code",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"SE",
-    "wof:geomhash":"29fd39a4060b6f723c173f98e6378a6c",
+    "wof:geomhash":"4e4bb4ea2ac281c6700227138a7b9254",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -432,7 +438,7 @@
         "swe",
         "fin"
     ],
-    "wof:lastmodified":1690862994,
+    "wof:lastmodified":1695885316,
     "wof:name":"Vastmanland",
     "wof:parent_id":85633789,
     "wof:placetype":"region",

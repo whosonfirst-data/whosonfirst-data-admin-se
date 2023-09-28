@@ -396,12 +396,18 @@
         "gn:id":2664292,
         "gp:id":2347065,
         "hasc:id":"SE.VN",
+        "iso:code":"SE-Y",
         "iso:id":"SE-Y",
+        "se-lant:code":"22",
         "unlc:id":"SE-Y",
         "wd:id":"Q104891"
     },
+    "wof:concordances_official":"se-lant:code",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"SE",
-    "wof:geomhash":"2836548fa564b3b44e6c9d16d8c71fe7",
+    "wof:geomhash":"aecc2bc86c0687fe2b31db7f542c9c65",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -417,7 +423,7 @@
         "swe",
         "fin"
     ],
-    "wof:lastmodified":1690862989,
+    "wof:lastmodified":1695885317,
     "wof:name":"Vasternorrland",
     "wof:parent_id":85633789,
     "wof:placetype":"region",

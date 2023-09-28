@@ -398,11 +398,17 @@
         "gn:id":2699050,
         "gp:id":2347055,
         "hasc:id":"SE.KR",
+        "iso:code":"SE-G",
         "iso:id":"SE-G",
+        "se-lant:code":"07",
         "wd:id":"Q104746"
     },
+    "wof:concordances_official":"se-lant:code",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"SE",
-    "wof:geomhash":"e53f5b4ed95c81f0c0a0a195a1153b75",
+    "wof:geomhash":"50488df3f834affa564f6c6316ae6935",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -418,7 +424,7 @@
         "swe",
         "fin"
     ],
-    "wof:lastmodified":1690862994,
+    "wof:lastmodified":1695885316,
     "wof:name":"Kronoberg",
     "wof:parent_id":85633789,
     "wof:placetype":"region",
