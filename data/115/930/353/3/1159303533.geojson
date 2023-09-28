@@ -121,8 +121,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_0862",
-        "eurostat:nuts_2021_id":"0862"
+        "eurostat:nuts_2021_id":"0862",
+        "se-lant:code":"0862"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525379511,
     "wof:geomhash":"4dfc1d4251cd2f6993df023d62a973f7",
@@ -135,7 +137,7 @@
         }
     ],
     "wof:id":1159303533,
-    "wof:lastmodified":1684354759,
+    "wof:lastmodified":1695886764,
     "wof:name":"Emmaboda",
     "wof:parent_id":85688401,
     "wof:placetype":"county",

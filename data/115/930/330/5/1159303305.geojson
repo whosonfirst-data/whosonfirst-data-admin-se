@@ -73,8 +73,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_0582",
-        "eurostat:nuts_2021_id":"0582"
+        "eurostat:nuts_2021_id":"0582",
+        "se-lant:code":"0582"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525379474,
     "wof:geomhash":"e114bccfe5d7249f02b6f708ba88f726",
@@ -87,7 +89,7 @@
         }
     ],
     "wof:id":1159303305,
-    "wof:lastmodified":1684354753,
+    "wof:lastmodified":1695886756,
     "wof:name":"Soderkoping",
     "wof:parent_id":85688409,
     "wof:placetype":"county",

@@ -178,8 +178,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_1382",
-        "eurostat:nuts_2021_id":"1382"
+        "eurostat:nuts_2021_id":"1382",
+        "se-lant:code":"1382"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525379467,
     "wof:geomhash":"2a5cc4823a672923c5cbe5ad2101af09",
@@ -192,7 +194,7 @@
         }
     ],
     "wof:id":1159303247,
-    "wof:lastmodified":1684354752,
+    "wof:lastmodified":1695886754,
     "wof:name":"Falkenberg",
     "wof:parent_id":85688391,
     "wof:placetype":"county",

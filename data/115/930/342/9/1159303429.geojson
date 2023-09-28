@@ -112,8 +112,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_2418",
-        "eurostat:nuts_2021_id":"2418"
+        "eurostat:nuts_2021_id":"2418",
+        "se-lant:code":"2418"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:coterminous":[
         1125270371
     ],
@@ -129,7 +131,7 @@
         }
     ],
     "wof:id":1159303429,
-    "wof:lastmodified":1684354756,
+    "wof:lastmodified":1695886760,
     "wof:name":"Mala",
     "wof:parent_id":85688465,
     "wof:placetype":"county",

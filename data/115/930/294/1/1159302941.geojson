@@ -100,8 +100,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_2034",
-        "eurostat:nuts_2021_id":"2034"
+        "eurostat:nuts_2021_id":"2034",
+        "se-lant:code":"2034"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:coterminous":[
         1125382199
     ],
@@ -117,7 +119,7 @@
         }
     ],
     "wof:id":1159302941,
-    "wof:lastmodified":1684354745,
+    "wof:lastmodified":1695886746,
     "wof:name":"Orsa",
     "wof:parent_id":85688447,
     "wof:placetype":"county",

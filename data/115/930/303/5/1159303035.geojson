@@ -685,8 +685,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_0180",
-        "eurostat:nuts_2021_id":"0180"
+        "eurostat:nuts_2021_id":"0180",
+        "se-lant:code":"0180"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525379420,
     "wof:geomhash":"31a76260e5a1f89359c536f7cc09424b",
@@ -699,7 +701,7 @@
         }
     ],
     "wof:id":1159303035,
-    "wof:lastmodified":1684354748,
+    "wof:lastmodified":1695886749,
     "wof:name":"Stockholm",
     "wof:parent_id":85688429,
     "wof:placetype":"county",

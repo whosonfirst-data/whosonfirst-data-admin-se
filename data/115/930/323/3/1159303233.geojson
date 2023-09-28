@@ -205,8 +205,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_1286",
-        "eurostat:nuts_2021_id":"1286"
+        "eurostat:nuts_2021_id":"1286",
+        "se-lant:code":"1286"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525379464,
     "wof:geomhash":"11cbdad375d4da2bb900d27029592048",
@@ -219,7 +221,7 @@
         }
     ],
     "wof:id":1159303233,
-    "wof:lastmodified":1684354752,
+    "wof:lastmodified":1695886754,
     "wof:name":"Ystad",
     "wof:parent_id":85688377,
     "wof:placetype":"county",

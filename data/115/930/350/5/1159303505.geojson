@@ -133,8 +133,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_2510",
-        "eurostat:nuts_2021_id":"2510"
+        "eurostat:nuts_2021_id":"2510",
+        "se-lant:code":"2510"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525379506,
     "wof:geomhash":"a0eb7fecf0d7274deee791ef372c8d04",
@@ -147,7 +149,7 @@
         }
     ],
     "wof:id":1159303505,
-    "wof:lastmodified":1684354758,
+    "wof:lastmodified":1695886763,
     "wof:name":"Jokkmokk",
     "wof:parent_id":85688471,
     "wof:placetype":"county",

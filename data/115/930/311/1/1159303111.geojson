@@ -118,8 +118,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_1760",
-        "eurostat:nuts_2021_id":"1760"
+        "eurostat:nuts_2021_id":"1760",
+        "se-lant:code":"1760"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525379436,
     "wof:geomhash":"cc56a94f74d6a726c5818fc63a8855e7",
@@ -132,7 +134,7 @@
         }
     ],
     "wof:id":1159303111,
-    "wof:lastmodified":1684354749,
+    "wof:lastmodified":1695886751,
     "wof:name":"Storfors",
     "wof:parent_id":85688435,
     "wof:placetype":"county",

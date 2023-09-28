@@ -268,8 +268,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_1380",
-        "eurostat:nuts_2021_id":"1380"
+        "eurostat:nuts_2021_id":"1380",
+        "se-lant:code":"1380"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525379480,
     "wof:geomhash":"5b13922522f3c9e5f6d39e32114fbfc3",
@@ -282,7 +284,7 @@
         }
     ],
     "wof:id":1159303343,
-    "wof:lastmodified":1684354754,
+    "wof:lastmodified":1695886757,
     "wof:name":"Halmstad",
     "wof:parent_id":85688391,
     "wof:placetype":"county",

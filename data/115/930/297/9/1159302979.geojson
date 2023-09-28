@@ -73,8 +73,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_2513",
-        "eurostat:nuts_2021_id":"2513"
+        "eurostat:nuts_2021_id":"2513",
+        "se-lant:code":"2513"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:coterminous":[
         1125287801
     ],
@@ -90,7 +92,7 @@
         }
     ],
     "wof:id":1159302979,
-    "wof:lastmodified":1684354746,
+    "wof:lastmodified":1695886748,
     "wof:name":"Overkalix",
     "wof:parent_id":85688471,
     "wof:placetype":"county",

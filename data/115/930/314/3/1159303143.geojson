@@ -148,8 +148,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_0643",
-        "eurostat:nuts_2021_id":"0643"
+        "eurostat:nuts_2021_id":"0643",
+        "se-lant:code":"0643"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525379446,
     "wof:geomhash":"2787fcf9fb9c875f6fad20444efc92d3",
@@ -162,7 +164,7 @@
         }
     ],
     "wof:id":1159303143,
-    "wof:lastmodified":1684354750,
+    "wof:lastmodified":1695886752,
     "wof:name":"Habo",
     "wof:parent_id":85688395,
     "wof:placetype":"county",

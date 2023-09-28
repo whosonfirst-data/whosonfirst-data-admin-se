@@ -145,8 +145,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_1783",
-        "eurostat:nuts_2021_id":"1783"
+        "eurostat:nuts_2021_id":"1783",
+        "se-lant:code":"1783"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525379423,
     "wof:geomhash":"5e96eba399b0cbeeb4e1423d2e3db35b",
@@ -159,7 +161,7 @@
         }
     ],
     "wof:id":1159303063,
-    "wof:lastmodified":1684354748,
+    "wof:lastmodified":1695886750,
     "wof:name":"Hagfors",
     "wof:parent_id":85688435,
     "wof:placetype":"county",

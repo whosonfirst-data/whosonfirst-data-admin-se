@@ -76,8 +76,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_2082",
-        "eurostat:nuts_2021_id":"2082"
+        "eurostat:nuts_2021_id":"2082",
+        "se-lant:code":"2082"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525379434,
     "wof:geomhash":"4fc11b5b72d26bc96c345b56223b5e68",
@@ -90,7 +92,7 @@
         }
     ],
     "wof:id":1159303099,
-    "wof:lastmodified":1684354749,
+    "wof:lastmodified":1695886751,
     "wof:name":"Sater",
     "wof:parent_id":85688447,
     "wof:placetype":"county",

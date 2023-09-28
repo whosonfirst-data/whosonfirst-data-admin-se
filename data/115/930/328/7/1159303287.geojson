@@ -178,8 +178,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_1883",
-        "eurostat:nuts_2021_id":"1883"
+        "eurostat:nuts_2021_id":"1883",
+        "se-lant:code":"1883"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:coterminous":[
         1125394693
     ],
@@ -195,7 +197,7 @@
         }
     ],
     "wof:id":1159303287,
-    "wof:lastmodified":1684354753,
+    "wof:lastmodified":1695886755,
     "wof:name":"Karlskoga",
     "wof:parent_id":85688421,
     "wof:placetype":"county",

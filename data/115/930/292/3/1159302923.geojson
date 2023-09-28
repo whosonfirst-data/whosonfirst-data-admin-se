@@ -73,8 +73,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_1471",
-        "eurostat:nuts_2021_id":"1471"
+        "eurostat:nuts_2021_id":"1471",
+        "se-lant:code":"1471"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525379394,
     "wof:geomhash":"658d486ffa9e737a25d751df457a642c",
@@ -87,7 +89,7 @@
         }
     ],
     "wof:id":1159302923,
-    "wof:lastmodified":1684354745,
+    "wof:lastmodified":1695886746,
     "wof:name":"Gotene",
     "wof:parent_id":85688411,
     "wof:placetype":"county",

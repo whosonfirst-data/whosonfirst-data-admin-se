@@ -73,8 +73,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_1444",
-        "eurostat:nuts_2021_id":"1444"
+        "eurostat:nuts_2021_id":"1444",
+        "se-lant:code":"1444"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525379491,
     "wof:geomhash":"1bc084bd2db4d053c935dc0c5a000afd",
@@ -87,7 +89,7 @@
         }
     ],
     "wof:id":1159303421,
-    "wof:lastmodified":1684354756,
+    "wof:lastmodified":1695886759,
     "wof:name":"Grastorp",
     "wof:parent_id":85688411,
     "wof:placetype":"county",

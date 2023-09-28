@@ -160,8 +160,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_1884",
-        "eurostat:nuts_2021_id":"1884"
+        "eurostat:nuts_2021_id":"1884",
+        "se-lant:code":"1884"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525379422,
     "wof:geomhash":"5fc54204fc5ff3ba75c919dc20d255a8",
@@ -174,7 +176,7 @@
         }
     ],
     "wof:id":1159303053,
-    "wof:lastmodified":1684354748,
+    "wof:lastmodified":1695886750,
     "wof:name":"Nora",
     "wof:parent_id":85688421,
     "wof:placetype":"county",

@@ -133,8 +133,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_2161",
-        "eurostat:nuts_2021_id":"2161"
+        "eurostat:nuts_2021_id":"2161",
+        "se-lant:code":"2161"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525379482,
     "wof:geomhash":"e6a3bb7b6cd8a13f538d5133786aa194",
@@ -147,7 +149,7 @@
         }
     ],
     "wof:id":1159303353,
-    "wof:lastmodified":1684354754,
+    "wof:lastmodified":1695886757,
     "wof:name":"Ljusdal",
     "wof:parent_id":85688453,
     "wof:placetype":"county",

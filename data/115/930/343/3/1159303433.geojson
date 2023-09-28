@@ -73,8 +73,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_0114",
-        "eurostat:nuts_2021_id":"0114"
+        "eurostat:nuts_2021_id":"0114",
+        "se-lant:code":"0114"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525379494,
     "wof:geomhash":"63d86e038e7ec2b2bab201e412352d25",
@@ -87,7 +89,7 @@
         }
     ],
     "wof:id":1159303433,
-    "wof:lastmodified":1684354756,
+    "wof:lastmodified":1695886760,
     "wof:name":"Upplands-Vasby",
     "wof:parent_id":85688429,
     "wof:placetype":"county",

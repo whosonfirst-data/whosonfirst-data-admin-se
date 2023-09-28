@@ -73,8 +73,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_1445",
-        "eurostat:nuts_2021_id":"1445"
+        "eurostat:nuts_2021_id":"1445",
+        "se-lant:code":"1445"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525379505,
     "wof:geomhash":"74a7a28eec3a2a3d86b64c781caab7d4",
@@ -87,7 +89,7 @@
         }
     ],
     "wof:id":1159303499,
-    "wof:lastmodified":1684354758,
+    "wof:lastmodified":1695886762,
     "wof:name":"Essunga",
     "wof:parent_id":85688411,
     "wof:placetype":"county",

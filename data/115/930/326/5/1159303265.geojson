@@ -196,8 +196,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_0191",
-        "eurostat:nuts_2021_id":"0191"
+        "eurostat:nuts_2021_id":"0191",
+        "se-lant:code":"0191"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525379469,
     "wof:geomhash":"d0bfc900867f15fdba1257d8a4a37f74",
@@ -210,7 +212,7 @@
         }
     ],
     "wof:id":1159303265,
-    "wof:lastmodified":1684354753,
+    "wof:lastmodified":1695886755,
     "wof:name":"Sigtuna",
     "wof:parent_id":85688429,
     "wof:placetype":"county",

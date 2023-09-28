@@ -73,8 +73,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_1231",
-        "eurostat:nuts_2021_id":"1231"
+        "eurostat:nuts_2021_id":"1231",
+        "se-lant:code":"1231"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:coterminous":[
         1125395797
     ],
@@ -90,7 +92,7 @@
         }
     ],
     "wof:id":1159303213,
-    "wof:lastmodified":1684354751,
+    "wof:lastmodified":1695886753,
     "wof:name":"Burlov",
     "wof:parent_id":85688377,
     "wof:placetype":"county",

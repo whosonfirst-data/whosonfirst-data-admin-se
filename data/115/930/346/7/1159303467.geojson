@@ -277,8 +277,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_1080",
-        "eurostat:nuts_2021_id":"1080"
+        "eurostat:nuts_2021_id":"1080",
+        "se-lant:code":"1080"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525379500,
     "wof:geomhash":"e2dfa32a6838114f5a776786422bcbd7",
@@ -291,7 +293,7 @@
         }
     ],
     "wof:id":1159303467,
-    "wof:lastmodified":1684354757,
+    "wof:lastmodified":1695886761,
     "wof:name":"Karlskrona",
     "wof:parent_id":85688383,
     "wof:placetype":"county",

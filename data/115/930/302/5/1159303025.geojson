@@ -73,8 +73,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_1292",
-        "eurostat:nuts_2021_id":"1292"
+        "eurostat:nuts_2021_id":"1292",
+        "se-lant:code":"1292"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525379418,
     "wof:geomhash":"5bd0511bea26558f6040e7918ac2ccfe",
@@ -87,7 +89,7 @@
         }
     ],
     "wof:id":1159303025,
-    "wof:lastmodified":1684354747,
+    "wof:lastmodified":1695886749,
     "wof:name":"Angelholm",
     "wof:parent_id":85688377,
     "wof:placetype":"county",

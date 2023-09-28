@@ -73,8 +73,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_1814",
-        "eurostat:nuts_2021_id":"1814"
+        "eurostat:nuts_2021_id":"1814",
+        "se-lant:code":"1814"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525379450,
     "wof:geomhash":"d9e4b8c68b7d5bfb5f6b45cfe9b9cf82",
@@ -87,7 +89,7 @@
         }
     ],
     "wof:id":1159303175,
-    "wof:lastmodified":1684354751,
+    "wof:lastmodified":1695886753,
     "wof:name":"Lekeberg",
     "wof:parent_id":85688421,
     "wof:placetype":"county",

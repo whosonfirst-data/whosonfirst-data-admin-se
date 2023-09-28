@@ -73,8 +73,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_0821",
-        "eurostat:nuts_2021_id":"0821"
+        "eurostat:nuts_2021_id":"0821",
+        "se-lant:code":"0821"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525379399,
     "wof:geomhash":"4cfdf6c4b36c289af4f7627fbc79e92b",
@@ -87,7 +89,7 @@
         }
     ],
     "wof:id":1159302955,
-    "wof:lastmodified":1684354746,
+    "wof:lastmodified":1695886747,
     "wof:name":"Hogsby",
     "wof:parent_id":85688401,
     "wof:placetype":"county",

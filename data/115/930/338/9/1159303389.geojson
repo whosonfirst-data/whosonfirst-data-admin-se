@@ -73,8 +73,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_0428",
-        "eurostat:nuts_2021_id":"0428"
+        "eurostat:nuts_2021_id":"0428",
+        "se-lant:code":"0428"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525379487,
     "wof:geomhash":"3c509cfa621046c63c266d2389452b6b",
@@ -87,7 +89,7 @@
         }
     ],
     "wof:id":1159303389,
-    "wof:lastmodified":1684354755,
+    "wof:lastmodified":1695886758,
     "wof:name":"Vingaker",
     "wof:parent_id":85688419,
     "wof:placetype":"county",

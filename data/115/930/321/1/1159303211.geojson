@@ -142,8 +142,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_1782",
-        "eurostat:nuts_2021_id":"1782"
+        "eurostat:nuts_2021_id":"1782",
+        "se-lant:code":"1782"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525379460,
     "wof:geomhash":"1c7cab4124c88f686d25f7a9bbc5f01f",
@@ -156,7 +158,7 @@
         }
     ],
     "wof:id":1159303211,
-    "wof:lastmodified":1684354751,
+    "wof:lastmodified":1695886753,
     "wof:name":"Filipstad",
     "wof:parent_id":85688435,
     "wof:placetype":"county",

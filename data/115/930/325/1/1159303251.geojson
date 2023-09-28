@@ -73,8 +73,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_1761",
-        "eurostat:nuts_2021_id":"1761"
+        "eurostat:nuts_2021_id":"1761",
+        "se-lant:code":"1761"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525379468,
     "wof:geomhash":"2de350d886f59f194b86aba0c067fe71",
@@ -87,7 +89,7 @@
         }
     ],
     "wof:id":1159303251,
-    "wof:lastmodified":1684354752,
+    "wof:lastmodified":1695886754,
     "wof:name":"Hammaro",
     "wof:parent_id":85688435,
     "wof:placetype":"county",

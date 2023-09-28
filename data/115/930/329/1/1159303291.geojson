@@ -73,8 +73,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_0834",
-        "eurostat:nuts_2021_id":"0834"
+        "eurostat:nuts_2021_id":"0834",
+        "se-lant:code":"0834"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525379473,
     "wof:geomhash":"2d3d953dd3ae1df9eeee87695ca59b69",
@@ -87,7 +89,7 @@
         }
     ],
     "wof:id":1159303291,
-    "wof:lastmodified":1684354753,
+    "wof:lastmodified":1695886755,
     "wof:name":"Torsas",
     "wof:parent_id":85688401,
     "wof:placetype":"county",

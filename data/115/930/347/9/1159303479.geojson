@@ -172,8 +172,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_1495",
-        "eurostat:nuts_2021_id":"1495"
+        "eurostat:nuts_2021_id":"1495",
+        "se-lant:code":"1495"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525379502,
     "wof:geomhash":"556ad309cd203ed9dfe1c74c44f1dbc7",
@@ -186,7 +188,7 @@
         }
     ],
     "wof:id":1159303479,
-    "wof:lastmodified":1684354757,
+    "wof:lastmodified":1695886762,
     "wof:name":"Skara",
     "wof:parent_id":85688411,
     "wof:placetype":"county",

@@ -172,8 +172,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_0584",
-        "eurostat:nuts_2021_id":"0584"
+        "eurostat:nuts_2021_id":"0584",
+        "se-lant:code":"0584"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525379490,
     "wof:geomhash":"7a0e9bc6fedeb4ed98b6ede66a77c44d",
@@ -186,7 +188,7 @@
         }
     ],
     "wof:id":1159303411,
-    "wof:lastmodified":1684354756,
+    "wof:lastmodified":1695886759,
     "wof:name":"Vadstena",
     "wof:parent_id":85688409,
     "wof:placetype":"county",

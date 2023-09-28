@@ -118,8 +118,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_1273",
-        "eurostat:nuts_2021_id":"1273"
+        "eurostat:nuts_2021_id":"1273",
+        "se-lant:code":"1273"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525379449,
     "wof:geomhash":"164d75298e78ce91890f22354cf47571",
@@ -132,7 +134,7 @@
         }
     ],
     "wof:id":1159303165,
-    "wof:lastmodified":1684354751,
+    "wof:lastmodified":1695886752,
     "wof:name":"Osby",
     "wof:parent_id":85688377,
     "wof:placetype":"county",

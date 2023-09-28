@@ -121,8 +121,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_1763",
-        "eurostat:nuts_2021_id":"1763"
+        "eurostat:nuts_2021_id":"1763",
+        "se-lant:code":"1763"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525379490,
     "wof:geomhash":"c9d9da8f56e1d2caef53ba5b10e98416",
@@ -135,7 +137,7 @@
         }
     ],
     "wof:id":1159303413,
-    "wof:lastmodified":1684354756,
+    "wof:lastmodified":1695886759,
     "wof:name":"Forshaga",
     "wof:parent_id":85688435,
     "wof:placetype":"county",

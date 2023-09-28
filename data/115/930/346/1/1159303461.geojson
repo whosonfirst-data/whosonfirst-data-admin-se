@@ -91,8 +91,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_1860",
-        "eurostat:nuts_2021_id":"1860"
+        "eurostat:nuts_2021_id":"1860",
+        "se-lant:code":"1860"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525379499,
     "wof:geomhash":"6d5ddddf9dc467763fb6f8c0562a258d",
@@ -105,7 +107,7 @@
         }
     ],
     "wof:id":1159303461,
-    "wof:lastmodified":1684354757,
+    "wof:lastmodified":1695886761,
     "wof:name":"Laxa",
     "wof:parent_id":85688421,
     "wof:placetype":"county",

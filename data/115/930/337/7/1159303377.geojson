@@ -73,8 +73,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_0617",
-        "eurostat:nuts_2021_id":"0617"
+        "eurostat:nuts_2021_id":"0617",
+        "se-lant:code":"0617"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525379485,
     "wof:geomhash":"f75ff4185f758f39c1fad0fb69c37dc5",
@@ -87,7 +89,7 @@
         }
     ],
     "wof:id":1159303377,
-    "wof:lastmodified":1684354755,
+    "wof:lastmodified":1695886758,
     "wof:name":"Gnosjo",
     "wof:parent_id":85688395,
     "wof:placetype":"county",

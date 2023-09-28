@@ -118,8 +118,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_0331",
-        "eurostat:nuts_2021_id":"0331"
+        "eurostat:nuts_2021_id":"0331",
+        "se-lant:code":"0331"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525379481,
     "wof:geomhash":"a3145fa818108d420b28f1292b07120a",
@@ -132,7 +134,7 @@
         }
     ],
     "wof:id":1159303349,
-    "wof:lastmodified":1684354754,
+    "wof:lastmodified":1695886757,
     "wof:name":"Heby",
     "wof:parent_id":85688439,
     "wof:placetype":"county",

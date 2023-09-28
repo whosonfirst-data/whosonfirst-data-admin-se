@@ -73,8 +73,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_2580",
-        "eurostat:nuts_2021_id":"2580"
+        "eurostat:nuts_2021_id":"2580",
+        "se-lant:code":"2580"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525379476,
     "wof:geomhash":"da35ca65da7820f00143e3c66aa08274",
@@ -87,7 +89,7 @@
         }
     ],
     "wof:id":1159303317,
-    "wof:lastmodified":1684354754,
+    "wof:lastmodified":1695886756,
     "wof:name":"Lulea",
     "wof:parent_id":85688471,
     "wof:placetype":"county",

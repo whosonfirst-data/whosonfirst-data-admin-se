@@ -73,8 +73,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_0192",
-        "eurostat:nuts_2021_id":"0192"
+        "eurostat:nuts_2021_id":"0192",
+        "se-lant:code":"0192"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525379472,
     "wof:geomhash":"f2f7667a709a4092737dfaf69ca9ae9c",
@@ -87,7 +89,7 @@
         }
     ],
     "wof:id":1159303285,
-    "wof:lastmodified":1684354753,
+    "wof:lastmodified":1695886755,
     "wof:name":"Nynashamn",
     "wof:parent_id":85688429,
     "wof:placetype":"county",

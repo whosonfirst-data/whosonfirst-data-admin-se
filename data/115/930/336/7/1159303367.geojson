@@ -73,8 +73,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_1280",
-        "eurostat:nuts_2021_id":"1280"
+        "eurostat:nuts_2021_id":"1280",
+        "se-lant:code":"1280"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525379483,
     "wof:geomhash":"7dba2dbdec56abceec6e757a91a4be07",
@@ -87,7 +89,7 @@
         }
     ],
     "wof:id":1159303367,
-    "wof:lastmodified":1684354755,
+    "wof:lastmodified":1695886758,
     "wof:name":"Malmo",
     "wof:parent_id":85688377,
     "wof:placetype":"county",

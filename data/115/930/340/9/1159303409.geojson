@@ -154,8 +154,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_1981",
-        "eurostat:nuts_2021_id":"1981"
+        "eurostat:nuts_2021_id":"1981",
+        "se-lant:code":"1981"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525379490,
     "wof:geomhash":"03107a01a54b95fe4007a4c40c43dced",
@@ -168,7 +170,7 @@
         }
     ],
     "wof:id":1159303409,
-    "wof:lastmodified":1684354756,
+    "wof:lastmodified":1695886759,
     "wof:name":"Sala",
     "wof:parent_id":85688425,
     "wof:placetype":"county",

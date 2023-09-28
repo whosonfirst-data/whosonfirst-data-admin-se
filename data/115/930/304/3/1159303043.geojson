@@ -73,8 +73,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_2560",
-        "eurostat:nuts_2021_id":"2560"
+        "eurostat:nuts_2021_id":"2560",
+        "se-lant:code":"2560"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:coterminous":[
         1125373611
     ],
@@ -90,7 +92,7 @@
         }
     ],
     "wof:id":1159303043,
-    "wof:lastmodified":1684354748,
+    "wof:lastmodified":1695886749,
     "wof:name":"Alvsbyn",
     "wof:parent_id":85688471,
     "wof:placetype":"county",

@@ -130,8 +130,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_2506",
-        "eurostat:nuts_2021_id":"2506"
+        "eurostat:nuts_2021_id":"2506",
+        "se-lant:code":"2506"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:coterminous":[
         1125300073
     ],
@@ -147,7 +149,7 @@
         }
     ],
     "wof:id":1159303049,
-    "wof:lastmodified":1684354748,
+    "wof:lastmodified":1695886749,
     "wof:name":"Arjeplog",
     "wof:parent_id":85688471,
     "wof:placetype":"county",

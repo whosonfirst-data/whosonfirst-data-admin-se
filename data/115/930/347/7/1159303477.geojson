@@ -109,8 +109,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_2582",
-        "eurostat:nuts_2021_id":"2582"
+        "eurostat:nuts_2021_id":"2582",
+        "se-lant:code":"2582"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525379501,
     "wof:geomhash":"79f99291088c7067904c7766cb767dd3",
@@ -123,7 +125,7 @@
         }
     ],
     "wof:id":1159303477,
-    "wof:lastmodified":1684354757,
+    "wof:lastmodified":1695886762,
     "wof:name":"Boden",
     "wof:parent_id":85688471,
     "wof:placetype":"county",

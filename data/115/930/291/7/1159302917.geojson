@@ -73,8 +73,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_0780",
-        "eurostat:nuts_2021_id":"0780"
+        "eurostat:nuts_2021_id":"0780",
+        "se-lant:code":"0780"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525379393,
     "wof:geomhash":"2daecab249d648d5afe7c48362ad6616",
@@ -87,7 +89,7 @@
         }
     ],
     "wof:id":1159302917,
-    "wof:lastmodified":1684354745,
+    "wof:lastmodified":1695886746,
     "wof:name":"Vaxjo",
     "wof:parent_id":85688387,
     "wof:placetype":"county",

@@ -73,8 +73,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_0186",
-        "eurostat:nuts_2021_id":"0186"
+        "eurostat:nuts_2021_id":"0186",
+        "se-lant:code":"0186"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:coterminous":[
         1125394719
     ],
@@ -90,7 +92,7 @@
         }
     ],
     "wof:id":1159303469,
-    "wof:lastmodified":1684354757,
+    "wof:lastmodified":1695886761,
     "wof:name":"Lidingo",
     "wof:parent_id":85688429,
     "wof:placetype":"county",

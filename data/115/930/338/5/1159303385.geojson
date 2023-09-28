@@ -73,8 +73,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_2182",
-        "eurostat:nuts_2021_id":"2182"
+        "eurostat:nuts_2021_id":"2182",
+        "se-lant:code":"2182"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525379486,
     "wof:geomhash":"919e8de0bd4544d919efd826af2592d4",
@@ -87,7 +89,7 @@
         }
     ],
     "wof:id":1159303385,
-    "wof:lastmodified":1684354755,
+    "wof:lastmodified":1695886758,
     "wof:name":"Soderhamn",
     "wof:parent_id":85688453,
     "wof:placetype":"county",

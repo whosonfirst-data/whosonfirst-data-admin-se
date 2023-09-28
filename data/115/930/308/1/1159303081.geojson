@@ -73,8 +73,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_2132",
-        "eurostat:nuts_2021_id":"2132"
+        "eurostat:nuts_2021_id":"2132",
+        "se-lant:code":"2132"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525379432,
     "wof:geomhash":"79dc1598fedcd17aff954c4322557227",
@@ -87,7 +89,7 @@
         }
     ],
     "wof:id":1159303081,
-    "wof:lastmodified":1684354749,
+    "wof:lastmodified":1695886750,
     "wof:name":"Nordanstig",
     "wof:parent_id":85688453,
     "wof:placetype":"county",

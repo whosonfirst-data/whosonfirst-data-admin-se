@@ -73,8 +73,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_1261",
-        "eurostat:nuts_2021_id":"1261"
+        "eurostat:nuts_2021_id":"1261",
+        "se-lant:code":"1261"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525379513,
     "wof:geomhash":"e6d056c016b6018c5d38b1231ab01caa",
@@ -87,7 +89,7 @@
         }
     ],
     "wof:id":1159303543,
-    "wof:lastmodified":1684354759,
+    "wof:lastmodified":1695886764,
     "wof:name":"Kavlinge",
     "wof:parent_id":85688377,
     "wof:placetype":"county",

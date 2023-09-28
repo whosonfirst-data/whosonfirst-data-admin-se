@@ -73,8 +73,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_2039",
-        "eurostat:nuts_2021_id":"2039"
+        "eurostat:nuts_2021_id":"2039",
+        "se-lant:code":"2039"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525379484,
     "wof:geomhash":"fcf8382e4a20d2da33471990a97d9eb1",
@@ -87,7 +89,7 @@
         }
     ],
     "wof:id":1159303373,
-    "wof:lastmodified":1684354755,
+    "wof:lastmodified":1695886758,
     "wof:name":"Alvdalen",
     "wof:parent_id":85688447,
     "wof:placetype":"county",

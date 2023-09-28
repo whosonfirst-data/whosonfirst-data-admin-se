@@ -130,8 +130,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_1262",
-        "eurostat:nuts_2021_id":"1262"
+        "eurostat:nuts_2021_id":"1262",
+        "se-lant:code":"1262"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525379407,
     "wof:geomhash":"d11360b28f3309139894a28e8c6b7629",
@@ -144,7 +146,7 @@
         }
     ],
     "wof:id":1159302981,
-    "wof:lastmodified":1684354746,
+    "wof:lastmodified":1695886748,
     "wof:name":"Lomma",
     "wof:parent_id":85688377,
     "wof:placetype":"county",

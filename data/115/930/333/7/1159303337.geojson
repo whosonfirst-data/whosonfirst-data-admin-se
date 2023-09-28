@@ -73,8 +73,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_0381",
-        "eurostat:nuts_2021_id":"0381"
+        "eurostat:nuts_2021_id":"0381",
+        "se-lant:code":"0381"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525379480,
     "wof:geomhash":"325fc67a9a1737a564fb3c97c46944db",
@@ -87,7 +89,7 @@
         }
     ],
     "wof:id":1159303337,
-    "wof:lastmodified":1684354754,
+    "wof:lastmodified":1695886757,
     "wof:name":"Enkoping",
     "wof:parent_id":85688439,
     "wof:placetype":"county",

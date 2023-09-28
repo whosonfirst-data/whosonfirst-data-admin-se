@@ -73,8 +73,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_1494",
-        "eurostat:nuts_2021_id":"1494"
+        "eurostat:nuts_2021_id":"1494",
+        "se-lant:code":"1494"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525379471,
     "wof:geomhash":"f7acc62bfd96b38c77c90fa6e05c09f2",
@@ -87,7 +89,7 @@
         }
     ],
     "wof:id":1159303281,
-    "wof:lastmodified":1684354753,
+    "wof:lastmodified":1695886755,
     "wof:name":"Lidkoping",
     "wof:parent_id":85688411,
     "wof:placetype":"county",

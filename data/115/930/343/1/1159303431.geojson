@@ -73,8 +73,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_2023",
-        "eurostat:nuts_2021_id":"2023"
+        "eurostat:nuts_2021_id":"2023",
+        "se-lant:code":"2023"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525379493,
     "wof:geomhash":"8e5206aac8ee4953c74e6399991120c9",
@@ -87,7 +89,7 @@
         }
     ],
     "wof:id":1159303431,
-    "wof:lastmodified":1684354756,
+    "wof:lastmodified":1695886760,
     "wof:name":"Malung-Salen",
     "wof:parent_id":85688447,
     "wof:placetype":"county",

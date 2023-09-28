@@ -73,8 +73,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_0562",
-        "eurostat:nuts_2021_id":"0562"
+        "eurostat:nuts_2021_id":"0562",
+        "se-lant:code":"0562"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525379419,
     "wof:geomhash":"c49fdf552ef6d7736f390f6cc082128c",
@@ -87,7 +89,7 @@
         }
     ],
     "wof:id":1159303029,
-    "wof:lastmodified":1684354747,
+    "wof:lastmodified":1695886749,
     "wof:name":"Finspang",
     "wof:parent_id":85688409,
     "wof:placetype":"county",

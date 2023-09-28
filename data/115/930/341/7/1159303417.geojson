@@ -73,8 +73,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_2313",
-        "eurostat:nuts_2021_id":"2313"
+        "eurostat:nuts_2021_id":"2313",
+        "se-lant:code":"2313"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525379491,
     "wof:geomhash":"6fa04868509029fd918a456a881417c2",
@@ -87,7 +89,7 @@
         }
     ],
     "wof:id":1159303417,
-    "wof:lastmodified":1684354756,
+    "wof:lastmodified":1695886759,
     "wof:name":"Stromsund",
     "wof:parent_id":85688461,
     "wof:placetype":"county",

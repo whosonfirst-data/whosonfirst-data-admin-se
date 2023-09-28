@@ -133,8 +133,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_2505",
-        "eurostat:nuts_2021_id":"2505"
+        "eurostat:nuts_2021_id":"2505",
+        "se-lant:code":"2505"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:coterminous":[
         1125359285
     ],
@@ -150,7 +152,7 @@
         }
     ],
     "wof:id":1159303009,
-    "wof:lastmodified":1684354747,
+    "wof:lastmodified":1695886748,
     "wof:name":"Arvidsjaur",
     "wof:parent_id":85688471,
     "wof:placetype":"county",

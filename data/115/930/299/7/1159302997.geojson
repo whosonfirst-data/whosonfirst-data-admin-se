@@ -130,8 +130,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_0482",
-        "eurostat:nuts_2021_id":"0482"
+        "eurostat:nuts_2021_id":"0482",
+        "se-lant:code":"0482"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525379410,
     "wof:geomhash":"715764e53c7df427d7c0f229a8ae9c96",
@@ -144,7 +146,7 @@
         }
     ],
     "wof:id":1159302997,
-    "wof:lastmodified":1684354747,
+    "wof:lastmodified":1695886748,
     "wof:name":"Flen",
     "wof:parent_id":85688419,
     "wof:placetype":"county",

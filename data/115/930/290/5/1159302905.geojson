@@ -154,8 +154,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_0187",
-        "eurostat:nuts_2021_id":"0187"
+        "eurostat:nuts_2021_id":"0187",
+        "se-lant:code":"0187"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:coterminous":[
         1125283877
     ],
@@ -171,7 +173,7 @@
         }
     ],
     "wof:id":1159302905,
-    "wof:lastmodified":1684354745,
+    "wof:lastmodified":1695886745,
     "wof:name":"Vaxholm",
     "wof:parent_id":85688429,
     "wof:placetype":"county",

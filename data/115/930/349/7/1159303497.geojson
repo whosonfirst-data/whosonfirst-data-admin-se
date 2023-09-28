@@ -226,8 +226,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_1290",
-        "eurostat:nuts_2021_id":"1290"
+        "eurostat:nuts_2021_id":"1290",
+        "se-lant:code":"1290"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525379505,
     "wof:geomhash":"0fa5cd57df373a519bc5118304aa6f62",
@@ -240,7 +242,7 @@
         }
     ],
     "wof:id":1159303497,
-    "wof:lastmodified":1684354758,
+    "wof:lastmodified":1695886762,
     "wof:name":"Kristianstad",
     "wof:parent_id":85688377,
     "wof:placetype":"county",

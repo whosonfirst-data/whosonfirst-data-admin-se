@@ -73,8 +73,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_2361",
-        "eurostat:nuts_2021_id":"2361"
+        "eurostat:nuts_2021_id":"2361",
+        "se-lant:code":"2361"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525379467,
     "wof:geomhash":"f230cf527f82d56e8e27019d9d2951ae",
@@ -87,7 +89,7 @@
         }
     ],
     "wof:id":1159303245,
-    "wof:lastmodified":1684354752,
+    "wof:lastmodified":1695886754,
     "wof:name":"Harjedalen",
     "wof:parent_id":85688461,
     "wof:placetype":"county",

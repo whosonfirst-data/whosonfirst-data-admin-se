@@ -73,8 +73,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_0125",
-        "eurostat:nuts_2021_id":"0125"
+        "eurostat:nuts_2021_id":"0125",
+        "se-lant:code":"0125"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525379410,
     "wof:geomhash":"a2d3d88aa62746d3b7ce640e509597ce",
@@ -87,7 +89,7 @@
         }
     ],
     "wof:id":1159302999,
-    "wof:lastmodified":1684354747,
+    "wof:lastmodified":1695886748,
     "wof:name":"Ekero",
     "wof:parent_id":85688429,
     "wof:placetype":"county",

@@ -73,8 +73,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_0136",
-        "eurostat:nuts_2021_id":"0136"
+        "eurostat:nuts_2021_id":"0136",
+        "se-lant:code":"0136"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525379503,
     "wof:geomhash":"2acc5262645130e9eba25afd1cd788a9",
@@ -87,7 +89,7 @@
         }
     ],
     "wof:id":1159303483,
-    "wof:lastmodified":1684354757,
+    "wof:lastmodified":1695886762,
     "wof:name":"Haninge",
     "wof:parent_id":85688429,
     "wof:placetype":"county",
