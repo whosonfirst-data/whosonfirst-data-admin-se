@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006793,
-    "geom:area_square_m":46114255.098244,
+    "geom:area_square_m":46114255.098245,
     "geom:bbox":"15.9181439649,56.6613300439,16.0856540402,56.7566888974",
     "geom:latitude":56.702788,
     "geom:longitude":16.011173,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.696568,
     "lbl:longitude":16.025508,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"105051"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733835,
-    "wof:geomhash":"80234d448b6aab5f71d089d8635114fe",
+    "wof:geomhash":"e4f802f60ca887e48d55e2647e94f96d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159305653,
-    "wof:lastmodified":1566643292,
+    "wof:lastmodified":1695879416,
     "wof:name":"Sankt Sigfrid",
     "wof:parent_id":1159302907,
     "wof:placetype":"localadmin",

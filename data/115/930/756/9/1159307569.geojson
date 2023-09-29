@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001166,
-    "geom:area_square_m":8120404.072576,
+    "geom:area_square_m":8120404.072579,
     "geom:bbox":"12.9900052072,55.7055643031,13.0748927952,55.7339655546",
     "geom:latitude":55.720311,
     "geom:longitude":13.035905,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.720786,
     "lbl:longitude":13.035325,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101154"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734346,
-    "wof:geomhash":"6d09a08ffa751ef6a4658f86ee3e327e",
+    "wof:geomhash":"329c631d1e8be185912cecf323d64bb2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307569,
-    "wof:lastmodified":1566643276,
+    "wof:lastmodified":1695879413,
     "wof:name":"Fladie",
     "wof:parent_id":1159302981,
     "wof:placetype":"localadmin",

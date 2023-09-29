@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011248,
-    "geom:area_square_m":76504900.047214,
+    "geom:area_square_m":76504900.047208,
     "geom:bbox":"15.6937772441,56.5852488254,15.9395196548,56.6690266263",
     "geom:latitude":56.627442,
     "geom:longitude":15.82544,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":329,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.624413,
     "lbl:longitude":15.847751,
     "lbl:max_zoom":17.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132696,
-        "qs_pg:id":109486
+        "qs_pg:id":109486,
+        "se-lant:code":"105030"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497044920,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"7e1cdb07e33827669de52e64c6974a77",
+    "wof:geomhash":"7b20bbea0bd908595dae37348be5caea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125327763,
-    "wof:lastmodified":1582340763,
+    "wof:lastmodified":1695879457,
     "wof:name":"Oskar",
     "wof:parent_id":1159302907,
     "wof:placetype":"localadmin",

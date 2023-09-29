@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005702,
-    "geom:area_square_m":37794766.757122,
+    "geom:area_square_m":37794766.757117,
     "geom:bbox":"13.2526022823,57.5397974409,13.4035873429,57.6283837249",
     "geom:latitude":57.585829,
     "geom:longitude":13.336919,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":365,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.589191,
     "lbl:longitude":13.335767,
     "lbl:max_zoom":17.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132013,
-        "qs_pg:id":381326
+        "qs_pg:id":381326,
+        "se-lant:code":"107051"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497048100,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"c63f90d2e91a5abfffe92f1e535956df",
+    "wof:geomhash":"9580bb49a41d9cb3b51d8a7fc65eae83",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125381929,
-    "wof:lastmodified":1582340843,
+    "wof:lastmodified":1695879517,
     "wof:name":"Manstad",
     "wof:parent_id":1159303181,
     "wof:placetype":"localadmin",

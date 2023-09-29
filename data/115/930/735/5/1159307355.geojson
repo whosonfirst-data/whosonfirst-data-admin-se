@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006117,
-    "geom:area_square_m":39829319.009083,
+    "geom:area_square_m":39829319.009079,
     "geom:bbox":"13.1202441021,58.1842518801,13.3199625479,58.264914184",
     "geom:latitude":58.224377,
     "geom:longitude":13.215762,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.239626,
     "lbl:longitude":13.190834,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107257"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734292,
-    "wof:geomhash":"e82ebd6edab720c030a5e8a72ef3ec3b",
+    "wof:geomhash":"3f05e262ced51ce2a2148a3b595ae256",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307355,
-    "wof:lastmodified":1566643284,
+    "wof:lastmodified":1695879414,
     "wof:name":"Edsvara",
     "wof:parent_id":1159303487,
     "wof:placetype":"localadmin",

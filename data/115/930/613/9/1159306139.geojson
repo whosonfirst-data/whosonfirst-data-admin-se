@@ -10,6 +10,15 @@
     "geom:latitude":55.669324,
     "geom:longitude":13.206108,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.671222,
     "lbl:longitude":13.200371,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101158"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733956,
-    "wof:geomhash":"4a53e83ca2b6633bc8007785617aeddf",
+    "wof:geomhash":"90e1a2e6c57978ba4237bd6e8c17591a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306139,
-    "wof:lastmodified":1566643298,
+    "wof:lastmodified":1695879417,
     "wof:name":"Knastorp",
     "wof:parent_id":1159303125,
     "wof:placetype":"localadmin",

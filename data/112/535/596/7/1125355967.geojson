@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005931,
-    "geom:area_square_m":38318784.422061,
+    "geom:area_square_m":38318784.422058,
     "geom:bbox":"15.270289494,58.4503457552,15.3928904797,58.5496993463",
     "geom:latitude":58.500926,
     "geom:longitude":15.336802,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":667,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.499988,
     "lbl:longitude":15.337763,
     "lbl:max_zoom":17.0,
@@ -73,14 +82,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131623,
-        "qs_pg:id":757625
+        "qs_pg:id":757625,
+        "se-lant:code":"108107"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497046474,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"8ffe454c84fdb767d35af306051f7af9",
+    "wof:geomhash":"49b620dd155086a485e0a1b34c34c91c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +102,7 @@
         }
     ],
     "wof:id":1125355967,
-    "wof:lastmodified":1582340745,
+    "wof:lastmodified":1695879444,
     "wof:name":"Klockrike",
     "wof:parent_id":1159303391,
     "wof:placetype":"localadmin",

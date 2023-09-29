@@ -487,11 +487,17 @@
         "gn:id":2699767,
         "gp:id":2347053,
         "hasc:id":"SE.KO",
+        "iso:code":"SE-W",
         "iso:id":"SE-W",
+        "se-lant:code":"20",
         "wd:id":"Q103732"
     },
+    "wof:concordances_official":"se-lant:code",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"SE",
-    "wof:geomhash":"2dccfdd15dbaf694ff04b13c28344044",
+    "wof:geomhash":"3dd92b205d57bc131114d1cb7e558ab6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -507,7 +513,7 @@
         "swe",
         "fin"
     ],
-    "wof:lastmodified":1690862993,
+    "wof:lastmodified":1695885317,
     "wof:name":"Dalarna",
     "wof:parent_id":85633789,
     "wof:placetype":"region",

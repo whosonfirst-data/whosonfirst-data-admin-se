@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031613,
-    "geom:area_square_m":186916423.497104,
+    "geom:area_square_m":186916423.497088,
     "geom:bbox":"16.6411261811,61.3435988328,16.959431713,61.535741438",
     "geom:latitude":61.434422,
     "geom:longitude":16.801761,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":848,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":61.429438,
     "lbl:longitude":16.790937,
     "lbl:max_zoom":17.0,
@@ -70,14 +79,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132494,
-        "qs_pg:id":758174
+        "qs_pg:id":758174,
+        "se-lant:code":"318017"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497042771,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"f107282ca68ee6815407b5fc04945305",
+    "wof:geomhash":"edfef05ccd8bf20a2d64ce6e5bbee6a7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +99,7 @@
         }
     ],
     "wof:id":1125287431,
-    "wof:lastmodified":1582340797,
+    "wof:lastmodified":1695879485,
     "wof:name":"Trono",
     "wof:parent_id":1159303385,
     "wof:placetype":"localadmin",

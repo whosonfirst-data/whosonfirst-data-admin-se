@@ -103,8 +103,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_1402",
-        "eurostat:nuts_2021_id":"1402"
+        "eurostat:nuts_2021_id":"1402",
+        "se-lant:code":"1402"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:coterminous":[
         1125270905
     ],
@@ -120,7 +122,7 @@
         }
     ],
     "wof:id":1159303085,
-    "wof:lastmodified":1684354749,
+    "wof:lastmodified":1695886750,
     "wof:name":"Partille",
     "wof:parent_id":85688411,
     "wof:placetype":"county",

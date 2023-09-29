@@ -73,8 +73,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_0188",
-        "eurostat:nuts_2021_id":"0188"
+        "eurostat:nuts_2021_id":"0188",
+        "se-lant:code":"0188"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525379409,
     "wof:geomhash":"1c0eec981f5fd29cbadcc0ddc92b60bf",
@@ -87,7 +89,7 @@
         }
     ],
     "wof:id":1159302995,
-    "wof:lastmodified":1684354747,
+    "wof:lastmodified":1695886748,
     "wof:name":"Norrtalje",
     "wof:parent_id":85688429,
     "wof:placetype":"county",

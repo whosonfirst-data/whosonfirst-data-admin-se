@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011315,
-    "geom:area_square_m":72114968.746246,
+    "geom:area_square_m":72114968.746236,
     "geom:bbox":"16.6952890033,58.9298792301,16.8899285924,59.029948092",
     "geom:latitude":58.97451,
     "geom:longitude":16.794927,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":242,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.985743,
     "lbl:longitude":16.796402,
     "lbl:max_zoom":17.0,
@@ -82,14 +91,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132877,
-        "qs_pg:id":758405
+        "qs_pg:id":758405,
+        "se-lant:code":"212025"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497042792,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"f6d0fcb8e6f4d8f64721f7965220c167",
+    "wof:geomhash":"e491d0b86d9ef216952d3bd24dd0cba8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -100,7 +111,7 @@
         }
     ],
     "wof:id":1125287951,
-    "wof:lastmodified":1582340791,
+    "wof:lastmodified":1695879481,
     "wof:name":"Ardala",
     "wof:parent_id":1159302997,
     "wof:placetype":"localadmin",

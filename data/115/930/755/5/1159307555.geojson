@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003537,
-    "geom:area_square_m":22822138.739865,
+    "geom:area_square_m":22822138.739871,
     "geom:bbox":"13.0407500709,58.5182613466,13.1688991586,58.5683130525",
     "geom:latitude":58.5413,
     "geom:longitude":13.097447,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.54185,
     "lbl:longitude":13.097452,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107402"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734343,
-    "wof:geomhash":"89e137f533ac3ff41889db033b0f9606",
+    "wof:geomhash":"c0b3550c35c204a9fd20aca48f1ccadd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307555,
-    "wof:lastmodified":1566643144,
+    "wof:lastmodified":1695879389,
     "wof:name":"Gosslunda",
     "wof:parent_id":1159303281,
     "wof:placetype":"localadmin",

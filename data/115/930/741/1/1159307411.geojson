@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000504,
-    "geom:area_square_m":3541681.815517,
+    "geom:area_square_m":3541681.815516,
     "geom:bbox":"13.1713952206,55.3662392548,13.2085219813,55.395115668",
     "geom:latitude":55.381219,
     "geom:longitude":13.191753,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.382449,
     "lbl:longitude":13.190489,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101006"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734303,
-    "wof:geomhash":"d4ab8c23bc704e32c63895c71bf7172b",
+    "wof:geomhash":"87fa0a67deecd5fd95648eef1dae471d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307411,
-    "wof:lastmodified":1566643264,
+    "wof:lastmodified":1695879411,
     "wof:name":"Kyrkokopinge",
     "wof:parent_id":1159303309,
     "wof:placetype":"localadmin",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.087872,
-    "geom:area_square_m":584381089.81667,
+    "geom:area_square_m":584381089.816635,
     "geom:bbox":"16.3115976733,57.3237027891,16.8219771269,57.6157550448",
     "geom:latitude":57.464757,
     "geom:longitude":16.579689,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":2579,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.463541,
     "lbl:longitude":16.574885,
     "lbl:max_zoom":15.0,
@@ -64,14 +73,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131988,
-        "qs_pg:id":757869
+        "qs_pg:id":757869,
+        "se-lant:code":"105215"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497045615,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"7366d974137860419a081a1ccf74c4d5",
+    "wof:geomhash":"73f7c87f77b2283684eca1640ad4bc5e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,7 +93,7 @@
         }
     ],
     "wof:id":1125340203,
-    "wof:lastmodified":1582340733,
+    "wof:lastmodified":1695879435,
     "wof:name":"Misterhult",
     "wof:parent_id":1159303119,
     "wof:placetype":"localadmin",

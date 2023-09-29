@@ -295,8 +295,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_0980",
-        "eurostat:nuts_2021_id":"0980"
+        "eurostat:nuts_2021_id":"0980",
+        "se-lant:code":"0980"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:coterminous":[
         85688405
     ],
@@ -312,7 +314,7 @@
         }
     ],
     "wof:id":1159303535,
-    "wof:lastmodified":1684354759,
+    "wof:lastmodified":1695886764,
     "wof:name":"Gotland",
     "wof:parent_id":85688405,
     "wof:placetype":"county",

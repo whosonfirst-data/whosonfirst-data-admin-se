@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001849,
-    "geom:area_square_m":11712006.492564,
+    "geom:area_square_m":11712006.49256,
     "geom:bbox":"17.588275599,59.1556902713,17.6700890693,59.2062744745",
     "geom:latitude":59.181182,
     "geom:longitude":17.629016,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.181936,
     "lbl:longitude":17.624983,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"212070"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734332,
-    "wof:geomhash":"1366c4556a2ba2003f8ca2a2d107df44",
+    "wof:geomhash":"76aaa79f4b5fe9c913a964483d721bc0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307513,
-    "wof:lastmodified":1566643279,
+    "wof:lastmodified":1695879413,
     "wof:name":"Sodertalje",
     "wof:parent_id":1159303135,
     "wof:placetype":"localadmin",

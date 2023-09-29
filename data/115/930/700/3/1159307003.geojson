@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001344,
-    "geom:area_square_m":9423761.96932,
+    "geom:area_square_m":9423761.969318,
     "geom:bbox":"13.0512369558,55.4352519702,13.120655495,55.4626635516",
     "geom:latitude":55.450371,
     "geom:longitude":13.08561,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.448608,
     "lbl:longitude":13.086262,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101021"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734199,
-    "wof:geomhash":"d7279d4b3986ff704a504f17d36c89ef",
+    "wof:geomhash":"4d9b681a045df790eb639036d6ba00af",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307003,
-    "wof:lastmodified":1566643172,
+    "wof:lastmodified":1695879393,
     "wof:name":"Fuglie",
     "wof:parent_id":1159303309,
     "wof:placetype":"localadmin",

@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001999,
-    "geom:area_square_m":12945296.489783,
+    "geom:area_square_m":12945296.489782,
     "geom:bbox":"12.6461271984,58.3898587771,12.7771057063,58.4238015591",
     "geom:latitude":58.409713,
     "geom:longitude":12.693488,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.407133,
     "lbl:longitude":12.688483,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107329"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734295,
-    "wof:geomhash":"006d9237aaac641fbcb2cfc882e13b88",
+    "wof:geomhash":"d09107f968aad75084f2fc531744c638",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307371,
-    "wof:lastmodified":1566643153,
+    "wof:lastmodified":1695879391,
     "wof:name":"Karaby",
     "wof:parent_id":1159303281,
     "wof:placetype":"localadmin",

@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017313,
-    "geom:area_square_m":109121843.497893,
+    "geom:area_square_m":109121843.497892,
     "geom:bbox":"15.3572252293,59.2798732192,15.6353140473,59.4335884987",
     "geom:latitude":59.354069,
     "geom:longitude":15.507214,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.334598,
     "lbl:longitude":15.565438,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"211042"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733850,
-    "wof:geomhash":"1e058ab7d0f263fb5ac5ee3480fa9db8",
+    "wof:geomhash":"8d27c301aaefdbed277e43e05b1429e0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159305715,
-    "wof:lastmodified":1566643356,
+    "wof:lastmodified":1695879429,
     "wof:name":"Lillkyrka-Odeby",
     "wof:parent_id":1159303031,
     "wof:placetype":"localadmin",

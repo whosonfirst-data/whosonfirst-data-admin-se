@@ -10,6 +10,15 @@
     "geom:latitude":59.647777,
     "geom:longitude":17.633923,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.655494,
     "lbl:longitude":17.624439,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"215080"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734002,
-    "wof:geomhash":"1a3d42aa081e1af0b3901b1ef4de5252",
+    "wof:geomhash":"82fd0a4a0367b87654ca0509d8621229",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306325,
-    "wof:lastmodified":1566643220,
+    "wof:lastmodified":1695879403,
     "wof:name":"Sigtuna Sankt Per",
     "wof:parent_id":1159303265,
     "wof:placetype":"localadmin",

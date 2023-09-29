@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011286,
-    "geom:area_square_m":69401676.159329,
+    "geom:area_square_m":69401676.15933,
     "geom:bbox":"17.7024744719,60.1258098944,17.9033503724,60.2311933792",
     "geom:latitude":60.176969,
     "geom:longitude":17.798541,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":500,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":60.187208,
     "lbl:longitude":17.806935,
     "lbl:max_zoom":17.0,
@@ -70,14 +79,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132933,
-        "qs_pg:id":758447
+        "qs_pg:id":758447,
+        "se-lant:code":"215186"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497052318,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"0bc528d5f70aef953ac0a452a9ed7465",
+    "wof:geomhash":"1ae75ce1dba7a7373ba5e818f72f9112",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +99,7 @@
         }
     ],
     "wof:id":1125421447,
-    "wof:lastmodified":1582340813,
+    "wof:lastmodified":1695879496,
     "wof:name":"Dannemora",
     "wof:parent_id":1159303415,
     "wof:placetype":"localadmin",

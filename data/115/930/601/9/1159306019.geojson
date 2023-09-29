@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005298,
-    "geom:area_square_m":36888008.850865,
+    "geom:area_square_m":36888008.85087,
     "geom:bbox":"13.4625149921,55.6888134926,13.6147707259,55.761952317",
     "geom:latitude":55.728111,
     "geom:longitude":13.541076,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.726367,
     "lbl:longitude":13.542209,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101175"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733929,
-    "wof:geomhash":"4847b01156be4c2a83e365604805b639",
+    "wof:geomhash":"d6295a0d4d4ed48353b0c96c85d28315",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306019,
-    "wof:lastmodified":1566643333,
+    "wof:lastmodified":1695879425,
     "wof:name":"Harlosa",
     "wof:parent_id":1159303151,
     "wof:placetype":"localadmin",

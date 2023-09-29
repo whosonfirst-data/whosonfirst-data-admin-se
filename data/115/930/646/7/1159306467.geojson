@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004293,
-    "geom:area_square_m":29695866.751101,
+    "geom:area_square_m":29695866.751096,
     "geom:bbox":"13.3761685572,55.9502551274,13.4951023576,56.0114061665",
     "geom:latitude":55.98379,
     "geom:longitude":13.428406,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.979815,
     "lbl:longitude":13.416503,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101270"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734051,
-    "wof:geomhash":"fe20671d243f22a3e8ce72bf1aeb4d7a",
+    "wof:geomhash":"1645236765c533fc8d0001a4a375d69d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306467,
-    "wof:lastmodified":1566643313,
+    "wof:lastmodified":1695879420,
     "wof:name":"Hallarod",
     "wof:parent_id":1159303357,
     "wof:placetype":"localadmin",

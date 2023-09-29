@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003604,
-    "geom:area_square_m":24813516.903803,
+    "geom:area_square_m":24813516.903802,
     "geom:bbox":"13.8817934961,56.145136364,14.019213064,56.1955538969",
     "geom:latitude":56.168,
     "geom:longitude":13.948328,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.161312,
     "lbl:longitude":13.925437,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101334"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734306,
-    "wof:geomhash":"83b80da064c3bca2d5d1c115715c4a8c",
+    "wof:geomhash":"cb59842f2753b4fef5760e9d17053c72",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307423,
-    "wof:lastmodified":1566643374,
+    "wof:lastmodified":1695879432,
     "wof:name":"Gumlosa",
     "wof:parent_id":1159303121,
     "wof:placetype":"localadmin",

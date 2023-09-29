@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01815,
-    "geom:area_square_m":123687578.677608,
+    "geom:area_square_m":123687578.677602,
     "geom:bbox":"15.7416024949,56.5123707883,16.0202090826,56.6077564751",
     "geom:latitude":56.555853,
     "geom:longitude":15.88224,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":967,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.55606,
     "lbl:longitude":15.871004,
     "lbl:max_zoom":17.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132687,
-        "qs_pg:id":109477
+        "qs_pg:id":109477,
+        "se-lant:code":"105018"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497042389,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"5f8f895f4c80b733207d08fe272a9021",
+    "wof:geomhash":"ffd38c4fb819ea4fb5c5379e3474f983",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125277833,
-    "wof:lastmodified":1582340803,
+    "wof:lastmodified":1695879489,
     "wof:name":"Karlslunda",
     "wof:parent_id":1159303065,
     "wof:placetype":"localadmin",

@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015675,
-    "geom:area_square_m":105141531.254442,
+    "geom:area_square_m":105141531.254436,
     "geom:bbox":"14.2028444188,57.0716793924,14.3993891784,57.2379828109",
     "geom:latitude":57.149626,
     "geom:longitude":14.304671,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.145117,
     "lbl:longitude":14.303163,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"105137"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733942,
-    "wof:geomhash":"6adf7ed5657805e009b92b4f37afe64f",
+    "wof:geomhash":"7098136231c15cec91008a815b0f6e78",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306077,
-    "wof:lastmodified":1566643345,
+    "wof:lastmodified":1695879427,
     "wof:name":"Gallaryd",
     "wof:parent_id":1159303313,
     "wof:placetype":"localadmin",

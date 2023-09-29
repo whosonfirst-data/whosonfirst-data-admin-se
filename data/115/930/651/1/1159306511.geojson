@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013403,
-    "geom:area_square_m":86206628.375177,
+    "geom:area_square_m":86206628.37518,
     "geom:bbox":"16.4790404712,58.610793302,16.7838405287,58.7009435845",
     "geom:latitude":58.657387,
     "geom:longitude":16.62197,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.662486,
     "lbl:longitude":16.607005,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"108153"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734065,
-    "wof:geomhash":"83bc18d9980ac122d8da4272aec10224",
+    "wof:geomhash":"d021a1fb744fa1c4247714a6e752b881",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306511,
-    "wof:lastmodified":1566643205,
+    "wof:lastmodified":1695879401,
     "wof:name":"Kvarsebo",
     "wof:parent_id":1159303229,
     "wof:placetype":"localadmin",

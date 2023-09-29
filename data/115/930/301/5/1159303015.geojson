@@ -73,8 +73,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_0138",
-        "eurostat:nuts_2021_id":"0138"
+        "eurostat:nuts_2021_id":"0138",
+        "se-lant:code":"0138"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:coterminous":[
         1125398119
     ],
@@ -90,7 +92,7 @@
         }
     ],
     "wof:id":1159303015,
-    "wof:lastmodified":1684354747,
+    "wof:lastmodified":1695886748,
     "wof:name":"Tyreso",
     "wof:parent_id":85688429,
     "wof:placetype":"county",

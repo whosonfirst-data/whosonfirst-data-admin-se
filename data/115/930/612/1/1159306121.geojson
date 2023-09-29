@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005199,
-    "geom:area_square_m":34901909.419996,
+    "geom:area_square_m":34901909.419997,
     "geom:bbox":"12.5847572659,57.0794724338,12.7103264241,57.16126427",
     "geom:latitude":57.119476,
     "geom:longitude":12.644169,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.119347,
     "lbl:longitude":12.645128,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"104061"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733952,
-    "wof:geomhash":"0400894742234c15929b92354f75862d",
+    "wof:geomhash":"13b5c3af7b736a0391c6ee6bd4e77cad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306121,
-    "wof:lastmodified":1566643309,
+    "wof:lastmodified":1695879419,
     "wof:name":"Svartra",
     "wof:parent_id":1159303247,
     "wof:placetype":"localadmin",

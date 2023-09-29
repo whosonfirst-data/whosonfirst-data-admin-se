@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004134,
-    "geom:area_square_m":25823669.926469,
+    "geom:area_square_m":25823669.926468,
     "geom:bbox":"17.498202034,59.6236012089,17.6090955519,59.6936155411",
     "geom:latitude":59.660035,
     "geom:longitude":17.544672,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":580,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.661226,
     "lbl:longitude":17.544716,
     "lbl:max_zoom":17.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132888,
-        "qs_pg:id":758413
+        "qs_pg:id":758413,
+        "se-lant:code":"215081"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497042794,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"c8db1ca31f7c8a48425e9cfe72f3c55a",
+    "wof:geomhash":"c5a811090d78c15f52772302a21dfffe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125288025,
-    "wof:lastmodified":1582340786,
+    "wof:lastmodified":1695879477,
     "wof:name":"Haggeby",
     "wof:parent_id":1159303271,
     "wof:placetype":"localadmin",

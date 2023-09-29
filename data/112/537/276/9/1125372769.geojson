@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007355,
-    "geom:area_square_m":50730095.96339,
+    "geom:area_square_m":50730095.963384,
     "geom:bbox":"13.6189491551,56.056592708,13.8026358906,56.1362460085",
     "geom:latitude":56.096629,
     "geom:longitude":13.710037,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":1441,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.106358,
     "lbl:longitude":13.716286,
     "lbl:max_zoom":16.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132218,
-        "qs_pg:id":109406
+        "qs_pg:id":109406,
+        "se-lant:code":"101301"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497047522,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"619273363d1e5e90f2f13a58c276ca6b",
+    "wof:geomhash":"cf2080592a18f587daa34508d6c07609",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125372769,
-    "wof:lastmodified":1582340831,
+    "wof:lastmodified":1695879509,
     "wof:name":"Bronnestad",
     "wof:parent_id":1159303121,
     "wof:placetype":"localadmin",

@@ -94,8 +94,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_2260",
-        "eurostat:nuts_2021_id":"2260"
+        "eurostat:nuts_2021_id":"2260",
+        "se-lant:code":"2260"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525379514,
     "wof:geomhash":"065ff4176a99856538aab061eae3f8f5",
@@ -108,7 +110,7 @@
         }
     ],
     "wof:id":1159303553,
-    "wof:lastmodified":1684354759,
+    "wof:lastmodified":1695886764,
     "wof:name":"Ange",
     "wof:parent_id":85688457,
     "wof:placetype":"county",

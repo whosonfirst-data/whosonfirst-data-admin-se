@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":1647,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.32608,
     "lbl:longitude":11.430011,
     "lbl:max_zoom":16.0,
@@ -73,14 +82,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8133277,
-        "qs_pg:id":109605
+        "qs_pg:id":109605,
+        "se-lant:code":"109046"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497047597,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"636be90d090c98e85ac466d2a9df1152",
+    "wof:geomhash":"1b5558e96fdee8cee8554ccc4795cb6c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +102,7 @@
         }
     ],
     "wof:id":1125373883,
-    "wof:lastmodified":1582340835,
+    "wof:lastmodified":1695879512,
     "wof:name":"Lyse",
     "wof:parent_id":1159303273,
     "wof:placetype":"localadmin",

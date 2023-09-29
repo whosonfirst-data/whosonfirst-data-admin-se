@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037539,
-    "geom:area_square_m":232328691.749873,
+    "geom:area_square_m":232328691.749879,
     "geom:bbox":"14.1869960613,59.8384384314,14.4565528243,60.0957402034",
     "geom:latitude":59.965304,
     "geom:longitude":14.318235,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":199,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":60.001485,
     "lbl:longitude":14.304951,
     "lbl:max_zoom":18.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131894,
-        "qs_pg:id":109344
+        "qs_pg:id":109344,
+        "se-lant:code":"213081"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497047511,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"289bd6d3b26526d37a851a3abec1f93b",
+    "wof:geomhash":"9456fab2644f0ce040b7e5815475933f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125372599,
-    "wof:lastmodified":1582340824,
+    "wof:lastmodified":1695879503,
     "wof:name":"Gasborn",
     "wof:parent_id":1159303211,
     "wof:placetype":"localadmin",

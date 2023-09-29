@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011782,
-    "geom:area_square_m":77916819.124447,
+    "geom:area_square_m":77916819.124442,
     "geom:bbox":"12.1375048946,57.6058285399,12.3425765759,57.7292053064",
     "geom:latitude":57.66938,
     "geom:longitude":12.23578,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":9040,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.681105,
     "lbl:longitude":12.228828,
     "lbl:max_zoom":15.0,
@@ -97,14 +106,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132224,
-        "qs_pg:id":1042428
+        "qs_pg:id":1042428,
+        "se-lant:code":"107070"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497047628,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"61eb3d5b6ddeb5a7d0a7425571a38a3e",
+    "wof:geomhash":"31032fd2c20d50b2b92864b0d7a8a29c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -115,7 +126,7 @@
         }
     ],
     "wof:id":1125374443,
-    "wof:lastmodified":1582340830,
+    "wof:lastmodified":1695879508,
     "wof:name":"Landvetter",
     "wof:parent_id":1159303259,
     "wof:placetype":"localadmin",

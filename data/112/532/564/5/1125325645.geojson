@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010579,
-    "geom:area_square_m":69771906.27589,
+    "geom:area_square_m":69771906.275899,
     "geom:bbox":"14.3366174222,57.7204103711,14.5245037888,57.8169257653",
     "geom:latitude":57.765744,
     "geom:longitude":14.432118,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":2719,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.773075,
     "lbl:longitude":14.410049,
     "lbl:max_zoom":15.0,
@@ -76,14 +85,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132631,
-        "qs_pg:id":758270
+        "qs_pg:id":758270,
+        "se-lant:code":"105253"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497044795,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"1a48c935312fe4ca9381256785262360",
+    "wof:geomhash":"e39cd6132b75a43735ba724124f51f9b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,7 +105,7 @@
         }
     ],
     "wof:id":1125325645,
-    "wof:lastmodified":1582340767,
+    "wof:lastmodified":1695879460,
     "wof:name":"Lekeryd",
     "wof:parent_id":1159303375,
     "wof:placetype":"localadmin",

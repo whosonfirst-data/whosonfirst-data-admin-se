@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019666,
-    "geom:area_square_m":124783664.788916,
+    "geom:area_square_m":124783664.788911,
     "geom:bbox":"16.4580420407,59.0620242891,16.6979462818,59.2009020784",
     "geom:latitude":59.127118,
     "geom:longitude":16.557635,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":2893,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.140744,
     "lbl:longitude":16.51932,
     "lbl:max_zoom":15.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132881,
-        "qs_pg:id":381423
+        "qs_pg:id":381423,
+        "se-lant:code":"212051"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497048118,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"1dcd50123d7fbed0981eb8abd149dedc",
+    "wof:geomhash":"6429a91584bc7f553f4262dc599f95f0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125382273,
-    "wof:lastmodified":1582340844,
+    "wof:lastmodified":1695879517,
     "wof:name":"Mellosa",
     "wof:parent_id":1159302997,
     "wof:placetype":"localadmin",

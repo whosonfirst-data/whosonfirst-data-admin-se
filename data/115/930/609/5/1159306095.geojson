@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025214,
-    "geom:area_square_m":162343760.503129,
+    "geom:area_square_m":162343760.503126,
     "geom:bbox":"15.0867973684,58.5495895188,15.3996724597,58.6779056581",
     "geom:latitude":58.620929,
     "geom:longitude":15.235512,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.616001,
     "lbl:longitude":15.219809,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"108130"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733945,
-    "wof:geomhash":"5c06811d801f64e2fa4c47bb5c99a048",
+    "wof:geomhash":"c93b7545a14d8654313fd7c03c3661e6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306095,
-    "wof:lastmodified":1566643349,
+    "wof:lastmodified":1695879428,
     "wof:name":"Kristberg",
     "wof:parent_id":1159303391,
     "wof:placetype":"localadmin",

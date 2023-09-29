@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003749,
-    "geom:area_square_m":24314641.285021,
+    "geom:area_square_m":24314641.285022,
     "geom:bbox":"13.5722866657,58.3438141806,13.734163854,58.3959162792",
     "geom:latitude":58.364877,
     "geom:longitude":13.638385,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.36859,
     "lbl:longitude":13.623655,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107351"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733923,
-    "wof:geomhash":"4406caa3ff6981d01a6017767d7da6e5",
+    "wof:geomhash":"d228442918ae1ee1e9e3b398a5951239",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159305991,
-    "wof:lastmodified":1566643273,
+    "wof:lastmodified":1695879412,
     "wof:name":"Norra Lundby",
     "wof:parent_id":1159303479,
     "wof:placetype":"localadmin",

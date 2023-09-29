@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001675,
-    "geom:area_square_m":11733301.715439,
+    "geom:area_square_m":11733301.715438,
     "geom:bbox":"12.9143829335,55.4783844506,13.0671981364,55.5151892648",
     "geom:latitude":55.495946,
     "geom:longitude":13.013283,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.497498,
     "lbl:longitude":13.024876,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101067"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733916,
-    "wof:geomhash":"26d289dd3d07ed09749f5a7feca96be0",
+    "wof:geomhash":"343ea2506d811719c648ec8f449ccb38",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159305965,
-    "wof:lastmodified":1566643287,
+    "wof:lastmodified":1695879415,
     "wof:name":"Hokopinge",
     "wof:parent_id":1159303307,
     "wof:placetype":"localadmin",

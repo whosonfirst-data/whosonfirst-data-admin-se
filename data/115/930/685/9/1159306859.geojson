@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003738,
-    "geom:area_square_m":26125805.321249,
+    "geom:area_square_m":26125805.321241,
     "geom:bbox":"14.2532692979,55.5439440884,14.3426626919,55.6105619759",
     "geom:latitude":55.579035,
     "geom:longitude":14.295314,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.582215,
     "lbl:longitude":14.298955,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101111"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734156,
-    "wof:geomhash":"17f73659bfa744f45c2f7a7553e1cc03",
+    "wof:geomhash":"1278bde009c7bb6e0ba7b97ba8a155eb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306859,
-    "wof:lastmodified":1566643303,
+    "wof:lastmodified":1695879418,
     "wof:name":"Gladsax",
     "wof:parent_id":1159302931,
     "wof:placetype":"localadmin",

@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":999,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.814809,
     "lbl:longitude":11.831905,
     "lbl:max_zoom":17.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132440,
-        "qs_pg:id":758144
+        "qs_pg:id":758144,
+        "se-lant:code":"109008"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497044775,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"416f7eda40a24986f5f21e4802f24e30",
+    "wof:geomhash":"1c2bc949f49b1ee133a4b0e46a190cc6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125325401,
-    "wof:lastmodified":1582340775,
+    "wof:lastmodified":1695879468,
     "wof:name":"Harestad",
     "wof:parent_id":1159303109,
     "wof:placetype":"localadmin",

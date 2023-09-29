@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001839,
-    "geom:area_square_m":12777528.088399,
+    "geom:area_square_m":12777528.088403,
     "geom:bbox":"13.1043239203,55.7889758903,13.1834350093,55.830731217",
     "geom:latitude":55.807387,
     "geom:longitude":13.15077,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.807218,
     "lbl:longitude":13.153468,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101196"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733969,
-    "wof:geomhash":"47a065419f279ccc9edff13308e42864",
+    "wof:geomhash":"97ef22cac29787eeacefda2a2efad50a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306189,
-    "wof:lastmodified":1566643192,
+    "wof:lastmodified":1695879398,
     "wof:name":"Stora Harrie",
     "wof:parent_id":1159303543,
     "wof:placetype":"localadmin",

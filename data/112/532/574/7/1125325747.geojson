@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016559,
-    "geom:area_square_m":111664581.829929,
+    "geom:area_square_m":111664581.829933,
     "geom:bbox":"14.8031827168,56.8837634771,15.0251183832,57.0033901527",
     "geom:latitude":56.950407,
     "geom:longitude":14.91295,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":3762,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.945101,
     "lbl:longitude":14.912913,
     "lbl:max_zoom":15.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132772,
-        "qs_pg:id":758336
+        "qs_pg:id":758336,
+        "se-lant:code":"105107"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497044803,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"63666fb6a44bc717347ac0c1d7d1b2f3",
+    "wof:geomhash":"4bbd01b58b8883389882508223c7df95",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125325747,
-    "wof:lastmodified":1582340765,
+    "wof:lastmodified":1695879459,
     "wof:name":"Gardsby",
     "wof:parent_id":1159302917,
     "wof:placetype":"localadmin",

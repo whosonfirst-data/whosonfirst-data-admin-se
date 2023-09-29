@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010499,
-    "geom:area_square_m":64956364.327146,
+    "geom:area_square_m":64956364.327155,
     "geom:bbox":"18.0817662879,59.9275675333,18.2486733631,60.0354796776",
     "geom:latitude":59.977775,
     "geom:longitude":18.164534,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":371,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.983155,
     "lbl:longitude":18.177174,
     "lbl:max_zoom":17.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132901,
-        "qs_pg:id":758427
+        "qs_pg:id":758427,
+        "se-lant:code":"215171"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497044810,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"bd65d0b213287934308c894b64b814c7",
+    "wof:geomhash":"cfe587464a4c146700acdb6dc72abab4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125325869,
-    "wof:lastmodified":1582340763,
+    "wof:lastmodified":1695879457,
     "wof:name":"Faringe",
     "wof:parent_id":1159303253,
     "wof:placetype":"localadmin",

@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002475,
-    "geom:area_square_m":16032530.938615,
+    "geom:area_square_m":16032530.938608,
     "geom:bbox":"14.8244054654,58.3583176481,14.9404774695,58.4364469359",
     "geom:latitude":58.407692,
     "geom:longitude":14.87277,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.406734,
     "lbl:longitude":14.867077,
     "lbl:max_zoom":18.0,
@@ -147,9 +156,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"108064"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734152,
-    "wof:geomhash":"4b6fdf9e968567005930b3a14aa06f8a",
+    "wof:geomhash":"e9fee7b776b410cb47667fe712eaf236",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -160,7 +173,7 @@
         }
     ],
     "wof:id":1159306845,
-    "wof:lastmodified":1566643317,
+    "wof:lastmodified":1695879421,
     "wof:name":"Stra",
     "wof:parent_id":1159303411,
     "wof:placetype":"localadmin",

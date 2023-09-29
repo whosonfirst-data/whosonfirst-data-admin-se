@@ -404,12 +404,18 @@
         "gn:id":2702259,
         "gp:id":2347052,
         "hasc:id":"SE.KA",
+        "iso:code":"SE-H",
         "iso:id":"SE-H",
+        "se-lant:code":"08",
         "unlc:id":"SE-H",
         "wd:id":"Q103707"
     },
+    "wof:concordances_official":"se-lant:code",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"SE",
-    "wof:geomhash":"abefd8369b0d8a69f33b0ca0df4164f2",
+    "wof:geomhash":"2afaaa79bc6b121f1599407468a01f8b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -425,7 +431,7 @@
         "swe",
         "fin"
     ],
-    "wof:lastmodified":1690862992,
+    "wof:lastmodified":1695885316,
     "wof:name":"Kalmar",
     "wof:parent_id":85633789,
     "wof:placetype":"region",

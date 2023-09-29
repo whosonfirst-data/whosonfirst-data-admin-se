@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003208,
-    "geom:area_square_m":22418697.466633,
+    "geom:area_square_m":22418697.466631,
     "geom:bbox":"13.7587737907,55.5612850422,13.8747397422,55.6091871798",
     "geom:latitude":55.585486,
     "geom:longitude":13.816863,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":226,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.583644,
     "lbl:longitude":13.80716,
     "lbl:max_zoom":17.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8133128,
-        "qs_pg:id":758502
+        "qs_pg:id":758502,
+        "se-lant:code":"101142"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497044820,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"a8aa467923bf99b9fbc7348bcee7c8d3",
+    "wof:geomhash":"598d702fac92d80b169b746e610af106",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125326049,
-    "wof:lastmodified":1582340761,
+    "wof:lastmodified":1695879456,
     "wof:name":"Roddinge",
     "wof:parent_id":1159303197,
     "wof:placetype":"localadmin",

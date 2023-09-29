@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018353,
-    "geom:area_square_m":116231527.428596,
+    "geom:area_square_m":116231527.428587,
     "geom:bbox":"12.0822048009,59.0976779865,12.336444666,59.2636923216",
     "geom:latitude":59.192036,
     "geom:longitude":12.201165,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.194328,
     "lbl:longitude":12.209834,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"110042"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734287,
-    "wof:geomhash":"917ab08c8b7f6fd63e55015a8d32a2c0",
+    "wof:geomhash":"333de5f235893d9fe328f2847314627a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307337,
-    "wof:lastmodified":1566643269,
+    "wof:lastmodified":1695879412,
     "wof:name":"Varvik",
     "wof:parent_id":1159303359,
     "wof:placetype":"localadmin",

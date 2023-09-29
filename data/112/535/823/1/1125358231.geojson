@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00448,
-    "geom:area_square_m":28022767.527461,
+    "geom:area_square_m":28022767.527462,
     "geom:bbox":"17.2048685904,59.5718887527,17.3362444081,59.636219541",
     "geom:latitude":59.608514,
     "geom:longitude":17.275068,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":1777,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.612785,
     "lbl:longitude":17.276076,
     "lbl:max_zoom":16.0,
@@ -61,14 +70,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132369,
-        "qs_pg:id":758090
+        "qs_pg:id":758090,
+        "se-lant:code":"215054"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497046616,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"1f6da09390f3db7ad7bbb2c8d69a66ee",
+    "wof:geomhash":"b54c6c81a809df51f6a9dd219b2d937b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +90,7 @@
         }
     ],
     "wof:id":1125358231,
-    "wof:lastmodified":1582340746,
+    "wof:lastmodified":1695879445,
     "wof:name":"Villberga",
     "wof:parent_id":1159303337,
     "wof:placetype":"localadmin",

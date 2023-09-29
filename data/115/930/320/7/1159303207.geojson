@@ -238,8 +238,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_0484",
-        "eurostat:nuts_2021_id":"0484"
+        "eurostat:nuts_2021_id":"0484",
+        "se-lant:code":"0484"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525379459,
     "wof:geomhash":"7ee09b13954b6564072ddd75977886f3",
@@ -252,7 +254,7 @@
         }
     ],
     "wof:id":1159303207,
-    "wof:lastmodified":1684354751,
+    "wof:lastmodified":1695886753,
     "wof:name":"Eskilstuna",
     "wof:parent_id":85688419,
     "wof:placetype":"county",

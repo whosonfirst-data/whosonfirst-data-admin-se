@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001821,
-    "geom:area_square_m":12755022.639027,
+    "geom:area_square_m":12755022.639026,
     "geom:bbox":"13.9350043603,55.4668355265,14.0282248416,55.5043629786",
     "geom:latitude":55.485824,
     "geom:longitude":13.98689,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.482703,
     "lbl:longitude":13.987601,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101057"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734137,
-    "wof:geomhash":"eda9ac2852fc8adbb50aaf542a5da15c",
+    "wof:geomhash":"712f41f354a7d534eec3a25c75850418",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306799,
-    "wof:lastmodified":1566643313,
+    "wof:lastmodified":1695879421,
     "wof:name":"Tosterup",
     "wof:parent_id":1159302959,
     "wof:placetype":"localadmin",

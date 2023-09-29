@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02035,
-    "geom:area_square_m":132579818.221763,
+    "geom:area_square_m":132579818.221756,
     "geom:bbox":"11.9826243217,58.1085516365,12.2286314704,58.308264806",
     "geom:latitude":58.205195,
     "geom:longitude":12.093157,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":3182,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.183997,
     "lbl:longitude":12.074692,
     "lbl:max_zoom":15.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132264,
-        "qs_pg:id":109422
+        "qs_pg:id":109422,
+        "se-lant:code":"109043"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497047539,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"45356deb235dd8ff83f77e7c19796316",
+    "wof:geomhash":"6daea8b1692cc28b65cc57528b03e6ea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125373003,
-    "wof:lastmodified":1582340820,
+    "wof:lastmodified":1695879500,
     "wof:name":"Hjartum",
     "wof:parent_id":1159303279,
     "wof:placetype":"localadmin",

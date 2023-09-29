@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004018,
-    "geom:area_square_m":26066013.238975,
+    "geom:area_square_m":26066013.238974,
     "geom:bbox":"13.458031096,58.3255042633,13.5722866657,58.3907790484",
     "geom:latitude":58.354603,
     "geom:longitude":13.514918,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.355332,
     "lbl:longitude":13.514086,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107309"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734284,
-    "wof:geomhash":"12aac9fc46bb36e455a0f86dd7c890b3",
+    "wof:geomhash":"0b81c2f591ee9ec8f4ab4b1ceeca5e9a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307331,
-    "wof:lastmodified":1566643269,
+    "wof:lastmodified":1695879412,
     "wof:name":"Stenum",
     "wof:parent_id":1159303479,
     "wof:placetype":"localadmin",

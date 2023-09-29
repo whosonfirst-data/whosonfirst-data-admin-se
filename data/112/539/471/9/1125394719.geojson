@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007725,
-    "geom:area_square_m":48676843.544002,
+    "geom:area_square_m":48676843.544003,
     "geom:bbox":"18.087897,59.324153,18.303516,59.394956",
     "geom:latitude":59.364643,
     "geom:longitude":18.18188,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":43111,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.360945,
     "lbl:longitude":18.18924,
     "lbl:max_zoom":14.0,
@@ -52,14 +61,16 @@
     "wof:belongsto":[
         102191581,
         85633789,
-        1159303469,
-        85688429
+        85688429,
+        1159303469
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8133095,
-        "qs_pg:id":1042472
+        "qs_pg:id":1042472,
+        "se-lant:code":"215031"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:coterminous":[
         1159303469
     ],
@@ -68,7 +79,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"dddb26558762607269c478cf0f5de453",
+    "wof:geomhash":"7c942946bdd0e1c018d9dd3c95e3a7dd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +90,7 @@
         }
     ],
     "wof:id":1125394719,
-    "wof:lastmodified":1608048407,
+    "wof:lastmodified":1695879557,
     "wof:name":"Lidingo",
     "wof:parent_id":1159303469,
     "wof:placetype":"localadmin",

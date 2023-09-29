@@ -73,8 +73,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_1864",
-        "eurostat:nuts_2021_id":"1864"
+        "eurostat:nuts_2021_id":"1864",
+        "se-lant:code":"1864"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:coterminous":[
         1159306355
     ],
@@ -90,7 +92,7 @@
         }
     ],
     "wof:id":1159303323,
-    "wof:lastmodified":1684354754,
+    "wof:lastmodified":1695886756,
     "wof:name":"Ljusnarsberg",
     "wof:parent_id":85688421,
     "wof:placetype":"county",

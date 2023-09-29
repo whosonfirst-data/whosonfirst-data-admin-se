@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029677,
-    "geom:area_square_m":189661554.277524,
+    "geom:area_square_m":189661554.277519,
     "geom:bbox":"13.0826929228,58.7610164609,13.3381514711,58.9929731203",
     "geom:latitude":58.87871,
     "geom:longitude":13.229776,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.879012,
     "lbl:longitude":13.240378,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"213001"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734328,
-    "wof:geomhash":"b2ba21ff92b840f39f0e70b92be2815c",
+    "wof:geomhash":"d03784d75f1adfb7f699b9ffb4778a72",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307501,
-    "wof:lastmodified":1566643290,
+    "wof:lastmodified":1695879415,
     "wof:name":"Eskilsater",
     "wof:parent_id":1159303169,
     "wof:placetype":"localadmin",

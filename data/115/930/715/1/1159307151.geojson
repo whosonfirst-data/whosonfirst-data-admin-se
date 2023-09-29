@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003897,
-    "geom:area_square_m":24400156.684537,
+    "geom:area_square_m":24400156.68453,
     "geom:bbox":"16.5499018982,59.53184138,16.6529942812,59.6179222913",
     "geom:latitude":59.580556,
     "geom:longitude":16.603766,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.585892,
     "lbl:longitude":16.604578,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"214028"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734236,
-    "wof:geomhash":"2e4d200351334108d9b4e4e48b0159f3",
+    "wof:geomhash":"63215b9d7b25fa629cd40929fe77c447",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307151,
-    "wof:lastmodified":1566643246,
+    "wof:lastmodified":1695879408,
     "wof:name":"Viksang",
     "wof:parent_id":1159303331,
     "wof:placetype":"localadmin",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009234,
-    "geom:area_square_m":62406971.895063,
+    "geom:area_square_m":62406971.895062,
     "geom:bbox":"14.6457005744,56.8096890683,14.7717021386,56.9309339899",
     "geom:latitude":56.867643,
     "geom:longitude":14.70851,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":901,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.870086,
     "lbl:longitude":14.700995,
     "lbl:max_zoom":17.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132770,
-        "qs_pg:id":758334
+        "qs_pg:id":758334,
+        "se-lant:code":"105082"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497044802,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"8b2dbc76ea2ef4e7f7f822c2c9f0cf3c",
+    "wof:geomhash":"0aa82df139f73cef4ae1e1116dece20d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125325739,
-    "wof:lastmodified":1582340766,
+    "wof:lastmodified":1695879460,
     "wof:name":"Bergunda",
     "wof:parent_id":1159302917,
     "wof:placetype":"localadmin",

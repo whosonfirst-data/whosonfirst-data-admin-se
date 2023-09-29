@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00313,
-    "geom:area_square_m":21577954.631923,
+    "geom:area_square_m":21577954.631922,
     "geom:bbox":"12.7389224343,56.0959330898,12.8491103207,56.1327842931",
     "geom:latitude":56.114043,
     "geom:longitude":12.789808,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":3568,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.113811,
     "lbl:longitude":12.785326,
     "lbl:max_zoom":15.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8133144,
-        "qs_pg:id":758512
+        "qs_pg:id":758512,
+        "se-lant:code":"101319"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497046509,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"19283a580713e12a3e072eddf449d09d",
+    "wof:geomhash":"a776f10be9c7d98993ffc9a1935df0a2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125356599,
-    "wof:lastmodified":1582340743,
+    "wof:lastmodified":1695879443,
     "wof:name":"Fleninge",
     "wof:parent_id":1159302965,
     "wof:placetype":"localadmin",

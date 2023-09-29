@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003716,
-    "geom:area_square_m":24227914.823143,
+    "geom:area_square_m":24227914.823145,
     "geom:bbox":"12.9203529979,58.1553564664,13.0456828799,58.210833949",
     "geom:latitude":58.179883,
     "geom:longitude":12.974425,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":2126,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.184384,
     "lbl:longitude":12.963055,
     "lbl:max_zoom":15.0,
@@ -61,14 +70,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132231,
-        "qs_pg:id":1155688
+        "qs_pg:id":1155688,
+        "se-lant:code":"107252"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497049927,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"7a4b87f84084a50ed1033faff959304e",
+    "wof:geomhash":"f026f0b84e1af705b814bcf7818d1d7e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +90,7 @@
         }
     ],
     "wof:id":1125409951,
-    "wof:lastmodified":1582340867,
+    "wof:lastmodified":1695879534,
     "wof:name":"Laske-Vedum",
     "wof:parent_id":1159303487,
     "wof:placetype":"localadmin",

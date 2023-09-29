@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008009,
-    "geom:area_square_m":54629790.08814,
+    "geom:area_square_m":54629790.088143,
     "geom:bbox":"16.5144058106,56.4818399589,16.6715058142,56.5545655295",
     "geom:latitude":56.519875,
     "geom:longitude":16.591692,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.518018,
     "lbl:longitude":16.593181,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"103011"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733886,
-    "wof:geomhash":"ceedf170267090de98c704be407e929a",
+    "wof:geomhash":"787356798f4edf7587dc9d897c724208",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159305857,
-    "wof:lastmodified":1566643358,
+    "wof:lastmodified":1695879429,
     "wof:name":"Stenasa",
     "wof:parent_id":1159303101,
     "wof:placetype":"localadmin",

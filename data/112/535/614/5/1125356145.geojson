@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019925,
-    "geom:area_square_m":123028424.004801,
+    "geom:area_square_m":123028424.004811,
     "geom:bbox":"16.8463101488,59.9965720793,17.1240173073,60.0991465935",
     "geom:latitude":60.043299,
     "geom:longitude":16.993142,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":516,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":60.047542,
     "lbl:longitude":16.993164,
     "lbl:max_zoom":17.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131968,
-        "qs_pg:id":757849
+        "qs_pg:id":757849,
+        "se-lant:code":"215163"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497046482,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"33e7471f76f59f2764eca526950e966c",
+    "wof:geomhash":"ec7c54aefc7ea2a8212fe90dcb3c41c3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125356145,
-    "wof:lastmodified":1582340746,
+    "wof:lastmodified":1695879445,
     "wof:name":"Huddunge",
     "wof:parent_id":1159303349,
     "wof:placetype":"localadmin",

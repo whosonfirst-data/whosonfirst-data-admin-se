@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011031,
-    "geom:area_square_m":73790336.805693,
+    "geom:area_square_m":73790336.80572,
     "geom:bbox":"15.3078985974,57.2006718529,15.528053886,57.31506405",
     "geom:latitude":57.249614,
     "geom:longitude":15.419977,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.250076,
     "lbl:longitude":15.419971,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"105162"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734139,
-    "wof:geomhash":"2bb648307e065552161ce0a8f3c1adbf",
+    "wof:geomhash":"00316e9a333d842fc9107101b47b393f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306807,
-    "wof:lastmodified":1566643190,
+    "wof:lastmodified":1695879398,
     "wof:name":"Nashult",
     "wof:parent_id":1159303157,
     "wof:placetype":"localadmin",

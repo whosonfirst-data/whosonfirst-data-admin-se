@@ -73,8 +73,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_1265",
-        "eurostat:nuts_2021_id":"1265"
+        "eurostat:nuts_2021_id":"1265",
+        "se-lant:code":"1265"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525379458,
     "wof:geomhash":"5ec0f4280abd9045113d548963813b51",
@@ -87,7 +89,7 @@
         }
     ],
     "wof:id":1159303197,
-    "wof:lastmodified":1684354751,
+    "wof:lastmodified":1695886753,
     "wof:name":"Sjobo",
     "wof:parent_id":85688377,
     "wof:placetype":"county",

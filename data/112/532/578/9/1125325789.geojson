@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005956,
-    "geom:area_square_m":38954912.539102,
+    "geom:area_square_m":38954912.539103,
     "geom:bbox":"15.6988939509,58.0310371251,15.8670599628,58.0976531614",
     "geom:latitude":58.066016,
     "geom:longitude":15.766335,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":201,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.063951,
     "lbl:longitude":15.751062,
     "lbl:max_zoom":17.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132831,
-        "qs_pg:id":758371
+        "qs_pg:id":758371,
+        "se-lant:code":"108014"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497044805,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"1d541f88b540e8f5c70a2932b23cee42",
+    "wof:geomhash":"c75bed9851ab89697c039cf4667bada7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125325789,
-    "wof:lastmodified":1582340774,
+    "wof:lastmodified":1695879466,
     "wof:name":"Hagerstad",
     "wof:parent_id":1159303139,
     "wof:placetype":"localadmin",

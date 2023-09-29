@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002004,
-    "geom:area_square_m":14081374.561953,
+    "geom:area_square_m":14081374.561952,
     "geom:bbox":"13.0106959438,55.3597632494,13.0998024872,55.4016017662",
     "geom:latitude":55.381076,
     "geom:longitude":13.059762,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.379937,
     "lbl:longitude":13.059764,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101002"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734155,
-    "wof:geomhash":"1c168bf44c0aaea1599890bc1714f25d",
+    "wof:geomhash":"552504b30f87d1e8b53494deb1c49eb9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306853,
-    "wof:lastmodified":1566643304,
+    "wof:lastmodified":1695879418,
     "wof:name":"Maglarp",
     "wof:parent_id":1159303309,
     "wof:placetype":"localadmin",

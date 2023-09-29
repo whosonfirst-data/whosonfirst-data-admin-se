@@ -563,15 +563,21 @@
         "gn:id":2711508,
         "gp:id":2347048,
         "hasc:id":"SE.GT",
+        "iso:code":"SE-I",
         "iso:id":"SE-I",
+        "se-lant:code":"09",
         "unlc:id":"SE-I",
         "wd:id":"Q103738"
     },
+    "wof:concordances_official":"se-lant:code",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:coterminous":[
         1159303535
     ],
     "wof:country":"SE",
-    "wof:geomhash":"b4556147c1e08283f957c0f98e702dac",
+    "wof:geomhash":"d581c52cd276ab33eacefaedaede75e0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -587,7 +593,7 @@
         "swe",
         "fin"
     ],
-    "wof:lastmodified":1690862989,
+    "wof:lastmodified":1695885316,
     "wof:name":"Gotland",
     "wof:parent_id":85633789,
     "wof:placetype":"region",

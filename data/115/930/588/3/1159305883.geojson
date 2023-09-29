@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00221,
-    "geom:area_square_m":14292905.790794,
+    "geom:area_square_m":14292905.790793,
     "geom:bbox":"12.9125538615,58.4503953574,12.9915496885,58.4969306589",
     "geom:latitude":58.470489,
     "geom:longitude":12.951494,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.472738,
     "lbl:longitude":12.950735,
     "lbl:max_zoom":18.0,
@@ -84,9 +93,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107370"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733891,
-    "wof:geomhash":"420c2605d49af1dafa8a3ff690618aac",
+    "wof:geomhash":"9c34339a5031601d7ddd8c7bb3e716d8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -97,7 +110,7 @@
         }
     ],
     "wof:id":1159305883,
-    "wof:lastmodified":1566643243,
+    "wof:lastmodified":1695879408,
     "wof:name":"Vala",
     "wof:parent_id":1159303281,
     "wof:placetype":"localadmin",

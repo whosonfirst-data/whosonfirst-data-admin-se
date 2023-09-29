@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019302,
-    "geom:area_square_m":113306155.661566,
+    "geom:area_square_m":113306155.661564,
     "geom:bbox":"17.0462976741,61.5918187928,17.3985567655,61.7153790307",
     "geom:latitude":61.658379,
     "geom:longitude":17.22529,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":61.669768,
     "lbl:longitude":17.207943,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"318024"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734039,
-    "wof:geomhash":"a33798be38cc74da3df0354e2fbc6ef7",
+    "wof:geomhash":"617ad27146fe91ac46226a262e909765",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306417,
-    "wof:lastmodified":1566643311,
+    "wof:lastmodified":1695879420,
     "wof:name":"Idenor",
     "wof:parent_id":1159303395,
     "wof:placetype":"localadmin",

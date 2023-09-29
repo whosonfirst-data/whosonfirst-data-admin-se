@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002417,
-    "geom:area_square_m":15636392.281589,
+    "geom:area_square_m":15636392.281587,
     "geom:bbox":"12.9990939676,58.4185190752,13.1052038297,58.4873025132",
     "geom:latitude":58.453494,
     "geom:longitude":13.058833,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":3377,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.450304,
     "lbl:longitude":13.065767,
     "lbl:max_zoom":15.0,
@@ -61,14 +70,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132244,
-        "qs_pg:id":758000
+        "qs_pg:id":758000,
+        "se-lant:code":"107339"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497047653,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"0b3a456366a0bf57be792555ccf02e9b",
+    "wof:geomhash":"91447544c822ff712536e7d27e873bf1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +90,7 @@
         }
     ],
     "wof:id":1125374779,
-    "wof:lastmodified":1582340823,
+    "wof:lastmodified":1695879503,
     "wof:name":"Kallands-asaka",
     "wof:parent_id":1159303281,
     "wof:placetype":"localadmin",

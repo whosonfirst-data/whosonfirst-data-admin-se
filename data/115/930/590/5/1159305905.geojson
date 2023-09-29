@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013757,
-    "geom:area_square_m":76692932.01801,
+    "geom:area_square_m":76692932.018005,
     "geom:bbox":"17.4023835014,63.0825193295,17.5813583606,63.2877505347",
     "geom:latitude":63.202407,
     "geom:longitude":17.513833,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":63.216887,
     "lbl:longitude":17.530074,
     "lbl:max_zoom":18.0,
@@ -57,9 +66,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"321022"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733902,
-    "wof:geomhash":"b5c5464a5a6d7781578ec3d43a16d176",
+    "wof:geomhash":"26aaac2c43b3ebc154adb8ca2b80f8c4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +83,7 @@
         }
     ],
     "wof:id":1159305905,
-    "wof:lastmodified":1566643274,
+    "wof:lastmodified":1695879412,
     "wof:name":"Sanga",
     "wof:parent_id":1159303381,
     "wof:placetype":"localadmin",

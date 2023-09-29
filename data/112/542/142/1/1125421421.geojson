@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031865,
-    "geom:area_square_m":214885247.633568,
+    "geom:area_square_m":214885247.633567,
     "geom:bbox":"13.366843668,56.8702889001,13.6935733588,57.0320072501",
     "geom:latitude":56.949469,
     "geom:longitude":13.534549,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":1186,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.958375,
     "lbl:longitude":13.531468,
     "lbl:max_zoom":16.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132548,
-        "qs_pg:id":758213
+        "qs_pg:id":758213,
+        "se-lant:code":"105093"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497052314,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"df6e22487a9d8cf8a7270b71aad31e05",
+    "wof:geomhash":"d16080dad1526796d3f4a3a23edb8a32",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125421421,
-    "wof:lastmodified":1582340812,
+    "wof:lastmodified":1695879494,
     "wof:name":"Sodra Unnaryd",
     "wof:parent_id":1159303485,
     "wof:placetype":"localadmin",

@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018477,
-    "geom:area_square_m":115026941.827872,
+    "geom:area_square_m":115026941.82788,
     "geom:bbox":"16.7274863473,59.6958333274,17.0127497735,59.8329894874",
     "geom:latitude":59.770463,
     "geom:longitude":16.858989,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.768764,
     "lbl:longitude":16.844843,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"215095"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733970,
-    "wof:geomhash":"33614dd6d1fd3efbce26dd97c216c083",
+    "wof:geomhash":"d21d520fb2844d59a144e6e4ae82c61e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306193,
-    "wof:lastmodified":1566643185,
+    "wof:lastmodified":1695879397,
     "wof:name":"Simtuna",
     "wof:parent_id":1159303337,
     "wof:placetype":"localadmin",

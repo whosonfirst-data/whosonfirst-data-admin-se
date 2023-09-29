@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004548,
-    "geom:area_square_m":29888915.047118,
+    "geom:area_square_m":29888915.047114,
     "geom:bbox":"11.4943198479,57.8697491133,11.6467480702,57.9181048167",
     "geom:latitude":57.894679,
     "geom:longitude":11.573768,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.897496,
     "lbl:longitude":11.567598,
     "lbl:max_zoom":18.0,
@@ -117,9 +126,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"109015"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733915,
-    "wof:geomhash":"8af28003fc883c0537c57016c70ec612",
+    "wof:geomhash":"f93b206055d5cfd019ce0d497ed49d84",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -130,7 +143,7 @@
         }
     ],
     "wof:id":1159305955,
-    "wof:lastmodified":1566643159,
+    "wof:lastmodified":1695879392,
     "wof:name":"Marstrand",
     "wof:parent_id":1159303109,
     "wof:placetype":"localadmin",

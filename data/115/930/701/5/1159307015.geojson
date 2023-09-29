@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012095,
-    "geom:area_square_m":81231753.702748,
+    "geom:area_square_m":81231753.702734,
     "geom:bbox":"14.7038443664,57.0550429895,14.9284866713,57.1515463198",
     "geom:latitude":57.102047,
     "geom:longitude":14.828919,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.10383,
     "lbl:longitude":14.839974,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"105126"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734202,
-    "wof:geomhash":"06f083fbfcf30657d9f36f9b440cf4ee",
+    "wof:geomhash":"b8cc2c1885d2be5875eae30787675b66",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307015,
-    "wof:lastmodified":1566643146,
+    "wof:lastmodified":1695879390,
     "wof:name":"Tolg",
     "wof:parent_id":1159302917,
     "wof:placetype":"localadmin",

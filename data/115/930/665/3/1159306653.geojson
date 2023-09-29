@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002138,
-    "geom:area_square_m":14770866.38206,
+    "geom:area_square_m":14770866.382061,
     "geom:bbox":"12.9131032104,56.018484493,12.9963244461,56.0605913712",
     "geom:latitude":56.040035,
     "geom:longitude":12.951712,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.041498,
     "lbl:longitude":12.948356,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101291"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734104,
-    "wof:geomhash":"7ee98199ff1a0870ffcc3d8df26ae2b8",
+    "wof:geomhash":"0f45ccc02037d8ed43280fe91fc8f1d9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306653,
-    "wof:lastmodified":1566643337,
+    "wof:lastmodified":1695879426,
     "wof:name":"Risekatslosa",
     "wof:parent_id":1159303001,
     "wof:placetype":"localadmin",

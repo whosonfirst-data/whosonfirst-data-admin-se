@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.098664,
-    "geom:area_square_m":531175235.601525,
+    "geom:area_square_m":531175235.601526,
     "geom:bbox":"18.4825470805,64.0606023726,19.1762542102,64.3525965587",
     "geom:latitude":64.189769,
     "geom:longitude":18.84608,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":64.18757,
     "lbl:longitude":18.898526,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"324003"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733841,
-    "wof:geomhash":"94a4cf5f7577ec8c1d86cdcc390add30",
+    "wof:geomhash":"fd7176c5b2682009956afa65c911aa3a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159305675,
-    "wof:lastmodified":1566643145,
+    "wof:lastmodified":1695879389,
     "wof:name":"Ortrask",
     "wof:parent_id":1159303117,
     "wof:placetype":"localadmin",

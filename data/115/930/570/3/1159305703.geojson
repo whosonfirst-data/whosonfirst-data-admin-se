@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.175838,
-    "geom:area_square_m":1003241936.062177,
+    "geom:area_square_m":1003241936.062202,
     "geom:bbox":"15.2265360384,62.2879579424,16.1134025638,62.7127517633",
     "geom:latitude":62.521566,
     "geom:longitude":15.748433,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":62.487506,
     "lbl:longitude":15.741755,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"320013"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733847,
-    "wof:geomhash":"dee025a5701599c61a8f93980c049fe8",
+    "wof:geomhash":"632e573f06c62058beb69eb49c2a22c2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159305703,
-    "wof:lastmodified":1566643375,
+    "wof:lastmodified":1695879432,
     "wof:name":"Borgsjo",
     "wof:parent_id":1159303553,
     "wof:placetype":"localadmin",

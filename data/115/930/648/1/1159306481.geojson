@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002983,
-    "geom:area_square_m":20911274.718129,
+    "geom:area_square_m":20911274.71813,
     "geom:bbox":"13.8331012648,55.4387437733,13.9275013515,55.4933246517",
     "geom:latitude":55.46599,
     "geom:longitude":13.886148,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.46747,
     "lbl:longitude":13.886122,
     "lbl:max_zoom":18.0,
@@ -60,9 +69,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101053"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734056,
-    "wof:geomhash":"078b1493600cbf9514ccf40c9c6b3064",
+    "wof:geomhash":"48b432880d75488ece15c1775fd8cede",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,7 +86,7 @@
         }
     ],
     "wof:id":1159306481,
-    "wof:lastmodified":1566643320,
+    "wof:lastmodified":1695879422,
     "wof:name":"Stora Herrestad",
     "wof:parent_id":1159303233,
     "wof:placetype":"localadmin",

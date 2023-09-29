@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006276,
-    "geom:area_square_m":39438180.735231,
+    "geom:area_square_m":39438180.735234,
     "geom:bbox":"17.3013932783,59.4134718202,17.4357148686,59.5033036931",
     "geom:latitude":59.455042,
     "geom:longitude":17.362099,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.465225,
     "lbl:longitude":17.346339,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"215037"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734293,
-    "wof:geomhash":"210a4c8b8a79cf0e21ab2228e4907036",
+    "wof:geomhash":"0a68afe85dc4904a597bedfeda539ee3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307367,
-    "wof:lastmodified":1566643168,
+    "wof:lastmodified":1695879393,
     "wof:name":"Torsvi",
     "wof:parent_id":1159303337,
     "wof:placetype":"localadmin",

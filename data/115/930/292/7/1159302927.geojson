@@ -73,8 +73,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_1765",
-        "eurostat:nuts_2021_id":"1765"
+        "eurostat:nuts_2021_id":"1765",
+        "se-lant:code":"1765"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525379394,
     "wof:geomhash":"d35a15d903fc53cf7a7e9d08e1f2c79d",
@@ -87,7 +89,7 @@
         }
     ],
     "wof:id":1159302927,
-    "wof:lastmodified":1684354745,
+    "wof:lastmodified":1695886746,
     "wof:name":"Arjang",
     "wof:parent_id":85688435,
     "wof:placetype":"county",

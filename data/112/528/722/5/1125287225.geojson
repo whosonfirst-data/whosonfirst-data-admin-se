@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006232,
-    "geom:area_square_m":40919719.664008,
+    "geom:area_square_m":40919719.66401,
     "geom:bbox":"12.9633936551,57.8941374262,13.1266530495,57.9777167022",
     "geom:latitude":57.928111,
     "geom:longitude":13.054618,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":351,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.932215,
     "lbl:longitude":13.069595,
     "lbl:max_zoom":17.0,
@@ -70,14 +79,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132279,
-        "qs_pg:id":758016
+        "qs_pg:id":758016,
+        "se-lant:code":"107147"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497042759,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"8b6507d9485322cba173740983a32c1f",
+    "wof:geomhash":"ef11cb687f661bde11281df700a64720",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +99,7 @@
         }
     ],
     "wof:id":1125287225,
-    "wof:lastmodified":1582340787,
+    "wof:lastmodified":1695879478,
     "wof:name":"Molla",
     "wof:parent_id":1159303171,
     "wof:placetype":"localadmin",

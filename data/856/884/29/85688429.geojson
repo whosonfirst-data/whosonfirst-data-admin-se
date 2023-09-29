@@ -426,12 +426,18 @@
         "gn:id":2673722,
         "gp:id":2347067,
         "hasc:id":"SE.ST",
+        "iso:code":"SE-AB",
         "iso:id":"SE-AB",
+        "se-lant:code":"01",
         "unlc:id":"SE-AB",
         "wd:id":"Q104231"
     },
+    "wof:concordances_official":"se-lant:code",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"SE",
-    "wof:geomhash":"786f7e2845b1b357ed663427d38293a1",
+    "wof:geomhash":"42fd425933bb6915aec2352fce12a02f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -447,7 +453,7 @@
         "swe",
         "fin"
     ],
-    "wof:lastmodified":1690862990,
+    "wof:lastmodified":1695885316,
     "wof:name":"Stockholm",
     "wof:parent_id":85633789,
     "wof:placetype":"region",

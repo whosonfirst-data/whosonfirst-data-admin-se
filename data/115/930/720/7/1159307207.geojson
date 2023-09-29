@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002497,
-    "geom:area_square_m":17427124.088534,
+    "geom:area_square_m":17427124.088532,
     "geom:bbox":"13.176240204,55.6116286055,13.2601675938,55.6608106633",
     "geom:latitude":55.636275,
     "geom:longitude":13.215347,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.636824,
     "lbl:longitude":13.215352,
     "lbl:max_zoom":18.0,
@@ -102,9 +111,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101132"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734250,
-    "wof:geomhash":"8d4b50515e39efa371e6104e33dc1604",
+    "wof:geomhash":"b40cebda12e68966a1b13a818ee9466b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -115,7 +128,7 @@
         }
     ],
     "wof:id":1159307207,
-    "wof:lastmodified":1566643383,
+    "wof:lastmodified":1695879433,
     "wof:name":"Staffanstorp",
     "wof:parent_id":1159303125,
     "wof:placetype":"localadmin",

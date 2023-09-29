@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007485,
-    "geom:area_square_m":45447474.734367,
+    "geom:area_square_m":45447474.734364,
     "geom:bbox":"15.7203925639,60.5557578072,15.9756687735,60.616094721",
     "geom:latitude":60.591285,
     "geom:longitude":15.833501,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":3415,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":60.594032,
     "lbl:longitude":15.810415,
     "lbl:max_zoom":15.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131755,
-        "qs_pg:id":109329
+        "qs_pg:id":109329,
+        "se-lant:code":"217030"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497044917,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"bab4ca7ae0c0f35a1077c34ee3b65b7d",
+    "wof:geomhash":"24d2c24e0e5e40fd0924b14924d8556a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125327709,
-    "wof:lastmodified":1582340765,
+    "wof:lastmodified":1695879459,
     "wof:name":"Hosjo",
     "wof:parent_id":1159302903,
     "wof:placetype":"localadmin",

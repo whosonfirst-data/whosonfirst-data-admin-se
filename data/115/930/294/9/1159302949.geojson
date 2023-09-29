@@ -124,8 +124,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_0461",
-        "eurostat:nuts_2021_id":"0461"
+        "eurostat:nuts_2021_id":"0461",
+        "se-lant:code":"0461"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525379398,
     "wof:geomhash":"f0a670ccf3060d32e42b724484361db0",
@@ -138,7 +140,7 @@
         }
     ],
     "wof:id":1159302949,
-    "wof:lastmodified":1684354746,
+    "wof:lastmodified":1695886747,
     "wof:name":"Gnesta",
     "wof:parent_id":85688419,
     "wof:placetype":"county",

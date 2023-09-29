@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005971,
-    "geom:area_square_m":41193123.381565,
+    "geom:area_square_m":41193123.381561,
     "geom:bbox":"14.0355702276,56.0371545655,14.1423702774,56.1331705541",
     "geom:latitude":56.087612,
     "geom:longitude":14.091058,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.087272,
     "lbl:longitude":14.091871,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101307"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734031,
-    "wof:geomhash":"bb421cab8fdf80b1967f1c5415e6d2de",
+    "wof:geomhash":"d8dbbc54ade8e0f331cde8fb3876f72c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306387,
-    "wof:lastmodified":1566643346,
+    "wof:lastmodified":1695879427,
     "wof:name":"Farlov",
     "wof:parent_id":1159303497,
     "wof:placetype":"localadmin",

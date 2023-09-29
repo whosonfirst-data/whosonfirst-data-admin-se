@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018688,
-    "geom:area_square_m":114854662.770634,
+    "geom:area_square_m":114854662.770637,
     "geom:bbox":"18.0367368872,60.1157393929,18.3190782645,60.266368052",
     "geom:latitude":60.195937,
     "geom:longitude":18.219393,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":597,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":60.176139,
     "lbl:longitude":18.240775,
     "lbl:max_zoom":17.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131811,
-        "qs_pg:id":757733
+        "qs_pg:id":757733,
+        "se-lant:code":"215188"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497046476,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"576c1f735a6eac03565e3a0ccfc291ae",
+    "wof:geomhash":"ff1de5687ae2b296d1f4ff571fb7f8fc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125356025,
-    "wof:lastmodified":1582340742,
+    "wof:lastmodified":1695879441,
     "wof:name":"Hokhuvud",
     "wof:parent_id":1159303415,
     "wof:placetype":"localadmin",

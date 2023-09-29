@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025723,
-    "geom:area_square_m":173267672.894133,
+    "geom:area_square_m":173267672.894125,
     "geom:bbox":"14.943440935,56.9161878199,15.2370517538,57.0696450701",
     "geom:latitude":56.992003,
     "geom:longitude":15.099979,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":564,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.993445,
     "lbl:longitude":15.065452,
     "lbl:max_zoom":17.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132182,
-        "qs_pg:id":757977
+        "qs_pg:id":757977,
+        "se-lant:code":"105108"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497046611,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"341d71710a655e58e20278a5599462f7",
+    "wof:geomhash":"9945a7282dd600faada8b881a95edd25",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125358165,
-    "wof:lastmodified":1582340738,
+    "wof:lastmodified":1695879439,
     "wof:name":"Dadesjo",
     "wof:parent_id":1159302917,
     "wof:placetype":"localadmin",

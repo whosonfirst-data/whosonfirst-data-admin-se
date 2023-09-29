@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01658,
-    "geom:area_square_m":101918937.53797,
+    "geom:area_square_m":101918937.537953,
     "geom:bbox":"16.0169070298,60.1364881465,16.2578785611,60.2519823524",
     "geom:latitude":60.190477,
     "geom:longitude":16.144529,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":5408,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":60.199627,
     "lbl:longitude":16.122792,
     "lbl:max_zoom":15.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132751,
-        "qs_pg:id":109495
+        "qs_pg:id":109495,
+        "se-lant:code":"217007"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497042393,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"71e6b92bdd787337bf491d914c432d2d",
+    "wof:geomhash":"21f5615b15a1aa783781f2af57f1e0ae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125277953,
-    "wof:lastmodified":1582340805,
+    "wof:lastmodified":1695879490,
     "wof:name":"Grytnas",
     "wof:parent_id":1159303263,
     "wof:placetype":"localadmin",

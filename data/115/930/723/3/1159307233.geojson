@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010606,
-    "geom:area_square_m":72589958.244548,
+    "geom:area_square_m":72589958.244553,
     "geom:bbox":"14.9307679856,56.341702564,15.1335831279,56.4510417591",
     "geom:latitude":56.3913,
     "geom:longitude":15.030462,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.40571,
     "lbl:longitude":15.015107,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"102036"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734257,
-    "wof:geomhash":"a7ddddf1f662ae8d522e0cdf1e62dfe4",
+    "wof:geomhash":"2f34c800e6eb4363ec97cbf828ac241d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307233,
-    "wof:lastmodified":1566643252,
+    "wof:lastmodified":1695879409,
     "wof:name":"Oljehult",
     "wof:parent_id":1159303551,
     "wof:placetype":"localadmin",

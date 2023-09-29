@@ -10,6 +10,15 @@
     "geom:latitude":59.576283,
     "geom:longitude":16.937042,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.575373,
     "lbl:longitude":16.93705,
     "lbl:max_zoom":18.0,
@@ -42,9 +51,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"215048"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734243,
-    "wof:geomhash":"61a403461d09f257ac0e9442ba21c4b7",
+    "wof:geomhash":"9fe227d4e03fa4decb96b6eaf3747489",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,7 +68,7 @@
         }
     ],
     "wof:id":1159307179,
-    "wof:lastmodified":1566643365,
+    "wof:lastmodified":1695879430,
     "wof:name":"Teda",
     "wof:parent_id":1159303337,
     "wof:placetype":"localadmin",

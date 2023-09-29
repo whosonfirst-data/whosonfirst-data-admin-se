@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001626,
-    "geom:area_square_m":10243155.52783,
+    "geom:area_square_m":10243155.527831,
     "geom:bbox":"17.8349345,59.3423099621,17.9000893386,59.3874937652",
     "geom:latitude":59.366049,
     "geom:longitude":17.86613,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":29025,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.365623,
     "lbl:longitude":17.874258,
     "lbl:max_zoom":14.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132029,
-        "qs_pg:id":1042406
+        "qs_pg:id":1042406,
+        "se-lant:code":"215011"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497042618,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"6c6517318f95f9f1c4ba1204ded7f417",
+    "wof:geomhash":"b0d6cbc8872c9a8e15c739b756681312",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125283839,
-    "wof:lastmodified":1582340787,
+    "wof:lastmodified":1695879477,
     "wof:name":"Vallingby",
     "wof:parent_id":1159303035,
     "wof:placetype":"localadmin",

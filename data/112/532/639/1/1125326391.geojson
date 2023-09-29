@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007467,
-    "geom:area_square_m":47365787.360178,
+    "geom:area_square_m":47365787.360184,
     "geom:bbox":"14.7604022743,59.080513441,14.9522515049,59.1900959169",
     "geom:latitude":59.135333,
     "geom:longitude":14.868303,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":1527,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.125463,
     "lbl:longitude":14.861775,
     "lbl:max_zoom":16.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131661,
-        "qs_pg:id":757636
+        "qs_pg:id":757636,
+        "se-lant:code":"211016"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497044840,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"fa6d2eb34e215cf08334c2f2e888c98d",
+    "wof:geomhash":"7a58219ffccce3507d2a75c088de3891",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125326391,
-    "wof:lastmodified":1582340772,
+    "wof:lastmodified":1695879464,
     "wof:name":"Edsberg",
     "wof:parent_id":1159303175,
     "wof:placetype":"localadmin",

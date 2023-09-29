@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017517,
-    "geom:area_square_m":115933849.169507,
+    "geom:area_square_m":115933849.169521,
     "geom:bbox":"15.0588721566,57.5691344548,15.2675096313,57.7171184472",
     "geom:latitude":57.638752,
     "geom:longitude":15.154531,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":908,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.64306,
     "lbl:longitude":15.145852,
     "lbl:max_zoom":17.0,
@@ -76,14 +85,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131937,
-        "qs_pg:id":1042387
+        "qs_pg:id":1042387,
+        "se-lant:code":"105223"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497042617,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"f1bb661a109d55c731214c57120db554",
+    "wof:geomhash":"6e7c81344bacaca03c99c883c6a25117",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,7 +105,7 @@
         }
     ],
     "wof:id":1125283799,
-    "wof:lastmodified":1582340787,
+    "wof:lastmodified":1695879477,
     "wof:name":"Hult",
     "wof:parent_id":1159303243,
     "wof:placetype":"localadmin",

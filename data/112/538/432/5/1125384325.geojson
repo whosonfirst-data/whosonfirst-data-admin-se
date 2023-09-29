@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002182,
-    "geom:area_square_m":14284900.358426,
+    "geom:area_square_m":14284900.358425,
     "geom:bbox":"12.9438958906,58.0087283434,13.0348454202,58.0449431417",
     "geom:latitude":58.026227,
     "geom:longitude":12.989738,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":74,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.026133,
     "lbl:longitude":12.989742,
     "lbl:max_zoom":18.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8133244,
-        "qs_pg:id":758574
+        "qs_pg:id":758574,
+        "se-lant:code":"107178"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497048266,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"897a183983c9cbbcccdce53772050446",
+    "wof:geomhash":"40a6789f63ea5cbb6f6e14ae7e33979e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125384325,
-    "wof:lastmodified":1582340854,
+    "wof:lastmodified":1695879525,
     "wof:name":"Jallby",
     "wof:parent_id":1159303171,
     "wof:placetype":"localadmin",

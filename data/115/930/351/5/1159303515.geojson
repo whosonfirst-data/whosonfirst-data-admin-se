@@ -166,8 +166,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_2062",
-        "eurostat:nuts_2021_id":"2062"
+        "eurostat:nuts_2021_id":"2062",
+        "se-lant:code":"2062"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525379507,
     "wof:geomhash":"e62e4d53273d78275437cf753efcb936",
@@ -180,7 +182,7 @@
         }
     ],
     "wof:id":1159303515,
-    "wof:lastmodified":1684354758,
+    "wof:lastmodified":1695886763,
     "wof:name":"Mora",
     "wof:parent_id":85688447,
     "wof:placetype":"county",

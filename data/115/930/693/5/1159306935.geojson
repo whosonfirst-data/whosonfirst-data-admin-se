@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.123495,
-    "geom:area_square_m":754055006.459936,
+    "geom:area_square_m":754055006.459962,
     "geom:bbox":"12.9179039319,60.2121211102,13.6216922614,60.598950098",
     "geom:latitude":60.409239,
     "geom:longitude":13.277941,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":60.400685,
     "lbl:longitude":13.283196,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"213092"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734182,
-    "wof:geomhash":"61e61ec5d8879a799b5e37a9516f1e8b",
+    "wof:geomhash":"b80cde808554b0de07b51a9381722b1a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306935,
-    "wof:lastmodified":1566643213,
+    "wof:lastmodified":1695879402,
     "wof:name":"Norra Ny",
     "wof:parent_id":1159303341,
     "wof:placetype":"localadmin",

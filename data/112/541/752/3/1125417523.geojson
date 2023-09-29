@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00389,
-    "geom:area_square_m":26823641.215688,
+    "geom:area_square_m":26823641.215687,
     "geom:bbox":"15.4129731747,56.0823797863,15.5223281793,56.1340587825",
     "geom:latitude":56.106195,
     "geom:longitude":15.467331,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":1665,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.104675,
     "lbl:longitude":15.467337,
     "lbl:max_zoom":16.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132456,
-        "qs_pg:id":758158
+        "qs_pg:id":758158,
+        "se-lant:code":"102004"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497051607,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"7007aa475cb8ab2bd7489d3cfeea359d",
+    "wof:geomhash":"7ba8274efe33abd78eb61140d39f512e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125417523,
-    "wof:lastmodified":1582340868,
+    "wof:lastmodified":1695879534,
     "wof:name":"Hasslo",
     "wof:parent_id":1159303467,
     "wof:placetype":"localadmin",

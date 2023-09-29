@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001334,
-    "geom:area_square_m":8590268.536081,
+    "geom:area_square_m":8590268.536079,
     "geom:bbox":"16.1510578877,58.5869672994,16.2130942898,58.630552897",
     "geom:latitude":58.606769,
     "geom:longitude":16.179432,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":11529,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.606427,
     "lbl:longitude":16.178972,
     "lbl:max_zoom":15.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131975,
-        "qs_pg:id":757856
+        "qs_pg:id":757856,
+        "se-lant:code":"108139"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497048265,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"895c7507f540426dd8966c5a60258312",
+    "wof:geomhash":"da6ac0a54b0add3cbaa08f7a2a99684a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125384293,
-    "wof:lastmodified":1582340852,
+    "wof:lastmodified":1695879524,
     "wof:name":"Norrkopings Matteus",
     "wof:parent_id":1159303229,
     "wof:placetype":"localadmin",

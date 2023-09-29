@@ -73,8 +73,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_1486",
-        "eurostat:nuts_2021_id":"1486"
+        "eurostat:nuts_2021_id":"1486",
+        "se-lant:code":"1486"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525379464,
     "wof:geomhash":"de302d90ca7adb3504839573ca446595",
@@ -87,7 +89,7 @@
         }
     ],
     "wof:id":1159303235,
-    "wof:lastmodified":1684354752,
+    "wof:lastmodified":1695886754,
     "wof:name":"Stromstad",
     "wof:parent_id":85688411,
     "wof:placetype":"county",

@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004287,
-    "geom:area_square_m":29691911.42546,
+    "geom:area_square_m":29691911.425452,
     "geom:bbox":"13.3742081017,55.8928807771,13.4933843305,55.9842584396",
     "geom:latitude":55.940111,
     "geom:longitude":13.444964,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.939564,
     "lbl:longitude":13.445871,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101268"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733971,
-    "wof:geomhash":"f7db792846f655d84a63f9416db642e9",
+    "wof:geomhash":"a8168b6adf5031363b93acd0b1509a2e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306201,
-    "wof:lastmodified":1566643195,
+    "wof:lastmodified":1695879399,
     "wof:name":"Munkarp",
     "wof:parent_id":1159303357,
     "wof:placetype":"localadmin",

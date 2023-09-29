@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021859,
-    "geom:area_square_m":144981667.624686,
+    "geom:area_square_m":144981667.62468,
     "geom:bbox":"12.2733252987,57.4748284589,12.5506456873,57.6355409787",
     "geom:latitude":57.562334,
     "geom:longitude":12.399753,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":3583,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.561393,
     "lbl:longitude":12.401913,
     "lbl:max_zoom":15.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8133235,
-        "qs_pg:id":1042488
+        "qs_pg:id":1042488,
+        "se-lant:code":"107042"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497048939,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"5da17cf103ccffeee2c31426c4e02759",
+    "wof:geomhash":"6f31757a7a20636f9ed00f9c12036dfc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125394773,
-    "wof:lastmodified":1582340838,
+    "wof:lastmodified":1695879514,
     "wof:name":"Satila",
     "wof:parent_id":1159302961,
     "wof:placetype":"localadmin",

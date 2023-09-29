@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001235,
-    "geom:area_square_m":8587192.586036,
+    "geom:area_square_m":8587192.586034,
     "geom:bbox":"13.0655402778,55.7774316333,13.126351156,55.8092707592",
     "geom:latitude":55.795344,
     "geom:longitude":13.095869,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":9898,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.796662,
     "lbl:longitude":13.098343,
     "lbl:max_zoom":15.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8133123,
-        "qs_pg:id":109579
+        "qs_pg:id":109579,
+        "se-lant:code":"101194"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497046529,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"e9711ec0afdd46f2424758c5537c0fa1",
+    "wof:geomhash":"dfbe99990578a7480129345ad24ff6e2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125356897,
-    "wof:lastmodified":1582340740,
+    "wof:lastmodified":1695879440,
     "wof:name":"Kavlinge",
     "wof:parent_id":1159303543,
     "wof:placetype":"localadmin",

@@ -10,6 +10,15 @@
     "geom:latitude":55.875329,
     "geom:longitude":14.00485,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.889488,
     "lbl:longitude":13.99637,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101247"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733878,
-    "wof:geomhash":"3185cf5912696207418afd817e07a7a0",
+    "wof:geomhash":"96fffa3fa3bf8b179f3733e70904a86f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159305825,
-    "wof:lastmodified":1566643351,
+    "wof:lastmodified":1695879428,
     "wof:name":"Ostra Sonnarslov",
     "wof:parent_id":1159303497,
     "wof:placetype":"localadmin",

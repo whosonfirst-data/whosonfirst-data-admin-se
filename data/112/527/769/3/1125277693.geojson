@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021341,
-    "geom:area_square_m":139262715.160513,
+    "geom:area_square_m":139262715.160498,
     "geom:bbox":"15.5156283954,58.0877971592,15.8326968989,58.2090746411",
     "geom:latitude":58.146567,
     "geom:longitude":15.674141,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":2891,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.14535,
     "lbl:longitude":15.605681,
     "lbl:max_zoom":15.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131742,
-        "qs_pg:id":109322
+        "qs_pg:id":109322,
+        "se-lant:code":"108019"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497042385,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"63c30bc55aa65a9d4fa55b7892c7a576",
+    "wof:geomhash":"4707f6dc606b7050c88a452ec5125de6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125277693,
-    "wof:lastmodified":1582340804,
+    "wof:lastmodified":1695879489,
     "wof:name":"Tjarstad",
     "wof:parent_id":1159303139,
     "wof:placetype":"localadmin",

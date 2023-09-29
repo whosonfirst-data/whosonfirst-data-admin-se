@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0084,
-    "geom:area_square_m":54094369.16082,
+    "geom:area_square_m":54094369.160825,
     "geom:bbox":"16.2740491944,58.5623354503,16.4203275188,58.6579795667",
     "geom:latitude":58.614899,
     "geom:longitude":16.342803,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.620613,
     "lbl:longitude":16.335464,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"108144"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734337,
-    "wof:geomhash":"efcf256c6d4d2f55ef58d90653a365a5",
+    "wof:geomhash":"979ad980534ba7bdc41ecb47937715f1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307535,
-    "wof:lastmodified":1566643160,
+    "wof:lastmodified":1695879392,
     "wof:name":"Dagsberg",
     "wof:parent_id":1159303229,
     "wof:placetype":"localadmin",

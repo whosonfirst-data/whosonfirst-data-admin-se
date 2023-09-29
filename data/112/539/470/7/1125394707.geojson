@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001883,
-    "geom:area_square_m":11861093.614793,
+    "geom:area_square_m":11861093.614791,
     "geom:bbox":"17.851034134,59.3612475358,17.9448880212,59.4030630578",
     "geom:latitude":59.383412,
     "geom:longitude":17.902122,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":51299,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.384597,
     "lbl:longitude":17.906732,
     "lbl:max_zoom":14.0,
@@ -73,14 +82,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8133088,
-        "qs_pg:id":1042470
+        "qs_pg:id":1042470,
+        "se-lant:code":"215014"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497048935,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"38e3d889c4cb813e0543229ffdb08a36",
+    "wof:geomhash":"dce3c012dc35584aa7630c38b77aa70b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +102,7 @@
         }
     ],
     "wof:id":1125394707,
-    "wof:lastmodified":1582340838,
+    "wof:lastmodified":1695879514,
     "wof:name":"Spanga",
     "wof:parent_id":1159303035,
     "wof:placetype":"localadmin",

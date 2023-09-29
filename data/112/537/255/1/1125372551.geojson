@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.073416,
-    "geom:area_square_m":455310247.924589,
+    "geom:area_square_m":455310247.924568,
     "geom:bbox":"14.33178284,59.7450784955,14.7734828019,60.0257176673",
     "geom:latitude":59.897042,
     "geom:longitude":14.558165,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":5662,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.89571,
     "lbl:longitude":14.540519,
     "lbl:max_zoom":15.0,
@@ -61,14 +70,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131841,
-        "qs_pg:id":109336
+        "qs_pg:id":109336,
+        "se-lant:code":"214052"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497047507,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"6ab8b5521de2bf3b8c3a87059e05db04",
+    "wof:geomhash":"b501e6b1bb529d55d723623d38b871e0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +90,7 @@
         }
     ],
     "wof:id":1125372551,
-    "wof:lastmodified":1582340833,
+    "wof:lastmodified":1695879510,
     "wof:name":"Hallefors",
     "wof:parent_id":1159303071,
     "wof:placetype":"localadmin",

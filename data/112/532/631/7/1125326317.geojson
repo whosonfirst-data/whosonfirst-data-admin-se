@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022907,
-    "geom:area_square_m":145911698.147169,
+    "geom:area_square_m":145911698.147149,
     "geom:bbox":"11.8901059399,58.9140014055,12.1495839222,59.0813780164",
     "geom:latitude":58.992926,
     "geom:longitude":12.017272,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":245,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.990544,
     "lbl:longitude":12.017286,
     "lbl:max_zoom":17.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8133370,
-        "qs_pg:id":758652
+        "qs_pg:id":758652,
+        "se-lant:code":"110034"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497044836,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"b15d5831e73cc5ea1536cf2a3c4cb463",
+    "wof:geomhash":"ac26f7a8e620eb9d3bcb40906539ea15",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125326317,
-    "wof:lastmodified":1582340773,
+    "wof:lastmodified":1695879465,
     "wof:name":"Habol",
     "wof:parent_id":1159302967,
     "wof:placetype":"localadmin",

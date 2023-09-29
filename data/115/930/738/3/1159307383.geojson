@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018411,
-    "geom:area_square_m":125847473.350914,
+    "geom:area_square_m":125847473.350904,
     "geom:bbox":"15.2052165539,56.3756746686,15.5072201964,56.5006217431",
     "geom:latitude":56.440673,
     "geom:longitude":15.344852,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.454312,
     "lbl:longitude":15.395104,
     "lbl:max_zoom":18.0,
@@ -60,9 +69,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"102037"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734297,
-    "wof:geomhash":"4c859e53efe1e0b409fd74aeebad2b7f",
+    "wof:geomhash":"b20db18051f8b9d7e465b1040a3d7feb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,7 +86,7 @@
         }
     ],
     "wof:id":1159307383,
-    "wof:lastmodified":1566643171,
+    "wof:lastmodified":1695879393,
     "wof:name":"Eringsboda",
     "wof:parent_id":1159303551,
     "wof:placetype":"localadmin",

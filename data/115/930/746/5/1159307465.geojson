@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005171,
-    "geom:area_square_m":33407489.966602,
+    "geom:area_square_m":33407489.966604,
     "geom:bbox":"13.4458661056,58.471942467,13.6420974487,58.5260234896",
     "geom:latitude":58.502258,
     "geom:longitude":13.552687,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.504981,
     "lbl:longitude":13.526632,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107385"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734320,
-    "wof:geomhash":"027a5e0f87a64ce475065f52fb5c22ca",
+    "wof:geomhash":"6be1a626c98b80b8658cf612f48b107d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307465,
-    "wof:lastmodified":1566643259,
+    "wof:lastmodified":1695879410,
     "wof:name":"Vattlosa",
     "wof:parent_id":1159302923,
     "wof:placetype":"localadmin",

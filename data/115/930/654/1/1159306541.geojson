@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002908,
-    "geom:area_square_m":19148148.656744,
+    "geom:area_square_m":19148148.656741,
     "geom:bbox":"13.1209553171,57.7943292139,13.2028896995,57.8557038376",
     "geom:latitude":57.827829,
     "geom:longitude":13.167746,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.826574,
     "lbl:longitude":13.16712,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107122"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734072,
-    "wof:geomhash":"79934de6c54ef1a80b257040f3760419",
+    "wof:geomhash":"18cc3aa1f6e9ab59dfc8bda050df7816",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306541,
-    "wof:lastmodified":1566643340,
+    "wof:lastmodified":1695879426,
     "wof:name":"Varnum",
     "wof:parent_id":1159303161,
     "wof:placetype":"localadmin",

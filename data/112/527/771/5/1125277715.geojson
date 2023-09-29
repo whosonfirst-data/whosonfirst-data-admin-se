@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030754,
-    "geom:area_square_m":201184117.287003,
+    "geom:area_square_m":201184117.287001,
     "geom:bbox":"15.1007538594,57.9538104368,15.3829929404,58.1488049943",
     "geom:latitude":58.0597,
     "geom:longitude":15.255535,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":244,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.059654,
     "lbl:longitude":15.255637,
     "lbl:max_zoom":17.0,
@@ -73,14 +82,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131744,
-        "qs_pg:id":109324
+        "qs_pg:id":109324,
+        "se-lant:code":"108012"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497042385,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"edf784af49512d35f777238930a749f2",
+    "wof:geomhash":"08ff972a0c302d472e6b575714c2c168",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +102,7 @@
         }
     ],
     "wof:id":1125277715,
-    "wof:lastmodified":1582340803,
+    "wof:lastmodified":1695879489,
     "wof:name":"Malexander",
     "wof:parent_id":1159303501,
     "wof:placetype":"localadmin",

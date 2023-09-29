@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000943,
-    "geom:area_square_m":6556208.610156,
+    "geom:area_square_m":6556208.610154,
     "geom:bbox":"13.0301265773,55.7588248545,13.0809258499,55.7934446708",
     "geom:latitude":55.77921,
     "geom:longitude":13.053215,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.779234,
     "lbl:longitude":13.051483,
     "lbl:max_zoom":18.0,
@@ -48,9 +57,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101189"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734313,
-    "wof:geomhash":"7c901ce0f1b4e095eac7986e77b59976",
+    "wof:geomhash":"fe5215c60b6e750ec813ed5308eea471",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +74,7 @@
         }
     ],
     "wof:id":1159307447,
-    "wof:lastmodified":1566643352,
+    "wof:lastmodified":1695879428,
     "wof:name":"Hog",
     "wof:parent_id":1159303543,
     "wof:placetype":"localadmin",

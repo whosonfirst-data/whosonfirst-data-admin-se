@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019826,
-    "geom:area_square_m":136819781.830788,
+    "geom:area_square_m":136819781.830796,
     "geom:bbox":"13.154816798,56.0009940114,13.4005589519,56.1320015114",
     "geom:latitude":56.075322,
     "geom:longitude":13.274611,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":3510,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.076359,
     "lbl:longitude":13.276945,
     "lbl:max_zoom":15.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8133135,
-        "qs_pg:id":758506
+        "qs_pg:id":758506,
+        "se-lant:code":"101296"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497044822,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"113537173fb3419d4c4eab67512e8a06",
+    "wof:geomhash":"827a36ea025bc14869c1c3a1595c7755",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125326081,
-    "wof:lastmodified":1582340772,
+    "wof:lastmodified":1695879464,
     "wof:name":"Riseberga",
     "wof:parent_id":1159303295,
     "wof:placetype":"localadmin",

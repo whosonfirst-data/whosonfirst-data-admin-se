@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.089374,
-    "geom:area_square_m":495387216.112316,
+    "geom:area_square_m":495387216.112313,
     "geom:bbox":"16.0959607877,63.2358329837,16.766415443,63.511726593",
     "geom:latitude":63.367785,
     "geom:longitude":16.472264,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":63.352724,
     "lbl:longitude":16.477361,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"321029"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733944,
-    "wof:geomhash":"f0cf873ef8836dd6fe57acd9899b6435",
+    "wof:geomhash":"1a749a087cfde92652abca1fb370def8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306089,
-    "wof:lastmodified":1566643329,
+    "wof:lastmodified":1695879424,
     "wof:name":"Edsele",
     "wof:parent_id":1159303381,
     "wof:placetype":"localadmin",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005133,
-    "geom:area_square_m":29430092.564821,
+    "geom:area_square_m":29430092.564816,
     "geom:bbox":"17.2135781569,62.3425190137,17.3335149932,62.4130908757",
     "geom:latitude":62.375317,
     "geom:longitude":17.278646,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":20630,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":62.374661,
     "lbl:longitude":17.279784,
     "lbl:max_zoom":14.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131954,
-        "qs_pg:id":757835
+        "qs_pg:id":757835,
+        "se-lant:code":"320004"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497042742,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"3f72cc041633cab1504a393652d12e52",
+    "wof:geomhash":"b1db47b1781eb89a638d8ccc14609bc0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125286909,
-    "wof:lastmodified":1582340795,
+    "wof:lastmodified":1695879483,
     "wof:name":"Sundsvalls Gustav Adolf",
     "wof:parent_id":1159303427,
     "wof:placetype":"localadmin",

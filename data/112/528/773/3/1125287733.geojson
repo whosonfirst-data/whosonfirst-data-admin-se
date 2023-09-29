@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003948,
-    "geom:area_square_m":26801882.231638,
+    "geom:area_square_m":26801882.231635,
     "geom:bbox":"14.8516024105,56.667269911,14.9645916363,56.7290980534",
     "geom:latitude":56.697179,
     "geom:longitude":14.900992,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":290,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.697614,
     "lbl:longitude":14.900121,
     "lbl:max_zoom":17.0,
@@ -61,14 +70,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132778,
-        "qs_pg:id":758342
+        "qs_pg:id":758342,
+        "se-lant:code":"105044"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497042783,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"1b382eba2eeb9321a3a0867be94e4c59",
+    "wof:geomhash":"c57986e19fcf2114d99106a51c5d5ec8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +90,7 @@
         }
     ],
     "wof:id":1125287733,
-    "wof:lastmodified":1582340798,
+    "wof:lastmodified":1695879486,
     "wof:name":"Urasa",
     "wof:parent_id":1159302917,
     "wof:placetype":"localadmin",

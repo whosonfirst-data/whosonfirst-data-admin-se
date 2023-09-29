@@ -10,6 +10,15 @@
     "geom:latitude":58.417017,
     "geom:longitude":12.873383,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.416126,
     "lbl:longitude":12.873968,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107334"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733951,
-    "wof:geomhash":"4a2f319d6ecdea650bacb0231e937ceb",
+    "wof:geomhash":"a947f1257032b45584e82979fde400bd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306115,
-    "wof:lastmodified":1566643198,
+    "wof:lastmodified":1695879400,
     "wof:name":"Lavad",
     "wof:parent_id":1159303281,
     "wof:placetype":"localadmin",

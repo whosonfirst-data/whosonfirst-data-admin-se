@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.049334,
-    "geom:area_square_m":301264932.622931,
+    "geom:area_square_m":301264932.6229,
     "geom:bbox":"17.6564206335,60.2658202072,17.9810893671,60.5489869402",
     "geom:latitude":60.405274,
     "geom:longitude":17.808882,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":60.409526,
     "lbl:longitude":17.792968,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"215200"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734346,
-    "wof:geomhash":"1de6b622479ffd98ffc8a31451190c2a",
+    "wof:geomhash":"f29b8998da867cb8559944f8c3b3293a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307567,
-    "wof:lastmodified":1566643276,
+    "wof:lastmodified":1695879413,
     "wof:name":"Osterlovsta",
     "wof:parent_id":1159302963,
     "wof:placetype":"localadmin",

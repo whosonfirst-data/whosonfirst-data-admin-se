@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037413,
-    "geom:area_square_m":244333845.065652,
+    "geom:area_square_m":244333845.065679,
     "geom:bbox":"16.3953062664,58.0042848332,16.927236014,58.2160494217",
     "geom:latitude":58.119679,
     "geom:longitude":16.621412,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.135531,
     "lbl:longitude":16.625471,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"105290"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734166,
-    "wof:geomhash":"1cfa143ff37320ad7411f0e255176213",
+    "wof:geomhash":"2e937b0ff5b7d70c2ca8a1425de9e936",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306889,
-    "wof:lastmodified":1566643179,
+    "wof:lastmodified":1695879395,
     "wof:name":"Tryserum",
     "wof:parent_id":1159303123,
     "wof:placetype":"localadmin",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000306,
-    "geom:area_square_m":1933937.82105,
+    "geom:area_square_m":1933937.821049,
     "geom:bbox":"18.0577309484,59.3027852964,18.0864579275,59.3219926376",
     "geom:latitude":59.31129,
     "geom:longitude":18.073266,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":33779,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.308368,
     "lbl:longitude":18.071093,
     "lbl:max_zoom":14.0,
@@ -61,14 +70,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132069,
-        "qs_pg:id":757918
+        "qs_pg:id":757918,
+        "se-lant:code":"212100"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497046872,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"02d84a82b7c85b38d77321d88df332b0",
+    "wof:geomhash":"f8f7257f56ecda3d919f34a10c88c906",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +90,7 @@
         }
     ],
     "wof:id":1125362283,
-    "wof:lastmodified":1582340858,
+    "wof:lastmodified":1695879528,
     "wof:name":"Stockholms Katarina",
     "wof:parent_id":1159303035,
     "wof:placetype":"localadmin",

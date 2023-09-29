@@ -10,6 +10,15 @@
     "geom:latitude":55.436396,
     "geom:longitude":13.436772,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.436807,
     "lbl:longitude":13.437261,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101034"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734002,
-    "wof:geomhash":"b1c5a9c78620c8d17cb4696c40fc4d47",
+    "wof:geomhash":"bcdf8d1fc013183821c54c5fd15ec96d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306327,
-    "wof:lastmodified":1566643219,
+    "wof:lastmodified":1695879403,
     "wof:name":"Onnarp",
     "wof:parent_id":1159303309,
     "wof:placetype":"localadmin",

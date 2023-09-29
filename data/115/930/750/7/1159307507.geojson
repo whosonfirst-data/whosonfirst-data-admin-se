@@ -10,6 +10,15 @@
     "geom:latitude":55.487044,
     "geom:longitude":14.098293,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.48723,
     "lbl:longitude":14.098743,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101062"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734330,
-    "wof:geomhash":"dd5bf91f8a73358156bcc805b2260106",
+    "wof:geomhash":"93b7beb51036378100023cf1907408dc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307507,
-    "wof:lastmodified":1566643290,
+    "wof:lastmodified":1695879415,
     "wof:name":"Hannas",
     "wof:parent_id":1159302931,
     "wof:placetype":"localadmin",

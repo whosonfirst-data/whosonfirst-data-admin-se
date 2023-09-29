@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003526,
-    "geom:area_square_m":22923232.159661,
+    "geom:area_square_m":22923232.159659,
     "geom:bbox":"14.6715140073,58.2445579236,14.7606594155,58.3326336098",
     "geom:latitude":58.282287,
     "geom:longitude":14.711709,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.279519,
     "lbl:longitude":14.710999,
     "lbl:max_zoom":18.0,
@@ -45,9 +54,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"108023"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734261,
-    "wof:geomhash":"7a2cd682808744cb1e3735be775abc45",
+    "wof:geomhash":"f4002a50c108be0333aff1f04cc52003",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +71,7 @@
         }
     ],
     "wof:id":1159307257,
-    "wof:lastmodified":1566643231,
+    "wof:lastmodified":1695879406,
     "wof:name":"Heda",
     "wof:parent_id":1159303179,
     "wof:placetype":"localadmin",

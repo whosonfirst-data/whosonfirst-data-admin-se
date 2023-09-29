@@ -10,6 +10,15 @@
     "geom:latitude":56.119521,
     "geom:longitude":12.879724,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.117905,
     "lbl:longitude":12.872724,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101320"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733854,
-    "wof:geomhash":"239803cd1cc072fe7cd6f7390b0eb77d",
+    "wof:geomhash":"046d8db6f1d1c89d59d73534a66e6260",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159305733,
-    "wof:lastmodified":1566643264,
+    "wof:lastmodified":1695879411,
     "wof:name":"Vastra Broby",
     "wof:parent_id":1159303163,
     "wof:placetype":"localadmin",

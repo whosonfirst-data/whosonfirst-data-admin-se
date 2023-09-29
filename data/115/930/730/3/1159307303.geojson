@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016784,
-    "geom:area_square_m":110080040.620385,
+    "geom:area_square_m":110080040.620382,
     "geom:bbox":"14.9865990988,57.8890862339,15.2075505338,58.0321240451",
     "geom:latitude":57.967176,
     "geom:longitude":15.100291,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.971581,
     "lbl:longitude":15.117004,
     "lbl:max_zoom":18.0,
@@ -48,9 +57,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"108008"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734276,
-    "wof:geomhash":"e57b1b616203bbb920a7fb3e1e664ee7",
+    "wof:geomhash":"0491325ef0238242533d4c14655f2147",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +74,7 @@
         }
     ],
     "wof:id":1159307303,
-    "wof:lastmodified":1566643150,
+    "wof:lastmodified":1695879390,
     "wof:name":"Torpa",
     "wof:parent_id":1159303361,
     "wof:placetype":"localadmin",

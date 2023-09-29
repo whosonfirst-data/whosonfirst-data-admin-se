@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00199,
-    "geom:area_square_m":13883902.855449,
+    "geom:area_square_m":13883902.855447,
     "geom:bbox":"13.2275577796,55.6178225138,13.3188586301,55.663163685",
     "geom:latitude":55.643816,
     "geom:longitude":13.271077,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.64095,
     "lbl:longitude":13.2666,
     "lbl:max_zoom":18.0,
@@ -54,9 +63,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101134"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734332,
-    "wof:geomhash":"e673191908983a594a843aaafbfe3223",
+    "wof:geomhash":"9b9b215997c25993acc8b6142180b241",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,7 +80,7 @@
         }
     ],
     "wof:id":1159307517,
-    "wof:lastmodified":1566643279,
+    "wof:lastmodified":1695879413,
     "wof:name":"Kyrkheddinge",
     "wof:parent_id":1159303125,
     "wof:placetype":"localadmin",

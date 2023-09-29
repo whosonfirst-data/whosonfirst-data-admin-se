@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006459,
-    "geom:area_square_m":43063536.470504,
+    "geom:area_square_m":43063536.470507,
     "geom:bbox":"18.6341346965,57.3156314649,18.769512175,57.4086703938",
     "geom:latitude":57.370688,
     "geom:longitude":18.70237,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.378607,
     "lbl:longitude":18.701349,
     "lbl:max_zoom":18.0,
@@ -48,9 +57,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"106037"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733869,
-    "wof:geomhash":"d4766784d537e3b7be258a710e352d00",
+    "wof:geomhash":"d11634b295505e3042b5111db534bbf7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +74,7 @@
         }
     ],
     "wof:id":1159305785,
-    "wof:lastmodified":1566643359,
+    "wof:lastmodified":1695879430,
     "wof:name":"Ardre",
     "wof:parent_id":1159303535,
     "wof:placetype":"localadmin",

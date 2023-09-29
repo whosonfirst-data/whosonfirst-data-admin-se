@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004326,
-    "geom:area_square_m":27279570.739114,
+    "geom:area_square_m":27279570.739118,
     "geom:bbox":"15.1340838807,59.3053925541,15.2824683463,59.3641013198",
     "geom:latitude":59.333935,
     "geom:longitude":15.204973,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.335799,
     "lbl:longitude":15.206068,
     "lbl:max_zoom":18.0,
@@ -60,9 +69,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"211039"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734340,
-    "wof:geomhash":"e1598601551a9dcfa7ce3180cc540eaa",
+    "wof:geomhash":"e075329d3bb9627b48926a48eeaaf1d5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,7 +86,7 @@
         }
     ],
     "wof:id":1159307545,
-    "wof:lastmodified":1566643156,
+    "wof:lastmodified":1695879391,
     "wof:name":"Hovsta",
     "wof:parent_id":1159303031,
     "wof:placetype":"localadmin",

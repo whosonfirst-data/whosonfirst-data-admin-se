@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005551,
-    "geom:area_square_m":38651774.597078,
+    "geom:area_square_m":38651774.597072,
     "geom:bbox":"14.074756327,55.6903457986,14.2079315374,55.7665761643",
     "geom:latitude":55.730421,
     "geom:longitude":14.150456,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.736842,
     "lbl:longitude":14.172686,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101186"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734204,
-    "wof:geomhash":"968075e310f8116ce7a3b45ec614f031",
+    "wof:geomhash":"653d1877fb837aad80a51b6f69260b2a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307023,
-    "wof:lastmodified":1566643267,
+    "wof:lastmodified":1695879411,
     "wof:name":"Ravlunda",
     "wof:parent_id":1159302931,
     "wof:placetype":"localadmin",

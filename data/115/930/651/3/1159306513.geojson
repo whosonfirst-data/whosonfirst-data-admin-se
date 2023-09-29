@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007757,
-    "geom:area_square_m":53479812.522052,
+    "geom:area_square_m":53479812.522059,
     "geom:bbox":"14.1229537914,56.0588495794,14.2551241091,56.1740013901",
     "geom:latitude":56.111943,
     "geom:longitude":14.182235,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.108116,
     "lbl:longitude":14.18123,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101308"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734066,
-    "wof:geomhash":"712d0bc9479ac18d31b17a4fb51d93dc",
+    "wof:geomhash":"98e38b3b14e433c349f22b2a863eb273",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306513,
-    "wof:lastmodified":1566643205,
+    "wof:lastmodified":1695879401,
     "wof:name":"Fjalkestad",
     "wof:parent_id":1159303497,
     "wof:placetype":"localadmin",

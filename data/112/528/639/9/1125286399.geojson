@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002737,
-    "geom:area_square_m":17325321.28043,
+    "geom:area_square_m":17325321.280432,
     "geom:bbox":"17.5384531422,59.1823820771,17.6202949322,59.243114089",
     "geom:latitude":59.213444,
     "geom:longitude":17.579186,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":16540,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.215983,
     "lbl:longitude":17.581989,
     "lbl:max_zoom":15.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131767,
-        "qs_pg:id":757705
+        "qs_pg:id":757705,
+        "se-lant:code":"212069"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497042720,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"a86ae6b6393ae693980504f41b3cd6b9",
+    "wof:geomhash":"fbc372958c2691e9c87a3515195bb981",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125286399,
-    "wof:lastmodified":1582340795,
+    "wof:lastmodified":1695879483,
     "wof:name":"Vastertalje",
     "wof:parent_id":1159303135,
     "wof:placetype":"localadmin",

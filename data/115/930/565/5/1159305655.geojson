@@ -10,6 +10,15 @@
     "geom:latitude":57.419614,
     "geom:longitude":18.621103,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.419422,
     "lbl:longitude":18.616987,
     "lbl:max_zoom":18.0,
@@ -123,9 +132,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"106036"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733836,
-    "wof:geomhash":"aaa1419bd67971610d8ccc8ac927e48b",
+    "wof:geomhash":"2abcd82d52942345316d78bc743cad9f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -136,7 +149,7 @@
         }
     ],
     "wof:id":1159305655,
-    "wof:lastmodified":1566643292,
+    "wof:lastmodified":1695879416,
     "wof:name":"Ala",
     "wof:parent_id":1159303535,
     "wof:placetype":"localadmin",

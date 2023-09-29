@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003358,
-    "geom:area_square_m":23366283.754749,
+    "geom:area_square_m":23366283.754748,
     "geom:bbox":"13.410897916,55.7292119601,13.5294059585,55.7861601401",
     "geom:latitude":55.757607,
     "geom:longitude":13.469622,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.743714,
     "lbl:longitude":13.451904,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101205"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734242,
-    "wof:geomhash":"bd2d00220c688af4f7c250b62f64ef49",
+    "wof:geomhash":"dd51f097b84e6ee2dd3758936b49eacb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307177,
-    "wof:lastmodified":1566643366,
+    "wof:lastmodified":1695879431,
     "wof:name":"Hammarlunda",
     "wof:parent_id":1159303151,
     "wof:placetype":"localadmin",

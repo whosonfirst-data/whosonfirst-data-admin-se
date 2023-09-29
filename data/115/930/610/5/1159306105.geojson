@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002921,
-    "geom:area_square_m":20277095.990783,
+    "geom:area_square_m":20277095.990779,
     "geom:bbox":"13.0465853031,55.8282937797,13.1585243123,55.8716411223",
     "geom:latitude":55.84985,
     "geom:longitude":13.105307,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.849112,
     "lbl:longitude":13.123177,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101231"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733947,
-    "wof:geomhash":"c6b870eedca308fdcb5b8fee00926fd8",
+    "wof:geomhash":"5b00bca020b8bd5605b4c53a134ba64c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306105,
-    "wof:lastmodified":1566643181,
+    "wof:lastmodified":1695879396,
     "wof:name":"Norrvidinge",
     "wof:parent_id":1159303189,
     "wof:placetype":"localadmin",

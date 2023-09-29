@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004645,
-    "geom:area_square_m":29405553.923968,
+    "geom:area_square_m":29405553.923958,
     "geom:bbox":"17.7839093207,59.1728203501,17.9042735958,59.2311900072",
     "geom:latitude":59.202386,
     "geom:longitude":17.839483,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.200479,
     "lbl:longitude":17.839483,
     "lbl:max_zoom":18.0,
@@ -75,9 +84,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"212074"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733876,
-    "wof:geomhash":"b81c8b772300056f0847b8af0854d6a4",
+    "wof:geomhash":"f26d19593668db5ef38db080e881ca31",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +101,7 @@
         }
     ],
     "wof:id":1159305815,
-    "wof:lastmodified":1566643239,
+    "wof:lastmodified":1695879407,
     "wof:name":"Tumba",
     "wof:parent_id":1159303191,
     "wof:placetype":"localadmin",

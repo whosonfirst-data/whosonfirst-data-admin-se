@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029018,
-    "geom:area_square_m":199242795.662683,
+    "geom:area_square_m":199242795.662677,
     "geom:bbox":"14.3901512543,56.190483533,14.7467588321,56.3619632393",
     "geom:latitude":56.269449,
     "geom:longitude":14.558917,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":10609,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.269568,
     "lbl:longitude":14.514357,
     "lbl:max_zoom":15.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131776,
-        "qs_pg:id":381312
+        "qs_pg:id":381312,
+        "se-lant:code":"102017"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497045038,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"f49c4248678a9505426af13400252719",
+    "wof:geomhash":"e27eedaa92db87ac8c7b523f379bda10",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125329367,
-    "wof:lastmodified":1582340754,
+    "wof:lastmodified":1695879450,
     "wof:name":"Jamshog",
     "wof:parent_id":1159303187,
     "wof:placetype":"localadmin",

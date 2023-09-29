@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002025,
-    "geom:area_square_m":14076150.280985,
+    "geom:area_square_m":14076150.280984,
     "geom:bbox":"13.2060786795,55.7754265156,13.28785543,55.8251851514",
     "geom:latitude":55.795681,
     "geom:longitude":13.24365,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.800146,
     "lbl:longitude":13.230019,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101201"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734096,
-    "wof:geomhash":"ef86c9740e57e674cc297e975205f66a",
+    "wof:geomhash":"964579edb380c699f24f8f23a32a2d74",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306611,
-    "wof:lastmodified":1566643224,
+    "wof:lastmodified":1695879404,
     "wof:name":"Ortofta",
     "wof:parent_id":1159303151,
     "wof:placetype":"localadmin",

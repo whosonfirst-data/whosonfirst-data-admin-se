@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013081,
-    "geom:area_square_m":89936214.708655,
+    "geom:area_square_m":89936214.708663,
     "geom:bbox":"15.7957707218,56.1410106885,15.9879368514,56.3038302473",
     "geom:latitude":56.218739,
     "geom:longitude":15.871884,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":3542,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.202932,
     "lbl:longitude":15.857342,
     "lbl:max_zoom":15.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132457,
-        "qs_pg:id":904415
+        "qs_pg:id":904415,
+        "se-lant:code":"102027"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497046547,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"6706262b599d9357a68bee7e807ea62e",
+    "wof:geomhash":"fc1358ddd367c78a15cd95c1a484c221",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125357187,
-    "wof:lastmodified":1582340752,
+    "wof:lastmodified":1695879450,
     "wof:name":"Jamjo",
     "wof:parent_id":1159303467,
     "wof:placetype":"localadmin",

@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002407,
-    "geom:area_square_m":15640167.433314,
+    "geom:area_square_m":15640167.433318,
     "geom:bbox":"13.6460042185,58.2562195449,13.8026687029,58.3926360853",
     "geom:latitude":58.304971,
     "geom:longitude":13.703701,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.282043,
     "lbl:longitude":13.684551,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107310"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734326,
-    "wof:geomhash":"40c208fc05585129c669f6ed27b97a53",
+    "wof:geomhash":"67866846fdabd037379cf43faa852c8b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307493,
-    "wof:lastmodified":1566643244,
+    "wof:lastmodified":1695879408,
     "wof:name":"Brunnhem",
     "wof:parent_id":1159303137,
     "wof:placetype":"localadmin",

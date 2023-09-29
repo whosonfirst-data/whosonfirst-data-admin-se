@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004244,
-    "geom:area_square_m":27983190.006739,
+    "geom:area_square_m":27983190.006743,
     "geom:bbox":"14.026977527,57.7455236544,14.1698336973,57.8216349883",
     "geom:latitude":57.776991,
     "geom:longitude":14.120383,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":28266,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.766658,
     "lbl:longitude":14.115534,
     "lbl:max_zoom":14.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131698,
-        "qs_pg:id":757659
+        "qs_pg:id":757659,
+        "se-lant:code":"105247"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497046864,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"408620b83762d4df79c5ce080fa729f9",
+    "wof:geomhash":"a49dec77014ce8323b823dcf4429a06f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125362117,
-    "wof:lastmodified":1582340857,
+    "wof:lastmodified":1695879527,
     "wof:name":"Jonkopings Sofia",
     "wof:parent_id":1159303375,
     "wof:placetype":"localadmin",

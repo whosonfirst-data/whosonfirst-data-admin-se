@@ -10,6 +10,15 @@
     "geom:latitude":56.148911,
     "geom:longitude":12.751779,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.157693,
     "lbl:longitude":12.719795,
     "lbl:max_zoom":18.0,
@@ -63,9 +72,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101317"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734345,
-    "wof:geomhash":"381857b0cd2eaf05ab1ab350e10b598b",
+    "wof:geomhash":"b8359f16eefc50e26920ba97d30f4727",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +89,7 @@
         }
     ],
     "wof:id":1159307563,
-    "wof:lastmodified":1566643276,
+    "wof:lastmodified":1695879413,
     "wof:name":"Kattarp",
     "wof:parent_id":1159302965,
     "wof:placetype":"localadmin",

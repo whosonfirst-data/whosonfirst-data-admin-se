@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007421,
-    "geom:area_square_m":46992889.638821,
+    "geom:area_square_m":46992889.638818,
     "geom:bbox":"17.5864972232,59.1326365616,17.7426966518,59.2567657881",
     "geom:latitude":59.1971,
     "geom:longitude":17.667479,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":21263,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.19339,
     "lbl:longitude":17.67929,
     "lbl:max_zoom":14.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132152,
-        "qs_pg:id":109386
+        "qs_pg:id":109386,
+        "se-lant:code":"212071"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497047518,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"ff75c4dedf51b80fd59c25bf107602d3",
+    "wof:geomhash":"e1bb354edb149c53f50ac067bc40928a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125372715,
-    "wof:lastmodified":1582340831,
+    "wof:lastmodified":1695879509,
     "wof:name":"Ostertalje",
     "wof:parent_id":1159303135,
     "wof:placetype":"localadmin",

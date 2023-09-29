@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002286,
-    "geom:area_square_m":15806491.018569,
+    "geom:area_square_m":15806491.018571,
     "geom:bbox":"14.1819607073,55.9719492039,14.2711257588,56.0334032511",
     "geom:latitude":56.00418,
     "geom:longitude":14.229183,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":2151,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.997876,
     "lbl:longitude":14.222443,
     "lbl:max_zoom":15.0,
@@ -94,14 +103,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132323,
-        "qs_pg:id":758048
+        "qs_pg:id":758048,
+        "se-lant:code":"101280"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497042763,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"11f73722af892d01a428f9276169c4ab",
+    "wof:geomhash":"51d3a9d6235142f8549b19eb37f1c870",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -112,7 +123,7 @@
         }
     ],
     "wof:id":1125287303,
-    "wof:lastmodified":1582340781,
+    "wof:lastmodified":1695879473,
     "wof:name":"Gustav Adolf",
     "wof:parent_id":1159303497,
     "wof:placetype":"localadmin",

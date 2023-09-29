@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001645,
-    "geom:area_square_m":11521013.649203,
+    "geom:area_square_m":11521013.649204,
     "geom:bbox":"14.1109277702,55.4763327674,14.1699873218,55.515873852",
     "geom:latitude":55.496658,
     "geom:longitude":14.141423,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":1612,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.495592,
     "lbl:longitude":14.141979,
     "lbl:max_zoom":16.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131673,
-        "qs_pg:id":757644
+        "qs_pg:id":757644,
+        "se-lant:code":"101100"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497044842,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"5e9ffe14390dad7ebfb89863f9805372",
+    "wof:geomhash":"ce7adb25711774a798a16bcc24a776f7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125326409,
-    "wof:lastmodified":1582340771,
+    "wof:lastmodified":1695879463,
     "wof:name":"Hammenhog",
     "wof:parent_id":1159302931,
     "wof:placetype":"localadmin",

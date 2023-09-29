@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006784,
-    "geom:area_square_m":44659079.578767,
+    "geom:area_square_m":44659079.578775,
     "geom:bbox":"13.566422425,57.8067580472,13.7378890217,57.8671410336",
     "geom:latitude":57.835818,
     "geom:longitude":13.663893,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.838841,
     "lbl:longitude":13.663907,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107128"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734231,
-    "wof:geomhash":"a4b9def369de2d62e8fdce4889fe060c",
+    "wof:geomhash":"ee69f567ed0c2f93a996675303787c95",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307131,
-    "wof:lastmodified":1566643232,
+    "wof:lastmodified":1695879406,
     "wof:name":"Liared",
     "wof:parent_id":1159303161,
     "wof:placetype":"localadmin",

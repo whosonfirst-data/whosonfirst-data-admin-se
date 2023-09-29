@@ -139,8 +139,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_0115",
-        "eurostat:nuts_2021_id":"0115"
+        "eurostat:nuts_2021_id":"0115",
+        "se-lant:code":"0115"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525379507,
     "wof:geomhash":"b30ff81e2ed731de1855d257043104a1",
@@ -153,7 +155,7 @@
         }
     ],
     "wof:id":1159303513,
-    "wof:lastmodified":1684354758,
+    "wof:lastmodified":1695886763,
     "wof:name":"Vallentuna",
     "wof:parent_id":85688429,
     "wof:placetype":"county",

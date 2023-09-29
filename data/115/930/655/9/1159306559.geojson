@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002764,
-    "geom:area_square_m":17319944.784171,
+    "geom:area_square_m":17319944.78417,
     "geom:bbox":"16.2477417932,59.5259435355,16.3361152027,59.5803547779",
     "geom:latitude":59.55537,
     "geom:longitude":16.294524,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.555641,
     "lbl:longitude":16.297518,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"214022"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734078,
-    "wof:geomhash":"af0fbcd1ee1af25e6c6c987839dd1617",
+    "wof:geomhash":"8bd3245bfc6f9ade81ab5551be25a612",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306559,
-    "wof:lastmodified":1566643320,
+    "wof:lastmodified":1695879422,
     "wof:name":"Saby",
     "wof:parent_id":1159303145,
     "wof:placetype":"localadmin",

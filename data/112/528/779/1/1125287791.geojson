@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021352,
-    "geom:area_square_m":144896061.161081,
+    "geom:area_square_m":144896061.161083,
     "geom:bbox":"13.3077940708,56.6157696046,13.5234861917,56.7907118686",
     "geom:latitude":56.715155,
     "geom:longitude":13.412405,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":247,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.714118,
     "lbl:longitude":13.410825,
     "lbl:max_zoom":17.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132786,
-        "qs_pg:id":758349
+        "qs_pg:id":758349,
+        "se-lant:code":"105035"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497042786,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"e4c554d54bad4e7c9f5aa4565fa68854",
+    "wof:geomhash":"83f3fd6d5b8005875223f6bba2a34000",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125287791,
-    "wof:lastmodified":1582340789,
+    "wof:lastmodified":1695879479,
     "wof:name":"Vra",
     "wof:parent_id":1159303441,
     "wof:placetype":"localadmin",

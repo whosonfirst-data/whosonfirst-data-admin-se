@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009047,
-    "geom:area_square_m":61887307.57182,
+    "geom:area_square_m":61887307.571819,
     "geom:bbox":"12.6198377183,56.3624213932,12.8334214787,56.4573762911",
     "geom:latitude":56.410895,
     "geom:longitude":12.721797,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":1672,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.400399,
     "lbl:longitude":12.684615,
     "lbl:max_zoom":16.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132204,
-        "qs_pg:id":109400
+        "qs_pg:id":109400,
+        "se-lant:code":"101373"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497047520,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"ff4dcd578821706a6489d77abca780a1",
+    "wof:geomhash":"c0e34da37e115e66774f733832281450",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125372745,
-    "wof:lastmodified":1582340823,
+    "wof:lastmodified":1695879502,
     "wof:name":"Vastra Karup",
     "wof:parent_id":1159302919,
     "wof:placetype":"localadmin",

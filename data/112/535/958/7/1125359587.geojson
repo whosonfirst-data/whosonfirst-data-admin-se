@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033497,
-    "geom:area_square_m":229209376.143801,
+    "geom:area_square_m":229209376.143822,
     "geom:bbox":"15.7469174356,56.2991076145,16.049490122,56.5195393977",
     "geom:latitude":56.401123,
     "geom:longitude":15.915511,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":3277,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.387779,
     "lbl:longitude":15.92802,
     "lbl:max_zoom":15.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132671,
-        "qs_pg:id":904424
+        "qs_pg:id":904424,
+        "se-lant:code":"105004"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497046693,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"513ca3f8f872fc2f581f47b45538f132",
+    "wof:geomhash":"20685951a3543953fb15593c71a0ade0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125359587,
-    "wof:lastmodified":1582340745,
+    "wof:lastmodified":1695879444,
     "wof:name":"Torsas",
     "wof:parent_id":1159303291,
     "wof:placetype":"localadmin",

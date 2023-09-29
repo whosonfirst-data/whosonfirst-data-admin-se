@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005619,
-    "geom:area_square_m":38505571.692215,
+    "geom:area_square_m":38505571.692211,
     "geom:bbox":"12.7078432061,56.3193599821,12.8937104588,56.3752682384",
     "geom:latitude":56.346211,
     "geom:longitude":12.800209,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":4753,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.345089,
     "lbl:longitude":12.801582,
     "lbl:max_zoom":15.0,
@@ -61,14 +70,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132376,
-        "qs_pg:id":758097
+        "qs_pg:id":758097,
+        "se-lant:code":"101364"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497046618,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"cde059431864cee0485f8965938cb006",
+    "wof:geomhash":"6c5912b233ef4d0fd188b1185eea5f82",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +90,7 @@
         }
     ],
     "wof:id":1125358273,
-    "wof:lastmodified":1582340737,
+    "wof:lastmodified":1695879438,
     "wof:name":"Forslov",
     "wof:parent_id":1159302919,
     "wof:placetype":"localadmin",

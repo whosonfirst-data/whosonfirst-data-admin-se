@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040881,
-    "geom:area_square_m":230235415.936186,
+    "geom:area_square_m":230235415.936183,
     "geom:bbox":"17.3264232651,62.8224402745,17.9071768935,62.9863586802",
     "geom:latitude":62.905552,
     "geom:longitude":17.670333,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":8353,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":62.922687,
     "lbl:longitude":17.738558,
     "lbl:max_zoom":15.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8133034,
-        "qs_pg:id":109548
+        "qs_pg:id":109548,
+        "se-lant:code":"321008"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497052671,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"e51da7b3bf3c657fdbac57ec35f4bc3b",
+    "wof:geomhash":"4cb13ac35f7760d7f62ba7f88ac2f8c0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125423309,
-    "wof:lastmodified":1582340810,
+    "wof:lastmodified":1695879493,
     "wof:name":"Gudmundra",
     "wof:parent_id":1159303301,
     "wof:placetype":"localadmin",

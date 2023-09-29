@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011248,
-    "geom:area_square_m":69886946.728459,
+    "geom:area_square_m":69886946.728467,
     "geom:bbox":"17.154974256,59.7838706282,17.3590707014,59.8872012296",
     "geom:latitude":59.836384,
     "geom:longitude":17.265094,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.823702,
     "lbl:longitude":17.283597,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"215127"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733841,
-    "wof:geomhash":"c4a3feb15e01fe77d145ac36f0ce22e4",
+    "wof:geomhash":"2ab058e1ce5d27f5ff1f31d2fdd4d495",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159305673,
-    "wof:lastmodified":1566643145,
+    "wof:lastmodified":1695879389,
     "wof:name":"Skogs-Tibble",
     "wof:parent_id":1159303253,
     "wof:placetype":"localadmin",

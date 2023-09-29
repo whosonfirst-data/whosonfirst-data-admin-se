@@ -73,8 +73,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_1439",
-        "eurostat:nuts_2021_id":"1439"
+        "eurostat:nuts_2021_id":"1439",
+        "se-lant:code":"1439"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525379423,
     "wof:geomhash":"675cbef7a0e5c65849b1fc66909c62ce",
@@ -87,7 +89,7 @@
         }
     ],
     "wof:id":1159303061,
-    "wof:lastmodified":1684354748,
+    "wof:lastmodified":1695886750,
     "wof:name":"Fargelanda",
     "wof:parent_id":85688411,
     "wof:placetype":"county",

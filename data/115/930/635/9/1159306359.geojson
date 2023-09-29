@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010383,
-    "geom:area_square_m":69477405.690163,
+    "geom:area_square_m":69477405.690168,
     "geom:bbox":"12.9061162709,57.1732104219,13.0458143771,57.3163042849",
     "geom:latitude":57.239049,
     "geom:longitude":12.974043,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.248523,
     "lbl:longitude":12.985663,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107004"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734013,
-    "wof:geomhash":"d3c0203b17e6b6b21d661b04b8f9ce4e",
+    "wof:geomhash":"0b04d81fb862ce103049c1a8ca00a8db",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306359,
-    "wof:lastmodified":1566643218,
+    "wof:lastmodified":1695879403,
     "wof:name":"Mardaklev",
     "wof:parent_id":1159303079,
     "wof:placetype":"localadmin",

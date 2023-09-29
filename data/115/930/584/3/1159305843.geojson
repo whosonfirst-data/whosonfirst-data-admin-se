@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006276,
-    "geom:area_square_m":42355442.847743,
+    "geom:area_square_m":42355442.847744,
     "geom:bbox":"16.7898920391,56.8879130023,16.9121401799,56.9619860309",
     "geom:latitude":56.920584,
     "geom:longitude":16.859366,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.922405,
     "lbl:longitude":16.871546,
     "lbl:max_zoom":18.0,
@@ -144,9 +153,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"103028"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733883,
-    "wof:geomhash":"511bc5b5440416a9ed92e84881400d96",
+    "wof:geomhash":"f69a1772863b511bbd6e4ce52994abaa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -157,7 +170,7 @@
         }
     ],
     "wof:id":1159305843,
-    "wof:lastmodified":1566643372,
+    "wof:lastmodified":1695879431,
     "wof:name":"Lot",
     "wof:parent_id":1159303363,
     "wof:placetype":"localadmin",

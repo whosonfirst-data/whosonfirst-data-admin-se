@@ -10,6 +10,15 @@
     "geom:latitude":57.925548,
     "geom:longitude":13.278745,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.927532,
     "lbl:longitude":13.282612,
     "lbl:max_zoom":18.0,
@@ -42,9 +51,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107151"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733943,
-    "wof:geomhash":"5c3fb2a33cd2787954a288c395575a3b",
+    "wof:geomhash":"50e869de6d8bbf455a4f22f36a167eac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,7 +68,7 @@
         }
     ],
     "wof:id":1159306085,
-    "wof:lastmodified":1566643329,
+    "wof:lastmodified":1695879424,
     "wof:name":"Murum",
     "wof:parent_id":1159303161,
     "wof:placetype":"localadmin",

@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006866,
-    "geom:area_square_m":45587372.37724,
+    "geom:area_square_m":45587372.377261,
     "geom:bbox":"18.0930783249,57.4618994387,18.2088340106,57.5763036421",
     "geom:latitude":57.524399,
     "geom:longitude":18.144824,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.528425,
     "lbl:longitude":18.142024,
     "lbl:max_zoom":18.0,
@@ -48,9 +57,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"106055"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733873,
-    "wof:geomhash":"cc72f8067d2f4e564b5879dfd027b9d7",
+    "wof:geomhash":"5f4bb79fca5ee99f4dd1f2b43c10de1b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +74,7 @@
         }
     ],
     "wof:id":1159305801,
-    "wof:lastmodified":1566643261,
+    "wof:lastmodified":1695879410,
     "wof:name":"Tofta",
     "wof:parent_id":1159303535,
     "wof:placetype":"localadmin",

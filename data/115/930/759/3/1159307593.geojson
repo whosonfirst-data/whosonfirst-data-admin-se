@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002869,
-    "geom:area_square_m":20002223.469503,
+    "geom:area_square_m":20002223.469504,
     "geom:bbox":"13.4312751212,55.6507450036,13.5321320547,55.7149969836",
     "geom:latitude":55.684487,
     "geom:longitude":13.488248,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.683224,
     "lbl:longitude":13.487486,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101172"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734352,
-    "wof:geomhash":"9c75ce8758d80e29cdc74101fcc58d67",
+    "wof:geomhash":"8024e57ed9b40ad9d448fc0b83cb373b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307593,
-    "wof:lastmodified":1566643297,
+    "wof:lastmodified":1695879417,
     "wof:name":"Silvakra",
     "wof:parent_id":1159303449,
     "wof:placetype":"localadmin",

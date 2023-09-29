@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.058174,
-    "geom:area_square_m":356806288.662354,
+    "geom:area_square_m":356806288.662372,
     "geom:bbox":"15.6572603228,60.1663003602,16.1510463088,60.3727237554",
     "geom:latitude":60.262493,
     "geom:longitude":15.92099,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":10839,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":60.271537,
     "lbl:longitude":15.921018,
     "lbl:max_zoom":15.0,
@@ -136,14 +145,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132747,
-        "qs_pg:id":381416
+        "qs_pg:id":381416,
+        "se-lant:code":"217011"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497048116,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"03f273b59d40b0a50bdd1a25fa346f25",
+    "wof:geomhash":"74416a99a337ccbe2e5411d20f601f45",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -154,7 +165,7 @@
         }
     ],
     "wof:id":1125382237,
-    "wof:lastmodified":1582340851,
+    "wof:lastmodified":1695879523,
     "wof:name":"Hedemora",
     "wof:parent_id":1159303183,
     "wof:placetype":"localadmin",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003805,
-    "geom:area_square_m":24085405.823259,
+    "geom:area_square_m":24085405.82326,
     "geom:bbox":"15.0018822223,59.1664688889,15.0967437446,59.2524362481",
     "geom:latitude":59.20697,
     "geom:longitude":15.055901,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":334,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.207262,
     "lbl:longitude":15.055182,
     "lbl:max_zoom":17.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132348,
-        "qs_pg:id":758072
+        "qs_pg:id":758072,
+        "se-lant:code":"211026"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497047419,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"874e629ef5bfd650614a64c1e7425bc7",
+    "wof:geomhash":"6c42914bedd90cde8cdff6ad4e535832",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125371379,
-    "wof:lastmodified":1582340830,
+    "wof:lastmodified":1695879508,
     "wof:name":"Taby",
     "wof:parent_id":1159303031,
     "wof:placetype":"localadmin",

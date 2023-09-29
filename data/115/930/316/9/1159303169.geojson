@@ -73,8 +73,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_1785",
-        "eurostat:nuts_2021_id":"1785"
+        "eurostat:nuts_2021_id":"1785",
+        "se-lant:code":"1785"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525379449,
     "wof:geomhash":"6698e8fca002b26743f31bb36e975372",
@@ -87,7 +89,7 @@
         }
     ],
     "wof:id":1159303169,
-    "wof:lastmodified":1684354751,
+    "wof:lastmodified":1695886752,
     "wof:name":"Saffle",
     "wof:parent_id":85688435,
     "wof:placetype":"county",

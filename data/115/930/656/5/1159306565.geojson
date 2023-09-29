@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.133325,
-    "geom:area_square_m":768807818.747576,
+    "geom:area_square_m":768807818.74755,
     "geom:bbox":"15.3261178301,62.024567955,16.1741231622,62.343489462",
     "geom:latitude":62.202964,
     "geom:longitude":15.647138,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":62.203543,
     "lbl:longitude":15.619969,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"318043"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734080,
-    "wof:geomhash":"488c921724c8bd7f1a4c5ab0ea0da761",
+    "wof:geomhash":"b511008fda281e27273634fc32bc8fd0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306565,
-    "wof:lastmodified":1566643208,
+    "wof:lastmodified":1695879401,
     "wof:name":"Ramsjo",
     "wof:parent_id":1159303353,
     "wof:placetype":"localadmin",

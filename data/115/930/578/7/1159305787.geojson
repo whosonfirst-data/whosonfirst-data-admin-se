@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003731,
-    "geom:area_square_m":25913700.03159,
+    "geom:area_square_m":25913700.031592,
     "geom:bbox":"13.5526752643,55.7993897765,13.6575934119,55.8474501552",
     "geom:latitude":55.822473,
     "geom:longitude":13.608687,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.822663,
     "lbl:longitude":13.6087,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101211"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733869,
-    "wof:geomhash":"4e03429837c69405e8d6d85087861817",
+    "wof:geomhash":"2e698f0ebbfef52a2137749595587e5b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159305787,
-    "wof:lastmodified":1566643358,
+    "wof:lastmodified":1695879429,
     "wof:name":"Lyby",
     "wof:parent_id":1159303277,
     "wof:placetype":"localadmin",

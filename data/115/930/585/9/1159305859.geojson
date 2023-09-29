@@ -10,6 +10,15 @@
     "geom:latitude":55.716133,
     "geom:longitude":13.456728,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.715733,
     "lbl:longitude":13.455733,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101174"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733886,
-    "wof:geomhash":"ec5707b958d8d38b9fdd0a941c523c1f",
+    "wof:geomhash":"8e98203816ef26fb0f0f1db0c3172354",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159305859,
-    "wof:lastmodified":1566643357,
+    "wof:lastmodified":1695879429,
     "wof:name":"Revinge",
     "wof:parent_id":1159303449,
     "wof:placetype":"localadmin",

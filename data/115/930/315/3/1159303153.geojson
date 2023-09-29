@@ -145,8 +145,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_1497",
-        "eurostat:nuts_2021_id":"1497"
+        "eurostat:nuts_2021_id":"1497",
+        "se-lant:code":"1497"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525379447,
     "wof:geomhash":"f8c000681373305e53f79348aee26727",
@@ -159,7 +161,7 @@
         }
     ],
     "wof:id":1159303153,
-    "wof:lastmodified":1684354750,
+    "wof:lastmodified":1695886752,
     "wof:name":"Hjo",
     "wof:parent_id":85688411,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00246,
-    "geom:area_square_m":15912698.222612,
+    "geom:area_square_m":15912698.222609,
     "geom:bbox":"11.2377876109,58.4191408524,11.3370646033,58.4750790418",
     "geom:latitude":58.451095,
     "geom:longitude":11.293536,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":2052,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.452681,
     "lbl:longitude":11.302551,
     "lbl:max_zoom":15.0,
@@ -76,14 +85,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132168,
-        "qs_pg:id":109394
+        "qs_pg:id":109394,
+        "se-lant:code":"109062"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497047518,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"c79e9387d3f52fa5de8f5f71e3cd2e3f",
+    "wof:geomhash":"00c74073d78c0eb1275f09daff3bf365",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,7 +105,7 @@
         }
     ],
     "wof:id":1125372727,
-    "wof:lastmodified":1582340823,
+    "wof:lastmodified":1695879502,
     "wof:name":"Hunnebostrand",
     "wof:parent_id":1159303393,
     "wof:placetype":"localadmin",

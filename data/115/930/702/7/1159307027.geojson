@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00394,
-    "geom:area_square_m":27616712.226149,
+    "geom:area_square_m":27616712.226152,
     "geom:bbox":"13.3769122337,55.4299947142,13.474407673,55.5107511437",
     "geom:latitude":55.464814,
     "geom:longitude":13.424051,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.468523,
     "lbl:longitude":13.427383,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101039"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734205,
-    "wof:geomhash":"59e689d0c641417ee37e904c549bc218",
+    "wof:geomhash":"f628482484c6a6375555dcb362f17599",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307027,
-    "wof:lastmodified":1566643266,
+    "wof:lastmodified":1695879411,
     "wof:name":"Gardslov",
     "wof:parent_id":1159303309,
     "wof:placetype":"localadmin",

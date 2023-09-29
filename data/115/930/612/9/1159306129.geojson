@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006468,
-    "geom:area_square_m":43214060.599817,
+    "geom:area_square_m":43214060.599815,
     "geom:bbox":"12.6174992857,57.2515442817,12.7636070298,57.3414152366",
     "geom:latitude":57.296509,
     "geom:longitude":12.683499,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.300686,
     "lbl:longitude":12.676307,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107008"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733954,
-    "wof:geomhash":"a865ba9fecf09e6cce42331184d291ec",
+    "wof:geomhash":"3679037baf6fe3a1ea30c00661caf985",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306129,
-    "wof:lastmodified":1566643309,
+    "wof:lastmodified":1695879419,
     "wof:name":"Gunnarsjo",
     "wof:parent_id":1159302939,
     "wof:placetype":"localadmin",

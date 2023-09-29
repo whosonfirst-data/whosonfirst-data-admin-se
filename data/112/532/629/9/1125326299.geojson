@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003475,
-    "geom:area_square_m":22444929.039906,
+    "geom:area_square_m":22444929.039903,
     "geom:bbox":"11.4373797377,58.4713222769,11.5170907042,58.5391779046",
     "geom:latitude":58.506739,
     "geom:longitude":11.477104,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":222,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.507977,
     "lbl:longitude":11.477865,
     "lbl:max_zoom":17.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8133365,
-        "qs_pg:id":758648
+        "qs_pg:id":758648,
+        "se-lant:code":"109068"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497044835,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"96af78234c027414887af2c9e4f10e97",
+    "wof:geomhash":"4b84f224b4c807e9e654d6e09ae3cf68",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125326299,
-    "wof:lastmodified":1582340760,
+    "wof:lastmodified":1695879455,
     "wof:name":"Barfendal",
     "wof:parent_id":1159302991,
     "wof:placetype":"localadmin",

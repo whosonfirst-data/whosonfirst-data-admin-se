@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.085054,
-    "geom:area_square_m":468577675.573393,
+    "geom:area_square_m":468577675.57338,
     "geom:bbox":"18.6413405316,63.4115918522,19.1916219635,63.6740827754",
     "geom:latitude":63.542201,
     "geom:longitude":18.934298,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":1182,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":63.532072,
     "lbl:longitude":18.966982,
     "lbl:max_zoom":16.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8133051,
-        "qs_pg:id":109561
+        "qs_pg:id":109561,
+        "se-lant:code":"321040"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497052675,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"7c724c3da366a8ec917e6a4aae6f55fe",
+    "wof:geomhash":"188321c26334b8a5f62c72af2649a8cf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125423335,
-    "wof:lastmodified":1582340816,
+    "wof:lastmodified":1695879498,
     "wof:name":"Gidea",
     "wof:parent_id":1159303463,
     "wof:placetype":"localadmin",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006668,
-    "geom:area_square_m":46762734.024761,
+    "geom:area_square_m":46762734.024763,
     "geom:bbox":"13.1117747781,55.4116734116,13.2757802621,55.4842575389",
     "geom:latitude":55.448524,
     "geom:longitude":13.198314,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":1481,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.445536,
     "lbl:longitude":13.199571,
     "lbl:max_zoom":16.0,
@@ -85,14 +94,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131632,
-        "qs_pg:id":757630
+        "qs_pg:id":757630,
+        "se-lant:code":"101029"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497051620,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"98d67fa2caecba9c29723784f3ed3b63",
+    "wof:geomhash":"eef1a69c053fc58f66dd40be92ce0b43",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -103,7 +114,7 @@
         }
     ],
     "wof:id":1125417587,
-    "wof:lastmodified":1582340871,
+    "wof:lastmodified":1695879543,
     "wof:name":"Alstad",
     "wof:parent_id":1159303309,
     "wof:placetype":"localadmin",

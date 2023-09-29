@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001915,
-    "geom:area_square_m":13402227.720023,
+    "geom:area_square_m":13402227.720024,
     "geom:bbox":"14.065044827,55.4972507331,14.1280473733,55.5533718107",
     "geom:latitude":55.524387,
     "geom:longitude":14.093204,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.517428,
     "lbl:longitude":14.093212,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101099"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734305,
-    "wof:geomhash":"40d4ea4a1031e64752bcb3945b8d5459",
+    "wof:geomhash":"af0458d8834a6cd70eabc083a1b5a9ad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307419,
-    "wof:lastmodified":1566643264,
+    "wof:lastmodified":1695879411,
     "wof:name":"Ostra Ingelstad",
     "wof:parent_id":1159302959,
     "wof:placetype":"localadmin",

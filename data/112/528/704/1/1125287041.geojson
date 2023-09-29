@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":697,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.238495,
     "lbl:longitude":18.649072,
     "lbl:max_zoom":17.0,
@@ -61,14 +70,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132022,
-        "qs_pg:id":757880
+        "qs_pg:id":757880,
+        "se-lant:code":"106025"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497042749,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"dd7e633425bd0a9736aa06b442d8472f",
+    "wof:geomhash":"b9a736632467c2d409fabe5247ecf00c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +90,7 @@
         }
     ],
     "wof:id":1125287041,
-    "wof:lastmodified":1582340791,
+    "wof:lastmodified":1695879480,
     "wof:name":"Nar",
     "wof:parent_id":1159303535,
     "wof:placetype":"localadmin",

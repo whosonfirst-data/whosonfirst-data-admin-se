@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009913,
-    "geom:area_square_m":67308420.092412,
+    "geom:area_square_m":67308420.092413,
     "geom:bbox":"14.6327380002,56.630226492,14.7825888081,56.7497369451",
     "geom:latitude":56.69382,
     "geom:longitude":14.711904,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":583,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.694621,
     "lbl:longitude":14.710729,
     "lbl:max_zoom":17.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132183,
-        "qs_pg:id":757978
+        "qs_pg:id":757978,
+        "se-lant:code":"105042"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497046873,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"eee7247f381e7a7a7d8bc6d549ecfaef",
+    "wof:geomhash":"f46f5a7609ae44d1e9c1af799ecb0e66",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125362299,
-    "wof:lastmodified":1582340857,
+    "wof:lastmodified":1695879527,
     "wof:name":"Kalvsvik",
     "wof:parent_id":1159302917,
     "wof:placetype":"localadmin",

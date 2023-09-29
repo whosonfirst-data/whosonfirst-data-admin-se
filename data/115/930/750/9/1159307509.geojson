@@ -10,6 +10,15 @@
     "geom:latitude":58.552515,
     "geom:longitude":16.351884,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.550868,
     "lbl:longitude":16.354652,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"108142"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734330,
-    "wof:geomhash":"55809d249080a9c9beda6b78cfc330dd",
+    "wof:geomhash":"061e399a7985d44dc4bfca8908d66557",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307509,
-    "wof:lastmodified":1566643289,
+    "wof:lastmodified":1695879415,
     "wof:name":"Furingstad",
     "wof:parent_id":1159303229,
     "wof:placetype":"localadmin",

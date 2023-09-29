@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023156,
-    "geom:area_square_m":143482630.575401,
+    "geom:area_square_m":143482630.575398,
     "geom:bbox":"15.8640053287,59.8500540879,16.1144911507,60.0057494217",
     "geom:latitude":59.926415,
     "geom:longitude":15.981583,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.92295,
     "lbl:longitude":15.991661,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"214060"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734100,
-    "wof:geomhash":"0fec3d22e5313341768af9d55435e912",
+    "wof:geomhash":"c7aa677b7c3d7c1b8cd3b0e97e9e9b50",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306635,
-    "wof:lastmodified":1566643327,
+    "wof:lastmodified":1695879424,
     "wof:name":"Vastervala",
     "wof:parent_id":1159302971,
     "wof:placetype":"localadmin",

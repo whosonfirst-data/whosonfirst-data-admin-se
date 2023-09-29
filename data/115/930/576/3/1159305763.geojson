@@ -10,6 +10,15 @@
     "geom:latitude":55.467241,
     "geom:longitude":13.132925,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.465024,
     "lbl:longitude":13.132403,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101028"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733862,
-    "wof:geomhash":"df8a7c0a08a307501b3d203e1cee0de8",
+    "wof:geomhash":"17df994c6a46e8dd0bdc53a01c68bae1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159305763,
-    "wof:lastmodified":1566643354,
+    "wof:lastmodified":1695879429,
     "wof:name":"Ostra Grevie",
     "wof:parent_id":1159303307,
     "wof:placetype":"localadmin",

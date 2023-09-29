@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002057,
-    "geom:area_square_m":13470769.202004,
+    "geom:area_square_m":13470769.202002,
     "geom:bbox":"12.9862268425,57.998409758,13.1114504794,58.0332275323",
     "geom:latitude":58.018845,
     "geom:longitude":13.058867,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":101,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.018828,
     "lbl:longitude":13.057956,
     "lbl:max_zoom":18.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132280,
-        "qs_pg:id":758017
+        "qs_pg:id":758017,
+        "se-lant:code":"107177"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497042759,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"c6bc3d76f4703d47f0034f450d9483a0",
+    "wof:geomhash":"f8042a8c3446df73a40086495c4a6b6d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125287231,
-    "wof:lastmodified":1582340789,
+    "wof:lastmodified":1695879479,
     "wof:name":"Sodra Bjorke",
     "wof:parent_id":1159303171,
     "wof:placetype":"localadmin",

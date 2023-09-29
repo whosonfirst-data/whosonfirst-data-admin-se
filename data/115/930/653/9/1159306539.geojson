@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005142,
-    "geom:area_square_m":33014836.605391,
+    "geom:area_square_m":33014836.6054,
     "geom:bbox":"16.8751807679,58.6710651491,16.9710207378,58.7698942819",
     "geom:latitude":58.71944,
     "geom:longitude":16.919433,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.734239,
     "lbl:longitude":16.908202,
     "lbl:max_zoom":18.0,
@@ -57,9 +66,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"212006"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734072,
-    "wof:geomhash":"ffdaa370a335cc84824c8b08c6aaed8f",
+    "wof:geomhash":"7805570cf7cd0ba5484cd6cf28acf8ac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +83,7 @@
         }
     ],
     "wof:id":1159306539,
-    "wof:lastmodified":1566643339,
+    "wof:lastmodified":1695879426,
     "wof:name":"Bergshammar",
     "wof:parent_id":1159303471,
     "wof:placetype":"localadmin",

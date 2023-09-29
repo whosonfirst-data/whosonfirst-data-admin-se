@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003916,
-    "geom:area_square_m":26194947.461623,
+    "geom:area_square_m":26194947.461619,
     "geom:bbox":"18.1345699185,57.2171119644,18.2485684552,57.273875865",
     "geom:latitude":57.248893,
     "geom:longitude":18.185633,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":143,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.248704,
     "lbl:longitude":18.175321,
     "lbl:max_zoom":18.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132537,
-        "qs_pg:id":758205
+        "qs_pg:id":758205,
+        "se-lant:code":"106011"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497044783,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"e553d8212820358193f9ad10729a0a02",
+    "wof:geomhash":"d6903d9ed7af2db54f9c4dd7dd2844ad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125325473,
-    "wof:lastmodified":1582340774,
+    "wof:lastmodified":1695879465,
     "wof:name":"Sproge",
     "wof:parent_id":1159303535,
     "wof:placetype":"localadmin",

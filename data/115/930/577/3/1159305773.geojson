@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001368,
-    "geom:area_square_m":9584961.497933,
+    "geom:area_square_m":9584961.49793,
     "geom:bbox":"13.5935395832,55.4459143351,13.6641834412,55.5025477939",
     "geom:latitude":55.470568,
     "geom:longitude":13.628354,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.455661,
     "lbl:longitude":13.616568,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101046"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733866,
-    "wof:geomhash":"36cacbb5410f5fea47db3b8012b5b4a8",
+    "wof:geomhash":"909adfb012c66fff42fe652b41b12081",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159305773,
-    "wof:lastmodified":1566643377,
+    "wof:lastmodified":1695879432,
     "wof:name":"Katslosa",
     "wof:parent_id":1159303379,
     "wof:placetype":"localadmin",

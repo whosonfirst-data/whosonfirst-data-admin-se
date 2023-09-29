@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002838,
-    "geom:area_square_m":19164947.167458,
+    "geom:area_square_m":19164947.167459,
     "geom:bbox":"12.442753,56.869407,12.547192,56.917736",
     "geom:latitude":56.892435,
     "geom:longitude":12.493153,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":15023,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.893924,
     "lbl:longitude":12.498288,
     "lbl:max_zoom":15.0,
@@ -160,14 +169,16 @@
     "wof:belongsto":[
         102191581,
         85633789,
-        1159303247,
-        85688391
+        85688391,
+        1159303247
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131642,
-        "qs_pg:id":109304
+        "qs_pg:id":109304,
+        "se-lant:code":"104029"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:coterminous":[
         101840159
     ],
@@ -176,7 +187,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"b6148ccc61c5627a4f22437d16f0425a",
+    "wof:geomhash":"965d6d2d4a6191d0387d3f31e61a1a08",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -187,7 +198,7 @@
         }
     ],
     "wof:id":1125372503,
-    "wof:lastmodified":1608048217,
+    "wof:lastmodified":1695879554,
     "wof:name":"Falkenberg",
     "wof:parent_id":1159303247,
     "wof:placetype":"localadmin",

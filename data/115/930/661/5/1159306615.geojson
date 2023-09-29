@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016653,
-    "geom:area_square_m":104832342.432265,
+    "geom:area_square_m":104832342.432255,
     "geom:bbox":"17.1803658912,59.351345035,17.4256109028,59.4626015598",
     "geom:latitude":59.39667,
     "geom:longitude":17.298269,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.401969,
     "lbl:longitude":17.286019,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"212116"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734096,
-    "wof:geomhash":"04f395455cdf039e89c8ed968d3c232b",
+    "wof:geomhash":"b60ff41537403a98b1da7490d6d14709",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306615,
-    "wof:lastmodified":1566643224,
+    "wof:lastmodified":1695879404,
     "wof:name":"Ytterselo",
     "wof:parent_id":1159303351,
     "wof:placetype":"localadmin",

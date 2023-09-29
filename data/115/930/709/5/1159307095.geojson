@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016869,
-    "geom:area_square_m":106106411.248288,
+    "geom:area_square_m":106106411.248293,
     "geom:bbox":"13.6062833551,59.3292900862,13.808372176,59.5227619083",
     "geom:latitude":59.424298,
     "geom:longitude":13.716372,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.423351,
     "lbl:longitude":13.712652,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"213034"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734224,
-    "wof:geomhash":"d3922a6d221b2b2b53fd66ffdfbc8094",
+    "wof:geomhash":"fea7a4381aaa742654c33bd03f6d2a54",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307095,
-    "wof:lastmodified":1566643167,
+    "wof:lastmodified":1695879393,
     "wof:name":"Ostra Fagelvik",
     "wof:parent_id":1159303443,
     "wof:placetype":"localadmin",

@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005453,
-    "geom:area_square_m":36193282.808342,
+    "geom:area_square_m":36193282.808344,
     "geom:bbox":"12.8733681848,57.4864884036,13.0265198265,57.5772326307",
     "geom:latitude":57.533607,
     "geom:longitude":12.959641,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.542264,
     "lbl:longitude":12.967147,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107032"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734117,
-    "wof:geomhash":"c44c84801dc5c3dea76e8e40ee13e87a",
+    "wof:geomhash":"d25230d0565f55d6d733bf1d24c65f77",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306717,
-    "wof:lastmodified":1566643304,
+    "wof:lastmodified":1695879418,
     "wof:name":"Roasjo",
     "wof:parent_id":1159303079,
     "wof:placetype":"localadmin",

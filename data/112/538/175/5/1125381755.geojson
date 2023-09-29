@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02443,
-    "geom:area_square_m":133883110.540691,
+    "geom:area_square_m":133883110.540704,
     "geom:bbox":"20.231831856,63.6276695225,20.4948219565,63.7656177862",
     "geom:latitude":63.692437,
     "geom:longitude":20.353346,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":8569,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":63.690048,
     "lbl:longitude":20.350805,
     "lbl:max_zoom":15.0,
@@ -100,14 +109,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131638,
-        "qs_pg:id":381279
+        "qs_pg:id":381279,
+        "se-lant:code":"323003"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497048088,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"30467564640a1ef7ab1e8803efc8772f",
+    "wof:geomhash":"1569d30c09db2f5aab76b99b1f7be4b2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -118,7 +129,7 @@
         }
     ],
     "wof:id":1125381755,
-    "wof:lastmodified":1582340850,
+    "wof:lastmodified":1695879521,
     "wof:name":"Holmsund",
     "wof:parent_id":1159303017,
     "wof:placetype":"localadmin",

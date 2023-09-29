@@ -127,8 +127,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_1446",
-        "eurostat:nuts_2021_id":"1446"
+        "eurostat:nuts_2021_id":"1446",
+        "se-lant:code":"1446"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525379395,
     "wof:geomhash":"fd02d13108f6115594c24f799e015ba3",
@@ -141,7 +143,7 @@
         }
     ],
     "wof:id":1159302935,
-    "wof:lastmodified":1684354745,
+    "wof:lastmodified":1695886746,
     "wof:name":"Karlsborg",
     "wof:parent_id":85688411,
     "wof:placetype":"county",

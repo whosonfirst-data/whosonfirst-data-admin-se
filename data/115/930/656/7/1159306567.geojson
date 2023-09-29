@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013055,
-    "geom:area_square_m":84598171.666595,
+    "geom:area_square_m":84598171.666599,
     "geom:bbox":"16.5316347387,58.3395085932,16.7343527802,58.4471669417",
     "geom:latitude":58.396036,
     "geom:longitude":16.626945,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.391248,
     "lbl:longitude":16.628906,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"108098"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734081,
-    "wof:geomhash":"e401792733774df1f0309e1a269c904f",
+    "wof:geomhash":"a000e2268055a912a82ecc44a90fdc7e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306567,
-    "wof:lastmodified":1566643207,
+    "wof:lastmodified":1695879401,
     "wof:name":"Skallvik",
     "wof:parent_id":1159303305,
     "wof:placetype":"localadmin",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.301921,
-    "geom:area_square_m":1832181629.588448,
+    "geom:area_square_m":1832181629.588446,
     "geom:bbox":"13.1594888339,60.1752048067,14.0204617722,60.8673467567",
     "geom:latitude":60.608989,
     "geom:longitude":13.680379,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":7025,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":60.632345,
     "lbl:longitude":13.673858,
     "lbl:max_zoom":15.0,
@@ -112,14 +121,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132713,
-        "qs_pg:id":381403
+        "qs_pg:id":381403,
+        "se-lant:code":"217018"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497048113,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"5d6ece116d46336e62fa5f866d8f2a60",
+    "wof:geomhash":"d07a4ad2c5839493f10834ca388fa6e0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -130,7 +141,7 @@
         }
     ],
     "wof:id":1125382181,
-    "wof:lastmodified":1582340845,
+    "wof:lastmodified":1695879518,
     "wof:name":"Malung",
     "wof:parent_id":1159303431,
     "wof:placetype":"localadmin",

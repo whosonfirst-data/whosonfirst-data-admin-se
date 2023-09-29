@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008416,
-    "geom:area_square_m":52415971.529756,
+    "geom:area_square_m":52415971.529753,
     "geom:bbox":"18.0851492375,59.711096728,18.2551700886,59.8225104283",
     "geom:latitude":59.757476,
     "geom:longitude":18.15766,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":709,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.753452,
     "lbl:longitude":18.156371,
     "lbl:max_zoom":17.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8133102,
-        "qs_pg:id":109568
+        "qs_pg:id":109568,
+        "se-lant:code":"215117"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497052676,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"3fbec04c2c0f1b1e470c3c9c83c591b9",
+    "wof:geomhash":"273e7c3ac12a75f2c9e5285f2eb92999",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125423343,
-    "wof:lastmodified":1582340815,
+    "wof:lastmodified":1695879497,
     "wof:name":"Gottrora",
     "wof:parent_id":1159302995,
     "wof:placetype":"localadmin",

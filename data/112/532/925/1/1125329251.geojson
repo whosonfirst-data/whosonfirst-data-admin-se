@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.087647,
-    "geom:area_square_m":497078813.491707,
+    "geom:area_square_m":497078813.491746,
     "geom:bbox":"16.9466733064,62.5629367265,17.5506374251,62.8617973703",
     "geom:latitude":62.699365,
     "geom:longitude":17.241592,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":1015,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":62.738748,
     "lbl:longitude":17.170705,
     "lbl:max_zoom":16.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8133010,
-        "qs_pg:id":109542
+        "qs_pg:id":109542,
+        "se-lant:code":"320019"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497045031,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"3144decb4516924322e08079378c45c7",
+    "wof:geomhash":"aa61d2b5a5efcc0c3c464e09c3fac9a8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125329251,
-    "wof:lastmodified":1582340765,
+    "wof:lastmodified":1695879459,
     "wof:name":"Ljustorp",
     "wof:parent_id":1159303091,
     "wof:placetype":"localadmin",

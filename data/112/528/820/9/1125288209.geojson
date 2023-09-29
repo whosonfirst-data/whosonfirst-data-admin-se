@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.065382,
-    "geom:area_square_m":412484201.366391,
+    "geom:area_square_m":412484201.366378,
     "geom:bbox":"12.1308545117,59.1736467639,12.5125553761,59.4504351199",
     "geom:latitude":59.322465,
     "geom:longitude":12.336069,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":1136,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.321576,
     "lbl:longitude":12.339757,
     "lbl:max_zoom":16.0,
@@ -61,14 +70,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132957,
-        "qs_pg:id":758461
+        "qs_pg:id":758461,
+        "se-lant:code":"213018"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497042802,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"ae09efdec3402a77ff2fb5daa7dfe918",
+    "wof:geomhash":"1c87180c12f04a4b60e38f966c6a6e92",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +90,7 @@
         }
     ],
     "wof:id":1125288209,
-    "wof:lastmodified":1582340782,
+    "wof:lastmodified":1695879474,
     "wof:name":"Sillerud",
     "wof:parent_id":1159302927,
     "wof:placetype":"localadmin",

@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00222,
-    "geom:area_square_m":15520822.424394,
+    "geom:area_square_m":15520822.424392,
     "geom:bbox":"13.9862079118,55.5524720153,14.065579957,55.6009306848",
     "geom:latitude":55.57649,
     "geom:longitude":14.025057,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.571025,
     "lbl:longitude":14.028353,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101097"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734230,
-    "wof:geomhash":"7f44d29052437c8d3baf5d13e7ed11bc",
+    "wof:geomhash":"7f68bec7e9a6cc6c525fcfd4bd9e3667",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307129,
-    "wof:lastmodified":1566643246,
+    "wof:lastmodified":1695879408,
     "wof:name":"Spjutstorp",
     "wof:parent_id":1159302959,
     "wof:placetype":"localadmin",

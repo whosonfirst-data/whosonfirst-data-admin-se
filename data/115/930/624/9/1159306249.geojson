@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002139,
-    "geom:area_square_m":13288133.036263,
+    "geom:area_square_m":13288133.036264,
     "geom:bbox":"17.4821990657,59.82235573,17.5674834307,59.8617265068",
     "geom:latitude":59.842428,
     "geom:longitude":17.524843,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.843014,
     "lbl:longitude":17.524837,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"215133"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733984,
-    "wof:geomhash":"126600f0a9e1ba8cf76f25bf9b8c4d4a",
+    "wof:geomhash":"558220d6c500e82722fe52b9fbe150d1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306249,
-    "wof:lastmodified":1566643308,
+    "wof:lastmodified":1695879419,
     "wof:name":"Laby",
     "wof:parent_id":1159303253,
     "wof:placetype":"localadmin",

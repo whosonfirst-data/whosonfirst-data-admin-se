@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":14596,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.708253,
     "lbl:longitude":13.153193,
     "lbl:max_zoom":15.0,
@@ -61,14 +70,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132388,
-        "qs_pg:id":758109
+        "qs_pg:id":758109,
+        "se-lant:code":"101162"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497046622,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"fdac97f5c7e04f7b9f155d2def3cba3b",
+    "wof:geomhash":"a5f67239d30c825b61321c1afadf292d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +90,7 @@
         }
     ],
     "wof:id":1125358329,
-    "wof:lastmodified":1582340743,
+    "wof:lastmodified":1695879443,
     "wof:name":"Lunds Sankt Peters kloster",
     "wof:parent_id":1159303449,
     "wof:placetype":"localadmin",

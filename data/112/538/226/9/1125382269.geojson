@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003828,
-    "geom:area_square_m":24742809.230744,
+    "geom:area_square_m":24742809.230745,
     "geom:bbox":"15.1517191931,58.4559487764,15.2864180693,58.5135415836",
     "geom:latitude":58.483292,
     "geom:longitude":15.21605,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":2139,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.480129,
     "lbl:longitude":15.217991,
     "lbl:max_zoom":15.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132862,
-        "qs_pg:id":381422
+        "qs_pg:id":381422,
+        "se-lant:code":"108105"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497048118,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"a8458c43cd22334a8962232540bcee9d",
+    "wof:geomhash":"2883793b7ace4554bbfcb46a833327e1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125382269,
-    "wof:lastmodified":1582340845,
+    "wof:lastmodified":1695879518,
     "wof:name":"Fornasa",
     "wof:parent_id":1159303391,
     "wof:placetype":"localadmin",

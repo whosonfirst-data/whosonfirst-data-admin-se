@@ -73,8 +73,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_0160",
-        "eurostat:nuts_2021_id":"0160"
+        "eurostat:nuts_2021_id":"0160",
+        "se-lant:code":"0160"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:coterminous":[
         1125398123
     ],
@@ -90,7 +92,7 @@
         }
     ],
     "wof:id":1159303403,
-    "wof:lastmodified":1684354756,
+    "wof:lastmodified":1695886759,
     "wof:name":"Taby",
     "wof:parent_id":85688429,
     "wof:placetype":"county",

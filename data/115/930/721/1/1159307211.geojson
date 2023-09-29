@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005448,
-    "geom:area_square_m":37365542.475544,
+    "geom:area_square_m":37365542.47555,
     "geom:bbox":"16.4387911591,56.26551448,16.5539105228,56.3562984358",
     "geom:latitude":56.312605,
     "geom:longitude":16.492891,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.312581,
     "lbl:longitude":16.49375,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"103004"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734251,
-    "wof:geomhash":"82df6e59c9eda418a34e7585f261f553",
+    "wof:geomhash":"02ceaa7726f9ebd4f5a26c4ace859e2c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307211,
-    "wof:lastmodified":1566643365,
+    "wof:lastmodified":1695879430,
     "wof:name":"Grasgard",
     "wof:parent_id":1159303101,
     "wof:placetype":"localadmin",

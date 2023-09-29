@@ -73,8 +73,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_0581",
-        "eurostat:nuts_2021_id":"0581"
+        "eurostat:nuts_2021_id":"0581",
+        "se-lant:code":"0581"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525379463,
     "wof:geomhash":"cf42d87c20f5c8717774c9a7a9809e30",
@@ -87,7 +89,7 @@
         }
     ],
     "wof:id":1159303229,
-    "wof:lastmodified":1684354752,
+    "wof:lastmodified":1695886754,
     "wof:name":"Norrkoping",
     "wof:parent_id":85688409,
     "wof:placetype":"county",

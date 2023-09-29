@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026014,
-    "geom:area_square_m":164985414.062786,
+    "geom:area_square_m":164985414.062782,
     "geom:bbox":"15.5548880615,59.0432158608,15.7982104882,59.2305254809",
     "geom:latitude":59.142832,
     "geom:longitude":15.68014,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":1020,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.150155,
     "lbl:longitude":15.688438,
     "lbl:max_zoom":16.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132818,
-        "qs_pg:id":758361
+        "qs_pg:id":758361,
+        "se-lant:code":"211021"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497046501,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"1758e1bdecfd1e372377f1720f932bd6",
+    "wof:geomhash":"234f5d7cfc6b4d1ecf663f0934eb8601",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125356491,
-    "wof:lastmodified":1582340746,
+    "wof:lastmodified":1695879445,
     "wof:name":"Lannas",
     "wof:parent_id":1159303031,
     "wof:placetype":"localadmin",

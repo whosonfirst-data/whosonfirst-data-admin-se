@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012428,
-    "geom:area_square_m":65681600.928346,
+    "geom:area_square_m":65681600.92835,
     "geom:bbox":"21.1192132472,64.6379981403,21.354351927,64.7643483115",
     "geom:latitude":64.697301,
     "geom:longitude":21.243614,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":7291,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":64.695779,
     "lbl:longitude":21.241802,
     "lbl:max_zoom":15.0,
@@ -61,14 +70,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131952,
-        "qs_pg:id":757833
+        "qs_pg:id":757833,
+        "se-lant:code":"323022"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497051606,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"bfdbc9fdb1fa651d2d1705e4085c9559",
+    "wof:geomhash":"8cf72b45898df13fe89c4c4e489da21e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +90,7 @@
         }
     ],
     "wof:id":1125417517,
-    "wof:lastmodified":1582340872,
+    "wof:lastmodified":1695879545,
     "wof:name":"Skelleftea Sankt Orjan",
     "wof:parent_id":1159303205,
     "wof:placetype":"localadmin",

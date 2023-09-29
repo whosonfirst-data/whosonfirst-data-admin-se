@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001028,
-    "geom:area_square_m":6426774.403273,
+    "geom:area_square_m":6426774.403275,
     "geom:bbox":"17.6782443146,59.6048505048,17.7405782112,59.6311702146",
     "geom:latitude":59.619005,
     "geom:longitude":17.708576,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":9441,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.618479,
     "lbl:longitude":17.70917,
     "lbl:max_zoom":15.0,
@@ -184,14 +193,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132157,
-        "qs_pg:id":1042424
+        "qs_pg:id":1042424,
+        "se-lant:code":"215082"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497048933,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"4922c854ab6a9c36368da56f95c84e23",
+    "wof:geomhash":"f211fc63f9c861bbb0d41e1923333e20",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -202,7 +213,7 @@
         }
     ],
     "wof:id":1125394679,
-    "wof:lastmodified":1582340840,
+    "wof:lastmodified":1695879515,
     "wof:name":"Sigtuna",
     "wof:parent_id":1159303265,
     "wof:placetype":"localadmin",

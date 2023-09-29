@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.03357,
-    "geom:area_square_m":207585846.905783,
+    "geom:area_square_m":207585846.905728,
     "geom:bbox":"18.6901032161,59.8823863545,19.0233352332,60.1289546117",
     "geom:latitude":59.991228,
     "geom:longitude":18.842096,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":3244,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.988295,
     "lbl:longitude":18.830769,
     "lbl:max_zoom":15.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8133110,
-        "qs_pg:id":381436
+        "qs_pg:id":381436,
+        "se-lant:code":"215173"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497048119,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"09a33c387d2ff94361ccb1e17de10abb",
+    "wof:geomhash":"8543bea431260e19395aa79571f4f7f1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125382287,
-    "wof:lastmodified":1582340846,
+    "wof:lastmodified":1695879519,
     "wof:name":"Vaddo",
     "wof:parent_id":1159302995,
     "wof:placetype":"localadmin",

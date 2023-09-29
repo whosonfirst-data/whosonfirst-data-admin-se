@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014383,
-    "geom:area_square_m":92723891.384681,
+    "geom:area_square_m":92723891.384695,
     "geom:bbox":"12.1206511393,58.5147450625,12.3107191941,58.635848582",
     "geom:latitude":58.576911,
     "geom:longitude":12.216277,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":561,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.577975,
     "lbl:longitude":12.22394,
     "lbl:max_zoom":17.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8133286,
-        "qs_pg:id":758591
+        "qs_pg:id":758591,
+        "se-lant:code":"110007"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497046884,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"e78eb8d749ba54e7658d6fd1291e8fbd",
+    "wof:geomhash":"3c07c84cc0abbd5b86646d8871cf939f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125362571,
-    "wof:lastmodified":1582340858,
+    "wof:lastmodified":1695879528,
     "wof:name":"Sundals-Ryr",
     "wof:parent_id":1159303519,
     "wof:placetype":"localadmin",

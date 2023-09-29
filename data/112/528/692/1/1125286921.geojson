@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.048608,
-    "geom:area_square_m":274410799.395256,
+    "geom:area_square_m":274410799.395248,
     "geom:bbox":"17.8881757519,62.7317527681,18.297097817,62.9256269224",
     "geom:latitude":62.836198,
     "geom:longitude":18.102215,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":1608,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":62.83989,
     "lbl:longitude":18.122656,
     "lbl:max_zoom":16.0,
@@ -151,14 +160,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131955,
-        "qs_pg:id":757836
+        "qs_pg:id":757836,
+        "se-lant:code":"321009"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497042742,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"3392746857442ca98d51e891d2feeb3e",
+    "wof:geomhash":"335f4fe09b368475f53aa3bd2e87b495",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -169,7 +180,7 @@
         }
     ],
     "wof:id":1125286921,
-    "wof:lastmodified":1582340786,
+    "wof:lastmodified":1695879477,
     "wof:name":"Nora",
     "wof:parent_id":1159303301,
     "wof:placetype":"localadmin",

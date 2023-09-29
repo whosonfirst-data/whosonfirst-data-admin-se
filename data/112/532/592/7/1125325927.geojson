@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005846,
-    "geom:area_square_m":36402540.964485,
+    "geom:area_square_m":36402540.964479,
     "geom:bbox":"17.2721481129,59.7321175104,17.409510332,59.7933289765",
     "geom:latitude":59.760668,
     "geom:longitude":17.335899,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":1418,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.761663,
     "lbl:longitude":17.335924,
     "lbl:max_zoom":16.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132923,
-        "qs_pg:id":758438
+        "qs_pg:id":758438,
+        "se-lant:code":"215105"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497044813,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"6b9d35c7de70643b4b2a7558202d77bc",
+    "wof:geomhash":"38b6dbf12601990e2be1990746dc6a5c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125325927,
-    "wof:lastmodified":1582340756,
+    "wof:lastmodified":1695879452,
     "wof:name":"Gryta",
     "wof:parent_id":1159303337,
     "wof:placetype":"localadmin",

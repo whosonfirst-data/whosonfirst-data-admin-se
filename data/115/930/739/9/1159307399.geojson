@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003505,
-    "geom:area_square_m":22701963.846204,
+    "geom:area_square_m":22701963.846207,
     "geom:bbox":"13.3177909987,58.3803142365,13.4158751838,58.4483569096",
     "geom:latitude":58.411419,
     "geom:longitude":13.371921,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.408923,
     "lbl:longitude":13.371181,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107347"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734301,
-    "wof:geomhash":"e330967de1850f34cb7de7a4a7367269",
+    "wof:geomhash":"93bf12fc62a82f36ee179bdfc1743fcf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307399,
-    "wof:lastmodified":1566643146,
+    "wof:lastmodified":1695879390,
     "wof:name":"Handene",
     "wof:parent_id":1159303479,
     "wof:placetype":"localadmin",

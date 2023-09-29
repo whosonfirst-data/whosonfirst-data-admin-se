@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.038777,
-    "geom:area_square_m":256558351.326627,
+    "geom:area_square_m":256558351.326623,
     "geom:bbox":"16.4537238756,57.5680044946,16.8220530268,57.7286466985",
     "geom:latitude":57.650756,
     "geom:longitude":16.657482,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.641577,
     "lbl:longitude":16.657566,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"105245"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733955,
-    "wof:geomhash":"845f2fb3d985d8b7fc81cc7c6343d7fd",
+    "wof:geomhash":"4ba3822bb59daee66694ed0d2b481d1a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306131,
-    "wof:lastmodified":1566643298,
+    "wof:lastmodified":1695879417,
     "wof:name":"Vastrum",
     "wof:parent_id":1159303209,
     "wof:placetype":"localadmin",

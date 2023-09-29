@@ -10,6 +10,15 @@
     "geom:latitude":55.448102,
     "geom:longitude":13.571281,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.447322,
     "lbl:longitude":13.56875,
     "lbl:max_zoom":18.0,
@@ -54,9 +63,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101040"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734170,
-    "wof:geomhash":"c346b1eb0a6a7ed7934d26e0eae34bb8",
+    "wof:geomhash":"65b5e1ec035f8acb7e886434fde79f29",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,7 +80,7 @@
         }
     ],
     "wof:id":1159306907,
-    "wof:lastmodified":1566643324,
+    "wof:lastmodified":1695879423,
     "wof:name":"Solberga",
     "wof:parent_id":1159303379,
     "wof:placetype":"localadmin",

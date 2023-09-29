@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005131,
-    "geom:area_square_m":35428302.100239,
+    "geom:area_square_m":35428302.10024,
     "geom:bbox":"14.5320950765,56.0068750257,14.6410388883,56.0974869134",
     "geom:latitude":56.053914,
     "geom:longitude":14.580133,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":8743,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.065082,
     "lbl:longitude":14.576414,
     "lbl:max_zoom":15.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131787,
-        "qs_pg:id":381309
+        "qs_pg:id":381309,
+        "se-lant:code":"102001"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497045037,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"93d06711c8a120c72e8a1a7871c5e9a4",
+    "wof:geomhash":"f3b8f8272dd135927dbaa3d8e34b580f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125329349,
-    "wof:lastmodified":1582340769,
+    "wof:lastmodified":1695879462,
     "wof:name":"Solvesborg",
     "wof:parent_id":1159303089,
     "wof:placetype":"localadmin",

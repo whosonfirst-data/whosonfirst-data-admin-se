@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005085,
-    "geom:area_square_m":32705247.738393,
+    "geom:area_square_m":32705247.738396,
     "geom:bbox":"13.9446962923,58.6258321168,14.089077827,58.6885999066",
     "geom:latitude":58.654937,
     "geom:longitude":14.009754,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.6538,
     "lbl:longitude":13.998825,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107436"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734274,
-    "wof:geomhash":"0b4639f2681f589a3f6c327fa9b9d17b",
+    "wof:geomhash":"f2fae6efc1481d0a10c3cac771e5c2d2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307295,
-    "wof:lastmodified":1566643382,
+    "wof:lastmodified":1695879433,
     "wof:name":"Trastena",
     "wof:parent_id":1159303045,
     "wof:placetype":"localadmin",

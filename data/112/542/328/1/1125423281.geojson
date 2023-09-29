@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008229,
-    "geom:area_square_m":55246163.206717,
+    "geom:area_square_m":55246163.206714,
     "geom:bbox":"18.2948197332,57.0807527034,18.5281379866,57.1526590788",
     "geom:latitude":57.118445,
     "geom:longitude":18.395123,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":234,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.113456,
     "lbl:longitude":18.373985,
     "lbl:max_zoom":17.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132518,
-        "qs_pg:id":109448
+        "qs_pg:id":109448,
+        "se-lant:code":"106007"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497052666,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"8a8900560da33ba4c9d93a90c298adef",
+    "wof:geomhash":"bc3791d487140fda39031ca70b58c258",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125423281,
-    "wof:lastmodified":1582340818,
+    "wof:lastmodified":1695879499,
     "wof:name":"Grotlingbo",
     "wof:parent_id":1159303535,
     "wof:placetype":"localadmin",

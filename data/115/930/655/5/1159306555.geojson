@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015696,
-    "geom:area_square_m":100961066.878842,
+    "geom:area_square_m":100961066.878837,
     "geom:bbox":"13.4260566778,58.5954130578,13.6348263729,58.7253170336",
     "geom:latitude":58.652747,
     "geom:longitude":13.543671,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.646607,
     "lbl:longitude":13.534977,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107429"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734076,
-    "wof:geomhash":"ad92ca61c0100ff6267528df50d08bd0",
+    "wof:geomhash":"3c5377ec22ba1281a04dd5347394a654",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306555,
-    "wof:lastmodified":1566643321,
+    "wof:lastmodified":1695879422,
     "wof:name":"Forshem",
     "wof:parent_id":1159302923,
     "wof:placetype":"localadmin",

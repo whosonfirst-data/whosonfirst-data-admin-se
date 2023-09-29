@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.044267,
-    "geom:area_square_m":282837316.56027,
+    "geom:area_square_m":282837316.560279,
     "geom:bbox":"17.9933342056,58.7794571693,18.4050910504,59.0274835339",
     "geom:latitude":58.90438,
     "geom:longitude":18.195461,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.892119,
     "lbl:longitude":18.175186,
     "lbl:max_zoom":18.0,
@@ -57,9 +66,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"212033"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734280,
-    "wof:geomhash":"805b83d20a37ec57a10af12f123685bc",
+    "wof:geomhash":"70aeec224ada535d5303b1f91a4b81c8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +83,7 @@
         }
     ],
     "wof:id":1159307315,
-    "wof:lastmodified":1566643169,
+    "wof:lastmodified":1695879393,
     "wof:name":"Uto",
     "wof:parent_id":1159303483,
     "wof:placetype":"localadmin",

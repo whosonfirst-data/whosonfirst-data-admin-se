@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.044261,
-    "geom:area_square_m":250135443.409141,
+    "geom:area_square_m":250135443.409145,
     "geom:bbox":"17.4358493975,62.7052790869,18.0546245852,62.8711555697",
     "geom:latitude":62.803838,
     "geom:longitude":17.766838,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":1570,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":62.816853,
     "lbl:longitude":17.74591,
     "lbl:max_zoom":16.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8133015,
-        "qs_pg:id":109544
+        "qs_pg:id":109544,
+        "se-lant:code":"321007"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497045031,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"b95464db0398d81771f917048ad58a0f",
+    "wof:geomhash":"5d7edab6a4aeeae5dbcbac4d0bb91e20",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125329261,
-    "wof:lastmodified":1582340776,
+    "wof:lastmodified":1695879471,
     "wof:name":"Hogsjo",
     "wof:parent_id":1159302975,
     "wof:placetype":"localadmin",

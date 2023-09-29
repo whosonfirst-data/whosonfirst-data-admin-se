@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012986,
-    "geom:area_square_m":77166985.244079,
+    "geom:area_square_m":77166985.244072,
     "geom:bbox":"16.5056120532,61.2270735972,16.7473655166,61.3340464184",
     "geom:latitude":61.277959,
     "geom:longitude":16.631243,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":61.270226,
     "lbl:longitude":16.649435,
     "lbl:max_zoom":18.0,
@@ -54,9 +63,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"318007"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734147,
-    "wof:geomhash":"e8177759389bfb77c026a7ba678ab695",
+    "wof:geomhash":"deeafad2c8c7d1649422967b3a0bb66b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,7 +80,7 @@
         }
     ],
     "wof:id":1159306823,
-    "wof:lastmodified":1566643302,
+    "wof:lastmodified":1695879418,
     "wof:name":"Segersta",
     "wof:parent_id":1159303465,
     "wof:placetype":"localadmin",

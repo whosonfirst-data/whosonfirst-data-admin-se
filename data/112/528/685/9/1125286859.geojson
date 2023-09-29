@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034873,
-    "geom:area_square_m":219026542.63874,
+    "geom:area_square_m":219026542.638752,
     "geom:bbox":"12.5586815957,59.3848448373,12.8850799067,59.581559114",
     "geom:latitude":59.473965,
     "geom:longitude":12.738704,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":1620,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.470853,
     "lbl:longitude":12.738767,
     "lbl:max_zoom":16.0,
@@ -61,14 +70,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131921,
-        "qs_pg:id":757812
+        "qs_pg:id":757812,
+        "se-lant:code":"213040"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497042739,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"a263040783478ad10a7d20306b8cc27e",
+    "wof:geomhash":"46557369258e9840d4658e741520cbba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +90,7 @@
         }
     ],
     "wof:id":1125286859,
-    "wof:lastmodified":1582340792,
+    "wof:lastmodified":1695879481,
     "wof:name":"Stavnas",
     "wof:parent_id":1159303075,
     "wof:placetype":"localadmin",

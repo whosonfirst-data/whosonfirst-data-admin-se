@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003564,
-    "geom:area_square_m":23007680.454679,
+    "geom:area_square_m":23007680.454682,
     "geom:bbox":"13.2871414578,58.4899129628,13.4525321655,58.5533439965",
     "geom:latitude":58.527197,
     "geom:longitude":13.378989,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":447,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.531019,
     "lbl:longitude":13.373314,
     "lbl:max_zoom":17.0,
@@ -67,14 +76,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8133253,
-        "qs_pg:id":758581
+        "qs_pg:id":758581,
+        "se-lant:code":"107382"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497048268,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"ce0ee8fe24ae63d5bd90a28c7d5f0ba1",
+    "wof:geomhash":"7b2da760aa503dd4784f31b3a3d6c49a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,7 +96,7 @@
         }
     ],
     "wof:id":1125384367,
-    "wof:lastmodified":1582340848,
+    "wof:lastmodified":1695879521,
     "wof:name":"Husaby",
     "wof:parent_id":1159302923,
     "wof:placetype":"localadmin",

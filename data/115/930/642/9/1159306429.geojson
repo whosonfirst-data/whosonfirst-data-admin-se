@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000992,
-    "geom:area_square_m":6941276.228782,
+    "geom:area_square_m":6941276.228783,
     "geom:bbox":"14.253290843,55.529458497,14.3290481284,55.5633537408",
     "geom:latitude":55.543874,
     "geom:longitude":14.286962,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.540964,
     "lbl:longitude":14.274457,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101108"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734041,
-    "wof:geomhash":"19ef1832b93224b175a096e9b0580be7",
+    "wof:geomhash":"7719f2ca9112d16f29ad437a6219b96d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306429,
-    "wof:lastmodified":1566643188,
+    "wof:lastmodified":1695879397,
     "wof:name":"Jarrestad",
     "wof:parent_id":1159302931,
     "wof:placetype":"localadmin",

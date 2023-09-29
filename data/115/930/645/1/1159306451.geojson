@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000862,
-    "geom:area_square_m":5391834.27295,
+    "geom:area_square_m":5391834.272951,
     "geom:bbox":"16.5021538918,59.6179304502,16.5727130224,59.6384904378",
     "geom:latitude":59.630178,
     "geom:longitude":16.539964,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.630809,
     "lbl:longitude":16.539293,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"214039"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734047,
-    "wof:geomhash":"e9c31f706dd1c2beb548263e55743951",
+    "wof:geomhash":"46b251ac79356dca35801923dc9db86d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306451,
-    "wof:lastmodified":1566643187,
+    "wof:lastmodified":1695879397,
     "wof:name":"Gideonsberg",
     "wof:parent_id":1159303331,
     "wof:placetype":"localadmin",

@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002065,
-    "geom:area_square_m":13426393.72227,
+    "geom:area_square_m":13426393.722272,
     "geom:bbox":"13.06826551,58.253063646,13.1449370831,58.3008368611",
     "geom:latitude":58.278744,
     "geom:longitude":13.10341,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.279886,
     "lbl:longitude":13.103407,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107299"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733973,
-    "wof:geomhash":"56dd86825708fc87c69e03e0b2c19592",
+    "wof:geomhash":"3469bcae7cbe020a22778e7bf5505e44",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306205,
-    "wof:lastmodified":1566643196,
+    "wof:lastmodified":1695879399,
     "wof:name":"Fyrunga",
     "wof:parent_id":1159303487,
     "wof:placetype":"localadmin",

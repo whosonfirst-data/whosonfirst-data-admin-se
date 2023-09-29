@@ -10,6 +10,15 @@
     "geom:latitude":59.648842,
     "geom:longitude":18.280645,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.647558,
     "lbl:longitude":18.264867,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"215090"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734323,
-    "wof:geomhash":"36352f08a0b80089150a77a06e0ce86b",
+    "wof:geomhash":"ec4902364611b9599c17898149adc8c1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307479,
-    "wof:lastmodified":1566643241,
+    "wof:lastmodified":1695879407,
     "wof:name":"Karsta",
     "wof:parent_id":1159303513,
     "wof:placetype":"localadmin",

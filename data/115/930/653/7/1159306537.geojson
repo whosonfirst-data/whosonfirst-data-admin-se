@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001867,
-    "geom:area_square_m":13077028.963066,
+    "geom:area_square_m":13077028.963065,
     "geom:bbox":"13.9026840613,55.4905810709,13.9946926337,55.5255590463",
     "geom:latitude":55.506875,
     "geom:longitude":13.951259,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.506544,
     "lbl:longitude":13.947433,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101091"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734071,
-    "wof:geomhash":"afa9d976a12aaa57d32b51c5d98f2870",
+    "wof:geomhash":"e0b9882d2cae0129c477440598263760",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306537,
-    "wof:lastmodified":1566643339,
+    "wof:lastmodified":1695879426,
     "wof:name":"Ovraby",
     "wof:parent_id":1159302959,
     "wof:placetype":"localadmin",

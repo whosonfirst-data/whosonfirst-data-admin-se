@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011683,
-    "geom:area_square_m":79411097.601763,
+    "geom:area_square_m":79411097.601761,
     "geom:bbox":"12.9885189935,56.5956608353,13.1964435281,56.7155662133",
     "geom:latitude":56.654166,
     "geom:longitude":13.098083,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.649831,
     "lbl:longitude":13.089438,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"104020"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733830,
-    "wof:geomhash":"b890265041da9d8c75464fc50bb6340a",
+    "wof:geomhash":"56df45c8c620c3be233ffc18111af549",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159305631,
-    "wof:lastmodified":1566643280,
+    "wof:lastmodified":1695879413,
     "wof:name":"Tonnersjo",
     "wof:parent_id":1159303343,
     "wof:placetype":"localadmin",

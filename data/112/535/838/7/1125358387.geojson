@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010665,
-    "geom:area_square_m":73366831.655355,
+    "geom:area_square_m":73366831.655346,
     "geom:bbox":"13.7480548517,56.1218932615,13.9236517776,56.2645164252",
     "geom:latitude":56.196355,
     "geom:longitude":13.843032,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":3169,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.198921,
     "lbl:longitude":13.827135,
     "lbl:max_zoom":15.0,
@@ -73,14 +82,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8133168,
-        "qs_pg:id":758520
+        "qs_pg:id":758520,
+        "se-lant:code":"101332"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497046624,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"b29fe9af29eaf5e3639bc968c6f438f5",
+    "wof:geomhash":"27c1e68d235e9a9d95c5339583a8cde0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +102,7 @@
         }
     ],
     "wof:id":1125358387,
-    "wof:lastmodified":1582340749,
+    "wof:lastmodified":1695879448,
     "wof:name":"Stoby",
     "wof:parent_id":1159303121,
     "wof:placetype":"localadmin",

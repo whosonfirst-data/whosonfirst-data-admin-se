@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008261,
-    "geom:area_square_m":56591003.992739,
+    "geom:area_square_m":56591003.992736,
     "geom:bbox":"15.6769027421,56.3051385405,15.8371510412,56.4179992754",
     "geom:latitude":56.358297,
     "geom:longitude":15.74938,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.358224,
     "lbl:longitude":15.750603,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"102035"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734224,
-    "wof:geomhash":"60dcd37a483dc122271d677b8176d839",
+    "wof:geomhash":"0f5194e94c5ba5e5fac2fe8084f23f1b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307097,
-    "wof:lastmodified":1566643166,
+    "wof:lastmodified":1695879392,
     "wof:name":"Flymen",
     "wof:parent_id":1159303467,
     "wof:placetype":"localadmin",

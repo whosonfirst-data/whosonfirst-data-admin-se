@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012914,
-    "geom:area_square_m":81022349.263207,
+    "geom:area_square_m":81022349.263206,
     "geom:bbox":"15.7508349435,59.4476285638,15.9398640313,59.5721226356",
     "geom:latitude":59.50998,
     "geom:longitude":15.847292,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":768,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.507484,
     "lbl:longitude":15.84585,
     "lbl:max_zoom":17.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132038,
-        "qs_pg:id":757891
+        "qs_pg:id":757891,
+        "se-lant:code":"214010"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497042749,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"1ba8877a51182ed68c321d0290ae7dc8",
+    "wof:geomhash":"3c98c5537a9edccd1a5eab58c8859c42",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125287061,
-    "wof:lastmodified":1582340781,
+    "wof:lastmodified":1695879473,
     "wof:name":"Himmeta-Bro",
     "wof:parent_id":1159303439,
     "wof:placetype":"localadmin",

@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004697,
-    "geom:area_square_m":32387934.556075,
+    "geom:area_square_m":32387934.556073,
     "geom:bbox":"14.6302344745,56.0628769736,14.712077757,56.1638912176",
     "geom:latitude":56.109702,
     "geom:longitude":14.668087,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.111901,
     "lbl:longitude":14.667468,
     "lbl:max_zoom":18.0,
@@ -57,9 +66,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"102002"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734276,
-    "wof:geomhash":"25416f3a7685481543674a8ae8342e9a",
+    "wof:geomhash":"5f1d1c2059954488316b5ebc8ffea228",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +83,7 @@
         }
     ],
     "wof:id":1159307299,
-    "wof:lastmodified":1566643381,
+    "wof:lastmodified":1695879433,
     "wof:name":"Ysane",
     "wof:parent_id":1159303089,
     "wof:placetype":"localadmin",

@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004438,
-    "geom:area_square_m":30935288.658076,
+    "geom:area_square_m":30935288.658075,
     "geom:bbox":"14.0659184534,55.651988717,14.2275779092,55.7118486113",
     "geom:latitude":55.684686,
     "geom:longitude":14.147117,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.678347,
     "lbl:longitude":14.14589,
     "lbl:max_zoom":18.0,
@@ -57,9 +66,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101184"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734126,
-    "wof:geomhash":"54dd264626ad05c2d40008f7ede91247",
+    "wof:geomhash":"8519ac25901bffc56f8da0a278e9417a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +83,7 @@
         }
     ],
     "wof:id":1159306753,
-    "wof:lastmodified":1566643176,
+    "wof:lastmodified":1695879394,
     "wof:name":"Vitaby",
     "wof:parent_id":1159302931,
     "wof:placetype":"localadmin",

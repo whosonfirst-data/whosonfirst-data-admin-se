@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00236,
-    "geom:area_square_m":16564851.257462,
+    "geom:area_square_m":16564851.257464,
     "geom:bbox":"13.9964650757,55.3844851393,14.056625088,55.4479314048",
     "geom:latitude":55.417968,
     "geom:longitude":14.028403,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.417922,
     "lbl:longitude":14.025971,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101054"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734097,
-    "wof:geomhash":"71a5d75995ab3b5b1bc3b31c6286d412",
+    "wof:geomhash":"098bfb45251999d2c7d5aa86652def50",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306619,
-    "wof:lastmodified":1566643223,
+    "wof:lastmodified":1695879404,
     "wof:name":"Ingelstorp",
     "wof:parent_id":1159303233,
     "wof:placetype":"localadmin",

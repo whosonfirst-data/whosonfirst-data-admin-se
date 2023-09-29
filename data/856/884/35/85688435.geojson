@@ -422,12 +422,18 @@
         "gn:id":2664870,
         "gp:id":2347063,
         "hasc:id":"SE.VR",
+        "iso:code":"SE-S",
         "iso:id":"SE-S",
+        "se-lant:code":"17",
         "unlc:id":"SE-S",
         "wd:id":"Q106789"
     },
+    "wof:concordances_official":"se-lant:code",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"SE",
-    "wof:geomhash":"07f5340ca09de03c9df2516313c2654a",
+    "wof:geomhash":"b3d677728899d98ed880bf149ea80108",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -443,7 +449,7 @@
         "swe",
         "fin"
     ],
-    "wof:lastmodified":1690862989,
+    "wof:lastmodified":1695885317,
     "wof:name":"Varmland",
     "wof:parent_id":85633789,
     "wof:placetype":"region",

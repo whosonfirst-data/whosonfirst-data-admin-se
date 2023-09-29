@@ -73,8 +73,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_1266",
-        "eurostat:nuts_2021_id":"1266"
+        "eurostat:nuts_2021_id":"1266",
+        "se-lant:code":"1266"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525379471,
     "wof:geomhash":"b43e320c11f1cb2612a3b55d9d4adf5d",
@@ -87,7 +89,7 @@
         }
     ],
     "wof:id":1159303277,
-    "wof:lastmodified":1684354753,
+    "wof:lastmodified":1695886755,
     "wof:name":"Horby",
     "wof:parent_id":85688377,
     "wof:placetype":"county",

@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010119,
-    "geom:area_square_m":64875240.414587,
+    "geom:area_square_m":64875240.414592,
     "geom:bbox":"13.8553285047,58.6978014017,14.0190362031,58.8390894749",
     "geom:latitude":58.769229,
     "geom:longitude":13.938021,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.742043,
     "lbl:longitude":13.957456,
     "lbl:max_zoom":18.0,
@@ -42,9 +51,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107443"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733935,
-    "wof:geomhash":"6b6879ab212ef9e553857553a81ec496",
+    "wof:geomhash":"1b17df0e565e4d24b12cdbb7ab81a6e8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,7 +68,7 @@
         }
     ],
     "wof:id":1159306049,
-    "wof:lastmodified":1566643215,
+    "wof:lastmodified":1695879403,
     "wof:name":"Hassle",
     "wof:parent_id":1159303321,
     "wof:placetype":"localadmin",

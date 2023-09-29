@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.339605,
-    "geom:area_square_m":1816138174.351972,
+    "geom:area_square_m":1816138174.352027,
     "geom:bbox":"15.6180622843,63.9506775303,16.9454077004,64.743092254",
     "geom:latitude":64.374299,
     "geom:longitude":16.252225,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":2914,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":64.385944,
     "lbl:longitude":16.242534,
     "lbl:max_zoom":15.0,
@@ -115,14 +124,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131925,
-        "qs_pg:id":757816
+        "qs_pg:id":757816,
+        "se-lant:code":"324004"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497044769,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"be186e03653ab970278bfd391f7c298a",
+    "wof:geomhash":"5113fc853783fa34542d157b9dba12c2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -133,7 +144,7 @@
         }
     ],
     "wof:id":1125325331,
-    "wof:lastmodified":1582340755,
+    "wof:lastmodified":1695879451,
     "wof:name":"Dorotea",
     "wof:parent_id":1159302983,
     "wof:placetype":"localadmin",

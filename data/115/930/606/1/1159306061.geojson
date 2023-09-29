@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02639,
-    "geom:area_square_m":147150772.291023,
+    "geom:area_square_m":147150772.291041,
     "geom:bbox":"17.409836902,63.0845978593,17.7550209973,63.2956506002",
     "geom:latitude":63.195494,
     "geom:longitude":17.613851,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":63.218001,
     "lbl:longitude":17.640029,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"321023"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733938,
-    "wof:geomhash":"441b5b032f0dddcdb7c0ae91d14f9022",
+    "wof:geomhash":"6f317d37cec4ac4cc81bd8dec5900a97",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306061,
-    "wof:lastmodified":1566643331,
+    "wof:lastmodified":1695879424,
     "wof:name":"Overlannas",
     "wof:parent_id":1159303381,
     "wof:placetype":"localadmin",

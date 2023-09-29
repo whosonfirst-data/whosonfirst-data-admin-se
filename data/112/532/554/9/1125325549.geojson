@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001161,
-    "geom:area_square_m":7717719.220617,
+    "geom:area_square_m":7717719.220616,
     "geom:bbox":"12.0465965488,57.4556104979,12.105985622,57.4960432406",
     "geom:latitude":57.479688,
     "geom:longitude":12.074436,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":10210,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.481298,
     "lbl:longitude":12.06702,
     "lbl:max_zoom":15.0,
@@ -160,14 +169,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132569,
-        "qs_pg:id":758229
+        "qs_pg:id":758229,
+        "se-lant:code":"104085"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497044789,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"da2cf41acfe015a5e341b66f0fb19636",
+    "wof:geomhash":"c6ddbf61a7aafbacd52e18579c595596",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -178,7 +189,7 @@
         }
     ],
     "wof:id":1125325549,
-    "wof:lastmodified":1582340770,
+    "wof:lastmodified":1695879462,
     "wof:name":"Kungsbacka",
     "wof:parent_id":1159303249,
     "wof:placetype":"localadmin",

@@ -205,8 +205,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_1383",
-        "eurostat:nuts_2021_id":"1383"
+        "eurostat:nuts_2021_id":"1383",
+        "se-lant:code":"1383"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525379396,
     "wof:geomhash":"cd4f58934a8a968507c075e2b68ea20b",
@@ -219,7 +221,7 @@
         }
     ],
     "wof:id":1159302939,
-    "wof:lastmodified":1684354745,
+    "wof:lastmodified":1695886746,
     "wof:name":"Varberg",
     "wof:parent_id":85688391,
     "wof:placetype":"county",

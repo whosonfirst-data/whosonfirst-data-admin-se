@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000818,
-    "geom:area_square_m":5401981.695552,
+    "geom:area_square_m":5401981.695553,
     "geom:bbox":"12.0541025522,57.711426108,12.1025992422,57.7360190037",
     "geom:latitude":57.724116,
     "geom:longitude":12.077543,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":11648,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.723137,
     "lbl:longitude":12.07708,
     "lbl:max_zoom":15.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132167,
-        "qs_pg:id":1042432
+        "qs_pg:id":1042432,
+        "se-lant:code":"107092"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497049141,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"a59d48ddb13153981cb49d41f8949b1f",
+    "wof:geomhash":"47659e2833401c6cded2e719ba898b5d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125398101,
-    "wof:lastmodified":1582340838,
+    "wof:lastmodified":1695879514,
     "wof:name":"Savedalen",
     "wof:parent_id":1159303085,
     "wof:placetype":"localadmin",

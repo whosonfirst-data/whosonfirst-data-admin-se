@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026429,
-    "geom:area_square_m":178668774.38338,
+    "geom:area_square_m":178668774.383367,
     "geom:bbox":"14.0872846695,56.7780312692,14.3036261276,56.9655727623",
     "geom:latitude":56.857688,
     "geom:longitude":14.187762,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":1345,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.86112,
     "lbl:longitude":14.179039,
     "lbl:max_zoom":16.0,
@@ -76,14 +85,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132783,
-        "qs_pg:id":758346
+        "qs_pg:id":758346,
+        "se-lant:code":"105078"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497042785,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"8f3e4e3de4f10780dd27536a1b84854d",
+    "wof:geomhash":"b88789fed502a33d6fcf93618f4821ba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,7 +105,7 @@
         }
     ],
     "wof:id":1125287765,
-    "wof:lastmodified":1582340788,
+    "wof:lastmodified":1695879478,
     "wof:name":"Ryssby",
     "wof:parent_id":1159303441,
     "wof:placetype":"localadmin",

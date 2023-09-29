@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011292,
-    "geom:area_square_m":75893373.126204,
+    "geom:area_square_m":75893373.126196,
     "geom:bbox":"16.8312973752,57.0250794635,17.0101909419,57.1430861712",
     "geom:latitude":57.074727,
     "geom:longitude":16.91656,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.084889,
     "lbl:longitude":16.901665,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"103031"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733986,
-    "wof:geomhash":"d75bb9a6be3dd438dc2bd09c268eddb7",
+    "wof:geomhash":"76e16b4b5148121facb2c13198c2ce43",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306265,
-    "wof:lastmodified":1566643186,
+    "wof:lastmodified":1695879397,
     "wof:name":"Persnas",
     "wof:parent_id":1159303363,
     "wof:placetype":"localadmin",

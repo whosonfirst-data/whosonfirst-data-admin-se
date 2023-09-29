@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005954,
-    "geom:area_square_m":41210030.971332,
+    "geom:area_square_m":41210030.971326,
     "geom:bbox":"13.2675097043,55.9160278261,13.3889516883,56.006714669",
     "geom:latitude":55.963424,
     "geom:longitude":13.333834,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.965919,
     "lbl:longitude":13.334742,
     "lbl:max_zoom":18.0,
@@ -48,9 +57,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101266"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733906,
-    "wof:geomhash":"f998f12e87589e50c882598c3317d19c",
+    "wof:geomhash":"6e235364b9a1fb148cbb07bcd604216f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +74,7 @@
         }
     ],
     "wof:id":1159305917,
-    "wof:lastmodified":1566643293,
+    "wof:lastmodified":1695879416,
     "wof:name":"Billinge",
     "wof:parent_id":1159303151,
     "wof:placetype":"localadmin",

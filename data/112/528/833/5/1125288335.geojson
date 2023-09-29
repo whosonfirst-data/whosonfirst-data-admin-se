@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":197,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.034257,
     "lbl:longitude":13.268949,
     "lbl:max_zoom":18.0,
@@ -67,14 +76,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8133239,
-        "qs_pg:id":758569
+        "qs_pg:id":758569,
+        "se-lant:code":"107182"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497042806,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"d076246fc2f935325ead8c64376e8d82",
+    "wof:geomhash":"59b25ca16edc1216e4565742c12b72ed",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,7 +96,7 @@
         }
     ],
     "wof:id":1125288335,
-    "wof:lastmodified":1582340786,
+    "wof:lastmodified":1695879477,
     "wof:name":"Eriksberg",
     "wof:parent_id":1159303171,
     "wof:placetype":"localadmin",

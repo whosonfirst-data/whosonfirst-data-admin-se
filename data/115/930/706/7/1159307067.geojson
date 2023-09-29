@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002752,
-    "geom:area_square_m":17930487.556225,
+    "geom:area_square_m":17930487.556223,
     "geom:bbox":"12.9629501551,58.1696414387,13.0846574062,58.2198337522",
     "geom:latitude":58.197492,
     "geom:longitude":13.027493,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.195373,
     "lbl:longitude":13.02656,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107253"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734215,
-    "wof:geomhash":"565ad371fd2f9861856e6fffee7d3b1c",
+    "wof:geomhash":"b3246a4ac388673e4ce12cfb36e9d82e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307067,
-    "wof:lastmodified":1566643148,
+    "wof:lastmodified":1695879390,
     "wof:name":"Sodra Lundby",
     "wof:parent_id":1159303487,
     "wof:placetype":"localadmin",

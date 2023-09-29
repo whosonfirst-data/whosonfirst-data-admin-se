@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012663,
-    "geom:area_square_m":80014361.189102,
+    "geom:area_square_m":80014361.189088,
     "geom:bbox":"14.7484010856,59.2025929871,14.9530118967,59.3327290592",
     "geom:latitude":59.268064,
     "geom:longitude":14.845821,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.274083,
     "lbl:longitude":14.838855,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"211024"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733844,
-    "wof:geomhash":"7ebb9205ae181e0eeb93c6b362f4bf7d",
+    "wof:geomhash":"671bcaa0fd700abf10a915768fbd7a00",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159305689,
-    "wof:lastmodified":1566643163,
+    "wof:lastmodified":1695879392,
     "wof:name":"Hidinge",
     "wof:parent_id":1159303175,
     "wof:placetype":"localadmin",

@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010068,
-    "geom:area_square_m":69118970.007572,
+    "geom:area_square_m":69118970.007556,
     "geom:bbox":"15.2984042685,56.2060991181,15.4884832369,56.3631025018",
     "geom:latitude":56.275201,
     "geom:longitude":15.393391,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.251467,
     "lbl:longitude":15.409242,
     "lbl:max_zoom":18.0,
@@ -51,9 +60,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"102024"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733878,
-    "wof:geomhash":"9315869bfc074f0d8302a5c88fc44259",
+    "wof:geomhash":"de9f0607fa8b2dd0d4f366897be28782",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -64,7 +77,7 @@
         }
     ],
     "wof:id":1159305823,
-    "wof:lastmodified":1566643351,
+    "wof:lastmodified":1695879428,
     "wof:name":"Hjortsberga",
     "wof:parent_id":1159303551,
     "wof:placetype":"localadmin",

@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006027,
-    "geom:area_square_m":38927454.153611,
+    "geom:area_square_m":38927454.153614,
     "geom:bbox":"11.5445228545,58.4611675511,11.6991164986,58.553440973",
     "geom:latitude":58.509617,
     "geom:longitude":11.624608,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.514862,
     "lbl:longitude":11.629881,
     "lbl:max_zoom":18.0,
@@ -111,9 +120,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"109069"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734240,
-    "wof:geomhash":"2751caf71c57c22a98777fe335d1e3e1",
+    "wof:geomhash":"d6270769505ee0eb53c26a8db79b423b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -124,7 +137,7 @@
         }
     ],
     "wof:id":1159307169,
-    "wof:lastmodified":1566643380,
+    "wof:lastmodified":1695879433,
     "wof:name":"Haby",
     "wof:parent_id":1159302991,
     "wof:placetype":"localadmin",

@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003714,
-    "geom:area_square_m":25895349.077045,
+    "geom:area_square_m":25895349.077044,
     "geom:bbox":"13.3721978963,55.6465731396,13.4872495457,55.7151646129",
     "geom:latitude":55.678254,
     "geom:longitude":13.426502,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.675896,
     "lbl:longitude":13.421686,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101171"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734308,
-    "wof:geomhash":"acb7f193a809d5da14fc9707e738a6d8",
+    "wof:geomhash":"07900dd16ad0dd6146c55bf13eb95029",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307429,
-    "wof:lastmodified":1566643373,
+    "wof:lastmodified":1695879431,
     "wof:name":"Hallestad",
     "wof:parent_id":1159303449,
     "wof:placetype":"localadmin",

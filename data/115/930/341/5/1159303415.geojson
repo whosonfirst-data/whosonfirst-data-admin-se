@@ -73,8 +73,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_0382",
-        "eurostat:nuts_2021_id":"0382"
+        "eurostat:nuts_2021_id":"0382",
+        "se-lant:code":"0382"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525379491,
     "wof:geomhash":"ebb964a64683de15eab0be486c5356a8",
@@ -87,7 +89,7 @@
         }
     ],
     "wof:id":1159303415,
-    "wof:lastmodified":1684354756,
+    "wof:lastmodified":1695886759,
     "wof:name":"Osthammar",
     "wof:parent_id":85688439,
     "wof:placetype":"county",

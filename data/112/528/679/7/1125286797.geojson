@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001715,
-    "geom:area_square_m":10500606.345057,
+    "geom:area_square_m":10500606.345055,
     "geom:bbox":"18.4132691268,60.3117725833,18.5143716903,60.3470884338",
     "geom:latitude":60.327891,
     "geom:longitude":18.458469,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":2324,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":60.329943,
     "lbl:longitude":18.454277,
     "lbl:max_zoom":15.0,
@@ -61,14 +70,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131908,
-        "qs_pg:id":757800
+        "qs_pg:id":757800,
+        "se-lant:code":"215202"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497042737,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"516987d956813c9608cba60d13d0e4d8",
+    "wof:geomhash":"1adbd4065ff53548008f7ba316a783e1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +90,7 @@
         }
     ],
     "wof:id":1125286797,
-    "wof:lastmodified":1582340793,
+    "wof:lastmodified":1695879482,
     "wof:name":"Oregrund",
     "wof:parent_id":1159303415,
     "wof:placetype":"localadmin",

@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001333,
-    "geom:area_square_m":9375860.573098,
+    "geom:area_square_m":9375860.573097,
     "geom:bbox":"13.330463694,55.3275839387,13.3957262022,55.3571947646",
     "geom:latitude":55.342584,
     "geom:longitude":13.361165,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.343045,
     "lbl:longitude":13.361159,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101007"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734348,
-    "wof:geomhash":"65a38f3d00b8dd7456d9c3ff9af5eed5",
+    "wof:geomhash":"7e4af95491559c4c0e6d70a1311e903e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307575,
-    "wof:lastmodified":1566643291,
+    "wof:lastmodified":1695879415,
     "wof:name":"Ostra Torp",
     "wof:parent_id":1159303309,
     "wof:placetype":"localadmin",

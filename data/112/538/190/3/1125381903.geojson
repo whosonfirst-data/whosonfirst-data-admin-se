@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012368,
-    "geom:area_square_m":77864341.929363,
+    "geom:area_square_m":77864341.929368,
     "geom:bbox":"15.9604463003,59.3462403484,16.1665350051,59.4575263647",
     "geom:latitude":59.394152,
     "geom:longitude":16.079906,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":8170,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.388665,
     "lbl:longitude":16.08682,
     "lbl:max_zoom":15.0,
@@ -61,14 +70,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131949,
-        "qs_pg:id":381322
+        "qs_pg:id":381322,
+        "se-lant:code":"212105"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497048099,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"cd81a9b51a68abb4d92d05b698fe5d79",
+    "wof:geomhash":"7f87f1634037316f59b296817fba619a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +90,7 @@
         }
     ],
     "wof:id":1125381903,
-    "wof:lastmodified":1582340850,
+    "wof:lastmodified":1695879522,
     "wof:name":"Kung Karl",
     "wof:parent_id":1159303173,
     "wof:placetype":"localadmin",

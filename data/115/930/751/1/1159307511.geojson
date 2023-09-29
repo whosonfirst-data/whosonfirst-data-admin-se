@@ -10,6 +10,15 @@
     "geom:latitude":56.017365,
     "geom:longitude":14.323517,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.017865,
     "lbl:longitude":14.32307,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101281"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734331,
-    "wof:geomhash":"39f771d888c5d2e93ac1fa5ca462f233",
+    "wof:geomhash":"14969cc1d20e414f0ef872bf189b0da2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307511,
-    "wof:lastmodified":1566643279,
+    "wof:lastmodified":1695879413,
     "wof:name":"Nymo",
     "wof:parent_id":1159303497,
     "wof:placetype":"localadmin",

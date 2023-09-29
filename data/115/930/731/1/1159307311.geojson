@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003956,
-    "geom:area_square_m":27377657.64114,
+    "geom:area_square_m":27377657.641141,
     "geom:bbox":"12.9806880982,55.9315231741,13.0756451689,55.9931092916",
     "geom:latitude":55.963364,
     "geom:longitude":13.031615,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.961777,
     "lbl:longitude":13.035455,
     "lbl:max_zoom":18.0,
@@ -237,9 +246,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101260"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734279,
-    "wof:geomhash":"7fbd9e8076db2f27b3273b0f9a55fe30",
+    "wof:geomhash":"8eec63d60cad163716566750b3784b05",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -250,7 +263,7 @@
         }
     ],
     "wof:id":1159307311,
-    "wof:lastmodified":1566643169,
+    "wof:lastmodified":1695879393,
     "wof:name":"Halmstad",
     "wof:parent_id":1159303189,
     "wof:placetype":"localadmin",

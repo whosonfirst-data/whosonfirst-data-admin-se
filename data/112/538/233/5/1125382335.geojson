@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008939,
-    "geom:area_square_m":61356517.636862,
+    "geom:area_square_m":61356517.636868,
     "geom:bbox":"13.8633473526,56.2304692556,14.0126963603,56.3276543168",
     "geom:latitude":56.280625,
     "geom:longitude":13.936002,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":2156,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.279131,
     "lbl:longitude":13.937406,
     "lbl:max_zoom":15.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8133163,
-        "qs_pg:id":381461
+        "qs_pg:id":381461,
+        "se-lant:code":"101358"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497048122,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"a5c430282b22900d28ac0e0886e0f167",
+    "wof:geomhash":"de6310a806e61f77868f65f247eb4232",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125382335,
-    "wof:lastmodified":1582340848,
+    "wof:lastmodified":1695879520,
     "wof:name":"Hastveda",
     "wof:parent_id":1159303121,
     "wof:placetype":"localadmin",

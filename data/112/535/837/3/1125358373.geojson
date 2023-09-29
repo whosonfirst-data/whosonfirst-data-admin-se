@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004735,
-    "geom:area_square_m":32551269.25675,
+    "geom:area_square_m":32551269.256751,
     "geom:bbox":"12.5861060596,56.1463562253,12.7025921057,56.2647784333",
     "geom:latitude":56.222267,
     "geom:longitude":12.650465,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":3360,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.233282,
     "lbl:longitude":12.644808,
     "lbl:max_zoom":15.0,
@@ -73,14 +82,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132403,
-        "qs_pg:id":758124
+        "qs_pg:id":758124,
+        "se-lant:code":"101343"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497046624,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"4c43f15ebdd72608592810257f758fa9",
+    "wof:geomhash":"242380706ea2c43e00b4afb7f9460f64",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +102,7 @@
         }
     ],
     "wof:id":1125358373,
-    "wof:lastmodified":1582340750,
+    "wof:lastmodified":1695879448,
     "wof:name":"Jonstorp",
     "wof:parent_id":1159303057,
     "wof:placetype":"localadmin",

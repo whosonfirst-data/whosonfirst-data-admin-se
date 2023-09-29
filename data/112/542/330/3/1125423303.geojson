@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016655,
-    "geom:area_square_m":103782136.739405,
+    "geom:area_square_m":103782136.739412,
     "geom:bbox":"12.3285735831,59.6804551401,12.5405411435,59.8097823468",
     "geom:latitude":59.740018,
     "geom:longitude":12.443577,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":780,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.745629,
     "lbl:longitude":12.445609,
     "lbl:max_zoom":17.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132976,
-        "qs_pg:id":109529
+        "qs_pg:id":109529,
+        "se-lant:code":"213065"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497052670,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"ccbb8b4c727d0c845c9dc667a9e1e77d",
+    "wof:geomhash":"bfe069f3e9a55b1a51451b3ee0e70e88",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125423303,
-    "wof:lastmodified":1582340810,
+    "wof:lastmodified":1695879493,
     "wof:name":"Ny",
     "wof:parent_id":1159303075,
     "wof:placetype":"localadmin",

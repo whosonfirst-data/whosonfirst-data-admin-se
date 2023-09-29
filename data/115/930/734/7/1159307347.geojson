@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015077,
-    "geom:area_square_m":95744106.275284,
+    "geom:area_square_m":95744106.275288,
     "geom:bbox":"15.2679996765,59.034885,15.4682413046,59.1791201678",
     "geom:latitude":59.097617,
     "geom:longitude":15.357425,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.104555,
     "lbl:longitude":15.358958,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"211020"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734289,
-    "wof:geomhash":"54f4002f93412709094bd25fa233b8bf",
+    "wof:geomhash":"107727eb32c675c8ae3838eb41882f2f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307347,
-    "wof:lastmodified":1566643268,
+    "wof:lastmodified":1695879412,
     "wof:name":"Skollersta",
     "wof:parent_id":1159303539,
     "wof:placetype":"localadmin",

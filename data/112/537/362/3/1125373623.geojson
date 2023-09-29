@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.405412,
-    "geom:area_square_m":2072942904.610214,
+    "geom:area_square_m":2072942904.610137,
     "geom:bbox":"21.3357200756,65.2902787054,22.8645231727,65.8731702877",
     "geom:latitude":65.576663,
     "geom:longitude":22.160898,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":28003,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":65.576443,
     "lbl:longitude":21.90254,
     "lbl:max_zoom":14.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132800,
-        "qs_pg:id":109504
+        "qs_pg:id":109504,
+        "se-lant:code":"325006"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497047579,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"9c953494bafdbdb5e6095c47af387d99",
+    "wof:geomhash":"1aa94776087fd8baa1c42545ca439da1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125373623,
-    "wof:lastmodified":1582340821,
+    "wof:lastmodified":1695879501,
     "wof:name":"Nederlulea",
     "wof:parent_id":1159303317,
     "wof:placetype":"localadmin",

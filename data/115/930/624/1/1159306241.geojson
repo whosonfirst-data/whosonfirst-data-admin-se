@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0024,
-    "geom:area_square_m":15534278.826889,
+    "geom:area_square_m":15534278.826886,
     "geom:bbox":"12.8931573703,58.4184942015,12.9855036674,58.4564684116",
     "geom:latitude":58.439083,
     "geom:longitude":12.945296,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.438948,
     "lbl:longitude":12.945312,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107335"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733981,
-    "wof:geomhash":"0e4931967061209ad864b8f7edd43c3d",
+    "wof:geomhash":"4c1d5f60a1ce925302ba722e77592163",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306241,
-    "wof:lastmodified":1566643309,
+    "wof:lastmodified":1695879419,
     "wof:name":"Gillstad",
     "wof:parent_id":1159303281,
     "wof:placetype":"localadmin",

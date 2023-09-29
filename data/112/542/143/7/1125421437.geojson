@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.090624,
-    "geom:area_square_m":559624000.812305,
+    "geom:area_square_m":559624000.812335,
     "geom:bbox":"15.2284282225,59.8541453812,15.8014163402,60.2317176685",
     "geom:latitude":60.039458,
     "geom:longitude":15.544241,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":2555,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":60.044905,
     "lbl:longitude":15.587225,
     "lbl:max_zoom":15.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132728,
-        "qs_pg:id":758318
+        "qs_pg:id":758318,
+        "se-lant:code":"217001"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497052317,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"e4a332f735197e5e5b0487927fd0a1cc",
+    "wof:geomhash":"28d81bebb14bae567e4a9cbd7fce74d4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125421437,
-    "wof:lastmodified":1582340813,
+    "wof:lastmodified":1695879495,
     "wof:name":"Soderbarke",
     "wof:parent_id":1159303435,
     "wof:placetype":"localadmin",

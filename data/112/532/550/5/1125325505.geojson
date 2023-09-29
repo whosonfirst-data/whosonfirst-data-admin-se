@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007551,
-    "geom:area_square_m":50948451.438132,
+    "geom:area_square_m":50948451.438129,
     "geom:bbox":"12.3776681883,56.8818117152,12.51630201,56.995879444",
     "geom:latitude":56.932092,
     "geom:longitude":12.449975,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":3809,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.931609,
     "lbl:longitude":12.445191,
     "lbl:max_zoom":15.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132557,
-        "qs_pg:id":758220
+        "qs_pg:id":758220,
+        "se-lant:code":"104036"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497044785,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"8be521d49decc5dad6741bdf600580f5",
+    "wof:geomhash":"1e7a595bdf63ff67b28908e9331d5662",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125325505,
-    "wof:lastmodified":1582340757,
+    "wof:lastmodified":1695879452,
     "wof:name":"Stafsinge",
     "wof:parent_id":1159303247,
     "wof:placetype":"localadmin",

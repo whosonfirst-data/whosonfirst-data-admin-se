@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004977,
-    "geom:area_square_m":32548954.63447,
+    "geom:area_square_m":32548954.634466,
     "geom:bbox":"11.3794350084,58.04893517,11.4988817219,58.1005956041",
     "geom:latitude":58.071557,
     "geom:longitude":11.438842,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.073622,
     "lbl:longitude":11.428138,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"109027"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734135,
-    "wof:geomhash":"78fd2ad24ba8fc126dd2a85a9a7d027f",
+    "wof:geomhash":"d9c20ca20eb062da604a31b4ea568695",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306791,
-    "wof:lastmodified":1566643314,
+    "wof:lastmodified":1695879421,
     "wof:name":"Mollosund",
     "wof:parent_id":1159302943,
     "wof:placetype":"localadmin",

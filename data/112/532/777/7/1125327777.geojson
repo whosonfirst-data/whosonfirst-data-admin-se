@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026071,
-    "geom:area_square_m":176350260.637385,
+    "geom:area_square_m":176350260.637382,
     "geom:bbox":"15.2750943803,56.75796742,15.5561867811,56.9015152914",
     "geom:latitude":56.836013,
     "geom:longitude":15.416448,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":1085,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.838677,
     "lbl:longitude":15.405148,
     "lbl:max_zoom":16.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132756,
-        "qs_pg:id":109499
+        "qs_pg:id":109499,
+        "se-lant:code":"105069"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497044922,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"8755181deab46afcde8f6474c8010e31",
+    "wof:geomhash":"ae913a1fd2f02ea4ebc98fab96f5daf8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125327777,
-    "wof:lastmodified":1582340765,
+    "wof:lastmodified":1695879459,
     "wof:name":"Ekeberga",
     "wof:parent_id":1159303067,
     "wof:placetype":"localadmin",

@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002661,
-    "geom:area_square_m":18700972.702937,
+    "geom:area_square_m":18700972.702939,
     "geom:bbox":"13.196897269,55.3370745992,13.2852599795,55.3946055746",
     "geom:latitude":55.366001,
     "geom:longitude":13.245292,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.368302,
     "lbl:longitude":13.252618,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101005"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734263,
-    "wof:geomhash":"3205bc31cb2866b506c7325fcc970f43",
+    "wof:geomhash":"ca147b8db0017c988b8677da3ee522ef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307265,
-    "wof:lastmodified":1566643362,
+    "wof:lastmodified":1695879430,
     "wof:name":"Gislov",
     "wof:parent_id":1159303309,
     "wof:placetype":"localadmin",

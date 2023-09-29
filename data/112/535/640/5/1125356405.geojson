@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004989,
-    "geom:area_square_m":33883023.059163,
+    "geom:area_square_m":33883023.059164,
     "geom:bbox":"16.165279227,56.6413005364,16.3045748066,56.7217143045",
     "geom:latitude":56.682007,
     "geom:longitude":16.231917,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":4775,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.681232,
     "lbl:longitude":16.230856,
     "lbl:max_zoom":15.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132684,
-        "qs_pg:id":758294
+        "qs_pg:id":758294,
+        "se-lant:code":"105053"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497046496,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"d12afc17a884ff0089cd5f2a425c648e",
+    "wof:geomhash":"c988beaafa6c083c6bd357bacf71ea9d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125356405,
-    "wof:lastmodified":1582340747,
+    "wof:lastmodified":1695879446,
     "wof:name":"Dorby",
     "wof:parent_id":1159303065,
     "wof:placetype":"localadmin",

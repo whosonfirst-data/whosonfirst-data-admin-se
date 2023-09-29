@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.067332,
-    "geom:area_square_m":377717298.84738,
+    "geom:area_square_m":377717298.847366,
     "geom:bbox":"15.6918274368,62.9317632829,16.445705145,63.0902136525",
     "geom:latitude":63.020262,
     "geom:longitude":16.107527,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":63.028695,
     "lbl:longitude":16.019047,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"322016"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734112,
-    "wof:geomhash":"9600e8851a6ac90096868b69b0b78863",
+    "wof:geomhash":"58b0694f9a19b67676d3016ea6bda717",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306691,
-    "wof:lastmodified":1566643207,
+    "wof:lastmodified":1695879401,
     "wof:name":"Hasjo",
     "wof:parent_id":1159303529,
     "wof:placetype":"localadmin",

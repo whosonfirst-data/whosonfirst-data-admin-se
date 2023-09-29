@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.213652,
-    "geom:area_square_m":1126751101.070152,
+    "geom:area_square_m":1126751101.070033,
     "geom:bbox":"14.7027050306,64.4434281024,15.8388120034,64.9813494478",
     "geom:latitude":64.754147,
     "geom:longitude":15.365268,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":64.697173,
     "lbl:longitude":15.514506,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"324005"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733916,
-    "wof:geomhash":"b7026ace2a42c6618652d816d1a90506",
+    "wof:geomhash":"1c907cbb6caa60b5068ebd080f3e48eb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159305963,
-    "wof:lastmodified":1566643287,
+    "wof:lastmodified":1695879415,
     "wof:name":"Risback",
     "wof:parent_id":1159302983,
     "wof:placetype":"localadmin",

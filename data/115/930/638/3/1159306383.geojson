@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004033,
-    "geom:area_square_m":25052013.220479,
+    "geom:area_square_m":25052013.220472,
     "geom:bbox":"17.5459548825,59.8100153368,17.6420638228,59.8842746383",
     "geom:latitude":59.845326,
     "geom:longitude":17.592096,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.842799,
     "lbl:longitude":17.592087,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"215134"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734030,
-    "wof:geomhash":"395b02349c15288c58497538eeaaccff",
+    "wof:geomhash":"897ea34930980e03a424e931979f2593",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306383,
-    "wof:lastmodified":1566643346,
+    "wof:lastmodified":1695879427,
     "wof:name":"Uppsala Helga Trefaldighet",
     "wof:parent_id":1159303253,
     "wof:placetype":"localadmin",

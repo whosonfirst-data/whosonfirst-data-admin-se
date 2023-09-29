@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008836,
-    "geom:area_square_m":54851543.001933,
+    "geom:area_square_m":54851543.00194,
     "geom:bbox":"17.3281604231,59.8248865451,17.501454407,59.9143097104",
     "geom:latitude":59.865181,
     "geom:longitude":17.406827,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.862583,
     "lbl:longitude":17.408167,
     "lbl:max_zoom":18.0,
@@ -45,9 +54,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"215130"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734206,
-    "wof:geomhash":"89d553bde6bfa1c6680fafb05f375f4e",
+    "wof:geomhash":"c8fea769f7bb12b08302fe10c8345e83",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +71,7 @@
         }
     ],
     "wof:id":1159307031,
-    "wof:lastmodified":1566643285,
+    "wof:lastmodified":1695879414,
     "wof:name":"Vange",
     "wof:parent_id":1159303253,
     "wof:placetype":"localadmin",

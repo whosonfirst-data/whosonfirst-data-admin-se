@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019887,
-    "geom:area_square_m":134212074.359498,
+    "geom:area_square_m":134212074.359463,
     "geom:bbox":"14.2899642682,56.8471724989,14.5561066513,56.9928177741",
     "geom:latitude":56.921684,
     "geom:longitude":14.436193,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":983,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.932528,
     "lbl:longitude":14.458424,
     "lbl:max_zoom":17.0,
@@ -61,14 +70,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131757,
-        "qs_pg:id":757696
+        "qs_pg:id":757696,
+        "se-lant:code":"105079"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497052304,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"2967013687a53c9027c219ce07f1a4cd",
+    "wof:geomhash":"c29e0eec2a161f02495977b555e2bf6f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +90,7 @@
         }
     ],
     "wof:id":1125421355,
-    "wof:lastmodified":1582340809,
+    "wof:lastmodified":1695879493,
     "wof:name":"Hjortsberga-Kvenneberga",
     "wof:parent_id":1159303407,
     "wof:placetype":"localadmin",

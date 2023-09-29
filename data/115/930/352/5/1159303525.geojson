@@ -193,8 +193,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_0128",
-        "eurostat:nuts_2021_id":"0128"
+        "eurostat:nuts_2021_id":"0128",
+        "se-lant:code":"0128"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:coterminous":[
         1159307543
     ],
@@ -210,7 +212,7 @@
         }
     ],
     "wof:id":1159303525,
-    "wof:lastmodified":1684354759,
+    "wof:lastmodified":1695886763,
     "wof:name":"Salem",
     "wof:parent_id":85688429,
     "wof:placetype":"county",

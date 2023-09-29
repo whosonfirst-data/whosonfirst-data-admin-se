@@ -426,12 +426,18 @@
         "gn:id":2685867,
         "gp:id":2347059,
         "hasc:id":"SE.OG",
+        "iso:code":"SE-E",
         "iso:id":"SE-E",
+        "se-lant:code":"05",
         "unlc:id":"SE-E",
         "wd:id":"Q104940"
     },
+    "wof:concordances_official":"se-lant:code",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"SE",
-    "wof:geomhash":"e74a5c155359758ccaaecb397ec311ce",
+    "wof:geomhash":"babd5d7a8678551ce8b9ce11d11e3308",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -447,7 +453,7 @@
         "swe",
         "fin"
     ],
-    "wof:lastmodified":1690862991,
+    "wof:lastmodified":1695885316,
     "wof:name":"Ostergotland",
     "wof:parent_id":85633789,
     "wof:placetype":"region",

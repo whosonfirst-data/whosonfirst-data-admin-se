@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004029,
-    "geom:area_square_m":26414893.63703,
+    "geom:area_square_m":26414893.637027,
     "geom:bbox":"13.174544492,57.951413645,13.2844712369,58.0209737717",
     "geom:latitude":57.980398,
     "geom:longitude":13.235275,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":175,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.981566,
     "lbl:longitude":13.236079,
     "lbl:max_zoom":18.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132276,
-        "qs_pg:id":758014
+        "qs_pg:id":758014,
+        "se-lant:code":"107152"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497045627,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"1f9786f4bf00e45afc4b4f8303301dae",
+    "wof:geomhash":"f57fb8a419cceb997f2fb63d5acf9186",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125340457,
-    "wof:lastmodified":1582340733,
+    "wof:lastmodified":1695879435,
     "wof:name":"Alboga",
     "wof:parent_id":1159303171,
     "wof:placetype":"localadmin",

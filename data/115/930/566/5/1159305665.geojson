@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026103,
-    "geom:area_square_m":165407920.135284,
+    "geom:area_square_m":165407920.135294,
     "geom:bbox":"14.555976109,59.0996102547,14.8575518055,59.2592910918",
     "geom:latitude":59.172386,
     "geom:longitude":14.683194,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.161111,
     "lbl:longitude":14.695777,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"211022"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733838,
-    "wof:geomhash":"8831ebf55b82c3d720dccc3a8e145076",
+    "wof:geomhash":"5417c9195d2a349b3be461abcaa6510c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159305665,
-    "wof:lastmodified":1566643155,
+    "wof:lastmodified":1695879391,
     "wof:name":"Kvistbro",
     "wof:parent_id":1159303175,
     "wof:placetype":"localadmin",

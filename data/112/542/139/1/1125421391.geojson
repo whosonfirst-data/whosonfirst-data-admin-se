@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006062,
-    "geom:area_square_m":39759583.293445,
+    "geom:area_square_m":39759583.293446,
     "geom:bbox":"12.6130564865,57.9088574658,12.7392889016,58.0099523005",
     "geom:latitude":57.966928,
     "geom:longitude":12.676137,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":1412,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.968897,
     "lbl:longitude":12.666574,
     "lbl:max_zoom":16.0,
@@ -151,14 +160,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132435,
-        "qs_pg:id":758141
+        "qs_pg:id":758141,
+        "se-lant:code":"107138"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497052310,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"0b3cfa14d0653828cbde5af0f8ef4b4e",
+    "wof:geomhash":"c64704895d024fe5af18f96d56c0ff0c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -169,7 +180,7 @@
         }
     ],
     "wof:id":1125421391,
-    "wof:lastmodified":1582340815,
+    "wof:lastmodified":1695879497,
     "wof:name":"Hol",
     "wof:parent_id":1159303255,
     "wof:placetype":"localadmin",

@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007344,
-    "geom:area_square_m":46016172.258117,
+    "geom:area_square_m":46016172.258118,
     "geom:bbox":"17.071162051,59.5162388361,17.2122213428,59.5937461323",
     "geom:latitude":59.55566,
     "geom:longitude":17.140197,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.553422,
     "lbl:longitude":17.141512,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"215051"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734263,
-    "wof:geomhash":"4dd799f041f25f02f24e5a078515966c",
+    "wof:geomhash":"376adfbc8fd384664fd4707464eccb36",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307263,
-    "wof:lastmodified":1566643362,
+    "wof:lastmodified":1695879430,
     "wof:name":"Vallby",
     "wof:parent_id":1159303337,
     "wof:placetype":"localadmin",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010549,
-    "geom:area_square_m":67871521.774412,
+    "geom:area_square_m":67871521.774416,
     "geom:bbox":"14.0301345724,58.6072914151,14.2507040231,58.6948002105",
     "geom:latitude":58.645967,
     "geom:longitude":14.137977,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":2361,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.645446,
     "lbl:longitude":14.119561,
     "lbl:max_zoom":15.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8133258,
-        "qs_pg:id":758585
+        "qs_pg:id":758585,
+        "se-lant:code":"107438"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497042807,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"2fa44104c22c9b76e69dd5c9135a6724",
+    "wof:geomhash":"cc6d17dcc32dd4019fea10574f1569c0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125288363,
-    "wof:lastmodified":1582340795,
+    "wof:lastmodified":1695879484,
     "wof:name":"Fagre",
     "wof:parent_id":1159303045,
     "wof:placetype":"localadmin",

@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002454,
-    "geom:area_square_m":16260842.67169,
+    "geom:area_square_m":16260842.671691,
     "geom:bbox":"18.4870719905,57.5701768335,18.581618013,57.6235382285",
     "geom:latitude":57.594397,
     "geom:longitude":18.525436,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.599113,
     "lbl:longitude":18.52608,
     "lbl:max_zoom":18.0,
@@ -54,9 +63,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"106065"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734110,
-    "wof:geomhash":"291a664a93c9249f4d606744723626b7",
+    "wof:geomhash":"6e43092db68c7ecdb25650ee590164e9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,7 +80,7 @@
         }
     ],
     "wof:id":1159306683,
-    "wof:lastmodified":1566643226,
+    "wof:lastmodified":1695879405,
     "wof:name":"Ekeby",
     "wof:parent_id":1159303535,
     "wof:placetype":"localadmin",

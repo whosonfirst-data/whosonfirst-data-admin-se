@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006957,
-    "geom:area_square_m":45445540.326322,
+    "geom:area_square_m":45445540.32632,
     "geom:bbox":"12.5433757627,58.0669022209,12.7109752711,58.1453435231",
     "geom:latitude":58.109988,
     "geom:longitude":12.631423,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.118093,
     "lbl:longitude":12.632654,
     "lbl:max_zoom":18.0,
@@ -84,9 +93,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107206"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733930,
-    "wof:geomhash":"ef7d59b01f79c703ca1f315baebbbf07",
+    "wof:geomhash":"0797b61980a43fe79521b03cd0f2baa8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -97,7 +110,7 @@
         }
     ],
     "wof:id":1159306023,
-    "wof:lastmodified":1566643202,
+    "wof:lastmodified":1695879400,
     "wof:name":"Magra",
     "wof:parent_id":1159303193,
     "wof:placetype":"localadmin",

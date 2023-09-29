@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004682,
-    "geom:area_square_m":30263025.358459,
+    "geom:area_square_m":30263025.358456,
     "geom:bbox":"12.7610201231,58.4513797787,12.8791113837,58.518406465",
     "geom:latitude":58.484675,
     "geom:longitude":12.824893,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.484719,
     "lbl:longitude":12.826008,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107366"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734351,
-    "wof:geomhash":"783f2d7fcfefe71a912f87df45bb1e4c",
+    "wof:geomhash":"def91c7dcb17f946a67c457b47a8994c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307591,
-    "wof:lastmodified":1566643296,
+    "wof:lastmodified":1695879416,
     "wof:name":"Tadene",
     "wof:parent_id":1159303281,
     "wof:placetype":"localadmin",

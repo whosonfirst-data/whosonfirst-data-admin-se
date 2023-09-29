@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004798,
-    "geom:area_square_m":31097215.792951,
+    "geom:area_square_m":31097215.792945,
     "geom:bbox":"11.8650386125,58.3511506755,11.9786602224,58.4269947576",
     "geom:latitude":58.385132,
     "geom:longitude":11.926868,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":17436,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.384525,
     "lbl:longitude":11.930747,
     "lbl:max_zoom":15.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132052,
-        "qs_pg:id":109369
+        "qs_pg:id":109369,
+        "se-lant:code":"109059"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497052661,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"01c5b378b5c43ebac62599cfcf9dec3f",
+    "wof:geomhash":"a9cf0bd059997e850a85c20ca1324a63",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125423249,
-    "wof:lastmodified":1582340812,
+    "wof:lastmodified":1695879495,
     "wof:name":"Bave",
     "wof:parent_id":1159303355,
     "wof:placetype":"localadmin",

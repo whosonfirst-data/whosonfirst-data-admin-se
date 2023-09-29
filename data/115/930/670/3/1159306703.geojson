@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013327,
-    "geom:area_square_m":83428594.706948,
+    "geom:area_square_m":83428594.706954,
     "geom:bbox":"12.9278428367,59.5288375099,13.1105556972,59.6595440198",
     "geom:latitude":59.583487,
     "geom:longitude":13.035049,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.566874,
     "lbl:longitude":13.00323,
     "lbl:max_zoom":18.0,
@@ -78,9 +87,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"213049"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734114,
-    "wof:geomhash":"19c2025d0dbc565c635fcf8c1f159eb0",
+    "wof:geomhash":"e1bd9c4152505d8628e4afdef638d659",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +104,7 @@
         }
     ],
     "wof:id":1159306703,
-    "wof:lastmodified":1566643315,
+    "wof:lastmodified":1695879421,
     "wof:name":"Boda",
     "wof:parent_id":1159302947,
     "wof:placetype":"localadmin",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008628,
-    "geom:area_square_m":57048522.620848,
+    "geom:area_square_m":57048522.620854,
     "geom:bbox":"14.3828891582,57.630095966,14.5556542531,57.7309483682",
     "geom:latitude":57.674778,
     "geom:longitude":14.471109,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":2387,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.679628,
     "lbl:longitude":14.476982,
     "lbl:max_zoom":15.0,
@@ -73,14 +82,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131884,
-        "qs_pg:id":757788
+        "qs_pg:id":757788,
+        "se-lant:code":"105237"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497044766,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"762df5261658729f306c20796f7a1b55",
+    "wof:geomhash":"fb308409f4574e81e3d61a0cfdf10ab5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +102,7 @@
         }
     ],
     "wof:id":1125325289,
-    "wof:lastmodified":1582340761,
+    "wof:lastmodified":1695879455,
     "wof:name":"Forserum",
     "wof:parent_id":1159303537,
     "wof:placetype":"localadmin",

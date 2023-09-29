@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.151381,
-    "geom:area_square_m":738120969.430907,
+    "geom:area_square_m":738120969.430857,
     "geom:bbox":"23.2531826494,66.5036738211,23.9953256552,66.9737926291",
     "geom:latitude":66.776046,
     "geom:longitude":23.61072,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":66.808151,
     "lbl:longitude":23.528936,
     "lbl:max_zoom":18.0,
@@ -60,9 +69,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"325021"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734001,
-    "wof:geomhash":"e6c920b0781a86c24c7839de7e2cf74c",
+    "wof:geomhash":"f340017277e698a2bf9fd11f30c04401",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,7 +86,7 @@
         }
     ],
     "wof:id":1159306323,
-    "wof:lastmodified":1566643219,
+    "wof:lastmodified":1695879403,
     "wof:name":"Svanstein",
     "wof:parent_id":1159303405,
     "wof:placetype":"localadmin",

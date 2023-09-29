@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034288,
-    "geom:area_square_m":233417649.338381,
+    "geom:area_square_m":233417649.338397,
     "geom:bbox":"13.3975855385,56.5171228679,13.7708572482,56.6774087963",
     "geom:latitude":56.596185,
     "geom:longitude":13.574838,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":515,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.595735,
     "lbl:longitude":13.556488,
     "lbl:max_zoom":17.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132179,
-        "qs_pg:id":757975
+        "qs_pg:id":757975,
+        "se-lant:code":"105022"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497046611,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"a50bdcd4cf839c4936fe4e72a5794c78",
+    "wof:geomhash":"6e02586fe3715f1f77106bb924636d01",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125358159,
-    "wof:lastmodified":1582340747,
+    "wof:lastmodified":1695879446,
     "wof:name":"Hinneryd",
     "wof:parent_id":1159303521,
     "wof:placetype":"localadmin",

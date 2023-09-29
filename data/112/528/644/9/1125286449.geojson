@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.044012,
-    "geom:area_square_m":281157747.883395,
+    "geom:area_square_m":281157747.88338,
     "geom:bbox":"17.7875227102,58.716836416,18.0953256592,59.0610607803",
     "geom:latitude":58.894799,
     "geom:longitude":17.955035,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":6622,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.783525,
     "lbl:longitude":17.991166,
     "lbl:max_zoom":15.0,
@@ -67,14 +76,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131773,
-        "qs_pg:id":757710
+        "qs_pg:id":757710,
+        "se-lant:code":"212031"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497042722,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"7aba92762e14d79e17fa44e8fa315339",
+    "wof:geomhash":"03b65db17fcb460b5873f43034ca5211",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,7 +96,7 @@
         }
     ],
     "wof:id":1125286449,
-    "wof:lastmodified":1582340783,
+    "wof:lastmodified":1695879475,
     "wof:name":"Osmo",
     "wof:parent_id":1159303285,
     "wof:placetype":"localadmin",

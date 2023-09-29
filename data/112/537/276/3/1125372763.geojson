@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001166,
-    "geom:area_square_m":8022091.439215,
+    "geom:area_square_m":8022091.439214,
     "geom:bbox":"12.5321278763,56.1780827378,12.6002494537,56.2171058039",
     "geom:latitude":56.199829,
     "geom:longitude":12.561301,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":8135,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.20141,
     "lbl:longitude":12.556153,
     "lbl:max_zoom":15.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132214,
-        "qs_pg:id":109405
+        "qs_pg:id":109405,
+        "se-lant:code":"101340"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497047522,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"3b0be4fb3fa65161aba593d69ce87134",
+    "wof:geomhash":"927617bd7aa2b932c40b529caa637843",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125372763,
-    "wof:lastmodified":1582340831,
+    "wof:lastmodified":1695879509,
     "wof:name":"Hoganas",
     "wof:parent_id":1159303057,
     "wof:placetype":"localadmin",

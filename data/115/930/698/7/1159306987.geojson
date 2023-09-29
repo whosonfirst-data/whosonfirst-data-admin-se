@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003035,
-    "geom:area_square_m":21239290.370611,
+    "geom:area_square_m":21239290.370609,
     "geom:bbox":"14.0009123319,55.5073791454,14.0790725984,55.5740364645",
     "geom:latitude":55.536159,
     "geom:longitude":14.042996,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.53366,
     "lbl:longitude":14.040323,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101096"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734195,
-    "wof:geomhash":"2144f58b706147b31cc1a00043abd74b",
+    "wof:geomhash":"a65682ea907449e70e5ead7e766a9c22",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306987,
-    "wof:lastmodified":1566643338,
+    "wof:lastmodified":1695879426,
     "wof:name":"Kverrestad",
     "wof:parent_id":1159302959,
     "wof:placetype":"localadmin",

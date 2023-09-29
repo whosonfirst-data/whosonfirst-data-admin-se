@@ -10,6 +10,15 @@
     "geom:latitude":60.058059,
     "geom:longitude":12.534307,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":60.062838,
     "lbl:longitude":12.534293,
     "lbl:max_zoom":18.0,
@@ -72,9 +81,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"213084"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734092,
-    "wof:geomhash":"b4b28b5738afa91ac3c4fe1744933dc3",
+    "wof:geomhash":"cd6525bb4fde1e4435454ff91c897e8b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,7 +98,7 @@
         }
     ],
     "wof:id":1159306585,
-    "wof:lastmodified":1566643211,
+    "wof:lastmodified":1695879402,
     "wof:name":"Bogen",
     "wof:parent_id":1159303075,
     "wof:placetype":"localadmin",

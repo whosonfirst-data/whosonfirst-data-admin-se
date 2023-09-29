@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0091,
-    "geom:area_square_m":60831836.392992,
+    "geom:area_square_m":60831836.392988,
     "geom:bbox":"14.8515643492,57.2361005949,15.0438215693,57.3199490825",
     "geom:latitude":57.273167,
     "geom:longitude":14.951641,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":245,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.281301,
     "lbl:longitude":14.951649,
     "lbl:max_zoom":17.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132649,
-        "qs_pg:id":381395
+        "qs_pg:id":381395,
+        "se-lant:code":"105158"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497048551,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"2dcdf432e6df5e55d9280b06578a6d29",
+    "wof:geomhash":"85761e6314d357e3e33cc9ca149e08ba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125388425,
-    "wof:lastmodified":1582340845,
+    "wof:lastmodified":1695879518,
     "wof:name":"Backaby",
     "wof:parent_id":1159303157,
     "wof:placetype":"localadmin",

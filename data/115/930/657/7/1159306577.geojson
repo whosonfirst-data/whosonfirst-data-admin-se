@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003025,
-    "geom:area_square_m":20588865.767532,
+    "geom:area_square_m":20588865.767534,
     "geom:bbox":"12.8649992501,56.5837258085,12.97048638,56.6365579252",
     "geom:latitude":56.609444,
     "geom:longitude":12.919183,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.607331,
     "lbl:longitude":12.919978,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"104011"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734084,
-    "wof:geomhash":"ce4ea3c5c37a72eb5db43a6c6bc651c2",
+    "wof:geomhash":"3982d163a751700f8cdb90f69b3f6815",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306577,
-    "wof:lastmodified":1566643226,
+    "wof:lastmodified":1695879405,
     "wof:name":"Tronninge",
     "wof:parent_id":1159303343,
     "wof:placetype":"localadmin",

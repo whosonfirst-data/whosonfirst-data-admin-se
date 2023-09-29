@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013216,
-    "geom:area_square_m":87523904.964403,
+    "geom:area_square_m":87523904.964402,
     "geom:bbox":"13.6642415581,57.5552343963,13.88099646,57.6784300382",
     "geom:latitude":57.615465,
     "geom:longitude":13.752859,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.604467,
     "lbl:longitude":13.727568,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"105216"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734137,
-    "wof:geomhash":"fe7cebe4e99d02a952b74ab21c837a6b",
+    "wof:geomhash":"9dea2aa70a0d8ea44895f6f41f6f4e27",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306797,
-    "wof:lastmodified":1566643314,
+    "wof:lastmodified":1695879421,
     "wof:name":"Norra Unnaryd",
     "wof:parent_id":1159303375,
     "wof:placetype":"localadmin",

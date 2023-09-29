@@ -124,8 +124,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_1443",
-        "eurostat:nuts_2021_id":"1443"
+        "eurostat:nuts_2021_id":"1443",
+        "se-lant:code":"1443"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525379480,
     "wof:geomhash":"c5568d7acc44641990a233e1136edbfe",
@@ -138,7 +140,7 @@
         }
     ],
     "wof:id":1159303339,
-    "wof:lastmodified":1684354754,
+    "wof:lastmodified":1695886757,
     "wof:name":"Bollebygd",
     "wof:parent_id":85688411,
     "wof:placetype":"county",

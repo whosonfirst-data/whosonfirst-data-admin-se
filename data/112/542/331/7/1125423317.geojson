@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.04427,
-    "geom:area_square_m":248679542.851462,
+    "geom:area_square_m":248679542.851458,
     "geom:bbox":"17.2105796452,62.9118920545,17.8017347834,63.0501599912",
     "geom:latitude":62.981438,
     "geom:longitude":17.500195,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":3499,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":62.967625,
     "lbl:longitude":17.504826,
     "lbl:max_zoom":15.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8133040,
-        "qs_pg:id":109553
+        "qs_pg:id":109553,
+        "se-lant:code":"321011"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497052671,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"809d08333fc73c7910ce6401c6045507",
+    "wof:geomhash":"cd3a620e85422a2bc196b9e818f47e2d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125423317,
-    "wof:lastmodified":1582340810,
+    "wof:lastmodified":1695879493,
     "wof:name":"Ytterlannas",
     "wof:parent_id":1159303301,
     "wof:placetype":"localadmin",

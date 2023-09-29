@@ -10,6 +10,15 @@
     "geom:latitude":58.215209,
     "geom:longitude":13.519921,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.215804,
     "lbl:longitude":13.519432,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107261"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733915,
-    "wof:geomhash":"23f7526711179fa21ffacb3d79a0b68e",
+    "wof:geomhash":"0a2d286ec4bf0e1bfe64884ae6a4ea92",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159305959,
-    "wof:lastmodified":1566643158,
+    "wof:lastmodified":1695879392,
     "wof:name":"Ostra Tunhem",
     "wof:parent_id":1159303137,
     "wof:placetype":"localadmin",

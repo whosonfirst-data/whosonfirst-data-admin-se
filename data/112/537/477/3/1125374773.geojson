@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0164,
-    "geom:area_square_m":104523269.28704,
+    "geom:area_square_m":104523269.287044,
     "geom:bbox":"12.5258381289,58.8984909002,12.7184145447,59.0467178519",
     "geom:latitude":58.973987,
     "geom:longitude":12.620308,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":859,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.969755,
     "lbl:longitude":12.620297,
     "lbl:max_zoom":17.0,
@@ -61,14 +70,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132243,
-        "qs_pg:id":757999
+        "qs_pg:id":757999,
+        "se-lant:code":"110033"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497047653,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"1a369cb16b77e2709588051b9cac4726",
+    "wof:geomhash":"f8995f1d7bc9dbe22a2529b1f1c53578",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +90,7 @@
         }
     ],
     "wof:id":1125374773,
-    "wof:lastmodified":1582340823,
+    "wof:lastmodified":1695879503,
     "wof:name":"Tosse-Tydje",
     "wof:parent_id":1159303547,
     "wof:placetype":"localadmin",

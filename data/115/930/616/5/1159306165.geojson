@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002437,
-    "geom:area_square_m":17069649.082085,
+    "geom:area_square_m":17069649.082087,
     "geom:bbox":"14.2765521795,55.4738279847,14.3552722467,55.5274682124",
     "geom:latitude":55.500377,
     "geom:longitude":14.312006,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.500065,
     "lbl:longitude":14.312625,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101106"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733963,
-    "wof:geomhash":"862e48e7c2da2da5c3f5ce1d348abed5",
+    "wof:geomhash":"913bb948583d3cf4c60512e84ea159e2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306165,
-    "wof:lastmodified":1566643198,
+    "wof:lastmodified":1695879400,
     "wof:name":"Ostra Nobbelov",
     "wof:parent_id":1159302931,
     "wof:placetype":"localadmin",

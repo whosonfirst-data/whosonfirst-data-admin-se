@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012367,
-    "geom:area_square_m":80907286.713086,
+    "geom:area_square_m":80907286.713087,
     "geom:bbox":"12.2376626081,58.0039428938,12.4345709013,58.1180548293",
     "geom:latitude":58.057456,
     "geom:longitude":12.351554,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.046557,
     "lbl:longitude":12.344892,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107167"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733873,
-    "wof:geomhash":"42100d577ebf65e7a63b01f532aea28c",
+    "wof:geomhash":"06091cff58263961a1c9208fa8328918",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159305799,
-    "wof:lastmodified":1566643370,
+    "wof:lastmodified":1695879431,
     "wof:name":"Halanda",
     "wof:parent_id":1159303087,
     "wof:placetype":"localadmin",

@@ -73,8 +73,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_0512",
-        "eurostat:nuts_2021_id":"0512"
+        "eurostat:nuts_2021_id":"0512",
+        "se-lant:code":"0512"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525379483,
     "wof:geomhash":"0c5f9f0eeb9d59a4d20a5226a01d1f9d",
@@ -87,7 +89,7 @@
         }
     ],
     "wof:id":1159303361,
-    "wof:lastmodified":1684354755,
+    "wof:lastmodified":1695886757,
     "wof:name":"Ydre",
     "wof:parent_id":85688409,
     "wof:placetype":"county",

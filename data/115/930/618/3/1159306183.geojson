@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007993,
-    "geom:area_square_m":49927167.943304,
+    "geom:area_square_m":49927167.943303,
     "geom:bbox":"16.2636564804,59.6090621841,16.4081514904,59.7033623221",
     "geom:latitude":59.660212,
     "geom:longitude":16.339159,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.659972,
     "lbl:longitude":16.344106,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"214037"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733968,
-    "wof:geomhash":"c572b99f0ad48dcd501288d7451936c9",
+    "wof:geomhash":"6b581a7d96bd9c08c7ba264ccfd09fad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306183,
-    "wof:lastmodified":1566643193,
+    "wof:lastmodified":1695879398,
     "wof:name":"Lillharad",
     "wof:parent_id":1159303331,
     "wof:placetype":"localadmin",

@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003606,
-    "geom:area_square_m":23548315.403185,
+    "geom:area_square_m":23548315.40319,
     "geom:bbox":"12.7299218075,58.0962319919,12.8349462285,58.1557002222",
     "geom:latitude":58.122872,
     "geom:longitude":12.773626,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.125458,
     "lbl:longitude":12.760496,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107207"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733961,
-    "wof:geomhash":"ef412ba62401c721900b7cfaaa067d77",
+    "wof:geomhash":"8d236d7dcb94c9ef77d7cf60d8a76120",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306153,
-    "wof:lastmodified":1566643311,
+    "wof:lastmodified":1695879420,
     "wof:name":"Faglum",
     "wof:parent_id":1159303499,
     "wof:placetype":"localadmin",

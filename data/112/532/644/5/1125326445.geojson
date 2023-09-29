@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004974,
-    "geom:area_square_m":32551582.468086,
+    "geom:area_square_m":32551582.468081,
     "geom:bbox":"13.6594779082,57.9937972042,13.7900663235,58.075666949",
     "geom:latitude":58.042731,
     "geom:longitude":13.732199,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":896,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.047198,
     "lbl:longitude":13.733141,
     "lbl:max_zoom":17.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131681,
-        "qs_pg:id":757650
+        "qs_pg:id":757650,
+        "se-lant:code":"107191"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497044843,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"b55e0ee69172404185fd34dfb55e67b2",
+    "wof:geomhash":"5f7f27387f979a28e93f60513a77ef1a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125326445,
-    "wof:lastmodified":1582340757,
+    "wof:lastmodified":1695879453,
     "wof:name":"Yllestad",
     "wof:parent_id":1159303137,
     "wof:placetype":"localadmin",

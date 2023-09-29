@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":195,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.378128,
     "lbl:longitude":15.20341,
     "lbl:max_zoom":18.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8133342,
-        "qs_pg:id":758633
+        "qs_pg:id":758633,
+        "se-lant:code":"108073"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497046515,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"7fafd17a5f85c56ef425e95496a14f2f",
+    "wof:geomhash":"095f8bba13885a668ac7d41e76718400",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125356681,
-    "wof:lastmodified":1582340744,
+    "wof:lastmodified":1695879443,
     "wof:name":"Herrberga",
     "wof:parent_id":1159302925,
     "wof:placetype":"localadmin",

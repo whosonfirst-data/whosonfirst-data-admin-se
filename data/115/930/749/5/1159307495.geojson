@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012609,
-    "geom:area_square_m":79973114.895426,
+    "geom:area_square_m":79973114.895427,
     "geom:bbox":"16.5428863077,59.074604262,16.783227864,59.2143946344",
     "geom:latitude":59.140528,
     "geom:longitude":16.679269,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.118399,
     "lbl:longitude":16.72923,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"212052"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734326,
-    "wof:geomhash":"714202443e4c52c9c951de8ebe24adeb",
+    "wof:geomhash":"e8fbdb4ad305b4fef131a27f38bc503b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307495,
-    "wof:lastmodified":1566643245,
+    "wof:lastmodified":1695879408,
     "wof:name":"Lilla Malma",
     "wof:parent_id":1159302997,
     "wof:placetype":"localadmin",

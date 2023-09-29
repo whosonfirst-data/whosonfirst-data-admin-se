@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002574,
-    "geom:area_square_m":16956994.906499,
+    "geom:area_square_m":16956994.9065,
     "geom:bbox":"12.0138871183,57.7876393096,12.1049853433,57.8409950375",
     "geom:latitude":57.811372,
     "geom:longitude":12.057862,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":22722,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.81582,
     "lbl:longitude":12.066166,
     "lbl:max_zoom":14.0,
@@ -61,14 +70,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132083,
-        "qs_pg:id":757931
+        "qs_pg:id":757931,
+        "se-lant:code":"107112"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497042756,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"c4080494cd73dfe4f93dfabda5e7582f",
+    "wof:geomhash":"48112d740bcbb1885895ddc82b6caa85",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +90,7 @@
         }
     ],
     "wof:id":1125287179,
-    "wof:lastmodified":1582340797,
+    "wof:lastmodified":1695879485,
     "wof:name":"Gunnared",
     "wof:parent_id":1159302989,
     "wof:placetype":"localadmin",

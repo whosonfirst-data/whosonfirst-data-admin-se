@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007615,
-    "geom:area_square_m":48884065.278632,
+    "geom:area_square_m":48884065.278618,
     "geom:bbox":"16.758672215,58.6815363376,16.9000326799,58.7773131113",
     "geom:latitude":58.725319,
     "geom:longitude":16.838525,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.727734,
     "lbl:longitude":16.837455,
     "lbl:max_zoom":18.0,
@@ -114,9 +123,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"212005"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734036,
-    "wof:geomhash":"ac7e0c24e2e822224dac7c41604e7dae",
+    "wof:geomhash":"2cb6befa8006b5a295bbdf61acf8b6c1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -127,7 +140,7 @@
         }
     ],
     "wof:id":1159306409,
-    "wof:lastmodified":1566643307,
+    "wof:lastmodified":1695879419,
     "wof:name":"Tuna",
     "wof:parent_id":1159303471,
     "wof:placetype":"localadmin",

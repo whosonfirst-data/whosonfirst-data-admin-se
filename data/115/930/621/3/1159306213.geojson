@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006522,
-    "geom:area_square_m":45321922.892737,
+    "geom:area_square_m":45321922.892751,
     "geom:bbox":"13.6543102063,55.7758155097,13.8581450285,55.8392236681",
     "geom:latitude":55.806472,
     "geom:longitude":13.76766,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.806254,
     "lbl:longitude":13.794724,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101214"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733974,
-    "wof:geomhash":"a914b94489d2cbf6d624668127c683fb",
+    "wof:geomhash":"8beb8c52350055cbf622b681a22a3592",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306213,
-    "wof:lastmodified":1566643184,
+    "wof:lastmodified":1695879397,
     "wof:name":"Ostra Sallerup",
     "wof:parent_id":1159303277,
     "wof:placetype":"localadmin",

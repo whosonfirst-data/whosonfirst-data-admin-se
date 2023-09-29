@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005375,
-    "geom:area_square_m":36686934.431339,
+    "geom:area_square_m":36686934.43134,
     "geom:bbox":"12.9933789848,56.4685699749,13.2642139843,56.5234148745",
     "geom:latitude":56.495137,
     "geom:longitude":13.138455,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.494214,
     "lbl:longitude":13.138273,
     "lbl:max_zoom":18.0,
@@ -57,9 +66,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"104008"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733968,
-    "wof:geomhash":"8df7789395bffb11afcbebb4adaf7cb9",
+    "wof:geomhash":"88a1ed57b066eb6c1fd44ed4111e432b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +83,7 @@
         }
     ],
     "wof:id":1159306185,
-    "wof:lastmodified":1566643193,
+    "wof:lastmodified":1695879398,
     "wof:name":"Ysby",
     "wof:parent_id":1159303423,
     "wof:placetype":"localadmin",

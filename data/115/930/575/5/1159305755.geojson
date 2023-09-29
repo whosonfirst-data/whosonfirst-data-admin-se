@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002957,
-    "geom:area_square_m":20383597.957743,
+    "geom:area_square_m":20383597.957741,
     "geom:bbox":"15.5021997005,56.0852475843,15.585567874,56.1411309965",
     "geom:latitude":56.113981,
     "geom:longitude":15.540204,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.111319,
     "lbl:longitude":15.539412,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"102005"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733860,
-    "wof:geomhash":"b8d6511ed1d5646608c5c84927c107fe",
+    "wof:geomhash":"57a97373f106da805f1d270def752060",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159305755,
-    "wof:lastmodified":1566643241,
+    "wof:lastmodified":1695879407,
     "wof:name":"Aspo",
     "wof:parent_id":1159303467,
     "wof:placetype":"localadmin",

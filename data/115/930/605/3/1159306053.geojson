@@ -10,6 +10,15 @@
     "geom:latitude":55.937719,
     "geom:longitude":14.022267,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.939294,
     "lbl:longitude":14.018658,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101249"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733936,
-    "wof:geomhash":"9074e97da3bdfe7c65de5b4ed7850800",
+    "wof:geomhash":"03dcbb51ea734d38579e19caa58b7596",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306053,
-    "wof:lastmodified":1566643203,
+    "wof:lastmodified":1695879401,
     "wof:name":"Ostra Vram",
     "wof:parent_id":1159303497,
     "wof:placetype":"localadmin",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013354,
-    "geom:area_square_m":84956450.89772,
+    "geom:area_square_m":84956450.897712,
     "geom:bbox":"16.2596593208,58.9953940125,16.570342569,59.0897040434",
     "geom:latitude":59.035233,
     "geom:longitude":16.447037,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":2967,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.04582,
     "lbl:longitude":16.45768,
     "lbl:max_zoom":15.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132885,
-        "qs_pg:id":904426
+        "qs_pg:id":904426,
+        "se-lant:code":"212036"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497046693,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"2b2425ef92c346d69d9dfa137e515f43",
+    "wof:geomhash":"1f3b995b68cea0ca7dd33a856660de66",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125359597,
-    "wof:lastmodified":1582340744,
+    "wof:lastmodified":1695879444,
     "wof:name":"Skoldinge",
     "wof:parent_id":1159303103,
     "wof:placetype":"localadmin",

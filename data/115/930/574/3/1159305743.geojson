@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010308,
-    "geom:area_square_m":67248428.778659,
+    "geom:area_square_m":67248428.778664,
     "geom:bbox":"12.3633541836,58.0951495702,12.5449461624,58.2010231174",
     "geom:latitude":58.155507,
     "geom:longitude":12.444082,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.156682,
     "lbl:longitude":12.429013,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107204"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733856,
-    "wof:geomhash":"7bd1c1af06c3e450dadbcc48b2fd956b",
+    "wof:geomhash":"c26de8a53072319b9ccaf32051e205ff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159305743,
-    "wof:lastmodified":1566643260,
+    "wof:lastmodified":1695879410,
     "wof:name":"Lagmansered",
     "wof:parent_id":1159303541,
     "wof:placetype":"localadmin",

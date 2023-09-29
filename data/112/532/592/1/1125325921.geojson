@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003222,
-    "geom:area_square_m":20087355.518082,
+    "geom:area_square_m":20087355.518084,
     "geom:bbox":"17.2939829143,59.6888411406,17.4039041061,59.7375169361",
     "geom:latitude":59.717355,
     "geom:longitude":17.350727,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":164,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.721226,
     "lbl:longitude":17.351801,
     "lbl:max_zoom":18.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132922,
-        "qs_pg:id":758437
+        "qs_pg:id":758437,
+        "se-lant:code":"215103"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497044813,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"29ac412bfffae81f4a287951d75333aa",
+    "wof:geomhash":"87ecdc67885db2ee31910888afb04b8c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125325921,
-    "wof:lastmodified":1582340756,
+    "wof:lastmodified":1695879452,
     "wof:name":"Giresta",
     "wof:parent_id":1159303337,
     "wof:placetype":"localadmin",

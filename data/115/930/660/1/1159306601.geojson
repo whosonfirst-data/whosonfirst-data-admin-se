@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015608,
-    "geom:area_square_m":99375875.350948,
+    "geom:area_square_m":99375875.350942,
     "geom:bbox":"17.4330886347,58.93498587,17.6478335108,59.0601162661",
     "geom:latitude":59.009531,
     "geom:longitude":17.55096,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.020164,
     "lbl:longitude":17.54201,
     "lbl:max_zoom":18.0,
@@ -51,9 +60,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"212044"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734095,
-    "wof:geomhash":"96eeb5ce6e8d117e3cfbdf00a40aa06f",
+    "wof:geomhash":"8957a6e8d20f85e50027f6f7459a32ed",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -64,7 +77,7 @@
         }
     ],
     "wof:id":1159306601,
-    "wof:lastmodified":1566643209,
+    "wof:lastmodified":1695879401,
     "wof:name":"Holo",
     "wof:parent_id":1159303135,
     "wof:placetype":"localadmin",

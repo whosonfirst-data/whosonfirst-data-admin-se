@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002173,
-    "geom:area_square_m":14052890.668335,
+    "geom:area_square_m":14052890.668338,
     "geom:bbox":"14.7673493669,58.4455992212,14.8645169153,58.4802586071",
     "geom:latitude":58.461305,
     "geom:longitude":14.815541,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.462351,
     "lbl:longitude":14.816464,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"108100"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734160,
-    "wof:geomhash":"8344661b182dee34556e016afa0f2674",
+    "wof:geomhash":"f40a09630fbfe984155db46d7155459a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306871,
-    "wof:lastmodified":1566643192,
+    "wof:lastmodified":1695879398,
     "wof:name":"Nassja",
     "wof:parent_id":1159303411,
     "wof:placetype":"localadmin",

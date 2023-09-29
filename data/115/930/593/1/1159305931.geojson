@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007638,
-    "geom:area_square_m":50882723.033679,
+    "geom:area_square_m":50882723.033676,
     "geom:bbox":"18.7272978213,57.3621744533,18.9026279625,57.4500024745",
     "geom:latitude":57.402246,
     "geom:longitude":18.803574,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.397929,
     "lbl:longitude":18.797587,
     "lbl:max_zoom":18.0,
@@ -45,9 +54,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"106038"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733909,
-    "wof:geomhash":"4a47d5cdfc4e075ed18ac0ba22835c66",
+    "wof:geomhash":"93b4d7defa572f6dee5d968c3fa6bca9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +71,7 @@
         }
     ],
     "wof:id":1159305931,
-    "wof:lastmodified":1566643143,
+    "wof:lastmodified":1695879389,
     "wof:name":"Gammelgarn",
     "wof:parent_id":1159303535,
     "wof:placetype":"localadmin",

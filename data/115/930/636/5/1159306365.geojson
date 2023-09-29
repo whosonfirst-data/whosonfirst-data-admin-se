@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016342,
-    "geom:area_square_m":107681288.896191,
+    "geom:area_square_m":107681288.896184,
     "geom:bbox":"12.5343837928,57.7399077489,12.7638225045,57.8653586152",
     "geom:latitude":57.798365,
     "geom:longitude":12.656153,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.796972,
     "lbl:longitude":12.654433,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107101"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734020,
-    "wof:geomhash":"835dd0bb50bdf1716dfb5b2438d8d3a7",
+    "wof:geomhash":"e5fb0fd8f2f32df05215dbcb07a9e3d1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306365,
-    "wof:lastmodified":1566643349,
+    "wof:lastmodified":1695879428,
     "wof:name":"Tollsjo",
     "wof:parent_id":1159303339,
     "wof:placetype":"localadmin",

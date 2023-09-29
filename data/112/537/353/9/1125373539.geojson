@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":440,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.275755,
     "lbl:longitude":14.698066,
     "lbl:max_zoom":17.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132648,
-        "qs_pg:id":109469
+        "qs_pg:id":109469,
+        "se-lant:code":"105156"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497047574,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"1b9068eff71db40211709eec5fdeca44",
+    "wof:geomhash":"ddc52531c49ffd47a1688873ab2e5f4d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125373539,
-    "wof:lastmodified":1582340821,
+    "wof:lastmodified":1695879501,
     "wof:name":"Hultsjo",
     "wof:parent_id":1159303069,
     "wof:placetype":"localadmin",

@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003095,
-    "geom:area_square_m":19943071.000362,
+    "geom:area_square_m":19943071.00037,
     "geom:bbox":"13.4382150536,58.56384136,13.557256293,58.6204712102",
     "geom:latitude":58.589563,
     "geom:longitude":13.484637,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.581792,
     "lbl:longitude":13.493627,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107412"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734111,
-    "wof:geomhash":"a1c0f5123399b5f6a68177e82a8315fd",
+    "wof:geomhash":"9076a3e3ef6c43d3dd03791213271165",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306687,
-    "wof:lastmodified":1566643225,
+    "wof:lastmodified":1695879404,
     "wof:name":"Fullosa",
     "wof:parent_id":1159302923,
     "wof:placetype":"localadmin",

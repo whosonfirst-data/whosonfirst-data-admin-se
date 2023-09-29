@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005695,
-    "geom:area_square_m":36869321.702546,
+    "geom:area_square_m":36869321.702544,
     "geom:bbox":"13.4080572675,58.3881403374,13.5605004125,58.4593588257",
     "geom:latitude":58.428101,
     "geom:longitude":13.495462,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.429976,
     "lbl:longitude":13.509264,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107350"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733881,
-    "wof:geomhash":"f34a51db0ea33c2efdd8bc73e3b41d04",
+    "wof:geomhash":"fae1aadb7dc823c9dd23b86418ff8c16",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159305835,
-    "wof:lastmodified":1566643379,
+    "wof:lastmodified":1695879432,
     "wof:name":"Skanings-asaka",
     "wof:parent_id":1159303479,
     "wof:placetype":"localadmin",

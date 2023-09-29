@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001782,
-    "geom:area_square_m":11568301.594171,
+    "geom:area_square_m":11568301.594173,
     "geom:bbox":"12.9987105357,58.3054393627,13.0983721855,58.3494413261",
     "geom:latitude":58.327533,
     "geom:longitude":13.038425,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.326264,
     "lbl:longitude":13.033506,
     "lbl:max_zoom":18.0,
@@ -57,9 +66,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107301"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734052,
-    "wof:geomhash":"ac0e499f4182e2494ddc4b07e1e1c663",
+    "wof:geomhash":"fc0cb0ac8b42693d96bd6d4e5414bb68",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +83,7 @@
         }
     ],
     "wof:id":1159306469,
-    "wof:lastmodified":1566643313,
+    "wof:lastmodified":1695879420,
     "wof:name":"Hallum",
     "wof:parent_id":1159303487,
     "wof:placetype":"localadmin",

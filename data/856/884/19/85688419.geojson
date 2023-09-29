@@ -425,12 +425,18 @@
         "gn:id":2676207,
         "gp:id":2347061,
         "hasc:id":"SE.SD",
+        "iso:code":"SE-D",
         "iso:id":"SE-D",
+        "se-lant:code":"04",
         "unlc:id":"SE-D",
         "wd:id":"Q106915"
     },
+    "wof:concordances_official":"se-lant:code",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"SE",
-    "wof:geomhash":"eea7c3cdc0d1db6e235d6a8f3af2b116",
+    "wof:geomhash":"75574548ee06ece5ef34fa012abcbf57",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -446,7 +452,7 @@
         "swe",
         "fin"
     ],
-    "wof:lastmodified":1690862990,
+    "wof:lastmodified":1695885316,
     "wof:name":"Sodermanland",
     "wof:parent_id":85633789,
     "wof:placetype":"region",

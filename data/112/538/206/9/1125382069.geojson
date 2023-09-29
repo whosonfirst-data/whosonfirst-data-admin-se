@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004375,
-    "geom:area_square_m":28349710.43575,
+    "geom:area_square_m":28349710.435746,
     "geom:bbox":"13.6264360425,58.3701035949,13.7662239282,58.4282542368",
     "geom:latitude":58.396814,
     "geom:longitude":13.697845,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":1455,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.397157,
     "lbl:longitude":13.714213,
     "lbl:max_zoom":16.0,
@@ -85,14 +94,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132350,
-        "qs_pg:id":381366
+        "qs_pg:id":381366,
+        "se-lant:code":"107352"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497048107,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"527f71452fad48e70674ef668b3eb9fe",
+    "wof:geomhash":"06f59d65202ce8481e81e4a93a8279b4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -103,7 +114,7 @@
         }
     ],
     "wof:id":1125382069,
-    "wof:lastmodified":1582340854,
+    "wof:lastmodified":1695879525,
     "wof:name":"Varnhem",
     "wof:parent_id":1159303479,
     "wof:placetype":"localadmin",

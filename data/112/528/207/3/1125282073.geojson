@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.03108,
-    "geom:area_square_m":213512002.876112,
+    "geom:area_square_m":213512002.876115,
     "geom:bbox":"15.1352863483,56.1308552612,15.3576432116,56.4050752768",
     "geom:latitude":56.250387,
     "geom:longitude":15.251333,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":21336,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.264711,
     "lbl:longitude":15.262341,
     "lbl:max_zoom":14.0,
@@ -145,14 +154,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131782,
-        "qs_pg:id":381308
+        "qs_pg:id":381308,
+        "se-lant:code":"102022"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497042540,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"72cc14e12bbf5af5643f7a011c3617b4",
+    "wof:geomhash":"54c2ace72a4429605131a01ef7974626",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -163,7 +174,7 @@
         }
     ],
     "wof:id":1125282073,
-    "wof:lastmodified":1582340795,
+    "wof:lastmodified":1695879483,
     "wof:name":"Ronneby",
     "wof:parent_id":1159303551,
     "wof:placetype":"localadmin",

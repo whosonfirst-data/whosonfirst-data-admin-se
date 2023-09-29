@@ -10,6 +10,15 @@
     "geom:latitude":57.565213,
     "geom:longitude":18.312418,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.567154,
     "lbl:longitude":18.311816,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"106058"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733920,
-    "wof:geomhash":"c2c24bec42c8db1e0e2de9b9b3741bcb",
+    "wof:geomhash":"a83cf8c8248addc469681a1591c9ecfd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159305981,
-    "wof:lastmodified":1566643295,
+    "wof:lastmodified":1695879416,
     "wof:name":"Trakumla",
     "wof:parent_id":1159303535,
     "wof:placetype":"localadmin",

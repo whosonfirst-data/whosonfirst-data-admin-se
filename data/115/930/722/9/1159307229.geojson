@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000448,
-    "geom:area_square_m":2747108.489491,
+    "geom:area_square_m":2747108.489489,
     "geom:bbox":"18.3604293161,60.2455747387,18.3999594132,60.2676602969",
     "geom:latitude":60.257078,
     "geom:longitude":18.381636,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":60.257977,
     "lbl:longitude":18.383287,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"215196"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734255,
-    "wof:geomhash":"a8251bcf556b6cfd90b5117810dadd4c",
+    "wof:geomhash":"b2db99f254390642dd0770961dcb7eda",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307229,
-    "wof:lastmodified":1566643229,
+    "wof:lastmodified":1695879405,
     "wof:name":"Osthammar",
     "wof:parent_id":1159303415,
     "wof:placetype":"localadmin",

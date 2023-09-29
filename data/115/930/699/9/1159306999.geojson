@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007303,
-    "geom:area_square_m":47674029.094518,
+    "geom:area_square_m":47674029.094521,
     "geom:bbox":"12.9127505818,58.1091135759,13.1149190071,58.1624829102",
     "geom:latitude":58.134932,
     "geom:longitude":13.007894,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.136875,
     "lbl:longitude":12.989702,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107215"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734199,
-    "wof:geomhash":"e2a4ee4fbfcda7dc4bedf696d63d1159",
+    "wof:geomhash":"7ccf2e92764ee5c029b7873f5bf19e21",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306999,
-    "wof:lastmodified":1566643321,
+    "wof:lastmodified":1695879422,
     "wof:name":"Bitterna",
     "wof:parent_id":1159303487,
     "wof:placetype":"localadmin",

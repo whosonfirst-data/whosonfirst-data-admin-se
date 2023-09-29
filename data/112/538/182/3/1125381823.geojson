@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003269,
-    "geom:area_square_m":20558170.93483,
+    "geom:area_square_m":20558170.934832,
     "geom:bbox":"17.7569192987,59.4108325667,17.895555901,59.4542687667",
     "geom:latitude":59.433373,
     "geom:longitude":17.827992,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":24995,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.431792,
     "lbl:longitude":17.83269,
     "lbl:max_zoom":14.0,
@@ -88,14 +97,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131686,
-        "qs_pg:id":381298
+        "qs_pg:id":381298,
+        "se-lant:code":"215042"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497048091,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"78fdc966b39769a545ea889e8dfc4e9c",
+    "wof:geomhash":"e967630a274be4e724a391857abf2f71",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -106,7 +117,7 @@
         }
     ],
     "wof:id":1125381823,
-    "wof:lastmodified":1582340855,
+    "wof:lastmodified":1695879526,
     "wof:name":"Jakobsberg",
     "wof:parent_id":1159303475,
     "wof:placetype":"localadmin",

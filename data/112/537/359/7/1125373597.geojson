@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.218304,
-    "geom:area_square_m":1059951213.209893,
+    "geom:area_square_m":1059951213.209868,
     "geom:bbox":"20.9458807644,66.6692708052,22.1649839319,67.0470209727",
     "geom:latitude":66.879502,
     "geom:longitude":21.593288,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":774,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":66.852793,
     "lbl:longitude":21.745333,
     "lbl:max_zoom":17.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132797,
-        "qs_pg:id":109501
+        "qs_pg:id":109501,
+        "se-lant:code":"324018"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497047577,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"0f0828778d168f9d1633859e801a51e9",
+    "wof:geomhash":"2c6cef42d414c51614f2391ecd882425",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125373597,
-    "wof:lastmodified":1582340828,
+    "wof:lastmodified":1695879507,
     "wof:name":"Hakkas",
     "wof:parent_id":1159303507,
     "wof:placetype":"localadmin",

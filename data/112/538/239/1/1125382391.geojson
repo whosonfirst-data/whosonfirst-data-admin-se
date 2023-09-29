@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.056402,
-    "geom:area_square_m":362221529.313438,
+    "geom:area_square_m":362221529.313408,
     "geom:bbox":"11.0980333552,58.6008315505,11.5048823368,58.818334702",
     "geom:latitude":58.710434,
     "geom:longitude":11.276352,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":5455,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.691757,
     "lbl:longitude":11.252122,
     "lbl:max_zoom":15.0,
@@ -73,14 +82,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8133368,
-        "qs_pg:id":381475
+        "qs_pg:id":381475,
+        "se-lant:code":"109074"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497048124,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"0fc6167612f2a4d057357e4ae94760a3",
+    "wof:geomhash":"e1a560cf03f123b72d1315bfbd40b721",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +102,7 @@
         }
     ],
     "wof:id":1125382391,
-    "wof:lastmodified":1582340853,
+    "wof:lastmodified":1695879524,
     "wof:name":"Tanum",
     "wof:parent_id":1159303369,
     "wof:placetype":"localadmin",

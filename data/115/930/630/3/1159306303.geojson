@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006026,
-    "geom:area_square_m":41927019.115394,
+    "geom:area_square_m":41927019.11539,
     "geom:bbox":"13.5638097608,55.7217604092,13.8034334644,55.791164212",
     "geom:latitude":55.755454,
     "geom:longitude":13.69244,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.762537,
     "lbl:longitude":13.732327,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101179"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733995,
-    "wof:geomhash":"1d192ae1d7bba872f6180a69c8a1db3a",
+    "wof:geomhash":"7416230989e2f81b993129bed3a661ab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306303,
-    "wof:lastmodified":1566643330,
+    "wof:lastmodified":1695879424,
     "wof:name":"Ostraby",
     "wof:parent_id":1159303277,
     "wof:placetype":"localadmin",

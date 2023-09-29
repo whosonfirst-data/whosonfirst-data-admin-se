@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018923,
-    "geom:area_square_m":124572710.393822,
+    "geom:area_square_m":124572710.393828,
     "geom:bbox":"15.1181416654,57.7672492444,15.3971458726,57.8915953341",
     "geom:latitude":57.832678,
     "geom:longitude":15.265126,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.832579,
     "lbl:longitude":15.265122,
     "lbl:max_zoom":18.0,
@@ -96,9 +105,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"108002"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734120,
-    "wof:geomhash":"93154d963a3307dceed38856c08402e3",
+    "wof:geomhash":"909b62ba843239942aabe22f9cee75db",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -109,7 +122,7 @@
         }
     ],
     "wof:id":1159306727,
-    "wof:lastmodified":1566643175,
+    "wof:lastmodified":1695879394,
     "wof:name":"Sund",
     "wof:parent_id":1159303361,
     "wof:placetype":"localadmin",

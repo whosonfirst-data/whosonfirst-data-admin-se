@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001872,
-    "geom:area_square_m":13086654.927574,
+    "geom:area_square_m":13086654.927575,
     "geom:bbox":"13.8493358989,55.5469525348,13.9239489517,55.5897950213",
     "geom:latitude":55.567865,
     "geom:longitude":13.885362,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.569537,
     "lbl:longitude":13.884614,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101090"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734036,
-    "wof:geomhash":"d2be7e0a44e51d61b61873a0cce13928",
+    "wof:geomhash":"508cca89e23ea08b2fbae822b7d1b0d0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306405,
-    "wof:lastmodified":1566643308,
+    "wof:lastmodified":1695879419,
     "wof:name":"Ramsasa",
     "wof:parent_id":1159302959,
     "wof:placetype":"localadmin",

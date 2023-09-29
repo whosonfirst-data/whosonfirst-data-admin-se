@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005897,
-    "geom:area_square_m":39500392.519098,
+    "geom:area_square_m":39500392.519095,
     "geom:bbox":"12.5235100187,57.1536052036,12.6491071467,57.2401365787",
     "geom:latitude":57.202168,
     "geom:longitude":12.593595,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.204728,
     "lbl:longitude":12.592663,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"104071"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734310,
-    "wof:geomhash":"3407fa9b11917da28593d84d28e23096",
+    "wof:geomhash":"4358564622840e2e39d29175d9ae1372",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307437,
-    "wof:lastmodified":1566643356,
+    "wof:lastmodified":1695879429,
     "wof:name":"Nosslinge",
     "wof:parent_id":1159302939,
     "wof:placetype":"localadmin",

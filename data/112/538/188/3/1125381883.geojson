@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004277,
-    "geom:area_square_m":28778862.967557,
+    "geom:area_square_m":28778862.967555,
     "geom:bbox":"13.0276722152,56.9972642802,13.1304028382,57.0836101476",
     "geom:latitude":57.031729,
     "geom:longitude":13.084674,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":427,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.019046,
     "lbl:longitude":13.084638,
     "lbl:max_zoom":17.0,
@@ -70,14 +79,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131867,
-        "qs_pg:id":381318
+        "qs_pg:id":381318,
+        "se-lant:code":"104053"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497048098,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"20b16a548ef95c278cce24cdf6bc7ff1",
+    "wof:geomhash":"3718ac6c2c6551e4c1c02f201f275239",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +99,7 @@
         }
     ],
     "wof:id":1125381883,
-    "wof:lastmodified":1582340849,
+    "wof:lastmodified":1695879521,
     "wof:name":"Kinnared",
     "wof:parent_id":1159303485,
     "wof:placetype":"localadmin",

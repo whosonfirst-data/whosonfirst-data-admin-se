@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.954729,
-    "geom:area_square_m":4541484484.121167,
+    "geom:area_square_m":4541484484.121163,
     "geom:bbox":"16.4076383137,66.8232008749,20.290584661,67.9058233686",
     "geom:latitude":67.374891,
     "geom:longitude":18.116301,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":67.48941,
     "lbl:longitude":17.762523,
     "lbl:max_zoom":18.0,
@@ -63,9 +72,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"324021"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733848,
-    "wof:geomhash":"f3c3f4b310a6c796ca393570a63f8569",
+    "wof:geomhash":"020869bf88d631cd6ea26ae968e67460",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +89,7 @@
         }
     ],
     "wof:id":1159305707,
-    "wof:lastmodified":1566643374,
+    "wof:lastmodified":1695879432,
     "wof:name":"Porjus",
     "wof:parent_id":1159303505,
     "wof:placetype":"localadmin",

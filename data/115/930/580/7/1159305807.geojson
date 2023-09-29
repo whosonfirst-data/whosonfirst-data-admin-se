@@ -10,6 +10,15 @@
     "geom:latitude":59.36252,
     "geom:longitude":17.998163,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.363078,
     "lbl:longitude":17.997661,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"215024"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733875,
-    "wof:geomhash":"4ce38e17bf9f2bd3057c242e63348d7c",
+    "wof:geomhash":"05035c3ea81ff8de730b76d6b572a299",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159305807,
-    "wof:lastmodified":1566643261,
+    "wof:lastmodified":1695879410,
     "wof:name":"Rasunda",
     "wof:parent_id":1159303315,
     "wof:placetype":"localadmin",

@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":1109,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.692591,
     "lbl:longitude":14.588236,
     "lbl:max_zoom":16.0,
@@ -61,14 +70,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131883,
-        "qs_pg:id":757787
+        "qs_pg:id":757787,
+        "se-lant:code":"105239"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497044765,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"419975478a6de3276ed297e061b82f74",
+    "wof:geomhash":"c8bf89540264d239f7fcc8bd250204f4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +90,7 @@
         }
     ],
     "wof:id":1125325285,
-    "wof:lastmodified":1582340762,
+    "wof:lastmodified":1695879456,
     "wof:name":"Barkeryd",
     "wof:parent_id":1159303537,
     "wof:placetype":"localadmin",

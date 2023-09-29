@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.47457,
-    "geom:area_square_m":2442431729.019183,
+    "geom:area_square_m":2442431729.019239,
     "geom:bbox":"19.6287954408,65.1853288151,21.8606755622,65.6278617144",
     "geom:latitude":65.403915,
     "geom:longitude":20.702487,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":16455,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":65.415415,
     "lbl:longitude":20.626894,
     "lbl:max_zoom":15.0,
@@ -61,14 +70,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131836,
-        "qs_pg:id":757756
+        "qs_pg:id":757756,
+        "se-lant:code":"325003"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497044759,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"402b9cf3ceb9b8ec5046599a9dbd46b8",
+    "wof:geomhash":"58860f94d1fd7aa01895e280ab27d3dc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +90,7 @@
         }
     ],
     "wof:id":1125325181,
-    "wof:lastmodified":1582340764,
+    "wof:lastmodified":1695879458,
     "wof:name":"Pitea landsdistrikt",
     "wof:parent_id":1159303399,
     "wof:placetype":"localadmin",

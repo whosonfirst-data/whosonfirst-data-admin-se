@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0019,
-    "geom:area_square_m":13344956.290797,
+    "geom:area_square_m":13344956.290798,
     "geom:bbox":"13.4260016952,55.3700276629,13.4921767123,55.4205359882",
     "geom:latitude":55.396065,
     "geom:longitude":13.459199,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.395458,
     "lbl:longitude":13.462444,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101014"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733990,
-    "wof:geomhash":"5d0e70229488b1ac9ab7b74f0262d8ab",
+    "wof:geomhash":"563c3446ca8f26f19c22de796cfad782",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306285,
-    "wof:lastmodified":1566643182,
+    "wof:lastmodified":1695879396,
     "wof:name":"Tullstorp",
     "wof:parent_id":1159303309,
     "wof:placetype":"localadmin",

@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002768,
-    "geom:area_square_m":18211800.158225,
+    "geom:area_square_m":18211800.15823,
     "geom:bbox":"13.1926719651,57.8286536664,13.2730553492,57.8818507595",
     "geom:latitude":57.855518,
     "geom:longitude":13.231392,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.855542,
     "lbl:longitude":13.231424,
     "lbl:max_zoom":18.0,
@@ -51,9 +60,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107123"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734113,
-    "wof:geomhash":"163ba749b4c495d872f12f217f592956",
+    "wof:geomhash":"75f0a78e90a79feebc7da6aeec1a9876",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -64,7 +77,7 @@
         }
     ],
     "wof:id":1159306701,
-    "wof:lastmodified":1566643315,
+    "wof:lastmodified":1695879421,
     "wof:name":"Harna",
     "wof:parent_id":1159303161,
     "wof:placetype":"localadmin",

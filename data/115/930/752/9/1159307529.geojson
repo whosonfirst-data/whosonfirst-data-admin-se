@@ -10,6 +10,15 @@
     "geom:latitude":58.188309,
     "geom:longitude":13.33435,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.186266,
     "lbl:longitude":13.337586,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107258"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734336,
-    "wof:geomhash":"ec8f7a54fb3a950641280c3354741257",
+    "wof:geomhash":"6592cf01fbeadb4ae1d3a84fbbbbaf2a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307529,
-    "wof:lastmodified":1566643140,
+    "wof:lastmodified":1695879389,
     "wof:name":"Ullene",
     "wof:parent_id":1159303137,
     "wof:placetype":"localadmin",

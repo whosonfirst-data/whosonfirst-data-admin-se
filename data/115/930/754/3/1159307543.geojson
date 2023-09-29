@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011247,
-    "geom:area_square_m":71126658.128048,
+    "geom:area_square_m":71126658.128045,
     "geom:bbox":"17.562231,59.178922,17.798478,59.298119",
     "geom:latitude":59.238923,
     "geom:longitude":17.689252,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.215555,
     "lbl:longitude":17.73649,
     "lbl:max_zoom":18.0,
@@ -162,12 +171,16 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"212072"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:coterminous":[
         1159303525
     ],
     "wof:country":"SE",
     "wof:created":1525734339,
-    "wof:geomhash":"2fdff7dfcca72d07382d41dac4b5f52e",
+    "wof:geomhash":"32ebb2eb4d8d3f8ce8dafb891ab998aa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -178,7 +191,7 @@
         }
     ],
     "wof:id":1159307543,
-    "wof:lastmodified":1636499896,
+    "wof:lastmodified":1695879559,
     "wof:name":"Salem",
     "wof:parent_id":1159303525,
     "wof:placetype":"localadmin",

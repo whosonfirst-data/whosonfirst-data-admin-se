@@ -118,8 +118,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_1465",
-        "eurostat:nuts_2021_id":"1465"
+        "eurostat:nuts_2021_id":"1465",
+        "se-lant:code":"1465"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525379431,
     "wof:geomhash":"fa8a665c9e11ca19348b589e2f852d8e",
@@ -132,7 +134,7 @@
         }
     ],
     "wof:id":1159303079,
-    "wof:lastmodified":1684354749,
+    "wof:lastmodified":1695886750,
     "wof:name":"Svenljunga",
     "wof:parent_id":85688411,
     "wof:placetype":"county",

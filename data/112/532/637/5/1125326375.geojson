@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020828,
-    "geom:area_square_m":141144545.717204,
+    "geom:area_square_m":141144545.71721,
     "geom:bbox":"13.5081346623,56.7173790381,13.8652444125,56.8304789659",
     "geom:latitude":56.767725,
     "geom:longitude":13.682067,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":551,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.770613,
     "lbl:longitude":13.667182,
     "lbl:max_zoom":17.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131656,
-        "qs_pg:id":757632
+        "qs_pg:id":757632,
+        "se-lant:code":"105059"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497044839,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"23ac2efaf75e52cbc0fe92c7695c0451",
+    "wof:geomhash":"48feda4016faa32512ceb51336923f97",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125326375,
-    "wof:lastmodified":1582340772,
+    "wof:lastmodified":1695879464,
     "wof:name":"Annerstad",
     "wof:parent_id":1159303441,
     "wof:placetype":"localadmin",

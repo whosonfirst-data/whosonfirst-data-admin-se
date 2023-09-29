@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002192,
-    "geom:area_square_m":14769870.450626,
+    "geom:area_square_m":14769870.450625,
     "geom:bbox":"12.5910105889,56.9434684606,12.6615145947,57.0018909485",
     "geom:latitude":56.973228,
     "geom:longitude":12.62642,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.970933,
     "lbl:longitude":12.623484,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"104041"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733872,
-    "wof:geomhash":"21b425a8ed6c669175039e8a327441e5",
+    "wof:geomhash":"0e9393b68cef61026fe16702211fb856",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159305797,
-    "wof:lastmodified":1566643370,
+    "wof:lastmodified":1695879431,
     "wof:name":"Alfshog",
     "wof:parent_id":1159303247,
     "wof:placetype":"localadmin",

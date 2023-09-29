@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003962,
-    "geom:area_square_m":25753208.417141,
+    "geom:area_square_m":25753208.417139,
     "geom:bbox":"13.7396880377,58.2581947753,13.8916997649,58.3125149936",
     "geom:latitude":58.287771,
     "geom:longitude":13.805857,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":442,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.291263,
     "lbl:longitude":13.811036,
     "lbl:max_zoom":17.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8133321,
-        "qs_pg:id":109611
+        "qs_pg:id":109611,
+        "se-lant:code":"107313"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497047600,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"e427ab5a5e3d12fe1e9cfb3a5c1e3d6b",
+    "wof:geomhash":"331c5b9f984bd6457a28a3dc0b1573dd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125373919,
-    "wof:lastmodified":1582340820,
+    "wof:lastmodified":1695879500,
     "wof:name":"Borgunda",
     "wof:parent_id":1159303137,
     "wof:placetype":"localadmin",

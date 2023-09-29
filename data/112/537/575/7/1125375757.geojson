@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008566,
-    "geom:area_square_m":55882389.152833,
+    "geom:area_square_m":55882389.152836,
     "geom:bbox":"12.2241793113,58.115469753,12.3923984009,58.2058348658",
     "geom:latitude":58.155238,
     "geom:longitude":12.31296,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":1227,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.156716,
     "lbl:longitude":12.312952,
     "lbl:max_zoom":16.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132097,
-        "qs_pg:id":381328
+        "qs_pg:id":381328,
+        "se-lant:code":"107202"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497047728,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"890fc0047f75cb445751518e2e21496f",
+    "wof:geomhash":"d0dba69667d9d6663ead1b193cefb155",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125375757,
-    "wof:lastmodified":1582340826,
+    "wof:lastmodified":1695879505,
     "wof:name":"Uppharad",
     "wof:parent_id":1159303541,
     "wof:placetype":"localadmin",

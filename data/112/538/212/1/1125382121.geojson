@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004443,
-    "geom:area_square_m":29479238.912924,
+    "geom:area_square_m":29479238.912928,
     "geom:bbox":"18.4683819974,57.5097456758,18.5802321746,57.5812799298",
     "geom:latitude":57.550809,
     "geom:longitude":18.530013,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":1195,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.556935,
     "lbl:longitude":18.535512,
     "lbl:max_zoom":16.0,
@@ -136,14 +145,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132508,
-        "qs_pg:id":381378
+        "qs_pg:id":381378,
+        "se-lant:code":"106064"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497048109,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"d3836407aef46baced5a32154c2dd272",
+    "wof:geomhash":"ac2e7f2e637814fa80e801a47772f065",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -154,7 +165,7 @@
         }
     ],
     "wof:id":1125382121,
-    "wof:lastmodified":1582340851,
+    "wof:lastmodified":1695879522,
     "wof:name":"Dalhem",
     "wof:parent_id":1159303535,
     "wof:placetype":"localadmin",

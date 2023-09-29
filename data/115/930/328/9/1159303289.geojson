@@ -73,8 +73,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_0183",
-        "eurostat:nuts_2021_id":"0183"
+        "eurostat:nuts_2021_id":"0183",
+        "se-lant:code":"0183"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525379473,
     "wof:geomhash":"b992665c69fdbb943491497d165d0639",
@@ -87,7 +89,7 @@
         }
     ],
     "wof:id":1159303289,
-    "wof:lastmodified":1684354753,
+    "wof:lastmodified":1695886755,
     "wof:name":"Sundbyberg",
     "wof:parent_id":85688429,
     "wof:placetype":"county",

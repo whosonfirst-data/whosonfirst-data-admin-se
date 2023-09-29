@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029694,
-    "geom:area_square_m":167034299.186994,
+    "geom:area_square_m":167034299.187003,
     "geom:bbox":"14.5329563894,62.7256883025,14.7955302541,63.0623641786",
     "geom:latitude":62.940002,
     "geom:longitude":14.659478,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":62.961322,
     "lbl:longitude":14.644499,
     "lbl:max_zoom":18.0,
@@ -168,9 +177,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"322013"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734064,
-    "wof:geomhash":"1b5a28c3857703a53aeb0aac94cd321f",
+    "wof:geomhash":"371715e73716665c2c1d3ef9cde08ffe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -181,7 +194,7 @@
         }
     ],
     "wof:id":1159306505,
-    "wof:lastmodified":1566643228,
+    "wof:lastmodified":1695879405,
     "wof:name":"Nas",
     "wof:parent_id":1159303231,
     "wof:placetype":"localadmin",

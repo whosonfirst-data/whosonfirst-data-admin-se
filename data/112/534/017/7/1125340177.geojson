@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003412,
-    "geom:area_square_m":22850922.835801,
+    "geom:area_square_m":22850922.835804,
     "geom:bbox":"18.3178435149,57.177254843,18.4344299085,57.2312691741",
     "geom:latitude":57.20323,
     "geom:longitude":18.365724,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":2539,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.202853,
     "lbl:longitude":18.355975,
     "lbl:max_zoom":15.0,
@@ -106,14 +115,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131984,
-        "qs_pg:id":757865
+        "qs_pg:id":757865,
+        "se-lant:code":"106014"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497045614,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"d6d7408eae60997733c8220688c6e149",
+    "wof:geomhash":"9199004369470b1ea42f2ec7f796d84c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -124,7 +135,7 @@
         }
     ],
     "wof:id":1125340177,
-    "wof:lastmodified":1582340734,
+    "wof:lastmodified":1695879436,
     "wof:name":"Alva",
     "wof:parent_id":1159303535,
     "wof:placetype":"localadmin",

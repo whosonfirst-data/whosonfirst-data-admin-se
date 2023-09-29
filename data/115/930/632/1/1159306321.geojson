@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001002,
-    "geom:area_square_m":6548136.061661,
+    "geom:area_square_m":6548136.061662,
     "geom:bbox":"13.6665608564,58.0912584209,13.7496378809,58.1156830797",
     "geom:latitude":58.10239,
     "geom:longitude":13.714592,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.100991,
     "lbl:longitude":13.721537,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107228"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734001,
-    "wof:geomhash":"4a8415ff751df456de0130357f852263",
+    "wof:geomhash":"739f4b55a0c492f51bdf92ef663d7df0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306321,
-    "wof:lastmodified":1566643219,
+    "wof:lastmodified":1695879403,
     "wof:name":"Kalvene",
     "wof:parent_id":1159303137,
     "wof:placetype":"localadmin",

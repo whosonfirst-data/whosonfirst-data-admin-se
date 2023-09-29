@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00516,
-    "geom:area_square_m":33359372.080999,
+    "geom:area_square_m":33359372.081005,
     "geom:bbox":"13.9267372229,58.4432207776,14.099484276,58.5023570871",
     "geom:latitude":58.474178,
     "geom:longitude":13.996991,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.468265,
     "lbl:longitude":13.965029,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107394"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734106,
-    "wof:geomhash":"f9e64817b66352dcdb7a964c0c275b9f",
+    "wof:geomhash":"277b40ab19c82f3b03864d72463dc2b2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306665,
-    "wof:lastmodified":1566643223,
+    "wof:lastmodified":1695879404,
     "wof:name":"Locketorp",
     "wof:parent_id":1159302921,
     "wof:placetype":"localadmin",

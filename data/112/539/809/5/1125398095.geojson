@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011658,
-    "geom:area_square_m":76897572.250904,
+    "geom:area_square_m":76897572.250907,
     "geom:bbox":"12.1738948462,57.7235806277,12.398495538,57.8060512946",
     "geom:latitude":57.761628,
     "geom:longitude":12.275795,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":18381,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.765522,
     "lbl:longitude":12.275826,
     "lbl:max_zoom":15.0,
@@ -121,14 +130,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132432,
-        "qs_pg:id":1042431
+        "qs_pg:id":1042431,
+        "se-lant:code":"107097"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497049141,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"ca416870df22a3de51877ba90d705db1",
+    "wof:geomhash":"b0cd8fa7fd0f0dbbddc2c7fc6e9fa009",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -139,7 +150,7 @@
         }
     ],
     "wof:id":1125398095,
-    "wof:lastmodified":1582340840,
+    "wof:lastmodified":1695879515,
     "wof:name":"Lerum",
     "wof:parent_id":1159303177,
     "wof:placetype":"localadmin",

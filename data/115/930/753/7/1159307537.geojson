@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009372,
-    "geom:area_square_m":61831695.416329,
+    "geom:area_square_m":61831695.416339,
     "geom:bbox":"13.6026556095,57.7057440849,13.7538829955,57.8170671719",
     "geom:latitude":57.752828,
     "geom:longitude":13.683212,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.746282,
     "lbl:longitude":13.67805,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107111"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734338,
-    "wof:geomhash":"17b8ea13fdbaf48f472bc323b34896f2",
+    "wof:geomhash":"83ed7b2bbec2b335e47221334fa5ee96",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307537,
-    "wof:lastmodified":1566643160,
+    "wof:lastmodified":1695879392,
     "wof:name":"Strangsered",
     "wof:parent_id":1159303161,
     "wof:placetype":"localadmin",

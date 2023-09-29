@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017987,
-    "geom:area_square_m":119920441.891444,
+    "geom:area_square_m":119920441.891452,
     "geom:bbox":"14.3640613967,57.2885911501,14.5549048602,57.4657956541",
     "geom:latitude":57.372848,
     "geom:longitude":14.440997,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":1876,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.349704,
     "lbl:longitude":14.442419,
     "lbl:max_zoom":16.0,
@@ -79,14 +88,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132339,
-        "qs_pg:id":758064
+        "qs_pg:id":758064,
+        "se-lant:code":"105173"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497042758,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"f8d9ee41ccee27c9419735d99044089a",
+    "wof:geomhash":"bd14702c37b3b1e899a7b0ee2e8e2c4e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -97,7 +108,7 @@
         }
     ],
     "wof:id":1125287205,
-    "wof:lastmodified":1582340799,
+    "wof:lastmodified":1695879486,
     "wof:name":"Vrigstad",
     "wof:parent_id":1159303069,
     "wof:placetype":"localadmin",

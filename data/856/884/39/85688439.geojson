@@ -399,12 +399,18 @@
         "gn:id":2666218,
         "gp:id":2347062,
         "hasc:id":"SE.UP",
+        "iso:code":"SE-C",
         "iso:id":"SE-C",
+        "se-lant:code":"03",
         "unlc:id":"SE-C",
         "wd:id":"Q104926"
     },
+    "wof:concordances_official":"se-lant:code",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"SE",
-    "wof:geomhash":"b677b679894fed72d1cbc6ce8ede2110",
+    "wof:geomhash":"d979bd988a8390be74ead71f2a44bb75",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -420,7 +426,7 @@
         "swe",
         "fin"
     ],
-    "wof:lastmodified":1690862993,
+    "wof:lastmodified":1695885317,
     "wof:name":"Uppsala",
     "wof:parent_id":85633789,
     "wof:placetype":"region",

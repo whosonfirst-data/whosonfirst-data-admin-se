@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007369,
-    "geom:area_square_m":46600657.464468,
+    "geom:area_square_m":46600657.464476,
     "geom:bbox":"14.8924324501,59.1896998822,15.0713125434,59.2983476282",
     "geom:latitude":59.239666,
     "geom:longitude":14.975083,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.22565,
     "lbl:longitude":14.976445,
     "lbl:max_zoom":18.0,
@@ -60,9 +69,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"211025"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733876,
-    "wof:geomhash":"2f760802b0eb7d747091ca5473134d71",
+    "wof:geomhash":"750048fcd3ca2c15fdc11a04c79c2a4b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,7 +86,7 @@
         }
     ],
     "wof:id":1159305817,
-    "wof:lastmodified":1566643239,
+    "wof:lastmodified":1695879407,
     "wof:name":"Vintrosa",
     "wof:parent_id":1159303031,
     "wof:placetype":"localadmin",

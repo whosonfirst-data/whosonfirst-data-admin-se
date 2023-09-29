@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005029,
-    "geom:area_square_m":32577107.62237,
+    "geom:area_square_m":32577107.622374,
     "geom:bbox":"14.9949506677,58.37101156,15.1876507498,58.4338836881",
     "geom:latitude":58.405205,
     "geom:longitude":15.088947,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.413607,
     "lbl:longitude":15.103247,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"108070"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733846,
-    "wof:geomhash":"2803d698033fcce4fd1c315bdd5c0a37",
+    "wof:geomhash":"4dddda17198b895d3cf6eef48c4d2837",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159305699,
-    "wof:lastmodified":1566643138,
+    "wof:lastmodified":1695879388,
     "wof:name":"Allhelgona",
     "wof:parent_id":1159302925,
     "wof:placetype":"localadmin",

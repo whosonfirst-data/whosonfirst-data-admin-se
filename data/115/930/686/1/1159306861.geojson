@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010266,
-    "geom:area_square_m":66571862.22564,
+    "geom:area_square_m":66571862.225642,
     "geom:bbox":"14.2424385167,58.3321667337,14.4432276006,58.4083488673",
     "geom:latitude":58.371808,
     "geom:longitude":14.342232,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.369912,
     "lbl:longitude":14.352263,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107361"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734158,
-    "wof:geomhash":"e0d37e8294760d6d5f752a3201a7f8d1",
+    "wof:geomhash":"a1ebc262ff93b44fd69ab5c938c7526d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306861,
-    "wof:lastmodified":1566643173,
+    "wof:lastmodified":1695879394,
     "wof:name":"Grevback",
     "wof:parent_id":1159303153,
     "wof:placetype":"localadmin",

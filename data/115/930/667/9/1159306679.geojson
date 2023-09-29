@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002808,
-    "geom:area_square_m":19611108.095645,
+    "geom:area_square_m":19611108.095647,
     "geom:bbox":"14.007567118,55.5849617595,14.0861078503,55.637309954",
     "geom:latitude":55.609934,
     "geom:longitude":14.051314,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.609727,
     "lbl:longitude":14.05207,
     "lbl:max_zoom":18.0,
@@ -54,9 +63,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101146"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734109,
-    "wof:geomhash":"813ff410993e8db1fa0ede3f78a51ca1",
+    "wof:geomhash":"d90e05d5c031f787768f5cf689de0603",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,7 +80,7 @@
         }
     ],
     "wof:id":1159306679,
-    "wof:lastmodified":1566643211,
+    "wof:lastmodified":1695879402,
     "wof:name":"Onslunda",
     "wof:parent_id":1159302959,
     "wof:placetype":"localadmin",

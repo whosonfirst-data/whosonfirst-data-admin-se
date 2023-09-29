@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006894,
-    "geom:area_square_m":47452683.211442,
+    "geom:area_square_m":47452683.211438,
     "geom:bbox":"15.4132996621,56.1232741704,15.5239878011,56.2427729206",
     "geom:latitude":56.17549,
     "geom:longitude":15.463915,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.176254,
     "lbl:longitude":15.460147,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"102013"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734083,
-    "wof:geomhash":"cc090203608e10d43a97a7290269539e",
+    "wof:geomhash":"cd24c500a5c7cb5b00b373abbe2a37c2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306575,
-    "wof:lastmodified":1566643227,
+    "wof:lastmodified":1695879405,
     "wof:name":"Forkarla",
     "wof:parent_id":1159303551,
     "wof:placetype":"localadmin",

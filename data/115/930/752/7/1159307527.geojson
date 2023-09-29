@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001104,
-    "geom:area_square_m":7654732.403103,
+    "geom:area_square_m":7654732.403101,
     "geom:bbox":"13.0423711465,55.8691868244,13.1088059635,55.8981366098",
     "geom:latitude":55.885166,
     "geom:longitude":13.076046,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.884343,
     "lbl:longitude":13.076042,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101227"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734335,
-    "wof:geomhash":"fee626484ee51037a40f2a8bcb4f91f9",
+    "wof:geomhash":"adc6bbd660b5fae48c504c0ab0bdffd1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307527,
-    "wof:lastmodified":1566643140,
+    "wof:lastmodified":1695879389,
     "wof:name":"Kalls Nobbelov",
     "wof:parent_id":1159303189,
     "wof:placetype":"localadmin",

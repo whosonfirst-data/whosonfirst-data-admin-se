@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002715,
-    "geom:area_square_m":19042099.468306,
+    "geom:area_square_m":19042099.468302,
     "geom:bbox":"13.72422036,55.4218839529,13.7965893682,55.4811980347",
     "geom:latitude":55.449448,
     "geom:longitude":13.755718,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.445378,
     "lbl:longitude":13.752807,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101049"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733910,
-    "wof:geomhash":"4237f1e1ba9af9726de2539c2cf2191c",
+    "wof:geomhash":"df490a1717b160f3397404c487221185",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159305937,
-    "wof:lastmodified":1566643142,
+    "wof:lastmodified":1695879389,
     "wof:name":"Bjaresjo",
     "wof:parent_id":1159303233,
     "wof:placetype":"localadmin",

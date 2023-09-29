@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035805,
-    "geom:area_square_m":203161002.754687,
+    "geom:area_square_m":203161002.754667,
     "geom:bbox":"17.4381520361,62.5774735828,17.7680501007,62.7896044906",
     "geom:latitude":62.685049,
     "geom:longitude":17.600135,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":1111,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":62.682556,
     "lbl:longitude":17.588909,
     "lbl:max_zoom":16.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8133017,
-        "qs_pg:id":758468
+        "qs_pg:id":758468,
+        "se-lant:code":"321003"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497042804,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"a5046b2558d83ccabf701808632bac33",
+    "wof:geomhash":"abc8adf73f3699b6a21cca52406fa7a8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125288271,
-    "wof:lastmodified":1582340782,
+    "wof:lastmodified":1695879474,
     "wof:name":"Stigsjo",
     "wof:parent_id":1159302975,
     "wof:placetype":"localadmin",

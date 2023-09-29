@@ -10,6 +10,15 @@
     "geom:latitude":56.234733,
     "geom:longitude":13.059459,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.233352,
     "lbl:longitude":13.058022,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101349"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734201,
-    "wof:geomhash":"6fcaf354f64717d1e7e7b74481ca319a",
+    "wof:geomhash":"14eb702e519536b2132d9b19ef89844f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307011,
-    "wof:lastmodified":1566643146,
+    "wof:lastmodified":1695879389,
     "wof:name":"Ossjo",
     "wof:parent_id":1159303025,
     "wof:placetype":"localadmin",

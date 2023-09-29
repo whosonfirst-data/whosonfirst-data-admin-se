@@ -10,6 +10,15 @@
     "geom:latitude":57.867749,
     "geom:longitude":13.808576,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.867498,
     "lbl:longitude":13.809627,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107132"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733854,
-    "wof:geomhash":"5f9c44b4b55b48531af815246afb73a4",
+    "wof:geomhash":"e8cf6ad92d3181911106dad3ecf99275",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159305731,
-    "wof:lastmodified":1566643263,
+    "wof:lastmodified":1695879410,
     "wof:name":"Bjurback",
     "wof:parent_id":1159303051,
     "wof:placetype":"localadmin",

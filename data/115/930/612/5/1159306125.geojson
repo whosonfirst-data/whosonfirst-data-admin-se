@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008398,
-    "geom:area_square_m":57677417.500245,
+    "geom:area_square_m":57677417.500252,
     "geom:bbox":"15.6258138907,56.1519659335,15.8079704942,56.3156055903",
     "geom:latitude":56.259901,
     "geom:longitude":15.720788,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.277434,
     "lbl:longitude":15.746129,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"102026"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733953,
-    "wof:geomhash":"d591f9673cb10eb82c73283b4a852282",
+    "wof:geomhash":"19ebb679a27ffc9074d14adf8a882dbb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306125,
-    "wof:lastmodified":1566643310,
+    "wof:lastmodified":1695879419,
     "wof:name":"Augerum",
     "wof:parent_id":1159303467,
     "wof:placetype":"localadmin",

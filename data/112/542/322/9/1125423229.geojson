@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015913,
-    "geom:area_square_m":106748869.937544,
+    "geom:area_square_m":106748869.937546,
     "geom:bbox":"12.8092417436,57.0934909958,13.1002844751,57.2079059171",
     "geom:latitude":57.144603,
     "geom:longitude":12.967179,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":1059,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.143741,
     "lbl:longitude":12.977115,
     "lbl:max_zoom":16.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131644,
-        "qs_pg:id":109306
+        "qs_pg:id":109306,
+        "se-lant:code":"104064"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497052658,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"29e1bffc271521286afca50fce702ab2",
+    "wof:geomhash":"fc41daaf269b4dcfe7265bc1ad704b55",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125423229,
-    "wof:lastmodified":1582340813,
+    "wof:lastmodified":1695879496,
     "wof:name":"Gunnarp",
     "wof:parent_id":1159303247,
     "wof:placetype":"localadmin",

@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007909,
-    "geom:area_square_m":55289020.127814,
+    "geom:area_square_m":55289020.127818,
     "geom:bbox":"13.2061992345,55.5234171703,13.3485397127,55.6200043099",
     "geom:latitude":55.571515,
     "geom:longitude":13.272705,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.5769,
     "lbl:longitude":13.273773,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101080"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734259,
-    "wof:geomhash":"efd851348635f50adc91e4afd83d9d30",
+    "wof:geomhash":"d47ec9046a284f6c1204caecbecc0b1f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307245,
-    "wof:lastmodified":1566643250,
+    "wof:lastmodified":1695879409,
     "wof:name":"Hyby",
     "wof:parent_id":1159303083,
     "wof:placetype":"localadmin",

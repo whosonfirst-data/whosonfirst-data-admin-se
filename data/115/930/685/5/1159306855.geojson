@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008378,
-    "geom:area_square_m":53863254.955129,
+    "geom:area_square_m":53863254.955126,
     "geom:bbox":"13.6049841609,58.6277714221,13.7726597384,58.7147295821",
     "geom:latitude":58.672875,
     "geom:longitude":13.69429,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.662267,
     "lbl:longitude":13.70699,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107431"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734156,
-    "wof:geomhash":"4b349fc3aafa855d2c04689ab26bb2fe",
+    "wof:geomhash":"9fe8dc92593b16fbe291d8c6e1965aa4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306855,
-    "wof:lastmodified":1566643304,
+    "wof:lastmodified":1695879418,
     "wof:name":"Bjorsater",
     "wof:parent_id":1159303321,
     "wof:placetype":"localadmin",

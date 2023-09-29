@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.038638,
-    "geom:area_square_m":213573610.021833,
+    "geom:area_square_m":213573610.021831,
     "geom:bbox":"14.3493603462,63.3170358649,14.648591583,63.6079717136",
     "geom:latitude":63.447118,
     "geom:longitude":14.494973,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":822,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":63.389367,
     "lbl:longitude":14.505456,
     "lbl:max_zoom":17.0,
@@ -64,14 +73,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132585,
-        "qs_pg:id":109456
+        "qs_pg:id":109456,
+        "se-lant:code":"322038"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497047555,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"2fd12a0495d30fff73d93762e978ed1d",
+    "wof:geomhash":"48c25b123918f43a6f3962c07d053516",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,7 +93,7 @@
         }
     ],
     "wof:id":1125373247,
-    "wof:lastmodified":1582340826,
+    "wof:lastmodified":1695879505,
     "wof:name":"Aspas",
     "wof:parent_id":1159303097,
     "wof:placetype":"localadmin",

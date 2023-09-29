@@ -130,8 +130,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_0764",
-        "eurostat:nuts_2021_id":"0764"
+        "eurostat:nuts_2021_id":"0764",
+        "se-lant:code":"0764"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525379489,
     "wof:geomhash":"34a69133dec780ff180182621ffa4dd6",
@@ -144,7 +146,7 @@
         }
     ],
     "wof:id":1159303407,
-    "wof:lastmodified":1684354756,
+    "wof:lastmodified":1695886759,
     "wof:name":"Alvesta",
     "wof:parent_id":85688387,
     "wof:placetype":"county",

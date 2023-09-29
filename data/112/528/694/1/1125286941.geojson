@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.04382,
-    "geom:area_square_m":256819402.313905,
+    "geom:area_square_m":256819402.313925,
     "geom:bbox":"16.7312936581,61.6126714835,17.082734003,61.8331700013",
     "geom:latitude":61.707131,
     "geom:longitude":16.877595,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":4668,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":61.713258,
     "lbl:longitude":16.880254,
     "lbl:max_zoom":15.0,
@@ -67,14 +76,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131979,
-        "qs_pg:id":757860
+        "qs_pg:id":757860,
+        "se-lant:code":"318026"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497042743,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"543ecfb4f29b2dbcaf45afe7f32ad17c",
+    "wof:geomhash":"d0abd125bcabde47f64e52bab198534c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,7 +96,7 @@
         }
     ],
     "wof:id":1125286941,
-    "wof:lastmodified":1582340785,
+    "wof:lastmodified":1695879476,
     "wof:name":"Forsa",
     "wof:parent_id":1159303395,
     "wof:placetype":"localadmin",

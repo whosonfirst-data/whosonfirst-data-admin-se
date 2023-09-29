@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.129412,
-    "geom:area_square_m":735900722.244647,
+    "geom:area_square_m":735900722.244693,
     "geom:bbox":"12.1364081922,62.4009026828,13.0469829122,62.7647207617",
     "geom:latitude":62.620706,
     "geom:longitude":12.685593,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":62.591973,
     "lbl:longitude":12.792446,
     "lbl:max_zoom":18.0,
@@ -42,9 +51,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"319009"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734321,
-    "wof:geomhash":"f403868af5b0d0aa890c5b2cc88b3e0c",
+    "wof:geomhash":"8c102bb36718cf379a7f2a8f5bfc9ebd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,7 +68,7 @@
         }
     ],
     "wof:id":1159307467,
-    "wof:lastmodified":1566643258,
+    "wof:lastmodified":1695879410,
     "wof:name":"Ljusnedal",
     "wof:parent_id":1159303245,
     "wof:placetype":"localadmin",

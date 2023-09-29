@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001094,
-    "geom:area_square_m":7602497.501198,
+    "geom:area_square_m":7602497.5012,
     "geom:bbox":"13.176650874,55.7850455595,13.2197008123,55.8278270595",
     "geom:latitude":55.805271,
     "geom:longitude":13.200839,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.804493,
     "lbl:longitude":13.200435,
     "lbl:max_zoom":18.0,
@@ -57,9 +66,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101198"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734048,
-    "wof:geomhash":"8fdbadf752bbe994a02420baf9e75d57",
+    "wof:geomhash":"8815844e9d229fb4489a949db6a0d4d4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +83,7 @@
         }
     ],
     "wof:id":1159306455,
-    "wof:lastmodified":1566643187,
+    "wof:lastmodified":1695879397,
     "wof:name":"Lilla Harrie",
     "wof:parent_id":1159303543,
     "wof:placetype":"localadmin",

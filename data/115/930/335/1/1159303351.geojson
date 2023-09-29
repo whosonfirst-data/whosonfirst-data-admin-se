@@ -73,8 +73,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_0486",
-        "eurostat:nuts_2021_id":"0486"
+        "eurostat:nuts_2021_id":"0486",
+        "se-lant:code":"0486"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525379481,
     "wof:geomhash":"61672d94d58e8e81201d5cc4e7d1b81f",
@@ -87,7 +89,7 @@
         }
     ],
     "wof:id":1159303351,
-    "wof:lastmodified":1684354754,
+    "wof:lastmodified":1695886757,
     "wof:name":"Strangnas",
     "wof:parent_id":85688419,
     "wof:placetype":"county",

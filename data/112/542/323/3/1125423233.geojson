@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010804,
-    "geom:area_square_m":72844257.553325,
+    "geom:area_square_m":72844257.553326,
     "geom:bbox":"12.2583572529,56.8959876207,12.4745668737,57.0121471991",
     "geom:latitude":56.965245,
     "geom:longitude":12.375539,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":2671,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.958179,
     "lbl:longitude":12.373899,
     "lbl:max_zoom":15.0,
@@ -82,14 +91,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131646,
-        "qs_pg:id":109308
+        "qs_pg:id":109308,
+        "se-lant:code":"104037"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497052659,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"c6e2b4c4f07f3a7d3b3f8cb66974de3c",
+    "wof:geomhash":"069715b7e689ad831a10a4ed1ab6e49e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -100,7 +111,7 @@
         }
     ],
     "wof:id":1125423233,
-    "wof:lastmodified":1582340812,
+    "wof:lastmodified":1695879495,
     "wof:name":"Morup",
     "wof:parent_id":1159303247,
     "wof:placetype":"localadmin",

@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007523,
-    "geom:area_square_m":48532539.865937,
+    "geom:area_square_m":48532539.865943,
     "geom:bbox":"12.8514408473,58.509241655,12.9999546453,58.5866653341",
     "geom:latitude":58.550268,
     "geom:longitude":12.926028,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.549663,
     "lbl:longitude":12.926049,
     "lbl:max_zoom":18.0,
@@ -81,9 +90,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107400"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734257,
-    "wof:geomhash":"734186473219522a2fdb24e309fb7b52",
+    "wof:geomhash":"407d69b6e558c080cdef884c56219155",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,7 +107,7 @@
         }
     ],
     "wof:id":1159307239,
-    "wof:lastmodified":1566643252,
+    "wof:lastmodified":1695879409,
     "wof:name":"Sone",
     "wof:parent_id":1159303281,
     "wof:placetype":"localadmin",

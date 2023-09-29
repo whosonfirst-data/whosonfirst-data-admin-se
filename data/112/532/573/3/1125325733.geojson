@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019714,
-    "geom:area_square_m":132144552.696122,
+    "geom:area_square_m":132144552.696134,
     "geom:bbox":"14.6164331481,57.1183764995,14.8942223947,57.2281436325",
     "geom:latitude":57.174593,
     "geom:longitude":14.761368,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":264,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.174843,
     "lbl:longitude":14.761369,
     "lbl:max_zoom":17.0,
@@ -88,14 +97,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132769,
-        "qs_pg:id":758333
+        "qs_pg:id":758333,
+        "se-lant:code":"105139"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497044802,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"efc2169ea8049bc256a0d94b1a1fb7b4",
+    "wof:geomhash":"ce0679df46b88efdf31b240e06903ad2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -106,7 +117,7 @@
         }
     ],
     "wof:id":1125325733,
-    "wof:lastmodified":1582340766,
+    "wof:lastmodified":1695879460,
     "wof:name":"Asa",
     "wof:parent_id":1159302917,
     "wof:placetype":"localadmin",

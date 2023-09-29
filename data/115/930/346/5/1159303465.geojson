@@ -73,8 +73,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_2183",
-        "eurostat:nuts_2021_id":"2183"
+        "eurostat:nuts_2021_id":"2183",
+        "se-lant:code":"2183"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525379500,
     "wof:geomhash":"29b0de2a8ca08f847ae5f10383d1445d",
@@ -87,7 +89,7 @@
         }
     ],
     "wof:id":1159303465,
-    "wof:lastmodified":1684354757,
+    "wof:lastmodified":1695886761,
     "wof:name":"Bollnas",
     "wof:parent_id":85688453,
     "wof:placetype":"county",

@@ -10,6 +10,15 @@
     "geom:latitude":58.130849,
     "geom:longitude":13.867192,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.128466,
     "lbl:longitude":13.875954,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107235"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734210,
-    "wof:geomhash":"0cb798de00f8e80cd83c9c42135bda30",
+    "wof:geomhash":"ad8bff611ebfccf0578621aea4042760",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307045,
-    "wof:lastmodified":1566643287,
+    "wof:lastmodified":1695879415,
     "wof:name":"Suntak",
     "wof:parent_id":1159303037,
     "wof:placetype":"localadmin",

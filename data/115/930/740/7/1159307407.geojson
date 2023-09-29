@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002921,
-    "geom:area_square_m":19099903.284224,
+    "geom:area_square_m":19099903.284223,
     "geom:bbox":"13.2016644824,58.0484551703,13.3136192549,58.0928355574",
     "geom:latitude":58.070897,
     "geom:longitude":13.255124,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.07234,
     "lbl:longitude":13.254314,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107184"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734302,
-    "wof:geomhash":"c213722b9440afbc7dd183551ce5253e",
+    "wof:geomhash":"f86773acd189021fbc1ca314ba479e3b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307407,
-    "wof:lastmodified":1566643235,
+    "wof:lastmodified":1695879406,
     "wof:name":"Mjaldrunga",
     "wof:parent_id":1159303171,
     "wof:placetype":"localadmin",

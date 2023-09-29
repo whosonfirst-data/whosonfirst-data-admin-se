@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018393,
-    "geom:area_square_m":117323618.892676,
+    "geom:area_square_m":117323618.892684,
     "geom:bbox":"17.6186476728,58.8152949881,17.7294006979,59.0659234651",
     "geom:latitude":58.944094,
     "geom:longitude":17.679438,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.945429,
     "lbl:longitude":17.674961,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"212030"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734235,
-    "wof:geomhash":"3f49cd2b6e17df67c4fd28a595a474c0",
+    "wof:geomhash":"c101b99a7ec94b46e496184e8fab763e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307147,
-    "wof:lastmodified":1566643234,
+    "wof:lastmodified":1695879406,
     "wof:name":"Morko",
     "wof:parent_id":1159303135,
     "wof:placetype":"localadmin",

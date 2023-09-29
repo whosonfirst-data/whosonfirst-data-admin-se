@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.036109,
-    "geom:area_square_m":225188353.710036,
+    "geom:area_square_m":225188353.710042,
     "geom:bbox":"13.3438529669,59.5812714166,13.6868003436,59.8192809463",
     "geom:latitude":59.711859,
     "geom:longitude":13.50885,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.710501,
     "lbl:longitude":13.508854,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"213059"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733887,
-    "wof:geomhash":"09bd876551281ab81c7fb6100758440e",
+    "wof:geomhash":"0117c82157965f8f86c513c3da1f2a1e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159305861,
-    "wof:lastmodified":1566643238,
+    "wof:lastmodified":1695879406,
     "wof:name":"Ovre Ullerud",
     "wof:parent_id":1159303413,
     "wof:placetype":"localadmin",

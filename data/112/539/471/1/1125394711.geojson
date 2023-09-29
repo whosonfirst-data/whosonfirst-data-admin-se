@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008858,
-    "geom:area_square_m":55939234.386342,
+    "geom:area_square_m":55939234.386345,
     "geom:bbox":"18.1054349564,59.2461349194,18.2803167712,59.3386202924",
     "geom:latitude":59.28844,
     "geom:longitude":18.195579,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":48113,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.286934,
     "lbl:longitude":18.194256,
     "lbl:max_zoom":14.0,
@@ -133,14 +142,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8133093,
-        "qs_pg:id":1042471
+        "qs_pg:id":1042471,
+        "se-lant:code":"212104"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497048935,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"74b39d483fb1e19e84307e080f56fa87",
+    "wof:geomhash":"6a41541f633ad9b57b418d1b4bf69d9a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -151,7 +162,7 @@
         }
     ],
     "wof:id":1125394711,
-    "wof:lastmodified":1582340837,
+    "wof:lastmodified":1695879513,
     "wof:name":"Nacka",
     "wof:parent_id":1159303219,
     "wof:placetype":"localadmin",

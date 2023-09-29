@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031199,
-    "geom:area_square_m":199304069.039214,
+    "geom:area_square_m":199304069.039216,
     "geom:bbox":"15.5531068391,58.8083729155,15.8613766189,58.9895770461",
     "geom:latitude":58.894435,
     "geom:longitude":15.690597,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":558,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.893606,
     "lbl:longitude":15.675483,
     "lbl:max_zoom":17.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132841,
-        "qs_pg:id":758382
+        "qs_pg:id":758382,
+        "se-lant:code":"108159"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497044809,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"49513e32a92a244621c6a72bba918eac",
+    "wof:geomhash":"81512016f51fc11498c1ab10b7f04d88",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125325857,
-    "wof:lastmodified":1582340774,
+    "wof:lastmodified":1695879466,
     "wof:name":"Regna",
     "wof:parent_id":1159303029,
     "wof:placetype":"localadmin",

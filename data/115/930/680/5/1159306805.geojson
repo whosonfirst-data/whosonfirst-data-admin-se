@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002482,
-    "geom:area_square_m":17347637.724366,
+    "geom:area_square_m":17347637.724362,
     "geom:bbox":"13.1623821149,55.545569875,13.2380972995,55.613216369",
     "geom:latitude":55.578128,
     "geom:longitude":13.19905,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.578936,
     "lbl:longitude":13.193327,
     "lbl:max_zoom":18.0,
@@ -111,9 +120,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101129"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734139,
-    "wof:geomhash":"2acb461a25107f974b0ba750e05c0ed4",
+    "wof:geomhash":"fca41d5d38376029293ae948cdf768ed",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -124,7 +137,7 @@
         }
     ],
     "wof:id":1159306805,
-    "wof:lastmodified":1566643190,
+    "wof:lastmodified":1695879398,
     "wof:name":"Bara",
     "wof:parent_id":1159303083,
     "wof:placetype":"localadmin",

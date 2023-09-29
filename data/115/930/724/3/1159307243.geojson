@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017161,
-    "geom:area_square_m":113171268.505002,
+    "geom:area_square_m":113171268.505005,
     "geom:bbox":"14.6506889866,57.7187625186,14.9692483611,57.8121328074",
     "geom:latitude":57.768558,
     "geom:longitude":14.827029,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.767919,
     "lbl:longitude":14.895824,
     "lbl:max_zoom":18.0,
@@ -60,9 +69,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"105255"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734258,
-    "wof:geomhash":"5dcc8bd134d6f3026a283ffaf2b2701a",
+    "wof:geomhash":"49970e5921f7270d7da3571e325e4c1b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,7 +86,7 @@
         }
     ],
     "wof:id":1159307243,
-    "wof:lastmodified":1566643250,
+    "wof:lastmodified":1695879409,
     "wof:name":"Flisby",
     "wof:parent_id":1159303537,
     "wof:placetype":"localadmin",

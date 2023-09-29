@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00118,
-    "geom:area_square_m":7456033.634167,
+    "geom:area_square_m":7456033.634171,
     "geom:bbox":"15.1695263975,59.2184386777,15.2426303013,59.2744733238",
     "geom:latitude":59.255512,
     "geom:longitude":15.207633,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":17817,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.259093,
     "lbl:longitude":15.204182,
     "lbl:max_zoom":15.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131842,
-        "qs_pg:id":109337
+        "qs_pg:id":109337,
+        "se-lant:code":"211030"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497047507,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"49b2bdb988e37732c91136f6cc573c89",
+    "wof:geomhash":"f495a73312744092fd72a05e2d068d6e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125372559,
-    "wof:lastmodified":1582340833,
+    "wof:lastmodified":1695879510,
     "wof:name":"Orebro Nikolai",
     "wof:parent_id":1159303031,
     "wof:placetype":"localadmin",

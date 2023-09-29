@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002668,
-    "geom:area_square_m":17419420.128193,
+    "geom:area_square_m":17419420.128194,
     "geom:bbox":"13.4763744429,58.0895281582,13.5966424626,58.1461169243",
     "geom:latitude":58.123757,
     "geom:longitude":13.537421,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.128038,
     "lbl:longitude":13.538318,
     "lbl:max_zoom":18.0,
@@ -48,9 +57,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107223"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733899,
-    "wof:geomhash":"b66c71b56564177cc8bd039f2ae0b557",
+    "wof:geomhash":"ed5590668ba71d748a370b6cc60ff82d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +74,7 @@
         }
     ],
     "wof:id":1159305893,
-    "wof:lastmodified":1566643255,
+    "wof:lastmodified":1695879409,
     "wof:name":"Luttra",
     "wof:parent_id":1159303137,
     "wof:placetype":"localadmin",

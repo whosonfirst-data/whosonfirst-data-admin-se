@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00772,
-    "geom:area_square_m":48795863.131563,
+    "geom:area_square_m":48795863.131555,
     "geom:bbox":"15.1905555913,59.2262239129,15.4149537277,59.284464004",
     "geom:latitude":59.256483,
     "geom:longitude":15.305532,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":18002,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.259511,
     "lbl:longitude":15.29427,
     "lbl:max_zoom":15.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132816,
-        "qs_pg:id":758359
+        "qs_pg:id":758359,
+        "se-lant:code":"211031"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497046500,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"84610f90c690f19657809a2c553ee7f1",
+    "wof:geomhash":"c487492e27bde2b71de406500628c048",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125356477,
-    "wof:lastmodified":1582340746,
+    "wof:lastmodified":1695879445,
     "wof:name":"Almby",
     "wof:parent_id":1159303031,
     "wof:placetype":"localadmin",

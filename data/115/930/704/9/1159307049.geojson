@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003678,
-    "geom:area_square_m":25419041.229393,
+    "geom:area_square_m":25419041.229394,
     "geom:bbox":"13.9283528619,56.0016650542,14.1070129515,56.0510158722",
     "geom:latitude":56.024038,
     "geom:longitude":14.040452,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.021986,
     "lbl:longitude":14.049184,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101276"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734211,
-    "wof:geomhash":"929fdb54045860abfb1a0aefb10ea6ea",
+    "wof:geomhash":"2616f1d39f4fa559d17e907bc8d859f2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307049,
-    "wof:lastmodified":1566643286,
+    "wof:lastmodified":1695879415,
     "wof:name":"Skepparslov",
     "wof:parent_id":1159303497,
     "wof:placetype":"localadmin",

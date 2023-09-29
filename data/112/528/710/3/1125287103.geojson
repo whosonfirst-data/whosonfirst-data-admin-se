@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016712,
-    "geom:area_square_m":105314087.130217,
+    "geom:area_square_m":105314087.130212,
     "geom:bbox":"17.4109165106,59.2918260124,17.5992495801,59.4465311817",
     "geom:latitude":59.361504,
     "geom:longitude":17.500169,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":1619,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.35915,
     "lbl:longitude":17.501611,
     "lbl:max_zoom":16.0,
@@ -61,14 +70,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132045,
-        "qs_pg:id":757896
+        "qs_pg:id":757896,
+        "se-lant:code":"215006"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497042752,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"0bcf996a07132fdc1ac339e0433f141f",
+    "wof:geomhash":"ba6bf6f801f982f296f9059a5f6de01a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +90,7 @@
         }
     ],
     "wof:id":1125287103,
-    "wof:lastmodified":1582340798,
+    "wof:lastmodified":1695879485,
     "wof:name":"Adelso",
     "wof:parent_id":1159302999,
     "wof:placetype":"localadmin",

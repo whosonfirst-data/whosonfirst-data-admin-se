@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006022,
-    "geom:area_square_m":39347323.04447,
+    "geom:area_square_m":39347323.044462,
     "geom:bbox":"12.4239711287,58.0616848846,12.569152497,58.1402007136",
     "geom:latitude":58.101349,
     "geom:longitude":12.499581,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.101861,
     "lbl:longitude":12.504541,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107203"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734352,
-    "wof:geomhash":"14d684f3e65317ccc5c1324089d1e611",
+    "wof:geomhash":"8ff056d707697adcbe4a801d4ca275e7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307597,
-    "wof:lastmodified":1566643296,
+    "wof:lastmodified":1695879416,
     "wof:name":"Erska",
     "wof:parent_id":1159303193,
     "wof:placetype":"localadmin",

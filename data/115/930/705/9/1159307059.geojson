@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004322,
-    "geom:area_square_m":28347159.958418,
+    "geom:area_square_m":28347159.958421,
     "geom:bbox":"12.85052717,57.9293119809,12.9741977195,57.995128288",
     "geom:latitude":57.963207,
     "geom:longitude":12.908893,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.964008,
     "lbl:longitude":12.909852,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107144"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734214,
-    "wof:geomhash":"4d872535bbaee73149b4cd69f65468cc",
+    "wof:geomhash":"fcf6e3a8f6472ec6c93070e7b3807c63",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307059,
-    "wof:lastmodified":1566643266,
+    "wof:lastmodified":1695879411,
     "wof:name":"Ornunga",
     "wof:parent_id":1159303255,
     "wof:placetype":"localadmin",

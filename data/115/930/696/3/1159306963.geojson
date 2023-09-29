@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005371,
-    "geom:area_square_m":37234768.061091,
+    "geom:area_square_m":37234768.061102,
     "geom:bbox":"13.3416178707,55.8576949111,13.4596849729,55.9436773253",
     "geom:latitude":55.901864,
     "geom:longitude":13.399781,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.90548,
     "lbl:longitude":13.410569,
     "lbl:max_zoom":18.0,
@@ -57,9 +66,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101241"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734190,
-    "wof:geomhash":"6c6fbd5f56991d67d6f6686fa4d38b73",
+    "wof:geomhash":"c4726a684545e9c43e0837392f5b1c21",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +83,7 @@
         }
     ],
     "wof:id":1159306963,
-    "wof:lastmodified":1566643336,
+    "wof:lastmodified":1695879425,
     "wof:name":"Stehag",
     "wof:parent_id":1159303151,
     "wof:placetype":"localadmin",

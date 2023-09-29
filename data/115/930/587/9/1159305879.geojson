@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008888,
-    "geom:area_square_m":57648049.387559,
+    "geom:area_square_m":57648049.387555,
     "geom:bbox":"15.7781454517,58.3122729021,15.9628722888,58.4107930069",
     "geom:latitude":58.36069,
     "geom:longitude":15.845564,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.360716,
     "lbl:longitude":15.830182,
     "lbl:max_zoom":18.0,
@@ -54,9 +63,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"108056"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733890,
-    "wof:geomhash":"a7b10f41d612764ecf804c5fa6b9533c",
+    "wof:geomhash":"9996dc8a853ace0efb7436f79a086fd7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,7 +80,7 @@
         }
     ],
     "wof:id":1159305879,
-    "wof:lastmodified":1566643262,
+    "wof:lastmodified":1695879410,
     "wof:name":"Bankekind",
     "wof:parent_id":1159303147,
     "wof:placetype":"localadmin",

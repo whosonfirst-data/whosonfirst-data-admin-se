@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002568,
-    "geom:area_square_m":16673449.25358,
+    "geom:area_square_m":16673449.253581,
     "geom:bbox":"12.720639703,58.3085824178,12.7960747979,58.3614557953",
     "geom:latitude":58.331273,
     "geom:longitude":12.762103,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.326799,
     "lbl:longitude":12.761382,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107292"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734319,
-    "wof:geomhash":"c4218f7029363a033ac20bfc77602733",
+    "wof:geomhash":"dbc3b5bed0c296f17d7ed5f049a65b71",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307463,
-    "wof:lastmodified":1566643259,
+    "wof:lastmodified":1695879410,
     "wof:name":"Flakeberg",
     "wof:parent_id":1159303421,
     "wof:placetype":"localadmin",

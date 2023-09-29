@@ -130,8 +130,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_2029",
-        "eurostat:nuts_2021_id":"2029"
+        "eurostat:nuts_2021_id":"2029",
+        "se-lant:code":"2029"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525379465,
     "wof:geomhash":"b3b026ce1757f014bd9f9d029e23e318",
@@ -144,7 +146,7 @@
         }
     ],
     "wof:id":1159303237,
-    "wof:lastmodified":1684354752,
+    "wof:lastmodified":1695886754,
     "wof:name":"Leksand",
     "wof:parent_id":85688447,
     "wof:placetype":"county",

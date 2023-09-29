@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027303,
-    "geom:area_square_m":158636115.331981,
+    "geom:area_square_m":158636115.331994,
     "geom:bbox":"17.1640562208,61.9222365227,17.5523940674,62.0283849145",
     "geom:latitude":61.973511,
     "geom:longitude":17.342457,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":61.970319,
     "lbl:longitude":17.342458,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"318040"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733966,
-    "wof:geomhash":"ee956a7af5de556b9672cf4e84d0a6d2",
+    "wof:geomhash":"eb92eacc89b8e01d11d9505fec862c56",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306177,
-    "wof:lastmodified":1566643183,
+    "wof:lastmodified":1695879396,
     "wof:name":"Jattendal",
     "wof:parent_id":1159303081,
     "wof:placetype":"localadmin",

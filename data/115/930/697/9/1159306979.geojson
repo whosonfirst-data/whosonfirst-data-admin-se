@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00728,
-    "geom:area_square_m":45631823.657771,
+    "geom:area_square_m":45631823.65778,
     "geom:bbox":"16.9324353817,59.5084002958,17.1029619622,59.583477645",
     "geom:latitude":59.541813,
     "geom:longitude":17.022729,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.546991,
     "lbl:longitude":17.038204,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"215049"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734194,
-    "wof:geomhash":"a7822cc52081d1a9fbd9ebc54093fd1a",
+    "wof:geomhash":"5dc3d9f0150b0c5f965738471d2b0fe3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306979,
-    "wof:lastmodified":1566643325,
+    "wof:lastmodified":1695879423,
     "wof:name":"Enkopings-Nas",
     "wof:parent_id":1159303337,
     "wof:placetype":"localadmin",

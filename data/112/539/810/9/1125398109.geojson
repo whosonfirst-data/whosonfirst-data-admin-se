@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018907,
-    "geom:area_square_m":108177975.060071,
+    "geom:area_square_m":108177975.060089,
     "geom:bbox":"17.4937494108,62.3794158436,17.7599512767,62.4949625135",
     "geom:latitude":62.4374,
     "geom:longitude":17.633495,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":765,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":62.429521,
     "lbl:longitude":17.662628,
     "lbl:max_zoom":17.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8133012,
-        "qs_pg:id":1042458
+        "qs_pg:id":1042458,
+        "se-lant:code":"320012"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497049142,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"c13dbd2b9eb944ecf7dfc5035a1c85e1",
+    "wof:geomhash":"5d1feef6021f9737c4a90ba7c7b6ec2e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125398109,
-    "wof:lastmodified":1582340838,
+    "wof:lastmodified":1695879514,
     "wof:name":"Tyndero",
     "wof:parent_id":1159303091,
     "wof:placetype":"localadmin",

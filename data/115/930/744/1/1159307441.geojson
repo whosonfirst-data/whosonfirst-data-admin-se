@@ -10,6 +10,15 @@
     "geom:latitude":59.523883,
     "geom:longitude":16.873751,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.524399,
     "lbl:longitude":16.884011,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"214030"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734311,
-    "wof:geomhash":"c47bc6daf6080b487514a8f5e9835cad",
+    "wof:geomhash":"6cea80df564174853fc02eae0c8d55f6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307441,
-    "wof:lastmodified":1566643353,
+    "wof:lastmodified":1695879428,
     "wof:name":"Angso",
     "wof:parent_id":1159303331,
     "wof:placetype":"localadmin",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007231,
-    "geom:area_square_m":47001599.12392,
+    "geom:area_square_m":47001599.123918,
     "geom:bbox":"13.8502206028,58.2468695648,14.0115907074,58.320043143",
     "geom:latitude":58.285134,
     "geom:longitude":13.915684,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":165,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.281666,
     "lbl:longitude":13.91413,
     "lbl:max_zoom":18.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132237,
-        "qs_pg:id":757995
+        "qs_pg:id":757995,
+        "se-lant:code":"107314"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497047652,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"26ecb3a07fee4feed35a9fe518db8772",
+    "wof:geomhash":"15c918fe5864617df72983d20288ab22",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125374749,
-    "wof:lastmodified":1582340831,
+    "wof:lastmodified":1695879509,
     "wof:name":"Vreten",
     "wof:parent_id":1159302921,
     "wof:placetype":"localadmin",

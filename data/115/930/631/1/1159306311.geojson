@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002424,
-    "geom:area_square_m":16791919.401646,
+    "geom:area_square_m":16791919.401643,
     "geom:bbox":"13.9938979336,55.9067310193,14.1052237457,55.9480522719",
     "geom:latitude":55.924757,
     "geom:longitude":14.056253,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.93085,
     "lbl:longitude":14.071005,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101251"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733997,
-    "wof:geomhash":"9a87c6fe87bf28804be4c905dac0677f",
+    "wof:geomhash":"130104f83fbc09dacef6c71905bd3364",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306311,
-    "wof:lastmodified":1566643347,
+    "wof:lastmodified":1695879427,
     "wof:name":"Lyngsjo",
     "wof:parent_id":1159303497,
     "wof:placetype":"localadmin",

@@ -10,6 +10,15 @@
     "geom:latitude":57.280608,
     "geom:longitude":18.394911,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.273741,
     "lbl:longitude":18.396848,
     "lbl:max_zoom":18.0,
@@ -81,9 +90,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"106021"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733938,
-    "wof:geomhash":"bc4e966c325b7c4059d06a0bed6fea9f",
+    "wof:geomhash":"a9b6384afd268765effe259e06a927bc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,7 +107,7 @@
         }
     ],
     "wof:id":1159306063,
-    "wof:lastmodified":1566643331,
+    "wof:lastmodified":1695879425,
     "wof:name":"Linde",
     "wof:parent_id":1159303535,
     "wof:placetype":"localadmin",

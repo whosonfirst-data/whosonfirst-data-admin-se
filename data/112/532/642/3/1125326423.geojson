@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013067,
-    "geom:area_square_m":89931938.633465,
+    "geom:area_square_m":89931938.633459,
     "geom:bbox":"12.776751974,56.1265470849,13.0154526594,56.2389316799",
     "geom:latitude":56.179902,
     "geom:longitude":12.87822,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":2998,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.170776,
     "lbl:longitude":12.860165,
     "lbl:max_zoom":15.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131677,
-        "qs_pg:id":757646
+        "qs_pg:id":757646,
+        "se-lant:code":"101321"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497044842,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"16751d14c3d1c219ed9481602a8bbc8d",
+    "wof:geomhash":"63fdea5d0e4f3f9af3165d9db23767a1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125326423,
-    "wof:lastmodified":1582340759,
+    "wof:lastmodified":1695879454,
     "wof:name":"Strovelstorp",
     "wof:parent_id":1159303025,
     "wof:placetype":"localadmin",

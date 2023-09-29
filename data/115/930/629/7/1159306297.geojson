@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00188,
-    "geom:area_square_m":12240284.023557,
+    "geom:area_square_m":12240284.023558,
     "geom:bbox":"13.4406218264,58.2011945952,13.5338070049,58.259440082",
     "geom:latitude":58.235704,
     "geom:longitude":13.497794,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.235958,
     "lbl:longitude":13.499018,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107264"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733993,
-    "wof:geomhash":"a9cbaf173855c718cd9ad442943c3524",
+    "wof:geomhash":"e95d4d2525c2b4cd0a7da71e85472ca4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306297,
-    "wof:lastmodified":1566643196,
+    "wof:lastmodified":1695879399,
     "wof:name":"Ugglum",
     "wof:parent_id":1159303137,
     "wof:placetype":"localadmin",

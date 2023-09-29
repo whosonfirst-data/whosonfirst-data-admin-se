@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02011,
-    "geom:area_square_m":127017030.58936,
+    "geom:area_square_m":127017030.589366,
     "geom:bbox":"17.3350461957,59.2238686278,17.5946921639,59.351740959",
     "geom:latitude":59.283744,
     "geom:longitude":17.448242,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.297655,
     "lbl:longitude":17.409283,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"212089"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734301,
-    "wof:geomhash":"a4671ff0dc88d5911b4e03f2e1447e98",
+    "wof:geomhash":"3ab30967ada9e345f30690cd7f50ce5b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307401,
-    "wof:lastmodified":1566643235,
+    "wof:lastmodified":1695879406,
     "wof:name":"Enhorna",
     "wof:parent_id":1159303135,
     "wof:placetype":"localadmin",

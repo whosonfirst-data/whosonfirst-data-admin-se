@@ -244,8 +244,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_2584",
-        "eurostat:nuts_2021_id":"2584"
+        "eurostat:nuts_2021_id":"2584",
+        "se-lant:code":"2584"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525379397,
     "wof:geomhash":"e3738e249201c089ed2cc7fa47766f49",
@@ -258,7 +260,7 @@
         }
     ],
     "wof:id":1159302945,
-    "wof:lastmodified":1684354745,
+    "wof:lastmodified":1695886746,
     "wof:name":"Kiruna",
     "wof:parent_id":85688471,
     "wof:placetype":"county",

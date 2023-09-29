@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007842,
-    "geom:area_square_m":51964582.169882,
+    "geom:area_square_m":51964582.169888,
     "geom:bbox":"11.849328396,57.557990373,12.0097877714,57.6467231828",
     "geom:latitude":57.594139,
     "geom:longitude":11.937495,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":23434,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.596616,
     "lbl:longitude":11.942963,
     "lbl:max_zoom":14.0,
@@ -169,14 +178,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132291,
-        "qs_pg:id":358304
+        "qs_pg:id":358304,
+        "se-lant:code":"107040"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497045144,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"372ba522f83bf6e2e3860b1b787a1dee",
+    "wof:geomhash":"cb8b3a24277436257949ceed1cb47918",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -187,7 +198,7 @@
         }
     ],
     "wof:id":1125331203,
-    "wof:lastmodified":1582340731,
+    "wof:lastmodified":1695879434,
     "wof:name":"Askim",
     "wof:parent_id":1159302989,
     "wof:placetype":"localadmin",

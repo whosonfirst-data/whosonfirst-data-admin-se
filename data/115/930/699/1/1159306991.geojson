@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028419,
-    "geom:area_square_m":182178668.378369,
+    "geom:area_square_m":182178668.378354,
     "geom:bbox":"17.7178547229,58.6712201803,18.0017067713,58.9031019483",
     "geom:latitude":58.774753,
     "geom:longitude":17.844781,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.773383,
     "lbl:longitude":17.846931,
     "lbl:max_zoom":18.0,
@@ -126,9 +135,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"212011"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734196,
-    "wof:geomhash":"80dbb1f36996951459c547a27566acf7",
+    "wof:geomhash":"96119a6d8ea426e54173dd11cc178601",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -139,7 +152,7 @@
         }
     ],
     "wof:id":1159306991,
-    "wof:lastmodified":1566643321,
+    "wof:lastmodified":1695879422,
     "wof:name":"Toro",
     "wof:parent_id":1159303285,
     "wof:placetype":"localadmin",

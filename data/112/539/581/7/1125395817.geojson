@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.041042,
-    "geom:area_square_m":279694586.44631,
+    "geom:area_square_m":279694586.446308,
     "geom:bbox":"15.433129995,56.4414691773,15.7765645779,56.6646971775",
     "geom:latitude":56.555078,
     "geom:longitude":15.616093,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":3002,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.567119,
     "lbl:longitude":15.627807,
     "lbl:max_zoom":15.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132681,
-        "qs_pg:id":1049306
+        "qs_pg:id":1049306,
+        "se-lant:code":"105017"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497049006,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"cb0d8ff1e6f8ac24041ab695dcac3a32",
+    "wof:geomhash":"4b9a9c9c1be8cab28bc6a3d4a7d94b7b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125395817,
-    "wof:lastmodified":1582340839,
+    "wof:lastmodified":1695879515,
     "wof:name":"Vissefjarda",
     "wof:parent_id":1159303533,
     "wof:placetype":"localadmin",

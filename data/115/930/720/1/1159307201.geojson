@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007879,
-    "geom:area_square_m":51261721.421003,
+    "geom:area_square_m":51261721.421008,
     "geom:bbox":"14.7445087391,58.1852423253,14.8900249471,58.3095522137",
     "geom:latitude":58.254141,
     "geom:longitude":14.821365,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.251063,
     "lbl:longitude":14.821344,
     "lbl:max_zoom":18.0,
@@ -66,9 +75,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"108024"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734248,
-    "wof:geomhash":"74cf86a39957853064c142c7e313a2a1",
+    "wof:geomhash":"b78c00bb0cd3847094b886e486df6429",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +92,7 @@
         }
     ],
     "wof:id":1159307201,
-    "wof:lastmodified":1566643383,
+    "wof:lastmodified":1695879433,
     "wof:name":"Rok",
     "wof:parent_id":1159303179,
     "wof:placetype":"localadmin",

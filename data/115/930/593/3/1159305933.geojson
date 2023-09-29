@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006764,
-    "geom:area_square_m":43925068.392156,
+    "geom:area_square_m":43925068.392149,
     "geom:bbox":"14.6964653476,58.2705954998,14.8810907187,58.3549613465",
     "geom:latitude":58.317377,
     "geom:longitude":14.800779,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.326598,
     "lbl:longitude":14.807101,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"108036"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733910,
-    "wof:geomhash":"5649969701842b65e1b565a07574dfe2",
+    "wof:geomhash":"db887d297e17a6c8eb9df344549f1bd8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159305933,
-    "wof:lastmodified":1566643143,
+    "wof:lastmodified":1695879389,
     "wof:name":"Svanshals",
     "wof:parent_id":1159303179,
     "wof:placetype":"localadmin",

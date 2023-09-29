@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02142,
-    "geom:area_square_m":135414574.753981,
+    "geom:area_square_m":135414574.753985,
     "geom:bbox":"16.4998227269,59.2004355989,16.8410093466,59.3151033772",
     "geom:latitude":59.251549,
     "geom:longitude":16.663998,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.259307,
     "lbl:longitude":16.680732,
     "lbl:max_zoom":18.0,
@@ -54,9 +63,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"212062"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734099,
-    "wof:geomhash":"b5321594d66ebf83afd5fe0eaea0135a",
+    "wof:geomhash":"53e3511b1b1a8066423e9f544ea9df44",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,7 +80,7 @@
         }
     ],
     "wof:id":1159306629,
-    "wof:lastmodified":1566643334,
+    "wof:lastmodified":1695879425,
     "wof:name":"Arla",
     "wof:parent_id":1159303207,
     "wof:placetype":"localadmin",

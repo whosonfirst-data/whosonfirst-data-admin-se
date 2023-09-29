@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00202,
-    "geom:area_square_m":14153068.984384,
+    "geom:area_square_m":14153068.984383,
     "geom:bbox":"14.0114399288,55.4726531252,14.0894555993,55.5129106952",
     "geom:latitude":55.493912,
     "geom:longitude":14.048941,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.494202,
     "lbl:longitude":14.04895,
     "lbl:max_zoom":18.0,
@@ -54,9 +63,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101098"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734265,
-    "wof:geomhash":"333fe89f03ac57522f2b13ab6a653be6",
+    "wof:geomhash":"d874e8dc3137b85b7632cf8b7184eebc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,7 +80,7 @@
         }
     ],
     "wof:id":1159307273,
-    "wof:lastmodified":1566643384,
+    "wof:lastmodified":1695879433,
     "wof:name":"Bollerup",
     "wof:parent_id":1159302959,
     "wof:placetype":"localadmin",

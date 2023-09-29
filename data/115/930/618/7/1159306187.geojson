@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003592,
-    "geom:area_square_m":23224693.008385,
+    "geom:area_square_m":23224693.008388,
     "geom:bbox":"13.7951588175,58.4387988869,13.8973443869,58.5056369087",
     "geom:latitude":58.470308,
     "geom:longitude":13.841452,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.472423,
     "lbl:longitude":13.840698,
     "lbl:max_zoom":18.0,
@@ -42,9 +51,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107390"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733969,
-    "wof:geomhash":"2a2622c2ac6c47167946c163f35ad218",
+    "wof:geomhash":"7337f6c23e46ca9217612d7174c40022",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,7 +68,7 @@
         }
     ],
     "wof:id":1159306187,
-    "wof:lastmodified":1566643193,
+    "wof:lastmodified":1695879399,
     "wof:name":"Sater",
     "wof:parent_id":1159302921,
     "wof:placetype":"localadmin",

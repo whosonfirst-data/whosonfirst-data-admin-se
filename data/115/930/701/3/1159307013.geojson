@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008712,
-    "geom:area_square_m":54619013.881619,
+    "geom:area_square_m":54619013.881621,
     "geom:bbox":"16.6529942812,59.4877205179,16.8269202156,59.5910909445",
     "geom:latitude":59.535821,
     "geom:longitude":16.742502,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.530561,
     "lbl:longitude":16.742521,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"214027"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734202,
-    "wof:geomhash":"0eb5e801fe2bde8d430d10a7b2fa35e3",
+    "wof:geomhash":"8651bea9f70a813161f967a94e44cd4f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307013,
-    "wof:lastmodified":1566643146,
+    "wof:lastmodified":1695879389,
     "wof:name":"Karrbo",
     "wof:parent_id":1159303331,
     "wof:placetype":"localadmin",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012307,
-    "geom:area_square_m":82624992.735297,
+    "geom:area_square_m":82624992.735304,
     "geom:bbox":"12.734746752,57.0547296659,12.9089266022,57.1758484203",
     "geom:latitude":57.1144,
     "geom:longitude":12.823539,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":411,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.117593,
     "lbl:longitude":12.817558,
     "lbl:max_zoom":17.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131643,
-        "qs_pg:id":109305
+        "qs_pg:id":109305,
+        "se-lant:code":"104062"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497052658,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"215b72faac702ededdb3b657e9cba488",
+    "wof:geomhash":"ec4354487f2b47d9121fca29b312c93d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125423227,
-    "wof:lastmodified":1582340813,
+    "wof:lastmodified":1695879496,
     "wof:name":"Gallared",
     "wof:parent_id":1159303247,
     "wof:placetype":"localadmin",

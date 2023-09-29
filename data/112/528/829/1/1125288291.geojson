@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.053334,
-    "geom:area_square_m":302822046.536093,
+    "geom:area_square_m":302822046.536105,
     "geom:bbox":"16.3699038446,62.5524134512,16.8164641874,62.8073027989",
     "geom:latitude":62.666004,
     "geom:longitude":16.574391,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":458,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":62.674022,
     "lbl:longitude":16.559167,
     "lbl:max_zoom":17.0,
@@ -127,14 +136,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8133022,
-        "qs_pg:id":758470
+        "qs_pg:id":758470,
+        "se-lant:code":"320018"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497042804,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"e1a37140bcf424d0a1daeec49a1241c8",
+    "wof:geomhash":"0a4c1230e49bc6b6cef0440ec2f07bc4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -145,7 +156,7 @@
         }
     ],
     "wof:id":1125288291,
-    "wof:lastmodified":1582340783,
+    "wof:lastmodified":1695879475,
     "wof:name":"Holm",
     "wof:parent_id":1159303427,
     "wof:placetype":"localadmin",

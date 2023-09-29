@@ -73,8 +73,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_1480",
-        "eurostat:nuts_2021_id":"1480"
+        "eurostat:nuts_2021_id":"1480",
+        "se-lant:code":"1480"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525379408,
     "wof:geomhash":"e3b6468b458623dce53814bdb0e3ca1e",
@@ -87,7 +89,7 @@
         }
     ],
     "wof:id":1159302989,
-    "wof:lastmodified":1684354747,
+    "wof:lastmodified":1695886748,
     "wof:name":"Goteborg",
     "wof:parent_id":85688411,
     "wof:placetype":"county",

@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005395,
-    "geom:area_square_m":35779420.974875,
+    "geom:area_square_m":35779420.974878,
     "geom:bbox":"18.5718645912,57.5220708269,18.6786170324,57.6064683932",
     "geom:latitude":57.561858,
     "geom:longitude":18.618299,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.560949,
     "lbl:longitude":18.607653,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"106066"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734151,
-    "wof:geomhash":"d39168f33915dd163424c80b3af28379",
+    "wof:geomhash":"90a8ba118d5920c45b5ba98a0aaa22e7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306841,
-    "wof:lastmodified":1566643316,
+    "wof:lastmodified":1695879421,
     "wof:name":"Horsne-Bara",
     "wof:parent_id":1159303535,
     "wof:placetype":"localadmin",

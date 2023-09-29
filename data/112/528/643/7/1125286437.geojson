@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00303,
-    "geom:area_square_m":18866972.461622,
+    "geom:area_square_m":18866972.461623,
     "geom:bbox":"18.6445490451,59.7412809996,18.7785408598,59.7819517351",
     "geom:latitude":59.761155,
     "geom:longitude":18.706326,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":17123,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.762477,
     "lbl:longitude":18.700723,
     "lbl:max_zoom":15.0,
@@ -61,14 +70,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131771,
-        "qs_pg:id":757709
+        "qs_pg:id":757709,
+        "se-lant:code":"215142"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497042721,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"6cebc214555a7dabfd633daa7f5790cb",
+    "wof:geomhash":"d0c5f5a303000b662f2b7f33e239a092",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +90,7 @@
         }
     ],
     "wof:id":1125286437,
-    "wof:lastmodified":1582340783,
+    "wof:lastmodified":1695879475,
     "wof:name":"Norrtalje",
     "wof:parent_id":1159302995,
     "wof:placetype":"localadmin",

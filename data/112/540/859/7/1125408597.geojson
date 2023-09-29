@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008291,
-    "geom:area_square_m":54547789.806262,
+    "geom:area_square_m":54547789.806261,
     "geom:bbox":"13.3474776973,57.8154485717,13.5180167067,57.9028424938",
     "geom:latitude":57.854244,
     "geom:longitude":13.422011,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":1197,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.853524,
     "lbl:longitude":13.443308,
     "lbl:max_zoom":16.0,
@@ -76,14 +85,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8133302,
-        "qs_pg:id":1155730
+        "qs_pg:id":1155730,
+        "se-lant:code":"107125"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497049813,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"f75f95635b5209532a8e96a269a2bd38",
+    "wof:geomhash":"6cb2f3c435a8fa0aab96842678c65072",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,7 +105,7 @@
         }
     ],
     "wof:id":1125408597,
-    "wof:lastmodified":1582340866,
+    "wof:lastmodified":1695879533,
     "wof:name":"Timmele",
     "wof:parent_id":1159303161,
     "wof:placetype":"localadmin",

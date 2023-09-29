@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007141,
-    "geom:area_square_m":48241409.459881,
+    "geom:area_square_m":48241409.459875,
     "geom:bbox":"14.4398036187,56.841470358,14.6286929162,56.9198160027",
     "geom:latitude":56.882853,
     "geom:longitude":14.552388,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":8161,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.88791,
     "lbl:longitude":14.558881,
     "lbl:max_zoom":15.0,
@@ -118,14 +127,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132761,
-        "qs_pg:id":758328
+        "qs_pg:id":758328,
+        "se-lant:code":"105080"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497046500,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"cddd162168a0ed59e99bffc7acee2648",
+    "wof:geomhash":"8b164e43e297781db8a2aa3acbda022d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -136,7 +147,7 @@
         }
     ],
     "wof:id":1125356461,
-    "wof:lastmodified":1582340748,
+    "wof:lastmodified":1695879446,
     "wof:name":"Alvesta",
     "wof:parent_id":1159303407,
     "wof:placetype":"localadmin",

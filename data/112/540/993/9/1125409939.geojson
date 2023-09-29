@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004125,
-    "geom:area_square_m":28404195.36298,
+    "geom:area_square_m":28404195.362979,
     "geom:bbox":"13.6940578692,56.1307419405,13.8104255603,56.1920788746",
     "geom:latitude":56.157308,
     "geom:longitude":13.75242,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":18694,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.151519,
     "lbl:longitude":13.752409,
     "lbl:max_zoom":15.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132219,
-        "qs_pg:id":1155684
+        "qs_pg:id":1155684,
+        "se-lant:code":"101330"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497049925,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"08b94cb4dc538c17a538beb8ebbd1dfe",
+    "wof:geomhash":"5fb50b03ce7a7725f58e285efb2d8555",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125409939,
-    "wof:lastmodified":1582340867,
+    "wof:lastmodified":1695879534,
     "wof:name":"Hassleholm",
     "wof:parent_id":1159303121,
     "wof:placetype":"localadmin",

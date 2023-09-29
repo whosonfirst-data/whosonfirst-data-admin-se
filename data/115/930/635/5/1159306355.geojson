@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.101932,
-    "geom:area_square_m":631401561.721462,
+    "geom:area_square_m":631401561.721466,
     "geom:bbox":"14.737343,59.76798,15.228428,60.110934",
     "geom:latitude":59.937091,
     "geom:longitude":14.967854,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.915034,
     "lbl:longitude":14.987626,
     "lbl:max_zoom":18.0,
@@ -34,17 +43,21 @@
     "wof:belongsto":[
         102191581,
         85633789,
-        1159303323,
-        85688421
+        85688421,
+        1159303323
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"214058"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:coterminous":[
         1159303323
     ],
     "wof:country":"SE",
     "wof:created":1525734012,
-    "wof:geomhash":"da02e186556f8893e001ddaea26bf1f6",
+    "wof:geomhash":"97f1620d3a028e8fa004886a52a3b17f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,7 +68,7 @@
         }
     ],
     "wof:id":1159306355,
-    "wof:lastmodified":1608048515,
+    "wof:lastmodified":1695879558,
     "wof:name":"Ljusnarsberg",
     "wof:parent_id":1159303323,
     "wof:placetype":"localadmin",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.142447,
-    "geom:area_square_m":794317557.93612,
+    "geom:area_square_m":794317557.936109,
     "geom:bbox":"15.2213310949,63.0406118061,16.0317360158,63.3830553516",
     "geom:latitude":63.194619,
     "geom:longitude":15.619941,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":1416,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":63.209048,
     "lbl:longitude":15.647427,
     "lbl:max_zoom":16.0,
@@ -73,14 +82,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132579,
-        "qs_pg:id":381380
+        "qs_pg:id":381380,
+        "se-lant:code":"322028"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497048110,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"d1901a44a07bed72b221a7416b65e205",
+    "wof:geomhash":"e36d136e0d8185085dde070acad867a7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +102,7 @@
         }
     ],
     "wof:id":1125382133,
-    "wof:lastmodified":1582340852,
+    "wof:lastmodified":1695879523,
     "wof:name":"Stugun",
     "wof:parent_id":1159303013,
     "wof:placetype":"localadmin",

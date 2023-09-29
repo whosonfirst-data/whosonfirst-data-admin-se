@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001593,
-    "geom:area_square_m":11071582.228309,
+    "geom:area_square_m":11071582.228307,
     "geom:bbox":"13.3956770648,55.770452881,13.4783001152,55.8080613258",
     "geom:latitude":55.789505,
     "geom:longitude":13.435764,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.792101,
     "lbl:longitude":13.436435,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101206"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734281,
-    "wof:geomhash":"ce26c41aa1cdcb0e765151b681e3f1b5",
+    "wof:geomhash":"707f801d6d3e41f85e2478a6b4affd3e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307319,
-    "wof:lastmodified":1566643168,
+    "wof:lastmodified":1695879393,
     "wof:name":"Hurva",
     "wof:parent_id":1159303151,
     "wof:placetype":"localadmin",

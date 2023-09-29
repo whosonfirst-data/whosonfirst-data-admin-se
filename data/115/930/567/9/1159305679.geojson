@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01163,
-    "geom:area_square_m":73028827.865594,
+    "geom:area_square_m":73028827.865595,
     "geom:bbox":"17.4648175917,59.4282211232,17.6517235061,59.5442681839",
     "geom:latitude":59.480707,
     "geom:longitude":17.556341,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.482357,
     "lbl:longitude":17.554935,
     "lbl:max_zoom":18.0,
@@ -60,9 +69,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"215039"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733842,
-    "wof:geomhash":"dce8d17c977d13cebe19e3431969cc1d",
+    "wof:geomhash":"62efa9ba052021801ea2bc657f651848",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,7 +86,7 @@
         }
     ],
     "wof:id":1159305679,
-    "wof:lastmodified":1566643144,
+    "wof:lastmodified":1695879389,
     "wof:name":"Lassa",
     "wof:parent_id":1159303115,
     "wof:placetype":"localadmin",

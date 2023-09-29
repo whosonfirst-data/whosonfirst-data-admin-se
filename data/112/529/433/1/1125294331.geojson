@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.126878,
-    "geom:area_square_m":778980704.839388,
+    "geom:area_square_m":778980704.83943,
     "geom:bbox":"14.6236565254,59.9971756174,15.2393375814,60.4185935387",
     "geom:latitude":60.229749,
     "geom:longitude":14.89183,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":3782,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":60.222322,
     "lbl:longitude":14.896572,
     "lbl:max_zoom":15.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132752,
-        "qs_pg:id":1246017
+        "qs_pg:id":1246017,
+        "se-lant:code":"217006"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497043068,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"0246c4cd9e38529db6cbff326545aead",
+    "wof:geomhash":"568f6c9fb0a85bf1d92da5f09efd6cb5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125294331,
-    "wof:lastmodified":1582340808,
+    "wof:lastmodified":1695879492,
     "wof:name":"Grangarde",
     "wof:parent_id":1159303345,
     "wof:placetype":"localadmin",

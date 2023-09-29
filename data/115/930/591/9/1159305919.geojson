@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024746,
-    "geom:area_square_m":158977791.485843,
+    "geom:area_square_m":158977791.485812,
     "geom:bbox":"11.6664251585,58.600443246,11.874300592,58.818993497",
     "geom:latitude":58.697782,
     "geom:longitude":11.761327,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.701037,
     "lbl:longitude":11.76136,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"109076"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733906,
-    "wof:geomhash":"d04ee5c4882c567168f14665a5c7224d",
+    "wof:geomhash":"40d0def63c152dfad34c89b8917fa224",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159305919,
-    "wof:lastmodified":1566643293,
+    "wof:lastmodified":1695879416,
     "wof:name":"Krokstad",
     "wof:parent_id":1159302991,
     "wof:placetype":"localadmin",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022879,
-    "geom:area_square_m":146501160.366051,
+    "geom:area_square_m":146501160.366046,
     "geom:bbox":"16.5879342039,58.7633944968,16.9411715845,58.8673465068",
     "geom:latitude":58.812236,
     "geom:longitude":16.769723,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":4137,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.818189,
     "lbl:longitude":16.783962,
     "lbl:max_zoom":15.0,
@@ -79,14 +88,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131861,
-        "qs_pg:id":757773
+        "qs_pg:id":757773,
+        "se-lant:code":"212014"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497044762,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"e8e79e0613890e0baa4dab33fcb6032f",
+    "wof:geomhash":"1f998f1a6b2515b54976a74c568f47d6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -97,7 +108,7 @@
         }
     ],
     "wof:id":1125325219,
-    "wof:lastmodified":1582340762,
+    "wof:lastmodified":1695879456,
     "wof:name":"Stigtomta",
     "wof:parent_id":1159303471,
     "wof:placetype":"localadmin",

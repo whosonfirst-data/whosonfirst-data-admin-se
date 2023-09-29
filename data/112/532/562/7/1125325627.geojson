@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014118,
-    "geom:area_square_m":94779459.232165,
+    "geom:area_square_m":94779459.232155,
     "geom:bbox":"13.1132888639,57.025138042,13.3576294556,57.174850425",
     "geom:latitude":57.116056,
     "geom:longitude":13.231208,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":688,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.12791,
     "lbl:longitude":13.238516,
     "lbl:max_zoom":17.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132627,
-        "qs_pg:id":758267
+        "qs_pg:id":758267,
+        "se-lant:code":"105132"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497044794,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"ddd7e8f71d878bd6698c8185b5f000f6",
+    "wof:geomhash":"80949bf0d7371a027696eab62d629bed",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125325627,
-    "wof:lastmodified":1582340769,
+    "wof:lastmodified":1695879462,
     "wof:name":"Sodra Hestra",
     "wof:parent_id":1159303327,
     "wof:placetype":"localadmin",

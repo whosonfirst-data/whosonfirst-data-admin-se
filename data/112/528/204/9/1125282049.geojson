@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.048223,
-    "geom:area_square_m":313393831.516094,
+    "geom:area_square_m":313393831.516054,
     "geom:bbox":"16.2507359986,58.1806305188,16.6858178685,58.3950400938",
     "geom:latitude":58.292794,
     "geom:longitude":16.468962,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":3275,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.281981,
     "lbl:longitude":16.490481,
     "lbl:max_zoom":15.0,
@@ -76,14 +85,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131749,
-        "qs_pg:id":381306
+        "qs_pg:id":381306,
+        "se-lant:code":"108058"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497042539,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"a2472d91ec3cfbe3538a0b373c48b8d4",
+    "wof:geomhash":"0caf9d337941f813c063d468c52998b1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,7 +105,7 @@
         }
     ],
     "wof:id":1125282049,
-    "wof:lastmodified":1582340785,
+    "wof:lastmodified":1695879476,
     "wof:name":"Ringarum",
     "wof:parent_id":1159303123,
     "wof:placetype":"localadmin",

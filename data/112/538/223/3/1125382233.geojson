@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.249679,
-    "geom:area_square_m":1492172273.267005,
+    "geom:area_square_m":1492172273.267044,
     "geom:bbox":"13.946110377,60.8391463467,15.0415545136,61.621401003",
     "geom:latitude":61.097192,
     "geom:longitude":14.349651,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":16665,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":60.974456,
     "lbl:longitude":14.286569,
     "lbl:max_zoom":15.0,
@@ -172,14 +181,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132729,
-        "qs_pg:id":381415
+        "qs_pg:id":381415,
+        "se-lant:code":"217043"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497048115,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"9a27ca6343495ca06d801dcee9f71867",
+    "wof:geomhash":"f67678b1e159bba79b4c3b1fd9f809b7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -190,7 +201,7 @@
         }
     ],
     "wof:id":1125382233,
-    "wof:lastmodified":1582340851,
+    "wof:lastmodified":1695879522,
     "wof:name":"Mora",
     "wof:parent_id":1159303515,
     "wof:placetype":"localadmin",

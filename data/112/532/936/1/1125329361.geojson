@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0023,
-    "geom:area_square_m":14391009.696625,
+    "geom:area_square_m":14391009.696622,
     "geom:bbox":"17.7727979987,59.5842033817,17.8536945691,59.6330962166",
     "geom:latitude":59.608169,
     "geom:longitude":17.809308,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":10034,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.607581,
     "lbl:longitude":17.809313,
     "lbl:max_zoom":15.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131772,
-        "qs_pg:id":381311
+        "qs_pg:id":381311,
+        "se-lant:code":"215084"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497045038,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"c9a63f488fbb7151da69553ed0774a76",
+    "wof:geomhash":"a48dbefc7ae21e474f640cc8b2d2a11e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125329361,
-    "wof:lastmodified":1582340754,
+    "wof:lastmodified":1695879450,
     "wof:name":"Valsta",
     "wof:parent_id":1159303265,
     "wof:placetype":"localadmin",

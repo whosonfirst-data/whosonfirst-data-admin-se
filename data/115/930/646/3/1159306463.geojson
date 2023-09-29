@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024568,
-    "geom:area_square_m":157489164.310534,
+    "geom:area_square_m":157489164.31053,
     "geom:bbox":"14.470097623,58.6769021495,14.6913488326,58.876336241",
     "geom:latitude":58.773263,
     "geom:longitude":14.575981,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.773285,
     "lbl:longitude":14.577658,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107448"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734050,
-    "wof:geomhash":"4055d178c393465a3100a17822995422",
+    "wof:geomhash":"a608018bc2661895d1364ff3feb555d6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306463,
-    "wof:lastmodified":1566643313,
+    "wof:lastmodified":1695879420,
     "wof:name":"Tived",
     "wof:parent_id":1159303461,
     "wof:placetype":"localadmin",

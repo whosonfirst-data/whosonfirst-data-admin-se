@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004658,
-    "geom:area_square_m":30605030.169182,
+    "geom:area_square_m":30605030.169184,
     "geom:bbox":"13.3930248368,57.8674821767,13.5645516191,57.9436768145",
     "geom:latitude":57.901197,
     "geom:longitude":13.464053,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.910266,
     "lbl:longitude":13.448372,
     "lbl:max_zoom":18.0,
@@ -54,9 +63,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107127"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734260,
-    "wof:geomhash":"1195ea2aa1e243bda281a24ad46f1e28",
+    "wof:geomhash":"203553e4c155a5872003c1f9385af8b0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,7 +80,7 @@
         }
     ],
     "wof:id":1159307249,
-    "wof:lastmodified":1566643249,
+    "wof:lastmodified":1695879409,
     "wof:name":"Dalum",
     "wof:parent_id":1159303161,
     "wof:placetype":"localadmin",

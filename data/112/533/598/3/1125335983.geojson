@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020401,
-    "geom:area_square_m":134763461.812507,
+    "geom:area_square_m":134763461.812495,
     "geom:bbox":"16.3530124726,57.6361434421,16.6620007522,57.7624284769",
     "geom:latitude":57.708377,
     "geom:longitude":16.475946,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":2126,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.697184,
     "lbl:longitude":16.452519,
     "lbl:max_zoom":15.0,
@@ -61,14 +70,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131717,
-        "qs_pg:id":757678
+        "qs_pg:id":757678,
+        "se-lant:code":"105244"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497045414,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"6cfb981e7237dfb054bf411909dfb3f8",
+    "wof:geomhash":"7b14be8f544325e42ba0fefeb9116e0b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +90,7 @@
         }
     ],
     "wof:id":1125335983,
-    "wof:lastmodified":1582340731,
+    "wof:lastmodified":1695879434,
     "wof:name":"Gladhammar",
     "wof:parent_id":1159303209,
     "wof:placetype":"localadmin",

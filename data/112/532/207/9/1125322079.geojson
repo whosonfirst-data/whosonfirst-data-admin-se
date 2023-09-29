@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016679,
-    "geom:area_square_m":109914920.858162,
+    "geom:area_square_m":109914920.858168,
     "geom:bbox":"18.6722426707,57.7192936382,18.8881247803,57.868606807",
     "geom:latitude":57.79469,
     "geom:longitude":18.7955,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":1017,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.792601,
     "lbl:longitude":18.795491,
     "lbl:max_zoom":16.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132525,
-        "qs_pg:id":758195
+        "qs_pg:id":758195,
+        "se-lant:code":"106087"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497044590,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"0ad20d6a3b5f4e4b6ec75d71a99706cf",
+    "wof:geomhash":"0bc539a0eb37a41bf7fa6e8071d6a1b7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125322079,
-    "wof:lastmodified":1582340772,
+    "wof:lastmodified":1695879464,
     "wof:name":"Larbro",
     "wof:parent_id":1159303535,
     "wof:placetype":"localadmin",

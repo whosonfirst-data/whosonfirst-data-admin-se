@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004342,
-    "geom:area_square_m":28648890.453219,
+    "geom:area_square_m":28648890.453218,
     "geom:bbox":"13.1538867546,57.7117661888,13.2498808704,57.7807175111",
     "geom:latitude":57.750117,
     "geom:longitude":13.201914,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":844,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.750741,
     "lbl:longitude":13.196198,
     "lbl:max_zoom":17.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132099,
-        "qs_pg:id":109373
+        "qs_pg:id":109373,
+        "se-lant:code":"107105"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497047513,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"02326730582a1ed5e20dae1527157f0c",
+    "wof:geomhash":"e22ee4788d514289fa23ee95a1e2b7a2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125372641,
-    "wof:lastmodified":1582340832,
+    "wof:lastmodified":1695879509,
     "wof:name":"Aspered",
     "wof:parent_id":1159303073,
     "wof:placetype":"localadmin",

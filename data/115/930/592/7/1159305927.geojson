@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.03947,
-    "geom:area_square_m":245486579.416278,
+    "geom:area_square_m":245486579.416281,
     "geom:bbox":"14.6429584894,59.6943402181,14.9529868219,59.9270944133",
     "geom:latitude":59.80194,
     "geom:longitude":14.782524,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.799093,
     "lbl:longitude":14.78489,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"214053"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733908,
-    "wof:geomhash":"f972e1ead4a8f75eacbd619358cd2308",
+    "wof:geomhash":"1598cc67d6b8bd2a37c95154e819c34e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159305927,
-    "wof:lastmodified":1566643158,
+    "wof:lastmodified":1695879392,
     "wof:name":"Hjulsjo",
     "wof:parent_id":1159303071,
     "wof:placetype":"localadmin",

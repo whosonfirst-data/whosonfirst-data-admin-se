@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030239,
-    "geom:area_square_m":169545320.823863,
+    "geom:area_square_m":169545320.823878,
     "geom:bbox":"17.970365467,62.9403922534,18.2858325645,63.1187524992",
     "geom:latitude":63.035787,
     "geom:longitude":18.116991,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":63.035459,
     "lbl:longitude":18.127832,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"321017"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734242,
-    "wof:geomhash":"a11767725b723d1b7dccf80ae7bec114",
+    "wof:geomhash":"96a60c73f4a8e9db6c5cfb56abee309f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307175,
-    "wof:lastmodified":1566643366,
+    "wof:lastmodified":1695879430,
     "wof:name":"Ullanger",
     "wof:parent_id":1159303301,
     "wof:placetype":"localadmin",

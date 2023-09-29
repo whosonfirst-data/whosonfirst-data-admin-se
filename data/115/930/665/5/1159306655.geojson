@@ -10,6 +10,15 @@
     "geom:latitude":55.608553,
     "geom:longitude":13.17342,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.604706,
     "lbl:longitude":13.176412,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101128"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734104,
-    "wof:geomhash":"b1936c1282ae3e40ffab3735b5770c96",
+    "wof:geomhash":"c4c65f44f79f3a39d1a42c527beaadf0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306655,
-    "wof:lastmodified":1566643338,
+    "wof:lastmodified":1695879426,
     "wof:name":"Molleberga",
     "wof:parent_id":1159303125,
     "wof:placetype":"localadmin",

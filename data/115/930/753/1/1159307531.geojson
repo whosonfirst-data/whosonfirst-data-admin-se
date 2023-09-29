@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007806,
-    "geom:area_square_m":48501766.838474,
+    "geom:area_square_m":48501766.838462,
     "geom:bbox":"17.0380910258,59.7874896788,17.1911010524,59.8847824422",
     "geom:latitude":59.835948,
     "geom:longitude":17.117981,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.839297,
     "lbl:longitude":17.116819,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"215126"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734336,
-    "wof:geomhash":"fc1e9eae18993693d723e6a07dd41efa",
+    "wof:geomhash":"51e6835bff8ee390ed97348f073d1a3c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307531,
-    "wof:lastmodified":1566643160,
+    "wof:lastmodified":1695879392,
     "wof:name":"Osterunda",
     "wof:parent_id":1159303337,
     "wof:placetype":"localadmin",

@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000705,
-    "geom:area_square_m":4552995.334067,
+    "geom:area_square_m":4552995.334063,
     "geom:bbox":"13.8276690137,58.5015136627,13.8760243945,58.5296016583",
     "geom:latitude":58.515132,
     "geom:longitude":13.851633,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.514123,
     "lbl:longitude":13.851283,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107392"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734024,
-    "wof:geomhash":"162494bfdfa83f89e28027ed5c7ec9fe",
+    "wof:geomhash":"0342e30e6068d2249ad943274166972d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306379,
-    "wof:lastmodified":1566643327,
+    "wof:lastmodified":1695879424,
     "wof:name":"Binneberg",
     "wof:parent_id":1159302921,
     "wof:placetype":"localadmin",

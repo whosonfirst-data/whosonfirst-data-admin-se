@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015244,
-    "geom:area_square_m":99259299.948237,
+    "geom:area_square_m":99259299.948244,
     "geom:bbox":"11.2874719385,58.1741360356,11.505418513,58.2692942085",
     "geom:latitude":58.224212,
     "geom:longitude":11.387189,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":1533,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.22383,
     "lbl:longitude":11.376197,
     "lbl:max_zoom":16.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132445,
-        "qs_pg:id":758147
+        "qs_pg:id":758147,
+        "se-lant:code":"109036"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497046879,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"0ac78defa68fc964570276479eb83658",
+    "wof:geomhash":"ed95a554f16fb31d7e8f1883643fd34a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125362443,
-    "wof:lastmodified":1582340858,
+    "wof:lastmodified":1695879528,
     "wof:name":"Skafto",
     "wof:parent_id":1159303273,
     "wof:placetype":"localadmin",

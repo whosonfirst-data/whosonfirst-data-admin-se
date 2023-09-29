@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010892,
-    "geom:area_square_m":70222551.641197,
+    "geom:area_square_m":70222551.641191,
     "geom:bbox":"14.1632372502,58.5196866387,14.344415971,58.6239180778",
     "geom:latitude":58.574078,
     "geom:longitude":14.263069,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.577281,
     "lbl:longitude":14.261661,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107427"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733991,
-    "wof:geomhash":"3c71a82b6079864431f5f3e5ff6061db",
+    "wof:geomhash":"2b64a2a29b793cc04ea295fecbf9d7b7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306287,
-    "wof:lastmodified":1566643182,
+    "wof:lastmodified":1695879396,
     "wof:name":"Beateberg",
     "wof:parent_id":1159303045,
     "wof:placetype":"localadmin",

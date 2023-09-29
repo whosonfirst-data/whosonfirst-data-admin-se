@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003317,
-    "geom:area_square_m":21478164.13283,
+    "geom:area_square_m":21478164.132831,
     "geom:bbox":"13.2097460174,58.4026467113,13.3547557252,58.4442594043",
     "geom:latitude":58.421781,
     "geom:longitude":13.281888,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.423468,
     "lbl:longitude":13.28296,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107343"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734222,
-    "wof:geomhash":"5dcf489ac07258a0d006547b0828b193",
+    "wof:geomhash":"bdb0320a8b8584421237b7a35209c19d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307087,
-    "wof:lastmodified":1566643151,
+    "wof:lastmodified":1695879391,
     "wof:name":"Hasslosa",
     "wof:parent_id":1159303281,
     "wof:placetype":"localadmin",

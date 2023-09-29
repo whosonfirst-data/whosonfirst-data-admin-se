@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006989,
-    "geom:area_square_m":48862950.999633,
+    "geom:area_square_m":48862950.999643,
     "geom:bbox":"13.5169748624,55.5242140197,13.6650437315,55.6129675936",
     "geom:latitude":55.56748,
     "geom:longitude":13.601949,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":3614,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.568076,
     "lbl:longitude":13.601948,
     "lbl:max_zoom":15.0,
@@ -73,14 +82,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132188,
-        "qs_pg:id":757981
+        "qs_pg:id":757981,
+        "se-lant:code":"101084"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497046487,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"128aab96b0ee05094414e5cb417fa9f8",
+    "wof:geomhash":"86d39316e8ad34a795849638d8eef14a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +102,7 @@
         }
     ],
     "wof:id":1125356241,
-    "wof:lastmodified":1582340747,
+    "wof:lastmodified":1695879446,
     "wof:name":"Blentarp",
     "wof:parent_id":1159303197,
     "wof:placetype":"localadmin",

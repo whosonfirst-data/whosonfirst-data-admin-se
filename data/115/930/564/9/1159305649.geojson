@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012263,
-    "geom:area_square_m":78192014.783328,
+    "geom:area_square_m":78192014.783329,
     "geom:bbox":"12.9664648577,58.9033293635,13.2026161005,58.9996730173",
     "geom:latitude":58.959258,
     "geom:longitude":13.083694,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.950497,
     "lbl:longitude":13.075635,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"213002"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733835,
-    "wof:geomhash":"43cb3608d5562d59042fb02df4bf8cc1",
+    "wof:geomhash":"b55f17e278cb6fd13d2645092734969c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159305649,
-    "wof:lastmodified":1566643275,
+    "wof:lastmodified":1695879413,
     "wof:name":"Millesvik",
     "wof:parent_id":1159303169,
     "wof:placetype":"localadmin",

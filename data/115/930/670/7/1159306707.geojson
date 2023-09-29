@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012041,
-    "geom:area_square_m":75363529.188068,
+    "geom:area_square_m":75363529.18807,
     "geom:bbox":"17.7974614176,59.5485280999,18.0205272858,59.6385122439",
     "geom:latitude":59.592174,
     "geom:longitude":17.925361,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.595091,
     "lbl:longitude":17.956694,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"215063"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734115,
-    "wof:geomhash":"64f8dd85fa330524b043b0ab13d6e4ff",
+    "wof:geomhash":"221cf2e42fc98d40ce56c78a55d61301",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306707,
-    "wof:lastmodified":1566643315,
+    "wof:lastmodified":1695879421,
     "wof:name":"Norrsunda-Skanela",
     "wof:parent_id":1159303265,
     "wof:placetype":"localadmin",

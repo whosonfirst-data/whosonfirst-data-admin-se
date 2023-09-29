@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003918,
-    "geom:area_square_m":25487311.655786,
+    "geom:area_square_m":25487311.655788,
     "geom:bbox":"13.3893408564,58.241992407,13.5469002335,58.2808412124",
     "geom:latitude":58.262449,
     "geom:longitude":13.460546,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.261725,
     "lbl:longitude":13.460541,
     "lbl:max_zoom":18.0,
@@ -45,9 +54,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107265"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734042,
-    "wof:geomhash":"456a3a8e4c5663ab02bb7e5e580fdc7c",
+    "wof:geomhash":"7c1818df4087e6da2383d4ff45bf1b60",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +71,7 @@
         }
     ],
     "wof:id":1159306431,
-    "wof:lastmodified":1566643178,
+    "wof:lastmodified":1695879395,
     "wof:name":"Bjurum",
     "wof:parent_id":1159303137,
     "wof:placetype":"localadmin",

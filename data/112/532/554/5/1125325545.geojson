@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004016,
-    "geom:area_square_m":26772465.678429,
+    "geom:area_square_m":26772465.67843,
     "geom:bbox":"12.2781668796,57.3467937161,12.3960464696,57.3986315112",
     "geom:latitude":57.371315,
     "geom:longitude":12.344345,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":310,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.37086,
     "lbl:longitude":12.344353,
     "lbl:max_zoom":17.0,
@@ -79,14 +88,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132568,
-        "qs_pg:id":758228
+        "qs_pg:id":758228,
+        "se-lant:code":"104081"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497044788,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"c25dcd80b2199082e7e995aaa06dd45b",
+    "wof:geomhash":"b620d048d5dea1c01fbf06344d1cfc95",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -97,7 +108,7 @@
         }
     ],
     "wof:id":1125325545,
-    "wof:lastmodified":1582340770,
+    "wof:lastmodified":1695879462,
     "wof:name":"Idala",
     "wof:parent_id":1159303249,
     "wof:placetype":"localadmin",

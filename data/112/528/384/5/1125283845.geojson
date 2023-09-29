@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012457,
-    "geom:area_square_m":80809337.502667,
+    "geom:area_square_m":80809337.502647,
     "geom:bbox":"12.1525781562,58.3067935458,12.3817157682,58.4155679216",
     "geom:latitude":58.358383,
     "geom:longitude":12.268838,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":22691,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.356907,
     "lbl:longitude":12.257602,
     "lbl:max_zoom":14.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132093,
-        "qs_pg:id":1042407
+        "qs_pg:id":1042407,
+        "se-lant:code":"107325"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497042618,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"a00a90ab7dcb015cf0723bd313af77e3",
+    "wof:geomhash":"acaea2142016e176baf0168b8a086c49",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125283845,
-    "wof:lastmodified":1582340787,
+    "wof:lastmodified":1695879477,
     "wof:name":"Vanersborg",
     "wof:parent_id":1159303519,
     "wof:placetype":"localadmin",

@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004446,
-    "geom:area_square_m":29743223.959742,
+    "geom:area_square_m":29743223.959737,
     "geom:bbox":"12.4099689935,57.2160166799,12.5169681746,57.2869053318",
     "geom:latitude":57.249211,
     "geom:longitude":12.466595,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.247576,
     "lbl:longitude":12.461294,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107001"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733914,
-    "wof:geomhash":"9d608fd779bf0576f0ce305d7b76f871",
+    "wof:geomhash":"5a76aeb5824300d354ae918570716eb5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159305951,
-    "wof:lastmodified":1566643158,
+    "wof:lastmodified":1695879392,
     "wof:name":"Grimmared",
     "wof:parent_id":1159302939,
     "wof:placetype":"localadmin",

@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002492,
-    "geom:area_square_m":15538714.059668,
+    "geom:area_square_m":15538714.059664,
     "geom:bbox":"17.2332766738,59.6886844062,17.3239863641,59.7443842115",
     "geom:latitude":59.722831,
     "geom:longitude":17.275617,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.726094,
     "lbl:longitude":17.275582,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"215101"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734131,
-    "wof:geomhash":"3609550d9fc3b186b27e9d2572250ff2",
+    "wof:geomhash":"aa5831206a1fa253d54dee46736495fe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306777,
-    "wof:lastmodified":1566643318,
+    "wof:lastmodified":1695879421,
     "wof:name":"Froslunda",
     "wof:parent_id":1159303337,
     "wof:placetype":"localadmin",

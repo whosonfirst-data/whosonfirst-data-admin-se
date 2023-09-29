@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.156857,
-    "geom:area_square_m":827862875.681159,
+    "geom:area_square_m":827862875.681224,
     "geom:bbox":"20.0336574021,64.583826476,21.1953601385,64.8677700919",
     "geom:latitude":64.733496,
     "geom:longitude":20.635338,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":20268,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":64.736552,
     "lbl:longitude":20.665914,
     "lbl:max_zoom":14.0,
@@ -61,14 +70,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131951,
-        "qs_pg:id":757832
+        "qs_pg:id":757832,
+        "se-lant:code":"323021"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497051606,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"f3438824b2db312a13558712b5e99c68",
+    "wof:geomhash":"b06f631a580707c81fe3ce264eeb3ff1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +90,7 @@
         }
     ],
     "wof:id":1125417515,
-    "wof:lastmodified":1582340872,
+    "wof:lastmodified":1695879544,
     "wof:name":"Skelleftea landsdistrikt",
     "wof:parent_id":1159303205,
     "wof:placetype":"localadmin",

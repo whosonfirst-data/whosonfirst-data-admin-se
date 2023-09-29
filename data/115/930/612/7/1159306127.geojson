@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001283,
-    "geom:area_square_m":8273425.829274,
+    "geom:area_square_m":8273425.829276,
     "geom:bbox":"13.3018229091,58.5466024626,13.3837138172,58.5721401772",
     "geom:latitude":58.55878,
     "geom:longitude":13.342656,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.557179,
     "lbl:longitude":13.34597,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107406"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733953,
-    "wof:geomhash":"b4f60ab2bf2f0ec5007655849a2a1109",
+    "wof:geomhash":"b0e6cf5d53e5ea2d89d9566b72e3e37a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306127,
-    "wof:lastmodified":1566643309,
+    "wof:lastmodified":1695879419,
     "wof:name":"Vasterplana",
     "wof:parent_id":1159302923,
     "wof:placetype":"localadmin",

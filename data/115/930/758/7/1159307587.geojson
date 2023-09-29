@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011209,
-    "geom:area_square_m":73655382.008042,
+    "geom:area_square_m":73655382.008041,
     "geom:bbox":"13.5699124363,57.8498025168,13.7919462827,57.9408239611",
     "geom:latitude":57.898344,
     "geom:longitude":13.693805,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.899242,
     "lbl:longitude":13.695442,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107131"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734350,
-    "wof:geomhash":"9661dbd79f1805b5a8448b41509fd860",
+    "wof:geomhash":"c3d69f848b42deb739e1a4870fbec491",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307587,
-    "wof:lastmodified":1566643270,
+    "wof:lastmodified":1695879412,
     "wof:name":"Kolingared",
     "wof:parent_id":1159303161,
     "wof:placetype":"localadmin",

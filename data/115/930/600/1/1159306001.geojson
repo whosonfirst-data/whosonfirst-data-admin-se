@@ -10,6 +10,15 @@
     "geom:latitude":57.437645,
     "geom:longitude":14.491533,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.439006,
     "lbl:longitude":14.490162,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"105190"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733924,
-    "wof:geomhash":"2eaec9722b29490dd406f3d1550a8241",
+    "wof:geomhash":"f6475ca57598d77bf90cd50674b7c2a7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306001,
-    "wof:lastmodified":1566643341,
+    "wof:lastmodified":1695879427,
     "wof:name":"Hylletofta",
     "wof:parent_id":1159303069,
     "wof:placetype":"localadmin",

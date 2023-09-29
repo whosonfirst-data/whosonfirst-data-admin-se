@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004821,
-    "geom:area_square_m":31215722.088891,
+    "geom:area_square_m":31215722.088887,
     "geom:bbox":"15.2555505351,58.3891078016,15.4149801226,58.4559854882",
     "geom:latitude":58.419632,
     "geom:longitude":15.335983,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.423817,
     "lbl:longitude":15.342644,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"108078"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734071,
-    "wof:geomhash":"c9ac33f5002ed0ba5a64c65cb9d068f5",
+    "wof:geomhash":"43e9d48e461762da2702f64976727450",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306531,
-    "wof:lastmodified":1566643339,
+    "wof:lastmodified":1695879426,
     "wof:name":"Vasterlosa",
     "wof:parent_id":1159303147,
     "wof:placetype":"localadmin",

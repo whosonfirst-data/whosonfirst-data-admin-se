@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006001,
-    "geom:area_square_m":40512897.53005,
+    "geom:area_square_m":40512897.53006,
     "geom:bbox":"12.6008562867,56.8760310112,12.7496653026,56.9496822262",
     "geom:latitude":56.909307,
     "geom:longitude":12.667408,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":1230,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.912118,
     "lbl:longitude":12.653857,
     "lbl:max_zoom":16.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131879,
-        "qs_pg:id":279589
+        "qs_pg:id":279589,
+        "se-lant:code":"104039"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497045879,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"c66c989d547bb9a55424e22005c68c77",
+    "wof:geomhash":"45ccf1656744e0f6b750e75ac4024a03",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125345183,
-    "wof:lastmodified":1582340733,
+    "wof:lastmodified":1695879436,
     "wof:name":"Arstad",
     "wof:parent_id":1159303247,
     "wof:placetype":"localadmin",

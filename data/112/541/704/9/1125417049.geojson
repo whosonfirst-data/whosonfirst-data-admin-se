@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022384,
-    "geom:area_square_m":141761453.195451,
+    "geom:area_square_m":141761453.195455,
     "geom:bbox":"12.4150811829,59.111887951,12.6497402867,59.2869991204",
     "geom:latitude":59.190716,
     "geom:longitude":12.529638,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":1032,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.178861,
     "lbl:longitude":12.537627,
     "lbl:max_zoom":16.0,
@@ -82,14 +91,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132985,
-        "qs_pg:id":109534
+        "qs_pg:id":109534,
+        "se-lant:code":"213012"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497051530,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"87feaccb62668932b5dc70c67fa17df5",
+    "wof:geomhash":"d46a1c06dd35f0f09ebd3d0252aeebf1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -100,7 +111,7 @@
         }
     ],
     "wof:id":1125417049,
-    "wof:lastmodified":1582340873,
+    "wof:lastmodified":1695879548,
     "wof:name":"Svanskog",
     "wof:parent_id":1159303169,
     "wof:placetype":"localadmin",

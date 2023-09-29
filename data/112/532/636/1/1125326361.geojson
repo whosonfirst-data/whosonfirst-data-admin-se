@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002606,
-    "geom:area_square_m":17701872.946548,
+    "geom:area_square_m":17701872.946554,
     "geom:bbox":"12.8004989137,56.638246031,12.8920800334,56.723568682",
     "geom:latitude":56.681785,
     "geom:longitude":12.844618,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":14065,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.672202,
     "lbl:longitude":12.840129,
     "lbl:max_zoom":15.0,
@@ -61,14 +70,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131599,
-        "qs_pg:id":757608
+        "qs_pg:id":757608,
+        "se-lant:code":"104016"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497044838,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"0f9c5f1f0d6048839b89eda97a50da2b",
+    "wof:geomhash":"79a52ec7e9bb11f79e91a820a6e6e5c5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +90,7 @@
         }
     ],
     "wof:id":1125326361,
-    "wof:lastmodified":1582340773,
+    "wof:lastmodified":1695879465,
     "wof:name":"Halmstads Sankt Nikolai",
     "wof:parent_id":1159303343,
     "wof:placetype":"localadmin",

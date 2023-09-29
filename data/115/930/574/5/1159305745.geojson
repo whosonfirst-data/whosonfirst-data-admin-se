@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004354,
-    "geom:area_square_m":27259298.567363,
+    "geom:area_square_m":27259298.567361,
     "geom:bbox":"17.2731603527,59.5459639482,17.403189594,59.6149357211",
     "geom:latitude":59.57819,
     "geom:longitude":17.336821,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.588505,
     "lbl:longitude":17.358521,
     "lbl:max_zoom":18.0,
@@ -144,9 +153,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"215056"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733856,
-    "wof:geomhash":"dd08109ea4c0eb6cb4937fced035b611",
+    "wof:geomhash":"50d742724c0835f9a4ffe7a3449d593f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -157,7 +170,7 @@
         }
     ],
     "wof:id":1159305745,
-    "wof:lastmodified":1566643260,
+    "wof:lastmodified":1695879410,
     "wof:name":"Lot",
     "wof:parent_id":1159303337,
     "wof:placetype":"localadmin",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02479,
-    "geom:area_square_m":166055378.541703,
+    "geom:area_square_m":166055378.541668,
     "geom:bbox":"13.2921037405,57.1050255274,13.5361891205,57.2888918705",
     "geom:latitude":57.199591,
     "geom:longitude":13.416916,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":5911,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.200719,
     "lbl:longitude":13.417567,
     "lbl:max_zoom":15.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131797,
-        "qs_pg:id":757720
+        "qs_pg:id":757720,
+        "se-lant:code":"105149"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497047255,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"e5ea92598bac10f78bcdfbe863d79247",
+    "wof:geomhash":"01e0c32559469166b5a22eb7ba67f979",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125368841,
-    "wof:lastmodified":1582340861,
+    "wof:lastmodified":1695879530,
     "wof:name":"Villstad",
     "wof:parent_id":1159303327,
     "wof:placetype":"localadmin",

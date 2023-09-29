@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000951,
-    "geom:area_square_m":6681951.420036,
+    "geom:area_square_m":6681951.420038,
     "geom:bbox":"13.2688650527,55.3504372966,13.2948498529,55.4126033613",
     "geom:latitude":55.384803,
     "geom:longitude":13.279997,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.387344,
     "lbl:longitude":13.28,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101009"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734353,
-    "wof:geomhash":"676344e91957bfd842c96e8fbcebcef3",
+    "wof:geomhash":"0e4fe257a6f26e77f9241abad610bc54",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307599,
-    "wof:lastmodified":1566643296,
+    "wof:lastmodified":1695879416,
     "wof:name":"Simlinge",
     "wof:parent_id":1159303309,
     "wof:placetype":"localadmin",

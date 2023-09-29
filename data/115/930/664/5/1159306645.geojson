@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002175,
-    "geom:area_square_m":14458277.61084,
+    "geom:area_square_m":14458277.610843,
     "geom:bbox":"18.3353546884,57.4568282313,18.4299104236,57.4994805905",
     "geom:latitude":57.480019,
     "geom:longitude":18.379909,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.47962,
     "lbl:longitude":18.384568,
     "lbl:max_zoom":18.0,
@@ -45,9 +54,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"106045"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734101,
-    "wof:geomhash":"f1e8daf6c1fe8c65ff8d92fed91c8510",
+    "wof:geomhash":"13ea133b42405c64b1f07bc15dd37015",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +71,7 @@
         }
     ],
     "wof:id":1159306645,
-    "wof:lastmodified":1566643324,
+    "wof:lastmodified":1695879423,
     "wof:name":"Atlingbo",
     "wof:parent_id":1159303535,
     "wof:placetype":"localadmin",

@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005323,
-    "geom:area_square_m":34565424.494851,
+    "geom:area_square_m":34565424.49485,
     "geom:bbox":"13.238911558,58.2931490551,13.3830744011,58.3532975103",
     "geom:latitude":58.322918,
     "geom:longitude":13.315434,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.327212,
     "lbl:longitude":13.3213,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107305"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734134,
-    "wof:geomhash":"63d75ef4208f9e196d5dfbdfc35269d4",
+    "wof:geomhash":"f46088c61c4a61c56fc24b82435dfaf7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306783,
-    "wof:lastmodified":1566643307,
+    "wof:lastmodified":1695879419,
     "wof:name":"Vinkol",
     "wof:parent_id":1159303479,
     "wof:placetype":"localadmin",

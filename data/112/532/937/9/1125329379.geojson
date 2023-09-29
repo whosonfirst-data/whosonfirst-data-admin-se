@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010177,
-    "geom:area_square_m":63843447.806118,
+    "geom:area_square_m":63843447.806131,
     "geom:bbox":"15.8911629249,59.4688571197,16.0844204137,59.5603997957",
     "geom:latitude":59.514865,
     "geom:longitude":15.992032,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":18093,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.515654,
     "lbl:longitude":15.99205,
     "lbl:max_zoom":15.0,
@@ -76,14 +85,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132006,
-        "qs_pg:id":381315
+        "qs_pg:id":381315,
+        "se-lant:code":"214011"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497045039,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"2502369dbcabcad7df23e69f26a3e172",
+    "wof:geomhash":"6e8a1d7ff80434a3363afa989edbd28b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,7 +105,7 @@
         }
     ],
     "wof:id":1125329379,
-    "wof:lastmodified":1582340757,
+    "wof:lastmodified":1695879453,
     "wof:name":"Koping",
     "wof:parent_id":1159303439,
     "wof:placetype":"localadmin",

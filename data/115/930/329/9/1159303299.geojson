@@ -124,8 +124,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_1907",
-        "eurostat:nuts_2021_id":"1907"
+        "eurostat:nuts_2021_id":"1907",
+        "se-lant:code":"1907"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525379474,
     "wof:geomhash":"ded5837a9b7069dab830d9adad128554",
@@ -138,7 +140,7 @@
         }
     ],
     "wof:id":1159303299,
-    "wof:lastmodified":1684354753,
+    "wof:lastmodified":1695886756,
     "wof:name":"Surahammar",
     "wof:parent_id":85688425,
     "wof:placetype":"county",

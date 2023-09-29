@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008003,
-    "geom:area_square_m":55047309.683401,
+    "geom:area_square_m":55047309.683398,
     "geom:bbox":"15.4731532776,56.1411309965,15.6162668316,56.2436253158",
     "geom:latitude":56.202733,
     "geom:longitude":15.53628,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":4961,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.203782,
     "lbl:longitude":15.535178,
     "lbl:max_zoom":15.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132458,
-        "qs_pg:id":904416
+        "qs_pg:id":904416,
+        "se-lant:code":"102014"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497046547,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"9d58a3f35c56d38c67f4d4d6d0b88616",
+    "wof:geomhash":"c6c0474773e1fd4849edca63db015184",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125357189,
-    "wof:lastmodified":1582340752,
+    "wof:lastmodified":1695879450,
     "wof:name":"Nattraby",
     "wof:parent_id":1159303467,
     "wof:placetype":"localadmin",

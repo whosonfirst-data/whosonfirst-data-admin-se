@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002591,
-    "geom:area_square_m":17091562.668852,
+    "geom:area_square_m":17091562.668849,
     "geom:bbox":"11.8803666679,57.7290713644,11.9530972514,57.7870884348",
     "geom:latitude":57.758279,
     "geom:longitude":11.918605,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.758892,
     "lbl:longitude":11.917915,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107087"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734171,
-    "wof:geomhash":"43c57bd2b37e1116f9ec9a47d5de7e42",
+    "wof:geomhash":"1db91cb5dec4f25e8177bfba260c43cd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306909,
-    "wof:lastmodified":1566643324,
+    "wof:lastmodified":1695879423,
     "wof:name":"Tuve",
     "wof:parent_id":1159302989,
     "wof:placetype":"localadmin",

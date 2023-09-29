@@ -10,6 +10,15 @@
     "geom:latitude":57.106092,
     "geom:longitude":12.450214,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.105907,
     "lbl:longitude":12.431857,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"104058"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733845,
-    "wof:geomhash":"8cca5366b0592561df88960c22e6de51",
+    "wof:geomhash":"68f352fac73ef2089dd9745e1aa0f6d9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159305691,
-    "wof:lastmodified":1566643138,
+    "wof:lastmodified":1695879388,
     "wof:name":"Grimeton",
     "wof:parent_id":1159302939,
     "wof:placetype":"localadmin",

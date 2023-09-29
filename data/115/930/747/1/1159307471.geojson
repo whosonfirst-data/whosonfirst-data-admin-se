@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001764,
-    "geom:area_square_m":12248944.0554,
+    "geom:area_square_m":12248944.055399,
     "geom:bbox":"13.3892938155,55.8042485979,13.4492338378,55.8652079361",
     "geom:latitude":55.82756,
     "geom:longitude":13.41952,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.819258,
     "lbl:longitude":13.414192,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101207"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734321,
-    "wof:geomhash":"fae9fd61067633ede6d637f453bdfcf3",
+    "wof:geomhash":"0edce3bf7c57c54c4babfe09b5e445ff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307471,
-    "wof:lastmodified":1566643241,
+    "wof:lastmodified":1695879407,
     "wof:name":"Ostra Stro",
     "wof:parent_id":1159303151,
     "wof:placetype":"localadmin",

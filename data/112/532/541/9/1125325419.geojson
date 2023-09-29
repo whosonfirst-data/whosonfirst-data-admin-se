@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023649,
-    "geom:area_square_m":142927983.355141,
+    "geom:area_square_m":142927983.355129,
     "geom:bbox":"16.386154684,60.6628685019,16.7547650271,60.7914874246",
     "geom:latitude":60.740822,
     "geom:longitude":16.596777,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":2627,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":60.736606,
     "lbl:longitude":16.5842,
     "lbl:max_zoom":15.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132485,
-        "qs_pg:id":758165
+        "qs_pg:id":758165,
+        "se-lant:code":"316012"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497044778,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"8c2cc9fdf907e2be0161581717e386f2",
+    "wof:geomhash":"3f1260b121dd9bc5fe6c56c60dd72a75",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125325419,
-    "wof:lastmodified":1582340776,
+    "wof:lastmodified":1695879470,
     "wof:name":"Jarbo",
     "wof:parent_id":1159303303,
     "wof:placetype":"localadmin",

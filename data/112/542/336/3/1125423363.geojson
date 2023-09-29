@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001705,
-    "geom:area_square_m":11710782.204368,
+    "geom:area_square_m":11710782.204365,
     "geom:bbox":"12.8571124192,56.2340155916,12.9288436389,56.2881609188",
     "geom:latitude":56.259918,
     "geom:longitude":12.89109,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":4508,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.258126,
     "lbl:longitude":12.887597,
     "lbl:max_zoom":15.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8133160,
-        "qs_pg:id":109588
+        "qs_pg:id":109588,
+        "se-lant:code":"101347"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497052679,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"f00fb56e0a2c7cc40fca34f5ade2c86b",
+    "wof:geomhash":"b468ea14732bc9086a321f60e3ab1d67",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125423363,
-    "wof:lastmodified":1582340810,
+    "wof:lastmodified":1695879493,
     "wof:name":"Rebbelberga",
     "wof:parent_id":1159303025,
     "wof:placetype":"localadmin",

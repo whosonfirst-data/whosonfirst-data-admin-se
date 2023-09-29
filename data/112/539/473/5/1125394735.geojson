@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019917,
-    "geom:area_square_m":113674771.538749,
+    "geom:area_square_m":113674771.538736,
     "geom:bbox":"17.2003806395,62.4445741549,17.461803649,62.5760446095",
     "geom:latitude":62.511734,
     "geom:longitude":17.320966,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":13025,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":62.521386,
     "lbl:longitude":17.311992,
     "lbl:max_zoom":15.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8133011,
-        "qs_pg:id":1042475
+        "qs_pg:id":1042475,
+        "se-lant:code":"320015"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497048936,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"4c3ae33641024e0866836b2ba39ae89b",
+    "wof:geomhash":"efa52e930e2e21820c6b3a91dc98a1b5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125394735,
-    "wof:lastmodified":1582340840,
+    "wof:lastmodified":1695879515,
     "wof:name":"Timra",
     "wof:parent_id":1159303091,
     "wof:placetype":"localadmin",

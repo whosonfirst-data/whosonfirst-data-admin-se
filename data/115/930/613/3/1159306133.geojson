@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006041,
-    "geom:area_square_m":39700330.925345,
+    "geom:area_square_m":39700330.92534,
     "geom:bbox":"12.6531416808,57.8564002351,12.7691843882,57.9348150471",
     "geom:latitude":57.892922,
     "geom:longitude":12.713075,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.893717,
     "lbl:longitude":12.714177,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107117"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733955,
-    "wof:geomhash":"1ccba4ce147fc91eb7ad462010550a87",
+    "wof:geomhash":"13fcc81a626e94b38f5e22c91fd86668",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306133,
-    "wof:lastmodified":1566643298,
+    "wof:lastmodified":1695879417,
     "wof:name":"Skogsbygden",
     "wof:parent_id":1159303255,
     "wof:placetype":"localadmin",

@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.167319,
-    "geom:area_square_m":889386300.01909,
+    "geom:area_square_m":889386300.019044,
     "geom:bbox":"18.9750118199,64.3167977556,19.8080625093,64.7777570567",
     "geom:latitude":64.540168,
     "geom:longitude":19.365419,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":64.545709,
     "lbl:longitude":19.302605,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"323017"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734322,
-    "wof:geomhash":"6fbcab895932a3a90e1630ab9618a59f",
+    "wof:geomhash":"bfebe48cfcd11352eafbd0f69bfa7fb4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307473,
-    "wof:lastmodified":1566643241,
+    "wof:lastmodified":1695879407,
     "wof:name":"Amsele",
     "wof:parent_id":1159303511,
     "wof:placetype":"localadmin",

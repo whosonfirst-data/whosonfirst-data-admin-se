@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006642,
-    "geom:area_square_m":43457689.26038,
+    "geom:area_square_m":43457689.260377,
     "geom:bbox":"12.6888871009,58.0157688852,12.8702647381,58.0884764138",
     "geom:latitude":58.052461,
     "geom:longitude":12.784788,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.050931,
     "lbl:longitude":12.78345,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107171"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733952,
-    "wof:geomhash":"b0728b452858eb2c1c75a64fd661c9ac",
+    "wof:geomhash":"0a336358d6280e9506c63e82fbc73990",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306123,
-    "wof:lastmodified":1566643310,
+    "wof:lastmodified":1695879419,
     "wof:name":"Kullings-Skovde",
     "wof:parent_id":1159303255,
     "wof:placetype":"localadmin",

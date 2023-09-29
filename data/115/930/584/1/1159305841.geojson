@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016616,
-    "geom:area_square_m":104364286.341962,
+    "geom:area_square_m":104364286.341946,
     "geom:bbox":"12.8235802878,59.39927323,13.0213071731,59.5686641592",
     "geom:latitude":59.473168,
     "geom:longitude":12.916887,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.485803,
     "lbl:longitude":12.915402,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"213041"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733882,
-    "wof:geomhash":"61eed9b1c4ce1ae4d2ec486d4cb87e79",
+    "wof:geomhash":"1802c1f6fdd8b1737184fd77b5c050d1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159305841,
-    "wof:lastmodified":1566643372,
+    "wof:lastmodified":1695879431,
     "wof:name":"Varmskog",
     "wof:parent_id":1159303493,
     "wof:placetype":"localadmin",

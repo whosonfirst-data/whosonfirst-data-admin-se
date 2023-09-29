@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.042522,
-    "geom:area_square_m":265607140.955529,
+    "geom:area_square_m":265607140.955484,
     "geom:bbox":"12.715172232,59.556678106,13.0932911387,59.7798871962",
     "geom:latitude":59.658246,
     "geom:longitude":12.899226,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.645172,
     "lbl:longitude":12.914945,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"213058"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733855,
-    "wof:geomhash":"f3ed076b4450a2eed739c07c29cf5f73",
+    "wof:geomhash":"fb8cb8158da537d383a54ee0e95ca5a6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159305739,
-    "wof:lastmodified":1566643263,
+    "wof:lastmodified":1695879410,
     "wof:name":"Brunskog",
     "wof:parent_id":1159303075,
     "wof:placetype":"localadmin",

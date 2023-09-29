@@ -172,8 +172,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_0583",
-        "eurostat:nuts_2021_id":"0583"
+        "eurostat:nuts_2021_id":"0583",
+        "se-lant:code":"0583"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525379487,
     "wof:geomhash":"7f1c0551c31e384d831ef0f8c22d890f",
@@ -186,7 +188,7 @@
         }
     ],
     "wof:id":1159303391,
-    "wof:lastmodified":1684354755,
+    "wof:lastmodified":1695886758,
     "wof:name":"Motala",
     "wof:parent_id":85688409,
     "wof:placetype":"county",

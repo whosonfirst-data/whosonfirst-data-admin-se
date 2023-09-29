@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014358,
-    "geom:area_square_m":95291933.274946,
+    "geom:area_square_m":95291933.274931,
     "geom:bbox":"13.7172542237,57.4645632975,13.9106131693,57.6141519915",
     "geom:latitude":57.537734,
     "geom:longitude":13.831624,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":144,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.540747,
     "lbl:longitude":13.846142,
     "lbl:max_zoom":18.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131794,
-        "qs_pg:id":757717
+        "qs_pg:id":757717,
+        "se-lant:code":"105202"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497042726,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"7d0790ffea38b2ef4d55f737d77e5cdd",
+    "wof:geomhash":"f25d91cac1c8e4b2e3629aff7c40a468",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125286545,
-    "wof:lastmodified":1582340796,
+    "wof:lastmodified":1695879484,
     "wof:name":"Stengardshult",
     "wof:parent_id":1159303327,
     "wof:placetype":"localadmin",

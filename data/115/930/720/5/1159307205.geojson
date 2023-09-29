@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002769,
-    "geom:area_square_m":17958425.156359,
+    "geom:area_square_m":17958478.439262,
     "geom:bbox":"12.556662,58.341027,12.644538,58.39464",
     "geom:latitude":58.36744,
     "geom:longitude":12.603688,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.368647,
     "lbl:longitude":12.603689,
     "lbl:max_zoom":18.0,
@@ -108,9 +117,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107326"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734250,
-    "wof:geomhash":"a446d4d0551eed88f0d249b54ce5ecd1",
+    "wof:geomhash":"f87c05b6ac5b37a6952f7749cd792229",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -121,7 +134,7 @@
         }
     ],
     "wof:id":1159307205,
-    "wof:lastmodified":1636499898,
+    "wof:lastmodified":1695879559,
     "wof:name":"Sal",
     "wof:parent_id":1159303421,
     "wof:placetype":"localadmin",

@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00139,
-    "geom:area_square_m":9691519.661378,
+    "geom:area_square_m":9691519.661377,
     "geom:bbox":"13.2167497207,55.6542411044,13.2937984423,55.6846658621",
     "geom:latitude":55.66961,
     "geom:longitude":13.258302,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.667802,
     "lbl:longitude":13.258289,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101167"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734228,
-    "wof:geomhash":"be54ed8581a9198e8e72259fccfa3cd5",
+    "wof:geomhash":"a12dbe6338723d745d27cd3ba3b53d49",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307117,
-    "wof:lastmodified":1566643379,
+    "wof:lastmodified":1695879433,
     "wof:name":"Bjallerup",
     "wof:parent_id":1159303125,
     "wof:placetype":"localadmin",

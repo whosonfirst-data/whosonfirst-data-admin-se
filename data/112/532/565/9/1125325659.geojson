@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016931,
-    "geom:area_square_m":113428132.323726,
+    "geom:area_square_m":113428132.323741,
     "geom:bbox":"14.834307447,57.1333239056,15.076770923,57.2486137781",
     "geom:latitude":57.193714,
     "geom:longitude":14.951383,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":420,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.190445,
     "lbl:longitude":14.951366,
     "lbl:max_zoom":17.0,
@@ -61,14 +70,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132656,
-        "qs_pg:id":758272
+        "qs_pg:id":758272,
+        "se-lant:code":"105141"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497044796,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"c3bbd26568be2dc694976480c3f05c1d",
+    "wof:geomhash":"abd3cddf44673f8b040444b907d41a08",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +90,7 @@
         }
     ],
     "wof:id":1125325659,
-    "wof:lastmodified":1582340769,
+    "wof:lastmodified":1695879462,
     "wof:name":"Ramkvilla",
     "wof:parent_id":1159303157,
     "wof:placetype":"localadmin",

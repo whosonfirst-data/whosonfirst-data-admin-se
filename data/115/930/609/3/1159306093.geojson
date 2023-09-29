@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000869,
-    "geom:area_square_m":6090983.770738,
+    "geom:area_square_m":6090983.770739,
     "geom:bbox":"13.7661784335,55.4341199025,13.8283754663,55.4718618862",
     "geom:latitude":55.453464,
     "geom:longitude":13.796535,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.450461,
     "lbl:longitude":13.801278,
     "lbl:max_zoom":18.0,
@@ -63,9 +72,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101050"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733944,
-    "wof:geomhash":"84bf3799797f00ec314bdd688a1c63b8",
+    "wof:geomhash":"2197e2186a4d7b61a901545227822b49",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +89,7 @@
         }
     ],
     "wof:id":1159306093,
-    "wof:lastmodified":1566643349,
+    "wof:lastmodified":1695879428,
     "wof:name":"Hedeskoga",
     "wof:parent_id":1159303233,
     "wof:placetype":"localadmin",

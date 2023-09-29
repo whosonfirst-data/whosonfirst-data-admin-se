@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008151,
-    "geom:area_square_m":53050671.874877,
+    "geom:area_square_m":53050671.874883,
     "geom:bbox":"12.2048571117,58.1958759022,12.3825118895,58.3016517746",
     "geom:latitude":58.241568,
     "geom:longitude":12.30586,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":3518,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.22361,
     "lbl:longitude":12.299854,
     "lbl:max_zoom":15.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8133288,
-        "qs_pg:id":758592
+        "qs_pg:id":758592,
+        "se-lant:code":"107244"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497046885,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"511e6ad699ef3f9727bc58653d3b1a3c",
+    "wof:geomhash":"de3e5b0f076beab58399a6ea1ec7f8ad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125362579,
-    "wof:lastmodified":1582340858,
+    "wof:lastmodified":1695879528,
     "wof:name":"Gardhem",
     "wof:parent_id":1159303541,
     "wof:placetype":"localadmin",

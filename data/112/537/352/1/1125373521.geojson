@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006887,
-    "geom:area_square_m":46280576.510852,
+    "geom:area_square_m":46280576.510857,
     "geom:bbox":"14.0041502286,57.0348782423,14.1197474239,57.1242699223",
     "geom:latitude":57.081704,
     "geom:longitude":14.065731,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":411,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.084109,
     "lbl:longitude":14.064599,
     "lbl:max_zoom":17.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132644,
-        "qs_pg:id":109466
+        "qs_pg:id":109466,
+        "se-lant:code":"105121"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497047572,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"e258d2982120c67e428f5c067c3268bb",
+    "wof:geomhash":"ea8505ccf01e24e392b5b3b51a44047d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125373521,
-    "wof:lastmodified":1582340822,
+    "wof:lastmodified":1695879501,
     "wof:name":"Tanno",
     "wof:parent_id":1159303313,
     "wof:placetype":"localadmin",

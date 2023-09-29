@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004104,
-    "geom:area_square_m":27081589.797114,
+    "geom:area_square_m":27081589.797115,
     "geom:bbox":"18.4546411415,57.7195737926,18.5884128753,57.7729798496",
     "geom:latitude":57.745055,
     "geom:longitude":18.510519,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.747889,
     "lbl:longitude":18.515053,
     "lbl:max_zoom":18.0,
@@ -45,9 +54,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"106079"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734033,
-    "wof:geomhash":"9a9a024639048a16d2a0c3aaa73e0df7",
+    "wof:geomhash":"15dd0130c6d6270c9be0f773edc9d63c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +71,7 @@
         }
     ],
     "wof:id":1159306395,
-    "wof:lastmodified":1566643333,
+    "wof:lastmodified":1695879425,
     "wof:name":"Martebo",
     "wof:parent_id":1159303535,
     "wof:placetype":"localadmin",

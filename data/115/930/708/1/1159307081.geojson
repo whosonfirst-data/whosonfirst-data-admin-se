@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015915,
-    "geom:area_square_m":100483205.445692,
+    "geom:area_square_m":100483205.445691,
     "geom:bbox":"11.8209068772,59.2228469791,11.9833050443,59.3707216955",
     "geom:latitude":59.295865,
     "geom:longitude":11.893435,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.295553,
     "lbl:longitude":11.886888,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"213016"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734219,
-    "wof:geomhash":"8f2e8445eccb8565c58cbf456701f229",
+    "wof:geomhash":"6391335d9e154e42ce2cc585ea779ada",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307081,
-    "wof:lastmodified":1566643152,
+    "wof:lastmodified":1695879391,
     "wof:name":"Trankil",
     "wof:parent_id":1159302927,
     "wof:placetype":"localadmin",

@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001948,
-    "geom:area_square_m":13637774.617556,
+    "geom:area_square_m":13637774.617554,
     "geom:bbox":"13.8385336528,55.4839393227,13.9111486492,55.5340916246",
     "geom:latitude":55.511378,
     "geom:longitude":13.875374,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.511517,
     "lbl:longitude":13.877831,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101088"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733959,
-    "wof:geomhash":"cf3c3d272b42ed6d6039c98d1a1e8f66",
+    "wof:geomhash":"870dbc36f01fbbd3f2f2941176683387",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306149,
-    "wof:lastmodified":1566643297,
+    "wof:lastmodified":1695879417,
     "wof:name":"Hogestad",
     "wof:parent_id":1159303233,
     "wof:placetype":"localadmin",

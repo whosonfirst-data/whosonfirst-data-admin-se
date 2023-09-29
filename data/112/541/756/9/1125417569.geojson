@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00421,
-    "geom:area_square_m":28620600.272378,
+    "geom:area_square_m":28620600.272379,
     "geom:bbox":"12.826207715,56.6075175677,12.9124965713,56.6949489942",
     "geom:latitude":56.647775,
     "geom:longitude":12.874607,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":24856,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.642334,
     "lbl:longitude":12.875245,
     "lbl:max_zoom":14.0,
@@ -61,14 +70,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131602,
-        "qs_pg:id":757611
+        "qs_pg:id":757611,
+        "se-lant:code":"104015"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497051614,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"96ed4f5a92a4b2b186273aea35bbc722",
+    "wof:geomhash":"ba7426bfdc0fd9a4ab2509a1c8df268f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +90,7 @@
         }
     ],
     "wof:id":1125417569,
-    "wof:lastmodified":1582340872,
+    "wof:lastmodified":1695879547,
     "wof:name":"Halmstads Martin Luther",
     "wof:parent_id":1159303343,
     "wof:placetype":"localadmin",

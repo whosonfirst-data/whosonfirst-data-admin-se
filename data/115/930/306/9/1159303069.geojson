@@ -73,8 +73,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_0684",
-        "eurostat:nuts_2021_id":"0684"
+        "eurostat:nuts_2021_id":"0684",
+        "se-lant:code":"0684"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525379424,
     "wof:geomhash":"c5411b31d1c0a28d29d4a7d67c23eb37",
@@ -87,7 +89,7 @@
         }
     ],
     "wof:id":1159303069,
-    "wof:lastmodified":1684354748,
+    "wof:lastmodified":1695886750,
     "wof:name":"Savsjo",
     "wof:parent_id":85688395,
     "wof:placetype":"county",

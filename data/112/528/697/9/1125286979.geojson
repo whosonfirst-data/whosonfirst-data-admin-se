@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02303,
-    "geom:area_square_m":154056382.906631,
+    "geom:area_square_m":154056382.90665,
     "geom:bbox":"16.415430716,57.2174671064,16.8792922901,57.2999094999",
     "geom:latitude":57.248646,
     "geom:longitude":16.629676,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":15197,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.244709,
     "lbl:longitude":16.62973,
     "lbl:max_zoom":15.0,
@@ -157,14 +166,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131989,
-        "qs_pg:id":757870
+        "qs_pg:id":757870,
+        "se-lant:code":"105165"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497042745,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"d01b26722f1df81226ce8894675a3f41",
+    "wof:geomhash":"7380c9a473142fd115923747aae32d83",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -175,7 +186,7 @@
         }
     ],
     "wof:id":1125286979,
-    "wof:lastmodified":1582340795,
+    "wof:lastmodified":1695879484,
     "wof:name":"Oskarshamn",
     "wof:parent_id":1159303119,
     "wof:placetype":"localadmin",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003744,
-    "geom:area_square_m":24357638.861062,
+    "geom:area_square_m":24357638.86106,
     "geom:bbox":"13.7102369206,58.2344258063,13.8617905481,58.2796853993",
     "geom:latitude":58.255829,
     "geom:longitude":13.786314,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":239,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.257866,
     "lbl:longitude":13.791451,
     "lbl:max_zoom":17.0,
@@ -76,14 +85,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8133323,
-        "qs_pg:id":109613
+        "qs_pg:id":109613,
+        "se-lant:code":"107273"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497047600,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"9317c3497efe5440e4e7d82edfee3b7a",
+    "wof:geomhash":"c783e8c530b2605daaad270973010ed6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,7 +105,7 @@
         }
     ],
     "wof:id":1125373933,
-    "wof:lastmodified":1582340829,
+    "wof:lastmodified":1695879507,
     "wof:name":"Dala",
     "wof:parent_id":1159303137,
     "wof:placetype":"localadmin",

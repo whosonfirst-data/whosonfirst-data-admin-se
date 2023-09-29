@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003856,
-    "geom:area_square_m":26581117.961563,
+    "geom:area_square_m":26581117.961568,
     "geom:bbox":"13.9925245867,56.082020118,14.0707038726,56.1563843135",
     "geom:latitude":56.116851,
     "geom:longitude":14.029435,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.11734,
     "lbl:longitude":14.026258,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101305"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733955,
-    "wof:geomhash":"e22a7ecd71beac1f6f83425574978c8f",
+    "wof:geomhash":"b6f0091960273af8e55c5efd043af4d1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306135,
-    "wof:lastmodified":1566643298,
+    "wof:lastmodified":1695879417,
     "wof:name":"Norra Stro",
     "wof:parent_id":1159303497,
     "wof:placetype":"localadmin",

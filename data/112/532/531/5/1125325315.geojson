@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.061829,
-    "geom:area_square_m":324384722.097457,
+    "geom:area_square_m":324384722.097461,
     "geom:bbox":"20.4071026968,64.7838915172,21.1747733511,65.0071748868",
     "geom:latitude":64.894018,
     "geom:longitude":20.73871,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":4720,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":64.92533,
     "lbl:longitude":20.64847,
     "lbl:max_zoom":15.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131904,
-        "qs_pg:id":757796
+        "qs_pg:id":757796,
+        "se-lant:code":"323026"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497044768,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"a5e252fb72fc5c3e391d543bdad55164",
+    "wof:geomhash":"1a6eaf9f4602132a583114bd4cc2cbd5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125325315,
-    "wof:lastmodified":1582340768,
+    "wof:lastmodified":1695879461,
     "wof:name":"Kagedalen",
     "wof:parent_id":1159303205,
     "wof:placetype":"localadmin",

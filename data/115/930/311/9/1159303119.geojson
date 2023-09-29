@@ -169,8 +169,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_0882",
-        "eurostat:nuts_2021_id":"0882"
+        "eurostat:nuts_2021_id":"0882",
+        "se-lant:code":"0882"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525379438,
     "wof:geomhash":"1d193446e75c0da579f1a992f736216a",
@@ -183,7 +185,7 @@
         }
     ],
     "wof:id":1159303119,
-    "wof:lastmodified":1684354749,
+    "wof:lastmodified":1695886751,
     "wof:name":"Oskarshamn",
     "wof:parent_id":85688401,
     "wof:placetype":"county",

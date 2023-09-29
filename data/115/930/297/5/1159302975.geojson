@@ -73,8 +73,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_2280",
-        "eurostat:nuts_2021_id":"2280"
+        "eurostat:nuts_2021_id":"2280",
+        "se-lant:code":"2280"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525379406,
     "wof:geomhash":"723ebbf8d8ae3ee0cf878aac99b5e279",
@@ -87,7 +89,7 @@
         }
     ],
     "wof:id":1159302975,
-    "wof:lastmodified":1684354746,
+    "wof:lastmodified":1695886747,
     "wof:name":"Harnosand",
     "wof:parent_id":85688457,
     "wof:placetype":"county",

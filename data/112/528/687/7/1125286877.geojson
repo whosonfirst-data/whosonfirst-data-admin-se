@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":10448,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.658268,
     "lbl:longitude":12.59291,
     "lbl:max_zoom":15.0,
@@ -61,14 +70,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131923,
-        "qs_pg:id":757814
+        "qs_pg:id":757814,
+        "se-lant:code":"213056"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497042741,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"96cf3fbb35b963079aab41ef411d4b7c",
+    "wof:geomhash":"d07a1a9d457546e87f0b5fb34ff6e8f8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +90,7 @@
         }
     ],
     "wof:id":1125286877,
-    "wof:lastmodified":1582340784,
+    "wof:lastmodified":1695879475,
     "wof:name":"Arvika stadsdistrikt",
     "wof:parent_id":1159303075,
     "wof:placetype":"localadmin",

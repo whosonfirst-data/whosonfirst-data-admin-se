@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028386,
-    "geom:area_square_m":152761384.372545,
+    "geom:area_square_m":152761384.372536,
     "geom:bbox":"20.7032825808,64.126400609,21.0549195537,64.3042264263",
     "geom:latitude":64.20066,
     "geom:longitude":20.861748,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":64.208277,
     "lbl:longitude":20.859104,
     "lbl:max_zoom":18.0,
@@ -87,9 +96,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"323014"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733922,
-    "wof:geomhash":"3c7c5ba38e41c8c40ef08fcea6e3c14f",
+    "wof:geomhash":"7d1f5646a15a2d0bcb25ecd018113e03",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -100,7 +113,7 @@
         }
     ],
     "wof:id":1159305989,
-    "wof:lastmodified":1566643295,
+    "wof:lastmodified":1695879416,
     "wof:name":"Robertsfors",
     "wof:parent_id":1159303055,
     "wof:placetype":"localadmin",

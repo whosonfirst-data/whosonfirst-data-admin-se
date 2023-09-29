@@ -10,6 +10,15 @@
     "geom:latitude":55.40411,
     "geom:longitude":13.063007,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.405822,
     "lbl:longitude":13.06256,
     "lbl:max_zoom":18.0,
@@ -54,9 +63,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101017"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734044,
-    "wof:geomhash":"06e1b33560a32ba80e8f0a703478dc40",
+    "wof:geomhash":"08b70b691a096dc131e890d11bb3c44e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,7 +80,7 @@
         }
     ],
     "wof:id":1159306441,
-    "wof:lastmodified":1566643181,
+    "wof:lastmodified":1695879396,
     "wof:name":"Skegrie",
     "wof:parent_id":1159303309,
     "wof:placetype":"localadmin",

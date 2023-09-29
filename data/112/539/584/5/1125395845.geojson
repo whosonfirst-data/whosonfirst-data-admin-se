@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023737,
-    "geom:area_square_m":146371762.793598,
+    "geom:area_square_m":146371762.79357,
     "geom:bbox":"17.8904069061,60.0228122146,18.223817383,60.1540490964",
     "geom:latitude":60.086099,
     "geom:longitude":18.066656,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":3778,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":60.096847,
     "lbl:longitude":18.077969,
     "lbl:max_zoom":15.0,
@@ -73,14 +82,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132932,
-        "qs_pg:id":1049357
+        "qs_pg:id":1049357,
+        "se-lant:code":"215179"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497049008,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"6a4310c774d6fe9191b1442473127e14",
+    "wof:geomhash":"a5f6390aeb71c0d9e32341424b2555b7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +102,7 @@
         }
     ],
     "wof:id":1125395845,
-    "wof:lastmodified":1582340842,
+    "wof:lastmodified":1695879516,
     "wof:name":"Alunda",
     "wof:parent_id":1159303415,
     "wof:placetype":"localadmin",

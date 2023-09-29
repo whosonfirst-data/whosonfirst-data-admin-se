@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012992,
-    "geom:area_square_m":82333409.886666,
+    "geom:area_square_m":82333409.886662,
     "geom:bbox":"18.3336611032,59.1096503155,18.5861966588,59.2195303891",
     "geom:latitude":59.167769,
     "geom:longitude":18.472469,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":2735,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.176724,
     "lbl:longitude":18.470488,
     "lbl:max_zoom":15.0,
@@ -61,14 +70,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132047,
-        "qs_pg:id":757898
+        "qs_pg:id":757898,
+        "se-lant:code":"212079"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497047257,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"baf0dda4040b5966ac6dea4e12bda6b9",
+    "wof:geomhash":"0c85f880e2732fc83c68c996c88d3f3e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +90,7 @@
         }
     ],
     "wof:id":1125368845,
-    "wof:lastmodified":1582340861,
+    "wof:lastmodified":1695879530,
     "wof:name":"Dalaro",
     "wof:parent_id":1159303483,
     "wof:placetype":"localadmin",

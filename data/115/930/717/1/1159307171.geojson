@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003005,
-    "geom:area_square_m":20397194.172014,
+    "geom:area_square_m":20397194.17201,
     "geom:bbox":"12.7431479909,56.6843444571,12.8543725006,56.736165742",
     "geom:latitude":56.709254,
     "geom:longitude":12.802866,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.706495,
     "lbl:longitude":12.802858,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"104017"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734241,
-    "wof:geomhash":"dd207293053ebcfdd23ee5c670811cea",
+    "wof:geomhash":"df1fb4fe1f1fd39686bd615ee611ac38",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307171,
-    "wof:lastmodified":1566643366,
+    "wof:lastmodified":1695879430,
     "wof:name":"Vapno",
     "wof:parent_id":1159303343,
     "wof:placetype":"localadmin",

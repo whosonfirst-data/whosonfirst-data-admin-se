@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003888,
-    "geom:area_square_m":25122043.167123,
+    "geom:area_square_m":25122043.167119,
     "geom:bbox":"13.1129534737,58.4758140737,13.2370323141,58.5230331399",
     "geom:latitude":58.498315,
     "geom:longitude":13.174857,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":17841,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.49682,
     "lbl:longitude":13.173659,
     "lbl:max_zoom":15.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132110,
-        "qs_pg:id":757939
+        "qs_pg:id":757939,
+        "se-lant:code":"107375"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497046608,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"be621ca2c2855428db37f7f0403efb54",
+    "wof:geomhash":"461e68552797ac353ce0624a535d7d41",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125358121,
-    "wof:lastmodified":1582340746,
+    "wof:lastmodified":1695879445,
     "wof:name":"Lidkoping",
     "wof:parent_id":1159303281,
     "wof:placetype":"localadmin",

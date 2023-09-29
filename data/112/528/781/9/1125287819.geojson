@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.220638,
-    "geom:area_square_m":1110777789.373815,
+    "geom:area_square_m":1110777789.373804,
     "geom:bbox":"22.338042408,65.6270035418,23.0886748947,66.2387973091",
     "geom:latitude":65.974517,
     "geom:longitude":22.731214,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":2206,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":66.033268,
     "lbl:longitude":22.700046,
     "lbl:max_zoom":15.0,
@@ -82,14 +91,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132792,
-        "qs_pg:id":758352
+        "qs_pg:id":758352,
+        "se-lant:code":"325013"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497042787,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"f3c9933221cbdeeb2891ab40d8eae0e6",
+    "wof:geomhash":"20e81c9325497d1aa14919a88619049c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -100,7 +111,7 @@
         }
     ],
     "wof:id":1125287819,
-    "wof:lastmodified":1582340797,
+    "wof:lastmodified":1695879485,
     "wof:name":"Tore",
     "wof:parent_id":1159303011,
     "wof:placetype":"localadmin",

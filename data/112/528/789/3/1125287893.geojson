@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":30344,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.570761,
     "lbl:longitude":15.033103,
     "lbl:max_zoom":14.0,
@@ -160,14 +169,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132863,
-        "qs_pg:id":758393
+        "qs_pg:id":758393,
+        "se-lant:code":"108128"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497042789,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"68b99dcefedf22b7da79bfb3733f555c",
+    "wof:geomhash":"54d0440a50496477bd3472eb56a2a490",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -178,7 +189,7 @@
         }
     ],
     "wof:id":1125287893,
-    "wof:lastmodified":1582340798,
+    "wof:lastmodified":1695879486,
     "wof:name":"Motala",
     "wof:parent_id":1159303391,
     "wof:placetype":"localadmin",

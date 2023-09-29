@@ -10,6 +10,15 @@
     "geom:latitude":58.511604,
     "geom:longitude":11.400942,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.513547,
     "lbl:longitude":11.40663,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"109067"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734166,
-    "wof:geomhash":"49d64fbf3c6befafd01d7bd9a6677258",
+    "wof:geomhash":"498e452442eec6dbb99296342e7a90e2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306891,
-    "wof:lastmodified":1566643189,
+    "wof:lastmodified":1695879398,
     "wof:name":"Bottna",
     "wof:parent_id":1159303369,
     "wof:placetype":"localadmin",

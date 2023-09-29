@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02276,
-    "geom:area_square_m":155922008.169481,
+    "geom:area_square_m":155922008.169489,
     "geom:bbox":"13.4960770356,56.2854160071,13.7531890951,56.4248030282",
     "geom:latitude":56.356394,
     "geom:longitude":13.622289,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":2515,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.357216,
     "lbl:longitude":13.622304,
     "lbl:max_zoom":15.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8133170,
-        "qs_pg:id":1042476
+        "qs_pg:id":1042476,
+        "se-lant:code":"101370"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497048936,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"c9b37954b0b01b8e70634e039d506568",
+    "wof:geomhash":"3bd51b2d0858386b6596c979205d12d8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125394743,
-    "wof:lastmodified":1582340840,
+    "wof:lastmodified":1695879515,
     "wof:name":"Vittsjo",
     "wof:parent_id":1159303121,
     "wof:placetype":"localadmin",

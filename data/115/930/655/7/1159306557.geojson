@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00164,
-    "geom:area_square_m":11476571.920847,
+    "geom:area_square_m":11476571.920845,
     "geom:bbox":"14.2748190818,55.515408798,14.3604537158,55.5638024131",
     "geom:latitude":55.533479,
     "geom:longitude":14.325629,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.536269,
     "lbl:longitude":14.332113,
     "lbl:max_zoom":18.0,
@@ -60,9 +69,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101109"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734077,
-    "wof:geomhash":"4b29becb8185a45986a46e26cafab066",
+    "wof:geomhash":"ce31cc0407244079882e532a49381c8f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,7 +86,7 @@
         }
     ],
     "wof:id":1159306557,
-    "wof:lastmodified":1566643320,
+    "wof:lastmodified":1695879422,
     "wof:name":"Simris",
     "wof:parent_id":1159302931,
     "wof:placetype":"localadmin",

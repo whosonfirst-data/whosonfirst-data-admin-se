@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00094,
-    "geom:area_square_m":6073310.770386,
+    "geom:area_square_m":6073310.770385,
     "geom:bbox":"13.3341794917,58.4798690457,13.3895613571,58.5072222319",
     "geom:latitude":58.493097,
     "geom:longitude":13.36087,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.493104,
     "lbl:longitude":13.355847,
     "lbl:max_zoom":18.0,
@@ -48,9 +57,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107378"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734125,
-    "wof:geomhash":"52c3bf5d1a93e0eb45948479aef9273b",
+    "wof:geomhash":"e45d8d06176b43d439bb0926aceca0e1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +74,7 @@
         }
     ],
     "wof:id":1159306751,
-    "wof:lastmodified":1566643176,
+    "wof:lastmodified":1695879394,
     "wof:name":"Broby",
     "wof:parent_id":1159302923,
     "wof:placetype":"localadmin",

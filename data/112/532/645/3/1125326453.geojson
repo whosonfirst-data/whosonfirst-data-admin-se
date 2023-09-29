@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004984,
-    "geom:area_square_m":32728189.000495,
+    "geom:area_square_m":32728189.000493,
     "geom:bbox":"13.7815789845,57.8932276732,13.9223080223,57.9603827576",
     "geom:latitude":57.924569,
     "geom:longitude":13.861073,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":5923,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.926062,
     "lbl:longitude":13.860037,
     "lbl:max_zoom":15.0,
@@ -73,14 +82,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131685,
-        "qs_pg:id":757651
+        "qs_pg:id":757651,
+        "se-lant:code":"107163"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497044844,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"184127a77bf6a0bd287638386bbce084",
+    "wof:geomhash":"24e8f6db4e7e400116540fbbe7e73109",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +102,7 @@
         }
     ],
     "wof:id":1125326453,
-    "wof:lastmodified":1582340759,
+    "wof:lastmodified":1695879454,
     "wof:name":"Nykyrka",
     "wof:parent_id":1159303051,
     "wof:placetype":"localadmin",

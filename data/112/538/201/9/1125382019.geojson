@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011308,
-    "geom:area_square_m":75509368.404541,
+    "geom:area_square_m":75509368.404545,
     "geom:bbox":"12.8075367621,57.265618166,12.9633786766,57.3809808849",
     "geom:latitude":57.314851,
     "geom:longitude":12.891202,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":1098,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.316579,
     "lbl:longitude":12.900388,
     "lbl:max_zoom":16.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132275,
-        "qs_pg:id":381355
+        "qs_pg:id":381355,
+        "se-lant:code":"107010"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497048104,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"a950e8fe6b973fd514f327ffbcba28ee",
+    "wof:geomhash":"25855db42be842130386822b3b0f72bf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125382019,
-    "wof:lastmodified":1582340854,
+    "wof:lastmodified":1695879525,
     "wof:name":"Mjoback",
     "wof:parent_id":1159303079,
     "wof:placetype":"localadmin",

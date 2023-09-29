@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012755,
-    "geom:area_square_m":83463244.44743,
+    "geom:area_square_m":83463244.447439,
     "geom:bbox":"11.5980157224,57.971641983,11.7951278321,58.1058672236",
     "geom:latitude":58.048292,
     "geom:longitude":11.714921,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":4676,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.042465,
     "lbl:longitude":11.732854,
     "lbl:max_zoom":15.0,
@@ -91,14 +100,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8133178,
-        "qs_pg:id":758527
+        "qs_pg:id":758527,
+        "se-lant:code":"109023"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497042124,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"f80f694f11a85c6a9f86dff9b1462b8a",
+    "wof:geomhash":"ed3ff323aac832d3a5db768f8e420da5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -109,7 +120,7 @@
         }
     ],
     "wof:id":1125270933,
-    "wof:lastmodified":1582340807,
+    "wof:lastmodified":1695879491,
     "wof:name":"Valla",
     "wof:parent_id":1159303425,
     "wof:placetype":"localadmin",

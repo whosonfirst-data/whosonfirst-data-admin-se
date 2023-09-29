@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.156667,
-    "geom:area_square_m":817584779.324982,
+    "geom:area_square_m":817584779.325073,
     "geom:bbox":"17.9743416709,64.8376844505,18.8672182874,65.2429488019",
     "geom:latitude":65.036518,
     "geom:longitude":18.385402,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":65.036854,
     "lbl:longitude":18.385625,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"324009"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733984,
-    "wof:geomhash":"a144fb0c0242de0d2b5decf526bcb281",
+    "wof:geomhash":"db5579e271ba25be90b725c755c11fc8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306253,
-    "wof:lastmodified":1566643299,
+    "wof:lastmodified":1695879417,
     "wof:name":"Bjorksele",
     "wof:parent_id":1159303117,
     "wof:placetype":"localadmin",

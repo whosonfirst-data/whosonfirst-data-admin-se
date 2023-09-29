@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004962,
-    "geom:area_square_m":33392492.266694,
+    "geom:area_square_m":33392492.266691,
     "geom:bbox":"12.6452956768,56.9984011926,12.8330967137,57.0618548032",
     "geom:latitude":57.025342,
     "geom:longitude":12.741768,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.033187,
     "lbl:longitude":12.780801,
     "lbl:max_zoom":18.0,
@@ -45,9 +54,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"104047"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734101,
-    "wof:geomhash":"74815b1497ac897b94daaffcd7d387c3",
+    "wof:geomhash":"86b5a195c7597754e92b2f64f5f9de8b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +71,7 @@
         }
     ],
     "wof:id":1159306643,
-    "wof:lastmodified":1566643324,
+    "wof:lastmodified":1695879423,
     "wof:name":"Askome",
     "wof:parent_id":1159303247,
     "wof:placetype":"localadmin",

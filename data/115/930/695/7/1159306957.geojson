@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003306,
-    "geom:area_square_m":20875075.14761,
+    "geom:area_square_m":20875075.147609,
     "geom:bbox":"15.0407486359,59.2608550028,15.1082731723,59.3271329781",
     "geom:latitude":59.295047,
     "geom:longitude":15.072072,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.29727,
     "lbl:longitude":15.072074,
     "lbl:max_zoom":18.0,
@@ -219,9 +228,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"211035"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734188,
-    "wof:geomhash":"bdfe4dbff4fa37db84bf781328304a3c",
+    "wof:geomhash":"f9961fdf2b88527e42d9fc58c2cbf03a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -232,7 +245,7 @@
         }
     ],
     "wof:id":1159306957,
-    "wof:lastmodified":1566643224,
+    "wof:lastmodified":1695879404,
     "wof:name":"Grave",
     "wof:parent_id":1159303031,
     "wof:placetype":"localadmin",

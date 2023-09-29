@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012196,
-    "geom:area_square_m":72976725.587752,
+    "geom:area_square_m":72976725.587753,
     "geom:bbox":"16.5194363215,61.0301486694,16.8187965901,61.0908333567",
     "geom:latitude":61.059138,
     "geom:longitude":16.654366,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":61.058778,
     "lbl:longitude":16.65434,
     "lbl:max_zoom":18.0,
@@ -57,9 +66,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"318001"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733921,
-    "wof:geomhash":"0b4a5022af2c9e3f9ceef5aea0408ec9",
+    "wof:geomhash":"9074d77dc2b7131d8674ac11db3eb602",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +83,7 @@
         }
     ],
     "wof:id":1159305985,
-    "wof:lastmodified":1566643295,
+    "wof:lastmodified":1695879416,
     "wof:name":"Lingbo",
     "wof:parent_id":1159303283,
     "wof:placetype":"localadmin",

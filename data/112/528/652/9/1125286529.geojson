@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003986,
-    "geom:area_square_m":27448698.571382,
+    "geom:area_square_m":27448698.571384,
     "geom:bbox":"14.8131910254,56.1302251091,14.9119393076,56.1905394188",
     "geom:latitude":56.158787,
     "geom:longitude":14.863569,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":12218,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.15908,
     "lbl:longitude":14.862632,
     "lbl:max_zoom":15.0,
@@ -154,14 +163,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131786,
-        "qs_pg:id":757716
+        "qs_pg:id":757716,
+        "se-lant:code":"102011"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497042725,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"f9725537b1448c9decc977fa2411b27e",
+    "wof:geomhash":"5eefaf3e4a1b500fefb84ecbecc4fe97",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -172,7 +183,7 @@
         }
     ],
     "wof:id":1125286529,
-    "wof:lastmodified":1582340794,
+    "wof:lastmodified":1695879482,
     "wof:name":"Karlshamn",
     "wof:parent_id":1159302985,
     "wof:placetype":"localadmin",

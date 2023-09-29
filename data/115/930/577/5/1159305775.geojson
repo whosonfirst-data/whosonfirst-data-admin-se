@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018934,
-    "geom:area_square_m":119696374.756151,
+    "geom:area_square_m":119696374.756159,
     "geom:bbox":"18.3204530981,59.1933617728,18.6584391124,59.3106311082",
     "geom:latitude":59.251943,
     "geom:longitude":18.492354,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.245417,
     "lbl:longitude":18.503901,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"215004"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733866,
-    "wof:geomhash":"ca1bd76746c1d22356312c552c635085",
+    "wof:geomhash":"7e15deba3fd04c12aff6a290e7e0acd2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159305775,
-    "wof:lastmodified":1566643377,
+    "wof:lastmodified":1695879432,
     "wof:name":"Ingaro",
     "wof:parent_id":1159303241,
     "wof:placetype":"localadmin",

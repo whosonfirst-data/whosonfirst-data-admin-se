@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013181,
-    "geom:area_square_m":87073783.727956,
+    "geom:area_square_m":87073783.727944,
     "geom:bbox":"12.9769585333,57.659013403,13.2025576255,57.7618149436",
     "geom:latitude":57.706238,
     "geom:longitude":13.095088,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":7115,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.713598,
     "lbl:longitude":13.095069,
     "lbl:max_zoom":15.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8133298,
-        "qs_pg:id":758601
+        "qs_pg:id":758601,
+        "se-lant:code":"107076"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497051613,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"54a870281efbd8ea701ceeccfbceddfe",
+    "wof:geomhash":"ee6b2a155554d915f0a4a98646b7c309",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125417561,
-    "wof:lastmodified":1582340872,
+    "wof:lastmodified":1695879545,
     "wof:name":"Toarp",
     "wof:parent_id":1159303073,
     "wof:placetype":"localadmin",

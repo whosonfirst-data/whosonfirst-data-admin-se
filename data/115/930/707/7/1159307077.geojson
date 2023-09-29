@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00758,
-    "geom:area_square_m":47971987.378258,
+    "geom:area_square_m":47971987.378265,
     "geom:bbox":"17.2436708974,59.1643414069,17.3651620757,59.2735992499",
     "geom:latitude":59.215204,
     "geom:longitude":17.307249,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.207674,
     "lbl:longitude":17.301272,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"212067"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734218,
-    "wof:geomhash":"e09a4561b490dd127da74da161600b14",
+    "wof:geomhash":"dee78fb50c29b5ab1ecb175448f57edb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307077,
-    "wof:lastmodified":1566643172,
+    "wof:lastmodified":1695879394,
     "wof:name":"Taxinge",
     "wof:parent_id":1159303199,
     "wof:placetype":"localadmin",

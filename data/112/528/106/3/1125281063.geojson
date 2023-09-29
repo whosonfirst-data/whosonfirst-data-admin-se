@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014472,
-    "geom:area_square_m":95872484.400093,
+    "geom:area_square_m":95872484.400097,
     "geom:bbox":"15.4278224775,57.5476346641,15.6656744406,57.6664015292",
     "geom:latitude":57.605533,
     "geom:longitude":15.533943,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":1783,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.601434,
     "lbl:longitude":15.542014,
     "lbl:max_zoom":16.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132661,
-        "qs_pg:id":758277
+        "qs_pg:id":758277,
+        "se-lant:code":"105227"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497042502,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"1a0bd07c04391f42931d5488a93d887d",
+    "wof:geomhash":"0541b9577af819f0b02d4dc68a8c5216",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125281063,
-    "wof:lastmodified":1582340791,
+    "wof:lastmodified":1695879480,
     "wof:name":"Hassleby",
     "wof:parent_id":1159303243,
     "wof:placetype":"localadmin",

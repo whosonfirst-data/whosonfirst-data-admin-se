@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000446,
-    "geom:area_square_m":2877371.804181,
+    "geom:area_square_m":2877371.804182,
     "geom:bbox":"16.1792554826,58.5611585284,16.2202946479,58.5855435255",
     "geom:latitude":58.573998,
     "geom:longitude":16.202271,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":12213,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.57491,
     "lbl:longitude":16.20367,
     "lbl:max_zoom":15.0,
@@ -61,14 +70,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132113,
-        "qs_pg:id":757942
+        "qs_pg:id":757942,
+        "se-lant:code":"108137"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497046610,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"da22f20a9fd8e89fa3cc9ef0751724e1",
+    "wof:geomhash":"19c51dc0b090674a568db36abeac6d60",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +90,7 @@
         }
     ],
     "wof:id":1125358139,
-    "wof:lastmodified":1582340748,
+    "wof:lastmodified":1695879447,
     "wof:name":"Norrkopings Sankt Johannes",
     "wof:parent_id":1159303229,
     "wof:placetype":"localadmin",

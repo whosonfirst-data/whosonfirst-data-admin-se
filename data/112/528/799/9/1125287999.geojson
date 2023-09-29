@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037528,
-    "geom:area_square_m":237760823.632126,
+    "geom:area_square_m":237760823.632148,
     "geom:bbox":"15.7620378986,59.0730721105,16.2128800255,59.2630089096",
     "geom:latitude":59.177576,
     "geom:longitude":16.025922,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":1365,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.201866,
     "lbl:longitude":16.022573,
     "lbl:max_zoom":16.0,
@@ -61,14 +70,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132883,
-        "qs_pg:id":758410
+        "qs_pg:id":758410,
+        "se-lant:code":"212049"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497042793,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"f317e9ed39837584daf358f78b7653e2",
+    "wof:geomhash":"fbf12c43e6467f4fe51ed3035ad2ca87",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +90,7 @@
         }
     ],
     "wof:id":1125287999,
-    "wof:lastmodified":1582340780,
+    "wof:lastmodified":1695879473,
     "wof:name":"Julita",
     "wof:parent_id":1159303103,
     "wof:placetype":"localadmin",

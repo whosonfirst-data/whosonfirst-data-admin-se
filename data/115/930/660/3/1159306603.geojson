@@ -10,6 +10,15 @@
     "geom:latitude":59.676072,
     "geom:longitude":16.609605,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.678875,
     "lbl:longitude":16.608674,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"214042"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734095,
-    "wof:geomhash":"210012eba8e8d53fe7ef67c7ff11b0c5",
+    "wof:geomhash":"f6c0163291db0e6267aa43b1354f88dc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306603,
-    "wof:lastmodified":1566643210,
+    "wof:lastmodified":1695879402,
     "wof:name":"Hubbo",
     "wof:parent_id":1159303331,
     "wof:placetype":"localadmin",

@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003935,
-    "geom:area_square_m":26266918.199478,
+    "geom:area_square_m":26266918.19948,
     "geom:bbox":"18.3271552003,57.2891331765,18.42153317,57.356733716",
     "geom:latitude":57.324473,
     "geom:longitude":18.374778,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.324345,
     "lbl:longitude":18.385686,
     "lbl:max_zoom":18.0,
@@ -48,9 +57,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"106023"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734000,
-    "wof:geomhash":"d36dae2d978a06b2b4edcf6cfa3eab7c",
+    "wof:geomhash":"3db5203e1add7aeb5930405bfa365aed",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +74,7 @@
         }
     ],
     "wof:id":1159306315,
-    "wof:lastmodified":1566643347,
+    "wof:lastmodified":1695879427,
     "wof:name":"Lojsta",
     "wof:parent_id":1159303535,
     "wof:placetype":"localadmin",

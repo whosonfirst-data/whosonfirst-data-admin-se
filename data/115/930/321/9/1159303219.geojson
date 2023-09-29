@@ -145,8 +145,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_0182",
-        "eurostat:nuts_2021_id":"0182"
+        "eurostat:nuts_2021_id":"0182",
+        "se-lant:code":"0182"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525379461,
     "wof:geomhash":"02f556e8f5674a0fb7bfef1f04841d41",
@@ -159,7 +161,7 @@
         }
     ],
     "wof:id":1159303219,
-    "wof:lastmodified":1684354752,
+    "wof:lastmodified":1695886754,
     "wof:name":"Nacka",
     "wof:parent_id":85688429,
     "wof:placetype":"county",

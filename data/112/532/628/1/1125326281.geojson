@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011556,
-    "geom:area_square_m":71376311.195798,
+    "geom:area_square_m":71376311.195797,
     "geom:bbox":"17.793571557,59.9744571956,17.9229799978,60.1150140854",
     "geom:latitude":60.032892,
     "geom:longitude":17.858757,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":782,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":60.028353,
     "lbl:longitude":17.859984,
     "lbl:max_zoom":17.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8133359,
-        "qs_pg:id":758643
+        "qs_pg:id":758643,
+        "se-lant:code":"215168"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497044834,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"23a330386e9049f3afc276dcfd0406f6",
+    "wof:geomhash":"68a4128e9ca710307abd8d1e5da02981",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125326281,
-    "wof:lastmodified":1582340758,
+    "wof:lastmodified":1695879453,
     "wof:name":"Rasbokil",
     "wof:parent_id":1159303253,
     "wof:placetype":"localadmin",

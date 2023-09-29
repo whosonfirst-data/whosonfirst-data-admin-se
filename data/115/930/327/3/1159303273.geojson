@@ -130,8 +130,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_1484",
-        "eurostat:nuts_2021_id":"1484"
+        "eurostat:nuts_2021_id":"1484",
+        "se-lant:code":"1484"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525379470,
     "wof:geomhash":"7f11392810d23b13b240cf4983d31e76",
@@ -144,7 +146,7 @@
         }
     ],
     "wof:id":1159303273,
-    "wof:lastmodified":1684354753,
+    "wof:lastmodified":1695886755,
     "wof:name":"Lysekil",
     "wof:parent_id":85688411,
     "wof:placetype":"county",

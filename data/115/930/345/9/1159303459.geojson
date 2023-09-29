@@ -133,8 +133,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_0488",
-        "eurostat:nuts_2021_id":"0488"
+        "eurostat:nuts_2021_id":"0488",
+        "se-lant:code":"0488"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525379499,
     "wof:geomhash":"0de27ab799d70c69158d5e3a3621715e",
@@ -147,7 +149,7 @@
         }
     ],
     "wof:id":1159303459,
-    "wof:lastmodified":1684354757,
+    "wof:lastmodified":1695886761,
     "wof:name":"Trosa",
     "wof:parent_id":85688419,
     "wof:placetype":"county",

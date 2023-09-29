@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003181,
-    "geom:area_square_m":21116358.613813,
+    "geom:area_square_m":21116281.103264,
     "geom:bbox":"18.377489,57.494033,18.502145,57.564902",
     "geom:latitude":57.527592,
     "geom:longitude":18.444737,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":918,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.529024,
     "lbl:longitude":18.44471,
     "lbl:max_zoom":17.0,
@@ -202,14 +211,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132533,
-        "qs_pg:id":758201
+        "qs_pg:id":758201,
+        "se-lant:code":"106061"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497044781,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"ba63595f825323581ba50fbdc87a1b24",
+    "wof:geomhash":"5f888493b0e3a86fdb2fa1baaaaf3ccc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -220,7 +231,7 @@
         }
     ],
     "wof:id":1125325455,
-    "wof:lastmodified":1636499892,
+    "wof:lastmodified":1695879558,
     "wof:name":"Roma",
     "wof:parent_id":1159303535,
     "wof:placetype":"localadmin",

@@ -118,8 +118,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_0140",
-        "eurostat:nuts_2021_id":"0140"
+        "eurostat:nuts_2021_id":"0140",
+        "se-lant:code":"0140"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525379458,
     "wof:geomhash":"faa9804f18cd975672535da311f88aaa",
@@ -132,7 +134,7 @@
         }
     ],
     "wof:id":1159303199,
-    "wof:lastmodified":1684354751,
+    "wof:lastmodified":1695886753,
     "wof:name":"Nykvarn",
     "wof:parent_id":85688429,
     "wof:placetype":"county",

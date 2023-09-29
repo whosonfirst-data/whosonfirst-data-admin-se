@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016738,
-    "geom:area_square_m":113434312.025601,
+    "geom:area_square_m":113434312.025608,
     "geom:bbox":"15.065322302,56.6939592277,15.2597726052,56.8356308733",
     "geom:latitude":56.765961,
     "geom:longitude":15.164451,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":3237,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.764031,
     "lbl:longitude":15.162617,
     "lbl:max_zoom":15.0,
@@ -88,14 +97,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132136,
-        "qs_pg:id":757961
+        "qs_pg:id":757961,
+        "se-lant:code":"105067"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497042116,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"ebc23715961e9d6d2093ed3fcf771254",
+    "wof:geomhash":"ebc1383e494c9113517f4ab211b18152",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -106,7 +117,7 @@
         }
     ],
     "wof:id":1125270745,
-    "wof:lastmodified":1582340805,
+    "wof:lastmodified":1695879490,
     "wof:name":"Hovmantorp",
     "wof:parent_id":1159303067,
     "wof:placetype":"localadmin",

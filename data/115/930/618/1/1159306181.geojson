@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007578,
-    "geom:area_square_m":51608941.77828,
+    "geom:area_square_m":51608941.778278,
     "geom:bbox":"16.3740212707,56.5427153731,16.5447187608,56.6210106951",
     "geom:latitude":56.581763,
     "geom:longitude":16.45522,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.584727,
     "lbl:longitude":16.46105,
     "lbl:max_zoom":18.0,
@@ -60,9 +69,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"103012"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733967,
-    "wof:geomhash":"c0fa94a305515790baea67e6426e067b",
+    "wof:geomhash":"aa17911218b477ec42ed8deb2ada7fc5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,7 +86,7 @@
         }
     ],
     "wof:id":1159306181,
-    "wof:lastmodified":1566643193,
+    "wof:lastmodified":1695879398,
     "wof:name":"Vickleby",
     "wof:parent_id":1159303101,
     "wof:placetype":"localadmin",

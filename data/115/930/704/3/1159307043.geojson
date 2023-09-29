@@ -10,6 +10,15 @@
     "geom:latitude":59.066529,
     "geom:longitude":12.494751,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.064478,
     "lbl:longitude":12.486979,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"110038"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734209,
-    "wof:geomhash":"35a6c19cf3f99dccc9619fa042d3cd53",
+    "wof:geomhash":"1bdec047e885c2182084a72661aaa84c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307043,
-    "wof:lastmodified":1566643286,
+    "wof:lastmodified":1695879414,
     "wof:name":"Edsleskog",
     "wof:parent_id":1159303547,
     "wof:placetype":"localadmin",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004085,
-    "geom:area_square_m":26359309.379328,
+    "geom:area_square_m":26359309.379326,
     "geom:bbox":"16.1185830046,58.5138289791,16.2461642561,58.5811120004",
     "geom:latitude":58.544983,
     "geom:longitude":16.17589,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":11300,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.550754,
     "lbl:longitude":16.171501,
     "lbl:max_zoom":15.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131978,
-        "qs_pg:id":757859
+        "qs_pg:id":757859,
+        "se-lant:code":"108136"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497042743,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"c6e484cf0ed41d496c414edb0032c87f",
+    "wof:geomhash":"a58131d608ffe088c169b14018057054",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125286933,
-    "wof:lastmodified":1582340785,
+    "wof:lastmodified":1695879476,
     "wof:name":"Vrinnevi",
     "wof:parent_id":1159303229,
     "wof:placetype":"localadmin",

@@ -10,6 +10,15 @@
     "geom:latitude":58.091994,
     "geom:longitude":12.809641,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.08561,
     "lbl:longitude":12.802684,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107209"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733965,
-    "wof:geomhash":"580ead4e9cac9352282431da7d313b20",
+    "wof:geomhash":"5e2b75fe1b209374f5d9a3088120d2e4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306175,
-    "wof:lastmodified":1566643183,
+    "wof:lastmodified":1695879396,
     "wof:name":"Sodra Harene",
     "wof:parent_id":1159303255,
     "wof:placetype":"localadmin",

@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009703,
-    "geom:area_square_m":66807443.69434,
+    "geom:area_square_m":66807443.694341,
     "geom:bbox":"13.1598330353,56.1010488838,13.3104477338,56.2178684405",
     "geom:latitude":56.161896,
     "geom:longitude":13.231861,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.165526,
     "lbl:longitude":13.230749,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101326"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734073,
-    "wof:geomhash":"25d0baf23ba5920c1c817e3c7c2d31d6",
+    "wof:geomhash":"eccdc32867d0ac73b8796ba321ee74e5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306543,
-    "wof:lastmodified":1566643340,
+    "wof:lastmodified":1695879426,
     "wof:name":"Vedby",
     "wof:parent_id":1159303295,
     "wof:placetype":"localadmin",

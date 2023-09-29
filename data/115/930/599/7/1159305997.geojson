@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023499,
-    "geom:area_square_m":147962329.452205,
+    "geom:area_square_m":147962329.452191,
     "geom:bbox":"14.8815987488,59.3214491382,15.1643171917,59.4729622168",
     "geom:latitude":59.388325,
     "geom:longitude":15.040394,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.384394,
     "lbl:longitude":15.040389,
     "lbl:max_zoom":18.0,
@@ -54,9 +63,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"211044"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733924,
-    "wof:geomhash":"e16decee38388105fa7878fee3a54cca",
+    "wof:geomhash":"ff939a6ce5aa7c350ab9c705e30feb25",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,7 +80,7 @@
         }
     ],
     "wof:id":1159305997,
-    "wof:lastmodified":1566643273,
+    "wof:lastmodified":1695879412,
     "wof:name":"Kil",
     "wof:parent_id":1159303031,
     "wof:placetype":"localadmin",

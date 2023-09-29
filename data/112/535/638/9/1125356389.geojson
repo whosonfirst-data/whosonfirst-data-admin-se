@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008109,
-    "geom:area_square_m":45359046.548448,
+    "geom:area_square_m":45359046.548449,
     "geom:bbox":"14.6201798708,63.0619127309,15.0929943969,63.1682978006",
     "geom:latitude":63.103813,
     "geom:longitude":14.732472,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":577,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":63.102021,
     "lbl:longitude":14.694403,
     "lbl:max_zoom":17.0,
@@ -76,14 +85,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132614,
-        "qs_pg:id":758255
+        "qs_pg:id":758255,
+        "se-lant:code":"322020"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497046495,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"7e872136c64482f058d811cec4ce263c",
+    "wof:geomhash":"a8beed4105feae6150c60f6b2cf9efcc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,7 +105,7 @@
         }
     ],
     "wof:id":1125356389,
-    "wof:lastmodified":1582340751,
+    "wof:lastmodified":1695879449,
     "wof:name":"Marieby",
     "wof:parent_id":1159303231,
     "wof:placetype":"localadmin",

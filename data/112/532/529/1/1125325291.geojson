@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011763,
-    "geom:area_square_m":78810886.912263,
+    "geom:area_square_m":78810886.912257,
     "geom:bbox":"13.6404510023,57.1212147387,13.8020821539,57.2494534764",
     "geom:latitude":57.189938,
     "geom:longitude":13.717929,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":2049,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.202527,
     "lbl:longitude":13.719183,
     "lbl:max_zoom":15.0,
@@ -73,14 +82,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131885,
-        "qs_pg:id":757789
+        "qs_pg:id":757789,
+        "se-lant:code":"105134"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497044766,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"090188f507932ff216b6b631b5d7d8fd",
+    "wof:geomhash":"ee254d27ba23bf60c6d2cc60773e4a65",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +102,7 @@
         }
     ],
     "wof:id":1125325291,
-    "wof:lastmodified":1582340764,
+    "wof:lastmodified":1695879458,
     "wof:name":"Bredaryd",
     "wof:parent_id":1159303313,
     "wof:placetype":"localadmin",

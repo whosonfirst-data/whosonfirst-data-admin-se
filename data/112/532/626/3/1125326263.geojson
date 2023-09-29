@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002237,
-    "geom:area_square_m":14576581.420792,
+    "geom:area_square_m":14576581.420786,
     "geom:bbox":"16.5457530308,58.1774566032,16.6473255644,58.2279284759",
     "geom:latitude":58.201753,
     "geom:longitude":16.603158,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":2846,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.200001,
     "lbl:longitude":16.611627,
     "lbl:max_zoom":15.0,
@@ -115,14 +124,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8133330,
-        "qs_pg:id":758621
+        "qs_pg:id":758621,
+        "se-lant:code":"108033"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497044833,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"f77534a8f94ab8123de1b9b87b88bd1d",
+    "wof:geomhash":"91fb320764d2503204b378726ae2cc61",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -133,7 +144,7 @@
         }
     ],
     "wof:id":1125326263,
-    "wof:lastmodified":1582340759,
+    "wof:lastmodified":1695879454,
     "wof:name":"Valdemarsvik",
     "wof:parent_id":1159303123,
     "wof:placetype":"localadmin",

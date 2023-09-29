@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016772,
-    "geom:area_square_m":114257134.4154,
+    "geom:area_square_m":114257134.415405,
     "geom:bbox":"15.3373714586,56.481742666,15.534100604,56.6479205894",
     "geom:latitude":56.568145,
     "geom:longitude":15.42945,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":895,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.567593,
     "lbl:longitude":15.429495,
     "lbl:max_zoom":17.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132680,
-        "qs_pg:id":1246009
+        "qs_pg:id":1246009,
+        "se-lant:code":"105016"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497046904,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"3b71a374a0b9b80ddb14a137b03a35a0",
+    "wof:geomhash":"59820cc9112dfb6955ef96c60c3066d8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125362877,
-    "wof:lastmodified":1582340857,
+    "wof:lastmodified":1695879527,
     "wof:name":"Langasjo",
     "wof:parent_id":1159303533,
     "wof:placetype":"localadmin",

@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000903,
-    "geom:area_square_m":5910673.119698,
+    "geom:area_square_m":5910673.119697,
     "geom:bbox":"12.8563116742,58.0127970924,12.9301667621,58.0407002241",
     "geom:latitude":58.032058,
     "geom:longitude":12.895081,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.033026,
     "lbl:longitude":12.895089,
     "lbl:max_zoom":18.0,
@@ -72,9 +81,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107174"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734062,
-    "wof:geomhash":"9c5d1dc98b1d20a05946a5d729040f67",
+    "wof:geomhash":"918dace2e7886bddbe62caa11f596d38",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,7 +98,7 @@
         }
     ],
     "wof:id":1159306495,
-    "wof:lastmodified":1566643303,
+    "wof:lastmodified":1695879418,
     "wof:name":"Landa",
     "wof:parent_id":1159303255,
     "wof:placetype":"localadmin",

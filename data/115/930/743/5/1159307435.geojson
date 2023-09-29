@@ -10,6 +10,15 @@
     "geom:latitude":55.349557,
     "geom:longitude":13.308839,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.352057,
     "lbl:longitude":13.309477,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101008"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734310,
-    "wof:geomhash":"4990ea7fda3613c77bdd5a6f2a9a05df",
+    "wof:geomhash":"a97dad922cef85e7780207ff0c0caf95",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307435,
-    "wof:lastmodified":1566643356,
+    "wof:lastmodified":1695879429,
     "wof:name":"Lilla Isie",
     "wof:parent_id":1159303309,
     "wof:placetype":"localadmin",

@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022904,
-    "geom:area_square_m":150953192.527702,
+    "geom:area_square_m":150953192.527683,
     "geom:bbox":"13.7143060885,57.7183903286,14.0212803032,57.8561764275",
     "geom:latitude":57.791412,
     "geom:longitude":13.853805,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.78367,
     "lbl:longitude":13.843318,
     "lbl:max_zoom":18.0,
@@ -54,9 +63,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"105246"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733984,
-    "wof:geomhash":"388eb18755c2d42de188996b2d472a68",
+    "wof:geomhash":"04bda982408a616ecaaed2d80b738935",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,7 +80,7 @@
         }
     ],
     "wof:id":1159306251,
-    "wof:lastmodified":1566643299,
+    "wof:lastmodified":1695879417,
     "wof:name":"Bottnaryd",
     "wof:parent_id":1159303375,
     "wof:placetype":"localadmin",

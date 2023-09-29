@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032534,
-    "geom:area_square_m":208644406.099548,
+    "geom:area_square_m":208644406.099545,
     "geom:bbox":"15.0345444728,58.6659696527,15.3465036832,58.8651377988",
     "geom:latitude":58.75854,
     "geom:longitude":15.197374,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":702,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.745268,
     "lbl:longitude":15.18668,
     "lbl:max_zoom":17.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131622,
-        "qs_pg:id":757624
+        "qs_pg:id":757624,
+        "se-lant:code":"108154"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497046472,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"a267692b1885e05068de3616b7cadef6",
+    "wof:geomhash":"f4f271eab7fd8597a33f756824597dab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125355957,
-    "wof:lastmodified":1582340737,
+    "wof:lastmodified":1695879438,
     "wof:name":"Godegard",
     "wof:parent_id":1159303391,
     "wof:placetype":"localadmin",

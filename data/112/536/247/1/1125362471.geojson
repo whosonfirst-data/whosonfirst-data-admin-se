@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.049968,
-    "geom:area_square_m":292463057.453918,
+    "geom:area_square_m":292463057.453933,
     "geom:bbox":"17.1233905778,61.6094925911,17.5446543387,61.8707576696",
     "geom:latitude":61.748983,
     "geom:longitude":17.349139,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":1427,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":61.787823,
     "lbl:longitude":17.328413,
     "lbl:max_zoom":16.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132499,
-        "qs_pg:id":758177
+        "qs_pg:id":758177,
+        "se-lant:code":"318028"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497046880,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"f8003a2a1e69c1d3e96491ff806bafbf",
+    "wof:geomhash":"bd1fa14b0a7b65e76fefdfa645044cee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125362471,
-    "wof:lastmodified":1582340862,
+    "wof:lastmodified":1695879531,
     "wof:name":"Rogsta",
     "wof:parent_id":1159303395,
     "wof:placetype":"localadmin",

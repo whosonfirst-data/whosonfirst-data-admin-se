@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005509,
-    "geom:area_square_m":35929831.117307,
+    "geom:area_square_m":35929831.117308,
     "geom:bbox":"13.7459949533,58.1397780065,13.900386016,58.1959001279",
     "geom:latitude":58.165492,
     "geom:longitude":13.82068,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":322,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.166727,
     "lbl:longitude":13.826679,
     "lbl:max_zoom":17.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132247,
-        "qs_pg:id":758003
+        "qs_pg:id":758003,
+        "se-lant:code":"107237"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497046612,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"ed63d1d137e45d17d1d6cfdac4223f77",
+    "wof:geomhash":"3cdb62170bc7696e488d7cb7a0d3ace0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125358175,
-    "wof:lastmodified":1582340740,
+    "wof:lastmodified":1695879440,
     "wof:name":"Dimbo-Ottravad",
     "wof:parent_id":1159303037,
     "wof:placetype":"localadmin",

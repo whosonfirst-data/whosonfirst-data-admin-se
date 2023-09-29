@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":7153,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.422322,
     "lbl:longitude":12.876582,
     "lbl:max_zoom":15.0,
@@ -61,14 +70,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132297,
-        "qs_pg:id":758029
+        "qs_pg:id":758029,
+        "se-lant:code":"101015"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497046490,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"f9faa466606e03fd6b0361c417589676",
+    "wof:geomhash":"54ef8d20830c541870883398c8424262",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +90,7 @@
         }
     ],
     "wof:id":1125356303,
-    "wof:lastmodified":1582340750,
+    "wof:lastmodified":1695879448,
     "wof:name":"Skanor",
     "wof:parent_id":1159303307,
     "wof:placetype":"localadmin",

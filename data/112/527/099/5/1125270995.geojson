@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011364,
-    "geom:area_square_m":74899325.538414,
+    "geom:area_square_m":74899325.538422,
     "geom:bbox":"12.3156569869,57.7297768783,12.4894795576,57.8734201087",
     "geom:latitude":57.790861,
     "geom:longitude":12.404922,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":10363,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.795346,
     "lbl:longitude":12.398996,
     "lbl:max_zoom":15.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8133202,
-        "qs_pg:id":758545
+        "qs_pg:id":758545,
+        "se-lant:code":"107098"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497042127,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"4f46c4d1435cd7a526a5c5977672ed4d",
+    "wof:geomhash":"a1090aefebf22990fbcbd1906b3eb377",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125270995,
-    "wof:lastmodified":1582340802,
+    "wof:lastmodified":1695879488,
     "wof:name":"Skallsjo",
     "wof:parent_id":1159303177,
     "wof:placetype":"localadmin",

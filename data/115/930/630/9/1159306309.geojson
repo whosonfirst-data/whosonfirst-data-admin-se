@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008547,
-    "geom:area_square_m":55337127.162983,
+    "geom:area_square_m":55337127.162988,
     "geom:bbox":"16.323657699,58.3640227251,16.4421452923,58.4807300762",
     "geom:latitude":58.426232,
     "geom:longitude":16.386812,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.432061,
     "lbl:longitude":16.392705,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"108096"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733997,
-    "wof:geomhash":"8eac6f3057a253d01a11e7afcd843507",
+    "wof:geomhash":"1ea7ba13a12cfef3f4ce577031befaf2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306309,
-    "wof:lastmodified":1566643330,
+    "wof:lastmodified":1695879424,
     "wof:name":"Skonberga",
     "wof:parent_id":1159303305,
     "wof:placetype":"localadmin",

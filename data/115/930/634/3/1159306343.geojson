@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010937,
-    "geom:area_square_m":68063687.014454,
+    "geom:area_square_m":68063687.014452,
     "geom:bbox":"16.9705996207,59.7305437351,17.1310050797,59.8419345112",
     "geom:latitude":59.781924,
     "geom:longitude":17.048426,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.778977,
     "lbl:longitude":17.054923,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"215098"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734009,
-    "wof:geomhash":"cd81dc7f4ba224661c1015a0eb233b8d",
+    "wof:geomhash":"0909965f0f661bb6991552624188fca5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306343,
-    "wof:lastmodified":1566643201,
+    "wof:lastmodified":1695879400,
     "wof:name":"Torstuna",
     "wof:parent_id":1159303337,
     "wof:placetype":"localadmin",

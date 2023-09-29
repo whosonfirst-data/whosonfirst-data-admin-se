@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014309,
-    "geom:area_square_m":81444974.513546,
+    "geom:area_square_m":81444974.513564,
     "geom:bbox":"17.8904115619,62.520061396,18.0847628534,62.6511659883",
     "geom:latitude":62.597959,
     "geom:longitude":17.984493,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":15433,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":62.599024,
     "lbl:longitude":17.983024,
     "lbl:max_zoom":15.0,
@@ -61,14 +70,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131953,
-        "qs_pg:id":757834
+        "qs_pg:id":757834,
+        "se-lant:code":"321002"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497042742,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"82fceff8622a6888a956bdbd2487b134",
+    "wof:geomhash":"165681637e557b41d4592c4e58e5d3a2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +90,7 @@
         }
     ],
     "wof:id":1125286903,
-    "wof:lastmodified":1582340795,
+    "wof:lastmodified":1695879483,
     "wof:name":"Harnosands domkyrkodistrikt",
     "wof:parent_id":1159302975,
     "wof:placetype":"localadmin",

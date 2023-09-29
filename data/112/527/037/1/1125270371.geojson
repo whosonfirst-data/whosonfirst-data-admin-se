@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.333555,
-    "geom:area_square_m":1727599144.2175,
+    "geom:area_square_m":1727599144.217521,
     "geom:bbox":"18.166814,64.984423,19.390354,65.524533",
     "geom:latitude":65.236964,
     "geom:longitude":18.726285,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":3369,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":65.192214,
     "lbl:longitude":18.767822,
     "lbl:max_zoom":15.0,
@@ -94,14 +103,16 @@
     "wof:belongsto":[
         102191581,
         85633789,
-        1159303429,
-        85688465
+        85688465,
+        1159303429
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132992,
-        "qs_pg:id":904437
+        "qs_pg:id":904437,
+        "se-lant:code":"324011"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:coterminous":[
         1159303429
     ],
@@ -110,7 +121,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"e0f1844fd415218abb3746b63f88da9e",
+    "wof:geomhash":"e7ea95b932e0f11c78a583ebef8a0479",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -121,7 +132,7 @@
         }
     ],
     "wof:id":1125270371,
-    "wof:lastmodified":1608048353,
+    "wof:lastmodified":1695879556,
     "wof:name":"Mala",
     "wof:parent_id":1159303429,
     "wof:placetype":"localadmin",

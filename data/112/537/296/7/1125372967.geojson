@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":553,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.137407,
     "lbl:longitude":13.505521,
     "lbl:max_zoom":17.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132221,
-        "qs_pg:id":109408
+        "qs_pg:id":109408,
+        "se-lant:code":"101328"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497047537,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"2c4c74906725850de7c49a8960a41185",
+    "wof:geomhash":"433b311e09dae1d6aefce4db58beca4d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125372967,
-    "wof:lastmodified":1582340832,
+    "wof:lastmodified":1695879510,
     "wof:name":"Vastra Torup",
     "wof:parent_id":1159303121,
     "wof:placetype":"localadmin",

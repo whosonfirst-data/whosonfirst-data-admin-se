@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009311,
-    "geom:area_square_m":57850668.974036,
+    "geom:area_square_m":57850668.974027,
     "geom:bbox":"16.7990125118,59.7951680142,16.9924606257,59.8815006985",
     "geom:latitude":59.836936,
     "geom:longitude":16.903234,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.836692,
     "lbl:longitude":16.901714,
     "lbl:max_zoom":18.0,
@@ -42,9 +51,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"215125"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734292,
-    "wof:geomhash":"121502b6568416dea83659c9c7aea5d6",
+    "wof:geomhash":"c15a3bec38c0f9f580193247d7b83507",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,7 +68,7 @@
         }
     ],
     "wof:id":1159307359,
-    "wof:lastmodified":1566643283,
+    "wof:lastmodified":1695879414,
     "wof:name":"Altuna",
     "wof:parent_id":1159303337,
     "wof:placetype":"localadmin",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.310947,
-    "geom:area_square_m":1779487475.024033,
+    "geom:area_square_m":1779487475.024081,
     "geom:bbox":"12.8749522632,62.1747645629,13.8800767259,62.7107498725",
     "geom:latitude":62.431062,
     "geom:longitude":13.315944,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":1554,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":62.398484,
     "lbl:longitude":13.282077,
     "lbl:max_zoom":16.0,
@@ -79,14 +88,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132606,
-        "qs_pg:id":758249
+        "qs_pg:id":758249,
+        "se-lant:code":"319007"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497046880,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"1166f8ca8b2d3448d477590a6c17197a",
+    "wof:geomhash":"eed260135117a4f8e3c4888f078be07d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -97,7 +108,7 @@
         }
     ],
     "wof:id":1125362481,
-    "wof:lastmodified":1582340861,
+    "wof:lastmodified":1695879530,
     "wof:name":"Hede",
     "wof:parent_id":1159303245,
     "wof:placetype":"localadmin",

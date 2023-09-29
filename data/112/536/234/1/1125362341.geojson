@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008179,
-    "geom:area_square_m":56336645.92307,
+    "geom:area_square_m":56336645.923048,
     "geom:bbox":"14.574489637,56.0830811411,14.6662230951,56.2076146438",
     "geom:latitude":56.148105,
     "geom:longitude":14.616663,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":2693,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.157834,
     "lbl:longitude":14.620367,
     "lbl:max_zoom":15.0,
@@ -64,14 +73,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132328,
-        "qs_pg:id":758053
+        "qs_pg:id":758053,
+        "se-lant:code":"102008"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497046875,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"53c1fa6f386d9e582e58ae9a88faf65d",
+    "wof:geomhash":"404a08709040dc1286976a50cde86fb1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,7 +93,7 @@
         }
     ],
     "wof:id":1125362341,
-    "wof:lastmodified":1582340859,
+    "wof:lastmodified":1695879529,
     "wof:name":"Gammalstorp",
     "wof:parent_id":1159303089,
     "wof:placetype":"localadmin",

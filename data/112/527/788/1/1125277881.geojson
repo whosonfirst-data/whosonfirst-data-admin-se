@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027233,
-    "geom:area_square_m":183347252.018034,
+    "geom:area_square_m":183347252.018006,
     "geom:bbox":"15.7298910523,56.9161611107,16.0116790607,57.0893775602",
     "geom:latitude":57.011396,
     "geom:longitude":15.892465,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":617,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.008453,
     "lbl:longitude":15.902119,
     "lbl:max_zoom":17.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132692,
-        "qs_pg:id":109482
+        "qs_pg:id":109482,
+        "se-lant:code":"105111"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497042390,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"8d07c0488bf6c022559a72432048eb2a",
+    "wof:geomhash":"77ce33b5637855aa4b790cfcdc7c07c9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125277881,
-    "wof:lastmodified":1582340807,
+    "wof:lastmodified":1695879492,
     "wof:name":"Kraksmala",
     "wof:parent_id":1159302907,
     "wof:placetype":"localadmin",

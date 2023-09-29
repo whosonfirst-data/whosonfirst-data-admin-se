@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008096,
-    "geom:area_square_m":54923501.436838,
+    "geom:area_square_m":54923501.436842,
     "geom:bbox":"16.4344725198,56.6983973999,16.6369844193,56.7640990089",
     "geom:latitude":56.726589,
     "geom:longitude":16.539058,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":584,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.727773,
     "lbl:longitude":16.539063,
     "lbl:max_zoom":17.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132672,
-        "qs_pg:id":758286
+        "qs_pg:id":758286,
+        "se-lant:code":"103018"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497044779,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"fdbd4b0b9640c84c7940c631e58d74b6",
+    "wof:geomhash":"c3aabd57a52748b87be31a7f62ce58ed",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125325435,
-    "wof:lastmodified":1582340763,
+    "wof:lastmodified":1695879457,
     "wof:name":"Glomminge",
     "wof:parent_id":1159303101,
     "wof:placetype":"localadmin",

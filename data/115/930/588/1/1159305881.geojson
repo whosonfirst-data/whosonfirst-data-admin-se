@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020255,
-    "geom:area_square_m":138637747.531641,
+    "geom:area_square_m":138637747.531647,
     "geom:bbox":"13.022049759,56.3241365752,13.2926551527,56.4504341063",
     "geom:latitude":56.389962,
     "geom:longitude":13.155006,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.394445,
     "lbl:longitude":13.155034,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"104004"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733891,
-    "wof:geomhash":"142e0c38d218dd05f308a9777947a7b8",
+    "wof:geomhash":"971a821db1a3ed85edebff2e9f383356",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159305881,
-    "wof:lastmodified":1566643242,
+    "wof:lastmodified":1695879407,
     "wof:name":"Vaxtorp",
     "wof:parent_id":1159303423,
     "wof:placetype":"localadmin",

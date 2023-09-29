@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002614,
-    "geom:area_square_m":17313207.100625,
+    "geom:area_square_m":17313207.100623,
     "geom:bbox":"18.5185208358,57.5782647267,18.6135996088,57.6446096118",
     "geom:latitude":57.613949,
     "geom:longitude":18.575982,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":233,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":57.6146,
     "lbl:longitude":18.579198,
     "lbl:max_zoom":17.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132523,
-        "qs_pg:id":758194
+        "qs_pg:id":758194,
+        "se-lant:code":"106072"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497044589,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"f0fcbe15a84d52341bd0d10d225ed58b",
+    "wof:geomhash":"2dad6b570ff02c5ba3cc84b4dd690ca1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125322069,
-    "wof:lastmodified":1582340772,
+    "wof:lastmodified":1695879464,
     "wof:name":"Kallunge",
     "wof:parent_id":1159303535,
     "wof:placetype":"localadmin",

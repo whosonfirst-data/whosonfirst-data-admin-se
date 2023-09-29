@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003193,
-    "geom:area_square_m":22410613.073822,
+    "geom:area_square_m":22410613.07382,
     "geom:bbox":"14.0377142633,55.3774492808,14.0976264207,55.4613940002",
     "geom:latitude":55.415658,
     "geom:longitude":14.07075,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.418911,
     "lbl:longitude":14.0743,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101058"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734179,
-    "wof:geomhash":"378cea7cc750eb8f3f02125f58b7bb4e",
+    "wof:geomhash":"187e30d6f08fd9a0c757b5450c0bd923",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306921,
-    "wof:lastmodified":1566643221,
+    "wof:lastmodified":1695879403,
     "wof:name":"Valleberga",
     "wof:parent_id":1159303233,
     "wof:placetype":"localadmin",

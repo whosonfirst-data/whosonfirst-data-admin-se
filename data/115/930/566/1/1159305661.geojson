@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002589,
-    "geom:area_square_m":18150898.931362,
+    "geom:area_square_m":18150898.931366,
     "geom:bbox":"14.216834217,55.4367882615,14.2939663603,55.4916377121",
     "geom:latitude":55.464477,
     "geom:longitude":14.253188,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.462911,
     "lbl:longitude":14.253157,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101063"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525733837,
-    "wof:geomhash":"ea7b4ed4a915daa936ed23182bd937db",
+    "wof:geomhash":"c1c60a6a7638f2ac7ac3f3a7fc8ab656",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159305661,
-    "wof:lastmodified":1566643155,
+    "wof:lastmodified":1695879391,
     "wof:name":"Ostra Hoby",
     "wof:parent_id":1159302931,
     "wof:placetype":"localadmin",

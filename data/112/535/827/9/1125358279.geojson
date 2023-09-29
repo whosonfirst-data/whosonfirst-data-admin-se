@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001263,
-    "geom:area_square_m":8823542.801871,
+    "geom:area_square_m":8823542.80187,
     "geom:bbox":"12.9624763251,55.5951595509,13.0269097516,55.6287742015",
     "geom:latitude":55.613641,
     "geom:longitude":12.996282,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":18689,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.612904,
     "lbl:longitude":12.993108,
     "lbl:max_zoom":15.0,
@@ -61,14 +70,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8132377,
-        "qs_pg:id":758098
+        "qs_pg:id":758098,
+        "se-lant:code":"101118"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497046619,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"a777488d9f580aadf9798828dff81656",
+    "wof:geomhash":"c820e70378441085d0b2cba0b603e800",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +90,7 @@
         }
     ],
     "wof:id":1125358279,
-    "wof:lastmodified":1582340737,
+    "wof:lastmodified":1695879438,
     "wof:name":"Malmo Sankt Petri",
     "wof:parent_id":1159303367,
     "wof:placetype":"localadmin",

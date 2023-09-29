@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016899,
-    "geom:area_square_m":94676693.453038,
+    "geom:area_square_m":94676693.45304,
     "geom:bbox":"17.1787343069,62.9803273456,17.7843857605,63.1292480563",
     "geom:latitude":63.058339,
     "geom:longitude":17.545621,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":298,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":63.02542,
     "lbl:longitude":17.344976,
     "lbl:max_zoom":17.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8133037,
-        "qs_pg:id":109551
+        "qs_pg:id":109551,
+        "se-lant:code":"321016"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497052671,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"47d888da758df6bca09e11022edf8571",
+    "wof:geomhash":"79d24639fcc8caac36d4551e2850877a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125423311,
-    "wof:lastmodified":1582340810,
+    "wof:lastmodified":1695879493,
     "wof:name":"Torsaker",
     "wof:parent_id":1159303301,
     "wof:placetype":"localadmin",

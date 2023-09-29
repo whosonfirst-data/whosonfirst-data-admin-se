@@ -136,8 +136,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_0881",
-        "eurostat:nuts_2021_id":"0881"
+        "eurostat:nuts_2021_id":"0881",
+        "se-lant:code":"0881"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525379391,
     "wof:geomhash":"61abddd2f95f288eb36cac84312ceee0",
@@ -150,7 +152,7 @@
         }
     ],
     "wof:id":1159302907,
-    "wof:lastmodified":1684354745,
+    "wof:lastmodified":1695886745,
     "wof:name":"Nybro",
     "wof:parent_id":85688401,
     "wof:placetype":"county",

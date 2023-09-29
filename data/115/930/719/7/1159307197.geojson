@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00334,
-    "geom:area_square_m":21752555.032197,
+    "geom:area_square_m":21752555.032195,
     "geom:bbox":"13.012924415,58.198443644,13.1613527711,58.2386397182",
     "geom:latitude":58.218418,
     "geom:longitude":13.08908,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":58.218875,
     "lbl:longitude":13.094198,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"107254"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734248,
-    "wof:geomhash":"dbfb2b6a32075fd57367aec1d3118d03",
+    "wof:geomhash":"a01317f155deb2ffcb27f1e02016c4da",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307197,
-    "wof:lastmodified":1566643363,
+    "wof:lastmodified":1695879430,
     "wof:name":"Langjum",
     "wof:parent_id":1159303487,
     "wof:placetype":"localadmin",

@@ -10,6 +10,15 @@
     "geom:latitude":56.139648,
     "geom:longitude":13.962124,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.135253,
     "lbl:longitude":13.961222,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"101333"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734266,
-    "wof:geomhash":"72742250768d9fa5b590ec588b66ec9d",
+    "wof:geomhash":"e47bf82aa238cc726b49d9595f8ded15",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159307281,
-    "wof:lastmodified":1566643366,
+    "wof:lastmodified":1695879431,
     "wof:name":"Sorby",
     "wof:parent_id":1159303121,
     "wof:placetype":"localadmin",

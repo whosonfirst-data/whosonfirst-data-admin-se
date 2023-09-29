@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011289,
-    "geom:area_square_m":70391842.323602,
+    "geom:area_square_m":70391842.3236,
     "geom:bbox":"13.5930321479,59.6583395846,13.7844061816,59.7725037386",
     "geom:latitude":59.716033,
     "geom:longitude":13.687492,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":59.716215,
     "lbl:longitude":13.680898,
     "lbl:max_zoom":18.0,
@@ -39,9 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordance":{},
+    "wof:concordances":{
+        "se-lant:code":"213069"
+    },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525734198,
-    "wof:geomhash":"bec5949d3ffb977b3ca54077ebe5fb48",
+    "wof:geomhash":"99352b04a2d4d256730f3ac8b2eeb47c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1159306997,
-    "wof:lastmodified":1566643321,
+    "wof:lastmodified":1695879422,
     "wof:name":"Alvsbacka",
     "wof:parent_id":1159303443,
     "wof:placetype":"localadmin",

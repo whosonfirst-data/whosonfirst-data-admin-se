@@ -73,8 +73,10 @@
     "wof:concordance":{},
     "wof:concordances":{
         "eg:gisco_id":"SE_0184",
-        "eurostat:nuts_2021_id":"0184"
+        "eurostat:nuts_2021_id":"0184",
+        "se-lant:code":"0184"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1525379476,
     "wof:geomhash":"ef420e1cb7541ca67b2ffb8cb6935d97",
@@ -87,7 +89,7 @@
         }
     ],
     "wof:id":1159303315,
-    "wof:lastmodified":1684354753,
+    "wof:lastmodified":1695886756,
     "wof:name":"Solna",
     "wof:parent_id":85688429,
     "wof:placetype":"county",

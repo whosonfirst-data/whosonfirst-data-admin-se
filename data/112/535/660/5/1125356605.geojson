@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005281,
-    "geom:area_square_m":36546009.064574,
+    "geom:area_square_m":36546009.064569,
     "geom:bbox":"12.6495622218,55.9349840486,12.890967323,55.9945261398",
     "geom:latitude":55.966294,
     "geom:longitude":12.772116,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":7292,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":55.970322,
     "lbl:longitude":12.76393,
     "lbl:max_zoom":15.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8133145,
-        "qs_pg:id":758513
+        "qs_pg:id":758513,
+        "se-lant:code":"101256"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497046509,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"d3b6e940fcc4557b8d0445f1250a05d4",
+    "wof:geomhash":"4f973f5aee8b2cd219b29ac889595ca6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125356605,
-    "wof:lastmodified":1582340742,
+    "wof:lastmodified":1695879442,
     "wof:name":"Kvistofta",
     "wof:parent_id":1159302965,
     "wof:placetype":"localadmin",

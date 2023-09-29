@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008808,
-    "geom:area_square_m":60484053.770025,
+    "geom:area_square_m":60484053.770028,
     "geom:bbox":"12.4308533604,56.2251201906,12.6327522209,56.3132321373",
     "geom:latitude":56.267316,
     "geom:longitude":12.530013,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM3",
     "gn:population":3742,
     "iso:country":"SE",
+    "label:deu_x_preferred_placetype":[
+        "distrikt"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "distrikt"
+    ],
     "lbl:latitude":56.259234,
     "lbl:longitude":12.536904,
     "lbl:max_zoom":15.0,
@@ -58,14 +67,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8133147,
-        "qs_pg:id":758515
+        "qs_pg:id":758515,
+        "se-lant:code":"101341"
     },
+    "wof:concordances_official":"se-lant:code",
     "wof:country":"SE",
     "wof:created":1497044823,
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"e6faf971c833783185ca605ae8d0072e",
+    "wof:geomhash":"3437f672ae5a8ff6332fb2283e58a0e6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +87,7 @@
         }
     ],
     "wof:id":1125326089,
-    "wof:lastmodified":1582340772,
+    "wof:lastmodified":1695879464,
     "wof:name":"Brunnby",
     "wof:parent_id":1159303057,
     "wof:placetype":"localadmin",
