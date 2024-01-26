@@ -9,7 +9,22 @@
     "geom:bbox":"16.882782,60.600964,16.921035,60.622906",
     "geom:latitude":60.613078,
     "geom:longitude":16.899999,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"2180.0",
+    "gn:asciiname":"Forsbacka",
+    "gn:country_code":"SE",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2714009,
+    "gn:latitude":60.61667,
+    "gn:longitude":16.88333,
+    "gn:modification_date":"2017-03-18",
+    "gn:name":"Forsbacka",
+    "gn:population":1754,
+    "gn:timezone":"Europe/Stockholm",
     "iso:country":"SE",
+    "lbl:bbox":"16.86333,60.59667,16.90333,60.63667",
     "lbl:latitude":60.613895,
     "lbl:longitude":16.900289,
     "lbl:max_zoom":18.0,
@@ -96,6 +111,7 @@
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
     "wd:wordcount":66,
     "wof:belongsto":[
         85688453,
@@ -114,7 +130,15 @@
         "wk:page":"Forsbacka"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1280547
+        "gn:id":[
+            2714009
+        ],
+        "qs_pg:id":[
+            1280547
+        ],
+        "wk:page":[
+            "Forsbacka"
+        ]
     },
     "wof:country":"SE",
     "wof:geom_alt":[
@@ -135,13 +159,17 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1690863052,
+    "wof:lastmodified":1706240657,
     "wof:name":"Forsbacka",
     "wof:parent_id":1125313563,
     "wof:placetype":"locality",
+    "wof:population":1754,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343562135
+    ],
     "wof:tags":[]
 },
   "bbox": [

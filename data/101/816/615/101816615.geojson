@@ -9,7 +9,23 @@
     "geom:bbox":"12.630817,56.076511,12.666377,56.103231",
     "geom:latitude":56.092849,
     "geom:longitude":12.651642,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"1283.0",
+    "gn:asciiname":"Hittarp",
+    "gn:cc2":"SE",
+    "gn:country_code":"SE",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2706324,
+    "gn:latitude":56.1,
+    "gn:longitude":12.63333,
+    "gn:modification_date":"2017-03-18",
+    "gn:name":"Hittarp",
+    "gn:population":4545,
+    "gn:timezone":"Europe/Stockholm",
     "iso:country":"SE",
+    "lbl:bbox":"12.61333,56.08,12.65333,56.12",
     "lbl:latitude":56.09209,
     "lbl:longitude":12.65481,
     "lbl:max_zoom":18.0,
@@ -73,6 +89,9 @@
     "name:swe_x_variant":[
         "Hittarps"
     ],
+    "name:und_x_variant":[
+        "Hiltarp"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Hittarp"
     ],
@@ -93,6 +112,7 @@
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
     "wd:wordcount":45,
     "wof:belongsto":[
         85688377,
@@ -111,7 +131,15 @@
         "wk:page":"Hittarp"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1080951
+        "gn:id":[
+            2706324
+        ],
+        "qs_pg:id":[
+            1080951
+        ],
+        "wk:page":[
+            "Hittarp"
+        ]
     },
     "wof:country":"SE",
     "wof:geom_alt":[
@@ -132,13 +160,17 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1690863066,
+    "wof:lastmodified":1706240658,
     "wof:name":"Hittarp",
     "wof:parent_id":1125372751,
     "wof:placetype":"locality",
+    "wof:population":4545,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243119647
+    ],
     "wof:tags":[]
 },
   "bbox": [

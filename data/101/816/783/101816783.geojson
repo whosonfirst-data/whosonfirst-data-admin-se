@@ -9,7 +9,22 @@
     "geom:bbox":"12.10612,57.227559,12.134332,57.243127",
     "geom:latitude":57.236026,
     "geom:longitude":12.121798,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"1383.0",
+    "gn:asciiname":"Bua",
+    "gn:country_code":"SE",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2718836,
+    "gn:latitude":57.2378,
+    "gn:longitude":12.12187,
+    "gn:modification_date":"2017-11-09",
+    "gn:name":"Bua",
+    "gn:population":1792,
+    "gn:timezone":"Europe/Stockholm",
     "iso:country":"SE",
+    "lbl:bbox":"12.10187,57.2178,12.14187,57.2578",
     "lbl:latitude":57.236546,
     "lbl:longitude":12.124149,
     "lbl:max_zoom":18.0,
@@ -52,6 +67,9 @@
     "name:nob_x_preferred":[
         "Bua"
     ],
+    "name:nor_x_preferred":[
+        "Bua"
+    ],
     "name:pol_x_preferred":[
         "Bua"
     ],
@@ -78,6 +96,7 @@
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
     "wof:belongsto":[
         85688391,
         102191581,
@@ -93,6 +112,14 @@
         "qs_pg:id":1013598,
         "wd:id":"Q2927375",
         "wk:page":"Bua, Varberg Municipality"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            2718836
+        ],
+        "wk:page":[
+            "Bua%2C_Varberg_Municipality"
+        ]
     },
     "wof:country":"SE",
     "wof:geom_alt":[
@@ -113,13 +140,17 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1690863049,
+    "wof:lastmodified":1706240658,
     "wof:name":"Bua",
     "wof:parent_id":1125325523,
     "wof:placetype":"locality",
+    "wof:population":1792,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209476163
+    ],
     "wof:tags":[]
 },
   "bbox": [

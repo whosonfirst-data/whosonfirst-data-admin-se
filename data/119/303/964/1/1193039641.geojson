@@ -42,6 +42,11 @@
     "wof:concordances":{
         "gn:id":3326121
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            2687779
+        ]
+    },
     "wof:country":"SE",
     "wof:geomhash":"bd0acde67e94f07d3a6c2f275526434b",
     "wof:hierarchy":[
@@ -55,13 +60,15 @@
         }
     ],
     "wof:id":1193039641,
-    "wof:lastmodified":1566641659,
+    "wof:lastmodified":1706240660,
     "wof:name":"Nygard",
     "wof:parent_id":1125286329,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226134537
+    ],
     "wof:tags":[]
 },
   "bbox": [

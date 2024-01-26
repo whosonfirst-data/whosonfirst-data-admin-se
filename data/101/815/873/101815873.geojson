@@ -9,8 +9,22 @@
     "geom:bbox":"16.19883,59.688492,16.253973,59.728348",
     "geom:latitude":59.708549,
     "geom:longitude":16.229167,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1907.0",
+    "gn:asciiname":"Surahammar",
+    "gn:country_code":"SE",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2670613,
+    "gn:latitude":59.70725,
+    "gn:longitude":16.22188,
+    "gn:modification_date":"2017-03-18",
+    "gn:name":"Surahammar",
     "gn:population":6276,
+    "gn:timezone":"Europe/Stockholm",
     "iso:country":"SE",
+    "lbl:bbox":"16.20188,59.68725,16.24188,59.72725",
     "lbl:latitude":59.708696,
     "lbl:longitude":16.229167,
     "lbl:max_zoom":15.0,
@@ -43,6 +57,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0633\u0648\u0631\u0647\u0645\u0631"
+    ],
+    "name:fas_x_variant":[
+        "\u0633\u0648\u0631\u0627\u0647\u0627\u0645\u0627\u0631"
     ],
     "name:fin_x_preferred":[
         "Surahammar"
@@ -152,7 +169,15 @@
         "wk:page":"Surahammar"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1037491
+        "gn:id":[
+            2670613
+        ],
+        "qs_pg:id":[
+            1037491
+        ],
+        "wk:page":[
+            "Surahammar"
+        ]
     },
     "wof:country":"SE",
     "wof:geom_alt":[
@@ -173,7 +198,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1690863131,
+    "wof:lastmodified":1706240657,
     "wof:name":"Surahammar",
     "wof:parent_id":1125362537,
     "wof:placetype":"locality",
@@ -181,7 +206,9 @@
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209983653
+    ],
     "wof:tags":[]
 },
   "bbox": [

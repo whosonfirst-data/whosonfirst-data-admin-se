@@ -9,7 +9,24 @@
     "geom:bbox":"16.363776,59.014849,16.38974,59.024939",
     "geom:latitude":59.019974,
     "geom:longitude":16.37682,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"483.0",
+    "gn:admin3_code":"48304.0",
+    "gn:admin4_code":"365.0",
+    "gn:asciiname":"Valla",
+    "gn:country_code":"SE",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2665589,
+    "gn:latitude":59.01667,
+    "gn:longitude":16.38333,
+    "gn:modification_date":"2017-03-18",
+    "gn:name":"Valla",
+    "gn:population":1485,
+    "gn:timezone":"Europe/Stockholm",
     "iso:country":"SE",
+    "lbl:bbox":"16.36333,58.99667,16.40333,59.03667",
     "lbl:latitude":59.019548,
     "lbl:longitude":16.377871,
     "lbl:max_zoom":18.0,
@@ -84,6 +101,7 @@
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
     "wd:wordcount":45,
     "wof:belongsto":[
         85688419,
@@ -102,7 +120,15 @@
         "wk:page":"Valla, Sweden"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":421010
+        "gn:id":[
+            2665589
+        ],
+        "qs_pg:id":[
+            421010
+        ],
+        "wk:page":[
+            "Valla%2C_Sweden"
+        ]
     },
     "wof:country":"SE",
     "wof:geom_alt":[
@@ -123,13 +149,17 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1690863145,
+    "wof:lastmodified":1706240657,
     "wof:name":"Valla",
     "wof:parent_id":1125359597,
     "wof:placetype":"locality",
+    "wof:population":1485,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326893083
+    ],
     "wof:tags":[]
 },
   "bbox": [

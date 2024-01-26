@@ -9,8 +9,22 @@
     "geom:bbox":"15.246976,56.168177,15.324671,56.226771",
     "geom:latitude":56.201059,
     "geom:longitude":15.282278,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"1081.0",
+    "gn:asciiname":"Ronneby",
+    "gn:country_code":"SE",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2681825,
+    "gn:latitude":56.20999,
+    "gn:longitude":15.27602,
+    "gn:modification_date":"2017-03-18",
+    "gn:name":"Ronneby",
     "gn:population":464,
+    "gn:timezone":"Europe/Stockholm",
     "iso:country":"SE",
+    "lbl:bbox":"15.25602,56.18999,15.29602,56.22999",
     "lbl:latitude":56.208119,
     "lbl:longitude":15.278397,
     "lbl:max_zoom":17.0,
@@ -38,14 +52,44 @@
     "name:eng_x_variant":[
         "RNB"
     ],
+    "name:epo_x_preferred":[
+        "Ronneby"
+    ],
+    "name:fao_x_preferred":[
+        "Ronneby"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u0648\u0646\u06cc\u0628\u0647"
+    ],
+    "name:fin_x_preferred":[
+        "Ronneby"
+    ],
     "name:fra_x_preferred":[
         "Ronnebyhamn"
+    ],
+    "name:fry_x_preferred":[
+        "Ronneby"
     ],
     "name:gle_x_preferred":[
         "Ronnebyhamn"
     ],
+    "name:hrv_x_preferred":[
+        "Ronneby"
+    ],
+    "name:ind_x_preferred":[
+        "Ronneby"
+    ],
+    "name:isl_x_preferred":[
+        "Ronneby"
+    ],
     "name:ita_x_preferred":[
         "Ronnebyhamn"
+    ],
+    "name:kor_x_preferred":[
+        "\ub860\ub124\ubdd4"
+    ],
+    "name:lit_x_preferred":[
+        "Ronebis"
     ],
     "name:lld_x_preferred":[
         "Ronnebyhamn"
@@ -56,6 +100,9 @@
     "name:nld_x_preferred":[
         "Ronnebyhamn"
     ],
+    "name:nno_x_preferred":[
+        "Ronneby"
+    ],
     "name:nob_x_preferred":[
         "Ronnebyhamn"
     ],
@@ -65,6 +112,21 @@
     "name:pol_x_preferred":[
         "Ronnebyhamn"
     ],
+    "name:por_x_preferred":[
+        "Ronneby"
+    ],
+    "name:ron_x_preferred":[
+        "Ronneby"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u043e\u043d\u043d\u0435\u0431\u044e"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u043e\u043d\u0435\u0431\u0438"
+    ],
+    "name:swa_x_preferred":[
+        "Ronneby"
+    ],
     "name:swe_x_preferred":[
         "Ronneby",
         "Ronnebyhamn"
@@ -72,11 +134,23 @@
     "name:swe_x_variant":[
         "Ronnebys"
     ],
+    "name:tur_x_preferred":[
+        "Ronneby"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u043e\u043d\u043d\u0435\u0431\u044e"
+    ],
     "name:und_x_variant":[
         "Ronnebyredd"
     ],
+    "name:vol_x_preferred":[
+        "Ronneby"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Ronnebyhamn"
+    ],
+    "name:zho_x_preferred":[
+        "\u9f99\u8bb7\u6bd4"
     ],
     "qs:a0":"Sverige",
     "qs:a1":"*Blekinge l\u00e4n",
@@ -113,6 +187,14 @@
         "wd:id":"Q1799780",
         "wk:page":"Ronnebyhamn"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            2681825
+        ],
+        "wk:page":[
+            "Ronneby"
+        ]
+    },
     "wof:country":"SE",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -132,7 +214,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1690863071,
+    "wof:lastmodified":1706240658,
     "wof:name":"Ronneby",
     "wof:parent_id":1125282073,
     "wof:placetype":"locality",
@@ -140,7 +222,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1292911199
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -9,8 +9,24 @@
     "geom:bbox":"13.277892,59.491872,13.34802,59.52999",
     "geom:latitude":59.505971,
     "geom:longitude":13.316706,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1715.0",
+    "gn:admin3_code":"171501.0",
+    "gn:admin4_code":"2183.0",
+    "gn:asciiname":"Kil",
+    "gn:country_code":"SE",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2700960,
+    "gn:latitude":59.50234,
+    "gn:longitude":13.31277,
+    "gn:modification_date":"2017-03-18",
+    "gn:name":"Kil",
     "gn:population":7826,
+    "gn:timezone":"Europe/Stockholm",
     "iso:country":"SE",
+    "lbl:bbox":"13.29277,59.48234,13.33277,59.52234",
     "lbl:latitude":59.506386,
     "lbl:longitude":13.308471,
     "lbl:max_zoom":15.0,
@@ -152,7 +168,15 @@
         "wk:page":"Kil, V\u00e4rmland"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1251230
+        "gn:id":[
+            2700960
+        ],
+        "qs_pg:id":[
+            1251230
+        ],
+        "wk:page":[
+            "Kil%2C_V%C3%A4rmland"
+        ]
     },
     "wof:country":"SE",
     "wof:geom_alt":[
@@ -173,7 +197,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1690863138,
+    "wof:lastmodified":1706240657,
     "wof:name":"Kil",
     "wof:parent_id":1125356029,
     "wof:placetype":"locality",
@@ -181,7 +205,9 @@
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310173993
+    ],
     "wof:tags":[]
 },
   "bbox": [

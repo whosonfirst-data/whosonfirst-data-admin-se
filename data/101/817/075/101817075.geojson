@@ -9,7 +9,22 @@
     "geom:bbox":"12.335297,57.791319,12.389196,57.8219",
     "geom:latitude":57.807632,
     "geom:longitude":12.363048,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"1441.0",
+    "gn:asciiname":"Floda",
+    "gn:country_code":"SE",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2714324,
+    "gn:latitude":57.8,
+    "gn:longitude":12.36667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Floda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
     "iso:country":"SE",
+    "lbl:bbox":"12.34667,57.78,12.38667,57.82",
     "lbl:latitude":57.806542,
     "lbl:longitude":12.367131,
     "lbl:max_zoom":18.0,
@@ -61,6 +76,9 @@
     "name:nob_x_preferred":[
         "Floda"
     ],
+    "name:nor_x_preferred":[
+        "Floda"
+    ],
     "name:sco_x_preferred":[
         "Floda"
     ],
@@ -110,7 +128,15 @@
         "wk:page":"Floda, Lerum"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1280531
+        "gn:id":[
+            2714324
+        ],
+        "qs_pg:id":[
+            1280531
+        ],
+        "wk:page":[
+            "Floda%2C_Lerum"
+        ]
     },
     "wof:country":"SE",
     "wof:geom_alt":[
@@ -131,13 +157,15 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1690863111,
+    "wof:lastmodified":1706240659,
     "wof:name":"Floda",
     "wof:parent_id":1125270995,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243123031
+    ],
     "wof:tags":[]
 },
   "bbox": [

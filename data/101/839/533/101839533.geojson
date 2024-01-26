@@ -9,8 +9,23 @@
     "geom:bbox":"17.279271,62.400507,17.399092,62.511895",
     "geom:latitude":62.462834,
     "geom:longitude":17.342424,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2281.0",
+    "gn:asciiname":"Sundsbruk",
+    "gn:cc2":"SE",
+    "gn:country_code":"SE",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2670833,
+    "gn:latitude":62.45806,
+    "gn:longitude":17.34889,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Sundsbruk",
     "gn:population":2098,
+    "gn:timezone":"Europe/Stockholm",
     "iso:country":"SE",
+    "lbl:bbox":"17.32889,62.43806,17.36889,62.47806",
     "lbl:latitude":62.456325,
     "lbl:longitude":17.352426,
     "lbl:max_zoom":15.0,
@@ -71,6 +86,9 @@
     "name:swe_x_variant":[
         "Sundsbruks"
     ],
+    "name:und_x_variant":[
+        "Sund"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Sundsbruk"
     ],
@@ -110,7 +128,15 @@
         "wk:page":"Sundsbruk"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1025554
+        "gn:id":[
+            2670833
+        ],
+        "qs_pg:id":[
+            1025554
+        ],
+        "wk:page":[
+            "Sundsbruk"
+        ]
     },
     "wof:country":"SE",
     "wof:geom_alt":[
@@ -131,7 +157,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1690863191,
+    "wof:lastmodified":1706240659,
     "wof:name":"Sundsbruk",
     "wof:parent_id":1125325981,
     "wof:placetype":"locality",
@@ -139,7 +165,9 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259937553
+    ],
     "wof:tags":[]
 },
   "bbox": [

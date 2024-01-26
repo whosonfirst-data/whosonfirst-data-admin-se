@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"13.98333,55.93333,13.98333,55.93333",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:ita_x_preferred":[
         "Tollarp"
@@ -63,7 +65,7 @@
         "wk:page":"Tollarp"
     },
     "wof:country":"SE",
-    "wof:geomhash":"70a2e6e9630015f8d214196e1a62ad42",
+    "wof:geomhash":"4a7af6e26dc3d817f3764da6e74073c9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,22 +77,24 @@
         }
     ],
     "wof:id":1343712895,
-    "wof:lastmodified":1566640395,
+    "wof:lastmodified":1706240659,
     "wof:name":"Tollarp",
     "wof:parent_id":1125340513,
     "wof:placetype":"locality",
     "wof:population":3404,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-se",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101817813
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     13.98333,
-    55.93333000000001,
+    55.93333,
     13.98333,
-    55.93333000000001
+    55.93333
 ],
-  "geometry": {"coordinates":[13.98333,55.93333000000001],"type":"Point"}
+  "geometry": {"coordinates":[13.98333,55.93333],"type":"Point"}
 }

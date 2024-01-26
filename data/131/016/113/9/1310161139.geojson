@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"17.41667,62.43333,17.41667,62.43333",
@@ -30,7 +32,7 @@
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:dan_x_preferred":[
         "Vi"
@@ -65,7 +67,7 @@
         "wk:page":"Vi%2C_Sweden"
     },
     "wof:country":"SE",
-    "wof:geomhash":"3f995cb9e992a3e8fce3c3592ed6f2be",
+    "wof:geomhash":"7213be4e868eb360fe14cc3342985975",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -77,22 +79,24 @@
         }
     ],
     "wof:id":1310161139,
-    "wof:lastmodified":1566641961,
+    "wof:lastmodified":1706240657,
     "wof:name":"Vi",
     "wof:parent_id":1125363709,
     "wof:placetype":"locality",
     "wof:population":5841,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-se",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101814787
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     17.41667,
-    62.43333000000001,
+    62.43333,
     17.41667,
-    62.43333000000001
+    62.43333
 ],
-  "geometry": {"coordinates":[17.41667,62.43333000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.41667,62.43333],"type":"Point"}
 }

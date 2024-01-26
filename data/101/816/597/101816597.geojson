@@ -9,8 +9,24 @@
     "geom:bbox":"12.564158,56.136476,12.593442,56.166661",
     "geom:latitude":56.151135,
     "geom:longitude":12.576444,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"1284.0",
+    "gn:admin3_code":"128403.0",
+    "gn:admin4_code":"1392.0",
+    "gn:asciiname":"Viken",
+    "gn:country_code":"SE",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2663036,
+    "gn:latitude":56.15063,
+    "gn:longitude":12.57429,
+    "gn:modification_date":"2018-04-18",
+    "gn:name":"Viken",
     "gn:population":4269,
+    "gn:timezone":"Europe/Stockholm",
     "iso:country":"SE",
+    "lbl:bbox":"12.55429,56.13063,12.59429,56.17063",
     "lbl:latitude":56.150254,
     "lbl:longitude":12.576444,
     "lbl:max_zoom":15.0,
@@ -30,6 +46,9 @@
         "Viken"
     ],
     "name:eng_x_preferred":[
+        "Viken"
+    ],
+    "name:fin_x_preferred":[
         "Viken"
     ],
     "name:fra_x_preferred":[
@@ -103,7 +122,12 @@
         "wk:page":"Viken, Sweden"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":269349
+        "gn:id":[
+            2663036
+        ],
+        "qs_pg:id":[
+            269349
+        ]
     },
     "wof:country":"SE",
     "wof:geom_alt":[
@@ -121,7 +145,7 @@
         }
     ],
     "wof:id":101816597,
-    "wof:lastmodified":1690863056,
+    "wof:lastmodified":1706240658,
     "wof:name":"Viken",
     "wof:parent_id":1159305711,
     "wof:placetype":"locality",
@@ -129,7 +153,9 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343919451
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -9,8 +9,22 @@
     "geom:bbox":"15.869876,56.72339,15.95568,56.764547",
     "geom:latitude":56.742262,
     "geom:longitude":15.91248,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"881.0",
+    "gn:asciiname":"Nybro",
+    "gn:country_code":"SE",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2687902,
+    "gn:latitude":56.74461,
+    "gn:longitude":15.90714,
+    "gn:modification_date":"2017-03-18",
+    "gn:name":"Nybro",
     "gn:population":12059,
+    "gn:timezone":"Europe/Stockholm",
     "iso:country":"SE",
+    "lbl:bbox":"15.88714,56.72461,15.92714,56.76461",
     "lbl:latitude":56.744977,
     "lbl:longitude":15.909555,
     "lbl:max_zoom":15.0,
@@ -170,7 +184,15 @@
         "wk:page":"Nybro"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":229191
+        "gn:id":[
+            2687902
+        ],
+        "qs_pg:id":[
+            229191
+        ],
+        "wk:page":[
+            "Nybro"
+        ]
     },
     "wof:country":"SE",
     "wof:geom_alt":[
@@ -191,7 +213,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1690863034,
+    "wof:lastmodified":1706240658,
     "wof:name":"Nybro",
     "wof:parent_id":1125286513,
     "wof:placetype":"locality",
@@ -199,7 +221,9 @@
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327217707
+    ],
     "wof:tags":[]
 },
   "bbox": [

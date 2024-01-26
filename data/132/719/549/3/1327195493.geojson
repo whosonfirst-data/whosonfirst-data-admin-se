@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"12.96667,56.0,12.96667,56.0",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Ekeby"
@@ -74,14 +76,16 @@
         }
     ],
     "wof:id":1327195493,
-    "wof:lastmodified":1566640189,
+    "wof:lastmodified":1706240659,
     "wof:name":"Ekeby",
     "wof:parent_id":1125382307,
     "wof:placetype":"locality",
     "wof:population":3292,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-se",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101817805
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

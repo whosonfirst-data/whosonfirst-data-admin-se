@@ -9,8 +9,22 @@
     "geom:bbox":"11.307795,58.710276,11.343835,58.730076",
     "geom:latitude":58.721994,
     "geom:longitude":11.328192,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"1435.0",
+    "gn:asciiname":"Tanumshede",
+    "gn:country_code":"SE",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2669415,
+    "gn:latitude":58.72385,
+    "gn:longitude":11.32587,
+    "gn:modification_date":"2017-03-18",
+    "gn:name":"Tanumshede",
     "gn:population":1597,
+    "gn:timezone":"Europe/Stockholm",
     "iso:country":"SE",
+    "lbl:bbox":"11.30587,58.70385,11.34587,58.74385",
     "lbl:latitude":58.723812,
     "lbl:longitude":11.326964,
     "lbl:max_zoom":16.0,
@@ -110,7 +124,13 @@
     "name:ron_x_preferred":[
         "Tanumshede"
     ],
+    "name:rus_x_preferred":[
+        "\u041d\u0430\u0441\u043a\u0430\u043b\u044c\u043d\u044b\u0435 \u0440\u0435\u043b\u044c\u0435\u0444\u044b \u0432 \u0422\u0430\u043d\u0443\u043c\u0435"
+    ],
     "name:spa_x_preferred":[
+        "Tanumshede"
+    ],
+    "name:spa_x_variant":[
         "Tanumshede"
     ],
     "name:swe_x_preferred":[
@@ -160,7 +180,13 @@
         "gn:id":2669416,
         "gp:id":907285,
         "qs_pg:id":889063,
-        "wd:id":"Q670220"
+        "wd:id":"Q670220",
+        "wk:page":"Tanumshede"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            2669415
+        ]
     },
     "wof:country":"SE",
     "wof:geom_alt":[
@@ -181,7 +207,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1690863115,
+    "wof:lastmodified":1706240659,
     "wof:name":"Tanumshede",
     "wof:parent_id":1125382391,
     "wof:placetype":"locality",
@@ -189,7 +215,9 @@
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343622775
+    ],
     "wof:tags":[]
 },
   "bbox": [

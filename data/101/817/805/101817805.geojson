@@ -9,7 +9,22 @@
     "geom:bbox":"12.954211,55.992664,12.999156,56.007062",
     "geom:latitude":55.999068,
     "geom:longitude":12.974424,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"1260.0",
+    "gn:asciiname":"Ekeby",
+    "gn:country_code":"SE",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3336567,
+    "gn:latitude":56.0,
+    "gn:longitude":12.96667,
+    "gn:modification_date":"2017-03-18",
+    "gn:name":"Ekeby",
+    "gn:population":3292,
+    "gn:timezone":"Europe/Stockholm",
     "iso:country":"SE",
+    "lbl:bbox":"12.94667,55.98,12.98667,56.02",
     "lbl:latitude":56.000202,
     "lbl:longitude":12.96472,
     "lbl:max_zoom":18.0,
@@ -90,6 +105,7 @@
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
     "wd:wordcount":107,
     "wof:belongsto":[
         85688377,
@@ -107,7 +123,12 @@
         "wd:id":"Q83647"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":983841
+        "gn:id":[
+            3336567
+        ],
+        "qs_pg:id":[
+            983841
+        ]
     },
     "wof:country":"SE",
     "wof:geom_alt":[
@@ -128,13 +149,17 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1690863102,
+    "wof:lastmodified":1706240659,
     "wof:name":"Ekeby",
     "wof:parent_id":1125382307,
     "wof:placetype":"locality",
+    "wof:population":3292,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327195493
+    ],
     "wof:tags":[]
 },
   "bbox": [

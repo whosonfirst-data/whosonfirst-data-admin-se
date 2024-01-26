@@ -9,8 +9,24 @@
     "geom:bbox":"13.061908,56.94439,13.091294,56.96512",
     "geom:latitude":56.956462,
     "geom:longitude":13.073968,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"1315.0",
+    "gn:admin3_code":"131501.0",
+    "gn:admin4_code":"1506.0",
+    "gn:asciiname":"Torup",
+    "gn:country_code":"SE",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2667757,
+    "gn:latitude":56.95663,
+    "gn:longitude":13.07725,
+    "gn:modification_date":"2017-03-18",
+    "gn:name":"Torup",
     "gn:population":1239,
+    "gn:timezone":"Europe/Stockholm",
     "iso:country":"SE",
+    "lbl:bbox":"13.05725,56.93663,13.09725,56.97663",
     "lbl:latitude":56.958578,
     "lbl:longitude":13.072521,
     "lbl:max_zoom":16.0,
@@ -106,7 +122,12 @@
         "wd:id":"Q2481233"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":941817
+        "gn:id":[
+            2667757
+        ],
+        "qs_pg:id":[
+            941817
+        ]
     },
     "wof:country":"SE",
     "wof:geom_alt":[
@@ -127,7 +148,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1690863046,
+    "wof:lastmodified":1706240658,
     "wof:name":"Torup",
     "wof:parent_id":1125381895,
     "wof:placetype":"locality",
@@ -135,7 +156,9 @@
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243285283
+    ],
     "wof:tags":[]
 },
   "bbox": [

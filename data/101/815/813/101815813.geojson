@@ -9,8 +9,22 @@
     "geom:bbox":"17.522743,58.889336,17.568877,58.914033",
     "geom:latitude":58.900782,
     "geom:longitude":17.549557,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"488.0",
+    "gn:asciiname":"Trosa",
+    "gn:country_code":"SE",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2667253,
+    "gn:latitude":58.89621,
+    "gn:longitude":17.54812,
+    "gn:modification_date":"2017-03-18",
+    "gn:name":"Trosa",
     "gn:population":4633,
+    "gn:timezone":"Europe/Stockholm",
     "iso:country":"SE",
+    "lbl:bbox":"17.52812,58.87621,17.56812,58.91621",
     "lbl:latitude":58.899318,
     "lbl:longitude":17.553751,
     "lbl:max_zoom":15.0,
@@ -152,7 +166,15 @@
         "wk:page":"Trosa"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":186159
+        "gn:id":[
+            2667253
+        ],
+        "qs_pg:id":[
+            186159
+        ],
+        "wk:page":[
+            "Trosa"
+        ]
     },
     "wof:country":"SE",
     "wof:geom_alt":[
@@ -173,7 +195,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1690863145,
+    "wof:lastmodified":1706240657,
     "wof:name":"Trosa",
     "wof:parent_id":1125356209,
     "wof:placetype":"locality",
@@ -181,7 +203,9 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226104685
+    ],
     "wof:tags":[]
 },
   "bbox": [
