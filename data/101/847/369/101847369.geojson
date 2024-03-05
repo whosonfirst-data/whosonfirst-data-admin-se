@@ -9,7 +9,22 @@
     "geom:bbox":"16.509069,60.575897,16.54363,60.600479",
     "geom:latitude":60.58535,
     "geom:longitude":16.527818,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"2181.0",
+    "gn:asciiname":"Storvik",
+    "gn:country_code":"SE",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2671501,
+    "gn:latitude":60.58333,
+    "gn:longitude":16.53333,
+    "gn:modification_date":"2017-03-18",
+    "gn:name":"Storvik",
+    "gn:population":2202,
+    "gn:timezone":"Europe/Stockholm",
     "iso:country":"SE",
+    "lbl:bbox":"16.51333,60.56333,16.55333,60.60333",
     "lbl:latitude":60.584389,
     "lbl:longitude":16.527556,
     "lbl:max_zoom":18.0,
@@ -93,6 +108,7 @@
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
     "wd:wordcount":45,
     "wof:belongsto":[
         85688453,
@@ -111,7 +127,15 @@
         "wk:page":"Storvik"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1013256
+        "gn:id":[
+            2671501
+        ],
+        "qs_pg:id":[
+            1013256
+        ],
+        "wk:page":[
+            "Storvik"
+        ]
     },
     "wof:country":"SE",
     "wof:geom_alt":[
@@ -132,13 +156,17 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1690863159,
+    "wof:lastmodified":1706240660,
     "wof:name":"Storvik",
     "wof:parent_id":1125325425,
     "wof:placetype":"locality",
+    "wof:population":2202,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293488663
+    ],
     "wof:tags":[]
 },
   "bbox": [

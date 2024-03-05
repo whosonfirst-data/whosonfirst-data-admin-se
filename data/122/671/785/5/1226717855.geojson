@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":2709193
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            2709192
+        ]
+    },
     "wof:country":"SE",
     "wof:geomhash":"ac84cc9b0482631cc7de02740fde0746",
     "wof:hierarchy":[
@@ -57,13 +62,15 @@
         }
     ],
     "wof:id":1226717855,
-    "wof:lastmodified":1566644134,
+    "wof:lastmodified":1706240660,
     "wof:name":"Haggdanger",
     "wof:parent_id":1125329255,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327291305
+    ],
     "wof:tags":[]
 },
   "bbox": [

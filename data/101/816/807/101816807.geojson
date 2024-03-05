@@ -9,8 +9,22 @@
     "geom:bbox":"14.453754,57.692006,14.485193,57.707929",
     "geom:latitude":57.700651,
     "geom:longitude":14.469577,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"682.0",
+    "gn:asciiname":"Forserum",
+    "gn:country_code":"SE",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2713975,
+    "gn:latitude":57.7,
+    "gn:longitude":14.46667,
+    "gn:modification_date":"2017-03-18",
+    "gn:name":"Forserum",
     "gn:population":2039,
+    "gn:timezone":"Europe/Stockholm",
     "iso:country":"SE",
+    "lbl:bbox":"14.44667,57.68,14.48667,57.72",
     "lbl:latitude":57.700234,
     "lbl:longitude":14.470649,
     "lbl:max_zoom":15.0,
@@ -107,7 +121,15 @@
         "wk:page":"Forserum"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":92405
+        "gn:id":[
+            2713975
+        ],
+        "qs_pg:id":[
+            92405
+        ],
+        "wk:page":[
+            "Forserum"
+        ]
     },
     "wof:country":"SE",
     "wof:geom_alt":[
@@ -128,7 +150,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1690863069,
+    "wof:lastmodified":1706240658,
     "wof:name":"Forserum",
     "wof:parent_id":1125325289,
     "wof:placetype":"locality",
@@ -136,7 +158,9 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327323565
+    ],
     "wof:tags":[]
 },
   "bbox": [

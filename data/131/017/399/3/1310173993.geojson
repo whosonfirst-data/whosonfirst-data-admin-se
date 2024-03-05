@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"13.31277,59.50234,13.31277,59.50234",
@@ -30,7 +32,7 @@
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:amh_x_preferred":[
         "\u12aa\u120d\u1363 \u1235\u12ca\u12f5\u1295"
@@ -119,14 +121,16 @@
         }
     ],
     "wof:id":1310173993,
-    "wof:lastmodified":1566641969,
+    "wof:lastmodified":1706240657,
     "wof:name":"Kil",
     "wof:parent_id":1125356029,
     "wof:placetype":"locality",
     "wof:population":7627,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-se",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101815957
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

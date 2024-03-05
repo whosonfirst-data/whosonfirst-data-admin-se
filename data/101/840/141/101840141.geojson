@@ -9,7 +9,22 @@
     "geom:bbox":"13.062898,55.766796,13.106261,55.793652",
     "geom:latitude":55.774641,
     "geom:longitude":13.083273,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"1261.0",
+    "gn:asciiname":"Furulund",
+    "gn:country_code":"SE",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2713386,
+    "gn:latitude":55.7738,
+    "gn:longitude":13.09022,
+    "gn:modification_date":"2017-03-19",
+    "gn:name":"Furulund",
+    "gn:population":4359,
+    "gn:timezone":"Europe/Stockholm",
     "iso:country":"SE",
+    "lbl:bbox":"13.07022,55.7538,13.11022,55.7938",
     "lbl:latitude":55.774381,
     "lbl:longitude":13.081326,
     "lbl:max_zoom":18.0,
@@ -96,6 +111,7 @@
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
     "wd:wordcount":55,
     "wof:belongsto":[
         85688377,
@@ -114,7 +130,15 @@
         "wk:page":"Furulund"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1169157
+        "gn:id":[
+            2713386
+        ],
+        "qs_pg:id":[
+            1169157
+        ],
+        "wk:page":[
+            "Furulund"
+        ]
     },
     "wof:country":"SE",
     "wof:geom_alt":[
@@ -135,13 +159,17 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1690863170,
+    "wof:lastmodified":1706240659,
     "wof:name":"Furulund",
     "wof:parent_id":1125421375,
     "wof:placetype":"locality",
+    "wof:population":4359,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276711999
+    ],
     "wof:tags":[]
 },
   "bbox": [

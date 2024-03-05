@@ -9,8 +9,22 @@
     "geom:bbox":"15.513034,58.480417,15.541865,58.494408",
     "geom:latitude":58.48761,
     "geom:longitude":15.529154,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"580.0",
+    "gn:asciiname":"Berg",
+    "gn:country_code":"SE",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2722996,
+    "gn:latitude":58.48831,
+    "gn:longitude":15.52969,
+    "gn:modification_date":"2010-05-05",
+    "gn:name":"Berg",
     "gn:population":1229,
+    "gn:timezone":"Europe/Stockholm",
     "iso:country":"SE",
+    "lbl:bbox":"15.50969,58.46831,15.54969,58.50831",
     "lbl:latitude":58.489458,
     "lbl:longitude":15.530355,
     "lbl:max_zoom":16.0,
@@ -106,7 +120,15 @@
         "wk:page":"Berg, Link\u00f6ping"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1167640
+        "gn:id":[
+            2722996
+        ],
+        "qs_pg:id":[
+            1167640
+        ],
+        "wk:page":[
+            "Berg%2C_Link%C3%B6ping"
+        ]
     },
     "wof:country":"SE",
     "wof:geom_alt":[
@@ -127,7 +149,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1690863057,
+    "wof:lastmodified":1706240658,
     "wof:name":"Berg",
     "wof:parent_id":1125382265,
     "wof:placetype":"locality",
@@ -135,7 +157,9 @@
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360256749
+    ],
     "wof:tags":[]
 },
   "bbox": [

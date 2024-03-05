@@ -9,7 +9,22 @@
     "geom:bbox":"11.800745,58.339934,11.887951,58.359296",
     "geom:latitude":58.349402,
     "geom:longitude":11.84377,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"1485.0",
+    "gn:asciiname":"Herrestad",
+    "gn:country_code":"SE",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2706544,
+    "gn:latitude":58.35,
+    "gn:longitude":11.85,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Herrestad",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
     "iso:country":"SE",
+    "lbl:bbox":"11.83,58.33,11.87,58.37",
     "lbl:latitude":58.349453,
     "lbl:longitude":11.840797,
     "lbl:max_zoom":18.0,
@@ -99,7 +114,15 @@
         "wk:page":"Herrestad"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":952848
+        "gn:id":[
+            2706544
+        ],
+        "qs_pg:id":[
+            952848
+        ],
+        "wk:page":[
+            "Herrestad"
+        ]
     },
     "wof:country":"SE",
     "wof:geom_alt":[
@@ -120,13 +143,15 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1690863171,
+    "wof:lastmodified":1706240660,
     "wof:name":"Herrestad",
     "wof:parent_id":1125287003,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1225795881
+    ],
     "wof:tags":[]
 },
   "bbox": [

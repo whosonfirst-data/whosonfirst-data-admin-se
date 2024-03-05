@@ -9,7 +9,22 @@
     "geom:bbox":"13.952846,55.925422,14.009275,55.945308",
     "geom:latitude":55.933654,
     "geom:longitude":13.976035,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"1290.0",
+    "gn:asciiname":"Tollarp",
+    "gn:country_code":"SE",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2668430,
+    "gn:latitude":55.93333,
+    "gn:longitude":13.98333,
+    "gn:modification_date":"2017-03-18",
+    "gn:name":"Tollarp",
+    "gn:population":3404,
+    "gn:timezone":"Europe/Stockholm",
     "iso:country":"SE",
+    "lbl:bbox":"13.96333,55.91333,14.00333,55.95333",
     "lbl:latitude":55.932299,
     "lbl:longitude":13.975608,
     "lbl:max_zoom":18.0,
@@ -85,6 +100,7 @@
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
     "wd:wordcount":69,
     "wof:belongsto":[
         85688377,
@@ -100,6 +116,14 @@
         "qs_pg:id":191487,
         "wd:id":"Q719069",
         "wk:page":"Tollarp"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            2668430
+        ],
+        "wk:page":[
+            "Tollarp"
+        ]
     },
     "wof:country":"SE",
     "wof:geom_alt":[
@@ -117,13 +141,17 @@
         }
     ],
     "wof:id":101817813,
-    "wof:lastmodified":1690863113,
+    "wof:lastmodified":1706240659,
     "wof:name":"Tollarp",
     "wof:parent_id":1125340513,
     "wof:placetype":"locality",
+    "wof:population":3404,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343712895
+    ],
     "wof:tags":[]
 },
   "bbox": [

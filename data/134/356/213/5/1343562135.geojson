@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"16.88333,60.61667,16.88333,60.61667",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "Forsbacka"
@@ -69,7 +71,7 @@
         "wk:page":"Forsbacka"
     },
     "wof:country":"SE",
-    "wof:geomhash":"bc55bc2336658b4e6d97554f2f494e6b",
+    "wof:geomhash":"89bf74efa95ae5373b6e5813d948905f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,22 +83,24 @@
         }
     ],
     "wof:id":1343562135,
-    "wof:lastmodified":1566640448,
+    "wof:lastmodified":1706240657,
     "wof:name":"Forsbacka",
     "wof:parent_id":1125313563,
     "wof:placetype":"locality",
     "wof:population":1754,
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-se",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101816153
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    16.88332999999999,
-    60.61666999999999,
-    16.88332999999999,
-    60.61666999999999
+    16.88333,
+    60.61667,
+    16.88333,
+    60.61667
 ],
-  "geometry": {"coordinates":[16.88332999999999,60.61666999999999],"type":"Point"}
+  "geometry": {"coordinates":[16.88333,60.61667],"type":"Point"}
 }

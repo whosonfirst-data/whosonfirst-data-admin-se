@@ -9,7 +9,22 @@
     "geom:bbox":"13.139012,55.85903,13.174239,55.870158",
     "geom:latitude":55.864054,
     "geom:longitude":13.157974,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"1285.0",
+    "gn:asciiname":"Marieholm",
+    "gn:country_code":"SE",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2692625,
+    "gn:latitude":55.86667,
+    "gn:longitude":13.15,
+    "gn:modification_date":"2017-03-18",
+    "gn:name":"Marieholm",
+    "gn:population":1604,
+    "gn:timezone":"Europe/Stockholm",
     "iso:country":"SE",
+    "lbl:bbox":"13.13,55.84667,13.17,55.88667",
     "lbl:latitude":55.865281,
     "lbl:longitude":13.156773,
     "lbl:max_zoom":18.0,
@@ -87,6 +102,7 @@
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
     "wof:belongsto":[
         85688377,
         102191581,
@@ -104,7 +120,15 @@
         "wk:page":"Marieholm, Esl\u00f6v"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1008200
+        "gn:id":[
+            2692625
+        ],
+        "qs_pg:id":[
+            1008200
+        ],
+        "wk:page":[
+            "Marieholm%2C_Esl%C3%B6v"
+        ]
     },
     "wof:country":"SE",
     "wof:geom_alt":[
@@ -125,13 +149,17 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1690863091,
+    "wof:lastmodified":1706240659,
     "wof:name":"Marieholm",
     "wof:parent_id":1125340501,
     "wof:placetype":"locality",
+    "wof:population":1604,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309953237
+    ],
     "wof:tags":[]
 },
   "bbox": [

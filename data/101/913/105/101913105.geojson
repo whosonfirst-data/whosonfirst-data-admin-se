@@ -23,6 +23,7 @@
     "gn:population":260,
     "gn:timezone":"Europe/Stockholm",
     "iso:country":"SE",
+    "lbl:bbox":"11.316088,58.326938,11.356088,58.366938",
     "lbl:latitude":58.347664,
     "lbl:longitude":11.339093,
     "lbl:max_zoom":18.0,
@@ -32,6 +33,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:dan_x_preferred":[
         "Malm\u00f6n"
     ],
@@ -80,6 +82,21 @@
     "qs:pop":0,
     "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural hamlet many local_admin match geoplanet",
+    "qs_pg:name":"Bohus-malm\u00f6n",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"V\u00e4stra G\u00f6talands L\u00e4n",
+    "qs_pg:photos":435,
+    "qs_pg:photos_1k":88,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":435,
+    "qs_pg:photos_sr":6,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":900522,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":29282066,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "quattroshapes_pg"
@@ -87,6 +104,10 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":41,
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"V\u00e4stra G\u00f6talands L\u00e4n",
+    "woe:placetype":"Town",
     "wof:belongsto":[
         85688411,
         102191581,
@@ -102,8 +123,15 @@
         "wd:id":"Q1904065"
     },
     "wof:concordances_alt":{
-        "gn:id":2692959,
-        "qs_pg:id":900522
+        "gn:id":[
+            2692959
+        ],
+        "gp:id":[
+            29282066
+        ],
+        "qs_pg:id":[
+            900522
+        ]
     },
     "wof:country":"SE",
     "wof:geom_alt":[
@@ -121,7 +149,7 @@
         }
     ],
     "wof:id":101913105,
-    "wof:lastmodified":1690863123,
+    "wof:lastmodified":1706240660,
     "wof:name":"Bohus-malm\u00f6n",
     "wof:parent_id":1159305873,
     "wof:placetype":"locality",
@@ -130,7 +158,8 @@
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded_by":[],
     "wof:supersedes":[
-        1310647841
+        1310647841,
+        1125995473
     ],
     "wof:tags":[]
 },

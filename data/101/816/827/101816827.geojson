@@ -9,8 +9,23 @@
     "geom:bbox":"13.580035,57.434991,13.605221,57.457032",
     "geom:latitude":57.44732,
     "geom:longitude":13.59397,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"662.0",
+    "gn:asciiname":"Hestra",
+    "gn:country_code":"SE",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2706487,
     "gn:id":"2706486,2706487",
+    "gn:latitude":57.45,
+    "gn:longitude":13.58,
+    "gn:modification_date":"2011-10-30",
+    "gn:name":"Hestra",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
     "iso:country":"SE",
+    "lbl:bbox":"13.56,57.43,13.6,57.47",
     "lbl:latitude":57.449732,
     "lbl:longitude":13.59378,
     "lbl:max_zoom":18.0,
@@ -94,6 +109,11 @@
         "wd:id":"Q254251",
         "wk:page":"Hestra, Gislaved"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            2706487
+        ]
+    },
     "wof:country":"SE",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -110,13 +130,15 @@
         }
     ],
     "wof:id":101816827,
-    "wof:lastmodified":1690863024,
+    "wof:lastmodified":1706240658,
     "wof:name":"Hestra",
     "wof:parent_id":1125325619,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209511213
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -10,6 +10,8 @@
     "geom:latitude":65.829947,
     "geom:longitude":24.155673,
     "gn:country":null,
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"SE",
     "lbl:bbox":"24.135673,65.809947,24.175673,65.849947",
     "lbl:latitude":65.829947,
@@ -22,6 +24,9 @@
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs_pg:aaroncc":"SE",
     "qs_pg:gn_country":null,
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":451451,
+    "qs_pg:gn_pop":0,
     "qs_pg:name":"Kirkonm\u00e4ki",
     "qs_pg:name_adm0":"Suomi",
     "qs_pg:name_adm1":"Lapin maakunta",
@@ -54,8 +59,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":451451,
         "gp:id":25952497,
         "qs_pg:id":467172
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            25952174
+        ],
+        "qs_pg:id":[
+            1164067
+        ]
     },
     "wof:country":"SE",
     "wof:created":1497290381,
@@ -73,13 +87,15 @@
         }
     ],
     "wof:id":1125778831,
-    "wof:lastmodified":1566643122,
+    "wof:lastmodified":1706240660,
     "wof:name":"Kirkonm\u00e4ki",
     "wof:parent_id":907199557,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125798233
+    ],
     "wof:tags":[]
 },
   "bbox": [

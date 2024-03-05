@@ -9,7 +9,22 @@
     "geom:bbox":"18.062283,60.05896,18.096416,60.076793",
     "geom:latitude":60.0688,
     "geom:longitude":18.078059,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"382.0",
+    "gn:asciiname":"Alunda",
+    "gn:country_code":"SE",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2726353,
+    "gn:latitude":60.06667,
+    "gn:longitude":18.08333,
+    "gn:modification_date":"2017-03-18",
+    "gn:name":"Alunda",
+    "gn:population":2506,
+    "gn:timezone":"Europe/Stockholm",
     "iso:country":"SE",
+    "lbl:bbox":"18.06333,60.04667,18.10333,60.08667",
     "lbl:latitude":60.068848,
     "lbl:longitude":18.078318,
     "lbl:max_zoom":18.0,
@@ -87,6 +102,7 @@
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
     "wd:wordcount":45,
     "wof:belongsto":[
         85688439,
@@ -103,7 +119,12 @@
         "wd:id":"Q2137552"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":91893
+        "gn:id":[
+            2726353
+        ],
+        "qs_pg:id":[
+            91893
+        ]
     },
     "wof:country":"SE",
     "wof:geom_alt":[
@@ -121,13 +142,17 @@
         }
     ],
     "wof:id":101816049,
-    "wof:lastmodified":1690863032,
+    "wof:lastmodified":1706240657,
     "wof:name":"Alunda",
     "wof:parent_id":1125395845,
     "wof:placetype":"locality",
+    "wof:population":2506,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360153705
+    ],
     "wof:tags":[]
 },
   "bbox": [

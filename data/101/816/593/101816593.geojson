@@ -9,8 +9,24 @@
     "geom:bbox":"13.570571,56.1488,13.632889,56.169577",
     "geom:latitude":56.158914,
     "geom:longitude":13.604797,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"1293.0",
+    "gn:admin3_code":"129319.0",
+    "gn:admin4_code":"1040.0",
+    "gn:asciiname":"Tyringe",
+    "gn:country_code":"SE",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2666772,
+    "gn:latitude":56.16037,
+    "gn:longitude":13.59811,
+    "gn:modification_date":"2017-03-18",
+    "gn:name":"Tyringe",
     "gn:population":4658,
+    "gn:timezone":"Europe/Stockholm",
     "iso:country":"SE",
+    "lbl:bbox":"13.57811,56.14037,13.61811,56.18037",
     "lbl:latitude":56.157946,
     "lbl:longitude":13.602673,
     "lbl:max_zoom":15.0,
@@ -134,7 +150,15 @@
         "wk:page":"Tyringe"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1267937
+        "gn:id":[
+            2666772
+        ],
+        "qs_pg:id":[
+            1267937
+        ],
+        "wk:page":[
+            "Tyringe"
+        ]
     },
     "wof:country":"SE",
     "wof:geom_alt":[
@@ -155,7 +179,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1690863018,
+    "wof:lastmodified":1706240657,
     "wof:name":"Tyringe",
     "wof:parent_id":1125423365,
     "wof:placetype":"locality",
@@ -163,7 +187,9 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259644999
+    ],
     "wof:tags":[]
 },
   "bbox": [

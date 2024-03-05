@@ -9,9 +9,24 @@
     "geom:bbox":"16.8,62.7,16.8,62.7",
     "geom:latitude":62.7,
     "geom:longitude":16.8,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2281.0",
+    "gn:admin3_code":"228113.0",
+    "gn:admin4_code":"2476.0",
+    "gn:asciiname":"Liden",
     "gn:country":"SE",
+    "gn:country_code":"SE",
+    "gn:dem":147,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2696351,
+    "gn:latitude":62.6985,
+    "gn:longitude":16.79707,
+    "gn:modification_date":"2014-10-09",
+    "gn:name":"Liden",
     "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
     "iso:country":"SE",
     "lbl:bbox":"16.78,62.68,16.82,62.72",
     "lbl:latitude":62.7,
@@ -53,6 +68,9 @@
         "Liden"
     ],
     "name:nob_x_preferred":[
+        "Liden"
+    ],
+    "name:nor_x_preferred":[
         "Liden"
     ],
     "name:pol_x_preferred":[
@@ -108,6 +126,11 @@
         "qs_pg:id":983879,
         "wd:id":"Q1821497"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            2696351
+        ]
+    },
     "wof:country":"SE",
     "wof:created":1497296565,
     "wof:geomhash":"c5d3323ea3b265d216980afc271117a4",
@@ -122,7 +145,7 @@
         }
     ],
     "wof:id":1125923561,
-    "wof:lastmodified":1690863234,
+    "wof:lastmodified":1706240660,
     "wof:name":"Liden",
     "wof:parent_id":1125325963,
     "wof:placetype":"locality",
@@ -130,7 +153,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343329527
+    ],
     "wof:tags":[]
 },
   "bbox": [

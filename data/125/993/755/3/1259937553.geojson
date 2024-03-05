@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"17.34889,62.45806,17.34889,62.45806",
@@ -29,7 +31,7 @@
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Sundsbruk"
@@ -82,14 +84,16 @@
         }
     ],
     "wof:id":1259937553,
-    "wof:lastmodified":1566643859,
+    "wof:lastmodified":1706240659,
     "wof:name":"Sundsbruk",
     "wof:parent_id":1125325981,
     "wof:placetype":"locality",
     "wof:population":2098,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-se",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101839533
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

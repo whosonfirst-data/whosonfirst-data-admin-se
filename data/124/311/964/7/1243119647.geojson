@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"12.63333,56.1,12.63333,56.1",
@@ -29,7 +31,7 @@
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:ita_x_preferred":[
         "Hittarp"
@@ -79,14 +81,16 @@
         }
     ],
     "wof:id":1243119647,
-    "wof:lastmodified":1566643695,
+    "wof:lastmodified":1706240658,
     "wof:name":"Hittarp",
     "wof:parent_id":1125372751,
     "wof:placetype":"locality",
     "wof:population":4545,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-se",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101816615
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

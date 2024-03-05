@@ -42,6 +42,11 @@
     "wof:concordances":{
         "gn:id":2697745
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3327351
+        ]
+    },
     "wof:country":"SE",
     "wof:geomhash":"c04e2a3f1ddf877287f7867352005137",
     "wof:hierarchy":[
@@ -55,13 +60,15 @@
         }
     ],
     "wof:id":1242828669,
-    "wof:lastmodified":1566643657,
+    "wof:lastmodified":1706240660,
     "wof:name":"Landangen",
     "wof:parent_id":1159306897,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276298677
+    ],
     "wof:tags":[]
 },
   "bbox": [

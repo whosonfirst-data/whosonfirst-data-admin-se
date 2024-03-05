@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"24.10486,65.85307,24.10486,65.85307",
@@ -30,7 +32,7 @@
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:ita_x_preferred":[
         "Marielund"
@@ -67,14 +69,16 @@
         }
     ],
     "wof:id":1259753581,
-    "wof:lastmodified":1566643933,
+    "wof:lastmodified":1706240659,
     "wof:name":"Marielund",
     "wof:parent_id":1125325185,
     "wof:placetype":"locality",
     "wof:population":1726,
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-se",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101839187
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

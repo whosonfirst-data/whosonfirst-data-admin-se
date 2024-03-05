@@ -9,7 +9,24 @@
     "geom:bbox":"16.220002,56.671177,16.259295,56.689153",
     "geom:latitude":56.67995,
     "geom:longitude":16.237637,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"880.0",
+    "gn:admin3_code":"88003.0",
+    "gn:admin4_code":"796.0",
+    "gn:asciiname":"Smedby",
+    "gn:country_code":"SE",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2676596,
+    "gn:latitude":56.67413,
+    "gn:longitude":16.2432,
+    "gn:modification_date":"2017-03-18",
+    "gn:name":"Smedby",
+    "gn:population":3607,
+    "gn:timezone":"Europe/Stockholm",
     "iso:country":"SE",
+    "lbl:bbox":"16.2232,56.65413,16.2632,56.69413",
     "lbl:latitude":56.680061,
     "lbl:longitude":16.237339,
     "lbl:max_zoom":18.0,
@@ -82,6 +99,7 @@
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
     "wd:wordcount":45,
     "wof:belongsto":[
         85688401,
@@ -100,7 +118,15 @@
         "wk:page":"Smedby"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":953177
+        "gn:id":[
+            2676596
+        ],
+        "qs_pg:id":[
+            953177
+        ],
+        "wk:page":[
+            "Smedby"
+        ]
     },
     "wof:country":"SE",
     "wof:geom_alt":[
@@ -121,13 +147,17 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1690863040,
+    "wof:lastmodified":1706240658,
     "wof:name":"Smedby",
     "wof:parent_id":1125356405,
     "wof:placetype":"locality",
+    "wof:population":3607,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343246007
+    ],
     "wof:tags":[]
 },
   "bbox": [

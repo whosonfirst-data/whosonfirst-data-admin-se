@@ -9,7 +9,22 @@
     "geom:bbox":"13.168839,55.576123,13.197626,55.588031",
     "geom:latitude":55.581585,
     "geom:longitude":13.182217,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"1263.0",
+    "gn:asciiname":"Bara",
+    "gn:country_code":"SE",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2723489,
+    "gn:latitude":55.58155,
+    "gn:longitude":13.17862,
+    "gn:modification_date":"2017-03-18",
+    "gn:name":"Bara",
+    "gn:population":3743,
+    "gn:timezone":"Europe/Stockholm",
     "iso:country":"SE",
+    "lbl:bbox":"13.15862,55.56155,13.19862,55.60155",
     "lbl:latitude":55.582559,
     "lbl:longitude":13.182217,
     "lbl:max_zoom":18.0,
@@ -85,6 +100,7 @@
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
     "wd:wordcount":171,
     "wof:belongsto":[
         85688377,
@@ -103,7 +119,15 @@
         "wk:page":"Bara, Sweden"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1267925
+        "gn:id":[
+            2723489
+        ],
+        "qs_pg:id":[
+            1267925
+        ],
+        "wk:page":[
+            "Bara%2C_Sweden"
+        ]
     },
     "wof:country":"SE",
     "wof:geom_alt":[
@@ -124,13 +148,17 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1690863100,
+    "wof:lastmodified":1706240659,
     "wof:name":"Bara",
     "wof:parent_id":1159306805,
     "wof:placetype":"locality",
+    "wof:population":3743,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327484647
+    ],
     "wof:tags":[]
 },
   "bbox": [

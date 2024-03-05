@@ -9,7 +9,24 @@
     "geom:bbox":"17.398827,62.409597,17.433521,62.452811",
     "geom:latitude":62.428735,
     "geom:longitude":17.41556,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2281.0",
+    "gn:admin3_code":"228104.0",
+    "gn:admin4_code":"2448.0",
+    "gn:asciiname":"Vi",
+    "gn:country_code":"SE",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3336565,
+    "gn:latitude":62.43333,
+    "gn:longitude":17.41667,
+    "gn:modification_date":"2017-03-18",
+    "gn:name":"Vi",
+    "gn:population":5841,
+    "gn:timezone":"Europe/Stockholm",
     "iso:country":"SE",
+    "lbl:bbox":"17.39667,62.41333,17.43667,62.45333",
     "lbl:latitude":62.426629,
     "lbl:longitude":17.415297,
     "lbl:max_zoom":18.0,
@@ -32,6 +49,9 @@
         "Vi"
     ],
     "name:frr_x_preferred":[
+        "Vi"
+    ],
+    "name:ita_x_preferred":[
         "Vi"
     ],
     "name:nan_x_preferred":[
@@ -90,6 +110,7 @@
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
     "wd:wordcount":47,
     "wof:belongsto":[
         85688457,
@@ -108,7 +129,15 @@
         "wk:page":"Vi, Sweden"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1025556
+        "gn:id":[
+            3336565
+        ],
+        "qs_pg:id":[
+            1025556
+        ],
+        "wk:page":[
+            "Vi%2C_Sweden"
+        ]
     },
     "wof:country":"SE",
     "wof:geom_alt":[
@@ -129,13 +158,17 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1690863190,
+    "wof:lastmodified":1706240657,
     "wof:name":"Vi",
     "wof:parent_id":1125363709,
     "wof:placetype":"locality",
+    "wof:population":5841,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-se",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310161139
+    ],
     "wof:tags":[]
 },
   "bbox": [
